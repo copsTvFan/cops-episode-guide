@@ -3,8 +3,12 @@
 This is a fork of William "Thrawn" Wolf III's original ["Cops on Fox"
 guide](http://www.geocities.ws/copsonfox/), hosted on geocities.
 
-This version contains fixes, has better design and hosting, and will
-eventually cover seasons 21 through 33.
+This version contains fixes, has better design and hosting, and will eventually
+cover seasons 21 through 33.
+
+Note that this is still a work in progress. [Pull
+requests](https://github.com/copsTvFan/cops-episode-guide/pulls) and emails
+welcome (`copsTvFan` *at* `protonmail.com`).
 
 ## Season 1 (1989)
 
