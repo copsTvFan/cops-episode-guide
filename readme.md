@@ -203,233 +203,256 @@ Aired 1989-03-25.
 
 Aired 1989-04-01.
 
-**Broward County FL 4** (District 2) Deputy Willie Washington talks to students
-at Boyd H. Anderson high school where he used to teach. He says some kids that
-don't have role models look to those they see with big chains and BMWs. (Street
-Patrol) He's arrested 3 of his former students and spots another and has him
-drop and give him 20 pushups. If they are going to be just hanging out they
-need to exercise. He says to the students not to let him catch them dirty or
-he'll do what he has to. He drives and spots 3 black guys hanging out and has
-them get on his car. Backup comes and they check them out. One guy tries to run
-and is tackled and cuffed. The other two are also cuffed. One holds the dope
-and the other holds the money. Back in school he says dealers have no
-longevity, they don't care. 16 year olds dealing shoot people just for looking
-at them. Be careful where you go or you could get jacked. At night he stops a
-white guy in a bad area and tells him he could get jumped by 8 or 9 guys. He
-points him out and says not to come back. In school he says they can see him
-now or later, but later they will be cuffed. At a basketball game Deputy Linda
-Canada watches Jerry play, says he's a good father to her kids and can't wait
-to marry him. They win 61 to 57. Later Linda tries on wedding dresses at the
-bridal shop. Prostitution Sting Briefing - organized crimes division. The Sgt.
-tells them to make sure the door is locked, latch it. One officer calls home,
-she forgot her gun and someone is coming to get it and she wants them to bring
-back her fur coat. The signal is when she takes an orange flower out of her
-hair. They do the stings to get rid of the street crime. Merchants don't want
-whores in front of their businesses. Linda tries to think about how the girls
-she busts walks, moves and talks and tries to imitate them. A car stops with 2
-guys who want her to do them both at the same time. Linda says he couldn't
-handle it. The guy replies, "then he'll die trying." She then gets a car, sex
-for $20 and to meet at her hotel. The guy doesn't want to go to the hotel, he
-wants to do it right there. She goes around to the door and the cops bust him.
-Linda says it was fun. She has tight black pants and heels. Some of the guys
-pull up she wonders why they would do this. They are good looking and have
-jobs. Sometimes she won't even look at them and tries not to think about what
-happens to them - if it ruins their life or marriage. They are taken to jail.
-Some are given NTAs and some have to wait to bond out. At the next car Linda
-says one or both for $25. He pulls around to the hotel and asks a couple times
-where to park and reaches under the seat. She is nervous and has them bust him
-outside. They find a bag of coke and arrest him. It is a 2nd degree misdemeanor
-in FL for solicitation. They show the bust from the monitor and Linda laughs
-and leaves. Cops cut up plywood with a circular saw on a bench for a Trojan
-horse sting. They attach it across the back of a pickup truck and cover it with
-palm fronds and tie it down with line leaving the bottom open for them to hide
-inside. Sgt. Robert Deak says they used to cover foxholes with this stuff when
-he was a marine in Vietnam. Drug Force Task Briefing - next day. They spray
-'Nick's Trash Pik-Up' on the side. They knock on the window to get their
-attention and a honk is the signal. One black guy sells them drugs and then
-runs. They catch him. 2nd bust catches two guys. 3rd bust requires them to jump
-out and pull their guns on a car who rams the police. They pull him out through
-the window. 4th bust is an older balding guy, they check his mouth and cuff
-him. If you are with someone buying crack you can get busted. They cut the
-passenger loose. Afterwards they go to a restaurant to eat. One guy is leaving
-the team after a year. He's enjoyed it a lot. They have a toast for his
-birthday and goof on Deak about wearing the pants in his family. He says he's
-the boss, then his wife comes up and surprises him.
+**Broward County FL 4**
+
+- (District 2) Deputy Willie Washington talks to students at Boyd H. Anderson
+  high school where he used to teach. He says some kids that don't have role
+  models look to those they see with big chains and BMWs.
+- (Street Patrol) He's arrested 3 of his former students and spots another and
+  has him drop and give him 20 pushups. If they are going to be just hanging
+  out they need to exercise. He says to the students not to let him catch them
+  dirty or he'll do what he has to. He drives and spots 3 black guys hanging
+  out and has them get on his car. Backup comes and they check them out. One
+  guy tries to run and is tackled and cuffed. The other two are also cuffed.
+  One holds the dope and the other holds the money. Back in school he says
+  dealers have no longevity, they don't care. 16 year olds dealing shoot people
+  just for looking at them. Be careful where you go or you could get jacked. At
+  night he stops a white guy in a bad area and tells him he could get jumped by
+  8 or 9 guys. He points him out and says not to come back. In school he says
+  they can see him now or later, but later they will be cuffed. At a basketball
+  game Deputy Linda Canada watches Jerry play, says he's a good father to her
+  kids and can't wait to marry him. They win 61 to 57. Later Linda tries on
+  wedding dresses at the bridal shop.
+- Prostitution Sting Briefing - organized crimes division. The Sgt.  tells them
+  to make sure the door is locked, latch it. One officer calls home, she forgot
+  her gun and someone is coming to get it and she wants them to bring back her
+  fur coat. The signal is when she takes an orange flower out of her hair. They
+  do the stings to get rid of the street crime. Merchants don't want whores in
+  front of their businesses. Linda tries to think about how the girls she busts
+  walks, moves and talks and tries to imitate them. A car stops with 2 guys who
+  want her to do them both at the same time. Linda says he couldn't handle it.
+  The guy replies, "then he'll die trying." She then gets a car, sex for $20
+  and to meet at her hotel. The guy doesn't want to go to the hotel, he wants
+  to do it right there. She goes around to the door and the cops bust him.
+  Linda says it was fun. She has tight black pants and heels. Some of the guys
+  pull up she wonders why they would do this. They are good looking and have
+  jobs. Sometimes she won't even look at them and tries not to think about what
+  happens to them - if it ruins their life or marriage. They are taken to jail.
+  Some are given NTAs and some have to wait to bond out. At the next car Linda
+  says one or both for $25. He pulls around to the hotel and asks a couple
+  times where to park and reaches under the seat. She is nervous and has them
+  bust him outside. They find a bag of coke and arrest him. It is a 2nd degree
+  misdemeanor in FL for solicitation. They show the bust from the monitor and
+  Linda laughs and leaves. Cops cut up plywood with a circular saw on a bench
+  for a Trojan horse sting. They attach it across the back of a pickup truck
+  and cover it with palm fronds and tie it down with line leaving the bottom
+  open for them to hide inside. Sgt. Robert Deak says they used to cover
+  foxholes with this stuff when he was a marine in Vietnam.
+- Drug Force Task Briefing - next day. They spray 'Nick's Trash Pik-Up' on the
+  side. They knock on the window to get their attention and a honk is the
+  signal. One black guy sells them drugs and then runs. They catch him. 2nd
+  bust catches two guys. 3rd bust requires them to jump out and pull their guns
+  on a car who rams the police. They pull him out through the window. 4th bust
+  is an older balding guy, they check his mouth and cuff him. If you are with
+  someone buying crack you can get busted. They cut the passenger loose.
+  Afterwards they go to a restaurant to eat. One guy is leaving the team after
+  a year. He's enjoyed it a lot. They have a toast for his birthday and goof on
+  Deak about wearing the pants in his family. He says he's the boss, then his
+  wife comes up and surprises him.
 
 ### S01E05
 
 Aired 1989-04-08.
 
-**Broward County FL 5** (SWAT Team) Agents are working out - jumping jacks,
-pushups, windmills. Sgt. Steve Canfield says they like to think they are the
-elites, but some think they hare hot dogs. They wear camo and run through a
-course, crawl, run on logs, climb walls. Most search warrants they expect them
-to be armed, that's why they are there. They do a hostage rescue, smoke
-grenades, and a live fire exercise with Sheriff Nick Navarro. The 365-KBD plate
-is checked on a car they are going to buy from. The dealer is wearing a red
-shirt as they pull up to a strip mall, take him down and arrest him. They take
-him back to the station - he says he’s been using since age 13, did 2 years
-when he was 17, 3 years at age 22 and crack is the worst drug ever. He was
-addicted to it 5 seconds after the first time. He’s also addicted to coke,
-heroin, pot 1st, alcohol, anything. He only commits crimes because of drugs,
-never had a job his whole life, gets money by conning, scamming scheming since
-he’s a scumbag. He's married, she's in Boston, has 2 kids. She left him because
-of the drugs. The area is real bad, lots of kids on the beach with 14 year olds
-dealing. He cries because he wants to get his life straight. Deputy Linda
-Canada is in her car. (District 1 Street Patrol) She feels sorry for the whores
-sometimes. She stops a girl walking the street who says she is just going home
-even though she's hanging out in front of a saloon all the time. Linda tells
-her no flagging down cars or loitering and lets her go. She busts another woman
-as the husband watches. She flags down cars and says she needs a ride or wants
-to party. Linda takes her back at the station. She says she didn't deal and has
-no money. She is 33 years old, been doing it all her life and was born in 1952.
-They are going to arrest her husband and the 2 other girls. Linda wants her to
-sign a paper against her husband. She says she won't sign something she didn't
-do and loses anyway. She says her husband battered her, she has no money and
-can't get away. She says they are making her sign it and wails and moans. It
-doesn't matter, she’s going to jail anyway. She wants to know why she's getting
-a $100,000 bond, it’s for lying. Linda doesn't feel anything toward these
-girls, they cry that they will do better, lie to the judge, then go back out
-and do it again. She stops a girl in a Guns N' Roses cowboy hat with buttons on
-it for flagging down a car. Michelle is 19 and says she has a real job and
-doesn't solicit. Linda looks into her purse and asks when the last time she
-smoked crack was. Linda finds a mirror with coke residue on it. She doesn't
-have a license, but she cuts her loose. (2:30 PM Start of Shift) Deputy Mike
-Hoffman is at home with his wife and daughter. She gets in the car and makes a
-siren noise. He says he's going to Nashville and will bring her back a shirt.
-She wants a green one, only 1 per trip. (5:45 pm Injured Animal) It's a brown
-dog, but seems to be all right. (6:03 pm Bomb Threat) They go to a restaurant
-and everyone is outside, it could be a hoax, but you never know. They go inside
-and check it out. He jokes about an alarm clock there. (8:15) Mike drives to a
-church and he is supposed to be inside. Two people meet them outside. Mickey
-goes in the front and Mike and another go in the back. He is a scruffy black
-man in the last pew. They take him out without incident. He was supposed to
-have a gun. They check him and it's a giant hair pick. Leroy is upset, says you
-don't do that in church. He is pissed off. He says someone saw him go into his
-jacket. Mike brings a pastor over to talk to him. No one knows him and they
-were just checking.
+**Broward County FL 5**
+
+- (SWAT Team) Agents are working out - jumping jacks, pushups, windmills. Sgt.
+  Steve Canfield says they like to think they are the elites, but some think
+  they hare hot dogs. They wear camo and run through a course, crawl, run on
+  logs, climb walls. Most search warrants they expect them to be armed, that's
+  why they are there. They do a hostage rescue, smoke grenades, and a live fire
+  exercise with Sheriff Nick Navarro. The 365-KBD plate is checked on a car
+  they are going to buy from. The dealer is wearing a red shirt as they pull up
+  to a strip mall, take him down and arrest him. They take him back to the
+  station - he says he’s been using since age 13, did 2 years when he was 17, 3
+  years at age 22 and crack is the worst drug ever. He was addicted to it 5
+  seconds after the first time. He’s also addicted to coke, heroin, pot 1st,
+  alcohol, anything. He only commits crimes because of drugs, never had a job
+  his whole life, gets money by conning, scamming scheming since he’s a
+  scumbag. He's married, she's in Boston, has 2 kids. She left him because of
+  the drugs. The area is real bad, lots of kids on the beach with 14 year olds
+  dealing. He cries because he wants to get his life straight. Deputy Linda
+  Canada is in her car.
+- (District 1 Street Patrol) She feels sorry for the whores sometimes. She
+  stops a girl walking the street who says she is just going home even though
+  she's hanging out in front of a saloon all the time. Linda tells her no
+  flagging down cars or loitering and lets her go. She busts another woman as
+  the husband watches. She flags down cars and says she needs a ride or wants
+  to party. Linda takes her back at the station. She says she didn't deal and
+  has no money. She is 33 years old, been doing it all her life and was born in
+  1952. They are going to arrest her husband and the 2 other girls. Linda
+  wants her to sign a paper against her husband. She says she won't sign
+  something she didn't do and loses anyway. She says her husband battered her,
+  she has no money and can't get away. She says they are making her sign it and
+  wails and moans. It doesn't matter, she’s going to jail anyway. She wants to
+  know why she's getting a $100,000 bond, it’s for lying. Linda doesn't feel
+  anything toward these girls, they cry that they will do better, lie to the
+  judge, then go back out and do it again. She stops a girl in a Guns N' Roses
+  cowboy hat with buttons on it for flagging down a car. Michelle is 19 and
+  says she has a real job and doesn't solicit. Linda looks into her purse and
+  asks when the last time she smoked crack was. Linda finds a mirror with coke
+  residue on it. She doesn't have a license, but she cuts her loose.
+- (2:30 PM Start of Shift) Deputy Mike Hoffman is at home with his wife and
+  daughter. She gets in the car and makes a siren noise. He says he's going to
+  Nashville and will bring her back a shirt.  She wants a green one, only 1 per
+  trip.
+- (5:45 pm Injured Animal) It's a brown dog, but seems to be all right.
+- (6:03 pm Bomb Threat) They go to a restaurant and everyone is outside, it
+  could be a hoax, but you never know. They go inside and check it out. He
+  jokes about an alarm clock there.
+- (8:15) Mike drives to a church and he is supposed to be inside. Two people
+  meet them outside. Mickey goes in the front and Mike and another go in the
+  back. He is a scruffy black man in the last pew. They take him out without
+  incident. He was supposed to have a gun. They check him and it's a giant hair
+  pick. Leroy is upset, says you don't do that in church. He is pissed off. He
+  says someone saw him go into his jacket. Mike brings a pastor over to talk to
+  him. No one knows him and they were just checking.
 
 ### S01E06
 
 Aired 1989-04-15.
 
-**Broward County FL 6**  (Pre-Super Bowl Prostitution Sweeps) Capt. Ron
-Cacciatore goes to a house S06E01 called 'Cherry's' with all girl staff. He rings
-the bell and is let in. He finds three scantily clad women and one who covers
-herself up and when asked what the place is for she says it is her first day
-and she is a dancer. He asks what the bed in the living room is for and she
-says it is not a bed it is a sofa where people sit and get dances. He says she
-knows a lot for someone whose first day it is. She gets all snotty about it.
-They dump another woman's purse and it is full of Trojan condoms. He asks if
-that is for safe dancing? She says she is single and likes to be prepared on
-dates. They find private champagne rooms for two - pick your lady,  house
-champagne included $69 for 1/2 an hour or $129 for an hour. They also find
-unused tanning beds and massage parlor rooms. 24 year old says she just dances,
-doesn't know about other girls. They offer body rubs, you get naked and they
-rub you down, working their way to your private area. (Pre Super Bowl Drug
-Sting) Kids are out in the street so they have to get them inside to clear the
-area of 8th avenue and 10th street. A white guy walks up to the undercover
-dealer and buys, so they take him down. He's a big guy so he fights and won't
-turn over. They can't find the rock he dropped. A mother says her baby can't
-sleep at night because so many people go through, one time someone shot through
-their window. She is glad the cops are there and it's exciting to watch and
-hopes they'll come back. They ask one old black guy why he's buying crack and
-he says he's going to get help. They target areas and buy from them to get rid
-of them. They have to move around and sooner or later they'll go to jail. One
-black guy says he studied law at Rutgers for 2 years. Ron goofs on him says he
-can represent the other druggies. (11:37 PM Drug Operation Sting) They bust a
-woman and a man in a yellow car with their baby Christopher in a bag. They tell
-the woman they are going to take the kid and she begs to take her to her moms
-house. She says she was only driving, her husband was buying. HRS takes the
-baby, takes their pictures and she cries saying she won't do it again. The guy
-is cuffed and curses and fights, saying they are treating him like a pig. They
-ask her if they have diapers in the car because the kid is dirty. The car is so
-full of trash they have trouble even finding the diapers. They say she lives in
-the car. She says she lives with her cousin on Dixie Hwy. A female cop changes
-the diaper and the grandmother says she knows her daughter has a crack problem.
-She takes the baby to HRS. They ask what she wants and who the cameras are. She
-says a film crew. The manager wants the camera out, so they go outside and film
-through the door. They say she has to fill out a report. The cop says there is
-nowhere for him to sleep. She leaves crying at the conditions there. No crib,
-no blanket, nothing. Super Bowl Sunday (4:30 Domestic Violence Call) Deputy
-Mike Hoffman talks to a woman who says her guy isn't scared of jail. She has to
-file to get rid of him, but won't do it. (5:10 PM Possible Gang Fight) Mike
-says he'll never finish the shift with only 5 cigarettes. They go and arrest a
-bunch of guys, check their trunk and find 3 baseball bats, spiked armbands and
-box cutters. Linda backs him up. Mike then plays Double Dragon with a small
-black kid in a Circle K store. He gets a call and has to go. (7:16 PM Domestic
-Violence Call) Mike goes back to the girl from before who says Ward came up and
-attacked her and ripped her clothes. She is a fat white woman and he is a
-stringy, wiry black man. He calls her a bitch. She told him she doesn't want to
-be with him anymore, but the judge let him out. He wants to hurt her and tried
-to choke her. They can't take him to jail for that. They can fill out a report,
-but she has to press charges. They take pictures. If they cut him loose, they
-know he'll come back. After Mike is watching the 49ers and Bengals play on a TV
-in his car.
+**Broward County FL 6**
+
+- (Pre-Super Bowl Prostitution Sweeps) Capt. Ron Cacciatore goes to a house
+  S06E01 called 'Cherry's' with all girl staff. He rings the bell and is let
+  in. He finds three scantily clad women and one who covers herself up and when
+  asked what the place is for she says it is her first day and she is a dancer.
+  He asks what the bed in the living room is for and she says it is not a bed
+  it is a sofa where people sit and get dances. He says she knows a lot for
+  someone whose first day it is. She gets all snotty about it.  They dump
+  another woman's purse and it is full of Trojan condoms. He asks if that is
+  for safe dancing? She says she is single and likes to be prepared on dates.
+  They find private champagne rooms for two - pick your lady,  house champagne
+  included $69 for 1/2 an hour or $129 for an hour. They also find unused
+  tanning beds and massage parlor rooms. 24 year old says she just dances,
+  doesn't know about other girls. They offer body rubs, you get naked and they
+  rub you down, working their way to your private area.
+- (Pre Super Bowl Drug Sting) Kids are out in the street so they have to get
+  them inside to clear the area of 8th avenue and 10th street. A white guy
+  walks up to the undercover dealer and buys, so they take him down. He's a big
+  guy so he fights and won't turn over. They can't find the rock he dropped. A
+  mother says her baby can't sleep at night because so many people go through,
+  one time someone shot through their window. She is glad the cops are there
+  and it's exciting to watch and hopes they'll come back. They ask one old
+  black guy why he's buying crack and he says he's going to get help. They
+  target areas and buy from them to get rid of them. They have to move around
+  and sooner or later they'll go to jail. One black guy says he studied law at
+  Rutgers for 2 years. Ron goofs on him says he can represent the other
+  druggies.
+- (11:37 PM Drug Operation Sting) They bust a woman and a man in a yellow car
+  with their baby Christopher in a bag. They tell the woman they are going to
+  take the kid and she begs to take her to her moms house. She says she was
+  only driving, her husband was buying. HRS takes the baby, takes their
+  pictures and she cries saying she won't do it again. The guy is cuffed and
+  curses and fights, saying they are treating him like a pig. They ask her if
+  they have diapers in the car because the kid is dirty. The car is so full of
+  trash they have trouble even finding the diapers. They say she lives in the
+  car. She says she lives with her cousin on Dixie Hwy. A female cop changes
+  the diaper and the grandmother says she knows her daughter has a crack
+  problem.  She takes the baby to HRS. They ask what she wants and who the
+  cameras are. She says a film crew. The manager wants the camera out, so they
+  go outside and film through the door. They say she has to fill out a report.
+  The cop says there is nowhere for him to sleep. She leaves crying at the
+  conditions there. No crib, no blanket, nothing. Super Bowl Sunday
+- (4:30 Domestic Violence Call) Deputy Mike Hoffman talks to a woman who says
+  her guy isn't scared of jail. She has to file to get rid of him, but won't do
+  it.
+- (5:10 PM Possible Gang Fight) Mike says he'll never finish the shift with
+  only 5 cigarettes. They go and arrest a bunch of guys, check their trunk and
+  find 3 baseball bats, spiked armbands and box cutters. Linda backs him up.
+  Mike then plays Double Dragon with a small black kid in a Circle K store. He
+  gets a call and has to go.
+- (7:16 PM Domestic Violence Call) Mike goes back to the girl from before who
+  says Ward came up and attacked her and ripped her clothes. She is a fat white
+  woman and he is a stringy, wiry black man. He calls her a bitch. She told him
+  she doesn't want to be with him anymore, but the judge let him out. He wants
+  to hurt her and tried to choke her. They can't take him to jail for that.
+  They can fill out a report, but she has to press charges. They take pictures.
+  If they cut him loose, they know he'll come back. After Mike is watching the
+  49ers and Bengals play on a TV in his car.
 
 ### S01E07
 
 Aired 1989-04-22.
 
-**Broward County FL 7** (Roll Call) District 1 - The captain plays a tape of a
-call from 1/15/89 on the radio where an officer yells out “wahwaaar!” and he
-tells them he'll castrate the next person who does that, the main offender is
-not there and it is poor police work. There is also a blood drive on 1/17 and
-remember you can’t get AIDS from giving blood. The 4th annual Pig Bowl is also
-coming up. (3:05 PM 911 Call) Deputy Linda Canada takes the call of a small
-black boy who called that he is afraid to go to sleep because he is alone with
-his little sister. Mom went to the store and he got scared. The neighbors come
-over and the older brother comes home from school, and can’t believe he called.
-(4:18 PM) Linda stops a whore, Kathleen, with Trojan condoms and tissues on
-her. What are they for if she's not a whore? She just arrested her on Sunday.
-The whore asks what’s going on and claims she was just walking down the street
-after eating at Burger King. The tissues are for a cold, Sunday was the first
-time she was arrested, that’s a lie. Kathleen says to check her out. Linda
-doesn’t have to listen to her after she saw her flag down a car. Tony her black
-pimp comes over and asks what’s going on. He says Kath is her girlfriend. He
-denies she is a whore, Linda saw her and she’ll be at jail. (Pig Bowl Annual
-Charity Event) Sheriff Nick Navarro addresses the children in wheelchairs about
-the football game. It’s professional game at Fort Lauderdale Lockhart Stadium,
-uniforms, cheerleaders, etc. The Heat in white are the Broward County Sheriff’s
-police and they are playing the Legal Eagles in orange – Defense Attorneys
-(lawyers), like last year. Linda tells a girl to root for The Heat. Highlights
-are shown including #6 Hicks on the Heat running back the kickoff, Nick
-coaching, cops cursing, #68 on the Heat injuring his leg, #17 on the Eagles
-getting hurt, and #6 rushing for a touchdown. The Heat wins 12 to 9 and Coach
-Nick gets dunked with water by #11 and #54. It’s cold and he’s shocked. The
-charities will be as happy as a pig in a poke. (Street Patrol) District 9 -
-Deputy Jim Fondo stops and calls Kelly over from an ice cream place. Her mom is
-supposed to be getting out of jail tonight. She got 18 months for cocaine and
-she does some coke too since there’s nothing illegal about getting high. She
-doesn’t prostitute on the streets, she has regular guys who just take pictures.
-He warned her before and doesn’t want to catch her dong anything wrong. (8:20
-PM Shoplifting Call) They race to a store where a black couple send in their
-young brother and sister inside to steal steak. On the way out the manager
-stopped them and the older brother fought and punched him and he chased him
-around the back where the car was. The wife left him. The kid says he was told
-to steal pork chops. He told him to just hold it and walk out. They are told
-stealing is a bad thing and the manager got hurt The cops let the kids go
-because they were put up to it. Later Jim finds Kelly on the street again.
-She’s not working, hopes her mom is straight when she gets out, but she isn’t
-straight, if she is it’ll help her. She is 16 and has been on the streets since
-she was 13. She still claims she hasn’t broken laws, gets high, doesn’t sell
-drugs done nothing wrong. He says she should be in school. She guesses she grew
-up different. Jim goes home and is greeted by his wife and kids. He asks a kid
-what she did at school. She says she colored. Lt. Bob Rios says his unit’s job
-is getting drunks off the street. This month they've gotten 78, 67 other
-arrests – narcotics or weapons, plus 601 citations. (D.U.I. Task Force) Deputy
-Chris Wagoneer is looking for signs of DUI’s – weaving, going over a curb.
-(8:45 PM DUI Stop) He is given a field sobriety test. He makes Mr. Crawley do 9
-steps forward heel to toe. He counts them out in a British accent, but does 10
-steps. He screws up the alphabet test by going “abcdfghijlmopqrstovu… probably
-xyz.” Good enough. When asked to touch his finger to the tip of his nose he
-gets pissed off, says it’s crap, he won’t do it and fails that test too. (1:00
-AM Hit & Run Investigation) A Datsun 280Z hits a jaywalking crossing the street
-and takes off. Witnesses get the license plate number. (4:00 AM Hit & Run
-Suspect) They caught the driver and bring him in. He was DUI and swerved to hit
-or miss the guy, but couldn’t do it. Jim’s job is hard when he tells parents
-their kid was killed in a DWI, but now he works on stopping them before they
-kill.
+**Broward County FL 7**
+
+- (Roll Call) District 1 - The captain plays a tape of a call from 1/15/89 on
+  the radio where an officer yells out “wahwaaar!” and he tells them he'll
+  castrate the next person who does that, the main offender is not there and it
+  is poor police work. There is also a blood drive on 1/17 and remember you
+  can’t get AIDS from giving blood. The 4th annual Pig Bowl is also coming up.
+- (3:05 PM 911 Call) Deputy Linda Canada takes the call of a small black boy
+  who called that he is afraid to go to sleep because he is alone with his
+  little sister. Mom went to the store and he got scared. The neighbors come
+  over and the older brother comes home from school, and can’t believe he
+  called.
+- (4:18 PM) Linda stops a whore, Kathleen, with Trojan condoms and tissues on
+  her. What are they for if she's not a whore? She just arrested her on Sunday.
+  The whore asks what’s going on and claims she was just walking down the
+  street after eating at Burger King. The tissues are for a cold, Sunday was
+  the first time she was arrested, that’s a lie. Kathleen says to check her
+  out. Linda doesn’t have to listen to her after she saw her flag down a car.
+  Tony her black pimp comes over and asks what’s going on. He says Kath is her
+  girlfriend. He denies she is a whore, Linda saw her and she’ll be at jail.
+- (Pig Bowl Annual Charity Event) Sheriff Nick Navarro addresses the children
+  in wheelchairs about the football game. It’s professional game at Fort
+  Lauderdale Lockhart Stadium, uniforms, cheerleaders, etc. The Heat in white
+  are the Broward County Sheriff’s police and they are playing the Legal Eagles
+  in orange – Defense Attorneys (lawyers), like last year. Linda tells a girl
+  to root for The Heat. Highlights are shown including #6 Hicks on the Heat
+  running back the kickoff, Nick coaching, cops cursing, #68 on the Heat
+  injuring his leg, #17 on the Eagles getting hurt, and #6 rushing for a
+  touchdown. The Heat wins 12 to 9 and Coach Nick gets dunked with water by #11
+  and #54. It’s cold and he’s shocked. The charities will be as happy as a pig
+  in a poke.
+- (Street Patrol) District 9 - Deputy Jim Fondo stops and calls Kelly over from
+  an ice cream place. Her mom is supposed to be getting out of jail tonight.
+  She got 18 months for cocaine and she does some coke too since there’s
+  nothing illegal about getting high. She doesn’t prostitute on the streets,
+  she has regular guys who just take pictures.  He warned her before and
+  doesn’t want to catch her dong anything wrong.
+- (8:20 PM Shoplifting Call) They race to a store where a black couple send in
+  their young brother and sister inside to steal steak. On the way out the
+  manager stopped them and the older brother fought and punched him and he
+  chased him around the back where the car was. The wife left him. The kid says
+  he was told to steal pork chops. He told him to just hold it and walk out.
+  They are told stealing is a bad thing and the manager got hurt The cops let
+  the kids go because they were put up to it. Later Jim finds Kelly on the
+  street again.  She’s not working, hopes her mom is straight when she gets
+  out, but she isn’t straight, if she is it’ll help her. She is 16 and has been
+  on the streets since she was 13. She still claims she hasn’t broken laws,
+  gets high, doesn’t sell drugs done nothing wrong. He says she should be in
+  school. She guesses she grew up different. Jim goes home and is greeted by
+  his wife and kids. He asks a kid what she did at school. She says she
+  colored. Lt. Bob Rios says his unit’s job is getting drunks off the street.
+  This month they've gotten 78, 67 other arrests – narcotics or weapons, plus
+  601 citations.
+- (D.U.I. Task Force) Deputy Chris Wagoneer is looking for signs of DUI’s –
+  weaving, going over a curb.
+- (8:45 PM DUI Stop) He is given a field sobriety test. He makes Mr. Crawley do
+  9 steps forward heel to toe. He counts them out in a British accent, but does
+  10 steps. He screws up the alphabet test by going “abcdfghijlmopqrstovu…
+  probably xyz.” Good enough. When asked to touch his finger to the tip of his
+  nose he gets pissed off, says it’s crap, he won’t do it and fails that test
+  too.
+- (1:00 AM Hit & Run Investigation) A Datsun 280Z hits a jaywalking crossing
+  the street and takes off. Witnesses get the license plate number.
+- (4:00 AM Hit & Run Suspect) They caught the driver and bring him in. He was
+  DUI and swerved to hit or miss the guy, but couldn’t do it. Jim’s job is hard
+  when he tells parents their kid was killed in a DWI, but now he works on
+  stopping them before they kill.
 
 ## S01E08
 
@@ -10326,99 +10349,155 @@ WA/Pittsburgh, PA/Santa Ana, CA/Spokane, WA/Travis County TX**
 
 Aired 2005-10-1.
 
-**Coast to Coast 82** (Lee County FL - 1:15 AM Car Pursuit) When officers respond to a home invasion robbery, they question the victims, who describe how an unknown suspect kicked in their front door and then demanded to see his wife. Las Vegas, NV/Pierce County WA
+**Coast to Coast 82**
+
+- (Lee County FL - 1:15 AM Car Pursuit) When officers respond to a home invasion robbery, they question the victims, who describe how an unknown suspect kicked in their front door and then demanded to see his wife.
+- Las Vegas, NV
+- Pierce County WA
 
 ### S18E02
 
 Aired 2005-12-3.
 
-**Coast to Coast 83** (Lee County FL - 8:53 PM Domestic Disturbance Call) Police respond to a domestic disturbance call and find a man who says he fears for his life because his wife is a belligerent, violent drunk. Las Vegas, NV/Fort Myers, FL
+**Coast to Coast 83**
+
+- (Lee County FL - 8:53 PM Domestic Disturbance Call) Police respond to a domestic disturbance call and find a man who says he fears for his life because his wife is a belligerent, violent drunk.
+- Las Vegas, NV
+- Fort Myers, FL
 
 ### S18E03
 
 Aired 2005-12-10.
 
-**Coast to Coast 84** (Las Vegas, NV - 10:01 PM Suspicious Vehicle) An officer stops a vehicle for a missing tail light and quickly discovers the driver is hiding a jar of methamphetamine. Lee County FL/Fort Worth, TX
+**Coast to Coast 84**
+
+- (Las Vegas, NV - 10:01 PM Suspicious Vehicle) An officer stops a vehicle for a missing tail light and quickly discovers the driver is hiding a jar of methamphetamine.
+- Lee County FL
+- Fort Worth, TX
 
 ### S18E04
 
 Aired 2005-11-5.
 
-**Coast to Coast 85** (Las Vegas, NV - 1:06 AM Suspicious Activity) A suspect pulled over for a traffic violation has felony warrants and tries to flee. Maricopa County AZ
+**Coast to Coast 85**
+
+- (Las Vegas, NV - 1:06 AM Suspicious Activity) A suspect pulled over for a traffic violation has felony warrants and tries to flee.
+- Maricopa County AZ
 
 ### S18E05
 
 Aired 2006-1-7.
 
-**Coast to Coast 86** (Las Vegas, NV - 9:41 PM Assistance Call) When an officer investigates a distress call from a nearby apartment complex, he attempts to detain an uncooperative male. Lee County FL
+**Coast to Coast 86**
+
+- (Las Vegas, NV - 9:41 PM Assistance Call) When an officer investigates a distress call from a nearby apartment complex, he attempts to detain an uncooperative male.
+- Lee County FL
 
 ### S18E06
 
 Aired 2006-1-14.
 
-**Coast to Coast 87** (Fort Myers, FL - 1:38 PM Man with a Gun/Should be AM) An officer responds to a call involving a concerned citizen who says he was approached by an armed man claiming to have used his gun in an bank robbery. Las Vegas, NV/Lee County FL
+**Coast to Coast 87**
+
+- (Fort Myers, FL - 1:38 PM Man with a Gun/Should be AM) An officer responds to a call involving a concerned citizen who says he was approached by an armed man claiming to have used his gun in an bank robbery.
+- Las Vegas, NV
+- Lee County FL
 
 ### S18E07
 
 Aired 2005-9-17.
 
-**Coast to Coast 88** (Gwinnett County GA - 6:05 PM Domestic Disturbance Call) Officers respond to a domestic disturbance call from a motel and find a woman irate with her boyfriend, whom she found in a truck with another woman. Las Vegas, NV/Maricopa County AZ
+**Coast to Coast 88**
+
+- (Gwinnett County GA - 6:05 PM Domestic Disturbance Call) Officers respond to a domestic disturbance call from a motel and find a woman irate with her boyfriend, whom she found in a truck with another woman.
+- Las Vegas, NV
+- Maricopa County AZ
 
 ### S18E08
 
 Aired 2005-9-10.
 
-**Coast to Coast 89** (Pittsburgh, PA - 12:22 AM Narcotics Surveillance) Narcotics Impact Squad - Sgt. Jason Snyder says his unit is a Vice task force doing street level narcotics intervention, looking for open air transactions. Travis Co, TX - a robbery call turns out to be a disturbance with a bunch of drunks. Gwinnett County GA - A man riding a bike is hit by a car and knocked into the woods.
+**Coast to Coast 89**
+
+- (Pittsburgh, PA - 12:22 AM Narcotics Surveillance) Narcotics Impact Squad - Sgt. Jason Snyder says his unit is a Vice task force doing street level narcotics intervention, looking for open air transactions.
+- Travis Co, TX - a robbery call turns out to be a disturbance with a bunch of drunks.
+- Gwinnett County GA - A man riding a bike is hit by a car and knocked into the woods.
 
 ### S18E09
 
 Aired 2005-9-24.
 
-**Coast to Coast 90** (Las Vegas, NV - 9:20 PM Disturbance Call) Police are dispatched to a fast-food restaurant where a disturbed man has reportedly threatened a customer. Lee County FL/Las Vegas, NV
+**Coast to Coast 90**
+
+- (Las Vegas, NV - 9:20 PM Disturbance Call) Police are dispatched to a fast-food restaurant where a disturbed man has reportedly threatened a customer.
+- Lee County FL
+- Las Vegas, NV
 
 ### S18E10
 
 Aired 2006-01-21.
 
-**Coast to Coast 91** (Fort Myers, FL - 2:32 PM Sting Briefing) Officers
-utilize a taxi in a sting designed to apprehend street-level drug dealers. Las
-Vegas, NV/Fresno, CA
+**Coast to Coast 91**
+
+- (Fort Myers, FL - 2:32 PM Sting Briefing) Officers utilize a taxi in a sting designed to apprehend street-level drug dealers.
+- Las Vegas, NV
+- Fresno, CA
 
 ### S18E11
 
 Aired 2006-1-28.
 
-**Coast to Coast 92** (Las Vegas, NV - 8:31 PM Suspicious Vehicle Call) When an officer responds to a vandalism call, he assists a man who has physically detained a young man who was involved in the incident. Travis County TX/Atlanta, GA
+**Coast to Coast 92**
+
+- (Las Vegas, NV - 8:31 PM Suspicious Vehicle Call) When an officer responds to a vandalism call, he assists a man who has physically detained a young man who was involved in the incident.
+- Travis County TX
+- Atlanta, GA
 
 ### S18E12
 
 Aired 2006-3-4.
 
-**Coast to Coast 93** (Santa Ana, CA - 11:09 PM Street Patrol) Officer goes to a gun range to qualify. Officers encounter a young male in a bad neighborhood and upon searching his person they find a cocked gun and bullets. Gwinnett County GA/Las Vegas, NV
+**Coast to Coast 93**
+
+- (Santa Ana, CA - 11:09 PM Street Patrol) Officer goes to a gun range to qualify. Officers encounter a young male in a bad neighborhood and upon searching his person they find a cocked gun and bullets.
+- Gwinnett County GA
+- Las Vegas, NV
 
 ### S18E13
 
 Aired 2005-11-26.
 
-**Las Vegas Heat 2 Special Edition** (8:59 PM Fight Call) Two male college students try to steal a flamingo from a hotel; a routine traffic stop turns into a prostitution arrest.
+**Las Vegas Heat 2 Special Edition**
+
+- (8:59 PM Fight Call) Two male college students try to steal a flamingo from a hotel; a routine traffic stop turns into a prostitution arrest.
 
 ### S18E14
 
 Aired 2006-2-11.
 
-**Las Vegas Heat 3 Special Edition** (1:02 AM Suspicious Activity) While on routine patrol, officers observe a female pedestrian allowing a male stranger to kiss and fondle her in public.
+**Las Vegas Heat 3 Special Edition**
+
+- (1:02 AM Suspicious Activity) While on routine patrol, officers observe a female pedestrian allowing a male stranger to kiss and fondle her in public.
 
 ### S18E15
 
 Aired 2006-2-25.
 
-**Coast to Coast 94** (Gwinnett County GA - 9:38 PM Possible Drug Activity) When officers see a driver fail to signal a lane change, they attempt to pull him over and a high-speed chase ensues. Las Vegas, NV/Travis County TX
+**Coast to Coast 94**
+
+- (Gwinnett County GA - 9:38 PM Possible Drug Activity) When officers see a driver fail to signal a lane change, they attempt to pull him over and a high-speed chase ensues.
+- Las Vegas, NV
+- Travis County TX
 
 ### S18E16
 
 Aired 2006-2-4.
 
-**Coast to Coast 95** (Gwinnett County GA - 10:01 PM Fight Call) When an officer arrives at a residence, blood-curdling screams are heard. Las Vegas, NV/Travis County TX
+**Coast to Coast 95**
+
+- (Gwinnett County GA - 10:01 PM Fight Call) When an officer arrives at a residence, blood-curdling screams are heard.
+- Las Vegas, NV
+- Travis County TX
 
 ### S18E17
 
@@ -10430,115 +10509,190 @@ Aired 2005-9-10.
 
 Aired 2006-2-4.
 
-**Coast to Coast 97** (Atlanta, GA - 2:29 AM Disturbance Call) When officers apprehend suspects in an area known for heroin dealing, the officers locate a bundle of drugs in a backpack. Pittsburgh, PA/Travis Co, TX
+**Coast to Coast 97**
+
+- (Atlanta, GA - 2:29 AM Disturbance Call) When officers apprehend suspects in an area known for heroin dealing, the officers locate a bundle of drugs in a backpack.
+- Pittsburgh, PA
+- Travis Co, TX
 
 ### S18E19
 
 Aired 2006-3-11.
 
-**Coast to Coast 98** (Pittsburgh, PA - 10:37 PM Traffic Stop) A suspect speeds away from police, and a high-speed chase ensues. Chattanooga, TN/Travis County TX
+**Coast to Coast 98**
+
+- (Pittsburgh, PA - 10:37 PM Traffic Stop) A suspect speeds away from police, and a high-speed chase ensues.
+- Chattanooga, TN
+- Travis County TX
 
 ### S18E20
 
 Aired 2006-5-20.
 
-**650th Milestone Episode Special Edition** (Chattanooga, TN - 6:37 PM Stolen Vehicle) Officers chase a vehicle reported stolen in Tennessee; police in Pennsylvania find three young males hiding illegal substances; police respond to a burglary and find the suspect in a bubble bath. Pittsburgh, PA/Spokane, WA
+**650th Milestone Episode Special Edition**
+
+- (Chattanooga, TN - 6:37 PM Stolen Vehicle) Officers chase a vehicle reported stolen in Tennessee
+- Pittsburgh, PA - police in Pennsylvania find three young males hiding illegal substances
+- Spokane, WA - police respond to a burglary and find the suspect in a bubble bath
 
 ### S18E21
 
 Aired 2006-3-25.
 
-**Coast to Coast 99** (Pittsburgh, PA - 8:29 PM Suspicious Activity) Officers respond to a call about a male burglar and find the suspect hiding on the roof of the home. Spokane, WA/Chattanooga, TN
+**Coast to Coast 99**
+
+- (Pittsburgh, PA - 8:29 PM Suspicious Activity) Officers respond to a call about a male burglar and find the suspect hiding on the roof of the home.
+- Spokane, WA
+- Chattanooga, TN
 
 ### S18E22
 
 Aired 2006-4-8.
 
-**Coast to Coast 100** (Pittsburgh, PA - 12:07 AM Street Patrol) Officers respond to a call about a man trying to sell or trade a juvenile female in exchange for crack cocaine. Spokane, WA/Anchorage, AK
+**Coast to Coast 100**
+
+- (Pittsburgh, PA - 12:07 AM Street Patrol) Officers respond to a call about a man trying to sell or trade a juvenile female in exchange for crack cocaine.
+- Spokane, WA
+- Anchorage, AK
 
 ### S18E23
 
 Aired 2005-11-12.
 
-**Bad Girls! 8 Special Edition** (Chattanooga, TN - 11:31 PM Street Patrol) When officers respond to a call about a switchblade wielding woman, they find a crack pipe and a male suspect who claims the woman was prostituting. Anchorage, AK/Las Vegas, NV
+**Bad Girls! 8 Special Edition**
+
+- (Chattanooga, TN - 11:31 PM Street Patrol) When officers respond to a call about a switchblade wielding woman, they find a crack pipe and a male suspect who claims the woman was prostituting.
+- Anchorage, AK
+- Las Vegas, NV
 
 ### S18E24
 
 Aired 2005-11-19.
 
-**In Harms Way Special Edition** (Anchorage, AK - 7:21 PM Domestic Disturbance Call) Pennsylvania officers find a driver with heroin; a drunken and possibly suicidal man begs officers in Alaska to shoot him. Pittsburgh, PA/Spokane, WA
+**In Harms Way Special Edition**
+
+- (Anchorage, AK - 7:21 PM Domestic Disturbance Call) Pennsylvania officers find a driver with heroin; a drunken and possibly suicidal man begs officers in Alaska to shoot him.
+- Pittsburgh, PA
+- Spokane, WA
 
 ### S18E25
 
 Aired 2006-4-15.
 
-**Coast to Coast 101** (Spokane, WA - 6:20 PM Man with a Weapon Call) A male suspect, apparently on drugs, forces police officers into a physical altercation. Pittsburgh, PA/Anchorage, AK
+**Coast to Coast 101**
+
+- (Spokane, WA - 6:20 PM Man with a Weapon Call) A male suspect, apparently on drugs, forces police officers into a physical altercation.
+- Pittsburgh, PA
+- Anchorage, AK
 
 ### S18E26
 
 Aired 2006-6-3.
 
-**Coast to Coast 102** (Pittsburgh, PA - 1:22 AM Street Patrol) police chase an armed suspect on foot; Florida police respond to a disturbance call involving an inebriated, incoherent woman. Martin County FL/Anchorage, AK
+**Coast to Coast 102**
+
+- (Pittsburgh, PA - 1:22 AM Street Patrol) police chase an armed suspect on foot
+- Martin County FL - Florida police respond to a disturbance call involving an inebriated, incoherent woman. 
+- Anchorage, AK
 
 ### S18E27
 
 Aired 2006-6-10.
 
-**Coast to Coast 103** (Pittsburgh, PA - 11:55 PM Traffic Stop) A car chase in Pittsburgh ends badly; a nude female victim in Spokane. Palm Springs, CA/Spokane, WA
+**Coast to Coast 103**
+
+- (Pittsburgh, PA - 11:55 PM Traffic Stop) A car chase in Pittsburgh ends badly;
+- /Spokane, WA - a nude female victim in Spokane.
+- Palm Springs, CA
 
 ### S18E28
 
 Aired 2005-12-17.
 
-**Ho! Ho! Ho! Special Edition 3** (Pittsburgh, PA - 10:19 PM Suspicious Activity) Police respond to suspicious activity in a parking lot frequented by drug dealers and prostitutes, and find a concerned mother looking for her estranged daughter. Las Vegas, NV/Spokane, WA
+**Ho! Ho! Ho! Special Edition 3**
+
+- (Pittsburgh, PA - 10:19 PM Suspicious Activity) Police respond to suspicious activity in a parking lot frequented by drug dealers and prostitutes, and find a concerned mother looking for her estranged daughter.
+- Las Vegas, NV
+- Spokane, WA
 
 ### S18E29
 
-Aired 2006-6-17.
+Aired 2006-06-17.
 
-**Coast to Coast 104** (Chattanooga, TN - 5:47 PM Traffic Stop) A drug transaction behind a high school in Pittsburgh, PA; burglary in Spokane, WA.
+**Coast to Coast 104**
+
+- (Chattanooga, TN - 5:47 PM Traffic Stop)
+- A drug transaction behind a high school in Pittsburgh, PA
+- burglary in Spokane, WA.
 
 ### S18E30
 
-Aired 2006-5-6.
+Aired 2006-05-06.
 
-**Bad Girls! 9 Special Edition** (Chattanooga, TN - 7:55 PM Injured Person Call) An intoxicated woman tries to bite an officer; a woman gets creative concealing a crack pipe. Spokane, WA/Martin County FL
+**Bad Girls! 9 Special Edition**
+
+- (Chattanooga, TN - 7:55 PM Injured Person Call)
+- Spokane, WA - An intoxicated woman tries to bite an officer
+- Martin County FL - a woman gets creative concealing a crack pipe.
 
 ### S18E31
 
-Aired 2006-3-18.
+Aired 2006-03-18.
 
-**Coast to Coast 105** (Palm Beach County, FL - 8:43 PM Suspicious Person) Florida police locate a truck that has been reported stolen; officers deal with an erratic driver. West Palm Beach, FL/Palm Springs, CA
+**Coast to Coast 105**
+
+- (Palm Beach County, FL - 8:43 PM Suspicious Person)
+- West Palm Beach, FL - Florida police locate a truck that has been reported stolen
+- Palm Springs, CA - officers deal with an erratic driver.
 
 ### S18E32
 
-Aired 2006-7-8.
+Aired 2006-07-08.
 
-**Coast to Coast 106** (Spokane, WA - 9:21 AM Stolen Vehicle Pursuit) Traffic stops lead to drug busts. Palm Springs, CA/Palm Beach County, FL
+**Coast to Coast 106**
+
+- (Spokane, WA - 9:21 AM Stolen Vehicle Pursuit)
+- Palm Springs, CA - Traffic stops lead to drug busts
+- Palm Beach County, FL
 
 ### S18E33
 
-Aired 2006-5-20.
+Aired 2006-05-20.
 
-**Palm Springs Weekend Special** (9:28 PM Vehicle Pursuit) A nude driver engages the cops in a high-speed chase; a suspicious kind of smoke comes out of a parked car.
+**Palm Springs Weekend Special**
+
+- (9:28 PM Vehicle Pursuit) A nude driver engages the cops in a high-speed chase
+- a suspicious kind of smoke comes out of a parked car.
 
 ### S18E34
 
-Aired 2006-7-15.
+Aired 2006-07-15.
 
-**Coast to Coast 107** (Palm Springs, CA - 9:45 PM Burglary in Progress) An extremely drunk driver in Palm Springs; a routine stop reveals much in Pittsburgh. Pittsburgh, PA/Palm Beach County FL
+**Coast to Coast 107**
+
+- (Palm Springs, CA - 9:45 PM Burglary in Progress)
+- Palm Beach County FL - An extremely drunk driver in Palm Springs
+- Pittsburgh, PA - a routine stop reveals much in Pittsburgh
 
 ### S18E35
 
-Aired 2006-4-29.
+Aired 2006-04-29.
 
-**Drug Arrests Special Edition** (Palm Springs, CA - 11:34 PM Suspicious Person) A California police officer detains an uncooperative man who has outstanding arrest warrants; a Florida sheriff's deputy pulls over a suspicious vehicle after the driver makes an illegal turn. Martin County FL/Palm Beach County FL
+**Drug Arrests Special Edition**
+
+- (Palm Springs, CA - 11:34 PM Suspicious Person) A California police officer detains an uncooperative man who has outstanding arrest warrants
+- Martin County FL - a Florida sheriff's deputy pulls over a suspicious vehicle after the driver makes an illegal turn
+- Palm Beach County FL
 
 ### S18E36
 
 Aired 2006-7-22.
 
-**Coast to Coast 108** (Palm Beach County, FL - 7:09 PM Domestic Disturbance Call) Palm Springs, CA/Martin County FL
+**Coast to Coast 108**
+
+- (Palm Beach County, FL - 7:09 PM Domestic Disturbance Call)
+- Palm Springs, CA
+- Martin County FL
 
 ## Season 19 (2006-07)
 
@@ -10550,7 +10704,10 @@ FL/Palm Springs, CA/Riverside County CA/Wichita, KS**
 
 Aired 2006-9-9.
 
-**Coast to Coast 109** (Palm Beach County FL – 9:35 PM Traffic Stop) Sheriff’s Office District 4 - A stop turns into a footrace through Palm Beach County, Fla.; officers pull a bicyclist over. Palm Springs, CA/Chattanooga, TN
+**Coast to Coast 109**
+
+- (Palm Beach County FL – 9:35 PM Traffic Stop) Sheriff’s Office District 4 - A stop turns into a footrace through Palm Beach County, Fla.
+- officers pull a bicyclist over. Palm Springs, CA/Chattanooga, TN
 
 ### S19E02
 
@@ -10975,31 +11132,210 @@ Aired 2008-6-21.
 
 Aired 2008-8-2.
 
-**Police Pullovers 4 Special Edition** (Palm Beach County FL - 12:48 AM Traffic Stop) Sheriff’s Office District 3 Street Team - Deputy Sean McMichael stops a vehicle for a vehicle code infraction. The driver gets upset when the deputy starts searching him. When the deputy asks him to slip his shoes off the man feints to the right and races away from the deputies. The deputies chase the man and eventually catch him. The suspect apologizes for running and states he made a mistake. The man tossed several baggies of crack cocaine during the chase. Officer Jennifer Hertzler of the Portland Police Bureau stops a vehicle that is not displaying a license plate. The friendly driver explains that the vehicle does not belong to him. He also states that his license is suspended. When asked to give the officer the keys, the driver explains that there are no keys for the vehicle. He also mentions he doesn’t know his friend’s name. When Hertzler attempts to gather the man’s personal information, the man becomes unable to understand her. Hertzler learns that the vehicle is on her ‘hot sheet’ – a list of stolen vehicles in the area. The officers decide to take the man’s fingerprints as he doesn’t have any identification on him. They use an electronic device to send the prints back to headquarters – and learn that the name he provided is correct. They explain the charges to the man, which include possession of a stolen vehicle and driving on a suspended license. Deputy Angel Artola of the Palm Beach County FL Sheriff’s Office conducts a traffic stop on a vehicle where the passenger was observed possibly rolling up a marijuana cigarette. The deputy smells marijuana in the vehicle and decides to search the vehicle with that probable cause. The female driver does admit to smoking marijuana in the vehicle – but not tonight. The search turns up a package of syringes and an unmarked pill bottle containing what appears to be Oxycotin. The driver claims no knowledge of the pill or the syringes but points to the person seated in the area as the most likely owner. After speaking with the male suspect that was in that seat, the man produces a prescription bottle with his name on it that contains the exact same medication found in the unmarked bottle – which is a criminal charge. He also fails to notify the arresting deputy that he has a needle in his pocket. When the suspect realizes he is going to jail, he pleads with the other occupants of the vehicle to claim ownership of the pill bottle, but his friends tell him he needs to get help for his addiction.
+**Police Pullovers 4 Special Edition**
+
+- (Palm Beach County FL - 12:48 AM Traffic Stop) Sheriff’s Office District 3
+  Street Team - Deputy Sean McMichael stops a vehicle for a vehicle code
+  infraction. The driver gets upset when the deputy starts searching him. When
+  the deputy asks him to slip his shoes off the man feints to the right and
+  races away from the deputies. The deputies chase the man and eventually catch
+  him. The suspect apologizes for running and states he made a mistake. The man
+  tossed several baggies of crack cocaine during the chase.
+- Officer Jennifer Hertzler of the Portland Police Bureau stops a vehicle that
+  is not displaying a license plate. The friendly driver explains that the
+  vehicle does not belong to him. He also states that his license is suspended.
+  When asked to give the officer the keys, the driver explains that there are
+  no keys for the vehicle. He also mentions he doesn’t know his friend’s name.
+  When Hertzler attempts to gather the man’s personal information, the man
+  becomes unable to understand her. Hertzler learns that the vehicle is on her
+  ‘hot sheet’ – a list of stolen vehicles in the area. The officers decide to
+  take the man’s fingerprints as he doesn’t have any identification on him.
+  They use an electronic device to send the prints back to headquarters – and
+  learn that the name he provided is correct. They explain the charges to the
+  man, which include possession of a stolen vehicle and driving on a suspended
+  license.
+- Deputy Angel Artola of the Palm Beach County FL Sheriff’s Office conducts a
+  traffic stop on a vehicle where the passenger was observed possibly rolling
+  up a marijuana cigarette. The deputy smells marijuana in the vehicle and
+  decides to search the vehicle with that probable cause. The female driver
+  does admit to smoking marijuana in the vehicle – but not tonight. The search
+  turns up a package of syringes and an unmarked pill bottle containing what
+  appears to be Oxycotin. The driver claims no knowledge of the pill or the
+  syringes but points to the person seated in the area as the most likely
+  owner. After speaking with the male suspect that was in that seat, the man
+  produces a prescription bottle with his name on it that contains the exact
+  same medication found in the unmarked bottle – which is a criminal charge. He
+  also fails to notify the arresting deputy that he has a needle in his pocket.
+  When the suspect realizes he is going to jail, he pleads with the other
+  occupants of the vehicle to claim ownership of the pill bottle, but his
+  friends tell him he needs to get help for his addiction.
 
 ### S20E33
 
 Aired 2008-7-19.
 
-**Coast to Coast 143** (Pomona, CA - 12:22 AM Burglary Call) Pomona PD - Corporal Darryll Johnson investigates a possible burglary in progress. He arrives at the small taco stand and sees a broken service window. After spotting damage to a cash register in the back, he radios for a K-9 unit. The dog is put through the window to determine if anyone is still in the business. Almost immediately the dog finds the suspect and the suspect begins screaming. Several officers crawl through the window and take the man into custody. The suspect claims his friend works at the eatery and locked him in to go get beer. Further investigation determines that the name of the person that supposedly worked at the taco stand is not an employee. Officers survey the damage and discuss the K-9’s engagement with the suspect. Deputy Andrew Porcelli of the Martin County FL Sheriff’s Office conducts a traffic stop a vehicle with a brake light out. The driver admits he doesn’t have a license and is detained. The driver also admits that he has prescription pills in the glove box. The female passenger is 8 months pregnant and is complaining of leg pain. Because the woman needs medical care, she is allowed to contact someone for a ride to the hospital. She admits that she has been arrested in the past for possession of paraphernalia. Deputy Porcelli finds the pill bottle – with no label. The driver claims the label has just ‘worn off’. He finds more pills and a hypodermic needle in the glove box. The driver claims that he doesn’t eat the pills and crushes the pills and snorts them. Deputy Porcelli also learns the man was arrested three days prior for having illegal prescription pills. The pregnant passenger is allowed to take the vehicle so that she can get medical attention. The deputies admonish the pregnant female for her involvement in drugs and hopes that she gets help before she gives birth. Sgt. Steven Strivelli and Sgt. Anthony Torella of the Palm Beach County FL Sheriff’s Office Vice Unit raid a suspected drug house, arresting several people in the home. The female homeowner is upset to learn that the woman she had tried to help out is selling crack out of her house and angrily tells her to leave. The deputies learn that the dealer is ‘dry’, meaning they are expecting more drugs to be coming to the house for sells. The deputies take over the house and wait until the couriers arrive with more drugs. Soon, two women and a young child arrive with a large amount of drugs in their possession. One of the women claims to not have any knowledge of the drugs and tells deputies she has no drug history. She then changes her story and tells the deputies she has been arrested for drugs in the past. The deputies admonish the mother for bringing her kid to the drug transaction and she will be charged with child abuse as well. Another courier arrives with more drugs and they too are arrested for possession with intent to distribute.
+**Coast to Coast 143**
+
+- (Pomona, CA - 12:22 AM Burglary Call) Pomona PD - Corporal Darryll Johnson
+  investigates a possible burglary in progress. He arrives at the small taco
+  stand and sees a broken service window. After spotting damage to a cash
+  register in the back, he radios for a K-9 unit. The dog is put through the
+  window to determine if anyone is still in the business. Almost immediately
+  the dog finds the suspect and the suspect begins screaming. Several officers
+  crawl through the window and take the man into custody. The suspect claims
+  his friend works at the eatery and locked him in to go get beer. Further
+  investigation determines that the name of the person that supposedly worked
+  at the taco stand is not an employee. Officers survey the damage and discuss
+  the K-9’s engagement with the suspect.
+- Deputy Andrew Porcelli of the Martin County FL Sheriff’s Office conducts a
+  traffic stop a vehicle with a brake light out. The driver admits he doesn’t
+  have a license and is detained. The driver also admits that he has
+  prescription pills in the glove box. The female passenger is 8 months
+  pregnant and is complaining of leg pain. Because the woman needs medical
+  care, she is allowed to contact someone for a ride to the hospital. She
+  admits that she has been arrested in the past for possession of
+  paraphernalia. Deputy Porcelli finds the pill bottle – with no label. The
+  driver claims the label has just ‘worn off’. He finds more pills and a
+  hypodermic needle in the glove box. The driver claims that he doesn’t eat the
+  pills and crushes the pills and snorts them. Deputy Porcelli also learns the
+  man was arrested three days prior for having illegal prescription pills. The
+  pregnant passenger is allowed to take the vehicle so that she can get medical
+  attention. The deputies admonish the pregnant female for her involvement in
+  drugs and hopes that she gets help before she gives birth.
+- Sgt. Steven Strivelli and Sgt. Anthony Torella of the Palm Beach County FL
+  Sheriff’s Office Vice Unit raid a suspected drug house, arresting several
+  people in the home. The female homeowner is upset to learn that the woman she
+  had tried to help out is selling crack out of her house and angrily tells her
+  to leave. The deputies learn that the dealer is ‘dry’, meaning they are
+  expecting more drugs to be coming to the house for sells. The deputies take
+  over the house and wait until the couriers arrive with more drugs. Soon, two
+  women and a young child arrive with a large amount of drugs in their
+  possession. One of the women claims to not have any knowledge of the drugs
+  and tells deputies she has no drug history. She then changes her story and
+  tells the deputies she has been arrested for drugs in the past. The deputies
+  admonish the mother for bringing her kid to the drug transaction and she will
+  be charged with child abuse as well. Another courier arrives with more drugs
+  and they too are arrested for possession with intent to distribute.
 
 ### S20E34
 
 Aired 2008-2-2.
 
-**Wild Chases Special Edition** (Spokane, WA - 1:43 PM Stolen Vehicle) Spokane Police Department - Officer Michael McNab explains that they are on patrol in an area where a full sized pickup truck was recently stolen. The owner left the keys in the ignition while unloading food for a charity food drive. Soon after, an unoccupied truck matching the description of the stolen vehicle is spotted along with another occupied vehicle, on the side of the road. One of the occupants of the second truck jumps out and hops behind the wheel of the stolen truck. A chase ensues and the suspect goes off the paved roads into a grassy field and finally into a wooded area. Officer McNab stays close behind and makes another attempt to break the glass when it appears the vehicle is stuck. The driver again speeds away and Officer McNab notices that his patrol vehicle is on fire. He tries to extinguish the fire himself, but the fire spreads rapidly and soon engulfs the vehicle. Detective Carl Jones of the Rialto, CA Police Department is dispatched to a burglary in progress. Dispatch states that two men have tripped security cameras and have been spotted loading copper wire into a vehicle. Detective Jones spots the vehicle and attempts to detain a man walking away when a second suspect jumps into the car and drives away in an attempt to elude the authorities. The man drives around a corner but quickly changes his mind and gives up without further incident. The other suspect is found by the air unit hiding in a ditch. Deputy Sean McMichael of the Palm Beach County FL Sheriff’s Office assist in the tracking of a vehicle that was seen leaving the area of a burglary. The car exits the freeway directly in front of Deputy McMichael’s patrol car. The driver veers off of the paved road to avoid the deputies and fails to stop. He leads the deputies on a short pursuit. The deputies deploy a spike strip and the vehicle’s tires deflate, causing him to lose control and crash into another vehicle. The man is taken into custody without incident.
+**Wild Chases Special Edition**
+
+- (Spokane, WA - 1:43 PM Stolen Vehicle) Spokane Police Department - Officer
+  Michael McNab explains that they are on patrol in an area where a full sized
+  pickup truck was recently stolen. The owner left the keys in the ignition
+  while unloading food for a charity food drive. Soon after, an unoccupied
+  truck matching the description of the stolen vehicle is spotted along with
+  another occupied vehicle, on the side of the road. One of the occupants of
+  the second truck jumps out and hops behind the wheel of the stolen truck. A
+  chase ensues and the suspect goes off the paved roads into a grassy field and
+  finally into a wooded area. Officer McNab stays close behind and makes
+  another attempt to break the glass when it appears the vehicle is stuck. The
+  driver again speeds away and Officer McNab notices that his patrol vehicle is
+  on fire. He tries to extinguish the fire himself, but the fire spreads
+  rapidly and soon engulfs the vehicle.
+- Detective Carl Jones of the Rialto, CA Police Department is dispatched to a
+  burglary in progress. Dispatch states that two men have tripped security
+  cameras and have been spotted loading copper wire into a vehicle. Detective
+  Jones spots the vehicle and attempts to detain a man walking away when a
+  second suspect jumps into the car and drives away in an attempt to elude the
+  authorities. The man drives around a corner but quickly changes his mind and
+  gives up without further incident. The other suspect is found by the air unit
+  hiding in a ditch.
+- Deputy Sean McMichael of the Palm Beach County FL Sheriff’s Office assist in
+  the tracking of a vehicle that was seen leaving the area of a burglary. The
+  car exits the freeway directly in front of Deputy McMichael’s patrol car. The
+  driver veers off of the paved road to avoid the deputies and fails to stop.
+  He leads the deputies on a short pursuit. The deputies deploy a spike strip
+  and the vehicle’s tires deflate, causing him to lose control and crash into
+  another vehicle. The man is taken into custody without incident.
 
 ### S20E35
 
 Aired 2008-2-16.
 
-**Bad Girls! 11 Special Edition** (Riverside County CA - 11:22 PM Suspicious Activity) Sheriff’s Department Jurupa Valley Station - Cpl Luke Torres patrols a high crime neighborhood. As he passes by a house that was recently served with a warrant for drug activity, he spots a female that he recognizes as having a felony warrant for drug trafficking. When the corporal attempts to contact the woman she denies that she is the suspect and gives a false name and makes an attempt to walk away. When the corporal tries to detain her, she begins struggling and eventually Cpl. Torres is forced to take her to the ground until backup arrives and she is taken into custody. A warrant ID sheet is pulled and she confirms that she is indeed the woman they are looking for. Officer Zachary Johnson of the Las Vegas, NV Metropolitan Police Department stops a truck that has been reported stolen. The female driver steps out of the vehicle and is questioned. She initially claims that “it was a fair exchange” and continues to explain that the owner allowed her to drive the truck in exchange for forty dollars worth of crack cocaine. She later adds that she is a prostitute and decided to prolong the use of her vehicle for services rendered. The owner shows up and admits he knows the woman and details the events leading up to her taking his truck. While both parties are admonished for the lifestyles choices they have made that has led them to this point, the victim takes his truck and the female suspect is issued an citation to appear in court to answer to the charges. Cpl Daryll Johnson of the Pomona, CA Police Department spots a vehicle parked in a motel parking lot that is listed on the hot sheet as stolen. He assigned an officer to survey the vehicle. Eventually, the officer radios that a woman has driven away in the vehicle and Cpl. Johnson catches up to assist with the traffic stop. The woman is removed from the car without incident and questioned about the ownership of the vehicle. Officers realize that the suspect is a transvestite and also learn that the man claims he bought the car in San Diego months prior. The suspect assumes that a friend called the car in stolen because of a miscommunication about ownership. Officers question the suspect further and learn the man has a warrant as well as priors for burglary.
+**Bad Girls! 11 Special Edition**
+
+- (Riverside County CA - 11:22 PM Suspicious Activity) Sheriff’s Department
+  Jurupa Valley Station - Cpl Luke Torres patrols a high crime neighborhood. As
+  he passes by a house that was recently served with a warrant for drug
+  activity, he spots a female that he recognizes as having a felony warrant for
+  drug trafficking. When the corporal attempts to contact the woman she denies
+  that she is the suspect and gives a false name and makes an attempt to walk
+  away. When the corporal tries to detain her, she begins struggling and
+  eventually Cpl. Torres is forced to take her to the ground until backup
+  arrives and she is taken into custody. A warrant ID sheet is pulled and she
+  confirms that she is indeed the woman they are looking for.
+- Officer Zachary Johnson of the Las Vegas, NV Metropolitan Police Department
+  stops a truck that has been reported stolen. The female driver steps out of
+  the vehicle and is questioned. She initially claims that “it was a fair
+  exchange” and continues to explain that the owner allowed her to drive the
+  truck in exchange for forty dollars worth of crack cocaine. She later adds
+  that she is a prostitute and decided to prolong the use of her vehicle for
+  services rendered. The owner shows up and admits he knows the woman and
+  details the events leading up to her taking his truck. While both parties are
+  admonished for the lifestyles choices they have made that has led them to
+  this point, the victim takes his truck and the female suspect is issued an
+  citation to appear in court to answer to the charges.
+- Cpl Daryll Johnson of the Pomona, CA Police Department spots a vehicle parked
+  in a motel parking lot that is listed on the hot sheet as stolen. He assigned
+  an officer to survey the vehicle. Eventually, the officer radios that a woman
+  has driven away in the vehicle and Cpl. Johnson catches up to assist with the
+  traffic stop. The woman is removed from the car without incident and
+  questioned about the ownership of the vehicle. Officers realize that the
+  suspect is a transvestite and also learn that the man claims he bought the
+  car in San Diego months prior. The suspect assumes that a friend called the
+  car in stolen because of a miscommunication about ownership. Officers
+  question the suspect further and learn the man has a warrant as well as
+  priors for burglary.
 
 ### S20E36
 
 Aired 2008-7-26.
 
-**Coast to Coast 144** (Palm Beach County FL - 6:14 PM Traffic Stop) Sheriff’s Office District 1 Street Team - Deputy Keith Stokes stops a vehicle for running a stop sign. The passenger steps out of the car and begins to run away from the traffic stop. The deputy chases the suspect through several yards before the suspect trips and falls and is taken into custody. A quick search of the area where the deputy spotted the man toss and object reveals crack and pills concealed in a cigarette box. The car is gone when the deputy walks back to the scene. When Deputy Stokes confronts the man about the drugs he found, but the man states that he was not in possession of the drugs. The man asks for his ringing phone, but the deputy explains that he cannot answer it. The suspect tells the deputy that he wants to go to court to fight the charges. Deputy Stokes explains the additional charges on the man in addition to the drug possession. The suspect is further interviewed and the man claims that the driver gave him the drugs and asked him to run because his friend is in a bad situation at home and didn’t want his good friend to suffer for the drugs. (Rialto, CA - 1:30 AM Suspicious Activity) Police Department - Sgt. Jim Kurkoske stops a vehicle that has been seen driving around a bad neighborhood at least four times. The driver states upon contact that he drank a beer at a bar earlier in the evening. Kurkoske decides to search the vehicle after it becomes obvious that the man has had a drink or two. Communications radios back that the man has a warrant for his arrest as well. The search reveals a backpack full of marijuana. Sgt. Kurkoske explains that because of the way the dope is packaged, he can conclude the man was selling. He also locates a notebook with weights denoted that are commonly used in weighing marijuana. The driver claims that a person he knows placed the backpack in his vehicle. The man quickly changes his story and admits that he is indeed the owner of the drugs and has been selling the dope to make ends meet. (Riverside County CA - 8:06 PM Attempted Suicide Call) Sheriff’s Department Jurupa Valley Station - Deputy Heath Noyes responds to a attempted suicide call. The suspect is seated in a truck and is armed with a knife and has threatened to kill himself. The deputies give him commands to exit the truck and as he is being cuffed he turns away from the deputy at which time the deputies make him go to the ground. The man doesn’t resist and is eventually cuffed. The man states he wasn’t going to hurt himself and was just looking for attention. The witnesses on scene explain that the large man walked to the truck with the knife and began banging on the dashboard. The two men decided to contact authorities before the suspect could harm himself. The deputies thank the men for their quick thinking and tell the suspect that they will make sure he get help to deal with his depression.
+**Coast to Coast 144**
+
+- (Palm Beach County FL - 6:14 PM Traffic Stop) Sheriff’s Office District 1
+  Street Team - Deputy Keith Stokes stops a vehicle for running a stop sign.
+  The passenger steps out of the car and begins to run away from the traffic
+  stop. The deputy chases the suspect through several yards before the suspect
+  trips and falls and is taken into custody. A quick search of the area where
+  the deputy spotted the man toss and object reveals crack and pills concealed
+  in a cigarette box. The car is gone when the deputy walks back to the scene.
+  When Deputy Stokes confronts the man about the drugs he found, but the man
+  states that he was not in possession of the drugs. The man asks for his
+  ringing phone, but the deputy explains that he cannot answer it. The suspect
+  tells the deputy that he wants to go to court to fight the charges. Deputy
+  Stokes explains the additional charges on the man in addition to the drug
+  possession. The suspect is further interviewed and the man claims that the
+  driver gave him the drugs and asked him to run because his friend is in a bad
+  situation at home and didn’t want his good friend to suffer for the drugs.
+- (Rialto, CA - 1:30 AM Suspicious Activity) Police Department - Sgt. Jim
+  Kurkoske stops a vehicle that has been seen driving around a bad neighborhood
+  at least four times. The driver states upon contact that he drank a beer at a
+  bar earlier in the evening. Kurkoske decides to search the vehicle after it
+  becomes obvious that the man has had a drink or two. Communications radios
+  back that the man has a warrant for his arrest as well. The search reveals a
+  backpack full of marijuana. Sgt. Kurkoske explains that because of the way
+  the dope is packaged, he can conclude the man was selling. He also locates a
+  notebook with weights denoted that are commonly used in weighing marijuana.
+  The driver claims that a person he knows placed the backpack in his vehicle.
+  The man quickly changes his story and admits that he is indeed the owner of
+  the drugs and has been selling the dope to make ends meet.
+- (Riverside County CA - 8:06 PM Attempted Suicide Call) Sheriff’s Department
+  Jurupa Valley Station - Deputy Heath Noyes responds to a attempted suicide
+  call. The suspect is seated in a truck and is armed with a knife and has
+  threatened to kill himself. The deputies give him commands to exit the truck
+  and as he is being cuffed he turns away from the deputy at which time the
+  deputies make him go to the ground. The man doesn’t resist and is eventually
+  cuffed. The man states he wasn’t going to hurt himself and was just looking
+  for attention. The witnesses on scene explain that the large man walked to
+  the truck with the knife and began banging on the dashboard. The two men
+  decided to contact authorities before the suspect could harm himself. The
+  deputies thank the men for their quick thinking and tell the suspect that
+  they will make sure he get help to deal with his depression.
 
 ### S20E37 / S20E38
 
