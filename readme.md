@@ -2977,7 +2977,13 @@ WA/Pittsburgh, PA/Santa Ana, CA/Spokane, WA/Travis County TX**
 
 **Coast to Coast 90** (Las Vegas, NV - 9:20 PM Disturbance Call) Police are dispatched to a fast-food restaurant where a disturbed man has reportedly threatened a customer. Lee County FL/Las Vegas, NV #1809. 05-9-24
 
-**Coast to Coast 91** (Fort Myers, FL - 2:32 PM Briefing) Officers utilize a taxi in a sting designed to apprehend street-level drug dealers. Las Vegas, NV/Fresno, CA #1810. 06-1-21
+### S18E10
+
+Aired 2006-01-21.
+
+**Coast to Coast 91** (Fort Myers, FL - 2:32 PM Sting Briefing) Officers
+utilize a taxi in a sting designed to apprehend street-level drug dealers. Las
+Vegas, NV/Fresno, CA
 
 **Coast to Coast 92** (Las Vegas, NV - 8:31 PM Suspicious Vehicle Call) When an officer responds to a vandalism call, he assists a man who has physically detained a young man who was involved in the incident. Travis County TX/Atlanta, GA #1811. 06-1-28
 
