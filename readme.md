@@ -11758,3 +11758,221 @@ Aired 2007-09-29.
 - Portland, OR - Officer Jason Preston finds a naked man who committed an assault, but says he was trying to be fun. S16E24.
 - Las Vegas, NV - Officer Evan Rosenthal deals with a black dwarf who illegally performs on the streets for the second time. S19E30.
 - Las Vegas, NV - Officer Dennis Magill jumps into a car that goes in circles with no one driving it to stop it. S03E11.
+
+## Season 21
+
+2008–2009.
+
+TODO.
+
+## Season 22
+
+2009–2010.
+
+### S22E01
+
+- Las Vegas, NV -- 5:21 PM Assistance Call -- Officer Zachary Johnson
+- Palm Beach County, FL -- 8:49 PM Disturbance call -- Sean McMichael
+- San Bernandino Co., CA -- 1:20 AM Suspicious Vehicle -- Deputy Vanessa Duardo
+
+### S22E02
+
+- San Bernandino Co., CA -- 9:15 PM Pursuit in Progress -- Deputy Lisa Guerra
+
+### S22E03
+
+- San Bernandino Co., CA -- 5:20 PM Burglary in Progress -- Deputy Jason Whitsell
+
+### S22E04
+
+- Las Vegas, NV -- 6:14 PM Disturbance Call -- Officer Matthew Eschker
+
+### S22E05
+
+- Las Vegas, NV -- 6:08 PM Jaywalking -- Officer Scott Nastase
+
+### S22E06
+
+- Brevard County, FL -- 3:16 PM Warrant Call -- Deputy Brett Moore
+
+### S22E07
+
+- Las Vegas, NV -- 5:25 PM Suspicious Vehicle -- Officer Kirk Guevara
+
+### S22E08
+
+- Las Vegas, NV -- 6:56 PM Pursuit in Progress -- Officer Jason Vallad
+
+### S22E09
+
+- Kern County, CA -- 4:45 PM Criminal Investigation -- Senior Deputy Robert Stevenson
+
+### S22E10
+
+- Tulsa County, OK -- 8:56 PM Carjacking -- Deputy Ryan Ayers
+
+### S22E11
+
+- San Bernandino Co., CA -- 9:50 PM Fight in Progress -- Deputy Vanessa Duardo
+
+### S22E12
+
+- Las Vegas, NV -- 4:21 PM Unknown Trouble Call -- FTO Dave Howard
+
+### S22E13
+
+- Portland, OR -- 8:35 PM Vice Call -- Officer Josh Howery and  Officer Erica Hurley
+
+### S22E14
+
+- San Bernandino Co., CA -- 8:57 PM Domestic Disturbance Call -- Deputy Jason Whitsell
+
+### S22E15
+
+- Tulsa County, OK -- 7:46 PM Suspicious Vehicle -- Deputy Ryan Ayers
+
+### S22E16
+
+- Tulsa County, OK -- 8:59 PM Traffic Stop -- Sgt. Shane Rhames
+
+### S22E17
+
+- Tulsa County, OK -- 7:50 PM Pursuit in Progress -- Deputy Scott Dean
+
+### S22E18
+
+- Houston, TX -- 7:53 PM Traffic Stop -- Sgt. Matt Richard
+
+### S22E19
+
+- Houston, TX -- 9:00 PM Narcotics Operation -- Officer L.V. Powell
+
+### S22E20
+
+- Houston, TX -- 2:13 PM Traffic Stop -- Officer Hans Wagner and Sgt. Mark Bailey
+
+### S22E21
+
+- Harris County, TX -- 5:00 PM Traffic Stop -- FTO George Ellington
+
+### S22E22
+
+- Fort Myers, FL -- 6:42 PM Pursuit in Progress -- Officer Wolfgang Daniel
+
+### S22E23
+
+- Amarillo, TX -- 1:12 AM Fight Call -- Officer Billy Jensen
+
+### S22E24
+
+- Houston, TX -- 5:20 PM Robbery Call --  Senior Officer Karl Pederson
+
+### S22E25
+
+- Houston, TX -- 9:03 PM Pursuit in Progress -- Senior Officer Karl Pederson
+
+### S22E26
+
+- Portland, OR -- 11:10 PM Suspicious Activity -- Officer Ryan Reagan and Officer Tony Hill
+
+### S22E27
+
+- Amarillo, TX -- 8:10 PM Fight Call -- Officer Billy Jensen
+
+### S22E28
+
+- Boynton Beach, FL -- 9:08 PM Armed Robbery Call -- Officer Drew Murphy
+
+### S22E29
+
+-- Maricopa County, AZ -- 10:30 PM Vehicle Pursuit in Progress -- Deputy Patrick Arend
+
+### S22E30
+
+- Amarillo, TX -- 8:22 PM Suspicious Activity -- Officer Johnny Bermea
+
+### S22E31
+
+- Houston, TX -- 5:44 PM Possible Drug Activity -- Sgt. Larry Mikel
+
+### S22E32
+
+- Amarillo, TX -- 9:49 PM Possible Burglary in Progress -- Officer James Blandford
+
+### S22E33
+
+- Portland, OR -- 7:53 PM Fight Call -- Officer Andy Polas and Officer Ty Garrison
+
+### S22E34
+
+- Boynton Beach, FL -- 9:16 PM Pursuit in Progress -- Officer Charles Turco
+
+### S22E35
+
+- San Diago County, CA -- Surveillance Camera -- 7:27 AM Possible Immigration Violation -- Officer Edward Chavoya, Officer Alfredo Loperena
+
+## Season 23
+
+2010–2011.
+
+TODO
+
+## Season 24
+
+2011–2012.
+
+TODO
+
+## Season 25
+
+2012–2013.
+
+TODO
+
+## Season 26
+
+2013–2014.
+
+TODO
+
+## Season 27
+
+2014–2015.
+
+TODO
+
+## Season 28
+
+2015–2016.
+
+TODO
+
+## Season 29
+
+2016–2017.
+
+TODO
+
+## Season 30
+
+2017–2018.
+
+TODO
+
+## Season 31
+
+2018–2019.
+
+TODO
+
+## Season 32
+
+2019–2020.
+
+TODO
+
+## Season 33
+
+2021
+
+TODO
