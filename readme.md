@@ -8779,29 +8779,62 @@ Aired 2003-12-13.
 
 Aired 2004-01-03.
 
-**Coast to Coast 51** (Indio, CA - 10:24 PM Suspicious Activity Call) Mexican prowler looking in windows is caught and beat up after returning/Palm Beach County FL - Suspicious vehicle with 2 black guys in a Lincoln Town Car that have thousands of dollars and drugs/Palm Springs, CA - Traffic stop - bicycle rider who came from a burglary has drugs and bad friends.
+**Coast to Coast 51**
+
+- (Indio, CA - 10:24 PM Suspicious Activity Call) Mexican prowler looking in
+  windows is caught and beat up after returning
+- Palm Beach County FL - Suspicious vehicle with 2 black guys in a Lincoln Town
+  Car that have thousands of dollars and drugs
+- Palm Springs, CA - Traffic stop - bicycle rider who came from a burglary has
+  drugs and bad friends.
 
 ### S16E07
 
 Aired 2004-01-10.
 
-**Coast to Coast 52** (Palm Springs, CA - 2:38 AM Pursuit in Progress) Officer Frank Browning says his dad has been incarcerated most of his life, he has seen both sides of the law and decided he likes this side better. When he was young cops where seen as heroes, how he looked at it. A man speeds on a motorcycle with a woman on the back who tries to get him to stop. He crashes and has warrants. Palm Beach County FL (12:06 AM Domestic Disturbance Call) Kevin is drunk in a dirty vile trailer and he hits his girlfriend and pulls the phone out of the wall when she calls 911. He just wants his beer and leaves, but she won't press charges. Indio CA (11:04 PM Suspicious Vehicle) A man comes out of an abandoned building so the cops stop him. He says he has a 22 rifle in the backseat and gets arrested because the gun is loaded and unregistered.
+**Coast to Coast 52**
+
+- (Palm Springs, CA - 2:38 AM Pursuit in Progress) Officer Frank Browning says
+  his dad has been incarcerated most of his life, he has seen both sides of the
+  law and decided he likes this side better. When he was young cops where seen
+  as heroes, how he looked at it. A man speeds on a motorcycle with a woman on
+  the back who tries to get him to stop. He crashes and has warrants.
+- Palm Beach County FL (12:06 AM Domestic Disturbance Call) Kevin is drunk in a
+  dirty vile trailer and he hits his girlfriend and pulls the phone out of the
+  wall when she calls 911. He just wants his beer and leaves, but she won't
+  press charges.
+- Indio CA (11:04 PM Suspicious Vehicle) A man comes out of an abandoned
+  building so the cops stop him. He says he has a 22 rifle in the backseat and
+  gets arrested because the gun is loaded and unregistered.
 
 ### S16E08
 
 Aired 2004-01-17.
 
-**Coast to Coast 53** (Palm Beach County FL - 9:24 PM Fight in Progress) District 1 - Deputy James Tacktikos does his best not to take his job home with him, though there are times he brings paperwork home, he doesn't want the stress of his job getting into his personal life. If people ask him about his work he'll gladly tell them. He takes the call of a fight at a gas station, doesn't know anything yet, just lots of noise. He finds a drunk white guy who assaulted an Indian worker/Wichita KS - Fight in progress over grass on a driveway with a fat shirtless tattooed man and old hippies/Indio CA - Officer assistance call with an ugly ex-con lesbian fighting with her ex-lover at a liquor store.
+**Coast to Coast 53**
+
+- (Palm Beach County FL - 9:24 PM Fight in Progress) District 1 - Deputy James
+  Tacktikos does his best not to take his job home with him, though there are
+  times he brings paperwork home, he doesn't want the stress of his job getting
+  into his personal life. If people ask him about his work he'll gladly tell
+  them. He takes the call of a fight at a gas station, doesn't know anything
+  yet, just lots of noise. He finds a drunk white guy who assaulted an Indian
+  worker
+- Wichita KS - Fight in progress over grass on a driveway with a fat shirtless
+  tattooed man and old hippies
+- Indio CA - Officer assistance call with an ugly ex-con lesbian fighting with
+  her ex-lover at a liquor store.
 
 ### S16E09
 
 Aired 2003-11-03.
 
-- **Resisting Arrest Special Edition** (Indio, CA - 12:08 AM Suspicious Person
-  Call) Corporal Lisa Corton takes the call of a man refuses to leave a
-  recovery center and tries to get into the woman's side. Also a drunk Mexican
-  man who prompts an intense struggle after admitting he was looking into
-  windows of a local recovery center.
+**Resisting Arrest Special Edition**
+
+- (Indio, CA - 12:08 AM Suspicious Person Call) Corporal Lisa Corton takes the
+  call of a man refuses to leave a recovery center and tries to get into the
+  woman's side. Also a drunk Mexican man who prompts an intense struggle after
+  admitting he was looking into windows of a local recovery center.
 - (Spokane, WA - 9:26 PM Street Patrol) Spokane PD
 - (Harris County TX - 8:03 PM Domestic Disturbance) Sheriff's Dept. District 3
 
@@ -8809,19 +8842,54 @@ Aired 2003-11-03.
 
 Aired 2004-01-24.
 
-**Foolish Criminals Special Edition** (Palm Beach County FL - 8:42 PM Burglary in Progress) District 3 Sheriff's Dept. - Deputy Nick Camene takes the call of a man seen jumping a fence into a problem area where many thefts occur. A black guy is caught stealing copper wire from a business/(Cathedral City, CA – 8:51 PM Public Disturbance Call) PD - Public disturbance call to a drunk/high teen at a Blockbuster Video who knocked over a display looking for a job/(Indio, CA - 9:08 PM Suspicious Activity Call) Indio PD - Suspicious activity call to a man driving with expired tags trying to sell stolen lawn equipment. A witness helps apprehend a burglar; at a traffic stop, a man says his ailing wife put illegal tags on his car.
+**Foolish Criminals Special Edition**
+
+- (Palm Beach County FL - 8:42 PM Burglary in Progress) District 3 Sheriff's
+  Dept. - Deputy Nick Camene takes the call of a man seen jumping a fence into
+  a problem area where many thefts occur. A black guy is caught stealing copper
+  wire from a business
+- (Cathedral City, CA – 8:51 PM Public Disturbance Call) PD - Public
+  disturbance call to a drunk/high teen at a Blockbuster Video who knocked over
+  a display looking for a job
+- (Indio, CA - 9:08 PM Suspicious Activity Call) Indio PD - Suspicious activity
+  call to a man driving with expired tags trying to sell stolen lawn equipment.
+  A witness helps apprehend a burglar; at a traffic stop, a man says his ailing
+  wife put illegal tags on his car.
 
 ### S16E11
 
 Aired 2003-09-13.
 
-**Rescues 1 Special Edition** (Passaic County NJ - 4:54 PM Assistance Call) Sheriff's Dept - Officer Jason DeGroat went to Lakeland Regional High School, then got a job working security at Passaic County Community College. Lots of Passaic County police officers worked there as security and he met a lot of them. They would tell him how interesting their job was and he should take the test and come aboard. His partner Officer Karl Shucai always wanted to be a cop. He started out in the jail division for a few years, then the courthouse and finally his dream came true - out to the streets of Passaic. They take the call of a man who fell into the river. Rescue a man who has fallen into a rushing river. (New York City, NY - 6:15 PM Car Accident) from S07E34. (Pierce County WA - 11:21 PM Noise Complaint) from S13E13.
+**Rescues 1 Special Edition**
+
+- (Passaic County NJ - 4:54 PM Assistance Call) Sheriff's Dept - Officer Jason
+  DeGroat went to Lakeland Regional High School, then got a job working
+  security at Passaic County Community College. Lots of Passaic County police
+  officers worked there as security and he met a lot of them. They would tell
+  him how interesting their job was and he should take the test and come
+  aboard. His partner Officer Karl Shucai always wanted to be a cop. He started
+  out in the jail division for a few years, then the courthouse and finally his
+  dream came true - out to the streets of Passaic. They take the call of a man
+  who fell into the river. Rescue a man who has fallen into a rushing river.
+- (New York City, NY - 6:15 PM Car Accident) from S07E34.
+- (Pierce County WA - 11:21 PM Noise Complaint) from S13E13.
 
 ### S16E12
 
 Aired 2004-03-06.
 
-**Coast to Coast 54** (Passaic County NJ - 9:38 PM Suspicious Activity) County Sheriff's Dept. - A white guy in an orange shirt goes back to get his stash and gets caught. He runs and the cop goes back to get his car and catches him. A K9 is brought in to find the tossed drugs. (Wichita KS - 4:24 PM Suspicious Vehicle) A gross white woman and a gay black guy are in a car in front of a house where they shouldn't be with no ID, no clue, she has 6 warrants and he is an alcoholic and on parole. (Palm Beach Co FL - 9:27 PM Domestic Disturbance Call) Sheriff's Office District 1 Martin and his wife are drunk and fight over the keys to the truck. She rips his shirt and he cuts her arm.
+**Coast to Coast 54**
+
+- (Passaic County NJ - 9:38 PM Suspicious Activity) County Sheriff's Dept. - A
+  white guy in an orange shirt goes back to get his stash and gets caught. He
+  runs and the cop goes back to get his car and catches him. A K9 is brought in
+  to find the tossed drugs.
+- (Wichita KS - 4:24 PM Suspicious Vehicle) A gross white woman and a gay black
+  guy are in a car in front of a house where they shouldn't be with no ID, no
+  clue, she has 6 warrants and he is an alcoholic and on parole.
+- (Palm Beach Co FL - 9:27 PM Domestic Disturbance Call) Sheriff's Office
+  District 1 Martin and his wife are drunk and fight over the keys to the
+  truck. She rips his shirt and he cuts her arm.
 
 ### S16E13
 
@@ -8829,7 +8897,8 @@ Aured 2003-09-13.
 
 **Rescues 2 Special Edition**
 
-- (Portland, OR - 7:06 PM Assistance Call) Police Bureau Central Precinct - Officer Matt Stimmel and partner Officer Cathy Kent
+- (Portland, OR - 7:06 PM Assistance Call) Police Bureau Central Precinct -
+  Officer Matt Stimmel and partner Officer Cathy Kent
 - (Maricopa County AZ - 2:18 AM Flagged Down) Sheriff's Office District 1
 - (San Bernardino County CA - 7:11 PM Search & Rescue Call) from S05E43
 
@@ -8837,79 +8906,250 @@ Aured 2003-09-13.
 
 Aired 2004-01-31.
 
-**Coast to Coast 55** (Passaic County NJ - 5:52 PM Stolen Vehicle) Detective Derrick Catli says he's a rookie at heart. He spots a stolen car and follows. Three black men in a Honda Civic ram police, try to flee and crash into a parked car and we see they are drunk and injured. Palm Beach County FL (1:34 AM Stolen Vehicle) Single white male says it is his mom's car and he is an undercover narcotics officer. Jacksonville FL (8:15 PM Prostitution Sting) Debbie flashes the officer in the car/Black woman says she was molested/Antoine Shemale struggles.
+**Coast to Coast 55**
+
+- (Passaic County NJ - 5:52 PM Stolen Vehicle) Detective Derrick Catli says
+  he's a rookie at heart. He spots a stolen car and follows. Three black men in
+  a Honda Civic ram police, try to flee and crash into a parked car and we see
+  they are drunk and injured.
+- Palm Beach County FL (1:34 AM Stolen Vehicle) Single white male says it is
+  his mom's car and he is an undercover narcotics officer.
+- Jacksonville FL (8:15 PM Prostitution Sting) Debbie flashes the officer in
+  the car/Black woman says she was molested/Antoine Shemale struggles.
 
 ### S16E15
 
 Aired 2004-02-21.
 
-**Stupid Criminals Special Edition** (Passaic County NJ 8:56 PM Traffic Stop) Two guys get caught buying drugs and they got busted last week in the same spot. The driver claims he wanted to see where he was busted and was just selling stuff. Albuquerque NM (1:28 PM Trespassing Call) Kevin hides under a mattress after getting caught stealing tries and returning to trespass. Wichita KS (9:40 PM Officer Assistance Call) A man steals a bike and takes off and gets caught hiding in a shed after riding past the bike owners house.
+**Stupid Criminals Special Edition**
+
+- (Passaic County NJ 8:56 PM Traffic Stop) Two guys get caught buying drugs and
+  they got busted last week in the same spot. The driver claims he wanted to
+  see where he was busted and was just selling stuff.
+- Albuquerque NM (1:28 PM Trespassing Call) Kevin hides under a mattress after
+  getting caught stealing tries and returning to trespass.
+- Wichita KS (9:40 PM Officer Assistance Call) A man steals a bike and takes
+  off and gets caught hiding in a shed after riding past the bike owners house.
 
 ### S16E16
 
 Aired 2004-02-07.
 
-**War on Drugs 1 Special Edition** (Passaic County NJ - 5:14 PM Officer Assistance Call) Sheriff's Department - Officer Jason DeGroat says it is a great place to live and goes on a call looking for a car. The white punk driver runs from a blue car with two passengers and is caught after dumping his bundle of 50 heroin bags. Maui HI (1:25 PM Traffic Stop) No license plate leads to a man fleeing through a condo and the cop loses him and checks his car. Other cops catch him and take him back to jail. Passaic NJ (4:58 PM Suspicious Activity) White guy in a Rangers shirt buys heroin and is sweating buckets, then taken to jail. AKA Drug Busts 1.
+**War on Drugs 1 Special Edition**
+
+- (Passaic County NJ - 5:14 PM Officer Assistance Call) Sheriff's Department -
+  Officer Jason DeGroat says it is a great place to live and goes on a call
+  looking for a car. The white punk driver runs from a blue car with two
+  passengers and is caught after dumping his bundle of 50 heroin bags.
+- Maui HI (1:25 PM Traffic Stop) No license plate leads to a man fleeing
+  through a condo and the cop loses him and checks his car. Other cops catch
+  him and take him back to jail.
+- Passaic NJ (4:58 PM Suspicious Activity) White guy in a Rangers shirt buys
+  heroin and is sweating buckets, then taken to jail. AKA Drug Busts 1.
 
 ### S16E17
 
 Aired 2004-05-01.
 
-**Drug Busts 2 Special Edition** (Passaic County NJ - 8:55 PM Traffic Stop) Brent leaves the drug ridden projects in his car and blows a stop sign. His girlfriend Elise is in the car and thinks Brent bought drugs, but says she doesn't know anything. Brent pulls heroin packs out of his checkbook and Elise says they are hers, but doesn't want to take the fall alone so both get arrested. (Riverside County CA - 6:15 PM Suspicious Vehicle Call) A car is stopped on the side of the road with three Mexicans inside and no tail lights outside. One of the guys smells like weed and they find a big bag of pot and a roach. The girl who was driving is 8 months pregnant and is crying because the father is going to let her take the fall. Ryan, the father, finally takes credit for it. (Wichita KS - 4:30 PM Suspicious Activity) A car leaving a crack house is stopped for a cracked windshield. The driver says the car belongs to Shirley, but he doesn't know his last name or phone number. He has a box of razor blades in his pocket and was smoking crack and the cop sees he is hiding crack in his mouth and the cop pulls it out. He then goes back in the car and finds the crack pipe.
+**Drug Busts 2 Special Edition**
+
+- (Passaic County NJ - 8:55 PM Traffic Stop) Brent leaves the drug ridden
+  projects in his car and blows a stop sign. His girlfriend Elise is in the car
+  and thinks Brent bought drugs, but says she doesn't know anything. Brent
+  pulls heroin packs out of his checkbook and Elise says they are hers, but
+  doesn't want to take the fall alone so both get arrested.
+- (Riverside County CA - 6:15 PM Suspicious Vehicle Call) A car is stopped on
+  the side of the road with three Mexicans inside and no tail lights outside.
+  One of the guys smells like weed and they find a big bag of pot and a roach.
+  The girl who was driving is 8 months pregnant and is crying because the
+  father is going to let her take the fall. Ryan, the father, finally takes
+  credit for it.
+- (Wichita KS - 4:30 PM Suspicious Activity) A car leaving a crack house is
+  stopped for a cracked windshield. The driver says the car belongs to Shirley,
+  but he doesn't know his last name or phone number. He has a box of razor
+  blades in his pocket and was smoking crack and the cop sees he is hiding
+  crack in his mouth and the cop pulls it out. He then goes back in the car and
+  finds the crack pipe.
 
 ### S16E18
 
 Aired 2003-11-03.
 
-**Jersey Cop Special Edition** (Passaic County NJ - 10:06 PM Suspicious Activity) Cpl Anthony Damiano says the weather has broken up, supposed to be BBQ time, hopefully it break as now it is just pouring rain. Hopefully we'll get a good summer. Guy smoking a joint in a hallway (Passaic County NJ - 8:44 PM Suspicious Activity) Suspicious vehicle trading DVD player for drugs  (Passaic County NJ - 5:04 PM Traffic Stop) man with 50 bags of dope (9:49 PM Suspicious Vehicle) man with do rag drug stop. AKA Riding With Corporal Damiano.
+**Jersey Cop Special Edition**
+
+- (Passaic County NJ - 10:06 PM Suspicious Activity) Cpl Anthony Damiano says
+  the weather has broken up, supposed to be BBQ time, hopefully it break as now
+  it is just pouring rain. Hopefully we'll get a good summer. Guy smoking a
+  joint in a hallway
+- (Passaic County NJ - 8:44 PM Suspicious Activity) Suspicious vehicle trading
+  DVD player for drugs 
+- (Passaic County NJ - 5:04 PM Traffic Stop) man with 50 bags of dope (9:49 PM
+  Suspicious Vehicle) man with do rag drug stop. AKA Riding With Corporal
+  Damiano.
 
 ### S16E19
 
 Aired 2004-03-13.
 
-**Coast to Coast 56** (Philadelphia, PA - 5:20 PM Officer Assistance Call) 24th District - Officer Neil Carr says the best thing about catching dealers is making the neighborhood happy. His partner Officer John Ciarlante says it is a great district and it is great taking dealers off the streets and giving it back to the kids. A black guy on a bicycle has drugs and they cut him off and he runs. He swallowed some crack and they also caught Denise who he was selling the crack to. Spokane WA (7:23 PM Animal Disturbance Call) A man sits on a loose rottweiler from his neighbors yard who tried to bite him. Animal control is brought in and captures it. Then they go confront the dopey owner. Des Moines IA (1:10 AM Street Patrol) Larry is seen in an alley with hands on his girlfriend. The find he has meth and a butterfly knife and then dumps more meth in the backseat of the police car.
+**Coast to Coast 56**
+
+- (Philadelphia, PA - 5:20 PM Officer Assistance Call) 24th District - Officer
+  Neil Carr says the best thing about catching dealers is making the
+  neighborhood happy. His partner Officer John Ciarlante says it is a great
+  district and it is great taking dealers off the streets and giving it back to
+  the kids. A black guy on a bicycle has drugs and they cut him off and he
+  runs. He swallowed some crack and they also caught Denise who he was selling
+  the crack to.
+- Spokane WA (7:23 PM Animal Disturbance Call) A man sits on a loose rottweiler
+  from his neighbors yard who tried to bite him. Animal control is brought in
+  and captures it. Then they go confront the dopey owner.
+- Des Moines IA (1:10 AM Street Patrol) Larry is seen in an alley with hands on
+  his girlfriend. The find he has meth and a butterfly knife and then dumps
+  more meth in the backseat of the police car.
 
 ### S16E20
 
 Aired 2004-03-20.
 
-**Coast to Coast 57** (Spokane, WA - 11:58 PM Traffic Stop) Officer Rob Boothe says he's been with the department for nine years and his job is to find the bad guys and make the streets safe. The best thing would be for them to stay home at night. A 340 pound bald white man is clocked doing 85 in a 35 zone and after a pursuit he fights and gets shot with a taser gun and a K9 is brought in so then he behaves. He keeps saying that he hates the world. Portland OR (9:12 PM Suspicious Activity) Cops see a prostitute and a John and when they approach he runs and they catch him. He says he has a warrant and he has meth. He is sweating like a pig and starts crying and wants a cigarette from his mom. His mom gives him the what for. Wichita KS (8:16 PM Domestic Disturbance Call) Chris hits his sister in the face with a box of baby wipes because he called them on the phone and they hung up. Everyone in the family gets crazy, but in the end there is nothing the police can do.
+**Coast to Coast 57**
+
+- (Spokane, WA - 11:58 PM Traffic Stop) Officer Rob Boothe says he's been with
+  the department for nine years and his job is to find the bad guys and make
+  the streets safe. The best thing would be for them to stay home at night. A
+  340 pound bald white man is clocked doing 85 in a 35 zone and after a pursuit
+  he fights and gets shot with a taser gun and a K9 is brought in so then he
+  behaves. He keeps saying that he hates the world.
+- Portland OR (9:12 PM Suspicious Activity) Cops see a prostitute and a John
+  and when they approach he runs and they catch him. He says he has a warrant
+  and he has meth. He is sweating like a pig and starts crying and wants a
+  cigarette from his mom. His mom gives him the what for.
+- Wichita KS (8:16 PM Domestic Disturbance Call) Chris hits his sister in the
+  face with a box of baby wipes because he called them on the phone and they
+  hung up. Everyone in the family gets crazy, but in the end there is nothing
+  the police can do.
 
 ### S16E21
 
 Aired 2004-04-03.
 
-**Coast to Coast 58** (Portland, OR - 10:41 PM Fight in Progress) Central Precinct - Officer Matt Stimmel says they are in the bar district and people come downtown to have a good time on Friday and Saturday nights. It's taxing at times but they want the kids to have a good clean time. His partner Officer Cathy Kent says people go down to the park or the river and come up to a nearby bar. They head there and see a fight in the street. Two girls and a guy are fighting in the street. A guy jumps on a policewoman's back to try to stop her and gets tasered. The fight was over them trying to use a fake ID to get into a club. Cathedral City CA (7:16 PM Traffic Stop) A car runs a stop sign and the inside of the car smells of pot. The 19 year old white and black guy inside have a roach and a bunch of blunts. Wichita KS (9:55 PM Domestic Disturbance Call) A man in an orange flees the scene and hides behind a dumpster. He is drunk and hit his girl and punched the closet.
+**Coast to Coast 58**
+
+- (Portland, OR - 10:41 PM Fight in Progress) Central Precinct - Officer Matt
+  Stimmel says they are in the bar district and people come downtown to have a
+  good time on Friday and Saturday nights. It's taxing at times but they want
+  the kids to have a good clean time. His partner Officer Cathy Kent says
+  people go down to the park or the river and come up to a nearby bar. They
+  head there and see a fight in the street. Two girls and a guy are fighting in
+  the street. A guy jumps on a policewoman's back to try to stop her and gets
+  tasered. The fight was over them trying to use a fake ID to get into a club.
+- Cathedral City CA (7:16 PM Traffic Stop) A car runs a stop sign and the
+  inside of the car smells of pot. The 19 year old white and black guy inside
+  have a roach and a bunch of blunts.
+- Wichita KS (9:55 PM Domestic Disturbance Call) A man in an orange flees the
+  scene and hides behind a dumpster. He is drunk and hit his girl and punched
+  the closet.
 
 ### S16E22
 
 Aired 2004-04-10.
 
-**Coast to Coast 59** (Palm Beach County FL - 11:43 PM Sting Operation) Sheriff's Office Organized Crime Bureau - An undercover cop tells two uniformed officers they need there help backing them up. They are delivering dope to a gas station and needs them to block the suspects in and they'll do the rest. A black guy gets arrested at a Hess station with cocaine and a stolen car after a K9 is brought in. A whit guy gets busted selling crack at a gas station. Spokane WA (1:54 AM Officer Assistance Call) Cops kick in a door to arrest Russell for domestic violence for attacking his wife. Des Moines IA (6:33 PM Pursuit in Progress) Cops chase a motorcycle down a railroad track and the cop blows a tire and gets struck while trains are coming from both directions.
+**Coast to Coast 59**
+
+- (Palm Beach County FL - 11:43 PM Sting Operation) Sheriff's Office Organized
+  Crime Bureau - An undercover cop tells two uniformed officers they need there
+  help backing them up. They are delivering dope to a gas station and needs
+  them to block the suspects in and they'll do the rest. A black guy gets
+  arrested at a Hess station with cocaine and a stolen car after a K9 is
+  brought in. A whit guy gets busted selling crack at a gas station.
+- Spokane WA (1:54 AM Officer Assistance Call) Cops kick in a door to arrest
+  Russell for domestic violence for attacking his wife.
+- Des Moines IA (6:33 PM Pursuit in Progress) Cops chase a motorcycle down a
+  railroad track and the cop blows a tire and gets struck while trains are
+  coming from both directions.
 
 ### S16E23
 
 Aired 2004-04-17.
 
-**Coast to Coast 60** (Portland, OR - 10:16 PM Officer Assistance Call) Transit Division - Officer Craig Mendenhall talks about the prostitution problem on buses and trains. A call comes in for a foot pursuit where an officer on a horse is chasing a fat Chinese guy. He kicked a girl in the face on a train and took off by trying to escape onto a bus. The other cop hits him with a taser. Palm Springs, CA (10:38 PM Officer Assistance Call) Officer Sam talks about loving his job. Scott was spotted during a traffic stop as the man who robbed vending machines the week before. He was identified by the cop who saw him in a surveillance video. They find a big drill and quarter wraps in the toolbox in his truck. He says he is innocent. (11:21 PM Officer Assistance Call) A man's truck stalled out and his plates expired three years ago. He has a warrant and they arrest him. he is with his girlfriend who is crying because she forced him to give her a ride. He has two felony warrants from anger management violations. Wichita, KS (7:34 PM Disturbance Call) Officer Aaron Gillespie talks about spending time with his wife. A father calls police that his son is trying to get into his house where he isn't allowed. The house is a disaster and the hippy biker dad can't take him any more because he's been drunk for three days. Dad thinks he is 59 or 60 years old and his son has been busting up the place. They try to get the son to go somewhere else, but no one wants him. It turns out he has a warrant, so he goes to jail.
+**Coast to Coast 60**
+
+- (Portland, OR - 10:16 PM Officer Assistance Call) Transit Division - Officer
+  Craig Mendenhall talks about the prostitution problem on buses and trains. A
+  call comes in for a foot pursuit where an officer on a horse is chasing a fat
+  Chinese guy. He kicked a girl in the face on a train and took off by trying
+  to escape onto a bus. The other cop hits him with a taser.
+- Palm Springs, CA (10:38 PM Officer Assistance Call) Officer Sam talks about
+  loving his job. Scott was spotted during a traffic stop as the man who robbed
+  vending machines the week before. He was identified by the cop who saw him in
+  a surveillance video. They find a big drill and quarter wraps in the toolbox
+  in his truck. He says he is innocent.
+- (11:21 PM Officer Assistance Call) A man's truck stalled out and his plates
+  expired three years ago. He has a warrant and they arrest him. he is with his
+  girlfriend who is crying because she forced him to give her a ride. He has
+  two felony warrants from anger management violations.
+- Wichita, KS (7:34 PM Disturbance Call) Officer Aaron Gillespie talks about
+  spending time with his wife. A father calls police that his son is trying to
+  get into his house where he isn't allowed. The house is a disaster and the
+  hippy biker dad can't take him any more because he's been drunk for three
+  days. Dad thinks he is 59 or 60 years old and his son has been busting up the
+  place. They try to get the son to go somewhere else, but no one wants him. It
+  turns out he has a warrant, so he goes to jail.
 
 ### S16E24
 
 Aired 2003-11-01.
 
-**Naked Cops 2 Special Edition** (Portland, OR - 10:21 PM Disturbance Call) Transit Division - Officer Jason Preston When officers respond to a report of a naked man prowling the neighborhood, they find their suspect wearing pink underwear. Des Moines, IA AKA Naked Perps or Perpetrators.
+**Naked Cops 2 Special Edition** AKA Naked Perps or Perpetrators.
+
+- (Portland, OR - 10:21 PM Disturbance Call) Transit Division - Officer Jason
+  Preston When officers respond to a report of a naked man prowling the
+  neighborhood, they find their suspect wearing pink underwear.
+- Des Moines, IA
 
 ### S16E25
 
 Aired 2004-05-22.
 
-**Bad Girls! 5 Special Edition** (Spokane WA - 5:42 PM Shoplifting Call) Officer Daniel Waters says Spokane is fantastic, not large, great people, proud to be there because everyone works together. Cops go to a 7-11 where a woman is caught stealing and started fighting. She even fights with the two cops and the cries and wails that they are hurting her and she hates cops. She loses a show and cries some more. She even bit the cop all over trying to steal a 12 pack of Keystone Beer. She tried to steal stuff from them the week before and bit the cashier Chris. In the end she said her boyfriend told her to do it. Jacksonville, FL (1:58 AM Suspicious Activity) Officer James Easson stops a van with two young girls inside. Rachel says she drank, but didn't smoke crack. Candy says she won't go down for her friend. They find coke on Rachel's side and she gets arrested. Candy doesn't know what to say because she doesn't want to get in trouble. Philadelphia, PA (10:12 PM Disturbance in Progress) An ignorant black woman is waiting outside and says she was attacked by her friend who robbed a Laundromat. The other woman says the first woman's son is the problem. He is a drug addict and was shot 14 times and she can't get rid of them. She says she cut herself breaking the table. The second one broke the first one's TV and dishes. The first one says it was from her dad's funeral. The second woman is arrested for domestic and possibly cut the first one with a knife.
+**Bad Girls! 5 Special Edition**
+
+- (Spokane WA - 5:42 PM Shoplifting Call) Officer Daniel Waters says Spokane is
+  fantastic, not large, great people, proud to be there because everyone works
+  together. Cops go to a 7-11 where a woman is caught stealing and started
+  fighting. She even fights with the two cops and the cries and wails that they
+  are hurting her and she hates cops. She loses a show and cries some more. She
+  even bit the cop all over trying to steal a 12 pack of Keystone Beer. She
+  tried to steal stuff from them the week before and bit the cashier Chris. In
+  the end she said her boyfriend told her to do it.
+- Jacksonville, FL (1:58 AM Suspicious Activity) Officer James Easson stops a
+  van with two young girls inside. Rachel says she drank, but didn't smoke
+  crack. Candy says she won't go down for her friend. They find coke on
+  Rachel's side and she gets arrested. Candy doesn't know what to say because
+  she doesn't want to get in trouble.
+- Philadelphia, PA (10:12 PM Disturbance in Progress) An ignorant black woman
+  is waiting outside and says she was attacked by her friend who robbed a
+  Laundromat. The other woman says the first woman's son is the problem. He is
+  a drug addict and was shot 14 times and she can't get rid of them. She says
+  she cut herself breaking the table. The second one broke the first one's TV
+  and dishes. The first one says it was from her dad's funeral. The second
+  woman is arrested for domestic and possibly cut the first one with a knife.
 
 ### S16E26
 
 Aired 2004-04-24.
 
-**Coast to Coast 61** (Spokane, WA - 10:23 AM Pursuit in Progress) Cpl Jim Muzatko enjoys playing the game with criminals. Sometimes you win, sometimes you lose. Cops chase a stolen black car into a park and pin it. The ignition was punched and he has a pot pipe. They take him to jail for a meth test. Jacksonville FL (8:45 PM Officer Assistance Call) A black guy in a silver car runs from cops and crashes into a tree. The air bag deploys and he gets knocked out. He comes to and says he was shot at. He hit an overpierced woman's car in the chase. Philadelphia PA (9:15 PM Domestic Disturbance Call) Cops go to an apartment where a white girl and black guy are fighting. Jacquelyn is packing up to leave and is on heroin. Her mom is coming to pick her up.
+**Coast to Coast 61**
+
+- (Spokane, WA - 10:23 AM Pursuit in Progress) Cpl Jim Muzatko enjoys playing
+  the game with criminals. Sometimes you win, sometimes you lose. Cops chase a
+  stolen black car into a park and pin it. The ignition was punched and he has
+  a pot pipe. They take him to jail for a meth test.
+- Jacksonville FL (8:45 PM Officer Assistance Call) A black guy in a silver car
+  runs from cops and crashes into a tree. The air bag deploys and he gets
+  knocked out. He comes to and says he was shot at. He hit an overpierced
+  woman's car in the chase.
+- Philadelphia PA (9:15 PM Domestic Disturbance Call) Cops go to an apartment
+  where a white girl and black guy are fighting. Jacquelyn is packing up to
+  leave and is on heroin. Her mom is coming to pick her up.
 
 ### S16E27
 
