@@ -4,11 +4,11 @@ This is a fork of William "Thrawn" Wolf III's original ["Cops on Fox"
 guide](http://www.geocities.ws/copsonfox/), hosted on geocities.
 
 This version contains fixes, has better design and hosting, and will eventually
-cover seasons 21 through 33.
+also cover seasons 21 through 33.
 
-Note that this is still a work in progress. [Pull
-requests](https://github.com/copsTvFan/cops-episode-guide/pulls) and emails
-welcome (`copsTvFan` *at* `protonmail.com`).
+Note that this is still a work in progress. You can edit this page via [pull
+requests](https://github.com/copsTvFan/cops-episode-guide/pulls). Emails
+are also welcome (`copsTvFan` *at* `protonmail.com`).
 
 ## Season 1 (1989)
 
@@ -8285,7 +8285,7 @@ Aired 2001-02-26.
 - (Martin County FL - 4:27 PM Assistance Call) S11E27
 - (Las Vegas, NV - 8:56 PM Street Patrol/Now Assistance Call) S07E16
 
-### S03E03 special
+### S13 special 01
 
 Aired 2001-05-??.
 
@@ -11957,7 +11957,329 @@ TODO
 
 2017–2018.
 
-TODO
+### S30E01
+
+Aired 2017-06-17.
+
+"On the Dean's List"
+
+- A wanted man makes a desperate decision after he flees on foot.
+- An overprotective girlfriend questions the cops and finds herself in cuffs.
+- A jealous man loses more than his girlfriend after he picks a fight with her son.
+
+### S30E02
+
+Aired 2017-06-24.
+
+"Dog Treats and Delinquents"
+
+- A repeat offender takes the police on a bumpy ride.
+- A deputy schools a couple of teens after he discovers them in a parked car.
+- A woman is shocked when deputies reveal her brother’s secret.
+
+### S30E03
+
+Aired 2017-06-24.
+
+"Surprise Guest"
+
+- Police organize a search of a neighborhood and find the suspect in a tight spot.
+- A pastor calls the cops when a suspicious car parks behind his church.
+- An officer gives valuable advice to a young mother with a troubled past.
+
+### S30E04
+
+Aired 2017-07-08.
+
+"On the Fence"
+
+- A precarious foot pursuit ends with the suspect in an embarrassing position.
+- A motorist calls the cops when a pedestrian loses his cool.
+- A relationship is jeopardized when a man resorts to old habits.
+
+### S30E05
+
+Aired 2017-07-15.
+
+"Do Not Pass Go"
+
+- A chatty motorist becomes agitated when officers start asking questions.
+- Police are shocked when a fleeing driver calls his wife in the middle of a pursuit.
+- Deputies catch a man lying and give him a test to prove his innocence.
+
+### S30E06
+
+Aired 2017-07-22.
+
+"Pants on Fire"
+
+- With officers hot on his trail, a wanted suspect’s world comes crashing down.
+- A tearful woman calls deputies to help apprehend her hostile husband.
+- During a traffic stop, one passenger tries to outrun the police and his past.
+
+### S30E07
+
+Aired 2017-07-29.
+
+"Dirty Laundry"
+
+- A suspect turns a small problem into a huge one when he decides to run.
+- A defiant woman reveals her misdeeds and puts her marriage at risk.
+- Deputies investigate a suspicious female, but it’s her friend that ends up in cuffs.
+
+### S30E08
+
+Aired 2017-08-05.
+
+"Jumping the Gun"
+
+- Surrounded by officers, a driver’s sneaky passenger makes a bold move.
+- Tempers flare between roommates after a woman feeds eggs to her dog.
+- A deputy acts swiftly when he spots a dangerous object in the backseat of a vehicle.
+
+### S30E09
+
+Aired 2017-08-12.
+
+"Wrong Way Home"
+
+- A parolee manages to outrun officers, but his luck quickly runs out.
+- A quarreling couple attracts their neighbors’ attention, and police are called to intervene.
+- A disoriented driver blames his freak accident on bad weather.
+
+### S30E10
+
+Aired 2017-08-21.
+
+"Bad Business"
+
+- Tasers are deployed after an erratic suspect attempts to outsmart officers.
+- A lawbreaker tries to convince detectives they didn’t just see him commit a crime.
+- An officer is called to supervise a ridiculous business transaction.
+
+### S30E11
+
+Aired 2017-08-21.
+
+"I Used to Use My Brain"
+
+- A first-time offender immediately regrets his destructive decisions.
+- Nothing adds up when an evasive driver tells police that he’s the victim of a crime.
+- A deputy encourages a troubled young woman to turn her life around.
+
+### S30E12
+
+Aired 2017-08-28.
+
+"Crawl Space Catnap"
+
+- A fleeing suspect tries every lame excuse to get out of going to jail.
+- A sleepy driver asks deputies to hide the truth from his angry wife.
+- Police hear everyone’s story when a trespassing call becomes a neighborhood-wide ordeal.
+
+### S30E13
+
+Aired 2017-09-11.
+
+"Set in His Ways"
+
+- (3:53 PM Suspicious Person) A repeat offender runs when officers catch him somewhere he’s not supposed to be.
+- Two teens are slow to stop a bike thief, so police are called to assist.
+- Tensions rise after a questionable roommate situation takes a dark turn.
+
+### S30E14
+
+Aired 2017-09-18.
+
+"Wedding Car Crasher"
+
+- An unruly man tries to give officers the slip.
+- Witnesses call the cops when a well-dressed driver plows through multiple barricades.
+- Even deputies are surprised when a domestic call takes an unexpected turn.
+
+### S30E15
+
+Aired 2017-09-23.
+
+"Fake Friends"
+
+- It’s off to the races when an injured suspect spots his window of opportunity.
+- A man bosses officers around after he’s caught with some unsavory items.
+- Detectives catch a man in a sting, but he still won’t admit to his crime.
+
+### S30E16
+
+Aired 2017-10-02.
+
+"Nowhere to Hide"
+
+- Time is of the essence when officers attempt to track down an armed carjacking suspect.
+- Police arrive at a hectic scene and a witness sets the record straight.
+- A confrontational cyclist blames his bad behavior on anime.
+
+### S30E17
+
+"Loaded Up and Trucking"
+
+- A reckless driver tries to escape both the officers and the pain of a broken heart.
+- Officers catch a PTA dad setting a bad example.
+- A woman with a checkered past has a hard time turning over a new leaf.
+
+### S30E18
+
+Aired 2017-10-16.
+
+"It’s Nothing Personal"
+
+- It’s a reunion of sorts when the police catch up to a familiar face.
+- Emotions run high after a man’s mistress starts problems with his wife.
+- Officers have trouble getting a straight answer from a suspicious duo.
+
+### S30E19
+
+Aired 2017-10-23.
+
+"Run and Gun"
+
+- A wanted man makes a break for it with deputies hot on his trail.
+- Police find themselves in a vehicle pursuit when a driver’s fears get the better of him.
+- A traffic stop exposes a car full of people who have a lot to hide.
+
+### S30E20
+
+Aired 2017-10-30.
+
+"Face the Music"
+
+- Officers glove up when they apprehend a skittish suspect with a serious skin condition.
+- A father-to-be quickly learns that running only makes things worse.
+- An aspiring rapper treats officers to a song after he ends up in cuffs.
+
+### S30E21
+
+Aired 2017-11-06.
+
+"Scaredy Cat"
+
+- Officers subdue an erratic man who’s convinced that a wild animal is following him.
+- A birthday celebration quickly goes south when guns get involved.
+- Deputies help break up a volatile domestic situation.
+
+### S30E22
+
+Aired 2017-11-13.
+
+"Fake Cash and Whiplash"
+
+- (5:56 PM Stolen Vehicle) A quiet neighborhood turns into the scene of a dangerous multi-vehicle pursuit.
+- A man down on his luck tries to hide his guilt by ditching some clothes.
+- Fists go flying when a shopkeeper confronts a man who ripped him off.
+
+### S30E23
+
+Aired 2018-01-22.
+
+"Just Desserts"
+
+- A suspect leaves his uneaten parfait behind after police find more than treats in his pocket.
+- An armed driver tells officers a far-fetched story to justify his weapon.
+- A heated back and forth ends with a call to animal control.
+
+### S30E24
+
+Aired 2018-01-29.
+
+"Late Night Shopper"
+
+- A vigilant neighbor calls the cops when he sees the downstairs liquor store being robbed.
+- A driver burns bridges with a new friend after he steals her truck.
+- Deputies urge a young man to be a better role model for his brother.
+
+### S30E25
+
+Aired 2018-02-05.
+
+"Hug It Out"
+
+- Officers pursue a wanted man and prevent a potentially deadly home invasion.
+- A tense passenger starts mouthing off before deputies can get a word in.
+- Police search for a teen’s stolen bike and find a man at the end of his rope.
+
+### S30E26
+
+Aired 2018-02-12.
+
+"The Running Man"
+
+- A half-naked cyclist takes officers on a frantic run through the neighborhood.
+- A suspicious man makes a series of wrong moves in front of his girlfriend.
+- Things get weird when police find a woman hiding in a cupboard.
+
+### S30E27
+
+"Whose Gun Is It Anyways?"
+
+- An out-of-control driver wants to get back home for a birthday party
+- a man with big dreams has a hard time telling officers why his fingerprints appear on a gun
+- a trip to buy dog food turns into a run-in with the police.
+
+### S30E28
+
+Aired 2018-04-16.
+
+"Bad Eggs"
+
+- Officers wear down their brakes when a daring driver takes them on a wild ride.
+- A chicken breeder has a shady explanation for the items discovered in his car.
+- A trigger-happy man has trouble owning up to his mistakes.
+
+### S30E29
+
+Aired 2018-04-23.
+
+"Sleight of Hand"
+
+- A DUI suspect makes some bad choices when he ventures out for a late-night snack.
+- A squabbling couple brings each other down once police start asking questions.
+- Cops pull over a man who’s convinced his passenger set him up.
+
+### S30E30
+
+"Change of Heart"
+
+- Officers step in when a man tries to start a fight with everyone in his neighborhood
+- a wanted suspect is convinced police told him to take off on his bike
+- a young, troubled mom gets a second chance to turn her life around.
+
+### S30E31
+
+Aired 2018-05-07.
+
+"Kiss and Make Up"
+
+- A motorcyclist leads officers on a chase down city streets.
+- Even a dead car battery doesn’t stop a grieving man from eluding the police.
+- A jumpy driver fails to avoid the cops and gives an awkward apology to his girlfriend.
+
+### S30E32
+
+Aired 2018-05-14.
+
+"Cheek to Cheek"
+
+- A traffic stop takes an unexpected turn when the suspect decides to go off-roading.
+- A woman refuses to cover for her son’s friend.
+- Security cameras catch a man trying to conceal some items in a not-so-nice hiding place.
+
+### S30E33
+
+Aired 2018-05-21.
+
+"Up in Smoke"
+
+- A desperate man’s last-ditch effort to flee from officers goes down in flames.
+- Multiple units work together to diffuse a dangerous situation.
+- Deputies keep an eye on a custody battle that involves some expensive groceries.
 
 ## Season 31
 
