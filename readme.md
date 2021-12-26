@@ -1,16 +1,18 @@
 # Cops Episode Guide
 
 This is a fork of William "Thrawn" Wolf III's original ["Cops on Fox"
-guide](http://www.geocities.ws/copsonfox/), hosted on geocities.
+guide](http://www.geocities.ws/copsonfox/). William passed away in 2010.
 
-This version contains fixes, has better design and hosting, and will eventually
-also cover seasons 21 through 33.
+This version contains fixes, allows text selection and copying, has better
+design and hosting, and will eventually also cover seasons 22 through 33.
 
 Note that this is still a work in progress. You can edit this page via [pull
 requests](https://github.com/copsTvFan/cops-episode-guide/pulls). Emails
 are also welcome (`copsTvFan` *at* `protonmail.com`).
 
-## Season 1 (1989)
+## Season 1
+
+1989.
 
 **Broward County FL/Russia**
 
@@ -1046,7 +1048,9 @@ Aired 1989-06-17.
   committing a crime you better stay out of our way." They keep singing as the
   credits roll.  AKA Former Soviet Union.
 
-## Season 2 (1989-90)
+## Season 2
+
+1989-1990.
 
 **Multnomah County, OR/Portland, OR/San Diego, CA/Los Angeles, CA/Mardi Gras
 1990**
@@ -2988,7 +2992,9 @@ stun gun; the questioning of a man who allegedly struck a police horse; and
 parade crowd control. A skinhead is arrested for shoplifting; a disorderly
 celebrant strikes an officer.
 
-## Season 3 (1990-91)
+## Season 3
+
+1990-1991.
 
 **Minneapolis, MN/Alaska/Las Vegas, NV/New Jersey/Pittsburgh, PA/Tampa,
 FL/Tucson, AZ/ Riverside County CA/Houston, TX/London, England/Best of 1&2**
@@ -5179,7 +5185,9 @@ Aired 1991-07-06.
 - (Broward County FL) Deputy Linda Canada goes to a call of Nancy and her
   daughter who want her boyfriend not to come back from S01E02
 
-## Season 4 (1991-92)
+## Season 4
+
+1991-1992.
 
 **Kansas City MO&KS/King County WA/Pittsburgh, PA/U.S. Marshals/Boston,
 MA/Memphis, TN/Miami, FL/South Florida/Pierce County WA**
@@ -5957,7 +5965,9 @@ open fractures and the mans' helmet landed 120 feet away. The driver of the car
 was DUI and charged with two counts of vehicular assault. The girl is only 15
 and had to have a leg amputated.
 
-## Season 5 (1992-93)
+## Season 5
+
+1992-1993.
 
 **Pierce County WA/Homicide USA/Denver, CO/DEA/Denver, CO/San Bernardino,
 CA/Philadelphia, PA/ Fort Worth, TX/Phoenix, AZ/United States Special**
@@ -6295,7 +6305,9 @@ Aired 1993-08-??.
 - (Las Vegas, NV - 7:45 PM Code Red - Officer Emergency) S03E11
 - (Las Vegas, NV - 11:01 PM Communication Center) S03E18. AKA Cops Classics
 
-## Season 6 (1993-94)
+## Season 6
+
+1993-1994.
 
 **Sacramento, CA/Nashville, TN/El Paso, TX/Cleveland, OH/New York
 City/Little Rock, AR/Indianapolis, IN/Hong Kong**
@@ -6576,7 +6588,9 @@ Aired 1994-06-18.
 
 **Hong Kong Special** (Royal Hong Kong Police Force Bagpipe March) A boat chase with drug smugglers; prostitution sting.
 
-## Season 7 (1994-95)
+## Season 7
+
+1994-1995.
 
 **Los Angeles, CA/Las Vegas, NV/Kansas City, MO/New York City/Best of**
 
@@ -6824,7 +6838,9 @@ Aired 1995-06-??.
 
 **Best of Cops 7** (Jersey City, NJ - 8:59 PM Shooting Call) West District - Officer Russ McDonald says it is the 1st or 2nd busiest district in the state - lots of shootings, robberies and guns. Most houses have 1 or 2 bullet holes in them His partner is Officer Mark Razzoli and they go to a shooting call looking for 3 men on bikes wearing hoods who shot a girl on Clinton Ave and one is caught with drugs/Dallas, TX - Car chase on the freeway with a drunk in a red pickup who goes home/Fort Worth, TX - Assistance call at a Fina gas station with an insane man who thinks he's Elvis' son in law.
 
-## Season 8 (1995-96)
+## Season 8
+
+1995-1996.
 
 **Mardi Gras 1995/New Orleans, LA/Tampa, FL/Dallas, TX/Fort Worth,
 TX/Buffalo, NY/Albuquerque, NM/Orange County, CA/Best of**
@@ -7107,7 +7123,9 @@ Aired 1996-02-09.
 - (Los Angeles, CA - 9:46 PM "911" Call Hang Up) S07E04
 - (Kansas City, KS - 6:05 PM Street Patrol) S04E07
 
-## Season 9 (1996-97)
+## Season 9
+
+1996-1997.
 
 **Miami, FL/Boston & New City, MA/Providence, RI/Miami, FL/Pierce County
 WA/Fresno, CA/Fort Myers, FL**
@@ -7328,7 +7346,9 @@ Aired 1997-07-12.
 
 **Fort Myers, FL 6** (7:03 PM Assistance Call) Lee County Sheriff's Dept West District - Deputy Pete Hendrick assists another officer who pulled over a car with stolen plates. He also has a suspended license, causing his young daughter to break into tears. Deputy Miller questions a man who claims the marijuana in his possession is used for medicinal purposes. Deputy Short arrests a man for beating his girlfriend.
 
-## Season 10 (1997-98)
+## Season 10
+
+1997-1998.
 
 **Las Vegas, NV/Kansas City, MO & KS/Nashville, TN/Texas/Sturgis Biker Rally 1997**
 
@@ -7548,7 +7568,9 @@ Aired 1998-02-07.
 
 **Sturgis Biker Rally 1997 Special** (Briefing) Chief Jim Bush says a large numbers of crowds come from all over the country and the world. Lots of the bikers may not be familiar with their laws and they need to be patient in explaining them first instead of just arresting them. Get them to uphold the laws and make it as safe as possible for them and the locals. Cpl. Jay Evenson Pennington County Sheriff's Office - One of the most fun times for the officers dealing with a variety of things. The only problem is for that week and a half there is no days off. Most of the officers are having a good time and there to have fun. Cpt. Doug Feltman - Mitchell PD - They only get to see these people once a year.
 
-## Season 11 (1998-99)
+## Season 11
+
+1998-1999.
 
 **Atlanta, GA/Virginia Beach, VA/Palm Beach, FL/Arizona**
 
@@ -7803,7 +7825,9 @@ Aired 1999-09-18.
 
 **Arizona 6** (12:04 AM Robbery in Progress) Central Division - F.T.O. Richard Encinas was born and raised in Phoenix, the next town over, grew up in Mesa, went to college at the University of Arizona and always thought about becoming a cop. He applied and luckily he made it He's been there three years and has been an F.T.O. for 8 months. It's the best job in the world and he wouldn't trade it for anything. Surveillance footage at a gas station shows a cop firing at a pickup truck. Suspects nearly hit an officer during a getaway; officers arrest a man throwing things off a balcony; a man says his girlfriend ran into a field intending to commit suicide.
 
-## Season 12 (1999-00)
+## Season 12
+
+1999-2000.
 
 **Indianapolis, IN/Fort Worth, TX/Albuquerque, NM**
 
@@ -8023,7 +8047,9 @@ Aired 2000-07-29.
 
 **Albuquerque, NM 21** (12:31 PM Prostitution Sting) Vice Unit - Sgt. Clarence G. Davis backs up Detective Tod Babcock who is undercover driving in a truck picking up whores. The first is Kelly who even recognizes him, but he convinces her he isn't who she thinks he is and she will give him a BJ for $20. stolen video tapes; heroin possession; false report.
 
-## Season 13 (2000-01)
+## Season 13
+
+2000-2001.
 
 **Jacksonville, FL/Pierce County WA/New Jersey/Mesa, AZ/Best of**
 
@@ -8291,7 +8317,9 @@ Aired 2001-05-??.
 
 **Greatest Moments 2 hours** - 15. Cleveland, OH - 2:07 AM Stolen Car Call - #628.
 
-## Season 14 (2001-02)
+## Season 14
+
+2001-2002.
 
 **West Palm Beach, FL/Atlanta, GA/Des Moines, IA/Chattanooga, TN/Fort Worth, TX/Palm Beach County FL/Tampa, FL/San Bernardino, CA/Best of**
 
@@ -8514,7 +8542,9 @@ Aired 2002-09-14.
 
 **Extreme Cops** (Houston, TX - 12:32 AM Car Pursuit) Police officers face life-threatening situations; dangerous car chases; officers detonate grenades during a drug raid.
 
-## Season 15 (2002-03)
+## Season 15
+
+2002-2003.
 
 **Albuquerque, NM/Bernalillo County NM/Broward County FL/Chattanooga,
 TN/Davidson County NC/Forsyth County NC/Fort Worth, TX/Hillsborough County
@@ -8739,7 +8769,9 @@ Aired 2003-02-01.
 
 **Bad Girls! 2 Special Edition** (Albuquerque, NM - 1:31 PM Suspicious Activity) Southeast Area Command - Officer John Guilmette says his partner talked him into going back to school and they are two months into it. They took the exam last night, the pressures off, rough 11 weeks doing work, family and college. Officer John Corvino says they are finally going to get a degree after so many years and should've done it a while ago. They spot a red car stopped with two people inside who seem out of it and have drugs and money that aren't theirs. An officer advises a 17-year-old Mexican boy who is dressed as a girl driver not to pick up strangers; a truck driver says two women broke into his truck and stole his wallet. Nashville, TN
 
-## Season 16 (2003-04)
+## Season 16
+
+2003-2004.
 
 **Forsyth County NC/Indio, CA/Mardi Gras 2003/New Orleans, LA/New York City,
 NY/Palm Beach County FL/Palm Springs, CA/Passaic, NJ/Pierce County WA/Portland,
@@ -9279,7 +9311,9 @@ Aired 2004-05-01.
 - Harris County TX (10:50 PM Traffic Stop) A female cops stops a red truck and a drunk crashes into her police car. He says he wasn't drinking though. The police car was pushed into the truck. They give the drunk a sobriety test and he fails.
 - Lee County, FL (10:21 PM Robbery Call) Cops go through a yard looking for the guy and find a bunch of pot plants in the yard and a room full of pot plants in the shed. They come back with a search warrant and raid the house and it is full of growing pit and there are tons of guns.
 
-## Season 17 (2004-05)
+## Season 17
+
+2004-2005.
 
 **Covington, KY/Forth Worth, TX/Fresno, CA/Hamilton Co, OH/Jacksonville,
 FL/Mardi Gras 2004/New Orleans, LA/Passaic County NJ/Pierce County WA/Riverside
@@ -10710,7 +10744,9 @@ works with, all the squad guys, his sgt, lt, good to have the support, teamwork
 and camaraderie, they all chase bad guys and go home safely, that's their goal.
 Fresno, CA/San Bernardino County, CA
 
-## Season 18 (2005-06)
+## Season 18
+
+2005-2006.
 
 **Anchorage, AK/Atlanta, GA/Chattanooga, TN/Fort Myers, FL/Fort Worth,
 TX/Fresno, CA/Gwinnett County GA/Las Vegas, NV/Lee County FL/Maricopa County
@@ -11066,7 +11102,9 @@ Aired 2006-07-22.
 - Palm Springs, CA
 - Martin County FL
 
-## Season 19 (2006-07)
+## Season 19
+
+2006-2007.
 
 **Atlanta, GA/Brevard County FL/Chattanooga, TN/Fontana, CA/Las Vegas,
 NV/Lowell, MA/Martin County FL/Okaloosa County FL/Palm Beach County
@@ -11307,7 +11345,9 @@ Aired 2007-07-28.
 
 **Coast to Coast 129** (Pittsburgh, PA - 7:50 PM Pursuit in Progress) Bureau of Police Street Response Unit officers make a traffic stop and detect suspicious behavior; Hillsborough County, FL, deputies answer a domestic-dispute call. Las Vegas, NV - 2:17 AM Stolen Vehicle
 
-## Season 20 (2007-08)
+## Season 20
+
+2007-2008.
 
 **Brevard County FL/Cincinnati, OH**/**Fresno. CA/Indio, CA/Kansas City,
 MO/Hillsborough County FL**/**Lansing, MI/Las Vegas, NV**/**Lee County FL/Leon
@@ -11763,7 +11803,695 @@ Aired 2007-09-29.
 
 2008–2009.
 
-TODO.
+### S21E01
+
+Aired 2008-09-06.
+
+**What a Sap Special Edition**
+
+- (Palm Beach County FL - 8:46 PM Traffic Stop) Sheriff's Office District 3 -
+  Cpl Matthew Ott spots a vehicle traveling at a higher than posted speed
+  through a neighborhood known for drug activities. The Corporal stops the
+  vehicle and the driver immediately opens his door and questions the reason
+  behind the stop. When Ott asks the man to step out of the car, the agitated
+  man exclaims 'f--k this sh-t' and drives away. Corporal Ott pursues only to
+  have the suspect vehicle make a u-turn and head towards him. The corporal
+  continues the pursuit for a short distance and watches as the driver drives
+  off of the highway and the passenger bails from the vehicle. The driver is
+  pulled from the car at gun point and the female passenger is retrieved from
+  her hiding place. The female claims she wasn't in the car and doesn't know
+  the driver, but shortly thereafter she shouts her affections towards the man
+  and calls him by name. The frustrated corporal eventually gets a confession
+  from her as she breaks down and admits that the two were at a bar and had a
+  few drinks. She also stated that the man had crack in the vehicle. Another
+  deputy arrives on scene with a pill bottle filled with crack that has been
+  recovered from the scene of the initial encounter with the suspect. The
+  driver continues to extol his innocence and states he recently was released
+  from jail and has no intention of going back.
+- (Spokane, WA - 2:41 AM Domestic Disturbance Call) Officer Brian Eckersley
+  responds to a possible domestic in progress on the side of the road. He finds
+  a male standing underneath a tree and spots a female in the tree. The man
+  explains that the intoxicated woman climbs trees all of the time and is
+  currently upset over some family problems. Eckersley suggests that the two
+  calm down and find a place to sleep it off. In the second part, the officers
+  spot a vehicle that has apparently hit a tree and determine that that driver
+  had a few drinks that evening and nodded off before running into the tree.
+  Both the driver and passenger are uninjured.
+- (Rialto, CA - 5:05 PM Possible Drug Activity) PD - Sgt. Vince Licata patrols
+  a neighborhoods with recent drug related problems. As he turns down an alley,
+  he spots what appears to be a hand to hand drug transaction and watches a man
+  runs away. He stops the vehicle involved in the possible activity and
+  questions the driver and passenger. They both state that they are
+  construction workers on their way to buy supplies. The officers ask both men
+  from the vehicle and pat them down. They find $800 in cash on the passenger.
+  Neither man claims to know what the man that ran away was doing near their
+  car. The officers find a baggie of crack cocaine on the floor and question
+  the men again. The passenger first claims that the man tossed the dope inside
+  the vehicle, then he claims the man also threw the $800 at him, then changes
+  his story and states the dope and the money are the driver's possessions and
+  he was trying to protect his co-worker.
+
+### S21E02
+
+Aired 2008-09-13.
+
+**Stupid Behavior 3 Special Edition**
+
+- (Palm Beach County FL - 1:55 PM Buy Bust Sting) Sheriff's Office Narcotics
+  Division - Sgt. Steven Strivelli and Sgt. Anthony Torella set up a sting
+  operation to catch narcotics dealers. They use two undercover officers in a
+  pickup truck posing as buyers. The first suspect flags down the deputies and
+  takes them to a drug house to purchase rock. One the way back the suspect
+  smokes his crack and is arrested without incident. The second buy happens
+  when a young man takes the two deputies to meet a vehicle in a gas station
+  parking lot to score crack. The young man makes the deal with two males in a
+  green car and then asks to partake of the crack behind the station. The
+  narcotics unit swoops in and arrests all three individuals. The suspect that
+  led the deputies to the gas station claims that he shouldn't be arrested
+  because all he did was broker the deal.
+- (Las Vegas, NV - 11:01 PM Assistance Call) South Central Area Command Metro
+  PD - Officer Travis Crumrine is dispatched to a call of a man that has fled a
+  restaurant without paying his 400 dollar tab. The manager and waiter have
+  cornered the man and he is taken into custody. Crumrine learns that the man
+  is on probation. The suspect claims his friend paid the tab then states that
+  he paid the tab. The manager tells Officer Crumrine that if the man pays, he
+  doesn't want him arrested, but if he cannot pay arrest him. The man has
+  several warrants for his arrest across the country including a DUI charge
+  locally. The man is arrested for burglary & defrauding an innkeeper.
+- (Palm Beach County FL - 12:48 AM Traffic Stop) Sheriff's Office District 3
+  Street Team - Deputy Mark Lanier stops a vehicle for a tint violation. The
+  driver rolls down the window and a billowing yellow cloud of pungent
+  marijuana smoke pours from the vehicle. The deputy decides to search the
+  vehicle and soon finds a loose dome light within the vehicle and determines
+  the driver has hidden a felony mount of powder and crack cocaine in the
+  recess. The driver is arrested for possession with intent to sell, the
+  vehicle is impounded and the crack tests positive. Lanier comments that he is
+  happy to have taken another drug dealer off the streets of Palm Beach County.
+
+### S21E03
+
+Aired 2008-09-20.
+
+**Resisting Arrest 4 Special Edition**
+
+- (Broward County, FL - 1:23 AM Street Patrol) Sheriff's Office Special
+  Investigations Unit - Detective Henry Lopez and Det. Pablo Perez make contact
+  with two males hanging out in front of a store. They interview the men and
+  pat the two men down. As one of the men is searched he begins to get agitated
+  and starts to pull away from the detective when the detective located drug
+  paraphernalia on his person. A struggle ensues between two deputies and the
+  suspect and they eventually resort to using a taser against the still
+  struggling man. Even after the taser is deployed, the man continues to
+  struggle. The taser is used again and the man is taken into custody.
+- (North Las Vegas, NV - 12:19 AM Fight in Progress) Police Department South
+  Area Command - Officer Brian Snyder responds to a call of a fight at a gas
+  station. As officers arrive on scene two men take off running in opposite
+  directions and officers give chase. Officer Snyder attempts to stop the foot
+  chase by using his taser but misses the suspect. The man gives up on the
+  other side of the roadway. Another officer also captures a fleeing suspect
+  and both men are charged with obstructing.
+- (San Bernardino County CA - 7:44 AM Traffic Stop) Rancho Cucamonga Police
+  Department - Deputy Mike Mason attempts to catch up to a vehicle that ran a
+  stop sign. The vehicle stops after the driver loses control. The deputies
+  initiate a felony traffic stop and take the driver and passenger into
+  custody. The passenger is interviewed and explains that the driver is his
+  boyfriend and they were arguing about the passengers alleged infidelities
+  which led to the erratic driving. The driver tells the deputy that he was
+  driving erratically because the passenger was hitting him and he was trying
+  to get away from him. A sunglasses case is located next to the stopped
+  vehicle and baggies of meth are located inside. A scale is recovered from the
+  vehicle. The passenger states he has never seen the sunglasses case, but
+  admitted to a deputy that he did meth. Both men are arrested from sales,
+  transport and fleeing.
+
+### S21E04
+
+Aired 2008-09-27.
+
+**Black & Blue & White Special Edition**
+
+- (North Las Vegas, NV - 6:13 PM Domestic Disturbance Call) PD South Area
+  Command - Officer David Chaddock is dispatched to a domestic disturbance call
+  at a house that NLVPD has visited in the past. As Chaddock walks up to the
+  home, he sees a crowd gathered outside and when the crowd sees him, they yell
+  that the suspect is inside the residence attacking a woman. The officer
+  rushes the home and tackles the suspect. After taking the suspect into
+  custody, the suspect tells the officers that he was talking to his ex-wife
+  about rent issues. The suspects ex-wife tells her side of the story,
+  explaining that she called 311 when she saw his car and was told to call 911
+  if he actually showed up. When the suspect confronted the women, one of the
+  children called 911. The man forced his way into the domicile and is charged
+  with burglary.
+- (Broward County, FL - 7:52 PM Possible Drug Activity) Sheriff's Officer
+  Special Enforcement Team - Detective Tony Cuesta assists in an attempt to
+  intercept a drug deal in progress. A vehicle is pulled over that is suspected
+  of being a part of the transaction. The suspects are all taken into custody
+  without incident and the emotional female passenger is interviewed. The
+  passenger states that there is a half a pound of marijuana in her purse and a
+  handgun in the vehicle. After interviewing all of the occupants, the
+  detectives determine the driver was attempting to deliver the marijuana.
+  Because he was in possession of a weapon, the charges are more severe.
+- (Pomona, CA - 6:00 PM Disturbance Call) Police Department - Officer Anthony
+  Cantanese rolls to cover several officers on the scene where a black female
+  has smashed out a window. The victim explains that he was called several
+  racial slurs and the female attacked him with a pipe. The female states that
+  she was exiting her car when the victim pulled up and yelled at her to close
+  her car door or he would take it off. The woman tells officers that she threw
+  the pole at the man after he came close to her kids that were also exiting
+  the vehicle. She also mentions that she never used any racial slurs but that
+  he used one against her. Several witnesses on scene tell officers that the
+  man was at a full stop when the woman called him a honky and tossed the pipe.
+  The calm victim asks that the young woman not be arrested and only asks for
+  his window to be replaced. The young woman tearfully tells officers that she
+  feels she did nothing wrong. Eventually, her father shakes hands with the
+  victim and tells him he will get the window replaced.
+
+### S21E05
+
+Aired 2008-10-04.
+
+**Coast to Coast 145**
+
+- (Broward County FL - 10:47 PM Possible Drug Activity) Sheriff's Office
+  Special Investigations Unit - Detective Anthony Costanzo and Deputy Henry
+  Lopez are in the area tracking down a male suspect that was seen by an
+  informant selling narcotics.
+- (San Bernardino County CA - 4:39 PM Robbery Call) Rancho Cucamonga Police
+  Department - Deputy Mike Mason is dispatched to a bank robbery.
+- (San Diego County CA - 7:46 PM Deputy Assistance Call) Sheriff's Department
+  Lemon Grove Station - Corporal Christie Licudine makes contact with a female
+  complainant that has called 911 to have her boyfriend arrested.
+
+### S21E06
+
+Aired 2008-10-11.
+
+**What! Who Me? Special Edition**
+
+- (Broward County, FL - 4:09 PM Suspicious Activity) Sheriff's Office District
+  5 - Deputy Samuel Samaroo and Deputy Michael Lerner are on patrol and spot
+  several individuals gambling. When they stop to investigate the suspects take
+  off on foot.
+- (San Diego County CA - 6:38 PM Burglary Investigation) Sheriff's Dept. Vista
+  Station - Deputy Mike Myers conducts a traffic stop on a vehicle that is
+  wanted in connection with a burglary the previous week.
+- (San Bernardino County CA - 11:32 PM Deputy Assistance) Rancho Cucamonga
+  Police Department - Deputy Brad Bonnet assists another deputy on a traffic
+  stop. Deputy Jeremy Dean explains that he pulled the vehicle over for a minor
+  violation but the information given by the driver doesn't match what
+  Communications returned.
+
+### S21E07
+
+Aired 2008-09-06.
+
+**Back to Broward Special Edition**
+
+- (Broward County FL - 12:57 AM Vehicle Pursuit) Sheriff's Office Special
+  Investigations Unit - Detective Brann Redl and Detective Anthony Costanzo
+  pick up the chase of a hit and run driver. The Detectives get right up next
+  to the suspect vehicle and the driver hits their vehicle. After a prolonged
+  chase in which the Detectives make every effort to maintain a safe speed, the
+  driver of the suspect vehicle suddenly veers into them and rams them,
+  spinning himself out in the process. The Detectives stop and are able to take
+  the man into custody. The driver has receipts for bars in the area. Det. Redl
+  explains that the suspect has been involved in several felony events this
+  evening. The suspect is interviewed and the vehicle is searched subject to
+  arrest. A machete is recovered and Redl explains that there is no reason to
+  have a machete in the vehicle. The suspect tells Redl that he doesn't drive
+  and doesn't remember the evening.
+- (11:24 PM Street Patrol) Sheriff's Office Special Enforcement Team -
+  Detective Anthony Cuesta is en route to patrol an area known for drug
+  activity. The detective spots a male on a bike attempting to flee the area
+  and take the man into custody after a brief foot chase. The narcotics
+  witnessed to be in the possession of the fleeing male are quickly recovered.
+  The suspect states that he was arrested for a probation violation and was on
+  probation for delivery of cocaine. Detective Cuesta interviews the suspect
+  about the particulars of the current incident. The sergeant speaks to the 22
+  year old man and gets him to admit on camera that he was caught red handed
+  with the drugs. A test of the bagged substance is positive for cocaine.
+- (4:45 PM Suspicious Activity) Sheriff's Office District 2 - Deputy Thomas
+  Demerritte responds to a call of a suspicious vehicle parked near a business.
+  As he nears the scene, another deputy spots the vehicle leaving and initiates
+  a traffic stop. The driver is bleary eyed and states that he was sleeping
+  near the building because he was tired. He seems to have a head cold as he is
+  constantly sniffling. When Deputy Demerritte asks the man to turn the car
+  off, he spots a baggie of what appears to be powder cocaine emerge from
+  underneath the man's shirt. The man is detained several more baggies are
+  located in the vehicle. The man claims that the large quantity is for
+  personal use, but the Deputies think otherwise.
+
+### S21E08
+
+Aired 2008-11-01.
+
+**Morons on Parade Special Edition**
+
+- (San Bernardino County CA - 10:25 PM Shooting Call) Rancho Cucamonga Police
+  Department - Deputy Brad Bonnet responds to a call of a man shooting a gun in
+  his front yard.
+- (North Las Vegas, NV - 4:29 PM Domestic Disturbance Call) Police Department
+  South Area Command - Officer Scott Hafe is dispatched to a domestic call.
+- (San Diego County CA - 9:59 PM Deputy Assistance Call) Sheriff's Department
+  Vista Station - Deputy Jason Phillips responds to a code cover assistance
+  call.
+
+### S21E09
+
+Aired 2008-11-08.
+
+**Anger Management Special Edition**
+
+- (North Las Vegas, NV - 2:26 AM Officer Assistance Call) Police Department
+  South Area Command - Officer James Monroe is en route to assist another
+  officer who has located a suspect wanted in connection with a hit and run
+  early in the evening.
+- (San Bernardino County CA - 6:33 PM Domestic Disturbance Call) Rancho
+  Cucamonga Police Department - Deputy Brad Bonnet responds to a call wherein a
+  couple has gotten into an argument and the intoxicated husband has left the
+  residence on foot.
+- (North Las Vegas, NV - 1:11 AM Disturbance Call) Police Department South Area
+  Command - Officer Peter Delalis rolls to a disturbance call.
+
+### S21E10
+
+Aired 2008-11-15.
+
+**Liar Liar 2 Special Edition**
+
+- (Broward County FL - 11:22 PM Traffic Stop) Sheriff's Office Selective
+  Enforcement Team - Detective Tony Cuesta stops a vehicle for a minor traffic
+  violation.
+- (North Las Vegas, NV - 10:46 PM Fight Call) Police Department South Area
+  Command - Officer Alex Ochoa responds to a call of two subjects having a
+  fight outside.
+- (San Diego County CA - 4:55 PM Traffic Stop) Sheriff's Department Lemon Grove
+  Station - Deputy Darren Perata of the initiates a traffic stop of a vehicle
+  with an expired registration.
+
+### S21E11
+
+Aired 2008-11-22.
+
+**Evidence...What Evidence? 2 Special Edition**
+
+- (San Bernardino County CA - 7:14 PM Deputy Assistance Call) Rancho Cucamonga
+  Police Department - Deputy Brian Lopez & Deputy Keith Nessel respond to a
+  shoplifting call at a local mall.
+- (North Las Vegas, NV - 4:48 AM Shots Fired Call) Police Dept. South Area
+  Command - Officer Brian Godkin is dispatched to the scene of multiple
+  gunshots being fired at officers.
+- (Broward County FL - 4:41 PM Traffic Stop) Sheriff's Office Selective
+  Enforcement Team - Sgt. George Anthony pulls over a vehicle for aggressive
+  driving.
+
+### S21E12
+
+Aired 2008-12-06.
+
+**Coast to Coast 146**
+
+(First episode with the new TV ratings warning)
+
+- (Broward County FL - 6:28 PM Deputy Assistance Call) Sheriff's Office
+  Regional Anti-Crime Squad - Detective Bob Anderson and  Detective Ed
+  MacDougall go to assist a narcotics detective in the takedown of an ecstasy
+  dealer.
+- (Pomona, CA - 6:32 PM 911 Hang-up Call) Police Department - Officer Fred
+  Kittman is dispatched to an incomplete 911 call.
+- (North Las Vegas, NV - 9:58 PM Disturbance Call) Police Department South Area
+  Command - Officer Sean Bryan is dispatched to a disturbance at a bus stop.
+
+### S21E13
+
+Aired 2009-01-17.
+
+**Coast to Coast 147**
+
+- (Houston, TX - 9:07 PM Pursuit in Progress) Police Department Fondren
+  Division Tactical Unit - Officer Clint Ponder joins in the chase of a vehicle
+  used in a homicide that is refusing to stop.
+- (North Las Vegas, NV - 2:41 AM Disturbance Call) Police Dept South Area
+  Command - Officer Peter Delalis responds to a disturbance call.
+- (San Bernardino County CA - 5:14 PM Street Patrol) Rancho Cucamonga Sheriff's
+  Department - Deputy John Wilson & Deputy William Reece stop two younger males
+  walking across a parking lot.
+
+### S21E14
+
+2009-01-24.
+
+**Coast to Coast 148**
+
+- (Harris County TX - 3:00 AM Pursuit in Progress) Sheriff's Office District I
+  -- Deputy Garrett Hardin assists in the pursuit a a truck with a flatbed
+  trailer stacked with golf carts.
+- (North Las Vegas, NV - 10:35 PM Suspicious Vehicle) PD South Area Command --
+  Officer Becky Rooks spots a mini-van driving through a parking lot after
+  hours with its lights off.
+- (Rialto, CA - 1:15 AM Traffic Collision) PD -- Officer Justin Breen is on
+  patrol when he sees the aftermath of a serious traffic collision involving a
+  semi truck and a SUV.
+
+### S21E15
+
+Aired 2009-01-31.
+
+**Coast to Coast 149**
+
+- (Rialto, CA - 12:48 AM Domestic Dispute Call) PD - Officer C.J. Nelson
+  responds to a call of a man using his his car to ram his wife's vehicle on a
+  main roadway.
+- (Harris County TX - 2:11 AM Deputy Assistance Call) Sheriff's Office District
+  1 - Deputy Raymond Parker is dispatched to call of a vehicle which may
+  contain an assault rifle.
+- (San Bernardino County, CA - 5:01 PM Suspicious Vehicle) Rancho Cucamonga
+  Police Dept. - Deputy Brad Bonnet and Deputy Jeremy Dean stop to check out
+  the activities of a man parked in a neighborhood.
+
+### S21E16
+
+Aired 2008-02-06.
+
+**Coast to Coast 150**
+
+1st ever Friday episode at 8pm
+
+- (Harris County, TX - 11:36 PM Pursuit in Progress) Sheriff's Officer District
+  1 - Deputy Raymond Parker pursues a vehicle whose driver is wanted in
+  connection with a family violence call earlier in the evening.
+- (San Bernardino County CA - 11:30 PM Neighbor Dispute Call) Rancho Cucamonga
+  PD - Detective Phillip Duppe responds to a battery call between 2 neighbors
+  at a mailbox.
+- (North Las Vegas, NV - 10:48 PM Shoplifting Call) PD South Area Command -
+  Officer Peter Delalis responds to a theft in progress at a Blockbuster video
+  rental store.
+
+### S21E17
+
+Aired 2008-02-14.
+
+**Upon Further Investigation Special Edition**
+
+- (Harris County TX - 11:27 PM Suspicious Person) Sheriff's Office District 3 -
+  Deputy Rex Evans says he works a busy district, good thing is they all work
+  real well together with other agencies, constables, hwy patrol, city police
+  all takes care of each other real well.
+- (San Bernardino County CA - 11:12 PM Pursuit in Progress) Rancho Cucamonga
+  Police Dept - Deputy Jeremy Dean says he decided to work there because it's a
+  big city all types of crime, people who work there are great, lots of
+  opportunities at the station, lots of assignments and resources there.
+- (San Diego County CA - 7:22 PM Burglary Investigation) Sheriff's Dept. Santee
+  Station - Deputy Jacob Klepach says here's what we got a couple hours ago a
+  few subjects went into a supermarket, to the bakery section, ordered a cake
+  and concealed and ran out of the store.
+
+### S21E18
+
+Aired 2009-02-21.
+
+**Neighborhood Busts Special Edition**
+
+- (Broward County FL - 5:51 PM Drug Sting Operation) Sheriff's Office Regional
+  Anti Crime Squad - Sgt. Eddie Grant says they've worked together quite a few
+  years, partners since 1994, it never slows down, faces change, but the game
+  is always the same.
+- (Harris County TX - 11:30 PM Disturbance Call) Sheriff's Office District 3 -
+  Deputy Rex Evans says he really likes working the area, privileged to work
+  the district, very historical, battleground monument where Sam Houston fought
+  Santa Ana.
+- (San Bernardino County CA - 11:07 PM Suspicious Person Call) Rancho Cucamonga
+  Police Dept - Deputy Brad Bonnet says in his spare time he does anything to
+  get out of the town, go to the beach, SCUBA dive, boating, surfing, anything
+  outdoors to get his head out of work.
+
+### S21E19
+
+Aired 2009-02-28.
+
+**In Denial 2 Special Edition**
+
+- (Sacramento, CA - 9:57 PM Stolen Vehicle Call) Police Department - Officer
+  John Harshbarger says his 4 year old son loves the fact he's a cop, he
+  deputized himself, has gear he wears, runs around making arrests, sometimes
+  he arrests his dad.
+- (Minneapolis, MN - 8:20 PM Suspicious Person) Police Department - Officer
+  Juan Valencia says they came out together in the academy class of 01, went
+  their own ways, but have been partners for 5 years, like a brother, great to
+  get along with someone you know how they work.
+- (San Bernardino County CA - 6:20 PM Suspicious Vehicle) Rancho Cucamonga
+  Police Dept. - Deputy Scott Gould says he thinks the most dangerous calls are
+  domestics. You go into their environment, no idea if they have weapons, no
+  idea who the aggressor is, have to separate them.
+
+### S21E20
+
+Aired 2009-03-07.
+
+**Liar Liar 3 Special Edition**
+
+- (Cleveland, OH - 7:18 PM Pursuit in Progress) Division of Police District 3 -
+  Officer Kevin Coleman and Officer Bruce Garner roll to assist in the pursuit
+  of a vehicle reported stolen.
+- (Hillsborough County, FL - 12:08 AM Suspicious Persons) Sheriff's Office
+  District 2 - Deputy Brad Hickory spots two men parked in a truck around
+  midnight.
+- (Sacramento, CA - 4:30 PM Traffic Stop) Police Department - Officer Michael
+  Harbison stops a suspicious pedestrian and questions the man.
+
+### S21E21
+
+Aired 2009-03-14.
+
+**On the Run Special Edition**
+
+- (Sacramento, CA - 7:17 PM Carjacking Suspect) Police Department - Officer
+  Michael Harbison spots a vehicle taken in a carjacking the previous night.
+- (Hillsborough County FL - 11:09 PM Flagged Down) Sheriff's Office District 2
+  - Deputy Ryan Zacher is dispatched to a theft in progress.
+- (Houston, TX - 3:18 PM Drug Sting) Police Department South Central Tactical
+  Unit - Sgt. Roy Haney assigned to the gang unit, reports that the gang unit
+  and the narcotics unit have teamed up to do a drug sweep in the area.
+
+### S21E22
+
+2009-03-21.
+
+**750th Milestone Episode**
+
+- (Sacramento, CA - 12:27 AM Traffic Stop) Police Department - Officer Ben
+  Spencer has to fight a felon trying to conceal crack.
+- (King County WA - 9:05 PM Assistance Call) Sheriff's Office Air Support Unit
+  - Deputy Ken O'Neal coordinates the search for a man running from a bar.
+- (Hillsborough County FL - 12:25 AM Theft in Progress Call) Sheriff's Office
+  District 2 - Deputy Ryan Zacher catches a couple siphoning gas from a truck.
+
+### S21E23
+
+Aired 2009-03-28.
+
+**Dazed and Confused Special Edition**
+
+- (King County WA - 6:19 PM Disturbance Call) Sheriff's Office Precinct 4 -
+  Deputy Jeff Hancock responds to a disturbance call at a local eatery.
+- (Minneapolis, MN - 5:48 PM Assault in Progress) Police Department Third
+  Precinct - Officer Steve Lecy & Officer Terry Nutter respond to a call of an
+  assault of a woman by a man.
+- (North Las Vegas, NV - 5:39 PM Battery Call) Police Department South Area
+  Command - Officer Alex Ochoa is dispatched to a battery on a female call.
+
+### S21E24
+
+Aired 2009-03-28.
+
+**High Crimes 4 Special Edition**
+
+- (Minneapolis, MN - 2:15 AM Pursuit in Progress) Police Department Fourth
+  Precinct - Officer Cory Taylor & Dan Anderson roll to assist another agency
+  in the pursuit of a vehicle.
+- (Harris County TX - 10:47 PM Domestic Disturbance Call) Sheriff's Office
+  District 3 - Deputy Rex Evans is dispatched to a family disturbance call of a
+  man 'tearing up a trailer' and possibly armed with scissors.
+- (King County WA - 5:02 PM Deputy Assistance) Sheriff's Office Precinct 4 -
+  Deputy Gerald Meyer rolls to assist a deputy with a traffic stop.
+
+### S21E25
+
+Aired 2009-04-25.
+
+TODO: Add times.
+
+**From Bad to Worse Special Edition**
+
+- Sacramento, CA Police Department - Officer John Harshbarger explains that on the previous day a robbery with a gun was committed.
+- King County WA Sheriff's Office - Deputy Jeff Hancock spots a male that he has dealt with many times before nicknamed 'Danger'. The male appears to be running with a bottle in his hand near a group of people.
+- Cleveland, OH Division of Police - Officer Kevin Coleman and Officer Bruce Garner assist in the pursuit of a vehicle.
+
+### S21E26
+
+Aired 2008-12-13.
+
+**Ho! Ho! Ho! 5 Special Edition**
+
+- (Minneapolis, MN - 3:30 PM Briefing) Police Department Third Precinct
+  Community Response Team - Lt. Dean Christiansen leads a briefing to go over
+  details of a prostitution sting.
+- (Harris County TX - 1:15 AM Street Patrol) Sheriff's Office District 3 -
+  Deputy Rex Evans say patrols near a truck stop and spots two women and men
+  milling around.
+- (Snohomish County WA - 10:44 PM Assault Call) Sheriff's Officer South
+  Precinct - Deputy Martin Zelaya is dispatched to a call of an assault at a
+  local pub.
+
+### S21E27
+
+Aired 2009-04-11.
+
+**Coast to Coast 151**
+
+- (Sacramento, CA - 10:19 PM Pursuit in Progress) Police Department -- Officer
+  Robbie Young & Greg Galliano respond to a fleeing subject that takes the
+  chase over fences and through backyards. The suspect learns the hard way that
+  he bit off more than he could chew when two police dogs enter the pursuit.
+- (King County, WA - 3:14 PM Traffic Stop) Sheriff’s Office Precinct 4 --
+  Deputy Joel Anderson pulls over a man for a warrant associated with the
+  vehicle, and the situation goes from bad to worse when it's discovered that
+  his license is suspended and illicit possessions are uncovered.
+- (Minneapolis, MN - 10:32 PM Man with a Gun Call) Special Operations Division
+  -- Officer Aaron Morrison & Officer Carl Blad are called to a scene where
+  four men are taking target practice with a BB gun.
+
+### S21E28
+
+Aired 2009-03-21.
+
+**Bad Girls! 12 Special Edition**
+
+- (Harris County TX - 12:03 AM Deputy Assistance Call) Sheriff's Office
+  District 3 - Deputy Rex Evans assists on a raid of a crackhouse.
+- (Pomona, CA - 5:45 PM Disturbance Call) Pomona Police Department - Officer
+  Fred Kittman mediates a dispute between a young girl who ran off to get
+  married and her unhappy mother.
+- (Minneapolis, MN - 11:13 PM Domestic Disturbance Call) Police Department
+  Third Precinct - Officer Brian Grahme breaks up a fight started by an angry
+  jilted lesbian.
+
+### S21E29
+
+Aired 2009-04-25.
+
+TODO: Add times.
+
+**Police Pullovers 5 Special Edition**
+
+- Las Vegas, NV Metropolitan Police Department - Officer Bret Ficklin stops a
+  vehicle that is driving erratically, including crossing two lanes a traffic
+  sharply and zig-zagging.
+- Cleveland, OH Division of Police - Officer Tony Gonzalez & Officer David
+  Muniz are flagged down and witness a male and female having an altercation on
+  the side of the street.
+- King County WA Sheriff's Office - Det. Todd Miller stops a vehicle seen
+  leaving an area with a high rate of drug activity.
+
+### S21E30
+
+Aired 2009-05-30.
+
+TODO: Add title and times.
+
+- A routine traffic stop becomes something more when an illegal item falls out of a suspect's clothing in Washington state;
+- California deputies investigate a domestic disturbance;
+- Las Vegas officers respond to a call about a dog bite.
+
+### S21E31
+
+Aired 2009-06-06.
+
+TODO: Add title and times.
+
+- When officers of the Rialto, CA, Police Department stop a speeding motorcyclist, he initiates a high-speed pursuit that escalates to a foot chase.
+- Deputies in Pierce County, WA, conduct a routine traffic stop only to discover drugs and broken glass inside the vehicle.
+- Also featured are officers of the Sacramento, CA, Police Department dispatched to a domestic-violence call.
+
+### S21E32
+
+Aired 2009-05-16.
+
+TODO: Add title and times.
+
+- Corporal Jason Tarala of the Broward County Sheriff's Office responds to
+  assist deputies in the pursuit of a stolen vehicle.
+- Officer Christopher Colomba of the North Las Vegas Police Department responds
+  to a disturbance call. Earlier in the evening there was a battery call at the
+  same residence.
+- FTO Bret Ficklin of the Las Vegas Metropolitan Police Department responds to
+  assist another unit on a 911 call.
+
+### S21E33
+
+Aired 2009-07-11.
+
+**Coast to Coast 155**
+
+- (Broward County, FL - 2:53 PM Drug Sting) Sheriff’s Office Regional Anti
+  Crime Squad - Detective Ed MacDougall says when we are out here working, have
+  the best plan but that have other plans, expect the unexpected.
+- (Hillsborough County, FL - 9:24 PM Traffic Stop) Sheriff’s Office District 2
+  Street Crimes Unit - Deputy Anthony Koehler has been there 8 years, started
+  with patrol went overseas, came back to FTO, then street crimes unit been
+  there 3 years.
+- (Las Vegas, NV - 7:27 PM Possible Kidnapping) Metropolitan P.D. South Central
+  Area Command - FTO William Matchko says they are doing a follow up on a
+  possible kidnapping that occurred.
+
+### S21E34
+
+Aired 2009-07-18.
+
+**Coast to Coast 156**
+
+- (Broward County, FL - 12:40 AM Drug Sting) Sheriff's Office District 5 -
+  Detective Greg LaCerra says he’s been there 8 years, likes working narcotics,
+  gets tips on what drugs are sold at houses, or somebody wanted for certain
+  things and likes to see that through to the end.
+- (San Bernardino County, CA - 9:03 PM Traffic Stop) Rancho Cucamonga Police
+  Department - Deputy Mike Mason says the thing that keeps him coming back is
+  he goes to work not knowing what he was doing that day. He wakes up, gets in
+  his car, responds to peoples problems and keeps the community safe.
+- (Rialto, CA - 11:48 PM Officer Assistance Call) Rialto Police Department -
+  Officer Robert Morales says they use a team concept, the same group of guys
+  each shift, each officer has something they are good at and use their
+  strength to feed of each other using their individual strengths for each
+  call.
+
+### S21E35
+
+Aired 2009-05-16.
+
+TODO: Add times.
+
+**Odd Arrests Special Edition**
+
+- Officer Kathryne Buehler and Officer Mario Perez of the North Las Vegas
+  Police Department responds to a domestic call where the caller stated his
+  girlfriend has discharged a firearm.
+- Officer Andy Harhay & Eddie Colon of the Cleveland Police Division respond to
+  a 911 hang-up call. A female caller stated her boyfriend was assaulting her
+  before the caller hung up.
+- Officer Rob Zeiger of the Sacramento Police Department assitsts in a felony
+  traffic stop of an occupied stolen vehicle out of Nevada.
+
+### S21E36
+
+Aired 2009-07-25.
+
+**Coast to Coast 157**
+
+TODO: Add times.
+
+- Officers of the San Diego CA Sheriff's Department make a routine traffic stop for a broken tail light
+- A search of the paranoid passenger leads to an arrest for drug possession
+- Also, members of the Las Vegas Metropolitan Police Department get called in as back-up for a bloody brawl.
 
 ## Season 22
 
