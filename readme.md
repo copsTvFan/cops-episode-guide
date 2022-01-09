@@ -7176,37 +7176,79 @@ Aired 1996-11-02.
 
 Aired 1996-11-02.
 
-**Boston/New City, MA** (11:21 AM Assault Call) Lynn Police Department - Officer Michael Hanlon says the best part of the day is giving back a kids' bike that was stolen. It is more satisfying than a felony arrest. His partner is Officer Gregory McCarthy. They go to a call of a man who assaulted another man with a knife. 50 cops follow guy with knife/kids steal car and drive by sitting on phone book/two people go in water.
+**Boston/New City, MA**
+
+- (11:21 AM Assault Call) Lynn Police Department - Officer Michael Hanlon says
+  the best part of the day is giving back a kids' bike that was stolen. It is
+  more satisfying than a felony arrest. His partner is Officer Gregory
+  McCarthy. They go to a call of a man who assaulted another man with a knife.
+  50 cops follow guy with knife
+- kids steal car and drive by sitting on phone book
+- two people go in water.
 
 ### S09E09
 
 Aired 1996-11-09.
 
-**Providence, RI 1** (10:12 PM Street Patrol) Officer Fabio Zuena says there is lots of freedom, not locked up in an office, every call is different. The level of danger goes from a car blocked to a shooting - it changes from minute to minute. He aids a car stuck on curb then chases a carjacking suspect through yards. Officers Garneau and Moroney sort out a domestic dispute with a fat white 12 year old boy who calls his mom a fag. Lynn Police Officers Kelter and White apprehend a black guy who broke into a house under construction.
+**Providence, RI 1**
+
+- (10:12 PM Street Patrol) Officer Fabio Zuena says there is lots of freedom,
+  not locked up in an office, every call is different. The level of danger goes
+  from a car blocked to a shooting - it changes from minute to minute. He aids
+  a car stuck on curb then chases a carjacking suspect through yards.
+- Officers Garneau and Moroney sort out a domestic dispute with a fat white 12
+  year old boy who calls his mom a fag.
+- Lynn Police Officers Kelter and White apprehend a black guy who broke into a
+  house under construction.
 
 ### S09E10
 
 Aired 1996-11-16.
 
-**Providence, RI 2** (10:32 PM Suspicious Vehicle) Officer Fabio Zuena says when your guard isn't up is when things happen. When you think everything is quiet and nothing else to do is when the next thing pops up right in front of you, react quickly, use common sense and good judgment.
+**Providence, RI 2**
+
+- (10:32 PM Suspicious Vehicle) Officer Fabio Zuena says when your guard isn't
+  up is when things happen. When you think everything is quiet and nothing else
+  to do is when the next thing pops up right in front of you, react quickly,
+  use common sense and good judgment.
 
 ### S09E11
 
 Aired 1996-09-23.
 
-**Providence, RI/Boston 1** (6:13 PM Street Patrol) Officer Fabio Zuena has been doing patrol for six years. He goes to town meetings and is in the same neighborhood all the time so the people know and call him. He and Mellor use an abandoned apartment as a lookout post to survey an area frequented by drug dealers. Boston - Fontanez assists two women whose lawn furniture was stolen by a neighborhood teenager. Boston - Officer Parker arrests a car burglar, then investigates a report about a stolen automobile involving the same teenager who was earlier accused of stealing lawn furniture.
+**Providence, RI/Boston 1**
+
+- (6:13 PM Street Patrol) Officer Fabio Zuena has been doing patrol for six
+  years. He goes to town meetings and is in the same neighborhood all the time
+  so the people know and call him. He and Mellor use an abandoned apartment as
+  a lookout post to survey an area frequented by drug dealers.
+- Boston -- Fontanez assists two women whose lawn furniture was stolen by a
+  neighborhood teenager.
+- Boston -- Officer Parker arrests a car burglar, then investigates a report
+  about a stolen automobile involving the same teenager who was earlier accused
+  of stealing lawn furniture.
 
 ### S09E12
 
 Aired 1996-12-21.
 
-**Providence, RI/Boston 2**  (10:47 PM Stabbing Call) Sgt. Walter Chin takes the call of a stabbing at a residence off Elmwood at Lake. stabbing incident; suicidal man; feuding neighbors; disturbance call.
+**Providence, RI/Boston 2**
+
+- (10:47 PM Stabbing Call) Sgt. Walter Chin takes the call of a stabbing at a residence off Elmwood at Lake. stabbing incident; suicidal man; feuding neighbors; disturbance call.
 
 ### S09E13
 
 Aired 1996-11-30.
 
-**Miami, FL 18** (7:50 PM Narcotics Sting Briefing) Key West - Special Operations Unit - Sgt. James Daniels compares how they plan to catch drug dealers to throwing out chum to catch fish. He organizes a sting operation targeting alleged drug buyers. Officer Ruiz arrests a suspect who threatened the life of his ex-lover, then stops several juveniles riding in a stolen automobile. Deputy Fox investigates a possible suicide on the shore of a lake.
+**Miami, FL 18**
+
+- (7:50 PM Narcotics Sting Briefing) Key West -- Special Operations Unit --
+  Sgt. James Daniels compares how they plan to catch drug dealers to throwing
+  out chum to catch fish. He organizes a sting operation targeting alleged drug
+  buyers.
+- Officer Ruiz arrests a suspect who threatened the life of his ex-lover, then
+  stops several juveniles riding in a stolen automobile.
+- Deputy Fox investigates a possible suicide on the shore of a lake.
 
 ### S09E14
 
