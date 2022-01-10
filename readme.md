@@ -3003,92 +3003,99 @@ FL/Tucson, AZ/ Riverside County CA/Houston, TX/London, England/Best of 1&2**
 
 Aired 1990-09-15.
 
-**Minneapolis, MN 1** (3:35 PM Officer Assistance Call) A code 3 call comes in.
-Sgt. Larry Wilens responds to it on 46th street. The suspect is barricaded.
-Officers tried to serve a warrant to 63 year-old Kenneth Lynn and he shot at
-police twice through the door, but missed them. (Tactical Team Briefing) Deputy
-Chief Doug Smith says they asked Ken to come out to talk to him for
-neighborhood problems – smell and trash. They are trying to make contact with
-him and find out from neighbors if anyone else lives there since he could have
-hostages. The teams face is covered, they are inside perimeter, they can use
-gas on him if necessary. If he has a long rifle he can get them. They have to
-stay back and use high risk entry tactics. The team has to survey the house,
-will be close enough where he could hit them with a rock. (Negotiation Team
-Command Post) Neighbors stated he suffered a head trauma injury in WWII, but
-has never been to the hospital for mental illness, he has very poor eyesight,
-cataracts, heavy smoker, emphysema, bronchitis, hasn't drank for 13 years, but
-if he's drinking again he'll be very hostile and, negative. He just was in
-detox 2 weeks ago – a good sign he's been drinking again. His personal info is
-on the board “DOB 8/20/27 or 29, divorced, ex-wife Mildred (lives with Gail)
-alcoholic who gets hostile when he drinks, has 4 children.” One cop knows him,
-didn't know he was a problem. Sgt. Charles Resch says he's a loner, has 3 or 4
-old cars, his mom died 8 years ago, he's kind of weird. The cop who was shot at
-says it went right between them, splinters of the door hit him. Officer Rick
-Stanek says he has a 300 rifle, 3-4 shotguns with ammo, a German Luger, 38 & 45
-revolver and a 25 automatic according to his son. Two weeks ago he called in
-for a report and they took him to detox instead of taking a report so he's mad
-at the cops. They get a call of an attic. Cops back up with blast shield, they
-run behind a car, stay low. They hide behind a car, want to get close to shoot
-gas and others wait next door at 4800. They want to negotiate, get him on the
-phone, if he won't answer they'll throw in a phone. Anything to talk him out,
-gas is the last chance, no turning back then. Sgt. Robert Gretton explains
-about the phone they are throwing in that will go back to the team directly to
-negotiate with them. The team goes up heavily armed with a shield, one smashes
-the window with a crowbar and the next tosses the phone in a bag. They call at
-4:44 PM that it is in. They beep it from the station and Larry calls for him to
-pick up. Outside they call in to pick up the phone. Larry wants to help, tells
-him open it up and pick it up. He picks up. He doesn't blame him, they are both
-sick of listening to the beeper, what's going on? He can hear him. Then he
-hangs up. (6:25 PM) He said he's sick of the beeping and cut the line. Officer
-Dave Mattson is outside in camo gear. They want cold beers, fresh women and a
-pizza. Larry calls again. Sgt. John Hennessy says to be very authoritative,
-this is what they want him to do, no more playing around, for his own good.
-(8:08 PM) Larry tells him he has to talk to him. Ken says he had to tend to his
-dog's foot and put peroxide on it. What's all the yelling about? They want to
-talk to him. He says they like to hear themselves talk it's so loud. Larry says
-it's been an hour and half since he talked to him. People are going to react to
-him. What is it going to take to get him out? He wants Cordell and Ruben
-Johnson. He says Cordell is there. He says he's not. That's what they tell him,
-he can't come on though. He won't trust a cop, it's like trusting Dillinger.
-Larry says if he puts Cordell on will he come out. He might. If he does
-something for Ken he has to so something for him. The team outside creeps
-around to get drinks and come back, knees are killing them and they are
-thirsty. They cut his power. He doesn't give a crap, doesn't need it. He needs
-him to come out, he has people lined up. Are you afraid of getting hurt? He's
-seen those trigger happy sons of bitches in action. Larry says with all the
-people and the press around they aren't going to get trigger happy. He has to
-help him though. He promises if he comes out he'll secure the house and take
-the keys to his sister. He says he'll consider coming out if he can bring his
-dog with him. He can't do that. He'll turn him over to his son Dustin though
-and leave him in the basement. Sgt. Robert Skmora listens. Larry says to put
-him down and come back. He says for tactical to get set up. It's dark now.
-(9:39 PM) The plan is for him to come out. He wants to go to the VA. He was in
-20 years ago for violence. He wants to see the SOB he talked to last time. Is
-he still there? He saw his name on the list. He wants to tell him how full of
-crap he is. If he tells him he'll take him to the VA and they won't accept him
-then what? That's a different story, he doesn't know, he won't have any power
-then. They'll talk to the people later. He wants them to talk now, later is
-crap. What else will it take to get him out? They worry about what they'll do
-with him in the future. Dr. Steve Geiger, Psychological Consultant says they
-have to worry about that, can't lie to him. He'll say I listened to him once,
-he won't again. He has access to lots of weaponry and will in the future. When
-he comes out they'll place him under arrest and clear the house. Ken asks what
-does he want him to do. He wants him to walk out with his hands up, stand on
-the steps and listen to the officers for what to do. They call the tactical
-team that he is ready. He comes out in a dirty blue street and hat. They tell
-him to walk to them and turn around, down on his knees, keeps hands up, then
-lay on his stomach. Two guys go over and cuff him. They are worried about other
-people inside, but he says there is no one. They take him to the car. He says
-again he's alone. Officer Riley Gilchrist comes over to Larry and shakes his
-hand and hugs him, good work. Ken got pissed that they were yelling at him
-outside and he came to the phone. Inside they show the two bullet holes in the
-door. There is a 30-30 on the couch. He had a gas mask next to him, he was
-prepared. He has a semi automatic, lots of riles and ammo there. It would've
-been a hell of a battle. The place is a mess and there are pill bottles all
-over the tables. Chief John Laux arrives and tells them it's recorded for
-posterity and will show they take a backseat to nobody, they are the best they
-proved it again tonight, nice job. The suspect was charges with second degree
-assault and released on bail the following day.
+**Minneapolis, MN 1**
+
+- (3:35 PM Officer Assistance Call) A code 3 call comes in.  Sgt. Larry Wilens
+  responds to it on 46th street. The suspect is barricaded.  Officers tried to
+  serve a warrant to 63 year-old Kenneth Lynn and he shot at police twice
+  through the door, but missed them.
+- (Tactical Team Briefing) Deputy Chief Doug Smith says they asked Ken to come
+  out to talk to him for neighborhood problems – smell and trash. They are
+  trying to make contact with him and find out from neighbors if anyone else
+  lives there since he could have hostages. The teams face is covered, they are
+  inside perimeter, they can use gas on him if necessary. If he has a long
+  rifle he can get them. They have to stay back and use high risk entry
+  tactics. The team has to survey the house, will be close enough where he
+  could hit them with a rock.
+- (Negotiation Team Command Post) Neighbors stated he suffered a head trauma
+  injury in WWII, but has never been to the hospital for mental illness, he has
+  very poor eyesight, cataracts, heavy smoker, emphysema, bronchitis, hasn't
+  drank for 13 years, but if he's drinking again he'll be very hostile and,
+  negative. He just was in detox 2 weeks ago – a good sign he's been drinking
+  again. His personal info is on the board “DOB 8/20/27 or 29, divorced,
+  ex-wife Mildred (lives with Gail) alcoholic who gets hostile when he drinks,
+  has 4 children.” One cop knows him, didn't know he was a problem. Sgt.
+  Charles Resch says he's a loner, has 3 or 4 old cars, his mom died 8 years
+  ago, he's kind of weird. The cop who was shot at says it went right between
+  them, splinters of the door hit him. Officer Rick Stanek says he has a 300
+  rifle, 3-4 shotguns with ammo, a German Luger, 38 & 45 revolver and a 25
+  automatic according to his son. Two weeks ago he called in for a report and
+  they took him to detox instead of taking a report so he's mad at the cops.
+  They get a call of an attic. Cops back up with blast shield, they run behind
+  a car, stay low. They hide behind a car, want to get close to shoot gas and
+  others wait next door at 4800. They want to negotiate, get him on the phone,
+  if he won't answer they'll throw in a phone. Anything to talk him out, gas is
+  the last chance, no turning back then. Sgt. Robert Gretton explains about the
+  phone they are throwing in that will go back to the team directly to
+  negotiate with them. The team goes up heavily armed with a shield, one
+  smashes the window with a crowbar and the next tosses the phone in a bag.
+  They call at 4:44 PM that it is in. They beep it from the station and Larry
+  calls for him to pick up. Outside they call in to pick up the phone. Larry
+  wants to help, tells him open it up and pick it up. He picks up. He doesn't
+  blame him, they are both sick of listening to the beeper, what's going on? He
+  can hear him. Then he hangs up.
+- (6:25 PM) He said he's sick of the beeping and cut the line. Officer Dave
+  Mattson is outside in camo gear. They want cold beers, fresh women and a
+  pizza. Larry calls again. Sgt. John Hennessy says to be very authoritative,
+  this is what they want him to do, no more playing around, for his own good.
+- (8:08 PM) Larry tells him he has to talk to him. Ken says he had to tend to
+  his dog's foot and put peroxide on it. What's all the yelling about? They
+  want to talk to him. He says they like to hear themselves talk it's so loud.
+  Larry says it's been an hour and half since he talked to him. People are
+  going to react to him. What is it going to take to get him out? He wants
+  Cordell and Ruben Johnson. He says Cordell is there. He says he's not. That's
+  what they tell him, he can't come on though. He won't trust a cop, it's like
+  trusting Dillinger.  Larry says if he puts Cordell on will he come out. He
+  might. If he does something for Ken he has to so something for him. The team
+  outside creeps around to get drinks and come back, knees are killing them and
+  they are thirsty. They cut his power. He doesn't give a crap, doesn't need
+  it. He needs him to come out, he has people lined up. Are you afraid of
+  getting hurt? He's seen those trigger happy sons of bitches in action. Larry
+  says with all the people and the press around they aren't going to get
+  trigger happy. He has to help him though. He promises if he comes out he'll
+  secure the house and take the keys to his sister. He says he'll consider
+  coming out if he can bring his dog with him. He can't do that. He'll turn him
+  over to his son Dustin though and leave him in the basement. Sgt. Robert
+  Skmora listens. Larry says to put him down and come back. He says for
+  tactical to get set up. It's dark now.
+- (9:39 PM) The plan is for him to come out. He wants to go to the VA. He was
+  in 20 years ago for violence. He wants to see the SOB he talked to last time.
+  Is he still there? He saw his name on the list. He wants to tell him how full
+  of crap he is. If he tells him he'll take him to the VA and they won't accept
+  him then what? That's a different story, he doesn't know, he won't have any
+  power then. They'll talk to the people later. He wants them to talk now,
+  later is crap. What else will it take to get him out? They worry about what
+  they'll do with him in the future. Dr. Steve Geiger, Psychological Consultant
+  says they have to worry about that, can't lie to him. He'll say I listened to
+  him once, he won't again. He has access to lots of weaponry and will in the
+  future. When he comes out they'll place him under arrest and clear the house.
+  Ken asks what does he want him to do. He wants him to walk out with his hands
+  up, stand on the steps and listen to the officers for what to do. They call
+  the tactical team that he is ready. He comes out in a dirty blue street and
+  hat. They tell him to walk to them and turn around, down on his knees, keeps
+  hands up, then lay on his stomach. Two guys go over and cuff him. They are
+  worried about other people inside, but he says there is no one. They take him
+  to the car. He says again he's alone. Officer Riley Gilchrist comes over to
+  Larry and shakes his hand and hugs him, good work. Ken got pissed that they
+  were yelling at him outside and he came to the phone. Inside they show the
+  two bullet holes in the door. There is a 30-30 on the couch. He had a gas
+  mask next to him, he was prepared. He has a semi automatic, lots of riles and
+  ammo there. It would've been a hell of a battle. The place is a mess and
+  there are pill bottles all over the tables. Chief John Laux arrives and tells
+  them it's recorded for posterity and will show they take a backseat to
+  nobody, they are the best they proved it again tonight, nice job. The suspect
+  was charges with second degree assault and released on bail the following
+  day.
 
 ### S03E02
 
@@ -7518,31 +7525,98 @@ Aired 1998-02-28.
 
 Aired 1998-03-07.
 
-**Kansas City 23** (MO -10:55 PM Shooting Call) East Patrol - Officer Jason Crump talks about treating people with respect. A black man shot in the back in an apartment passed out on the floor/Disturbance call by a woman who says a kid stole a lighter from her purse/Domestic violence call with a white woman who has been cut on her leg by a black man.
+**Kansas City 23**
+
+- (MO -10:55 PM Shooting Call) East Patrol -- Officer Jason Crump talks about
+  treating people with respect. A black man shot in the back in an apartment
+  passed out on the floor
+- Disturbance call by a woman who says a kid stole a lighter from her purse
+- Domestic violence call with a white woman who has been cut on her leg by a
+  black man.
 
 ### S10E22
 
 Aired 1998-05-02.
 
-**Kansas City 24** (KS - 5:50 PM Disturbance Call) Central Patrol Division - Officer Dustin Dungan says it's a brotherhood. When they hang out it is always with other cops. Only someone in blue can be counted on in the streets. His partner is Officer Burgtorg. Cops return to a man who cut his wrists and is causing a disturbance, threatened his family, is wearing a blue Tasmanian Devil shirt and EMT takes him away/Officer Wilt goes to a Traffic accident with Officer Mike who was on a motorcycle and is down in the middle of the street/911 Hang-up call by a black woman who wants to go to her mom's house and the guy won't let her and then she passes out in the bathroom. Officer Martin finds out a domestic dispute that erupted when a man tried to prevent a crack addict from leaving their house to obtain more drugs.
+**Kansas City 24**
+
+- (KS - 5:50 PM Disturbance Call) Central Patrol Division -- Officer Dustin
+  Dungan says it's a brotherhood. When they hang out it is always with other
+  cops. Only someone in blue can be counted on in the streets. His partner is
+  Officer Burgtorg. Cops return to a man who cut his wrists and is causing a
+  disturbance, threatened his family, is wearing a blue Tasmanian Devil shirt
+  and EMT takes him away
+- Officer Wilt goes to a Traffic accident with Officer Mike who was on a
+  motorcycle and is down in the middle of the street
+- 911 Hang-up call by a black woman who wants to go to her mom's house and the
+  guy won't let her and then she passes out in the bathroom. Officer Martin
+  finds out a domestic dispute that erupted when a man tried to prevent a crack
+  addict from leaving their house to obtain more drugs.
 
 ### S10E23
 
 Aired 1998-05-16.
 
-**Kansas City 25** (KS - 1:52 AM Street Patrol) Central Patrol Division - Officer Robert Angell says the best thing about the job is the radio. He spots a suspicious man in a car who runs when he pulls up and tosses a gun out the window. A few blocks later he stops and runs. Robert pulls out the passenger and arrests him as others catch the driver. A man says the driver hit him with a chain and is brought to the scene to ID him. The driver took off his shirt when he ran to disguise himself. (2:36 AM Car Pursuit) Maurice is driving his carjacked vehicle slowly because he has a flat tire. He bails out and runs and is caught. He fell over a wall and cut his face open and yells he is going to be in the river in the morning and the cops are going to steal his money. South Patrol - Officer J.J. Wilt says all kinds of ethnic groups live in the area. (3:02 PM Domestic Disturbance) A man says his son JR is in the house next door and has missed six days of school and stole $90 from him. Cops go over and find a young girl downstairs who says the boys are upstairs. They find three boys hiding in a closet in the attic and pull them out. The two other kids were hiding JR, one is JVC and the other skips school too. They bring JR back home and he has no answers for anything and doesn't have all the money. The dad wants the police to take him away and they do. KS MO (9:00 PM Roll Call) One cop is goofed on for having an ugly red car. (1:48 AM Assistance Call) Officer Rita Olson and her partner come up on a car and take the female driver out and cuff her because the car was reported stolen. The victim is also there because the thief was sitting in her driveway and she followed her there. The suspect says she bought the car for $200 and just left a bar and thought the people from the bar and her boyfriend were following her. She is drunk and is taken to the station.
+**Kansas City 25**
+
+- (KS - 1:52 AM Street Patrol) Central Patrol Division -- Officer Robert Angell
+  says the best thing about the job is the radio. He spots a suspicious man in
+  a car who runs when he pulls up and tosses a gun out the window. A few blocks
+  later he stops and runs. Robert pulls out the passenger and arrests him as
+  others catch the driver. A man says the driver hit him with a chain and is
+  brought to the scene to ID him. The driver took off his shirt when he ran to
+  disguise himself.
+- (2:36 AM Car Pursuit) Maurice is driving his carjacked vehicle slowly because
+  he has a flat tire. He bails out and runs and is caught. He fell over a wall
+  and cut his face open and yells he is going to be in the river in the morning
+  and the cops are going to steal his money. South Patrol - Officer J.J. Wilt
+  says all kinds of ethnic groups live in the area.
+- (3:02 PM Domestic Disturbance) A man says his son JR is in the house next
+  door and has missed six days of school and stole $90 from him. Cops go over
+  and find a young girl downstairs who says the boys are upstairs. They find
+  three boys hiding in a closet in the attic and pull them out. The two other
+  kids were hiding JR, one is JVC and the other skips school too. They bring JR
+  back home and he has no answers for anything and doesn't have all the money.
+  The dad wants the police to take him away and they do.
+- KS MO (9:00 PM Roll Call) One cop is goofed on for having an ugly red car.
+- (1:48 AM Assistance Call) Officer Rita Olson and her partner come up on a car
+  and take the female driver out and cuff her because the car was reported
+  stolen. The victim is also there because the thief was sitting in her
+  driveway and she followed her there. The suspect says she bought the car for
+  $200 and just left a bar and thought the people from the bar and her
+  boyfriend were following her. She is drunk and is taken to the station.
 
 ### S10E24
 
 Aired 1998-08-01.
 
-**Kansas City 26** (MO - 4:02 AM Assistance Call) East Patrol Division - Officer Mark Huckemeier says their division covers Northeast a wide range of the population - different levels and lifestyles, the whole gamut. His partner Officer Tony White says a chase has been going on for 20 minutes. He is a drunk driver in a pickup truck who has a warrant and destroys a truck winding chase through the streets/Domestic disturbance call to fist fight between a married couple when the man returned for his clothes/Suspicious Person Call - Officers Bowman and Martin question Leo walking up and down the street, an estranged husband who claims his wife Robin assaulted him when he returned home to retrieve some of his possessions. Officer Lee responds to a disturbance in a parking lot and a Shooting call with a gay in a van shot in the back twice.
+**Kansas City 26**
+
+- (MO - 4:02 AM Assistance Call) East Patrol Division -- Officer Mark
+  Huckemeier says their division covers Northeast a wide range of the
+  population - different levels and lifestyles, the whole gamut. His partner
+  Officer Tony White says a chase has been going on for 20 minutes. He is a
+  drunk driver in a pickup truck who has a warrant and destroys a truck winding
+  chase through the streets/Domestic disturbance call to fist fight between a
+  married couple when the man returned for his clothes
+- Suspicious Person Call -- Officers Bowman and Martin question Leo walking up
+  and down the street, an estranged husband who claims his wife Robin assaulted
+  him when he returned home to retrieve some of his possessions.
+- Officer Lee responds to a disturbance in a parking lot and a Shooting call
+  with a gay in a van shot in the back twice.
 
 ### S10E25
 
 Aired 1998-04-04.
 
-**Nashville, TN 11** (5:59 PM Stolen Moped Call) East Sector - Officer Robert Butler says most people are nice, but 5% are the ones causing all the problems and that who he is regular dealing with. They commit crimes against their friends - today's friend is tomorrows enemy. Skirt-clad flasher; suspected crack house.
+**Nashville, TN 11**
+
+- (5:59 PM Stolen Moped Call) East Sector - Officer Robert Butler says most
+  people are nice, but 5% are the ones causing all the problems and that who he
+  is regular dealing with. They commit crimes against their friends - today's
+  friend is tomorrows enemy.
+- Skirt-clad flasher
+- suspected crack house.
 
 ### S10E26
 
@@ -7883,7 +7957,64 @@ Aired 1999-09-11.
 
 Aired 2000-01-15.
 
-**Indianapolis, IN 9** (2:32 AM Shooting Call) North District - Officer Andrew Stradling likes the state and the city. It's not a big city, so there isn't as many problems like New York. He takes a call, drives down an alley and a woman points to where the shooter is. There are four people down there including a big black man named Thomas who has been shot in the chest. He has his shirt off and is covering the bloody wound. Andrew tries to get him to sit down which he does, then he gets up. He says if he sits down it'll bleed less and keeps telling him to sit, he does again, then gets up again screaming about how much it hurts. He kicks a garbage can and keeps screaming. EMS is on the way and his girl keeps telling him to sit. He wants to go over to the fire department. He keeps saying it hurt and exhales sharply. He leans all over the police car and says he can't feel his heart. They wheel a cot over and he walks right by it because he wants to get in the ambulance. They bring him back and he says his back is burning and wants to know if there is a hole. He gets on the gurney, then tries to get up. The girl says they were drinking, having a good time and his brother Tyrone accused her of stealing from him and went and got his gun and he shot him. He does this every time he drinks. The bullet missed all the organs. Marion County, IN (5:32 PM Domestic Disturbance Call) Sheriff's Dept West District - Deputy David Whitesell has been about there 3 years, used to be a park ranger and likes working there. Two couples are arguing and their kids are fighting. A shirtless white man says the neighbors daughter Amy slapped his daughter Ashley and was beating on her back. The mom just sat and watched drinking a beer then threw it at him and hit him in the head. Deputy Brian Swinford backs him up. The mom says they threw coffee on her before. Amy says Ashley got on her lawn and mouthed off and she smacked her. Mom says Ashley hits her kid all the time, so she told her to hit her back and the neighbor's wife thinks she wants her husband, but she doesn't. This is the way of the trailer park - mom wanted to fight the other mom. Sgt. David Heilwagen comes and asks what Brian wants to do. Amy has a shirt that says, "Just between us girls I'm gonna kick butt!" They go back and tell them not to fight and to stay away from each other. They don't want anything to do with each other and they don't drink, she's the one that drinks. He doesn't want to get involved, he just wants to fish. They tell him not to confront her anymore. He say she does it in the park all the time and he won't. Next time just call the police. (5:52 PM Assistance Call) Marion County Sheriff's Dept West District - Deputy Mark Myler says he's enjoyed being a deputy sheriff for 29 years and he tried to be a detective, but didn't like it. He wants to be on the street, on the front lines where the action is, trying to help people. Jeremy, a 7 year old boy, locked his mom out of the house. Mark tries to get to him to open the door and he makes faces through the window with the broken blinds. Mom says this doesn't happen on a regular basis. She'll give a key to Phyllis the neighbor now. Mark says he can break a window on the door. Deputy David Whitesell says the kid is making faces at him. Mark gives Dave a credit card to try to get the door open, but it doesn't work. The kid comes up and makes faces while they do then goes to an open window, smiles at them, says no and closes the window. David goes around front to distract the kid while Mark strikes the window multiple times with a flashlight. The kid runs and hides and they have to search for him. He is under the bed and won't come out. Mark pulls the bed out and grabs the kid. He's in his underwear and screams and cries. They bring him to the living room and ask him why he did that. He growls and kicks at his mom. She admits having lots of problems with him. She called the cops two weeks ago to get him in the car at Kroger and Mark took that call. She says she's going to make his dad fix the window. Mark says Friday night in Indianapolis, all he's got to say.
+**Indianapolis, IN 9**
+
+- (2:32 AM Shooting Call) North District - Officer Andrew Stradling likes the
+  state and the city. It's not a big city, so there isn't as many problems like
+  New York. He takes a call, drives down an alley and a woman points to where
+  the shooter is. There are four people down there including a big black man
+  named Thomas who has been shot in the chest. He has his shirt off and is
+  covering the bloody wound. Andrew tries to get him to sit down which he does,
+  then he gets up. He says if he sits down it'll bleed less and keeps telling
+  him to sit, he does again, then gets up again screaming about how much it
+  hurts. He kicks a garbage can and keeps screaming. EMS is on the way and his
+  girl keeps telling him to sit. He wants to go over to the fire department. He
+  keeps saying it hurt and exhales sharply. He leans all over the police car
+  and says he can't feel his heart. They wheel a cot over and he walks right by
+  it because he wants to get in the ambulance. They bring him back and he says
+  his back is burning and wants to know if there is a hole. He gets on the
+  gurney, then tries to get up. The girl says they were drinking, having a good
+  time and his brother Tyrone accused her of stealing from him and went and got
+  his gun and he shot him. He does this every time he drinks. The bullet missed
+  all the organs.
+- Marion County, IN (5:32 PM Domestic Disturbance Call) Sheriff's Dept West
+  District - Deputy David Whitesell has been about there 3 years, used to be a
+  park ranger and likes working there. Two couples are arguing and their kids
+  are fighting. A shirtless white man says the neighbors daughter Amy slapped
+  his daughter Ashley and was beating on her back. The mom just sat and watched
+  drinking a beer then threw it at him and hit him in the head. Deputy Brian
+  Swinford backs him up. The mom says they threw coffee on her before. Amy says
+  Ashley got on her lawn and mouthed off and she smacked her. Mom says Ashley
+  hits her kid all the time, so she told her to hit her back and the neighbor's
+  wife thinks she wants her husband, but she doesn't. This is the way of the
+  trailer park - mom wanted to fight the other mom. Sgt. David Heilwagen comes
+  and asks what Brian wants to do. Amy has a shirt that says, "Just between us
+  girls I'm gonna kick butt!" They go back and tell them not to fight and to
+  stay away from each other. They don't want anything to do with each other and
+  they don't drink, she's the one that drinks. He doesn't want to get involved,
+  he just wants to fish. They tell him not to confront her anymore. He say she
+  does it in the park all the time and he won't. Next time just call the
+  police.
+- (5:52 PM Assistance Call) Marion County Sheriff's Dept West District --
+  Deputy Mark Myler says he's enjoyed being a deputy sheriff for 29 years and
+  he tried to be a detective, but didn't like it. He wants to be on the street,
+  on the front lines where the action is, trying to help people. Jeremy, a 7
+  year old boy, locked his mom out of the house. Mark tries to get to him to
+  open the door and he makes faces through the window with the broken blinds.
+  Mom says this doesn't happen on a regular basis. She'll give a key to Phyllis
+  the neighbor now. Mark says he can break a window on the door. Deputy David
+  Whitesell says the kid is making faces at him. Mark gives Dave a credit card
+  to try to get the door open, but it doesn't work. The kid comes up and makes
+  faces while they do then goes to an open window, smiles at them, says no and
+  closes the window. David goes around front to distract the kid while Mark
+  strikes the window multiple times with a flashlight. The kid runs and hides
+  and they have to search for him. He is under the bed and won't come out. Mark
+  pulls the bed out and grabs the kid. He's in his underwear and screams and
+  cries. They bring him to the living room and ask him why he did that. He
+  growls and kicks at his mom. She admits having lots of problems with him. She
+  called the cops two weeks ago to get him in the car at Kroger and Mark took
+  that call. She says she's going to make his dad fix the window. Mark says
+  Friday night in Indianapolis, all he's got to say.
 
 ### S12E03
 
@@ -8588,12 +8719,31 @@ Aired 2002-09-14.
 
 2002-2003.
 
-**Albuquerque, NM/Bernalillo County NM/Broward County FL/Chattanooga,
-TN/Davidson County NC/Forsyth County NC/Fort Worth, TX/Hillsborough County
-FL/Homestead, FL/Indianapolis, IN/Las Vegas, NV/Mardi Gras 2002/Maricopa County
-AZ/Mesa, AZ/Miami, FL/Multnomah County OR/Nashville, TN/New Orleans, LA/North
-Las Vegas, NV/Palm Springs, CA/Pierce County WA/Pomona, CA/Riverside County
-CA/San Bernardino, CA/Tampa, FL**
+- Albuquerque, NM
+- Bernalillo County NM
+- Broward County FL
+- Chattanooga, TN
+- Davidson County NC
+- Forsyth County NC
+- Fort Worth, TX
+- Hillsborough County FL
+- Homestead, FL
+- Indianapolis, IN
+- Las Vegas, NV
+- Mardi Gras 2002
+- Maricopa County AZ
+- Mesa, AZ
+- Miami, FL
+- Multnomah County OR
+- Nashville, TN
+- New Orleans, LA
+- North Las Vegas, NV
+- Palm Springs, CA
+- Pierce County WA
+- Pomona, CA
+- Riverside County CA
+- San Bernardino, CA
+- Tampa, FL
 
 ### S15E01
 
