@@ -7609,7 +7609,7 @@ Aired 1997-12-06.
 
 - (12:36 AM Stabbing Call) Metro PD South East Area Command -- Officer Robert
   Kegley says there is no secret, he likes the excitement of the job, being the
-  cavalry that goes over the hill and says the day.
+  cavalry that goes over the hill and saves the day.
 - (1:11 AM Street Patrol) Downtown Area Command -- Officer Doug Ericsson wanted
   to be a cop since he was four and has relatives who are cops. He pulls behind
   a topless bar to catch whores with Johns. He finds a truck with an old man a
