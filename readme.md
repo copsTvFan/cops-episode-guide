@@ -6180,13 +6180,18 @@ Aired 1992-10-24.
 
 Aired 1993-02-06.
 
-**Fort Worth, TX 2** (12:41 AM Suspicious Vehicle) North Sector - Cpl. Jim Burnett pulls over a white Cutlass with two occupants and calls in air support. Officers chase stolen auto in car and helicopter.
+**Fort Worth, TX 1**
+
+- (12:41 AM Suspicious Vehicle) North Sector - Cpl. Jim Burnett pulls over a white Cutlass with two occupants and calls in air support.
+- Officers chase stolen auto in car and helicopter.
 
 ### S05E27
 
 Aired 1993-02-??.
 
-- **Fort Worth, TX 3** (2:24 AM 911 Call) Officer Bob Abbott
+- **Fort Worth, TX 2**
+
+- (2:24 AM 911 Call) Officer Bob Abbott
 - (3:26 PM Domestic Disturbance Call) Officer J.R. Jacoby
 - (11:06 PM Assistance Call) Officer Rick Benson
 
@@ -6194,61 +6199,202 @@ Aired 1993-02-??.
 
 Aired 1993-02-20.
 
-**Fort Worth, TX 4** (1:08 AM Assistance Call) Sgt J.D. Farmer talks about Pioneer Day which is tonight. Officer Michael Humphreys & Russell Johnson patrol the North Sector. They go to the Stock Yards where the festival is and explain it is a big street dance where people come from all the neighboring towns to eat BBQ, drink beer and party. There are many bikers, lots of fights and trouble. Officers break up fight between party goer and policewoman.
+**Fort Worth, TX 3**
+
+- (1:08 AM Assistance Call) Sgt J.D. Farmer talks about Pioneer Day which is
+  tonight.
+- Officer Michael Humphreys & Russell Johnson patrol the North Sector. They go
+  to the Stock Yards where the festival is and explain it is a big street dance
+  where people come from all the neighboring towns to eat BBQ, drink beer and
+  party. There are many bikers, lots of fights and trouble.
+- Officers break up fight between party goer and policewoman.
 
 ### S05E29
 
 Aired 1993-02-27.
 
-**Fort Worth, TX 5** (3:51 PM Man with a Gun Call) West Sector - Sgt. Tim Ellis has been a cop for 13 years and has been in law enforcement since he was 19 working at a jail before he was eligible to be a cop. His dad was the chief of police in the town he grew up in so it's in the family. Stolen vehicle; possible burglary.
+**Fort Worth, TX 4**
+
+- (3:51 PM Man with a Gun Call) West Sector - Sgt. Tim Ellis has been a cop for
+  13 years and has been in law enforcement since he was 19 working at a jail
+  before he was eligible to be a cop. His dad was the chief of police in the
+  town he grew up in so it's in the family.
+- Stolen vehicle
+- possible burglary.
 
 ### S05E30
 
 Aired 1993-03-20.
 
-**Fort Worth, TX 6** (3:02 AM Accident Call) Officer Russell Johnson goes to a fatal car accident; men hide in suspicious vehicle's trunk.
+**Fort Worth, TX 5**
+
+- (3:02 AM Accident Call) Officer Russell Johnson goes to a fatal car accident
+- men hide in suspicious vehicle's trunk.
 
 ### S05E31
 
 Aired 1993-03-27.
 
-**Fort Worth, TX 7** (1:25 AM Tarrant County Jail) Sheriff's Dept - Sgt Alan Brinkman says this is their new facility, the last one they were so cram packed that if someone didn't shower you would know it. A drunk man in a cowboy hat and orange shirt was told he was too drunk to go in a bar and started trouble. He says he believes in Ross Perot, didn't do it, now is Rocky Balboa. A cop asks what his name is and he says Mr. Numbshoulders. Officers respond to a child-abandonment call; stop a car that was reported stolen.
+**Fort Worth, TX 6**
+
+- (1:25 AM Tarrant County Jail) Sheriff's Dept - Sgt Alan Brinkman says this is
+  their new facility, the last one they were so cram packed that if someone
+  didn't shower you would know it.
+- A drunk man in a cowboy hat and orange shirt was told he was too drunk to go
+  in a bar and started trouble. He says he believes in Ross Perot, didn't do
+  it, now is Rocky Balboa. A cop asks what his name is and he says Mr.
+  Numbshoulders.
+- Officers respond to a child-abandonment call; stop a car that was reported
+  stolen.
 
 ### S05E32
 
 Aired 1993-04-03.
 
-**Fort Worth, TX 8** (7:14 PM Shoplifting Call) Fort Worth TX West Sector - Communications Center
+**Fort Worth, TX 7**
+
+- (7:14 PM Shoplifting Call) Fort Worth TX West Sector - Communications Center
 
 ### S05E33
 
 Aired 1993-04-??.
 
-**Fort Worth, TX 9** (10:32 PM Burglary in Progress) Roll Call - Officer C.C. Ryder listens to the Sgt. of the North Sector. (8:32 PM Disturbance Call) Sgt. Tim Ellis (11:49 PM Shots Fired) Officer Matt Smith.
+**Fort Worth, TX 8**
+
+- (10:32 PM Burglary in Progress) Roll Call - Officer C.C. Ryder listens to the
+  Sgt. of the North Sector.
+- (8:32 PM Disturbance Call) Sgt. Tim Ellis
+- (11:49 PM Shots Fired) Officer Matt Smith.
 
 ### S05E34
 
 Aired 1993-04-24.
 
-**Fort Worth, TX 10** (9:49 PM Domestic Disturbance Call) Tarrant County Roll Call 7th Precinct - Cops return to a trailer where an older dunk couple are fighting in the dark, but they don't live there and there is no one to drive them home who isn't drunk. They clear the trailer and find two others including a man on probation hiding in the shower who is incoherent. Domestic disturbance; domestic violence; murder and attempted suicide.
+**Fort Worth, TX 9**
+
+- (9:49 PM Domestic Disturbance Call) Tarrant County Roll Call 7th Precinct --
+  Cops return to a trailer where an older dunk couple are fighting in the dark,
+  but they don't live there and there is no one to drive them home who isn't
+  drunk. They clear the trailer and find two others including a man on
+  probation hiding in the shower who is incoherent.
+- Domestic disturbance;
+- domestic violence;
+- murder and attempted suicide.
 
 ### S05E35
 
 Aired 1993-05-15.
 
-**Fort Worth, TX 11** (1:17 AM Attempted Break-in) South Sector - Officer Rick Benson says when you get into something you get a 2-3 minute adrenaline rush and when it's over, you want to do it again to get the rush. It makes you feel good. When cops pulled up to the house the guy fled in a white Ford pickup. He turns his lights out so a helicopter lights him up. A bunch of cars get behind him and he pulls over, runs and is caught. Now it's a felony. He wants to talk to his brother, but they say he doesn't run the show. He went around the house and was trying all the windows and doors to get in. There is a 3/4 empty 12 pack in his truck. (1:48 AM Officer Assistance) Rick takes off and comes up on Officer Dale McCoy fighting with a drunk Mexican. Rick helps by throwing him face first on the ground and he leaves a bloody spot. Dale says the guy was fighting with a 60 year old in the bar and he knocked his glasses off and 5 friends came out and joined him. Rick says not all calls go the way they want and they know people want to hurt them. When you call for help on the radio and even if the cops don't like you, they will show up to help and give you a chance to recover. Officer J.R. Jacoby goes to a call on Diamond Hill. Officer Maurine Harkrider joins him. North Sector - they go up to the house with a witness and she has cat, guesses there is no dog. Maurine goes to the door and the guy has a gun so she draws on him and yells to drop it. They pull him out and cuff him on the lawn. He only speaks Spanish and keeps saying why over and over and that someone wants to kill him. The daughter speaks English and says last night the police came and took his gun away, but he went out and bought another. Sgt. David Carroll talks to her. She says he shot the gun in the yard. J.R. finds a dozen empty shells in the yard. The girl says he gets mad and drinks. Maurine says she saw him on the couch and pulled the guy out. J.R. finds a puppy in the yard that the man wanted to kill because he was mad. The guy lives there and isn't married to her mom. J.R. says to put all his stuff in a garbage bag and get him out. The guy is drunk, confused, angry, loading the gun in front of the kids and telling them he's going to kill their dog. Officer Bill Daniels and Officer Bob Abbott are driving. Bill likes this area because his last area didn't have enough adrenaline rushes. There is more chases here to get you pumping. (11:52 PM Burglary in Progress) A loan company called thinking they hear voices in their building. They drive up, but have trouble finding the place in the dark. Other cops and a helicopter arrive and they pour out searching the ground. A K-9 finds one black man in the back. He says he "ain't did nothing", he's just there minding his own business and wants to know what's going on. He is 33, cuffed and led away. They go inside with the dog looking for others. The door is open and there is a microwave by the door. There is a bag outside the window filled with stolen items. The kitchen is a total mess. The owner arrives and says it's the 4th time the place has been robbed in the last year. He is so happy they actually caught the guy and got all the stuff. Usually he shows up and everything is gone. Bill says it's really strange that the guy was only stealing food, snacks, soda and change from the soda machine.
+**Fort Worth, TX 10**
+
+- (1:17 AM Attempted Break-in) South Sector - Officer Rick Benson says when you
+  get into something you get a 2-3 minute adrenaline rush and when it's over,
+  you want to do it again to get the rush. It makes you feel good. When cops
+  pulled up to the house the guy fled in a white Ford pickup. He turns his
+  lights out so a helicopter lights him up. A bunch of cars get behind him and
+  he pulls over, runs and is caught. Now it's a felony. He wants to talk to his
+  brother, but they say he doesn't run the show. He went around the house and
+  was trying all the windows and doors to get in. There is a 3/4 empty 12 pack
+  in his truck. (1:48 AM Officer Assistance) Rick takes off and comes up on
+  Officer Dale McCoy fighting with a drunk Mexican. Rick helps by throwing him
+  face first on the ground and he leaves a bloody spot. Dale says the guy was
+  fighting with a 60 year old in the bar and he knocked his glasses off and 5
+  friends came out and joined him. Rick says not all calls go the way they want
+  and they know people want to hurt them. When you call for help on the radio
+  and even if the cops don't like you, they will show up to help and give you a
+  chance to recover.
+- Officer J.R. Jacoby goes to a call on Diamond Hill. Officer Maurine Harkrider
+  joins him. North Sector - they go up to the house with a witness and she has
+  cat, guesses there is no dog. Maurine goes to the door and the guy has a gun
+  so she draws on him and yells to drop it. They pull him out and cuff him on
+  the lawn. He only speaks Spanish and keeps saying why over and over and that
+  someone wants to kill him. The daughter speaks English and says last night
+  the police came and took his gun away, but he went out and bought another.
+  Sgt. David Carroll talks to her. She says he shot the gun in the yard. J.R.
+  finds a dozen empty shells in the yard. The girl says he gets mad and drinks.
+  Maurine says she saw him on the couch and pulled the guy out. J.R. finds a
+  puppy in the yard that the man wanted to kill because he was mad. The guy
+  lives there and isn't married to her mom. J.R. says to put all his stuff in a
+  garbage bag and get him out. The guy is drunk, confused, angry, loading the
+  gun in front of the kids and telling them he's going to kill their dog.
+- Officer Bill Daniels and Officer Bob Abbott are driving. Bill likes this area
+  because his last area didn't have enough adrenaline rushes. There is more
+  chases here to get you pumping. (11:52 PM Burglary in Progress) A loan
+  company called thinking they hear voices in their building. They drive up,
+  but have trouble finding the place in the dark. Other cops and a helicopter
+  arrive and they pour out searching the ground. A K-9 finds one black man in
+  the back. He says he "ain't did nothing", he's just there minding his own
+  business and wants to know what's going on. He is 33, cuffed and led away.
+  They go inside with the dog looking for others. The door is open and there is
+  a microwave by the door. There is a bag outside the window filled with stolen
+  items. The kitchen is a total mess. The owner arrives and says it's the 4th
+  time the place has been robbed in the last year. He is so happy they actually
+  caught the guy and got all the stuff. Usually he shows up and everything is
+  gone. Bill says it's really strange that the guy was only stealing food,
+  snacks, soda and change from the soda machine.
 
 ### S05E36
 
 Aired 1993-05-22.
 
-**Fort Worth, TX 12** (6:36 PM Shooting Call) Officer Matt Weber grew up in a little farm town in central IL. They didn't even have a stop light. He's been there 6 years and nothing could prepare him for working on the streets. The call is that the guy is supposed to have a rifle. He gets out and there is a bunch of black guys who say the man ran away while there are two guys shot on the ground. He drives off with another unit to where they said the guy went. They pull the guy out off his house. Officer Steve Benjamin mirandizes him. He says he stashed the gun at Walker street. The 2 guys jumped him with pistols and he shot them. He's been shot before and lifts his shirt to show a bullet wound and a huge amount of cut and stitch marks. He lost a kidney and doesn't want to get shot anymore. They were selling dope in front of his mother's house and he was tired of it so he shot them. He stops before they get back to the crime scene where things are heating up and they don't want to bring the guy. They find two rifles in the bushes including a large Marlin 30-30. They have lots of heated arguments in the area that used to be fist fights, now they grab guns and aren't afraid. (9:45 PM Suspicious Activity Call) West Sector - Officer Don Hanlon goes by a cleaners and the door is open and there are no lights inside, it's probably a robbery. Sgt. Tim Ellis joins him and they go up to the door. Don throws his lit flashlight inside and nothing happens. It is very crowded and hard to search. They get to the front and find nothing, but the front door is locked. Out back a witness says he saw 2 guys hiding behind a dumpster. They go to talk to them and they run. Eventually they catch two white guys who claim they were just watching the thieves. Don asks them why they ran, they say because they didn't know what they would do to them. The witness says he saw them loading stuff into a white car by the 7-11. One kid says he was driving his friend home and they saw the police and wanted to see what was going on. It doesn't explain why they ran. The owner arrives and says it has been broken into many times before. It turns out the kids story was true, but they were stupid and will get resisting arrest. (11:34 PM Assault Call) Officer Bob Abbott doesn't do it for the money, he likes doing it. You have to like doing it to work graveyard. Some people dread going to work and he doesn't understand it, he loves his job.  A man was beating on his girlfriend when cops arrived. He goes to back them up. The guy ran off into a field and a helicopter is looking for him. He can hear noises and a barking dog. Officer Brian Levy arrives and searches by car. The guy is spotted and they run off with directions from the helicopter. They run through a yard, jump a fence and find him hiding there. He has a couple of knives on him. He's a young, skinny black guy in a red shirt and they have to flip him over the fence to get him out. The helicopter heard barking dogs. Officer D.L. Flores went back there with Levy to check the area on foot and found him. Officer Bryan Newell was also there.
+**Fort Worth, TX 11**
+
+- (6:36 PM Shooting Call) Officer Matt Weber grew up in a little farm town in
+  central IL. They didn't even have a stop light. He's been there 6 years and
+  nothing could prepare him for working on the streets. The call is that the
+  guy is supposed to have a rifle. He gets out and there is a bunch of black
+  guys who say the man ran away while there are two guys shot on the ground. He
+  drives off with another unit to where they said the guy went. They pull the
+  guy out off his house. Officer Steve Benjamin mirandizes him. He says he
+  stashed the gun at Walker street. The 2 guys jumped him with pistols and he
+  shot them. He's been shot before and lifts his shirt to show a bullet wound
+  and a huge amount of cut and stitch marks. He lost a kidney and doesn't want
+  to get shot anymore. They were selling dope in front of his mother's house
+  and he was tired of it so he shot them. He stops before they get back to the
+  crime scene where things are heating up and they don't want to bring the guy.
+  They find two rifles in the bushes including a large Marlin 30-30. They have
+  lots of heated arguments in the area that used to be fist fights, now they
+  grab guns and aren't afraid.
+- (9:45 PM Suspicious Activity Call) West Sector - Officer Don Hanlon goes by a
+  cleaners and the door is open and there are no lights inside, it's probably a
+  robbery. Sgt. Tim Ellis joins him and they go up to the door. Don throws his
+  lit flashlight inside and nothing happens. It is very crowded and hard to
+  search. They get to the front and find nothing, but the front door is locked.
+  Out back a witness says he saw 2 guys hiding behind a dumpster. They go to
+  talk to them and they run. Eventually they catch two white guys who claim
+  they were just watching the thieves. Don asks them why they ran, they say
+  because they didn't know what they would do to them. The witness says he saw
+  them loading stuff into a white car by the 7-11. One kid says he was driving
+  his friend home and they saw the police and wanted to see what was going on.
+  It doesn't explain why they ran. The owner arrives and says it has been
+  broken into many times before. It turns out the kids story was true, but they
+  were stupid and will get resisting arrest.
+- (11:34 PM Assault Call) Officer Bob Abbott doesn't do it for the money, he
+  likes doing it. You have to like doing it to work graveyard. Some people
+  dread going to work and he doesn't understand it, he loves his job.  A man
+  was beating on his girlfriend when cops arrived. He goes to back them up. The
+  guy ran off into a field and a helicopter is looking for him. He can hear
+  noises and a barking dog. Officer Brian Levy arrives and searches by car. The
+  guy is spotted and they run off with directions from the helicopter. They run
+  through a yard, jump a fence and find him hiding there. He has a couple of
+  knives on him. He's a young, skinny black guy in a red shirt and they have to
+  flip him over the fence to get him out. The helicopter heard barking dogs.
+  Officer D.L. Flores went back there with Levy to check the area on foot and
+  found him. Officer Bryan Newell was also there.
 
 ### S05E37
 
 Aired 1993-05-16.
 
-**Fort Worth, TX 13** (12:17 AM Suspicious Activity) Officer Matt pulls up on a car with two women sitting in it. They are doing drugs and the driver hides her crack pipe in her vagina so a female officer is brought in. Cops go to an abandoned building to remove a trespasser and when then pound on the door he pulls out a needle from his arm and starts bleeding as they arrest him. Women assault each other; man jumps out window.
+**Fort Worth, TX 12**
+
+- (12:17 AM Suspicious Activity) Officer Matt pulls up on a car with two women
+  sitting in it. They are doing drugs and the driver hides her crack pipe in
+  her vagina so a female officer is brought in.
+- Cops go to an abandoned building to remove a trespasser and when then pound
+  on the door he pulls out a needle from his arm and starts bleeding as they
+  arrest him.
+- Women assault each other; man jumps out window.
 
 ### S05E38
 
