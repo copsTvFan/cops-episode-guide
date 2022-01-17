@@ -7605,7 +7605,44 @@ Aired 1997-11-15.
 
 Aired 1997-12-06.
 
-**Las Vegas, NV 25** (12:36 AM Stabbing Call) Metro PD South East Area Command - Officer Robert Kegley says there is no secret, he likes the excitement of the job, being the cavalry that goes over the hill and says the day. (1:11 AM Street Patrol) Downtown Area Command - Officer Doug Ericsson wanted to be a cop since he was four and has relatives who are cops. He pulls behind a topless bar to catch whores with Johns. He finds a truck with an old man a known whore - Tamara. She says he wanted sex for $20. He said he just got into town and was lost. He didn't have sex with the girl and has no idea why she's been arrested for prostitution before. There is a .357 under the seat as Eric reluctantly looks for the condom used. Tamara has been arrested 3 or 4 times in 11 years and loves her work. The cop says it is a deadly trade with 225 girls with AIDS on the street. (5:21 PM Domestic Disturbance Call) Southeast Area Command - Officer Tom Jenkins was from Miami and saw lots of people who needed help, but wouldn't get it. He was in the military 10 years and always thought about being a cop and is glad to help people. It's great when they say thanks, instead of the bad things they usually do. A woman called 911 for help and hung up and then they called back and a man answered and she was screaming in the background. They get to the apartment and Officer Trish Spensor goes in to get the woman. Steve, her boyfriend, took off in a green van and they soon catch him. She is battered, bloody and all kings of stuff is broken. They bring Steve back and lies about hitting her and says he didn't run. They saw him run and he calls them fibbers. He says she came in and he didn't want her there. He threw her head into the wall and it made a huge hole and there is blood on the walls. 2nd version has this segment instead of the stabbing call. Southeast Area Command - Cheerleaders do a chant for two cops in the Party City parking lot. Officer Al Gibson says they were having lunch in a restaurant with the girls High School summer cheerleading camp inside. (6:52 PM Disturbance Call) A group of four vagrants hanging out in front of a store are scaring customers away. Officer Jason Barber helps out. Matthew is a black guy dressed like a girl and has a bag full of Asian ceramics priced at $90 each, a bottle of Saki, a cup set and $30 urns. Matthew says the blonde haired guy gave him the stuff. The owner of a nearby Japanese store comes over and says the items are his. They recognize two of the people as thieves and have to go to the station to make a statement. Dedicated to Officer Russell Peterson.
+**Las Vegas, NV 25**
+
+- (12:36 AM Stabbing Call) Metro PD South East Area Command -- Officer Robert
+  Kegley says there is no secret, he likes the excitement of the job, being the
+  cavalry that goes over the hill and says the day.
+- (1:11 AM Street Patrol) Downtown Area Command -- Officer Doug Ericsson wanted
+  to be a cop since he was four and has relatives who are cops. He pulls behind
+  a topless bar to catch whores with Johns. He finds a truck with an old man a
+  known whore -- Tamara. She says he wanted sex for $20. He said he just got
+  into town and was lost. He didn't have sex with the girl and has no idea why
+  she's been arrested for prostitution before. There is a .357 under the seat
+  as Eric reluctantly looks for the condom used. Tamara has been arrested 3 or
+  4 times in 11 years and loves her work. The cop says it is a deadly trade
+  with 225 girls with AIDS on the street.
+- (5:21 PM Domestic Disturbance Call) Southeast Area Command -- Officer Tom
+  Jenkins was from Miami and saw lots of people who needed help, but wouldn't
+  get it. He was in the military 10 years and always thought about being a cop
+  and is glad to help people. It's great when they say thanks, instead of the
+  bad things they usually do. A woman called 911 for help and hung up and then
+  they called back and a man answered and she was screaming in the background.
+  They get to the apartment and Officer Trish Spensor goes in to get the woman.
+  Steve, her boyfriend, took off in a green van and they soon catch him. She is
+  battered, bloody and all kings of stuff is broken. They bring Steve back and
+  lies about hitting her and says he didn't run. They saw him run and he calls
+  them fibbers. He says she came in and he didn't want her there. He threw her
+  head into the wall and it made a huge hole and there is blood on the
+  walls. 2nd version has this segment instead of the stabbing call.
+- Southeast Area Command -- Cheerleaders do a chant for two cops in the Party
+  City parking lot. Officer Al Gibson says they were having lunch in a
+  restaurant with the girls High School summer cheerleading camp inside.
+- (6:52 PM Disturbance Call) A group of four vagrants hanging out in front of a
+  store are scaring customers away. Officer Jason Barber helps out. Matthew is
+  a black guy dressed like a girl and has a bag full of Asian ceramics priced
+  at $90 each, a bottle of Saki, a cup set and $30 urns. Matthew says the
+  blonde haired guy gave him the stuff. The owner of a nearby Japanese store
+  comes over and says the items are his. They recognize two of the people as
+  thieves and have to go to the station to make a statement.
+- Dedicated to Officer Russell Peterson.
 
 ### S10E11
 
