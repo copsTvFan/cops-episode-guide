@@ -14,37 +14,40 @@ are also welcome (`copsTvFan` *at* `protonmail.com`).
 
 1989.
 
-**Broward County FL/Russia**
+- Broward County, FL
+- Russia
 
 ### S01E01
+### CP-100
 
-- **Broward County FL 1 Hour Pilot** (Full 90 second theme) Burt
-  Lancaster - This program was filmed during a one-week period with the
-  Broward County Sheriff's Department in Florida.  All Suspects are presumed
-  innocent until proven guilty in a court of law.  Sheriff Nick Navarro says
-  it's a unique area - to the east of them they have the Atlantic, to the
-  west a big swamp called the Everglades. Because of the fact they have a
-  labyrinth of waterways it makes the place very appealing to drug smugglers.
-  That's where they face them on a daily basis. He goes with a SWAT team to a
-  crack house, smashing the door and running in. One asks for a sledgehammer,
-  they break a door, a man is down.  Watch it you guys, talk to me, back room
-  is clear, double check them.  Bathroom is clear. A woman is down in the
-  kitchen. Nick says it's one of the most disgusting sights, the garage is
-  another bedroom where they sleep. There is the crack altar where they smoke
-  it, paraphernalia where they smoke, down here is the toilet on the floor.
-  It's a bucket. This is a typical crack house, that's why the close them
-  down. He is driving and hears on the radio about another officer taken down
-  in the line duty by shooting. He says it always happens to someone else,
+**Broward County, FL #1 (1 Hour Pilot)** (aired 1989-03-11)
+
+- (Full 90 second theme) Burt Lancaster - This program was filmed during a
+  one-week period with the Broward County Sheriff's Department in Florida.  All
+  Suspects are presumed innocent until proven guilty in a court of law.
+  Sheriff Nick Navarro says it's a unique area - to the east of them they have
+  the Atlantic, to the west a big swamp called the Everglades. Because of the
+  fact they have a labyrinth of waterways it makes the place very appealing to
+  drug smugglers.  That's where they face them on a daily basis. He goes with a
+  SWAT team to a crack house, smashing the door and running in. One asks for a
+  sledgehammer, they break a door, a man is down.  Watch it you guys, talk to
+  me, back room is clear, double check them.  Bathroom is clear. A woman is
+  down in the kitchen. Nick says it's one of the most disgusting sights, the
+  garage is another bedroom where they sleep. There is the crack altar where
+  they smoke it, paraphernalia where they smoke, down here is the toilet on the
+  floor.  It's a bucket. This is a typical crack house, that's why the close
+  them down. He is driving and hears on the radio about another officer taken
+  down in the line duty by shooting. He says it always happens to someone else,
   not to you, can tell you one thing, he's been to too many funerals already.
   He's had more cops killed in FL in 1987 than the state of NY.  That's a
-  tradition. He goes to the officer's funeral. There is a fire by his house
-  on the way home. Nick goes home, asks his wife to get off the phone to call
-  in about it. She hangs up. He asks about any flammables there, any
-  potential of spread. If you see any potential please let him know and he'll
-  head down. He hangs up, he's sorry, what a way to come home, that's the way
-  it's been all day, another beautiful day. On the TV news they say it's the
-  worst fire in the everglades, it's a chemical plant in the Port. Don from
-  the news reports on scene.
+  tradition. He goes to the officer's funeral. There is a fire by his house on
+  the way home. Nick goes home, asks his wife to get off the phone to call in
+  about it. She hangs up. He asks about any flammables there, any potential of
+  spread. If you see any potential please let him know and he'll head down. He
+  hangs up, he's sorry, what a way to come home, that's the way it's been all
+  day, another beautiful day. On the TV news they say it's the worst fire in
+  the everglades, it's a chemical plant in the Port. Don from the news reports
+  on scene.
 - Communications center - a call of something on a 900 block.
 - (District 2) Deputy Jerry Wurms stops a black man in his car at a convenience
   store and finds a gun. A man and a woman are seen in a known drug area and
@@ -103,10 +106,11 @@ are also welcome (`copsTvFan` *at* `protonmail.com`).
   the days coverage and Vicki talks about finding kids at drug busts.
 
 ### S01E02
+### CP-101
 
-Aired 1989-03-25.
+**Broward County, FL #2** (aired 1989-03-18)
 
-- **Broward County FL 2** (Victory Celebration) Sheriff Nick Navarro gives a
+- (Victory Celebration) Sheriff Nick Navarro gives a
   re-election speech while the Rocky Theme plays. He wants to make the county a
   better place. Trojan Horse Briefing.  Cops cut cardboard to make a big box to
   hide inside the back of an an El Camino. Sgt.  Robert Deak says the dogs will
@@ -155,21 +159,24 @@ Aired 1989-03-25.
   to be alone in the bad neighborhood and the girl will want him out again.
 
 ### S01E03
+### CP-102
 
-- **Broward County FL 3** (District 2) Deputy Linda Canada talks to a shirtless
-  man who says his bicycle was stolen, but doesn't want to press charges. A fat
-  white guy nearby in a dirty white shirt says he had nothing to do with it.
-  The shirtless guy won't shut up or listen, so he gets arrested. Linda goes on
-  a boat ride with her fiancé Jerry Wurms, they only have one day a week off
-  together. They picked out an engagement ring, but haven't bought it yet so
-  she goes to visit it. That night he asks her to marry him and has the ring.
-  She says yes and they go to a restaurant. The next day the Sgt. announces
-  their engagement and they goof on her. She goes to a call to search a women
-  under arrest for drugs. She gloves up and makes her take off her shoes. She's
-  on crack and is bruised all over her legs, saying she was beat. Linda asks if
-  she ever tried to get help and she'll put her in a program if she is willing.
-  She can't promise, it's hard, she has no one, is a prostitute, scared of
-  being raped, can't stop. She moves her to another car.
+**Broward County, FL #3** (aired 1989-03-25)
+
+- (District 2) Deputy Linda Canada talks to a shirtless man who says his
+  bicycle was stolen, but doesn't want to press charges. A fat white guy nearby
+  in a dirty white shirt says he had nothing to do with it.  The shirtless guy
+  won't shut up or listen, so he gets arrested. Linda goes on a boat ride with
+  her fiancé Jerry Wurms, they only have one day a week off together. They
+  picked out an engagement ring, but haven't bought it yet so she goes to visit
+  it. That night he asks her to marry him and has the ring.  She says yes and
+  they go to a restaurant. The next day the Sgt. announces their engagement and
+  they goof on her. She goes to a call to search a women under arrest for
+  drugs. She gloves up and makes her take off her shoes. She's on crack and is
+  bruised all over her legs, saying she was beat. Linda asks if she ever tried
+  to get help and she'll put her in a program if she is willing.  She can't
+  promise, it's hard, she has no one, is a prostitute, scared of being raped,
+  can't stop. She moves her to another car.
 - (Roll Call) District 2 - Lt. Robert Rios asks how many people check the
   backseats of their cars. He found a bag of crack in the couch in the lobby
   that someone stashed there. The Sgt. says they only had 3 DUI arrests so far
@@ -202,10 +209,9 @@ Aired 1989-03-25.
   and die. She cries that she is taking care of him.
 
 ### S01E04
+### CP-103
 
-Aired 1989-04-01.
-
-**Broward County FL 4**
+**Broward County, FL #4** (aired 1989-04-01)
 
 - (District 2) Deputy Willie Washington talks to students at Boyd H. Anderson
   high school where he used to teach. He says some kids that don't have role
@@ -263,10 +269,9 @@ Aired 1989-04-01.
   wife comes up and surprises him.
 
 ### S01E05
+### CP-104
 
-Aired 1989-04-08.
-
-**Broward County FL 5**
+**Broward County, FL #5** (aired 1989-04-08)
 
 - (SWAT Team) Agents are working out - jumping jacks, pushups, windmills. Sgt.
   Steve Canfield says they like to think they are the elites, but some think
@@ -321,10 +326,9 @@ Aired 1989-04-08.
   him. No one knows him and they were just checking.
 
 ### S01E06
+### CP-105
 
-Aired 1989-04-15.
-
-**Broward County FL 6**
+**Broward County, FL #6** (aired 1989-04-15)
 
 - (Pre-Super Bowl Prostitution Sweeps) Capt. Ron Cacciatore goes to a house
   S06E01 called 'Cherry's' with all girl staff. He rings the bell and is let
@@ -385,10 +389,9 @@ Aired 1989-04-15.
   49ers and Bengals play on a TV in his car.
 
 ### S01E07
+### CP-106
 
-Aired 1989-04-22.
-
-**Broward County FL 7**
+**Broward County, FL #7** (aired 1989-04-22)
 
 - (Roll Call) District 1 - The captain plays a tape of a call from 1/15/89 on
   the radio where an officer yells out “wahwaaar!” and he tells them he'll
@@ -456,11 +459,10 @@ Aired 1989-04-22.
   when he tells parents their kid was killed in a DWI, but now he works on
   stopping them before they kill.
 
-## S01E08
+### S01E08
+### CP-107
 
-Aired 1989-04-29.
-
-**Broward County FL 8**
+**Broward County, FL #8** (aired 1989-04-29)
 
 - (Roll Call District 9) The Sgt. says Deputy Cole is filling in.
 - (3:05 PM "Kim") Deputy Jim Fondo talks to a cross dressing black man. Jim
@@ -511,10 +513,9 @@ Aired 1989-04-29.
   is a scumbag.
 
 ### S01E09
+### CP-108
 
-Aired 1989-05-06.
-
-**Broward County FL 9**
+**Broward County, FL #9** (aired 1989-05-06)
 
 - (8:15 PM Tuesday) Deputy Jim Fondo asks Kelly where her mother is. She says
   she's getting out of jail today the 27th, then asks what day is it. It's the
@@ -606,10 +607,11 @@ Aired 1989-05-06.
   really a shame.
 
 ### S01E10
+### CP-109
 
-Aired 1989-05-13.
+**Broward County, FL #10** (aired 1989-05-13)
 
-**Broward County FL 10** (4:00 PM Drug Operation Briefing) Capt Ron Cacciatore
+- (4:00 PM Drug Operation Briefing) Capt Ron Cacciatore
 has $100,000 and counts out $30,000 for flash money. 4:00 pm Drug operation
 briefing. They are going to watch the guy, he's driving a red 4x4 and they told
 him it would take 45 minutes to get there. It is a full moon so they wear their
@@ -655,10 +657,9 @@ dad, Linda went in to get the gun. No shots were fired. Cops hear multiple
 shots fired from two people, but it wasn't them.
 
 ### S01E11
+### CP-110
 
-Aired 1989-05-20.
-
-**Broward County FL 11**
+**Broward County, FL #11** (aired 1989-05-20)
 
 - (4:53 PM 911 Call) District 1 Street Patrol – Deputy Mike Hoffman goes to apt
   226 in a complex because the black parents say their one-week old baby girl
@@ -697,10 +698,9 @@ Aired 1989-05-20.
   but his BAC level is .20.
 
 ### S01E12
+### CP-111
 
-Aired 1989-05-27.
-
-**Broward County FL 12**
+**Broward County, FL #12** (aired 1989-05-27)
 
 - (8:07 PM Assault Investigation) District 9 Street Patrol Deputy Russ Budden
   finds Sean at his car who says a man attacked him with a club. He swung it at
@@ -757,10 +757,9 @@ Aired 1989-05-27.
   for the catch.
 
 ### S01E13
+### CP-112
 
-Aired 1989-06-03.
-
-**Broward County FL 13**
+**Broward County, FL #13** (aired 1989-06-03)
 
 - (Trojan Horse Stings) Organized Crimes Division - Sgt.  Robert Deak says a
   Trojan Horse goes back to Roman days, in there case a group of cops hide in
@@ -821,10 +820,9 @@ Aired 1989-06-03.
   looking for him, wants to know where he was. She is thankful they found him.
 
 ### S01E14
+### CP-113
 
-Aired 1989-06-10.
-
-**Broward County FL 14**
+**Broward County, FL #14** (aired 1989-06-10)
 
 - (District 1 Street Patrol) Deputy Russ Budden tells three black men on a
   corner exchanging money not to do that because it makes cops thinks it is a
@@ -876,10 +874,9 @@ Aired 1989-06-10.
   fight and one killed the other, then another buddy also was killed.
 
 ### S01E15
+### CP-114
 
-Aired 1989-06-17.
-
-**Russia 1 Hour Special**
+**Russia 1 Hour Special** (aired 1989-06-17)
 
 - The following program was taped over a 16 day period in Leningrad and Moscow
   by six camera teams - three American, three Russian.  Soviet officials
@@ -1052,14 +1049,16 @@ Aired 1989-06-17.
 
 1989-1990.
 
-**Multnomah County, OR/Portland, OR/San Diego, CA/Los Angeles, CA/Mardi Gras
-1990**
+- Multnomah County, OR
+- Portland, OR
+- San Diego, CA
+- Los Angeles, CA
+- Mardi Gras 1990
 
 ### S02E01
+### CP-201
 
-Aired 1989-09-23.
-
-**Portland, OR 1**
+**Portland, OR #1** (aired 1989-09-23)
 
 - (North Precinct Street Patrol) Officer Harry Jackson says this time of the
   year people come from all parts of the country, the Navy brings in a bunch of
