@@ -8383,7 +8383,17 @@ Aired 2000-05-13.
 
 Aired 2000-05-20.
 
-**Albuquerque, NM 18** (12:31 PM Prostitution Sting) Vice Unit Detective Clarence G. Davis says they are going after prostitutes and people with warrants. He spots a ho by the HoJo. Detective John McKenna who is undercover in a white Toyota pick up truck looking for prostitutes. First he gets an Indian bum that asks him for a quarter. Then Barbara gets in and is glad he picked her up because she was worried the Indians on the corner might grab her purse. drug dealer; road rage; uncooperative suspect.
+**Albuquerque, NM 18** (12:31 PM)
+
+- Vice Unit Detective Clarence G. Davis says they are going after prostitutes
+  and people with warrants. He spots a ho by the HoJo. Detective John McKenna
+  who is undercover in a white Toyota pick up truck looking for prostitutes.
+  First he gets an Indian bum that asks him for a quarter. Then Barbara gets in
+  and is glad he picked her up because she was worried the Indians on the
+  corner might grab her purse.
+- drug dealer
+- road rage
+- uncooperative suspect
 
 ### S12E34
 
@@ -8401,7 +8411,12 @@ Aired 2000-07-22.
 
 Aired 2000-07-29.
 
-**Albuquerque, NM 21** (12:31 PM Prostitution Sting) Vice Unit - Sgt. Clarence G. Davis backs up Detective Tod Babcock who is undercover driving in a truck picking up whores. The first is Kelly who even recognizes him, but he convinces her he isn't who she thinks he is and she will give him a BJ for $20. stolen video tapes; heroin possession; false report.
+**Albuquerque, NM 21**
+
+- (12:31 PM Prostitution Sting) Vice Unit - Sgt. Clarence G. Davis backs up Detective Tod Babcock who is undercover driving in a truck picking up whores. The first is Kelly who even recognizes him, but he convinces her he isn't who she thinks he is and she will give him a BJ for $20.
+- stolen video tapes
+- heroin possession
+- false report
 
 ## Season 13
 
