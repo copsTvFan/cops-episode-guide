@@ -8958,7 +8958,7 @@ Aired 2002-05-18.
 
 Aired 2002-05-18.
 
-**Mardi Gras 2002 Pt 2** (12:43 AM) 8th District - Officer Scott Monaco says it's the French quarter and continues for 3 blocks. It's 2 weekends, not 1 day.
+**Mardi Gras 2002 Pt 2** (12:43 AM Street Patrol) 8th District - Officer Scott Monaco says it's the French quarter and continues for 3 blocks. It's 2 weekends, not 1 day.
 
 ### S15E04
 
