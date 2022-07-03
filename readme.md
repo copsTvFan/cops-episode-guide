@@ -6810,7 +6810,7 @@ Aired 1994-10-22.
 
 Aired 1995-01-07.
 
-**Los Angeles, CA 24** (11:42 PM Street Patrol) Car-jacking; suspected thieves hide in police tow-yard; stabbing.
+**Los Angeles, CA 24** (11:42 PM Street Patrol) Sgt. Dale La Fleur -- Car-jacking; suspected thieves hide in police tow-yard; stabbing.
 
 ### S07E12
 
@@ -9753,35 +9753,41 @@ streets.
 
 Aired 2004-09-11.
 
-**Coast to Coast 67** (New Orleans, LA - 9:22 PM Disturbance Call) 8th District
-- Officer Patrick Rose and Leon Benoit III say there is great camaraderie
-especially when backup is needed. God forbid a 108 officer down, comes in, but
-you'll see great support. They respond to the call of drunk, violent guy at a
-bar on Decatur St. A black guy is sitting at a table in a Bob Marley Exodus
-shirt grooving to the music and being crazy. He won't listen to the police so
-they spray him in the face with tons of mace to no avail. Officer Blake Munster
-helps out and make the man drop his glass. He then goes into the bathroom and
-does karate moves. They spray him again and again and he only gets crazier. Six
-officers jump him and knock him into a wall, cutting his head open. Officers
-are choking from the mace as they wash the suspect's face with water, cuff him
-and take him to a charity hospital. Jacksonville - Zone 5 - Officer Jaime Eason
-thrives on chasing people, never knows what's next and because of that loves
-coming to work. (9:32 PM Assistance Call) A guy is driving with his girlfriend
-and her mom Becky. Mom wants the $40 she owes her and they get out. Becky tries
-to back up and run them over and chases them into a ditch. Officer George Haake
-points out skid marks down the road. Becky says she just drove next to her
-daughter to talk to her. They put Becky in the back of the police car and she
-is arrested for domestic aggravated assault. Riverside County CA - Jurupa
-Valley Station - Deputy Chris Barajas says the most important thing is self
-evaluation. (11:41 PM Fight Call) A father hit his daughter. Ray says some guy
-came into his yard and tried to slug him so he hit him hard. Chris checks him
-for weapons and puts him in his car. Mom says Ray attacked her daughter and her
-neighbor Robin called it in. She is at house #4254 and they go to see her 20
-year old daughter. She says she was drinking and Ray attacked her when she went
-to his house to get some weed. He then pulled her into the house by her hair,
-tried to give her speed and rape her. She hit him and ran out claiming doesn't
-do speed and has a three year old son. Deputy Richard Birmingham arrests him.
-17th Season Opener. AKA Funny Side of COPS Special Edition.
+**Coast to Coast 67**
+
+- (New Orleans, LA -- 9:22 PM Disturbance Call) 8th District -- Officer Patrick
+  Rose and Leon Benoit III say there is great camaraderie especially when
+  backup is needed. God forbid a 108 officer down, comes in, but you'll see
+  great support. They respond to the call of drunk, violent guy at a bar on
+  Decatur St. A black guy is sitting at a table in a Bob Marley Exodus shirt
+  grooving to the music and being crazy. He won't listen to the police so they
+  spray him in the face with tons of mace to no avail. Officer Blake Munster
+  helps out and make the man drop his glass. He then goes into the bathroom and
+  does karate moves. They spray him again and again and he only gets crazier.
+  Six officers jump him and knock him into a wall, cutting his head open.
+  Officers are choking from the mace as they wash the suspect's face with
+  water, cuff him and take him to a charity hospital.
+
+- Jacksonville -- Zone 5 -- Officer Jaime Eason thrives on chasing people,
+  never knows what's next and because of that loves coming to work. (9:32 PM
+  Assistance Call) A guy is driving with his girlfriend and her mom Becky. Mom
+  wants the $40 she owes her and they get out. Becky tries to back up and run
+  them over and chases them into a ditch. Officer George Haake points out skid
+  marks down the road. Becky says she just drove next to her daughter to talk
+  to her. They put Becky in the back of the police car and she is arrested for
+  domestic aggravated assault.
+
+- Riverside County CA -- Jurupa Valley Station -- Deputy Chris Barajas says the
+  most important thing is self evaluation. (11:41 PM Fight Call) A father hit
+  his daughter. Ray says some guy came into his yard and tried to slug him so
+  he hit him hard. Chris checks him for weapons and puts him in his car. Mom
+  says Ray attacked her daughter and her neighbor Robin called it in. She is at
+  house #4254 and they go to see her 20 year old daughter. She says she was
+  drinking and Ray attacked her when she went to his house to get some weed. He
+  then pulled her into the house by her hair, tried to give her speed and rape
+  her. She hit him and ran out claiming doesn't do speed and has a three year
+  old son. Deputy Richard Birmingham arrests him.  17th Season Opener. AKA
+  Funny Side of COPS Special Edition.
 
 ### S17E04
 
@@ -10984,48 +10990,53 @@ would lose 70% of their crime.
 
 Aired 2005-04-30.
 
-**Caught in the Act Special** (Fresno, CA - 10:02 PM Street Patrol) SW Policing
-District - CST Officer Paul Cervantes & Officer David Miramontes are the
-district suppression team to respond to violent calls as a primary strikes
-force. Their primary target is to focus on drug dealers and junkies out of
-line. They drive up on two men fighting in a parking lot on Palm & Olive. One
-is on top of the other and slaps him. They pull over, jump out and cuff them.
-Charlie is on parole and says he was walking, the guy cursed at him, got
-violent, pushed him on the ground and he only had one beer. The other guy says
-Charlie started it. He punched him, pushed him, he had 2 beers and lives
-nearby. Charlie doesn't remember what address will be on his parole record
-because he has amnesia and doesn't remember what he said. Charlie was asking
-for money, but is not sure if it was a robbery. Officer Maria Flores backs them
-up. The other guy says he gave him some change, it wasn't enough and he tried
-to push him. They cut him loose and arrest Charlie. Charlie wants them to
-remove the cuffs so he can go beat him. Las Vegas, NV (12:19 AM Possible
-Disturbance) SE Area Command - Officer Shaun Woodard has been in town since
-1986. He moved from Boston, likes the weather and claims lots of people come
-here for the weather and gambling. He sees a 417, a man choking a woman and
-goes back. His partner is Officer Bill Van Cleef. Tanya says they were playing,
-are lesbians, her girlfriend Dawn wanted to walk home, but she wanted to drive
-them home. They weren't fighting, just arguing, but she did a lot for Dawn and
-took her in. Dawn says they were in a bar and another woman was looking at her
-and Tanya got jealous. In the truck Tanya put her in a choke hold. It is a
-mandatory arrest for domestic violence battery. She wants her car keys since
-last time she didn't get them. Dawn comes over and cries, Tanya says it's OK,
-she wouldn't hurt her. Dawn says she choked her before and almost killed her.
-Fresno, CA (9:32 PM Officer Assistance Call) SE Policing District - Officer
-Brent Willey says he feels like he's living the American dream. He's a 4th
-generation cop and his dad says if you get something for nothing you don't earn
-it. When you earn it, you love it and that makes it beautiful. He responds to a
-call for backup at an assault with a deadly weapon. It is raining and there is
-a man with a bloody face. He says two men jumped him and beat him. Detective
-Jacky Parks is there. They catch one of the suspects and the man ID's him. Sgt.
-Eddie Barrios says a call came about the first guy who was hiding in the
-dumpster. The guy says he wasn't hiding in the dumpster, nothing is going on,
-he's homeless, didn't do nothing, they don't have him on camera, he was just
-chilling in the dumpster and doesn't know what he did. He has one felony strike
-and just got out of jail today. In the 7-11 they watch the security tape and
-talk to the employee who saw it. Two guys start beating the man and they pull
-the victim inside and they both come in and attack him. Two employees fight
-back and then a third man comes and fights. They left blood on the ice cream
-cabinet, it's an open and shut case.
+**Caught in the Act Special**
+
+- (Fresno, CA - 10:02 PM Street Patrol) SW Policing District - CST Officer Paul
+  Cervantes & Officer David Miramontes are the district suppression team to
+  respond to violent calls as a primary strikes force. Their primary target is
+  to focus on drug dealers and junkies out of line. They drive up on two men
+  fighting in a parking lot on Palm & Olive. One is on top of the other and
+  slaps him. They pull over, jump out and cuff them.  Charlie is on parole and
+  says he was walking, the guy cursed at him, got violent, pushed him on the
+  ground and he only had one beer. The other guy says Charlie started it. He
+  punched him, pushed him, he had 2 beers and lives nearby. Charlie doesn't
+  remember what address will be on his parole record because he has amnesia and
+  doesn't remember what he said. Charlie was asking for money, but is not sure
+  if it was a robbery. Officer Maria Flores backs them up. The other guy says
+  he gave him some change, it wasn't enough and he tried to push him. They cut
+  him loose and arrest Charlie. Charlie wants them to remove the cuffs so he
+  can go beat him.
+
+- Las Vegas, NV (12:19 AM Possible Disturbance) SE Area Command -- Officer
+  Shaun Woodard has been in town since 1986. He moved from Boston, likes the
+  weather and claims lots of people come here for the weather and gambling. He
+  sees a 417, a man choking a woman and goes back. His partner is Officer Bill
+  Van Cleef. Tanya says they were playing, are lesbians, her girlfriend Dawn
+  wanted to walk home, but she wanted to drive them home. They weren't
+  fighting, just arguing, but she did a lot for Dawn and took her in. Dawn says
+  they were in a bar and another woman was looking at her and Tanya got
+  jealous. In the truck Tanya put her in a choke hold. It is a mandatory arrest
+  for domestic violence battery. She wants her car keys since last time she
+  didn't get them. Dawn comes over and cries, Tanya says it's OK, she wouldn't
+  hurt her. Dawn says she choked her before and almost killed her.
+
+- Fresno, CA (9:32 PM Officer Assistance Call) SE Policing District -- Officer
+  Brent Willey says he feels like he's living the American dream. He's a 4th
+  generation cop and his dad says if you get something for nothing you don't
+  earn it. When you earn it, you love it and that makes it beautiful. He
+  responds to a call for backup at an assault with a deadly weapon. It is
+  raining and there is a man with a bloody face. He says two men jumped him and
+  beat him. Detective Jacky Parks is there. They catch one of the suspects and
+  the man ID's him. Sgt.  Eddie Barrios says a call came about the first guy
+  who was hiding in the dumpster. The guy says he wasn't hiding in the
+  dumpster, nothing is going on, he's homeless, didn't do nothing, they don't
+  have him on camera, he was just chilling in the dumpster and doesn't know
+  what he did. He has one felony strike and just got out of jail today. In the
+  7-11 they watch the security tape and talk to the employee who saw it. Two
+  guys start beating the man and they pull the victim inside and they both come
+  in and attack him. Two employees fight back and then a third man comes and
+  fights. They left blood on the ice cream cabinet, it's an open and shut case.
 
 ### S17E34
 
@@ -11196,7 +11207,7 @@ Aired 2006-01-14.
 
 **Coast to Coast 87**
 
-- (Fort Myers, FL - 1:38 PM Man with a Gun/Should be AM) An officer responds to a call involving a concerned citizen who says he was approached by an armed man claiming to have used his gun in an bank robbery.
+- (Fort Myers, FL -- 1:38 PM Man with a Gun/Should be AM) Corporal Jason Pate responds to a call involving a concerned citizen who says he was approached by an armed man claiming to have used his gun in an bank robbery.
 - Las Vegas, NV
 - Lee County FL
 
