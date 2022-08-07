@@ -10238,130 +10238,147 @@ he was 20 and says coke doesn't affect him. He is booked and goes to jail.
 
 Aired 2005-02-19.
 
-**Las Vegas Heat** - Theme song is Powerstation "Some Like it Hot". Note: this
-episode looks nothing like any episode before. It has completely different
-fonts for the calls, doesn't list the times and they start small and expand
-outward. (Homicide Investigation) The daytime bartender from Odyssey Pizza
-calls in that the 70 year old graveyard bartender was found dead when she came
-to work and the place was robbed. Detective Shelia Huggins takes the case.
-Crime Scene Investigator Joseph Matvay says he found a herringbone footprint on
-the victims back and a matching footprint in the bathroom. (Street Patrol)
-Officer Paul Gasca loves Vegas because it is open 24 hours. His partner Officer
-Gerard Bello says they are going after a stolen vehicle and are going to get
-ahead of the pursuit. They find him coming down a curb and give pursuit
-westbound on Tropicana. then north on Cobolt. They jump out at the MGM and run
-into the parking garage. The passenger stays with the car, the driver runs
-through the garage and down the street before Paul catches him. He says not to
-disrespect him when they cuff him. Officer Larry Symonette kept up with him
-too. Paul asks him why he ran. He says he was minding his own business coming
-from a pizza place and they harassed him. He gives him a fake name, so they say
-they'll give him John Doe and he'll sit in jail for 2 months. His partner gave
-him up - he's wanted by LAPD for homicide, $1.5 million bail. Back at the
-homicide investigation Lt. Tom Monahan talks to the press about the homicide.
-Detective Larry Hanna briefs about the suspect, he has been seen before.
-Detective Todd Hendrix and Sgt. Mike Thomason are also there. The suspects left
-behind two beers they brought and a prescription bottle filled the day before.
-Todd calls the pharmacy so they can come and see the surveillance video.
-(Homicide Investigation) the pharmacy knows the guy, saw him on the video and
-have his name and an address. He's a skateboarder with bleach blonde hair. The
-bartender says a guy named Mario called and Randy AKA Crazy came along with
-him. They sat at the bar, he was wearing a red shirt and was dirty. Only 3
-people were left at closing. (Street Patrol) Paul says people come there from
-everywhere, the cities' reputation is amazing. They take the call about a guy
-who crashed into a dry cleaners and left the car running. They find the car and
-pull them out at gunpoint. The driver says his friend picked him up and he sat
-in the car because it was cool. He wasn't driving and didn't steal it. Then he
-says he was driving it, was asked to picked up the car, but is not sure where
-he got the car. He was told it was stolen and was supposed to get $150 to drive
-it to Tuscany. He didn't know it was a big deal even though it was a Mercedes.
-The owner is called and comes to get the car. The thief asks the owner how he
-is doing. He is amazed he is asking him and says he'll cut his balls off and to
-get out of his face. The thief apologizes and wants him to know he wasn't the
-one who took it. Homicide Investigation (Interview - Person of Interest) They
-talk to the blonde guy. He says he was going to skate around town and guys hit
-him up for money. Then they attacked him when he didn't have any and was
-knocked out all night. His mom picked him up at 4am. Shelia says she doesn't
-believe his story. He yells for his mom to verify his story. He says he didn't
-kill anyone, is gay and picks up the phone to call his attorney because they
-are rude to him. She says if he calls he is a suspect. The witnesses saw
-tattoos. Mom says Joseph gave the other guy his credit card to a black guy to
-get food. The black guy bought food and came back. They want to find out where
-the credit was used. (Homicide Investigation Autopsy) Shelia says the body is a
-piece of evidence, it'll give a time and cause of death. Severe bruising on
-both hands shows he fought back, there was a major struggle and he took a
-massive beating. Todd finds out where they used the card and they go look at
-the video of it. Officer David Miller is going undercover on robbery decoy
-detail. Officer Misty Pence watches from above across the street. Officer
-Nathan Boss is in a car on the street. David is dressed up like a painter, in a
-messy outfit, with cigarettes, money and acting like he's a drunk Russian. A
-black guy comes up to him to hit him up for cigarettes, then pickpockets his
-money. Walking down the street he dumps the money when he spots the cops
-coming. Misty gives the play by play. Officer Scott Olson makes the arrest,
-says he has a big rap sheet of theft and battery. (Homicide Investigation) they
-go to a convenience store and watch a video of the black haired suspect coming
-in with a skateboard and using the credit card. (Street Patrol) Sgt. Tom "TJ"
-Jenkins is on foot patrol so he can get closer to the action. He spots a woman
-squatting, pissing against a crane. She is with a friend and they are both
-drunk. He says everything they did is on camera, but just gives them a warning.
-They say they'll go back to the hotel and won't be out again till tomorrow.
-(Crime Stoppers Hotline - Homicide Investigation) A man called Todd that he
-knows where Crazy is so he goes to meet him at a diner. The guy says he just
-met him last night. Crazy admitted he got some pool sticks because he killed a
-bartender a couple nights ago and stole them. His name is David and he'll give
-a statement. He says he met him through his friend Randy. They go to where he
-is and find a guy named Kevin sitting on the curb. They pick him up and he
-screams that his arms hurt and they are infected as he was just going to the
-hospital. He lives with Crazy Randy. He just shot up heroin a few minutes ago.
-Cops ask him where he got the pool cues. He said he found 4 sticks in the alley
-behind the apartment. He lives in room 20. They go to the room and get Randy,
-he says he has a big dog inside. They pull him out and his arms are all bloody.
-Kevin is from Virginia Beach and stole the pills. His shoes match the crime
-scene, but he is in such bad shape that they have to ambulance him out. (Street
-Patrol) Tom wants to get the message out to jaywalkers because 60-80 people die
-a year walking in the street. He spots a drunk guy in the median and goes to
-check him out before he goes into traffic. He has a beer in each hand. Tom
-tells him to drop them, but he keeps drinking them. He also has a pile of
-clothes, some are women's and they still have the hangers on them. He says they
-aren't stolen, he just has a fetish for women's clothes. He picked up Tom for
-jaywalking yesterday and arrested him last week too. He is sweating as they
-find a 16 oz bottle of Bud in his sock. He also has one stuffed in his crotch
-that's freezing him. (Homicide Investigation) Shelia found out the killers are
-hustlers and took advantage of the older man at the bar. (Warrant Search) they
-go to the apartment and find a bloody tank top, the skateboard, pool cue & case
-and a red shirt in the trash - the one worn during the crime. (Suspect Booking)
-They take Kevin's mug shot with a computer. (Warrant Search) back at HQ they go
-through the belongings. Crime Scene Analyst Stephanie Smith finds the victims'
-wallet in Kevin's backpack with his SS card. (Epilogue) At Kevin's court
-hearing the judge reads the charges against him. He pleads not guilty, so does
-Randy. Prosecutors ask for the death penalty. Originally to air 11/19/04 and be
-called Las Vegas Metro '04 S17E09.
+**Las Vegas Heat**
+
+Theme song is Powerstation "Some Like it Hot".
+
+Note: this episode looks nothing like any episode before. It has completely
+different fonts for the calls, doesn't list the times and they start small and
+expand outward.
+
+- (Homicide Investigation) The daytime bartender from Odyssey Pizza calls in
+  that the 70 year old graveyard bartender was found dead when she came to work
+  and the place was robbed. Detective Shelia Huggins takes the case.  Crime
+  Scene Investigator Joseph Matvay says he found a herringbone footprint on the
+  victims back and a matching footprint in the bathroom.
+- (Street Patrol) Officer Paul Gasca loves Vegas because it is open 24 hours.
+  His partner Officer Gerard Bello says they are going after a stolen vehicle
+  and are going to get ahead of the pursuit. They find him coming down a curb
+  and give pursuit westbound on Tropicana. then north on Cobolt. They jump out
+  at the MGM and run into the parking garage. The passenger stays with the car,
+  the driver runs through the garage and down the street before Paul catches
+  him. He says not to disrespect him when they cuff him. Officer Larry
+  Symonette kept up with him too. Paul asks him why he ran. He says he was
+  minding his own business coming from a pizza place and they harassed him. He
+  gives him a fake name, so they say they'll give him John Doe and he'll sit in
+  jail for 2 months. His partner gave him up - he's wanted by LAPD for
+  homicide, $1.5 million bail. Back at the homicide investigation Lt. Tom
+  Monahan talks to the press about the homicide.  Detective Larry Hanna briefs
+  about the suspect, he has been seen before.  Detective Todd Hendrix and Sgt.
+  Mike Thomason are also there. The suspects left behind two beers they brought
+  and a prescription bottle filled the day before.  Todd calls the pharmacy so
+  they can come and see the surveillance video.
+- (Homicide Investigation) the pharmacy knows the guy, saw him on the video and
+  have his name and an address. He's a skateboarder with bleach blonde hair.
+  The bartender says a guy named Mario called and Randy AKA Crazy came along
+  with him. They sat at the bar, he was wearing a red shirt and was dirty. Only
+  3 people were left at closing.
+- (Street Patrol) Paul says people come there from everywhere, the cities'
+  reputation is amazing. They take the call about a guy who crashed into a dry
+  cleaners and left the car running. They find the car and pull them out at
+  gunpoint. The driver says his friend picked him up and he sat in the car
+  because it was cool. He wasn't driving and didn't steal it. Then he says he
+  was driving it, was asked to picked up the car, but is not sure where he got
+  the car. He was told it was stolen and was supposed to get $150 to drive it
+  to Tuscany. He didn't know it was a big deal even though it was a Mercedes.
+  The owner is called and comes to get the car. The thief asks the owner how he
+  is doing. He is amazed he is asking him and says he'll cut his balls off and
+  to get out of his face. The thief apologizes and wants him to know he wasn't
+  the one who took it. Homicide Investigation
+- (Interview - Person of Interest) They talk to the blonde guy. He says he was
+  going to skate around town and guys hit him up for money. Then they attacked
+  him when he didn't have any and was knocked out all night. His mom picked him
+  up at 4am. Shelia says she doesn't believe his story. He yells for his mom to
+  verify his story. He says he didn't kill anyone, is gay and picks up the
+  phone to call his attorney because they are rude to him. She says if he calls
+  he is a suspect. The witnesses saw tattoos. Mom says Joseph gave the other
+  guy his credit card to a black guy to get food. The black guy bought food and
+  came back. They want to find out where the credit was used.
+- (Homicide Investigation Autopsy) Shelia says the body is a piece of evidence,
+  it'll give a time and cause of death. Severe bruising on both hands shows he
+  fought back, there was a major struggle and he took a massive beating. Todd
+  finds out where they used the card and they go look at the video of it.
+  Officer David Miller is going undercover on robbery decoy detail. Officer
+  Misty Pence watches from above across the street. Officer Nathan Boss is in a
+  car on the street. David is dressed up like a painter, in a messy outfit,
+  with cigarettes, money and acting like he's a drunk Russian. A black guy
+  comes up to him to hit him up for cigarettes, then pickpockets his money.
+  Walking down the street he dumps the money when he spots the cops coming.
+  Misty gives the play by play. Officer Scott Olson makes the arrest, says he
+  has a big rap sheet of theft and battery.
+- (Homicide Investigation) they go to a convenience store and watch a video of
+  the black haired suspect coming in with a skateboard and using the credit
+  card.
+- (Street Patrol) Sgt. Tom "TJ" Jenkins is on foot patrol so he can get closer
+  to the action. He spots a woman squatting, pissing against a crane. She is
+  with a friend and they are both drunk. He says everything they did is on
+  camera, but just gives them a warning.  They say they'll go back to the hotel
+  and won't be out again till tomorrow.
+- (Crime Stoppers Hotline -- Homicide Investigation) A man called Todd that he
+  knows where Crazy is so he goes to meet him at a diner. The guy says he just
+  met him last night. Crazy admitted he got some pool sticks because he killed
+  a bartender a couple nights ago and stole them. His name is David and he'll
+  give a statement. He says he met him through his friend Randy. They go to
+  where he is and find a guy named Kevin sitting on the curb. They pick him up
+  and he screams that his arms hurt and they are infected as he was just going
+  to the hospital. He lives with Crazy Randy. He just shot up heroin a few
+  minutes ago.  Cops ask him where he got the pool cues. He said he found 4
+  sticks in the alley behind the apartment. He lives in room 20. They go to the
+  room and get Randy, he says he has a big dog inside. They pull him out and
+  his arms are all bloody.  Kevin is from Virginia Beach and stole the pills.
+  His shoes match the crime scene, but he is in such bad shape that they have
+  to ambulance him out.
+- (Street Patrol) Tom wants to get the message out to jaywalkers because 60-80
+  people die a year walking in the street. He spots a drunk guy in the median
+  and goes to check him out before he goes into traffic. He has a beer in each
+  hand. Tom tells him to drop them, but he keeps drinking them. He also has a
+  pile of clothes, some are women's and they still have the hangers on them. He
+  says they aren't stolen, he just has a fetish for women's clothes. He picked
+  up Tom for jaywalking yesterday and arrested him last week too. He is
+  sweating as they find a 16 oz bottle of Bud in his sock. He also has one
+  stuffed in his crotch that's freezing him.
+- (Homicide Investigation) Shelia found out the killers are hustlers and took
+  advantage of the older man at the bar.
+- (Warrant Search) they go to the apartment and find a bloody tank top, the
+  skateboard, pool cue & case and a red shirt in the trash - the one worn
+  during the crime.
+- (Suspect Booking) They take Kevin's mug shot with a computer.
+- (Warrant Search) back at HQ they go through the belongings. Crime Scene
+  Analyst Stephanie Smith finds the victims' wallet in Kevin's backpack with
+  his SS card.
+- (Epilogue) At Kevin's court hearing the judge reads the charges against him.
+  He pleads not guilty, so does Randy. Prosecutors ask for the death penalty.
+
+Originally to air 2004-11-19 and be called Las Vegas Metro '04 S17E09.
 
 ### S17E18
 
 Aired 2005-02-05.
 
-**Resisting Arrest 4 Special Edition** (Pierce County WA - 12:02 AM Armed
-Robbery Call) Officer Joe Kolp goes to set up a containment area. Officer Russ
-Martin is on the scene. A man has his bosses' truck from work and a guy broke
-in and stole tools including a nail gun. K-9 Officer Chris Karl from Tacoma is
-brought in and they go through the wood and find the guy on the other side of 
-a fence sleeping under a blanket. Joe pulls the blanket off and the guy pulls
-it back up and fights them. He gets tased three times and screams and fights.
-His nose gets bloody, says there is no other guy, he doesn't know what's going
-on and didn't fight anyone. He is cuffed and led off. The Lakewood Fire Dept
-cleans up his wound. The second guy is spotted in a rundown house so they go to
-get him. There are two people in the living room and the man is found hiding in
-a bed and won't come out. After the dog is brought in he complies, gets out and
-is cuffed. They found the stolen property too. Little Rock, AR - (12:52 AM
-Pursuit in Progress) FTO John Comeau spots a stolen vehicle and positions
-himself on the freeway. The black guy passes and then takes off through a field
-and back onto a side road, then runs on foot into the woods. He goes into a
-drainage pipe and won't come out so they follow him. He is caught and brought
-out all wet. His pants are off and his knees are cut. He ran because he's high
-on coke. The car is his partners' who lives on Johnson St. He had no clue what
-he was doing and didn't know if he'd get away after his silver jeep blew a tire
-and got stuck. Officer Mischa Fulton runs him and finds out he's a major thief.
-Forth Worth, TX - (1:05 PM Felony Warrant Call) North Division - Officer Steve
+**Resisting Arrest 4 Special Edition**
+- (Pierce County WA -- 12:02 AM Armed Robbery Call) Officer Joe Kolp goes to set
+  up a containment area. Officer Russ Martin is on the scene. A man has his
+  bosses' truck from work and a guy broke in and stole tools including a nail
+  gun. K-9 Officer Chris Karl from Tacoma is brought in and they go through the
+  wood and find the guy on the other side of  a fence sleeping under a blanket.
+  Joe pulls the blanket off and the guy pulls it back up and fights them. He
+  gets tased three times and screams and fights.  His nose gets bloody, says
+  there is no other guy, he doesn't know what's going on and didn't fight
+  anyone. He is cuffed and led off. The Lakewood Fire Dept cleans up his wound.
+  The second guy is spotted in a rundown house so they go to get him. There are
+  two people in the living room and the man is found hiding in a bed and won't
+  come out. After the dog is brought in he complies, gets out and is cuffed.
+  They found the stolen property too.
+- Little Rock, AR -- (12:52 AM Pursuit in Progress) FTO John Comeau spots a
+  stolen vehicle and positions himself on the freeway. The black guy passes and
+  then takes off through a field and back onto a side road, then runs on foot
+  into the woods. He goes into a drainage pipe and won't come out so they
+  follow him. He is caught and brought out all wet. His pants are off and his
+  knees are cut. He ran because he's high on coke. The car is his partners' who
+  lives on Johnson St. He had no clue what he was doing and didn't know if he'd
+  get away after his silver jeep blew a tire and got stuck. Officer Mischa
+  Fulton runs him and finds out he's a major thief.
+- Forth Worth, TX -- (1:05 PM Felony Warrant Call) North Division - Officer Steve
 Groppi has a lot of fun at work, especially catching criminals. It's like hide
 and seek. Officer Robert Guerrero goes with him to pick up Javier at his
 girlfriends house. Evette answers with a small, fat child and says she was
@@ -10377,187 +10394,205 @@ lying. Javier is on felony probation for assault so he is going back to jail.
 
 Aired 2005-03-05.
 
-**Coast to Coast 73** (Santa Ana, CA - 7:48 PM Traffic Stop) Officer Juan
-Gonzalez says an undercover witnessed a drug deal and they are going after the
-buyer's vehicle. He is in a brown Jeep and is pulled over. Juan gets out walks
-over, opens the door and asks him where he's coming from. He says the park.
-Juan tells him they saw him buy drugs. He says he was going to buy, but they
-didn't have any. Juan pulls him out and checks him. He says the dealer was
-spooked and thought he was a cop. He lives in Orange, which is far away and
-doesn't buy drugs often. They find nothing on him, so they check the car.
-Officer Rudy Reynoso questions him. The suspect has a dog in the car and Rudy
-says they'll put the dog in the pound if he has drugs. They find nothing, give
-him a summons for intent to buy and cut him loose. They go back for the dealer
-since he confessed it and find him on a bicycle doing another deal and tackle
-him. He speaks Spanish and is very short. Rudy busts another dealer nearby.
-Juan finds a vial and rocks on him and he speaks Spanish so he can't get away
-with it. He also finds a wad of money on him and a bunch of rocks on the
-ground. A crowd of children suddenly appears to laugh at him. Covington, KY
-(4:14 PM Assistance Call) Officer Jess Hamblin takes the call of a person
-refusing to leave a hotel. He arrives at the same time as Officer Chris
-Gangwich. They talk to the owner James who says he, Paul and John are the only
-ones who should be there. They are his sons and bring people with them and
-smoke crack. He gives permission to get them out and check for drugs. Two guys
-are inside and there is a guy and a girl in the bathroom. One guy says he's
-lived there since October with his dad. He's never seen these other people
-before. Jennifer who was in the bathroom has a crack pipe so she is arrested.
-There are crack pipes all over, but the owner says he just invited them in for
-cold beers. They find 2 crack pipes in the toilet and a stick. Jen says she
-just went in the bathroom to talk to the guy and knows nothing about the crack.
-The owner's son has a crack pipe in his shirt and all of them are arrested. The
-son sings as he's brought out and says he was just watching the Dukes of
-Hazzard and didn't know nothing. He has an addictive personality - he'll do
-anything you put out in front of him. Fresno, CA - Southwest Policing District.
-(10:43 PM Domestic Disturbance) Officer Curtis Davis drives and Officer Paul
-Martinez says he likes to multitask. It's his third unit, he's going to do
-undercover detail and looking forward to it. Paul takes a call of a female in a
-gray van screaming for help. They arrive and there is a woman, Barbara,
-slouched in the van crying, saying “ouch” and “please don't hurt me.” She looks
-totally wasted, is sweating and says a guy beat her up. She was working and a
-guy punched her in the face, put his hands around her neck and can't breathe.
-The Spanish driver says the lady gave him five dollars for a ride. She says he
-took $20 out of her purse and he tried to choke her because he knew she had
-$20. She finally admits she is a prostitute, is homeless, wants her money and
-wants him arrested because he threw her down and beat her. He says he swears to
-god he didn't beat her up. Officer Chris Green backs them up. Curtis tells
-Barbara to sit down and she falls off the chair. It turns out she has a warrant
-and has to go to jail. Both of them are drunk and are going to jail. Was
-supposed to be S17E11, but that episode never aired.
+**Coast to Coast 73**
+
+- (Santa Ana, CA - 7:48 PM Traffic Stop) Officer Juan Gonzalez says an
+  undercover witnessed a drug deal and they are going after the buyer's
+  vehicle. He is in a brown Jeep and is pulled over. Juan gets out walks over,
+  opens the door and asks him where he's coming from. He says the park.  Juan
+  tells him they saw him buy drugs. He says he was going to buy, but they
+  didn't have any. Juan pulls him out and checks him. He says the dealer was
+  spooked and thought he was a cop. He lives in Orange, which is far away and
+  doesn't buy drugs often. They find nothing on him, so they check the car.
+  Officer Rudy Reynoso questions him. The suspect has a dog in the car and Rudy
+  says they'll put the dog in the pound if he has drugs. They find nothing,
+  give him a summons for intent to buy and cut him loose. They go back for the
+  dealer since he confessed it and find him on a bicycle doing another deal and
+  tackle him. He speaks Spanish and is very short. Rudy busts another dealer
+  nearby.  Juan finds a vial and rocks on him and he speaks Spanish so he can't
+  get away with it. He also finds a wad of money on him and a bunch of rocks on
+  the ground. A crowd of children suddenly appears to laugh at him.
+- Covington, KY (4:14 PM Assistance Call) Officer Jess Hamblin takes the call
+  of a person refusing to leave a hotel. He arrives at the same time as Officer
+  Chris Gangwich. They talk to the owner James who says he, Paul and John are
+  the only ones who should be there. They are his sons and bring people with
+  them and smoke crack. He gives permission to get them out and check for
+  drugs. Two guys are inside and there is a guy and a girl in the bathroom. One
+  guy says he's lived there since October with his dad. He's never seen these
+  other people before. Jennifer who was in the bathroom has a crack pipe so she
+  is arrested.  There are crack pipes all over, but the owner says he just
+  invited them in for cold beers. They find 2 crack pipes in the toilet and a
+  stick. Jen says she just went in the bathroom to talk to the guy and knows
+  nothing about the crack.  The owner's son has a crack pipe in his shirt and
+  all of them are arrested. The son sings as he's brought out and says he was
+  just watching the Dukes of Hazzard and didn't know nothing. He has an
+  addictive personality - he'll do anything you put out in front of him.
+- Fresno, CA -- Southwest Policing District. (10:43 PM Domestic Disturbance)
+  Officer Curtis Davis drives and Officer Paul Martinez says he likes to
+  multitask. It's his third unit, he's going to do undercover detail and
+  looking forward to it. Paul takes a call of a female in a gray van screaming
+  for help. They arrive and there is a woman, Barbara, slouched in the van
+  crying, saying “ouch” and “please don't hurt me.” She looks totally wasted,
+  is sweating and says a guy beat her up. She was working and a guy punched her
+  in the face, put his hands around her neck and can't breathe.  The Spanish
+  driver says the lady gave him five dollars for a ride. She says he took $20
+  out of her purse and he tried to choke her because he knew she had $20. She
+  finally admits she is a prostitute, is homeless, wants her money and wants
+  him arrested because he threw her down and beat her. He says he swears to god
+  he didn't beat her up. Officer Chris Green backs them up. Curtis tells
+  Barbara to sit down and she falls off the chair. It turns out she has a
+  warrant and has to go to jail. Both of them are drunk and are going to jail.
+
+Was supposed to be S17E11, but that episode never aired.
 
 ### S17E20
 
 Aired 2005-04-30.
 
-**600th Milestone Episode** (Cincinnati, OH - 9:24 PM Traffic Stop) Officer
-Michael Winslow says it's a full moon, lots of officers believe the myth that
-it makes more crime. He hasn't seen that. Cameras capture a fleeing suspect;
-domestic disturbance; a family disturbance that threatens to separate children
-from their father. Covington, KY/Hamilton Co, OH.
+**600th Milestone Episode**
+
+(Cincinnati, OH - 9:24 PM Traffic Stop) Officer Michael Winslow says it's a
+full moon, lots of officers believe the myth that it makes more crime. He
+hasn't seen that. Cameras capture a fleeing suspect; domestic disturbance; a
+family disturbance that threatens to separate children from their father.
+Covington, KY/Hamilton Co, OH.
 
 ### S17E21
 
 Aired 2004-11-13.
 
-**Grand Theft Auto 2 Special Edition** (Pierce County WA - 10:28 PM Pursuit in
-Progress) Lakewood - Officer Monti Minion and partner Officer Dave Butts pull
-over and wait for the pursuit of a mini van to pass them. Stop sticks are put
-out on the freeway, so he exits, turns around, gets a flat and bails out on
-Union & Mills. A K-9 is called to find the white guy in a white shirt. They go
-through bushes, a field and yard. K-9 catches him in a bush, he screams, is
-pulled out, cuffed and mirandized. He wants to talk to an attorney, wants his
-shoe, is mad the dog bit him, screams he's innocent and denies stealing the
-van. He only ran because the dog was chasing him. They explain that the dog
-tracked his scent from the van to here. He thinks that's amazing and has been
-arrested before for stealing a car. He says the van belongs to his parents, but
-his dad's on coke and his mom's on heroin so they can't contact them. Las
-Vegas, NV - Downtown Area Command (4:38 PM Stolen Vehicle Call) Officer Ray
-Spencer was in Reno and when they had a great call they'd talk about it for 3
-days. In Vegas they get calls like that every day. He spots a car with a loose
-license plate that comes back stolen. The guy pulls over and gets out without
-incident. Officer Todd Humphrey cuffs and questions him. The ignition is
-punched out and on the floor with a rag covering the steering wheel. He hasn't
-been arrested in 7 years, the car is his buddy Steve's and he was just
-borrowing it to go to the store. He only had the car 30 minutes after picking
-it up at a 7-11 in the back. His friend traded crack for the car, it's a rock
-rental, he didn't steal it. At the police station in interview room 3 he says
-he went to the Peppertree where guys hang out and asked to use the car. The guy
-told him it was stolen and he used a nail file to start it. He bought chicken
-and the cop gives it to him and he eats it fast. They have enough evidence to
-bust him. Pierce County WA - South Hill Precinct (2:13 AM Stolen Vehicle)
-Officer Theron Hardesty works graveyard from 9pm to 7am. It starts fast, gets
-slow then allows you to be proactive which is what they are meant to do. He
-spots a red Porsche on the hot sheet and pulls him over. An ancient long gray
-bearded biker comes out. He refuses to lie on the dirt and wants to know what's
-going on. He gets on all fours and another cop is brought in to jump on and
-cuff him. They put him in the back and ask where he got the car. He got it from
-J.P. who is selling it to him on payments. He put $1000 down yesterday, but has
-no receipt. Theron says the Porsche is worth more than $30,000 as it's almost
-new. He has no title and it was stolen last night. The owner is brought to the
-scene to ID the guy, but doesn't know him and will gladly testify against him
-in court. (Fox mistakenly calls this Grand Theft Auto).
+**Grand Theft Auto 2 Special Edition**
+
+(Fox mistakenly calls this Grand Theft Auto).
+
+- (Pierce County WA - 10:28 PM Pursuit in Progress) Lakewood -- Officer Monti
+  Minion and partner Officer Dave Butts pull over and wait for the pursuit of a
+  mini van to pass them. Stop sticks are put out on the freeway, so he exits,
+  turns around, gets a flat and bails out on Union & Mills. A K-9 is called to
+  find the white guy in a white shirt. They go through bushes, a field and
+  yard. K-9 catches him in a bush, he screams, is pulled out, cuffed and
+  mirandized. He wants to talk to an attorney, wants his shoe, is mad the dog
+  bit him, screams he's innocent and denies stealing the van. He only ran
+  because the dog was chasing him. They explain that the dog tracked his scent
+  from the van to here. He thinks that's amazing and has been arrested before
+  for stealing a car. He says the van belongs to his parents, but his dad's on
+  coke and his mom's on heroin so they can't contact them.
+- Las Vegas, NV -- Downtown Area Command (4:38 PM Stolen Vehicle Call) Officer
+  Ray Spencer was in Reno and when they had a great call they'd talk about it
+  for 3 days. In Vegas they get calls like that every day. He spots a car with
+  a loose license plate that comes back stolen. The guy pulls over and gets out
+  without incident. Officer Todd Humphrey cuffs and questions him. The ignition
+  is punched out and on the floor with a rag covering the steering wheel. He
+  hasn't been arrested in 7 years, the car is his buddy Steve's and he was just
+  borrowing it to go to the store. He only had the car 30 minutes after picking
+  it up at a 7-11 in the back. His friend traded crack for the car, it's a rock
+  rental, he didn't steal it. At the police station in interview room 3 he says
+  he went to the Peppertree where guys hang out and asked to use the car. The
+  guy told him it was stolen and he used a nail file to start it. He bought
+  chicken and the cop gives it to him and he eats it fast. They have enough
+  evidence to bust him.
+- Pierce County WA -- South Hill Precinct (2:13 AM Stolen Vehicle) Officer
+  Theron Hardesty works graveyard from 9pm to 7am. It starts fast, gets slow
+  then allows you to be proactive which is what they are meant to do. He spots
+  a red Porsche on the hot sheet and pulls him over. An ancient long gray
+  bearded biker comes out. He refuses to lie on the dirt and wants to know
+  what's going on. He gets on all fours and another cop is brought in to jump
+  on and cuff him. They put him in the back and ask where he got the car. He
+  got it from J.P. who is selling it to him on payments. He put $1000 down
+  yesterday, but has no receipt. Theron says the Porsche is worth more than
+  $30,000 as it's almost new. He has no title and it was stolen last night. The
+  owner is brought to the scene to ID the guy, but doesn't know him and will
+  gladly testify against him in court.
 
 ### S17E22
 
 Aired 2005-05-14.
 
-**Grand Theft Auto 3 Special Edition** (Pierce County WA - 12:42 AM Stolen
-Vehicle Pursuit) South Hill Precinct - Deputy Kris Nordstrom chases Derrick, a
-white guy in a stolen Honda Prelude on the freeway. He goes 70mph through a red
-light, blows a stop sign, goes eastbound on Pacific, dodges stop sticks, west
-on 72nd, swerves to avoid a PIT, speeds up, heads down 116 th st, rear ends a
-car and loses it. He jumps out to run but another police car cuts him off
-against a fence. He goes to jump on the hood, doesn't make it, surrenders and
-they jump on him and cuff him. Deputy Roger Fuller checks the victim that was
-hit and his face is all bloody. He lost a tooth and probably broke his nose.
-Sgt. Brian Witt checks the damage. Derrick says he didn't know the cops were
-behind him at first, complains about his leg and they ambulance him off. Little
-Rock, AR (9:01 PM Stolen Vehicle) Downtown Patrol Division - Officer Ryan
-Hudson says the blue car is on the local list and the subject is supposed to be
-armed. He's on MLK and pulls over without incident. They draw their guns and
-pull him out, but he won't drop his soda. He is a young black guy who is
-incoherent saying he did nothing wrong and has no gun or drugs. A woman let him
-use the car, she has his ID, but he doesn't know her name. He says he can take
-the car to the drug house at 28th on Harrison where she is. They bring Barbara,
-the car's owner, to the scene who says last Friday he jumped in the back seat
-at a gas station, pulled a out a gun and forced her to drive him around for 2
-hours. She told him to take the car since it isn't worth much. He gave her his
-ID, said he'd bring it back in a few days and not to call the police or he'd
-kill her. He says he traded crack for the car and didn't know it was stolen. He
-has warrants. They take Barbara to the station to ID the driver. Detective
-Ashley Helton shows her a paper with 6 pictures and she picks out #2 right
-away. Pierce County WA (7:40 PM Stolen Vehicle) Sheriff's Dept. Mountain
-Detachment - Deputy Pete Turner spots a Bronco with one headlight and no
-taillights that is stolen. Josh the white male driver pulls over with no
-problem and comes out. He's wearing his hat backwards and has an Auburn #24
-basketball shirt. Deputy Jennifer Eldridge backs him up. He says he got the
-truck from Tony, didn't know it was stolen and doesn't know where Tony is. He's
-been busted before for driving a stolen car. The back window is gone and the
-key is shaved. He says he didn't steal it, he just borrowed it and it was like
-that. He just started working again and put in 10 days straight. They ask him
-why he was busted before for this. He says he's on work release with the owner
-and he does exist.
+**Grand Theft Auto 3 Special Edition**
+
+- (Pierce County WA -- 12:42 AM Stolen Vehicle Pursuit) South Hill Precinct --
+  Deputy Kris Nordstrom chases Derrick, a white guy in a stolen Honda Prelude
+  on the freeway. He goes 70mph through a red light, blows a stop sign, goes
+  eastbound on Pacific, dodges stop sticks, west on 72nd, swerves to avoid a
+  PIT, speeds up, heads down 116 th st, rear ends a car and loses it. He jumps
+  out to run but another police car cuts him off against a fence. He goes to
+  jump on the hood, doesn't make it, surrenders and they jump on him and cuff
+  him. Deputy Roger Fuller checks the victim that was hit and his face is all
+  bloody. He lost a tooth and probably broke his nose.  Sgt. Brian Witt checks
+  the damage. Derrick says he didn't know the cops were behind him at first,
+  complains about his leg and they ambulance him off.
+- Little Rock, AR (9:01 PM Stolen Vehicle) Downtown Patrol Division -- Officer
+  Ryan Hudson says the blue car is on the local list and the subject is
+  supposed to be armed. He's on MLK and pulls over without incident. They draw
+  their guns and pull him out, but he won't drop his soda. He is a young black
+  guy who is incoherent saying he did nothing wrong and has no gun or drugs. A
+  woman let him use the car, she has his ID, but he doesn't know her name. He
+  says he can take the car to the drug house at 28th on Harrison where she is.
+  They bring Barbara, the car's owner, to the scene who says last Friday he
+  jumped in the back seat at a gas station, pulled a out a gun and forced her
+  to drive him around for 2 hours. She told him to take the car since it isn't
+  worth much. He gave her his ID, said he'd bring it back in a few days and not
+  to call the police or he'd kill her. He says he traded crack for the car and
+  didn't know it was stolen. He has warrants. They take Barbara to the station
+  to ID the driver. Detective Ashley Helton shows her a paper with 6 pictures
+  and she picks out #2 right away.
+- Pierce County WA (7:40 PM Stolen Vehicle) Sheriff's Dept. Mountain Detachment
+  -- Deputy Pete Turner spots a Bronco with one headlight and no taillights
+  that is stolen. Josh the white male driver pulls over with no problem and
+  comes out. He's wearing his hat backwards and has an Auburn #24 basketball
+  shirt. Deputy Jennifer Eldridge backs him up. He says he got the truck from
+  Tony, didn't know it was stolen and doesn't know where Tony is. He's been
+  busted before for driving a stolen car. The back window is gone and the key
+  is shaved. He says he didn't steal it, he just borrowed it and it was like
+  that. He just started working again and put in 10 days straight. They ask him
+  why he was busted before for this. He says he's on work release with the
+  owner and he does exist.
 
 ### S17E23
 
 Aired 2005-04-16.
 
-**Coast to Coast 74** (Pierce County WA - 1:02 AM Pursuit in Progress) Lakewood
-- Officer Matt Brown is en route to the east side after a vehicle with stolen
-plates that won't stop. Josh sets up stop sticks and the white truck hits them
-and keeps going. He loses his tires, goes into an apartment complex and bails
-out on foot. He is caught right away and tazered, but he howls and continues to
-fight. Officer Mike Phipps assists. There are two more in the truck brought out
-at gunpoint. Deputy Kris Nordstrom helps get them out. The third guy howls that
-his arm is popping out of the socket as they cuff him. The driver is mirandized
-and put in the back of a cruiser. The third guy has a needle on him. Deputy
-Mario Carey talks to the woman passenger. She says she didn't know the driver,
-her friend got out and peed, didn't know the truck stolen and the guy just
-jumped out while it was rolling. (1:03 AM Vehicle Stop) Officer Dave Shaffer
-pulls up behind a stolen gold vehicle that fell off the hot sheet. An unmarked
-car was following it and called Dave. Jason pulls over, gets out and is told to
-lift his shirt up and walk backwards to the cops and is cuffed. There is a
-women passenger, Gabby, a dog in the back, the ignition is punched and the
-stereo is missing. Gabby says Jason bought the car today and didn't know it was
-stolen. Officer Andy Guerrero is backup. She says he works from time to time,
-but doesn't have much money, doesn't know where he'd get any money and
-sometimes people give him money for helping them, but doesn't know who. He's in
-the back crying, says he doesn't want the girl to get in trouble since they're
-only together for 2 weeks. He traded a gram of meth to borrow the vehicle.
-Later she admits she knew it was stolen because he wouldn't tell her where he
-got it and needed a screwdriver to start it. He says he has a foster kid in
-California. They let the girl go with her dog. Hamilton County, OH (8:55 PM
-Traffic Stop) Sheriff's Office District 1 - Cpl Pete Enderle says his kids
-always ask if he caught any bad guys today. Sometimes he says yes, sometimes
-nothing happens. He goes to stop a car with no headlight and on Glenaire at the
-3000 block he pulls over. Has a temporary tag, no tail lights and no license.
-He reaches in his pocket for money and gets in trouble for that. He says he has
-no weed on him and it's the first time he drove the car. Then he admits there
-is weed in the front bucket. They find the pot where Jeff said it would be.
-He's 18 and has a warrant. They find coke in the trunk in a jewelry box. He is
-arrested, says it's not coke, it's powdered sugar and came with the car. Then
-why it is wrapped up in a little baggie? He won't explain why it's there. He
-got $800 worth of tickets last week, has a kid, his head's up his ass, needs a
-way to pay the bills. He's arrested for pot, warrant and fake coke.
+**Coast to Coast 74**
+
+- (Pierce County WA -- 1:02 AM Pursuit in Progress) Lakewood -- Officer Matt
+  Brown is en route to the east side after a vehicle with stolen plates that
+  won't stop. Josh sets up stop sticks and the white truck hits them and keeps
+  going. He loses his tires, goes into an apartment complex and bails out on
+  foot. He is caught right away and tazered, but he howls and continues to
+  fight.  Officer Mike Phipps assists. There are two more in the truck brought
+  out at gunpoint. Deputy Kris Nordstrom helps get them out. The third guy
+  howls that his arm is popping out of the socket as they cuff him. The driver
+  is mirandized and put in the back of a cruiser. The third guy has a needle on
+  him. Deputy Mario Carey talks to the woman passenger. She says she didn't
+  know the driver, her friend got out and peed, didn't know the truck stolen
+  and the guy just jumped out while it was rolling.
+- (1:03 AM Vehicle Stop) Officer Dave Shaffer pulls up behind a stolen gold
+  vehicle that fell off the hot sheet. An unmarked car was following it and
+  called Dave. Jason pulls over, gets out and is told to lift his shirt up and
+  walk backwards to the cops and is cuffed. There is a women passenger, Gabby,
+  a dog in the back, the ignition is punched and the stereo is missing. Gabby
+  says Jason bought the car today and didn't know it was stolen. Officer Andy
+  Guerrero is backup. She says he works from time to time, but doesn't have
+  much money, doesn't know where he'd get any money and sometimes people give
+  him money for helping them, but doesn't know who. He's in the back crying,
+  says he doesn't want the girl to get in trouble since they're only together
+  for 2 weeks. He traded a gram of meth to borrow the vehicle.  Later she
+  admits she knew it was stolen because he wouldn't tell her where he got it
+  and needed a screwdriver to start it. He says he has a foster kid in
+  California. They let the girl go with her dog.
+- Hamilton County, OH (8:55 PM Traffic Stop) Sheriff's Office District 1 -- Cpl
+  Pete Enderle says his kids always ask if he caught any bad guys today.
+  Sometimes he says yes, sometimes nothing happens. He goes to stop a car with
+  no headlight and on Glenaire at the 3000 block he pulls over. Has a temporary
+  tag, no tail lights and no license.  He reaches in his pocket for money and
+  gets in trouble for that. He says he has no weed on him and it's the first
+  time he drove the car. Then he admits there is weed in the front bucket. They
+  find the pot where Jeff said it would be.  He's 18 and has a warrant. They
+  find coke in the trunk in a jewelry box. He is arrested, says it's not coke,
+  it's powdered sugar and came with the car. Then why it is wrapped up in a
+  little baggie? He won't explain why it's there. He got $800 worth of tickets
+  last week, has a kid, his head's up his ass, needs a way to pay the bills.
+  He's arrested for pot, warrant and fake coke.
 
 ### S17E24
 
