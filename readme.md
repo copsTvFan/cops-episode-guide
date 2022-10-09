@@ -5245,10 +5245,13 @@ convicted felon's capture; intruder shot.
 
 Aired 1991-09-13.
 
-**Kansas City 5** (MO - 9:13 PM Disturbance Call) South Patrol - Officer Mike
-Cook says neighbors want to help each other especially during robberies. They
-are there for victims and families and Midwest people are like that. husband
-wields knife; woman accidentally shoots brother.
+**Kansas City 5**
+
+- (MO - 9:13 PM Domestic Disturbance) South Patrol -- Officer Mike Cook says
+  neighbors want to help each other especially during robberies. They are there
+  for victims and families and Midwest people are like that.
+- husband wields knife
+- woman accidentally shoots brother
 
 ### S04E06
 
