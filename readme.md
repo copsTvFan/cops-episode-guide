@@ -7493,7 +7493,18 @@ Aired 1997-03-29.
 
 Aired 1997-04-12.
 
-**Fresno, CA 2** (8:21 PM Assistance Call) Area 3 - Deputy Keith Gray says the Carruters Fair is the one place you can drop your kids at the gate, tell them you'll be back at eight and expect them to be there. He is then off to an assist call in the arrest of a young motorist in possession of a firearm and drugs, and in the second story, Gray makes a drug bust after noticing a marijuana cigarette tucked behind a suspect's ear. Deputy Kenneth Gray encounters a domestic violence suspect who giggles like a child as he is being frisked for weapons. Deputy Rien stops a driver operating a vehicle at night with its lights turned off, then discovers a syringe near the driver's seat.
+**Fresno, CA 2**
+
+- (8:21 PM Disturbance Call) (maybe originally "8:21 PM Assistance Call"?) Area
+  3 -- Deputy Keith Gray says the Carruters Fair is the one place you can drop
+  your kids at the gate, tell them you'll be back at eight and expect them to
+  be there. He is then off to an assist call in the arrest of a young motorist
+  in possession of a firearm and drugs, and in the second story, Gray makes a
+  drug bust after noticing a marijuana cigarette tucked behind a suspect's ear.
+- Deputy Kenneth Gray encounters a domestic violence suspect who giggles like a
+  child as he is being frisked for weapons.
+- Deputy Rien stops a driver operating a vehicle at night with its lights
+  turned off, then discovers a syringe near the driver's seat.
 
 ### S09E29
 
