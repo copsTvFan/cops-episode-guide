@@ -5234,12 +5234,14 @@ suspect; domestic disturbance turns into food fight.
 
 Aired 1991-12-07.
 
-**Kansas City 4** (KS - 10:52 PM Street Patrol) Officer Bob Lane pulls up on
-five guys trying to start a truck with a stuck valve on the main street that
-are making a huge smoke cloud. Off. Gale Hall tries to keep a man from
-attacking his sister's boyfriend; Off. Mike Cook answers a disturbance call;
-Off. Bob Lane probes the shooting of an intruder. Domestic call results in
-convicted felon's capture; intruder shot.
+**Kansas City 4**
+
+- (KS -- 10:52 PM Street Patrol) Officer Bob Lane pulls up on five guys trying
+  to start a truck with a stuck valve on the main street that are making a huge
+  smoke cloud. Off. Bob Lane probes the shooting of an intruder.
+- Off. Mike Cook answers a disturbance call, which results in convicted felon's
+  capture.
+- Off. Gale Hall tries to keep a man from attacking his sister's boyfriend.
 
 ### S04E05
 
@@ -5336,8 +5338,11 @@ Suspect with "cop-killing'' bullets in gun; officers help confused senior.
 
 Aired 1992-02-07.
 
-**U.S. Marshals Service Special** (Washington D.C.) Mobile Command Center - Red
-October. Sunrise is located in 5 cities - DC, Baltimore, Miami.
+**U.S. Marshals Service Special**
+
+- (Washington D.C.) Command Center U.S. Marshals Service -- Red October.
+  Sunrise is located in 5 cities -- Miami, Atlanta, Baltimore-Washington, New
+  York, and Boston.
 
 ### S04E15
 
@@ -6114,7 +6119,11 @@ Aired 1993-01-23.
 
 Aired 1993-01-30.
 
-**Denver, CO 7** (8:09 PM Accident Call) Aurora. Hit and run pickup truck hits a souped up motorcycle and injures a man and a woman, traffic stop looking for drive by shooters yields drugs and a gun/Medical emergency call to the basement of a house with an Asian woman who took 4 sleeping pills/Family disturbance call to a drunk black woman who locked herself and a friend in her apartment - hello there.
+**Denver, CO 7**
+
+- (8:09 PM Accident Call) Aurora. Hit and run pickup truck hits a souped up motorcycle and injures a man and a woman; traffic stop looking for drive by shooters yields drugs and a gun
+- Medical emergency call to the basement of a house with an Asian woman who took 4 sleeping pills
+- Family disturbance call to a drunk black woman who locked herself and a friend in her apartment - hello there.
 
 ### S05E15
 
@@ -6969,29 +6978,126 @@ Aired 1994-11-12.
 
 Aired 1995-06-??.
 
-**Best of Cops 3** (Pomona, CA - 12:03 AM Car Chase) Officer Dale La Fluer joins a hit and run pursuit and calls it. The Asian driver won't stop even though his tires are blown and his engine is smoking, his hubcaps come off, sparks are flying and he's down to 5mph on his rims. He wanders into the opposite lane and crashes into a car, backs into a police car and a tire falls off. He winds up in the dirt with a chopper above and a dog in front of him as a dozen officers take him down. He went 125 mph on the freeway through 5 counties. The passenger was innocent until they found out he had a warrant. Officer Mark Shannon assists at the crash. Sacramento, CA (7:15 PM Street Patrol) Deputy Mark Kessell is called to a fight. Jessie, a black man, is in a silver Buick assaulted Melissa who was walking down the street. Deputy Dave Powell questions them. He tried to get her in his car and took off. They got his license plate number and saw he went down 6th st. They see the car in a nearby apartment complex and find he is in Apt 10 and on parole. They cuff him and go get the girl to ID him at a gas station. She is upset, but says he is the guy because of the white shirt and blue pants. Phoenix, AZ (Roll Call - Halloween) Kids come in the station as Batman and Robin. (11:45 PM Street Patrol) Officer Mike McElroy goes to a call of a man says that he saw a ghost. He found a tombstone in his yard and says it belongs to the dead original owner of the house. He says the ghost molested his daughter and the state took her away thinking he did it. He also says the ghost also grabbed his wife's hand and he has a .44 and will shoot him. Officer Joe Munoz helps translate. The cops recommend an exorcism and leave.
+**Best of Cops 3**
+
+- (Pomona, CA -- 12:03 AM Car Chase) Officer Dale La Fluer joins a hit and run
+  pursuit and calls it. The Asian driver won't stop even though his tires are
+  blown and his engine is smoking, his hubcaps come off, sparks are flying and
+  he's down to 5mph on his rims. He wanders into the opposite lane and crashes
+  into a car, backs into a police car and a tire falls off. He winds up in the
+  dirt with a chopper above and a dog in front of him as a dozen officers take
+  him down. He went 125 mph on the freeway through 5 counties. The passenger
+  was innocent until they found out he had a warrant. Officer Mark Shannon
+  assists at the crash.
+- Sacramento, CA (7:15 PM Street Patrol) Deputy Mark Kessell is called to a
+  fight. Jessie, a black man, is in a silver Buick assaulted Melissa who was
+  walking down the street. Deputy Dave Powell questions them. He tried to get
+  her in his car and took off. They got his license plate number and saw he
+  went down 6th st. They see the car in a nearby apartment complex and find he
+  is in Apt 10 and on parole. They cuff him and go get the girl to ID him at a
+  gas station. She is upset, but says he is the guy because of the white shirt
+  and blue pants.
+- Phoenix, AZ (Roll Call -- Halloween) Kids come in the station as Batman and
+  Robin. (11:45 PM Street Patrol) Officer Mike McElroy goes to a call of a man
+  says that he saw a ghost. He found a tombstone in his yard and says it
+  belongs to the dead original owner of the house. He says the ghost molested
+  his daughter and the state took her away thinking he did it. He also says the
+  ghost also grabbed his wife's hand and he has a .44 and will shoot him.
+  Officer Joe Munoz helps translate. The cops recommend an exorcism and leave.
 
 ###S901
 
 Aired 1995-06-??.
 
-**Best of Cops 4** (Pomona, CA - 9:15 PM Shooting Call) Sgt. Joe Waltman races to the scene of a black woman with one kidney gets shot in a drive by and cops go to the apartment and lead the six kids out that are inside. Suspects confronted the people, left and returned and shot the three adults. Ronald is still in bed. The mother is hit in the leg. They all ran inside and the blood is everywhere in pools. New York City, NY (9:02 PM Rescue Call) A call for a man in the water. There is a chopper to light him up. Cops go in the river and pull him out. He swam out 175 feet and said he was looking for oil and didn't want to come out. (10:33 PM Assistance Call) Jimmy is impaled by a wrench that fell four stories from a crane and into his back. They cut it off and move him out in case the crane falls since it is now loose. Jimmy tells cops not to tow his car away. Fort Worth, TX (9:45 PM Domestic Disturbance) Officer C.C. Ryder responds to a man wearing only shorts on a pay phone. He runs away from the camera and has broken glass on him. His wife is across the street at home. She goes to the wife who is crying with two small kids. There is broken plates and glass all over. He was drunk and out all day and hit her. She doesn't work because she just had a third kid and says she isn't scared of him and is fixin to leave anyway.
+**Best of Cops 4**
+
+- (Pomona, CA -- 9:15 PM Shooting Call) Sgt. Joe Waltman races to the scene of
+  a black woman with one kidney gets shot in a drive by and cops go to the
+  apartment and lead the six kids out that are inside. Suspects confronted the
+  people, left and returned and shot the three adults. Ronald is still in bed.
+  The mother is hit in the leg. They all ran inside and the blood is everywhere
+  in pools.
+- New York City, NY (9:02 PM Rescue Call) A call for a man in the water. There
+  is a chopper to light him up. Cops go in the river and pull him out. He swam
+  out 175 feet and said he was looking for oil and didn't want to come out.
+  (10:33 PM Assistance Call) Jimmy is impaled by a wrench that fell four
+  stories from a crane and into his back. They cut it off and move him out in
+  case the crane falls since it is now loose. Jimmy tells cops not to tow his
+  car away.
+- Fort Worth, TX (9:45 PM Domestic Disturbance) Officer C.C. Ryder responds to
+  a man wearing only shorts on a pay phone. He runs away from the camera and
+  has broken glass on him. His wife is across the street at home. She goes to
+  the wife who is crying with two small kids. There is broken plates and glass
+  all over. He was drunk and out all day and hit her. She doesn't work because
+  she just had a third kid and says she isn't scared of him and is fixin to
+  leave anyway.
 
 ###S902
 
 Aired 1995-06-??.
 
-**Best of Cops 5** (Kansas City - 7:57 PM Shots Fired) East Patrol Division - Officer Kevin Temple emphasizes the importance of staying in shape. You need to be able to keep up with criminals and help other cops when they need assistance. He's into lifting weights. Cops go to a house with two kids in the yard and a big black lady who tells them no shots were fired. They ask who the man was who ran inside and she says no one did. It turns out the guy is hiding in the closet and has shoved 10 bags of coke under the mattress leaving an obvious lump. They find it and take him to jail. (Dallas TX - 5:47 PM Street Patrol) Cops drive by a drug deal and jump out and grab the three black guys. An old man came to buy from two younger guys and they dump the crack in his window. The old guy confesses to everything. (10:14 PM Street Patrol) Cops see two black drug dealers and find pot and a gun they tossed. (Fort Worth, TX - 3:30 PM Street Patrol) Cops went on a call to the Simpsons, an elderly couple, years ago. The officer goes back to visit them because he had been out of work for the last six months. (5:22 PM Assistance Call) A suspicious stolen truck is stopped and a Caribbean man is pulled out. There is a chicken in the truck which jumps out and escapes. The cops try to catch it, but can't. They also find a large turtle in his backseat.
+**Best of Cops 5**
+
+- (Kansas City -- 7:57 PM Shots Fired) East Patrol Division -- Officer Kevin
+  Temple emphasizes the importance of staying in shape. You need to be able to
+  keep up with criminals and help other cops when they need assistance. He's
+  into lifting weights. Cops go to a house with two kids in the yard and a big
+  black lady who tells them no shots were fired. They ask who the man was who
+  ran inside and she says no one did. It turns out the guy is hiding in the
+  closet and has shoved 10 bags of coke under the mattress leaving an obvious
+  lump. They find it and take him to jail.
+- (Dallas TX -- 5:47 PM Street Patrol) Cops drive by a drug deal and jump out
+  and grab the three black guys. An old man came to buy from two younger guys
+  and they dump the crack in his window. The old guy confesses to everything.
+  (10:14 PM Street Patrol) Cops see two black drug dealers and find pot and a
+  gun they tossed.
+- (Fort Worth, TX -- 3:30 PM Street Patrol) Cops went on a call to the
+  Simpsons, an elderly couple, years ago. The officer goes back to visit them
+  because he had been out of work for the last six months. (5:22 PM Assistance
+  Call) A suspicious stolen truck is stopped and a Caribbean man is pulled out.
+  There is a chicken in the truck which jumps out and escapes. The cops try to
+  catch it, but can't. They also find a large turtle in his backseat.
 
 ###S903
 
 Aired 1995-06-??.
 
-**Best of Cops 6** (Kansas City - 2:19 AM Street Patrol) East Patrol Division - Officer Kevin Kilkenny says he had a neighbor who was a cop he respected and looked up to and thought he could do it and be a help. He's on a 10 member team, lots of camaraderie, a real team feeling. Cops are notified of a stabbing. A man was stabbed by his wife because he wanted her to stop drinking and he bled all over the apartment. Blood is on the walls, the hallway and down the stairs. The knife is in the sink and their six month old child is sleeping nearby. She is arrested. (Denver, CO - 8:15 PM Domestic Dispute) Cops look for a woman at a house and can't find her. They come back and she was in the closet the whole time. She has a black eye, was beaten, dragged, is bloody and is bruised all over. The man who did it was arrested earlier on a warrant. She is taken by ambulance to the hospital. (Philadelphia, PA - 5:09 PM Street Patrol) A domestic call to a Vietnamese apartment starts off bad when they won't open the door. The cop kicks it in and the man inside is insane and his screaming "I'll fight you" while shaking and crying. The cops make him leave and the woman says she fell and made the marks on her neck because she is sick. It is a traditional Vietnamese healing technique. The man is arrested.
+**Best of Cops 6**
+
+- (Kansas City -- 2:19 AM Street Patrol) East Patrol Division -- Officer Kevin
+  Kilkenny says he had a neighbor who was a cop he respected and looked up to
+  and thought he could do it and be a help. He's on a 10 member team, lots of
+  camaraderie, a real team feeling. Cops are notified of a stabbing. A man was
+  stabbed by his wife because he wanted her to stop drinking and he bled all
+  over the apartment. Blood is on the walls, the hallway and down the stairs.
+  The knife is in the sink and their six month old child is sleeping nearby.
+  She is arrested.
+- (Denver, CO -- 8:15 PM Domestic Dispute) Cops look for a woman at a house and
+  can't find her. They come back and she was in the closet the whole time. She
+  has a black eye, was beaten, dragged, is bloody and is bruised all over. The
+  man who did it was arrested earlier on a warrant. She is taken by ambulance
+  to the hospital.
+- (Philadelphia, PA -- 5:09 PM Street Patrol) A domestic call to a Vietnamese
+  apartment starts off bad when they won't open the door. The cop kicks it in
+  and the man inside is insane and his screaming "I'll fight you" while shaking
+  and crying. The cops make him leave and the woman says she fell and made the
+  marks on her neck because she is sick. It is a traditional Vietnamese healing
+  technique. The man is arrested.
 
 ###S904
 
-**Best of Cops 7** (Jersey City, NJ - 8:59 PM Shooting Call) West District - Officer Russ McDonald says it is the 1st or 2nd busiest district in the state - lots of shootings, robberies and guns. Most houses have 1 or 2 bullet holes in them His partner is Officer Mark Razzoli and they go to a shooting call looking for 3 men on bikes wearing hoods who shot a girl on Clinton Ave and one is caught with drugs/Dallas, TX - Car chase on the freeway with a drunk in a red pickup who goes home/Fort Worth, TX - Assistance call at a Fina gas station with an insane man who thinks he's Elvis' son in law.
+**Best of Cops 7**
+
+- (Jersey City, NJ -- 8:59 PM Shooting Call) West District -- Officer Russ
+  McDonald says it is the 1st or 2nd busiest district in the state -- lots of
+  shootings, robberies and guns. Most houses have 1 or 2 bullet holes in them
+  His partner is Officer Mark Razzoli and they go to a shooting call looking
+  for 3 men on bikes wearing hoods who shot a girl on Clinton Ave and one is
+  caught with drugs
+- Dallas, TX -- Car chase on the freeway with a drunk in a red pickup who goes
+  home
+- Fort Worth, TX -- Assistance call at a Fina gas station with an insane man
+  who thinks he's Elvis' son in law.
 
 ## Season 8
 
@@ -9690,7 +9796,7 @@ Aired 2004-02-14.
 - Kansas City, KS (5:12 PM Domestic Disturbance Call) A man wants to get his clothes and leave, but his wife won't let him.
 - Mesa, AZ (11:13 PM Domestic Disturbance Call) A man visits his kids and beats his ex and there is blood all over the walls and the woman says she is to blame.
 - Los Angeles, CA (4:33 PM Assault Call) A man and woman fight in the street and both get bloody and Tami turns blue.
-- Providence RI (10:03 Possible Stabbing Call) A man's wife is having sex with his mom and the mom stabs her son for trying to break it up.
+- Providence RI (10:03 PM Possible Stabbing Call) A man's wife is having sex with his mom and the mom stabs her son for trying to break it up.
 
 ### S16E40 / S16E41
 
@@ -10123,39 +10229,43 @@ probation and claims he's trying to get her off heroin.
 
 Aired 2005-01-22.
 
-**Got a Habit Special Edition** (Forth Worth, TX - 11:46 PM Car Pursuit) East
-Division Crime Response Team – Officer Jamey Pinkston has a lot of problems
-with DWIs, lots of bar, freeways and too many people drinking too much. He
-joins a pursuit where spike strips are thrown down the bad guy hits them. He is
-caught in a Diamond Shamrock gas station. He's an old white guy who looks like
-Saddam Hussein. They break out his window and find a roach on him and Officer
-Matt Moore says he didn't signal and the guy curses him out that it is a lie.
-He refuses to get in the back of the police car and has to be pushed in. He's
-angry, but laughs, He was doing 45 in a 30 zone and lives on Rose St. He must
-be drunk because he tried to kick Officer Brett Mills three times so they
-shackle him. He fights and they hold his mouth shut. Norwood, OH – (5:47 PM
-Officer Assistance Call) Officer Jeff Kilby goes to the suspicious vehicle.
-They pulled over a green car with KY plates. The driver is shirtless and he and
-his passenger are pulled out and cuffed. They are put in Officer Erik Nelson's
-car. He says the passenger has a warrant. He was smoking weed out of a Mountain
-Dew can. They also have bags of tobacco they were going to shove up their
-rectums to smuggle into jail. He admits hearing about it, but didn't know if it
-would work. (7:17 PM Assistance Call) they go to a bank where a man is trying
-to pass a bad check and fights. Four cops jump him. He's a black guy in a dirty
-white shirt with bags of crack on him and a crack pipe smashed in his pocket.
-He has 3 ID's on him. Officer Stacy Phillips was there first. Officer Chad
-Whitford questions him. He says he ran because he was scared. Santa Ana, CA –
-Officer Rosa Ponce De Leon enjoys being a cop there and it's larger than where
-he used to work. There are lots of residences and things to do. (8:15 PM Street
-Patrol) He inspects an alley that has lots of graffiti and gang members. He
-stops a car who has no license and the car is his friends. Mario gets out, is
-checked for weapons, has a cell phone and a pager, but no job. He uses heroin,
-there's money all over the seat. He was meeting Ralph who lives around there
-somewhere. He finds 17 bundles of heroin, his pager keeps going off so they use
-his phone to call them back. Rosa pretends she is Mario's girlfriend and talks
-to Robert who's looking for a dope pickup. He keeps denying doing anything. He
-says he's selling to support his habit, he stole the drugs, didn't buy them and
-he's a hardcore thug.
+**Got a Habit Special Edition**
+
+- (Forth Worth, TX - 11:46 PM Car Pursuit) East Division Crime Response Team -–
+  Officer Jamey Pinkston has a lot of problems with DWIs, lots of bar, freeways
+  and too many people drinking too much. He joins a pursuit where spike strips
+  are thrown down the bad guy hits them. He is caught in a Diamond Shamrock gas
+  station. He's an old white guy who looks like Saddam Hussein. They break out
+  his window and find a roach on him and Officer Matt Moore says he didn't
+  signal and the guy curses him out that it is a lie.  He refuses to get in the
+  back of the police car and has to be pushed in. He's angry, but laughs, He
+  was doing 45 in a 30 zone and lives on Rose St. He must be drunk because he
+  tried to kick Officer Brett Mills three times so they shackle him. He fights
+  and they hold his mouth shut.
+- Norwood, OH – (5:47 PM Officer Assistance Call) Officer Jeff Kilby goes to
+  the suspicious vehicle.  They pulled over a green car with KY plates. The
+  driver is shirtless and he and his passenger are pulled out and cuffed. They
+  are put in Officer Erik Nelson's car. He says the passenger has a warrant. He
+  was smoking weed out of a Mountain Dew can. They also have bags of tobacco
+  they were going to shove up their rectums to smuggle into jail. He admits
+  hearing about it, but didn't know if it would work. (7:17 PM Assistance Call)
+  they go to a bank where a man is trying to pass a bad check and fights. Four
+  cops jump him. He's a black guy in a dirty white shirt with bags of crack on
+  him and a crack pipe smashed in his pocket.  He has 3 ID's on him. Officer
+  Stacy Phillips was there first. Officer Chad Whitford questions him. He says
+  he ran because he was scared.
+- Santa Ana, CA -– Officer Rosa Ponce De Leon enjoys being a cop there and it's
+  larger than where he used to work. There are lots of residences and things to
+  do. (8:15 PM Street Patrol) He inspects an alley that has lots of graffiti
+  and gang members. He stops a car who has no license and the car is his
+  friends. Mario gets out, is checked for weapons, has a cell phone and a
+  pager, but no job. He uses heroin, there's money all over the seat. He was
+  meeting Ralph who lives around there somewhere. He finds 17 bundles of
+  heroin, his pager keeps going off so they use his phone to call them back.
+  Rosa pretends she is Mario's girlfriend and talks to Robert who's looking for
+  a dope pickup. He keeps denying doing anything. He says he's selling to
+  support his habit, he stole the drugs, didn't buy them and he's a hardcore
+  thug.
 
 ### S17E14
 
