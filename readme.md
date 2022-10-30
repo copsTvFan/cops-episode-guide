@@ -448,7 +448,7 @@ are also welcome (`copsTvFan` *at* `protonmail.com`).
   weaving, going over a curb.
 - (8:45 PM DUI Stop) He is given a field sobriety test. He makes Mr. Crawley do
   9 steps forward heel to toe. He counts them out in a British accent, but does
-  10 steps. He screws up the alphabet test by going “abcdfghijlmopqrstovu…
+  10 steps. He screws up the alphabet test by going “abcdfghijlmopqrstovu...
   probably xyz.” Good enough. When asked to touch his finger to the tip of his
   nose he gets pissed off, says it's crap, he won't do it and fails that test
   too.
@@ -1411,7 +1411,7 @@ Aired 1989-10-21.
   he was behind the brown Toyota that got hit. It stopped at the stop sign and
   the second guy broadsided them doing 50mph. The husband shows up and says it
   was his wife, sister in law and two kids. He asks if his wife made it and
-  Loren doesn't want to tell him. He says he doesn't know…did he see the cars?
+  Loren doesn't want to tell him. He says he doesn't know... did he see the cars?
   The 6 year old and 12 year old are OK, they need you more. The 12 year old
   was taken first, before they got there, they called, she is OK. They were out
   garage sale shopping and found clothes in the car. Loren asks him if he has
@@ -1668,7 +1668,7 @@ on purpose. He says please don't let the dog get me. It keeps barking, but
 doesn't make a sound. He tells him it has laryngitis. Ray left the car because
 he got scared. EMS arrives to look at him and he says his ribs hurt, not sure
 what you call it, he jumped out of the car while it was still moving and the
-door it him, he hasn't drank…but took meth, injected it, less than 1/4 of a
+door it him, he hasn't drank... but took meth, injected it, less than 1/4 of a
 gram. He starts hyperventilating and they pull him out and take the cuffs off.
 Lon says not to do anything stupid if he thinks he's in pain now. They load him
 into an ambulance and he says help me. (8:45 PM Man with a Gun Call) Lon asks 2
@@ -2454,7 +2454,7 @@ of Deputy Paul Terrusa with a guy dressed as a zombie in the street. They both
 get pictures with a man as a silver robot. A man as a French maid cleans them.
 They get shows by scantily clad women to the delight of the crowd (911 Suicide
 Attempt) A guy tried to kill himself. They arrive and a woman says he just went
-down…the elevator. She has blood on her arm from him. They go downstairs and
+down... the elevator. She has blood on her arm from him. They go downstairs and
 she runs out the door barefoot. They come around the corner to a shirtless,
 white long-haired guy who cut his wrist. He has no knife and says he's unhappy.
 Sean asks about anything particular. They call the Fire Dept saying he's on
@@ -3437,7 +3437,7 @@ how are they going to get along, it's between them and the landlord. A black
 guy with no shirt appears and says they threw beer at them. She says they
 threatened to blow up her house. Steve says for them all to go to bed and
 ignore each other. She says she pays $48 a month and it's a nice place. The
-white guy is drunk and told the black guy, "…for the niggers to get out of
+white guy is drunk and told the black guy, "... for the niggers to get out of
 here." They go back around and tell them to cut the crap and stop yelling. The
 white guy says he told him he would get his gun and blow his brains out, is
 that right? Cheri says other neighbors are complaining too. She can't stay
@@ -4536,76 +4536,78 @@ the next time she sees him he'll be happy like he used to be.
 
 Aired 1991-03-09.
 
-**Pittsburgh, PA 2** (2:04 AM Domestic Dispute Call) Officer Pat Logan says on
-the job they've broken his arm, fractured his skull, stabbed him four times,
-run him over with a stolen car, smashed into him with a stolen car and put him
-out of commission a couple of time. He's been in four gun battles and one where
-he saved an officer's life. He still has nightmares about gun battles and
-getting shot at, every once in a while wakes up in a cold sweat. You either
-live with it or like he does and talks to his buddy who is a psychologist. He
-says it's not his fault the way the world is. It's good. Or guys who don't
-believe that wind up chewing on a gun barrel leaving a family behind who
-doesn't understand. He doesn't take his problems home. He pulls up to the house
-and says to put the dog in the basement, that's a grand idea. A black couple is
-arguing. He says he's got the receipts, pays the rent and phone, she just pays
-the gas. They went to a bar, were drinking and she has no food. Linda Jackson's
-tired of him beating her ass and she pays everything. He's got all the
-receipts, ask the landlord next door. She says she called the police last week
-and they didn't do anything and he bought the receipt book from a dollar store.
-She cries and says it's her house, she bought it. Pat says to stop shouting.
-The landlady says they both rent there. If she wants to leave she'll have to
-talk to someone because they are leaving. He says she can take the stereo and
-TV and she had nothing when they moved in. She doesn't stop talking for a
-second and says everything is hers, the landlady is lying, she sends him to pay
-the rent and won't do anything unless she is bleeding. They tell her to go to
-her mother's or go to jail since she is drunk. Tomorrow she can go to a
-magistrate and get a warrant. She doesn't want him to take anything while she's
-gone. Put your socks on, go to Hermitage street and go so they can conclude
-this. She says she's not drunk, knows the steps and won't fall. Outside Pat
-says he's getting too old for this screaming Mimi stuff, another fun night.
-(Thursday 7:50 PM) Detective Jack Bauer says there is a trail of blood leading
-from the doorway south along the building, no witness. There is a dead black
-man on the ground stabbed in the chest. A couple of suspects come in and they
-are taking blood samples to make sure it's all the victims. They take pictures
-of him and his girlfriend says they lived together 3-4 years and have a 2 year
-old. He lives with his mom since they were having problems. He owed her money
-and was with Darlene getting money to give her and that was the last she heard.
-Detective Clifton L. Pugh is on the Homicide Bureau and reads the story. Lee
-had gotten beaten up, called Snuggles and left him his beeper number. Commander
-of Investigations Ronald B. Freeman says Lee is the victim. They took $500
-worth of drugs and Cornelius said he was going to cap him for ripping people
-off. A woman told them not to kill him, that's jive. They said they were going
-to take him out. (Monday 1:15 AM) Communications Center takes the (Vehicle
-Pursuit Call) A car crashes and there is a bloody woman inside, one of them has
-a warrant for homicide. Lt. Richard M. Dwyer says the man driving is their
-suspect. He drove through a red light in Oakland, ran on foot and was caught.
-He was brought in and gave a statement. In jail he said the cops pulled him
-over for running a stop sign. He admits he stabbed Lee, but says Lee attacked
-him, got in his face and he stabbed him. He didn't mean to kill him, he's not
-no murderer. (8:19 PM 911 Call) Officer Thomas Harris has been there 14 years,
-but his ideals changed. At first it was a career opportunity, steady job, you
-go through phases, everyone goes to jail, you are going to change the world.
-Now he chooses prevention. If you can wake someone up before they get in the
-system, then you've done more than the system can do. It starts raining hard as
-a man is interfering with a baby. They are outside and the mother gave the baby
-to the dad who is a drunk with a flat top. He says he drinks, but is not a
-drunk. She is drunk and mouthing off that she works hard. Thomas is mad, he
-says the kid should be inside and should be taken to child protective services.
-The witness says that's why he called. Thomas says forget this and they chase
-after them to take the kid. The mother flips out, fights, get hysterical and
-the dad asks can't he take her home? They take the kid to the station and will
-lock the parents up. Officer Kim Braddock holds the baby. Thomas tells the dad
-to permit it is the same as doing it. The witness says he tried to get the
-carriage up over the curb and it fell twice and the kid fell out both times.
-The original witness is also there and saw them drunk and fighting. They were
-in a bar drinking with the kid and passed the kid off to some derelict so they
-could fight. Child Youth Services is advised so a relative can be called.
-Thomas talks to the mom and says she needs to put the baby's well being ahead
-of her fun. She says her baby is with her, she takes the baby with her when she
-goes drinking since she can't get a babysitter. She says if she wants to go out
-with her man, that's fine. Thomas says she isn't getting it. She says if the
-kid fell why come she not bruised. Tom says she fell out twice, god was
-watching them.
+- **Pittsburgh, PA 2** (2:04 AM Domestic Dispute Call) Officer Pat Logan says
+  on the job they've broken his arm, fractured his skull, stabbed him four
+  times, run him over with a stolen car, smashed into him with a stolen car and
+  put him out of commission a couple of time. He's been in four gun battles and
+  one where he saved an officer's life. He still has nightmares about gun
+  battles and getting shot at, every once in a while wakes up in a cold sweat.
+  You either live with it or like he does and talks to his buddy who is a
+  psychologist. He says it's not his fault the way the world is. It's good. Or
+  guys who don't believe that wind up chewing on a gun barrel leaving a family
+  behind who doesn't understand. He doesn't take his problems home. He pulls up
+  to the house and says to put the dog in the basement, that's a grand idea. A
+  black couple is arguing. He says he's got the receipts, pays the rent and
+  phone, she just pays the gas. They went to a bar, were drinking and she has
+  no food. Linda Jackson's tired of him beating her ass and she pays
+  everything. He's got all the receipts, ask the landlord next door. She says
+  she called the police last week and they didn't do anything and he bought the
+  receipt book from a dollar store.  She cries and says it's her house, she
+  bought it. Pat says to stop shouting.  The landlady says they both rent
+  there. If she wants to leave she'll have to talk to someone because they are
+  leaving. He says she can take the stereo and TV and she had nothing when they
+  moved in. She doesn't stop talking for a second and says everything is hers,
+  the landlady is lying, she sends him to pay the rent and won't do anything
+  unless she is bleeding. They tell her to go to her mother's or go to jail
+  since she is drunk. Tomorrow she can go to a magistrate and get a warrant.
+  She doesn't want him to take anything while she's gone. Put your socks on, go
+  to Hermitage street and go so they can conclude this. She says she's not
+  drunk, knows the steps and won't fall. Outside Pat says he's getting too old
+  for this screaming Mimi stuff, another fun night.
+- (Thursday 7:50 PM) Detective Jack Bauer says there is a trail of blood
+  leading from the doorway south along the building, no witness. There is a
+  dead black man on the ground stabbed in the chest. A couple of suspects come
+  in and they are taking blood samples to make sure it's all the victims. They
+  take pictures of him and his girlfriend says they lived together 3-4 years
+  and have a 2 year old. He lives with his mom since they were having problems.
+  He owed her money and was with Darlene getting money to give her and that was
+  the last she heard.  Detective Clifton L. Pugh is on the Homicide Bureau and
+  reads the story. Lee had gotten beaten up, called Snuggles and left him his
+  beeper number. Commander of Investigations Ronald B. Freeman says Lee is the
+  victim. They took $500 worth of drugs and Cornelius said he was going to cap
+  him for ripping people off. A woman told them not to kill him, that's jive.
+  They said they were going to take him out. (Monday 1:15 AM) Communications
+  Center takes the (Vehicle Pursuit Call) A car crashes and there is a bloody
+  woman inside, one of them has a warrant for homicide. Lt. Richard M. Dwyer
+  says the man driving is their suspect. He drove through a red light in
+  Oakland, ran on foot and was caught.  He was brought in and gave a statement.
+  In jail he said the cops pulled him over for running a stop sign. He admits
+  he stabbed Lee, but says Lee attacked him, got in his face and he stabbed
+  him. He didn't mean to kill him, he's not no murderer.
+- (8:19 PM 911 Call) Officer Thomas Harris has been there 14 years, but his
+  ideals changed. At first it was a career opportunity, steady job, you go
+  through phases, everyone goes to jail, you are going to change the world.
+  Now he chooses prevention. If you can wake someone up before they get in the
+  system, then you've done more than the system can do. It starts raining hard
+  as a man is interfering with a baby. They are outside and the mother gave the
+  baby to the dad who is a drunk with a flat top. He says he drinks, but is not
+  a drunk. She is drunk and mouthing off that she works hard. Thomas is mad, he
+  says the kid should be inside and should be taken to child protective
+  services.  The witness says that's why he called. Thomas says forget this and
+  they chase after them to take the kid. The mother flips out, fights, get
+  hysterical and the dad asks can't he take her home? They take the kid to the
+  station and will lock the parents up. Officer Kim Braddock holds the baby.
+  Thomas tells the dad to permit it is the same as doing it. The witness says
+  he tried to get the carriage up over the curb and it fell twice and the kid
+  fell out both times.  The original witness is also there and saw them drunk
+  and fighting. They were in a bar drinking with the kid and passed the kid off
+  to some derelict so they could fight. Child Youth Services is advised so a
+  relative can be called.  Thomas talks to the mom and says she needs to put
+  the baby's well being ahead of her fun. She says her baby is with her, she
+  takes the baby with her when she goes drinking since she can't get a
+  babysitter. She says if she wants to go out with her man, that's fine. Thomas
+  says she isn't getting it. She says if the kid fell why come she not bruised.
+  Tom says she fell out twice, god was watching them.
 
 ### S03E25
 
@@ -4939,11 +4941,19 @@ drunk and having sex.
 
 Aired 1991-05-04.
 
-**Riverside County CA 2** (3:32 PM Surveillance Operation) Sheriff's Dept -
-Detective Steve Brown is outside a helicopter and says they are flying two
-photo missions. One is in Quail Valley for heroin. Detective Rick Hall says
-they need pictures for the warrants by Thursday - a complete photo lineup. A
-man captures prowler; DUI suspect; cache of weapons recovered from drug lab.
+**Riverside County CA 2**
+
+- (3:32 PM Surveillance Operation) Sheriff's Dept -- Detective Steve Brown is
+  outside a helicopter and says they are flying two photo missions. One is in
+  Quail Valley for heroin. Detective Rick Hall says they need pictures for the
+  warrants by Thursday -- a complete photo lineup. Cache of weapons recovered
+  from drug lab.
+- (Riverside County Shariff's Department) / (Dispatch Center) / (10:42 PM 911
+  Call) Deputy Jim Durham and Deputy Scott Johnson. A man was hit with a bat.
+- (Riverside County Shariff's Department) / (City of Moreno Valley, CA) Deputy
+  Andre Benson, Deputy Duke Viveros. A crab on the sidewalk.
+- (10:58 PM Officer Assitance Call) Deputy Keith McKay, Officer Rick Hougland.
+  DUI suspect.
 
 ### S03E31
 
@@ -5332,7 +5342,7 @@ Aired 1992-01-04.
 **Pittsburgh, PA 7** (12:06 AM Shooting Call) Officer Pat Logan and Officer
 Jimmy McGee head to a call of two people shot In the legs. In the last 5 days 9
 people have been shot of drugs. Rival drugs dealers on the edge of town.
-Suspect with "cop-killing'' bullets in gun; officers help confused senior.
+Suspect with "cop-killing" bullets in gun; officers help confused senior.
 
 ### S04E14
 
@@ -5918,7 +5928,7 @@ felony, but if he tells them where Shorty has the drugs they'll cut him loose.
 He says the kid has 6 rocks in a Nuprin bottle. They find the bottle on Shorty
 and he says he swears it's the drivers. Tincu says Russ has a drug problem and
 needs to get some help. Shorty is arrested, but why should he get a job when he
-make $100s dealing…it's amazing to see.
+make $100s dealing... it's amazing to see.
 
 ### S04E41
 
@@ -8400,7 +8410,7 @@ Aired 1999-11-13.
 
 Aired 2000-01-08.
 
-**Fort Worth, TX 21** (8:45 PM Street Patrol) East Sector - Officer Jim Grow talks about making a difference. The problem is that you can't always see it. You can stop a drunk driver and not know that what would've happened two minutes later, they could've killed 5 people if you didn't come along. You have to have faith that you are making a difference. He helps arrest two female suspects who made off with a man's car after he entered a convenience store to do some shopping. Officer Maldonado is flagged down by a female victim who claims to have given another woman money to buy her some crack…and received two pieces of plaster in return. Officer Hernandez receives some unusual help when a suspect detained during a routine traffic stop reveals that his companion is in possession of marijuana.
+**Fort Worth, TX 21** (8:45 PM Street Patrol) East Sector - Officer Jim Grow talks about making a difference. The problem is that you can't always see it. You can stop a drunk driver and not know that what would've happened two minutes later, they could've killed 5 people if you didn't come along. You have to have faith that you are making a difference. He helps arrest two female suspects who made off with a man's car after he entered a convenience store to do some shopping. Officer Maldonado is flagged down by a female victim who claims to have given another woman money to buy her some crack... and received two pieces of plaster in return. Officer Hernandez receives some unusual help when a suspect detained during a routine traffic stop reveals that his companion is in possession of marijuana.
 
 ### S12E17
 
@@ -8424,7 +8434,7 @@ Aired 2000-02-19.
 
 Aired 2000-03-04.
 
-**Fort Worth, TX 25** (3:12 PM Traffic Stop) East Sector - Officer Antonio Maldonado II says there was just an aggravated robbery, and he spots a vehicle matching the description, a blue truck with a dent on the side door. He waits for backup before trying to pull them over going north on I35. There are 2 black males and a woman in the middle. He goes up with his gun drawn as Cpl. Silas Smith pulls the passenger out. Officer Allen Speed grabs the girl and finds a .32 gauge shotgun inside. The driver claims the truck was rented to him for $50 and the owner pulled a gun on him and wanted $100. He's been knowing the guy for years and the woman is his girlfriend. They both have warrants and are arresting. (12:11 AM Street Patrol) North Sector - Officer Royce Hearne is getting older, but the criminals stay young. He works 5-6 days a week, bikes 6 days a week and is getting ready for a 100 mile race, his first one. He goes to a park that is closed and finds a fat Mexican woman with a baby on her lap giving a Hispanic man a BJ in the back seat of his car. Eric gets out with his pants down and says he had a fight with his wife so he went back with his ex. Royce tells the woman he has a problem with the woman giving him sexual favors with a child in the car. He's lucky he didn't see them in the act or they would be going to jail. Eric gets a citation for trespassing in the park. He says he's living with his woman for a year, not married, common law and is having trouble with the step-daughter. He ex is mad at him for living with the new girl, he pays child support, cries and admits he doesn't know whom he loves. He is 24, she is 37, he loves the baby…the baby comes first. East Sector - Officer Antonio Maldonado II competes in bike races, did 120 miles in one day once. He follows a van leaving a known drug house and pulls him over. The old white guy gets out and is told to get back in. He claims he was looking for a van and is giving the young black woman with him a ride. He doesn't know if she's a whore, but he was going to ask for a BJ from her. The girl says she needed a ride to her uncle's house. She's not a ho, but all she has is a busted radio with money and a lingerie top stuffed inside, no ID and is going to Ramsey. Officer Sean Kenjura takes her info and both are cited for prostitution.
+**Fort Worth, TX 25** (3:12 PM Traffic Stop) East Sector - Officer Antonio Maldonado II says there was just an aggravated robbery, and he spots a vehicle matching the description, a blue truck with a dent on the side door. He waits for backup before trying to pull them over going north on I35. There are 2 black males and a woman in the middle. He goes up with his gun drawn as Cpl. Silas Smith pulls the passenger out. Officer Allen Speed grabs the girl and finds a .32 gauge shotgun inside. The driver claims the truck was rented to him for $50 and the owner pulled a gun on him and wanted $100. He's been knowing the guy for years and the woman is his girlfriend. They both have warrants and are arresting. (12:11 AM Street Patrol) North Sector - Officer Royce Hearne is getting older, but the criminals stay young. He works 5-6 days a week, bikes 6 days a week and is getting ready for a 100 mile race, his first one. He goes to a park that is closed and finds a fat Mexican woman with a baby on her lap giving a Hispanic man a BJ in the back seat of his car. Eric gets out with his pants down and says he had a fight with his wife so he went back with his ex. Royce tells the woman he has a problem with the woman giving him sexual favors with a child in the car. He's lucky he didn't see them in the act or they would be going to jail. Eric gets a citation for trespassing in the park. He says he's living with his woman for a year, not married, common law and is having trouble with the step-daughter. He ex is mad at him for living with the new girl, he pays child support, cries and admits he doesn't know whom he loves. He is 24, she is 37, he loves the baby... the baby comes first. East Sector - Officer Antonio Maldonado II competes in bike races, did 120 miles in one day once. He follows a van leaving a known drug house and pulls him over. The old white guy gets out and is told to get back in. He claims he was looking for a van and is giving the young black woman with him a ride. He doesn't know if she's a whore, but he was going to ask for a BJ from her. The girl says she needed a ride to her uncle's house. She's not a ho, but all she has is a busted radio with money and a lingerie top stuffed inside, no ID and is going to Ramsey. Officer Sean Kenjura takes her info and both are cited for prostitution.
 
 ### S12E21
 
