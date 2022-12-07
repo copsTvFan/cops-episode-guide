@@ -4153,7 +4153,7 @@ the credits the WTC is seen from a distance.
 
 ### S03E18
 
-Aired 1991-01-16.
+Aired 1991-01-19 (typo: 1991-01-16?).
 
 **Las Vegas, NV 7** (7:45 PM Code Red - Officer Emergency) Metropolitan PD
 Southeast Area Command - Officer Jack Clark says because of the area with the
@@ -5170,7 +5170,7 @@ Robert Peel, SY has traditionally been it's HQ.
 
 ### S03E40
 
-Aired 1991-06-??.
+Aired 1991-08-16 (typo: 1991-06-xx?).
 
 **Las Vegas, NV 8** (5:45 PM Suspicious Activity) Metropolitan PD Northeast
 Area Command - Officers Thomas Fletcher says every car that metro has, B/W,
