@@ -13102,7 +13102,7 @@ TODO: Add times.
 
 ### S22E09
 
-- Kern County, CA -- 4:45 PM Criminal Investigation -- Senior Deputy Robert Stevenson
+- Kern County, CA -- 4:54 PM Criminal Investigation -- Senior Deputy Robert Stevenson
 
 ### S22E10
 
