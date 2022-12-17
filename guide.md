@@ -8,7 +8,9 @@
 ## S01E01
 ## CP-100
 
-**Broward County, FL #1 (1 Hour Pilot)** (aired 1989-03-11)
+Aired 1989-03-11.
+
+**Broward County, FL #1 (1 Hour Pilot)**
 
 - (Full 90 second theme) Burt Lancaster -- This program was filmed during a
   one-week period with the Broward County Sheriff's Department in Florida.  All
@@ -96,7 +98,9 @@
 ## S01E02
 ## CP-101
 
-**Broward County, FL #2** (aired 1989-03-18)
+Aired 1989-03-18.
+
+**Broward County, FL #2**
 
 - (Victory Celebration) Sheriff Nick Navarro gives a
   re-election speech while the Rocky Theme plays. He wants to make the county a
@@ -149,7 +153,9 @@
 ## S01E03
 ## CP-102
 
-**Broward County, FL #3** (aired 1989-03-25)
+Aired 1989-03-25.
+
+**Broward County, FL #3**
 
 - (District 2) Deputy Linda Canada talks to a shirtless man who says his
   bicycle was stolen, but doesn't want to press charges. A fat white guy nearby
@@ -199,7 +205,9 @@
 ## S01E04
 ## CP-103
 
-**Broward County, FL #4** (aired 1989-04-01)
+Aired 1989-04-01.
+
+**Broward County, FL #4**
 
 - (District 2) Deputy Willie Washington talks to students at Boyd H. Anderson
   high school where he used to teach. He says some kids that don't have role
@@ -259,7 +267,9 @@
 ## S01E05
 ## CP-104
 
-**Broward County, FL #5** (aired 1989-04-08)
+Aired 1989-04-08.
+
+**Broward County, FL #5**
 
 - (SWAT Team) Agents are working out -- jumping jacks, pushups, windmills. Sgt.
   Steve Canfield says they like to think they are the elites, but some think
@@ -316,10 +326,12 @@
 ## S01E06
 ## CP-105
 
-**Broward County, FL #6** (aired 1989-04-15)
+Aired 1989-04-15.
+
+**Broward County, FL #6**
 
 - (Pre-Super Bowl Prostitution Sweeps) Capt. Ron Cacciatore goes to a house
-  S06E01 called 'Cherry's' with all girl staff. He rings the bell and is let
+  number 601 called 'Cherry's' with all girl staff. He rings the bell and is let
   in. He finds three scantily clad women and one who covers herself up and when
   asked what the place is for she says it is her first day and she is a dancer.
   He asks what the bed in the living room is for and she says it is not a bed
@@ -379,7 +391,9 @@
 ## S01E07
 ## CP-106
 
-**Broward County, FL #7** (aired 1989-04-22)
+Aired 1989-04-22.
+
+**Broward County, FL #7**
 
 - (Roll Call) District 1 -- The captain plays a tape of a call from 1/15/89 on
   the radio where an officer yells out “wahwaaar!” and he tells them he'll
@@ -450,7 +464,9 @@
 ## S01E08
 ## CP-107
 
-**Broward County, FL #8** (aired 1989-04-29)
+Aired 1989-04-29.
+
+**Broward County, FL #8**
 
 - (Roll Call District 9) The Sgt. says Deputy Cole is filling in.
 - (3:05 PM "Kim") Deputy Jim Fondo talks to a cross dressing black man. Jim
@@ -503,7 +519,9 @@
 ## S01E09
 ## CP-108
 
-**Broward County, FL #9** (aired 1989-05-06)
+Aired 1989-05-06.
+
+**Broward County, FL #9**
 
 - (8:15 PM Tuesday) Deputy Jim Fondo asks Kelly where her mother is. She says
   she's getting out of jail today the 27th, then asks what day is it. It's the
@@ -597,7 +615,9 @@
 ## S01E10
 ## CP-109
 
-**Broward County, FL #10** (aired 1989-05-13)
+Aired 1989-05-13.
+
+**Broward County, FL #10**
 
 - (4:00 PM Drug Operation Briefing) Capt Ron Cacciatore
 has $100,000 and counts out $30,000 for flash money. 4:00 pm Drug operation
@@ -647,7 +667,9 @@ shots fired from two people, but it wasn't them.
 ## S01E11
 ## CP-110
 
-**Broward County, FL #11** (aired 1989-05-20)
+Aired 1989-05-20.
+
+**Broward County, FL #11**
 
 - (4:53 PM 911 Call) District 1 Street Patrol -- Deputy Mike Hoffman goes to apt
   226 in a complex because the black parents say their one-week old baby girl
@@ -688,7 +710,9 @@ shots fired from two people, but it wasn't them.
 ## S01E12
 ## CP-111
 
-**Broward County, FL #12** (aired 1989-05-27)
+Aired 1989-05-27.
+
+**Broward County, FL #12**
 
 - (8:07 PM Assault Investigation) District 9 Street Patrol Deputy Russ Budden
   finds Sean at his car who says a man attacked him with a club. He swung it at
@@ -747,7 +771,9 @@ shots fired from two people, but it wasn't them.
 ## S01E13
 ## CP-112
 
-**Broward County, FL #13** (aired 1989-06-03)
+Aired 1989-06-03.
+
+**Broward County, FL #13**
 
 - (Trojan Horse Stings) Organized Crimes Division -- Sgt.  Robert Deak says a
   Trojan Horse goes back to Roman days, in there case a group of cops hide in
@@ -810,7 +836,9 @@ shots fired from two people, but it wasn't them.
 ## S01E14
 ## CP-113
 
-**Broward County, FL #14** (aired 1989-06-10)
+Aired 1989-06-10.
+
+**Broward County, FL #14**
 
 - (District 1 Street Patrol) Deputy Russ Budden tells three black men on a
   corner exchanging money not to do that because it makes cops thinks it is a
@@ -864,7 +892,9 @@ shots fired from two people, but it wasn't them.
 ## S01E15
 ## CP-114
 
-**Russia 1 Hour Special** (aired 1989-06-17)
+Aired 1989-06-17.
+
+**Russia 1 Hour Special**
 
 - The following program was taped over a 16 day period in Leningrad and Moscow
   by six camera teams -- three American, three Russian.  Soviet officials
@@ -1046,7 +1076,9 @@ shots fired from two people, but it wasn't them.
 ## S02E01
 ## CP-201
 
-**Portland, OR #1** (aired 1989-09-23)
+Aired 1989-09-23.
+
+**Portland, OR #1**
 
 - (North Precinct Street Patrol) Officer Harry Jackson says this time of the
   year people come from all parts of the country, the Navy brings in a bunch of
@@ -2180,7 +2212,7 @@ police arrive. It might be an off duty cop the dog belonged to.
 
 ## CP-219
 
-Aired 1990-02-03
+Aired 1990-02-03.
 
 **Los Angeles, CA 1** (12:20 PM Homicide Investigation) Sheriff's Dept Homicide
 Bureau -- A call comes from a man who hasn't heard from a neighbor in a while
@@ -2966,7 +2998,7 @@ crime down the street that matched the description. He thought he was the one
 blasting the radio in front of him. They just did an excavation site and scared
 the crap out of them. They let them go.
 
-## CP-231 / S02E32
+## CP-231 / CP-232
 
 Aired 1990-05-05.
 
@@ -3562,7 +3594,7 @@ the first segment.
 
 ## CP-309
 
-Aired 1990-11-??.
+Aired 1990-11-10.
 
 **Alaska 3** (9:30 PM Attempted Robbery Call) Anchorage -- Officer Audie
 Holloway says the town is getting bigger, up to 230-250,000 people. They have
@@ -3621,8 +3653,9 @@ and drives him to API himself.
 
 Aired 1990-11-17.
 
-**Las Vegas Special Edition 1 Hour -** A cop in a helicopter says people look
-at Las Vegas as a place you can get rich quick whether through gambling or the
+**Las Vegas Special Edition 1 Hour**
+
+A cop in a helicopter says people look at Las Vegas as a place you can get rich quick whether through gambling or the
 rapid growth in the valley and when they get here and don't realize that dream
 that's where I encounter these people. (Theme song) North East Area Command –
 Officer Larry Burns says he moved there in 1980 to work construction, but he
@@ -4141,7 +4174,7 @@ the credits the WTC is seen from a distance.
 
 ## CP-318
 
-Aired 1991-01-19 (typo: 1991-01-16?).
+Aired 1991-01-19.
 
 **Las Vegas, NV 7** (7:45 PM Code Red -- Officer Emergency) Metropolitan PD
 Southeast Area Command -- Officer Jack Clark says because of the area with the
@@ -4524,7 +4557,9 @@ the next time she sees him he'll be happy like he used to be.
 
 Aired 1991-03-09.
 
-- **Pittsburgh, PA 2** (2:04 AM Domestic Dispute Call) Officer Pat Logan says
+**Pittsburgh, PA 2**
+
+- (2:04 AM Domestic Dispute Call) Officer Pat Logan says
   on the job they've broken his arm, fractured his skull, stabbed him four
   times, run him over with a stolen car, smashed into him with a stolen car and
   put him out of commission a couple of time. He's been in four gun battles and
@@ -4601,7 +4636,9 @@ Aired 1991-03-09.
 
 Aired 1991-03-16.
 
-**Tampa, FL 1** (3:32 PM Quad Squad Briefing) Officer Vickie Thomas is at home
+**Tampa, FL 1**
+
+- (3:32 PM Quad Squad Briefing) Officer Vickie Thomas is at home
 getting her gear ready for work. Her job is very exciting, going out dealing
 with the scum as the mayor would call them. She never knows what to expect, be
 prepared for anything, likes a good fight, it gets the adrenaline pumping,
@@ -5165,7 +5202,7 @@ Robert Peel, SY has traditionally been it's HQ.
 
 ## CP-340
 
-Aired 1991-08-16 (typo: 1991-06-xx?).
+Aired 1991-08-16.
 
 **Las Vegas, NV 8** (5:45 PM Suspicious Activity) Metropolitan PD Northeast
 Area Command -- Officers Thomas Fletcher says every car that metro has, B/W,
@@ -5180,10 +5217,10 @@ Aired 1991-06-29.
 
 **Best of Cops Volume 1**
 
-- (Broward County FL -- 4:00 PM Drug Operation Briefing) from S01E10
-- (San Diego, CA -- Northern Division Roll Call) from S02E16
+- (Broward County FL -- 4:00 PM Drug Operation Briefing) from CP-109
+- (San Diego, CA -- Northern Division Roll Call) from CP-216
 - (Portland, OR) Sgt. Loren Caddy goes to an accident where a mother dies from
-  not wearing a seatbelt from S02E05
+  not wearing a seatbelt from CP-205
 
 ## BOC-002
 
@@ -5191,10 +5228,10 @@ Aired 1991-07-06.
 
 **Best of Cops Volume 2**
 
-- (Broward County FL -- 8:13 PM Domestic Violence Call) S01E11
-- (Las Vegas, NV -- 6:30 PM Prostitution Sting Briefing) from S03E11
+- (Broward County FL -- 8:13 PM Domestic Violence Call) CP-110
+- (Las Vegas, NV -- 6:30 PM Prostitution Sting Briefing) from CP-311
 - (Broward County FL) Deputy Linda Canada goes to a call of Nancy and her
-  daughter who want her boyfriend not to come back from S01E02
+  daughter who want her boyfriend not to come back from CP-101
 
 # Season 4
 
@@ -6109,7 +6146,7 @@ Aired 1992-11-14.
 
 ## CP-510
 
-Aired 1992-11-??.
+Aired 1992-11-21.
 
 **Denver, CO 3** (11:12 PM Shooting Call)
 
@@ -6166,6 +6203,8 @@ Aired 1993-09-04.
 **San Bernardino, CA 1** (2:46 AM Pursuit Call) Sheriff's Dept Fontana Station -- Deputy John Greco works in the unincorporated area known as Fontana and Bloomington. It was previously a steel town and has a rough and ready reputation. It is a good place to work and lots of activity. He pulls a shotgun out of the trunk, loads it and goes off to work. high-speed chase; prostitution sting; restaurant shooting.
 
 ## CP-519
+
+Aired 1992-08-22.
 
 **Philadelphia, PA 1** (6:32 PM Burglary in Progress)
 
@@ -6266,6 +6305,8 @@ Aired 1992-09-05.
 
 ## CP-523
 
+Aired 1992-09-12.
+
 **Philadelphia, PA 5**
 
 - (12:48 AM Shooting Call)
@@ -6301,9 +6342,9 @@ Aired 1993-02-06.
 
 ## CP-527
 
-Aired 1993-02-??.
+Aired 1993-02-13
 
-- **Fort Worth, TX 2**
+**Fort Worth, TX 2**
 
 - (2:24 AM 911 Call) Officer Bob Abbott
 - (3:26 PM Domestic Disturbance Call) Officer J.R. Jacoby
@@ -6371,7 +6412,7 @@ Aired 1993-04-03.
 
 ## CP-533
 
-Aired 1993-04-??.
+Aired 1993-04-17.
 
 **Fort Worth, TX 8**
 
@@ -6574,17 +6615,17 @@ Aired 1993-07-31.
 
 ## CP-546
 
-Aired 1993-08-??.
+Aired 1993-05-29.
 
-**United States Hour Special**
+**United States Hour Special** AKA Cops Classics
 
-- (Pittsburgh, PA -- 11:40 PM 911 Call) S03E23
-- (Pittsburgh, PA -- Narcotics Task Force Team One) S04E09
-- (San Diego, CA -- 3:40 PM) S02E17
-- (Philadelphia, PA -- 11:04 PM Street Patrol) S05E21
-- (Houston, TX -- 12:32 AM Traffic Stop) S03E34
-- (Las Vegas, NV -- 7:45 PM Code Red -- Officer Emergency) S03E11
-- (Las Vegas, NV -- 11:01 PM Communication Center) S03E18. AKA Cops Classics
+- (Pittsburgh, PA -- 11:40 PM 911 Call) CP-323
+- (Pittsburgh, PA -- Narcotics Task Force Team One) CP-409
+- (San Diego, CA -- 3:40 PM) CP-217
+- (Philadelphia, PA -- 11:04 PM Street Patrol) CP-521
+- (Houston, TX -- 12:32 AM Traffic Stop) CP-334
+- (Las Vegas, NV -- 7:45 PM Code Red -- Officer Emergency) CP-311
+- (Las Vegas, NV -- 11:01 PM Communication Center) CP-318.
 
 # Season 6
 
@@ -6906,7 +6947,7 @@ Aired 1994-09-24.
 
 **Indianapolis, IN 6** (5:17 PM Traffic Stop) Belligerent old biker tries to conceal marijuana; stabbing.
 
-## CP-91
+## CP-646
 
 Aired 1994-06-18.
 
@@ -7134,9 +7175,9 @@ Aired 1994-11-12.
 
 **New York City 4** (10:52 PM Street Patrol) N.Y.P.D. 46th Precinct. Sgt. Andy Fasulo. Suspects hide in neighborhood market's basement; cab thieves.
 
-## #S900
+## BOC-003
 
-Aired 1995-06-??.
+Aired 1995-06-03.
 
 **Best of Cops 3**
 
@@ -7165,9 +7206,9 @@ Aired 1995-06-??.
   ghost also grabbed his wife's hand and he has a .44 and will shoot him.
   Officer Joe Munoz helps translate. The cops recommend an exorcism and leave.
 
-##S901
+## BOC-004
 
-Aired 1995-06-??.
+Aired 1995-06-10.
 
 **Best of Cops 4**
 
@@ -7192,9 +7233,9 @@ Aired 1995-06-??.
   she just had a third kid and says she isn't scared of him and is fixin to
   leave anyway.
 
-##S902
+## BOC-005
 
-Aired 1995-06-??.
+Aired 1995-06-17.
 
 **Best of Cops 5**
 
@@ -7218,9 +7259,9 @@ Aired 1995-06-??.
   There is a chicken in the truck which jumps out and escapes. The cops try to
   catch it, but can't. They also find a large turtle in his backseat.
 
-##S903
+## BOC-006
 
-Aired 1995-06-??.
+Aired 1995-06-24.
 
 **Best of Cops 6**
 
@@ -7244,7 +7285,9 @@ Aired 1995-06-??.
   marks on her neck because she is sick. It is a traditional Vietnamese healing
   technique. The man is arrested.
 
-##S904
+## BOC-007
+
+Aired 1995-07-01.
 
 **Best of Cops 7**
 
@@ -7494,55 +7537,55 @@ Aired 1996-07-13.
 
 **Orange County, CA 3** (7:45 PM Narcotics Briefing) Garden Grove -- Officer Mike Reynolds is instructed by an undercover officer that they are going to buy an ounce of speed. car-jacking; suspect behind a bookcase; drug sting.
 
-## #S905
+## S-901
 
 Aired 1996-02-05.
 
 **Best Chases**
 
-- (Kansas City, MO -- 1:04 AM Car Chase) S07E23
-- (Cleveland, OH -- 2:07 AM Stolen Car Call) S06E28
-- (Fort Worth, TX -- 12:41 AM Suspicious Vehicle) S05E26
+- (Kansas City, MO -- 1:04 AM Car Chase) CP-723
+- (Cleveland, OH -- 2:07 AM Stolen Car Call) CP-628
+- (Fort Worth, TX -- 12:41 AM Suspicious Vehicle) CP-526
 
-## #S906
+## S-902
 
 Aired 1996-02-06.
 
 **911 Calls**
 
-- (Fort Worth, TX -- 2:24 AM 911 Call) S05E27
-- (Philadelphia, PA -- 12:48 AM Shooting Call) S05E23
-- (Denver, CO -- 12:07 AM 911 Call) S05E09
+- (Fort Worth, TX -- 2:24 AM 911 Call) CP-527
+- (Philadelphia, PA -- 12:48 AM Shooting Call) CP-523
+- (Denver, CO -- 12:07 AM 911 Call) CP-509
 
-##S907
+## S-903
 
 Aired 1996-02-07.
 
 **Best Drug Busts**
 
-- (Portland, OR -- 11:47 AM Warrant Served) S02E02
-- (Las Vegas, NV -- 8:38 PM Narcotics Unit Briefing) S07E17
-- (Denver, CO -- 1:30 PM Narcotics Unit Briefing) S05E08
+- (Portland, OR -- 11:47 AM Warrant Served) CP-202
+- (Las Vegas, NV -- 8:38 PM Narcotics Unit Briefing) CP-717
+- (Denver, CO -- 1:30 PM Narcotics Unit Briefing) CP-508
 
-##S908
+## S-904
 
 Aired 1996-02-08.
 
 **Best Stings**
 
-- (Fort Worth, TX -- 7:14 PM Shoplifting Call) S05E32
-- (Las Vegas, NV -- LSP Unit Southeast Area Command) S03E12
-- (Jersey City. NJ -- Truck Sting Operation Briefing) S03E19
+- (Fort Worth, TX -- 7:14 PM Shoplifting Call) CP-532
+- (Las Vegas, NV -- LSP Unit Southeast Area Command) CP-312
+- (Jersey City. NJ -- Truck Sting Operation Briefing) CP-319
 
-##S909
+## S-905
 
 Aired 1996-02-09.
 
 **Classic Cops**
 
-- (Kansas City, MO -- 8:43 PM Disturbance Call) S04E03
-- (Los Angeles, CA -- 9:46 PM "911" Call Hang Up) S07E04
-- (Kansas City, KS -- 6:05 PM Street Patrol) S04E07
+- (Kansas City, MO -- 8:43 PM Disturbance Call) CP-403
+- (Los Angeles, CA -- 9:46 PM "911" Call Hang Up) CP-704
+- (Kansas City, KS -- 6:05 PM Street Patrol) CP-407
 
 # Season 9
 
@@ -7745,7 +7788,7 @@ Aired 1997-05-17.
 
 ## CP-926
 
-Aired 1997-03-??.
+Aired 1997-03-01.
 
 **Pierce County WA 20** (4:32 PM Suspicious Vehicle Call) South Hill Precinct -- Deputy Ken Board takes a call of a suspicious vehicle in the middle of a field where they may have shot something. It always makes him nervous when people are armed and there are lots of shootings in the area. You don't want to be downwind of that because you never know what you are going to get. He questions two men who used a firearm to slaughter a cow, and later, he arrests a woman who vandalized a neighbor's property. Deputy Nilsen attempts to settle a domestic dispute between neighbors, then searches for a woman who was thrown on a floor during a domestic dispute. Officer Masters investigates a robbery, and afterward, Masters is dispatched to investigate a car accident.
 
@@ -8925,9 +8968,9 @@ Aired 2001-02-21.
 
 **Caught in the Act**
 
-- (Albuquerque, NM -- 12:31 PM Vice Sting) S12E36
-- (Pierce County WA -- 9:04 PM Shoplifting Call) S09E19
-- (Las Vegas, NV -- 8:03 PM Briefing) S10E02
+- (Albuquerque, NM -- 12:31 PM Vice Sting) CP-1236
+- (Pierce County WA -- 9:04 PM Shoplifting Call) CP-919
+- (Las Vegas, NV -- 8:03 PM Briefing) CP-1002
 
 ## CP-1338
 
@@ -8935,10 +8978,10 @@ Aired 2001-02-24.
 
 **Stupid Criminals** AKA Dumbest Suspects
 
-- (Pierce County WA -- 9:03 PM Domestic Disturbance Call) S09E17
-- (Kansas City, KS -- 8:03 PM Street Patrol) S04E07
-- (Fresno, CA -- 9:37 PM Car Stop) S09E28
-- (Fort Worth, TX -- 3:31 PM Street Patrol) S12E16
+- (Pierce County WA -- 9:03 PM Domestic Disturbance Call) CP-917
+- (Kansas City, KS -- 8:03 PM Street Patrol) CP-407
+- (Fresno, CA -- 9:37 PM Car Stop) CP-928
+- (Fort Worth, TX -- 3:31 PM Street Patrol) CP-1216
 
 ## CP-1339
 
@@ -8946,9 +8989,9 @@ Aired 2001-02-25.
 
 **Hot Pursuits** AKA Intense Chases/Wildest Chases
 
-- (Indianapolis -- 2:17 AM Vehicle Pursuit) S06E27
-- (Sacramento, CA -- 6:23 PM Traffic Stop) S06E08
-- (Atlanta, GA -- 3:37 AM Traffic Stop) S11E01
+- (Indianapolis -- 2:17 AM Vehicle Pursuit) CP-627
+- (Sacramento, CA -- 6:23 PM Traffic Stop) CP-608
+- (Atlanta, GA -- 3:37 AM Traffic Stop) CP-1101
 
 ## CP-1340
 
@@ -8956,16 +8999,16 @@ Aired 2001-02-26.
 
 **Animals in Danger** AKA Ferocious Animals or Animal Encounters
 
-- (Kansas City, MO -- 8:45 PM Felony Warrant) S10E15
-- (Albuquerque, NM -- 9:18 PM 911 Hang-Up Call) S12E27
-- (Martin County FL -- 4:27 PM Assistance Call) S11E27
-- (Las Vegas, NV -- 8:56 PM Street Patrol/Now Assistance Call) S07E16
+- (Kansas City, MO -- 8:45 PM Felony Warrant) CP-1015
+- (Albuquerque, NM -- 9:18 PM 911 Hang-Up Call) CP-1227
+- (Martin County FL -- 4:27 PM Assistance Call) CP-1127
+- (Las Vegas, NV -- 8:56 PM Street Patrol/Now Assistance Call) CP-716
 
-## CP-13 special 01
+## S-1301
 
 Aired 2001-05-??.
 
-**Greatest Moments 2 hours** -- 15. Cleveland, OH -- 2:07 AM Stolen Car Call -- #628.
+**Greatest Moments 2 hours** -- 15. Cleveland, OH -- 2:07 AM Stolen Car Call -- CP-628.
 
 # Season 14
 
@@ -9077,7 +9120,7 @@ Aired 2001-11-24.
 
 ## CP-1418
 
-Aired 2001-11-31.
+Aired 2001-12-01.
 
 **Coast to Coast 9** (Fort Worth, TX -- 10:48 PM Traffic Stop) East Division -- Officer Michael Martinez has worked in four departments in the zero tolerance units with good people. He questions two male suspects and a prostitute riding in the same car, and when the driver suddenly pulls away, Martinez gives chase and observes as the male suspects abandon the woman on a dangerous stretch of the interstate. In Chattanooga, Tennessee, Officer Pendygraft stops and questions a suspect who claims he was on his way to a friend's house, but during a routine search, the officer uncovers a large quantity of marijuana crammed into the suspect's pants.
 
@@ -9184,7 +9227,7 @@ Aired 2002-04-27.
 **Too Hot for Fox Special Edition**. Reruns as Too Hot for Television on other channels or Outrageous Calls.
 
 - (Atlanta, GA -- 4:07 PM Car Pursuit) Zone 3 -- Officer Michel Centola responds to an unmarked car that needs his marked car in a pursuit and the suspect almost hit him.
-- An unmarked unit chases a dangerous driver; a biting woman says she is a vampire; a woman removes her clothing and jumps into a public fountain; an officer questions a transvestite. Las Vegas, NV from S03E40/Clark County/Sacramento, CA/Forth Worth, TX/Kodiak, AK/San Bernardino, CA.
+- An unmarked unit chases a dangerous driver; a biting woman says she is a vampire; a woman removes her clothing and jumps into a public fountain; an officer questions a transvestite. Las Vegas, NV from CP-340/Clark County/Sacramento, CA/Forth Worth, TX/Kodiak, AK/San Bernardino, CA.
 
 ## CP-1436
 
@@ -9634,8 +9677,8 @@ Aired 2003-09-13.
   out in the jail division for a few years, then the courthouse and finally his
   dream came true -- out to the streets of Passaic. They take the call of a man
   who fell into the river. Rescue a man who has fallen into a rushing river.
-- (New York City, NY -- 6:15 PM Car Accident) from S07E34.
-- (Pierce County WA -- 11:21 PM Noise Complaint) from S13E13.
+- (New York City, NY -- 6:15 PM Car Accident) from CP-734.
+- (Pierce County WA -- 11:21 PM Noise Complaint) from CP-1313.
 
 ## CP-1612
 
@@ -9656,14 +9699,14 @@ Aired 2004-03-06.
 
 ## CP-1613
 
-Aured 2003-09-13.
+Aired 2003-09-13.
 
 **Rescues 2 Special Edition**
 
 - (Portland, OR -- 7:06 PM Assistance Call) Police Bureau Central Precinct --
   Officer Matt Stimmel and partner Officer Cathy Kent
 - (Maricopa County AZ -- 2:18 AM Flagged Down) Sheriff's Office District 1
-- (San Bernardino County CA -- 7:11 PM Search & Rescue Call) from S05E43
+- (San Bernardino County CA -- 7:11 PM Search & Rescue Call) from CP-543
 
 ## CP-1614
 
@@ -9996,9 +10039,9 @@ Aired 2004-03-06.
   police and had to be stopped. They have a new baby inside. They go to put him
   in the car and he flips out again and he has to be forced in. They weren't
   going to arrest him and told him that. She says he didn't know and she'll use
-  the rent money to get him out of jail. from S10E32.
+  the rent money to get him out of jail. from CP-1032.
 
-## CP-1638 / S16E39
+## CP-1638 / CP-1639
 
 Aired 2004-02-14.
 
@@ -10020,13 +10063,13 @@ Aired 2004-02-14.
 - Los Angeles, CA (4:33 PM Assault Call) A man and woman fight in the street and both get bloody and Tami turns blue.
 - Providence RI (10:03 PM Possible Stabbing Call) A man's wife is having sex with his mom and the mom stabs her son for trying to break it up.
 
-## CP-1640 / S16E41
+## CP-1640 / CP-1641
 
 Aired 2004-05-01.
 
 **Caught Red Handed -- 15 Greatest Takedowns**
 
-- (Sacramento, CA -- 10:42 PM Disturbance Call) S06E06
+- (Sacramento, CA -- 10:42 PM Disturbance Call) CP-606
 - (Indianapolis, IN -- 5:17 PM Traffic Stop) A cop pulls over a dirtbag biker whose license is conditional because of a DWI. He smells of pot, just came from the Burger King and doesn't really want to be searched. The cops find a box of pot and the biker throws it hoping his woman on the other bike would grab it and take off.
 - New Orleans (Mardi Gras 12:20 AM) A fight on a balcony turns into a near riot with drunks smashing windows of a bar. Cops try to break it up and a bottle is thrown at him. Horses are brought in to clear the area and some idiots are arrested.
 - NYC (2:33 PM Briefing) After a quick WTC shot Freddy goes undercover as a drunk tourist in the subway to catch pick pockets. A black man in camouflage is a good Samaritan and tires to help. An illegal 19 year old Spanish guy steals his watch, chain and beeper and takes off. He is caught below.
@@ -10050,7 +10093,7 @@ Aired 2004-05-01.
 FL/Mardi Gras 2004/New Orleans, LA/Passaic County NJ/Pierce County WA/Riverside
 County CA/San Bernardino County, CA**
 
-## CP-1701.
+## CP-1701
 
 Aired 2004-05-15.
 
@@ -10580,7 +10623,7 @@ going to chew it all up and didn't want to throw it out and have kids find it.
 He started on cocaine when he was 15 and now he's 22. He got out of jail when
 he was 20 and says coke doesn't affect him. He is booked and goes to jail.
 
-## CP-1716 / S17E17
+## CP-1716 / CP-1717
 
 Aired 2005-02-19.
 
@@ -10695,7 +10738,7 @@ expand outward.
 - (Epilogue) At Kevin's court hearing the judge reads the charges against him.
   He pleads not guilty, so does Randy. Prosecutors ask for the death penalty.
 
-Originally to air 2004-11-19 and be called Las Vegas Metro '04 S17E09.
+Originally to air 2004-11-19 and be called Las Vegas Metro '04 CP-1709.
 
 ## CP-1718
 
@@ -10789,7 +10832,7 @@ Aired 2005-03-05.
   Barbara to sit down and she falls off the chair. It turns out she has a
   warrant and has to go to jail. Both of them are drunk and are going to jail.
 
-Was supposed to be S17E11, but that episode never aired.
+Was supposed to be CP-1711, but that episode never aired.
 
 ## CP-1720
 
@@ -10973,7 +11016,7 @@ is scared, claims she loaned her the car 2 days ago, she just came from her
 sisters' house and isn't lying. She wants to call her. She is a suspect in the
 original theft, Christina is her roommate and she took the car to score some
 meth. She keeps saying, “I had the car two days.” She stays with her sister in
-a nearby trailer park and they can check. (Aired instead of S17E09. Fox
+a nearby trailer park and they can check. (Aired instead of CP-1709. Fox
 Mistakenly Lists this as Bad Girls 3)
 
 ## CP-1725
@@ -12078,7 +12121,7 @@ Aired 2007-02-17.
 
 **Tough Takedowns Special Edition**
 
-- (Las Vegas, NV -- 11:32 PM Suspicious Person) the midget from S19E24 returns.
+- (Las Vegas, NV -- 11:32 PM Suspicious Person) the midget from CP-1924 returns.
 - A Boise, ID, officer handles a domestic-violence call;
 - a Chattanooga, TN officer deals with a suspect who swallowed crack in an attempt to hide it.
 
@@ -12573,55 +12616,55 @@ Aired 2008-07-26.
   deputies thank the men for their quick thinking and tell the suspect that
   they will make sure he get help to deal with his depression.
 
-## CP-2037 / S20E38
+## CP-2037 / CP-2038
 
 Aired 2007-09-29.
 
 **20 Years Caught on Tape** -- Full intro with clips from all seasons. Chases:
 
-- Fort Worth, TX -- Officer Dave Moran chases a white van that t-bones a car in an intersection. S08E16.
-- Broward County FL -- Deputy Jerry Wurms has a guy run on him and says, "stop or I'll shoot you in the back" as he chases him. S01E01.
-- Passaic, NJ -- Detective Derrick Catli chases a Honda Civic that rams his car and crashes into a parked car. S16E14.
-- Pomona, CA -- Sgt. Jay Stuart chases a hit & run that loses tire then hits a car under a bridge and jeeps going. S09E30.
-- Palm Beach, FL -- Deputy Shawn Boorman has one leg and is still able to catch a criminal in a foot chase. S11E23.
-- Cleveland, OH -- Officer Gary Mullins chases a red car that crashes hard into a guardrail. S06E28.
-- Portland, OR -- Officer Lon Sweeney chases a motorcycle. S02E12.
-- Bernalillo County NM -- Deputy Casey Ireland executes a PIT maneuver. S12E28.
-- Cincinnati, OH -- during a foot chase, a man jumps wall and is tased by Officer Michael Winslow. S17E20
-- Under the Influence: Kansas City, KS -- Officer Scott Caron goes to old man in red pickup truck who is so drunk he falls over. S04E02.
-- Albuquerque, NM -- Sgt. Jerry Ferner finds a male Mexican dressed as a woman with crack in his mouth. S12E30.
-- Harris County TX -- Deputy Tracy Shipley pulls over a car then a drunk plows into her car. S10E28.
-- Passaic, NJ -- Cpl Anthony Damiano catches a Mexican smoking pot in a stairwell who calls him papi. S16E18.
-- Pierce County WA -- Officer Erik Clarkson chases a red truck that flips into a ditch. S15E17.
-- Fresno, CA -- Deputy Keith Gray finds a joint behind a mans' ear at a traffic stop. S09E28.
-- Portland, OR -- Sgt. John Bunnell busts a pot house, takes the guys Corvette and leaves a message on his machine. S02E09.
-- Resisting Arrest: Broward County FL -- at the airport a man's bag is found loaded with drugs. S01E01.
-- Riverside, CA -- Deputy Roman Pluimer helps catch a prisoner who escaped from a police car and fights, bloodying a cops' nose. S15E21.
-- Buffalo, NY -- Officer Phil Tisdale helps remove a boa from the attic of a house. S08E20.
-- Broward County FL -- a man is bit by K-9 Max. S01E10.
-- Philadelphia, PA -- a naked black man flips out in a barbershop and is tackled with Sgt. Raymond Convery. S05E21.
-- New York City, NY -- Officer John Politoski kills a rat in a woman's bathroom. S07E34.
-- Fort Worth, TX -- Officer Jerry Dalton catches 2 men stripping a car, one runs and hits a cop. S12E13.
-- Spokane, WA -- Officer Rob Boothe tasers a man in a parking lot who says it hurt. S16E20.
-- Crimes of Passion: Pierce County WA -- Deputy Bob Nielson gets hit by a van and tackles a suicidal woman who falls down on her knife. S09E16.
-- Harris County TX -- a woman slaps her man in front of Deputy Michael Sieck. S03E31.
-- Kansas City, MO -- Officer Scott Caron goes to a food fight on Food Lane. S04E02.
-- Virginia Beach, VA -- MPO Kevin Murphy goes to an assault call where the man's wife's boyfriend beat him. She wants them both since they love her. S11E14.
-- Broward County FL -- Deputy Mike Hoffman arrests Danny and while he's in the back of the police car he bangs his head against the window 32 times in a row. S01E11.
-- Palm Beach County FL -- Deputy Aaron Vanyi talks to a guy with a bloody ear wants a man to leave since he's sleeping with his wife. S19E04.
-- Broward County FL -- Deputy Linda Canada talks to a 7 year old girl who wants her mom's boyfriend to stay in jail first for 2 nights, then 4 nights, 10 nights. S01E02.
-- Hazardous Duty: Lynn, MA -- Officer Michael Hanlon and many cops follow a man carrying a knife and tell him to drop the knife 47 times. S09E08.
-- Passaic, NJ -- Officer Jason DeGroat helps rescue a man from a raging river. S16E11.
-- Denver, CO -- Officer Mark Chuck's car is crashed into by another police car. S05E08.
-- New Orleans, LA -- at Mardi Gras Snoop Dogg comes out on a balcony, which causes a stampede. S15E03.
-- Palm Springs, CA -- Officer Nelson Figueroa chases suspects involved in a home invasion, shots are fired and the suspect is hit by a cop. S15E20.
-- Fan Favorites: Fort Worth, TX -- Officer Antonio Maldonaldo II is flagged down by a woman who says she was ripped off trying to buy crack. S12E16.
-- Riverside, CA -- Deputy Jason Corey makes a traffic stop, then Tony who is riding a bike is hit by car. S19E04.
-- Norwood, OH -- Officer Jeff Kilby arrests a man who was going to bring pot into the jail by hiding it in his rectum. S17E13.
-- Albuquerque, NM -- Officer James Badway is flagged down by a trucker in a women's leopard print leotard and stockings. S12E25.
-- Portland, OR -- Officer Jason Preston finds a naked man who committed an assault, but says he was trying to be fun. S16E24.
-- Las Vegas, NV -- Officer Evan Rosenthal deals with a black dwarf who illegally performs on the streets for the second time. S19E30.
-- Las Vegas, NV -- Officer Dennis Magill jumps into a car that goes in circles with no one driving it to stop it. S03E11.
+- Fort Worth, TX -- Officer Dave Moran chases a white van that t-bones a car in an intersection. CP-816.
+- Broward County FL -- Deputy Jerry Wurms has a guy run on him and says, "stop or I'll shoot you in the back" as he chases him. CP-101.
+- Passaic, NJ -- Detective Derrick Catli chases a Honda Civic that rams his car and crashes into a parked car. CP-1614.
+- Pomona, CA -- Sgt. Jay Stuart chases a hit & run that loses tire then hits a car under a bridge and jeeps going. CP-930.
+- Palm Beach, FL -- Deputy Shawn Boorman has one leg and is still able to catch a criminal in a foot chase. CP-1123.
+- Cleveland, OH -- Officer Gary Mullins chases a red car that crashes hard into a guardrail. CP-628.
+- Portland, OR -- Officer Lon Sweeney chases a motorcycle. CP-212.
+- Bernalillo County NM -- Deputy Casey Ireland executes a PIT maneuver. CP-1228.
+- Cincinnati, OH -- during a foot chase, a man jumps wall and is tased by Officer Michael Winslow. CP-1720
+- Under the Influence: Kansas City, KS -- Officer Scott Caron goes to old man in red pickup truck who is so drunk he falls over. CP-402.
+- Albuquerque, NM -- Sgt. Jerry Ferner finds a male Mexican dressed as a woman with crack in his mouth. CP-1230.
+- Harris County TX -- Deputy Tracy Shipley pulls over a car then a drunk plows into her car. CP-1028.
+- Passaic, NJ -- Cpl Anthony Damiano catches a Mexican smoking pot in a stairwell who calls him papi. CP-1618.
+- Pierce County WA -- Officer Erik Clarkson chases a red truck that flips into a ditch. CP-1517.
+- Fresno, CA -- Deputy Keith Gray finds a joint behind a mans' ear at a traffic stop. CP-928.
+- Portland, OR -- Sgt. John Bunnell busts a pot house, takes the guys Corvette and leaves a message on his machine. CP-209.
+- Resisting Arrest: Broward County FL -- at the airport a man's bag is found loaded with drugs. CP-101.
+- Riverside, CA -- Deputy Roman Pluimer helps catch a prisoner who escaped from a police car and fights, bloodying a cops' nose. CP-1521.
+- Buffalo, NY -- Officer Phil Tisdale helps remove a boa from the attic of a house. CP-820.
+- Broward County FL -- a man is bit by K-9 Max. CP-110.
+- Philadelphia, PA -- a naked black man flips out in a barbershop and is tackled with Sgt. Raymond Convery. CP-521.
+- New York City, NY -- Officer John Politoski kills a rat in a woman's bathroom. CP-734.
+- Fort Worth, TX -- Officer Jerry Dalton catches 2 men stripping a car, one runs and hits a cop. CP-1213.
+- Spokane, WA -- Officer Rob Boothe tasers a man in a parking lot who says it hurt. CP-1620.
+- Crimes of Passion: Pierce County WA -- Deputy Bob Nielson gets hit by a van and tackles a suicidal woman who falls down on her knife. CP-916.
+- Harris County TX -- a woman slaps her man in front of Deputy Michael Sieck. CP-331.
+- Kansas City, MO -- Officer Scott Caron goes to a food fight on Food Lane. CP-402.
+- Virginia Beach, VA -- MPO Kevin Murphy goes to an assault call where the man's wife's boyfriend beat him. She wants them both since they love her. CP-1114.
+- Broward County FL -- Deputy Mike Hoffman arrests Danny and while he's in the back of the police car he bangs his head against the window 32 times in a row. CP-111.
+- Palm Beach County FL -- Deputy Aaron Vanyi talks to a guy with a bloody ear wants a man to leave since he's sleeping with his wife. CP-1904.
+- Broward County FL -- Deputy Linda Canada talks to a 7 year old girl who wants her mom's boyfriend to stay in jail first for 2 nights, then 4 nights, 10 nights. CP-102.
+- Hazardous Duty: Lynn, MA -- Officer Michael Hanlon and many cops follow a man carrying a knife and tell him to drop the knife 47 times. CP-908.
+- Passaic, NJ -- Officer Jason DeGroat helps rescue a man from a raging river. CP-1611.
+- Denver, CO -- Officer Mark Chuck's car is crashed into by another police car. CP-508.
+- New Orleans, LA -- at Mardi Gras Snoop Dogg comes out on a balcony, which causes a stampede. CP-1503.
+- Palm Springs, CA -- Officer Nelson Figueroa chases suspects involved in a home invasion, shots are fired and the suspect is hit by a cop. CP-1520.
+- Fan Favorites: Fort Worth, TX -- Officer Antonio Maldonaldo II is flagged down by a woman who says she was ripped off trying to buy crack. CP-1216.
+- Riverside, CA -- Deputy Jason Corey makes a traffic stop, then Tony who is riding a bike is hit by car. CP-1904.
+- Norwood, OH -- Officer Jeff Kilby arrests a man who was going to bring pot into the jail by hiding it in his rectum. CP-1713.
+- Albuquerque, NM -- Officer James Badway is flagged down by a trucker in a women's leopard print leotard and stockings. CP-1225.
+- Portland, OR -- Officer Jason Preston finds a naked man who committed an assault, but says he was trying to be fun. CP-1624.
+- Las Vegas, NV -- Officer Evan Rosenthal deals with a black dwarf who illegally performs on the streets for the second time. CP-1930.
+- Las Vegas, NV -- Officer Dennis Magill jumps into a car that goes in circles with no one driving it to stop it. CP-311.
 
 # Season 21
 
@@ -12963,7 +13006,7 @@ Aired 2009-01-17.
 
 ## CP-2114
 
-2009-01-24.
+Aired 2009-01-24.
 
 **Coast to Coast 148**
 
@@ -13099,7 +13142,7 @@ Aired 2009-03-14.
 
 ## CP-2122
 
-2009-03-21.
+Aired 2009-03-21.
 
 **750th Milestone Episode**
 
