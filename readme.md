@@ -18,7 +18,7 @@ are also welcome (`copsTvFan` *at* `protonmail.com`).
 # External Guides
 
 - [thrawn's original guide](https://copstvfan.github.io/geocities-copsonfox-archive/) (unmaintained since 2009-08-15)
-- [epguides.com](https://epguides.com/cops/)
+- [epguides.com](https://epguides.com/cops/) (in the [past](https://web.archive.org/web/20151230230345/http://epguides.com:80/Cops/) this guide contained production numbers too)
 - [thetvdb.com](https://thetvdb.com/series/cops/allseasons/official)
 - Wikipedia:
     - [seasons 1–20](<https://en.wikipedia.org/wiki/List_of_Cops_episodes_(seasons_1%E2%80%9320)>)
