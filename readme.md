@@ -1,6 +1,6 @@
 # Cops Episode Guide
 
-View the guide [here](guide).
+View the guide [here](https://copstvfan.github.io/cops-episode-guide/guide).
 
 # Context
 
