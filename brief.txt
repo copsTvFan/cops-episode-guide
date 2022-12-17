@@ -1,0 +1,809 @@
+production_number | air_date                    | title
+CP-100            | 1989-03-11                  | Broward County, FL #1 (1 Hour Pilot)
+CP-101            | 1989-03-18                  | Broward County, FL #2
+CP-102            | 1989-03-25                  | Broward County, FL #3
+CP-103            | 1989-04-01                  | Broward County, FL #4
+CP-104            | 1989-04-08                  | Broward County, FL #5
+CP-105            | 1989-04-15                  | Broward County, FL #6
+CP-106            | 1989-04-22                  | Broward County, FL #7
+CP-107            | 1989-04-29                  | Broward County, FL #8
+CP-108            | 1989-05-06                  | Broward County, FL #9
+CP-109            | 1989-05-13                  | Broward County, FL #10
+CP-110            | 1989-05-20                  | Broward County, FL #11
+CP-111            | 1989-05-27                  | Broward County, FL #12
+CP-112            | 1989-06-03                  | Broward County, FL #13
+CP-113            | 1989-06-10                  | Broward County, FL #14
+CP-114            | 1989-06-17                  | Russia 1 Hour Special
+
+CP-201            | 1989-09-23                  | Portland, OR #1
+CP-202            | 1989-09-30                  | Portland, OR 2
+CP-203            | 1989-10-07                  | Portland, OR 3
+CP-204            | 1989-10-14                  | Portland, OR 4
+CP-205            | 1989-10-21                  | Portland, OR 5
+CP-206            | 1989-10-28                  | Portland, OR 6
+CP-207            | 1989-11-04                  | Portland, OR 7
+CP-208            | 1989-11-11                  | Portland, OR 8
+CP-209            | 1989-11-18                  | Portland, OR 9
+CP-210            | 1989-11-25                  | Portland, OR 10
+CP-211            | 1989-12-02                  | Portland, OR 11
+CP-212            | 1989-12-09                  | Portland, OR 12
+CP-213            | 1989-12-16                  | Portland, OR 13
+CP-214            | 1989-12-23                  | San Diego, CA 1
+CP-215            | 1990-01-06                  | San Diego, CA 2
+CP-216            | 1990-01-13                  | San Diego, CA 3
+CP-217            | 1990-01-20                  | San Diego, CA 4
+CP-218            | 1990-01-27                  | San Diego, CA 5
+CP-219            | 1990-02-03                  | Los Angeles, CA 1
+CP-220            | 1990-02-10                  | Los Angeles, CA 2
+CP-221            | 1990-02-17                  | Los Angeles, CA 3
+CP-222            | 1990-02-24                  | Los Angeles, CA 4
+CP-223            | 1990-03-03                  | Los Angeles, CA 5
+CP-224            | 1990-03-10                  | Los Angeles, CA 6
+CP-225            | 1990-03-17                  | Los Angeles, CA 7
+CP-226            | 1990-03-24                  | Los Angeles, CA 8
+CP-227            | 1990-04-07                  | Los Angeles, CA 9
+CP-228            | 1990-04-14                  | Los Angeles, CA 10
+CP-229            | 1990-04-21                  | Los Angeles, CA 11
+CP-230            | 1990-04-28                  | Los Angeles CA 12
+CP-231            | 1990-05-05                  | Mardi Gras 1990 Hour Special
+CP-301            | 1990-09-15                  | Minneapolis, MN 1
+CP-302            | 1990-09-22                  | Minneapolis, MN 2 -- Rookies
+CP-303            | 1990-09-29                  | Minneapolis, MN 3 -- Women Cops
+CP-304            | 1990-10-06                  | Minneapolis, MN 4 -- On the Home Front
+CP-305            | 1990-10-13                  | Minneapolis, MN 5
+CP-306            | 1990-10-20                  | Minneapolis, MN 6
+CP-307            | 1990-10-27                  | Alaska 1
+CP-308            | 1990-11-03                  | Alaska 2
+CP-309            | 1990-11-10                  | Alaska 3
+CP-310            | 1990-11-10                  | Alaska 4
+CP-311            | 1990-11-17                  | Las Vegas Special Edition 1 Hour 
+CP-312            | 1990-12-01                  | Las Vegas, NV 2
+CP-313            | 1990-12-08                  | Las Vegas, NV 3
+CP-314            | 1990-12-15                  | Las Vegas, NV 4
+CP-315            | 1990-12-22                  | Las Vegas, NV 5
+CP-316            | 1991-01-12                  | Las Vegas, NV 6
+CP-317            | 1991-01-26                  | New Jersey 1
+CP-318            | 1991-01-19                  | Las Vegas, NV 7
+CP-319            | 1991-02-02                  | New Jersey 2
+CP-320            | 1991-02-09                  | New Jersey 3
+CP-321            | 1991-02-16                  | New Jersey 4
+CP-322            | 1991-02-23                  | New Jersey 5
+CP-323            | 1991-03-02                  | Pittsburgh, PA 1
+CP-324            | 1991-03-09                  | - Pittsburgh, PA 2
+CP-325            | 1991-03-16                  | Tampa, FL 1
+CP-326            | 1991-04-06                  | Tampa, FL 2
+CP-327            | 1991-04-13                  | Tucson, AZ 1
+CP-328            | 1991-04-20                  | Tucson, AZ 2
+CP-329            | 1991-04-27                  | Riverside County CA 1
+CP-330            | 1991-05-04                  | Riverside County CA 2
+CP-331            | 1991-05-11                  | Houston, TX 1
+CP-332            | 1991-05-18                  | Houston, TX 2
+CP-333            | 1991-05-25                  | Houston, TX 3
+CP-334            | 1991-06-01                  | Houston, TX 4
+CP-335            | 1991-06-08                  | Houston, TX 5
+CP-336            | 1991-06-15                  | Houston, TX 6
+CP-337            | 1991-08-31                  | Houston, TX 7
+CP-338            | 1991-08-09                  | Houston, TX 8
+CP-339            | 1991-06-22                  | London 1 Hour Special
+CP-340            | 1991-08-16                  | Las Vegas, NV 8
+BOC-001           | 1991-06-29                  | Best of Cops Volume 1
+BOC-002           | 1991-07-06                  | Best of Cops Volume 2
+
+CP-401            | 1991-08-10                  | Kansas City 1
+CP-402            | 1991-08-17                  | Kansas City 2
+CP-403            | 1991-08-24                  | Kansas City 3
+CP-404            | 1991-12-07                  | Kansas City 4
+CP-405            | 1991-09-13                  | Kansas City 5
+CP-406            | 1991-10-19                  | Kansas City 6
+CP-407            | 1991-10-12                  | Kansas City 7
+CP-408            | 1991-10-05                  | Kansas City 8
+CP-409            | 1991-09-28                  | Pittsburgh, PA 3
+CP-410            | 1991-10-26                  | Pittsburgh, PA 4
+CP-411            | 1991-12-21                  | Pittsburgh, PA 5
+CP-412            | 1991-11-02                  | Pittsburgh, PA 6
+CP-413            | 1992-01-04                  | Pittsburgh, PA 7
+CP-414            | 1992-02-07                  | U.S. Marshals Service Special
+CP-415            | 1991-11-16                  | Boston, MA 1
+CP-416            | 1991-11-09                  | Boston, MA 2
+CP-417            | 1991-11-23                  | Boston, MA 3
+CP-418            | 1992-03-21                  | Boston, MA 4
+CP-419            | 1991-12-07                  | Boston, MA 5
+CP-420            | 1991-12-14                  | Boston, MA 6
+CP-421            | 1992-04-04                  | Boston, MA 7
+CP-422            | 1992-01-11                  | Memphis, TN 1
+CP-423            | 1992-01-18                  | Memphis, TN 2
+CP-424            | 1992-01-25                  | Memphis, TN 3
+CP-425            | 1992-02-15                  | Memphis, TN 4
+CP-426            | 1992-05-30                  | Memphis, TN 5
+CP-427            | 1992-02-01                  | Memphis, TN 6
+CP-428            | 1992-03-07                  | Miami, FL 1
+CP-429            | 1992-02-22                  | Miami, FL 2
+CP-430            | 1992-02-22                  | Miami, FL 3
+CP-431            | 1992-03-14                  | South Florida 1
+CP-432            | 1992-03-21                  | Miami, FL 4
+CP-433            | 1992-04-11                  | South Florida 2
+CP-434            | 1992-05-30                  | Miami, FL 5
+CP-435            | 1992-04-25                  | Miami, FL 6
+CP-436            | 1992-05-02                  | Miami, FL 7
+CP-437            | 1992-06-13                  | Miami, FL 8
+CP-438            | 1992-05-09                  | Miami, FL 9
+CP-439            | 1992-05-16                  | Miami, FL 10
+CP-440            | 1992-06-27                  | Miami, FL 11
+CP-441            | 1992-08-01                  | Washington State 1
+CP-442            | 1992-12-12                  | Washington State 2
+CP-443            | 1992-06-20                  | Pierce County WA 1
+CP-444            | 1992-08-08                  | Pierce County WA 2
+CP-445            | 1992-08-15                  | Pierce County WA 3
+
+CP-501            | 1992-10-03                  | Pierce County WA 4
+CP-502            | 1992-09-19                  | Pierce County WA 5
+CP-503            | 1992-09-26                  | Pierce County WA 6
+CP-504            | 1992-12-05                  | Pierce County WA 7
+CP-505            | 1992-12-19                  | Pierce County WA 8
+CP-506            | 1993-01-02                  | Pierce County WA 9
+CP-507            | 1992-11-07                  | Homicide USA Special
+CP-508            | 1992-10-31                  | Denver, CO 1
+CP-509            | 1992-11-14                  | Denver, CO 2
+CP-510            | 1992-11-21                  | Denver, CO 3
+CP-511            | 1993-01-09                  | Denver, CO 4
+CP-512            | 1993-01-16                  | Denver, CO 5
+CP-513            | 1993-01-23                  | Denver, CO 6
+CP-514            | 1993-01-30                  | Denver, CO 7
+CP-515            | 1993-03-06                  | Denver, CO 8
+CP-516            | 1993-04-10                  | Denver, CO 9
+CP-517            | 1993-07-03                  | DEA 1 Hour Special
+CP-518            | 1993-09-04                  | San Bernardino, CA 1
+CP-519            | 1992-08-22                  | Philadelphia, PA 1
+CP-520            | 1992-08-29                  | Philadelphia, PA 2
+CP-521            | 1992-08-15                  | Philadelphia, PA 3
+CP-522            | 1992-09-05                  | Philadelphia, PA 4
+CP-523            | 1992-09-12                  | Philadelphia, PA 5
+CP-524            | 1992-10-10                  | Philadelphia, PA 6
+CP-525            | 1992-10-24                  | Philadelphia, PA 7
+CP-526            | 1993-02-06                  | Fort Worth, TX 1
+CP-527            | 1993-02-13                  | Fort Worth, TX 2
+CP-528            | 1993-02-20                  | Fort Worth, TX 3
+CP-529            | 1993-02-27                  | Fort Worth, TX 4
+CP-530            | 1993-03-20                  | Fort Worth, TX 5
+CP-531            | 1993-03-27                  | Fort Worth, TX 6
+CP-532            | 1993-04-03                  | Fort Worth, TX 7
+CP-533            | 1993-04-17                  | Fort Worth, TX 8
+CP-534            | 1993-04-24                  | Fort Worth, TX 9
+CP-535            | 1993-05-15                  | Fort Worth, TX 10
+CP-536            | 1993-05-22                  | Fort Worth, TX 11
+CP-537            | 1993-05-16                  | Fort Worth, TX 12
+CP-538            | 1993-06-05                  | Phoenix, AZ 1
+CP-539            | 1993-05-08                  | Phoenix, AZ 2
+CP-540            | 1993-05-01                  | Phoenix, AZ 3
+CP-541            | 1993-06-26                  | Phoenix, AZ 4
+CP-542            | 1993-07-10                  | San Bernardino, CA 2
+CP-543            | 1993-07-17                  | San Bernardino, CA 3
+CP-544            | 1993-07-24                  | San Bernardino, CA 4
+CP-545            | 1993-07-31                  | San Bernardino, CA 5
+CP-546            | 1993-05-29                  | United States Hour Special
+
+CP-601            | 1994-01-15                  | Sacramento, CA 1
+CP-602            | 1993-11-09                  | Sacramento, CA 2
+CP-603            | 1993-10-16                  | Sacramento, CA 3
+CP-604            | 1993-10-23                  | Sacramento, CA 4
+CP-605            | 1993-10-30                  | Sacramento, CA 5
+CP-606            | 1994-01-29                  | Sacramento, CA 6
+CP-607            | 1994-03-26                  | Sacramento, CA 7
+CP-608            | 1994-04-09                  | Sacramento, CA 8
+CP-609            | 1994-04-23                  | Sacramento, CA 9
+CP-610            | 1993-08-07                  | Nashville, TN 1
+CP-611            | 1993-08-14                  | Nashville, TN 2
+CP-612            | 1993-08-21                  | Nashville, TN 3
+CP-613            | 1993-08-28                  | Nashville, TN 4
+CP-614            | 1993-09-11                  | Nashville, TN 5
+CP-615            | 1993-09-15                  | Nashville, TN 6
+CP-616            | 1993-09-25                  | Nashville, TN 7
+CP-617            | 1994-06-04                  | Nashville, TN 8
+CP-618            | 1993-11-02                  | Nashville, TN 9
+CP-619            | 1994-12-17                  | El Paso, TX 1
+CP-620            | 1993-12-18                  | El Paso, TX 2
+CP-621            | 1994-01-08                  | El Paso, TX 3
+CP-622            | 1994-02-19                  | El Paso, TX 4
+CP-623            | 1994-03-05                  | El Paso, TX 5
+CP-624            | 1994-03-19                  | El Paso, TX 6
+CP-625            | 1994-04-02                  | El Paso, TX 7
+CP-626            | 1994-09-03                  | Indianapolis, IN 1
+CP-627            | 1994-09-10                  | Indianapolis, IN 2
+CP-628            | 1993-11-06                  | In Hot Pursuit
+CP-629            | 1993-11-13                  | Cleveland, OH 1
+CP-630            | 1993-11-20                  | Cleveland, OH 2
+CP-631            | 1993-11-27                  | Cleveland, OH 3
+CP-632            | 1993-12-04                  | Cleveland, OH 4
+CP-633            | 1993-12-18                  | Cleveland, OH 5
+CP-634            | 1993-12-11                  | Cleveland, OH 6
+CP-635            | 1993-12-25                  | Cleveland, OH 7
+CP-636            | 1994-02-26                  | Cleveland, OH 8
+CP-637            | 1994-01-01                  | New York City Subway Special
+CP-638            | 1994-07-09                  | Little Rock, AR 1
+CP-639            | 1994-02-07                  | Little Rock, AR 2
+CP-640            | 1994-04-16                  | Little Rock, AR 3
+CP-641            | 1994-07-16                  | Little Rock, AR 4
+CP-642            | 1994-04-30                  | Indianapolis, IN 3
+CP-643            | 1994-09-17                  | Indianapolis, IN 4
+CP-644            | 1994-05-07                  | Indianapolis, IN 5
+CP-645            | 1994-09-24                  | Indianapolis, IN 6
+CP-646            | 1994-06-18                  | Hong Kong Special
+
+CP-701            | 1994-05-14                  | Los Angeles, CA 14
+CP-702            | 1994-05-21                  | Los Angeles, CA 15
+CP-703            | 1994-07-30                  | Los Angeles, CA 16
+CP-704            | 1994-08-20                  | Los Angeles, CA 17
+CP-705            | 1994-08-06                  | Los Angeles, CA 18
+CP-706            | 1994-08-13                  | Los Angeles, CA 19
+CP-707            | 1994-10-01                  | Los Angeles, CA 20
+CP-708            | 1994-10-08                  | Los Angeles, CA 21
+CP-709            | 1994-10-15                  | Los Angeles, CA 22
+CP-710            | 1994-10-22                  | Los Angeles, CA 23
+CP-711            | 1995-01-07                  | Los Angeles, CA 24
+CP-712            | 1994-10-29                  | Los Angeles, CA 25
+CP-713            | 1994-12-03                  | Los Angeles, CA 26
+CP-714            | 1994-12-10                  | Los Angeles, CA 27
+CP-715            | 1995-01-21                  | Los Angeles, CA 28
+CP-716            | 1995-02-11                  | Las Vegas, NV 9
+CP-717            | 1995-02-18                  | Las Vegas, NV 10
+CP-718            | 1995-03-04                  | Las Vegas, NV 11
+CP-719            | 1995-04-15                  | Las Vegas, NV 12
+CP-720            | 1995-05-06                  | Las Vegas, NV 13
+CP-721            | 1995-07-08                  | Las Vegas, NV 14
+CP-722            | 1995-07-22                  | Las Vegas, NV 15
+CP-723            | 1994-11-19                  | Kansas City 9
+CP-724            | 1995-03-11                  | Kansas City 10
+CP-725            | 1995-02-04                  | Kansas City 11
+CP-726            | 1995-03-18                  | Kansas City 12
+CP-727            | 1995-04-01                  | Kansas City 13
+CP-728            | 1995-04-08                  | Kansas City 14
+CP-729            | 1995-04-29                  | Kansas City 15
+CP-730            | 1995-04-22                  | Kansas City 16
+CP-731            | 1995-05-20                  | Los Angeles, CA 29
+CP-732            | 1995-07-15                  | Los Angeles, CA 30
+CP-733            | 1994-10-20                  | New York City 1
+CP-734            | 1994-10-20                  | New York City 2
+CP-735            | 1994-11-05                  | New York City 3
+CP-736            | 1994-11-12                  | New York City 4
+BOC-003           | 1995-06-03                  | Best of Cops 3
+BOC-004           | 1995-06-10                  | Best of Cops 4
+BOC-005           | 1995-06-17                  | Best of Cops 5
+BOC-006           | 1995-06-24                  | Best of Cops 6
+BOC-007           | 1995-07-01                  | Best of Cops 7
+
+CP-801            | 1996-02-24                  | Mardi Gras 1995 Pt 1
+CP-802            | 1996-02-17                  | Mardi Gras 1995 Pt 2
+CP-803            | 1995-12-16                  | New Orleans, LA
+CP-804            | 1995-09-30                  | Tampa, FL 3
+CP-805            | 1995-10-14                  | Tampa, FL 4
+CP-806            | 1995-11-25                  | Tampa, FL 5
+CP-807            | 1995-07-29                  | Tampa, FL 6
+CP-808            | 1995-11-18                  | Tampa, FL 7
+CP-809            | 1996-03-02                  | Tampa, FL 8
+CP-810            | 1996-03-16                  | Tampa, FL 9
+CP-811            | 1996-03-23                  | Tampa, FL 10
+CP-812            | 1995-09-16                  | Tampa, FL 11
+CP-813            | 1995-10-28                  | Dallas, TX 1
+CP-814            | 1995-09-23                  | Dallas, TX 2
+CP-815            | 1995-11-11                  | Dallas, TX 3
+CP-816            | 1995-09-09                  | Fort Worth, TX 14
+CP-817            | 1995-12-02                  | Fort Worth, TX 15
+CP-818            | 1996-03-30                  | Dallas, TX 4
+CP-819            | 1996-05-11                  | Dallas, TX 5
+CP-820            | 1995-10-07                  | Buffalo, NY 1
+CP-821            | 1995-10-21                  | Buffalo, NY 2
+CP-822            | 1995-12-09                  | Buffalo, NY 3
+CP-823            | 1995-12-23                  | Buffalo, NY 4
+CP-824            | 1996-01-06                  | Buffalo, NY 5
+CP-825            | 1996-01-13                  | Buffalo, NY 6
+CP-826            | 1996-01-27                  | Buffalo, NY 7
+CP-827            | 1996-02-03                  | Albuquerque, NM 1
+CP-828            | 1996-02-10                  | Albuquerque, NM 2
+CP-829            | 1996-04-06                  | Albuquerque, NM 3
+CP-830            | 1996-04-13                  | Albuquerque, NM 4
+CP-831            | 1996-05-04                  | Albuquerque, NM 5
+CP-832            | 1996-05-25                  | Albuquerque, NM 6
+CP-833            | 1996-05-18                  | Albuquerque, NM 7
+CP-834            | 1996-06-22                  | Albuquerque, NM 8
+CP-835            | 1996-06-29                  | Albuquerque, NM 9
+CP-836            | 1996-04-27                  | Orange County, CA 1
+CP-837            | 1996-07-06                  | Orange County, CA 2
+CP-838            | 1996-07-13                  | Orange County, CA 3
+S-901             | 1996-02-05                  | Best Chases
+S-902             | 1996-02-06                  | 911 Calls
+S-903             | 1996-02-07                  | Best Drug Busts
+S-904             | 1996-02-08                  | Best Stings
+S-905             | 1996-02-09                  | Classic Cops
+
+CP-901            | 1996-08-31                  | Miami, FL 11
+CP-902            | 1996-09-07                  | Miami, FL 12
+CP-903            | 1996-09-21                  | Miami, FL 13
+CP-904            | 1996-09-28                  | Miami, FL 14
+CP-905            | 1996-10-05                  | Miami, FL 15
+CP-906            | 1996-10-12                  | Miami, FL 16
+CP-907            | 1996-11-02                  | Miami, FL 17
+CP-908            | 1996-11-02                  | Boston/New City, MA
+CP-909            | 1996-11-09                  | Providence, RI 1
+CP-910            | 1996-11-16                  | Providence, RI 2
+CP-911            | 1996-09-23                  | Providence, RI/Boston 1
+CP-912            | 1996-12-21                  | Providence, RI/Boston 2
+CP-913            | 1996-11-30                  | Miami, FL 18
+CP-914            | 1996-12-07                  | Miami, FL 19
+CP-915            | 1997-01-04                  | Boston, MA 8
+CP-916            | 1997-02-01                  | Pierce County WA 10
+CP-917            | 1997-02-08                  | Pierce County WA 11
+CP-918            | 1997-01-11                  | Pierce County WA 12
+CP-919            | 1997-02-22                  | Pierce County WA 13
+CP-920            | 1997-02-15                  | Pierce County WA 14
+CP-921            | 1997-01-25                  | Pierce County WA 15
+CP-922            | 1997-03-08                  | Pierce County WA 16
+CP-923            | 1997-05-03                  | Pierce County WA 17
+CP-924            | 1997-03-22                  | Pierce County WA 18
+CP-925            | 1997-05-17                  | Pierce County WA 19
+CP-926            | 1997-03-01                  | Pierce County WA 20
+CP-927            | 1997-03-29                  | Fresno, CA 1
+CP-928            | 1997-04-12                  | Fresno, CA 2
+CP-929            | 1997-04-19                  | Fresno, CA 3
+CP-930            | 1997-07-26                  | Fresno, CA 4
+CP-931            | 1997-06-14                  | Fort Myers, FL 1
+CP-932            | 1997-04-26                  | Fort Myers, FL 2
+CP-933            | 1997-06-21                  | Fort Myers, FL 3
+CP-934            | 1997-05-10                  | Fort Myers, FL 4
+CP-935            | 1997-07-12                  | Fort Myers, FL 5
+CP-936            | 1997-07-12                  | Fort Myers, FL 6
+
+CP-1001           | 1997-10-25                  | Las Vegas, NV 16
+CP-1002           | 1997-09-13                  | Las Vegas, NV 17
+CP-1003           | 1997-10-04                  | Las Vegas, NV 18
+CP-1004           | 1997-09-27                  | Las Vegas, NV 19
+CP-1005           | 1997-09-20                  | Las Vegas, NV 20
+CP-1006           | 1997-09-06                  | Las Vegas, NV 21
+CP-1007           | 1997-10-11                  | Las Vegas, NV 22
+CP-1008           | 1997-11-01                  | Las Vegas, NV 23
+CP-1009           | 1997-11-15                  | Las Vegas, NV 24
+CP-1010           | 1997-12-06                  | Las Vegas, NV 25
+CP-1011           | 1997-12-13                  | Las Vegas, NV 26
+CP-1012           | 1998-01-24                  | Las Vegas, NV 27
+CP-1013           | 1998-03-14                  | Las Vegas, NV 28
+CP-1014           | 1998-02-14                  | Las Vegas Prostitution Special
+CP-1015           | 1997-11-08                  | Kansas City 17
+CP-1016           | 1997-11-22                  | Kansas City 18
+CP-1017           | 1998-01-10                  | Kansas City 19
+CP-1018           | 1998-01-17                  | Kansas City 20
+CP-1019           | 1998-01-31                  | Kansas City 21
+CP-1020           | 1998-02-28                  | Kansas City 22
+CP-1021           | 1998-03-07                  | Kansas City 23
+CP-1022           | 1998-05-02                  | Kansas City 24
+CP-1023           | 1998-05-16                  | Kansas City 25
+CP-1024           | 1998-08-01                  | Kansas City 26
+CP-1025           | 1998-04-04                  | Nashville, TN 11
+CP-1026           | 1998-06-20                  | Nashville, TN 12
+CP-1027           | 1998-06-27                  | Nashville, TN 13
+CP-1028           | 1998-02-07                  | Texas 1
+CP-1029           | 1998-04-18                  | Texas 2
+CP-1030           | 1998-07-25                  | Texas 3
+CP-1031           | 1998-03-21                  | Texas 4
+CP-1032           | 1998-02-14                  | Texas 5
+CP-1033           | 1998-04-25                  | Texas 6
+CP-1034           | 1998-05-09                  | Texas 7
+CP-1035           | 1998-07-18                  | Kansas City 27
+CP-1036           | 1998-02-07                  | Sturgis Biker Rally 1997 Special
+
+CP-1101           | 1998-10-24                  | Atlanta, GA 1
+CP-1102           | 1998-09-12                  | Atlanta, GA 2
+CP-1103           | 1998-10-03                  | Atlanta, GA 3
+CP-1104           | 1998-09-19                  | Atlanta, GA 4
+CP-1105           | 1998-09-26                  | Atlanta, GA 5
+CP-1106           | 1998-10-24                  | Atlanta, GA 6
+CP-1107           | 1998-10-10                  | Atlanta, GA 7
+CP-1108           | 1998-12-05                  | Atlanta, GA 8
+CP-1109           | 1998-12-19                  | Atlanta, GA 9
+CP-1110           | 1999-01-09                  | Atlanta, GA 10
+CP-1111           | 1999-01-16                  | Atlanta, GA 11
+CP-1112           | 1999-01-23                  | Atlanta, GA 12
+CP-1113           | 1999-03-06                  | Atlanta, GA 13
+CP-1114           | 1998-10-31                  | Virginia Beach, VA 1
+CP-1115           | 1998-11-07                  | Virginia Beach, VA 2
+CP-1116           | 1999-03-13                  | Virginia Beach, VA 3
+CP-1117           | 1998-11-14                  | Virginia Beach, VA 4
+CP-1118           | 1998-11-21                  | Virginia Beach, VA 5
+CP-1119           | 1999-04-03                  | Virginia Beach, VA 6
+CP-1120           | 1999-01-30                  | Palm Beach, FL 1
+CP-1121           | 1999-02-06                  | Palm Beach, FL 2
+CP-1122           | 1999-06-12                  | Palm Beach, FL 3
+CP-1123           | 1999-06-26                  | Palm Beach, FL 4
+CP-1124           | 1999-09-04                  | Palm Beach, FL 5
+CP-1125           | 1999-02-20                  | Palm Beach, FL 6
+CP-1126           | 1999-06-19                  | Palm Beach, FL 7
+CP-1127           | 1999-02-13                  | Palm Beach, FL 8
+CP-1128           | 1999-03-27                  | Palm Beach, FL 9
+CP-1129           | 1999-04-10                  | Palm Beach, FL 10
+CP-1130           | 1999-04-24                  | Palm Beach, FL 11
+CP-1131           | 1999-05-08                  | Arizona 1
+CP-1132           | 1999-07-31                  | Arizona 2
+CP-1133           | 1999-05-01                  | Arizona 3
+CP-1134           | 1999-05-15                  | Arizona 4
+CP-1135           | 1999-05-22                  | Arizona 5
+CP-1136           | 1999-09-18                  | Arizona 6
+
+CP-1201           | 1999-09-11                  | Indianapolis, IN 8
+CP-1202           | 2000-01-15                  | Indianapolis, IN 9
+CP-1203           | 1999-09-25                  | Indianapolis, IN 10
+CP-1204           | 1999-10-09                  | Indianapolis, IN 11
+CP-1205           | 1999-10-30                  | Indianapolis, IN 12
+CP-1206           | 1999-12-11                  | Indianapolis, IN 13
+CP-1207           | 1999-12-18                  | Indianapolis, IN 14
+CP-1208           | 2000-01-15                  | Indianapolis, IN 15
+CP-1209           | 1999-10-02                  | Indianapolis, IN 16
+CP-1210           | 1999-11-06                  | Indianapolis, IN 17
+CP-1211           | 1999-11-06                  | Fort Worth, TX 16
+CP-1212           | 1999-11-20                  | Fort Worth, TX 17
+CP-1213           | 1999-11-27                  | Fort Worth, TX 18
+CP-1214           | 1999-12-04                  | Fort Worth, TX 19
+CP-1215           | 1999-11-13                  | Fort Worth: Chases Special Edition
+CP-1216           | 2000-01-08                  | Fort Worth, TX 21
+CP-1217           | 2000-01-22                  | Fort Worth, TX 22
+CP-1218           | 2000-01-29                  | Fort Worth, TX 23
+CP-1219           | 2000-02-19                  | Fort Worth, TX 24
+CP-1220           | 2000-03-04                  | Fort Worth, TX 25
+CP-1221           | 2000-03-18                  | Fort Worth, TX 26
+CP-1222           | 2000-03-25                  | Fort Worth, TX 27
+CP-1223           | 2000-04-08                  | Fort Worth, TX 28
+CP-1224           | 2000-04-22                  | Fort Worth, TX 29
+CP-1225           | 2000-02-05                  | Albuquerque, NM 10
+CP-1226           | 2000-02-12                  | Albuquerque, NM 11
+CP-1227           | 2000-02-19                  | Albuquerque, NM 12
+CP-1228           | 2000-02-26                  | Albuquerque, NM 13
+CP-1229           | 2000-04-15                  | Albuquerque, NM 14
+CP-1230           | 2000-04-29                  | Albuquerque, NM 15
+CP-1231           | 2000-05-06                  | Albuquerque, NM 16
+CP-1232           | 2000-05-13                  | Albuquerque, NM 17
+CP-1233           | 2000-05-20                  | Albuquerque, NM 18
+CP-1234           | 2000-07-15                  | Albuquerque, NM 19
+CP-1235           | 2000-07-22                  | Albuquerque, NM 20
+CP-1236           | 2000-07-29                  | Albuquerque, NM 21
+
+CP-1301           | 2000-05-20                  | Jacksonville: Cops/AMW Crossover
+CP-1302           | 2000-09-02                  | Jacksonville, FL 2
+CP-1303           | 2000-08-26                  | Jacksonville, FL 3
+CP-1304           | 2000-08-19                  | Jacksonville, FL 4
+CP-1305           | 2000-09-09                  | Jacksonville, FL 5
+CP-1306           | 2000-10-14                  | Jacksonville, FL 6
+CP-1307           | 2000-12-02                  | Jacksonville, FL 7
+CP-1308           | 2000-12-16                  | Jacksonville, FL 8
+CP-1309           | 2001-01-06                  | Jacksonville, FL 9
+CP-1310           | 2001-01-13                  | Jacksonville, FL 10
+CP-1311           | 2001-01-20                  | Jacksonville: AMW Crossover Follow-Up
+CP-1312           | 2001-01-27                  | Pierce County WA 21
+CP-1313           | 2000-11-04                  | Pierce County WA 22
+CP-1314           | 2000-11-11                  | Pierce County WA 23
+CP-1315           | 2000-11-18                  | Pierce County WA 24
+CP-1316           | 2000-11-25                  | Pierce County WA 25
+CP-1317           | 2001-03-03                  | Pierce County WA 26
+CP-1318           | 2001-03-10                  | Pierce County WA 27
+CP-1319           | 2001-03-17                  | Pierce County WA 28
+CP-1320           | 2000-11-04                  | Pierce County WA 29
+CP-1321           | 2001-03-24                  | Pierce County WA 30
+CP-1322           | 2001-04-07                  | Pierce County WA 31
+CP-1323           | 2000-04-14                  | Pierce County WA 32
+CP-1324           | 2001-04-28                  | Pierce County WA 33
+CP-1325           | 2001-05-05                  | Pierce County WA 34
+CP-1326           | 2001-05-12                  | Pierce County WA 35
+CP-1327           | 2001-02-03                  | New Jersey 6
+CP-1328           | 2001-02-10                  | New Jersey 7
+CP-1329           | 2001-02-17                  | New Jersey 8
+CP-1330           | 2001-02-24                  | New Jersey 9
+CP-1331           | 2001-04-28                  | Arizona 7
+CP-1332           | 2001-05-05                  | Arizona 8
+CP-1333           | 2001-05-12                  | Arizona 9
+CP-1334           | 2001-05-19                  | Arizona 10
+CP-1335           | 2001-05-19                  | Mesa, AZ 1
+CP-1336           | 2001-07-07                  | Mesa, AZ 2
+CP-1337           | 2001-02-21                  | Caught in the Act
+CP-1338           | 2001-02-24                  | Stupid Criminals AKA Dumbest Suspects
+CP-1339           | 2001-02-25                  | Hot Pursuits AKA Intense Chases/Wildest Chases
+CP-1340           | 2001-02-26                  | Animals in Danger AKA Ferocious Animals or Animal Encounters
+S-1301            | 2001-05-??                  | Greatest Moments 2 hours
+
+CP-1401           | 2001-12-01                  | Palm Beach County FL 12
+CP-1402           | 2001-12-15                  | Palm Beach County FL 13
+CP-1403           | 2002-01-05                  | Palm Beach County FL 14
+CP-1404           | 2002-03-06                  | Palm Beach County FL 15
+CP-1405           | 2002-03-23                  | Palm Beach County FL 16
+CP-1406           | 2002-04-13                  | Palm Beach County FL 17
+CP-1407           | 2002-04-20                  | Palm Beach County FL 18
+CP-1408           | 2001-09-01                  | Palm Beach County FL 19
+CP-1409           | 2001-09-01                  | Atlanta, GA 12
+CP-1410           | 2001-09-08                  | Coast to Coast 1
+CP-1411           | 2001-11-10                  | Coast to Coast 2
+CP-1412           | 2001-09-15                  | Coast to Coast 3
+CP-1413           | 2001-09-22                  | Coast to Coast 4
+CP-1414           | 2001-09-29                  | Coast to Coast 5
+CP-1415           | 2001-10-06                  | Coast to Coast 6
+CP-1416           | 2001-11-17                  | Coast to Coast 7
+CP-1417           | 2001-11-24                  | Coast to Coast 8
+CP-1418           | 2001-12-01                  | Coast to Coast 9
+CP-1419           | 2002-01-19                  | Coast to Coast 10
+CP-1420           | 2002-02-02                  | Coast to Coast 11
+CP-1421           | 2002-01-12                  | Coast to Coast 12
+CP-1422           | 2002-01-26                  | Coast to Coast 13
+CP-1423           | 2002-02-09                  | Coast to Coast 14
+CP-1424           | 2002-02-16                  | Coast to Coast 15
+CP-1425           | 2002-02-23                  | Coast to Coast 16
+CP-1426           | 2002-03-02                  | Coast to Coast 17
+CP-1427           | 2002-02-23                  | Coast to Coast 18
+CP-1428           | 2002-03-09                  | Coast to Coast 19
+CP-1429           | 2002-03-16                  | Coast to Coast 20
+CP-1430           | 2002-04-06                  | Coast to Coast 21
+CP-1431           | 2002-04-27                  | Coast to Coast 22
+CP-1432           | 2002-04-27                  | Coast to Coast 23
+CP-1433           | 2002-09-21                  | Coast to Coast 24
+CP-1434           | 2002-04-27                  | Naked Cops 1 Special Edition
+CP-1435           | 2002-04-27                  | Too Hot for Fox Special Edition
+CP-1436           | 2002-09-14                  | Extreme Cops
+
+CP-1501           | 2002-05-04                  | Coco the Clown
+CP-1502           | 2002-05-18                  | Mardi Gras 2002 Pt 1
+CP-1503           | 2002-05-18                  | Mardi Gras 2002 Pt 2
+CP-1504           | 2002-12-14                  | Coast to Coast 25
+CP-1505           | 2002-12-07                  | Coast to Coast 26
+CP-1506           | 2003-01-18                  | Coast to Coast 27
+CP-1507           | 2003-01-25                  | Coast to Coast 28
+CP-1508           | 2003-01-25                  | Coast to Coast 29
+CP-1509           | 2002-11-16                  | Coast to Coast 30
+CP-1510           | 2003-10-01                  | Coast to Coast 31
+CP-1511           | 2002-11-23                  | Coast to Coast 32
+CP-1512           | 2003-03-08                  | Coast to Coast 33
+CP-1513           | 2003-03-15                  | Coast to Coast 34
+CP-1514           | 2003-03-22                  | Coast to Coast 35
+CP-1515           | 2003-02-15                  | Domestic Disturbance Special Edition
+CP-1516           | 2003-04-12                  | Coast to Coast 36
+CP-1517           | 2003-04-19                  | Coast to Coast 37
+CP-1518           | 2002-09-14                  | Grand Theft Auto 1 Special Edition
+CP-1519           | 2002-11-09                  | Coast to Coast 38
+CP-1520           | 2002-11-02                  | Shots Fired Special Edition
+CP-1521           | 2002-09-28                  | Kids in Peril Special Edition
+CP-1522           | 2003-04-19                  | Coast to Coast 39
+CP-1523           | 2003-04-26                  | Coast to Coast 40
+CP-1524           | 2003-05-03                  | Coast to Coast 41
+CP-1525           | 2003-07-12                  | Coast to Coast 42
+CP-1526           | 2003-05-03                  | Coast to Coast 43
+CP-1527           | 2002-11-23                  | Bad Girls! 1 Special Edition
+CP-1528           | 2003-07-19                  | Coast to Coast 44
+CP-1529           | 2003-07-26                  | Coast to Coast 45
+CP-1530           | 2003-08-02                  | Coast to Coast 46
+CP-1531           | 2003-02-22                  | Stun Gun Special Edition
+CP-1532           | 2003-09-20                  | Coast to Coast 47
+CP-1533           | 2003-09-27                  | Coast to Coast 48
+CP-1534           | 2003-05-17                  | Guns Special Edition
+CP-1535           | 2003-05-17                  | Drug Enforcement Special Edition
+CP-1536           | 2003-02-01                  | Bad Girls! 2 Special Edition
+
+CP-1601           | 2003-05-10                  | Bad Girls! 3 Mardi Gras Special Edition
+CP-1602           | 2003-04-26                  | Mardi Gras 2003 Pt 2
+CP-1603           | 2003-12-06                  | Coast to Coast 49
+CP-1604           | 2003-11-22                  | Bad Girls! 4 Special Edition
+CP-1605           | 2003-12-13                  | Coast to Coast 50
+CP-1606           | 2004-01-03                  | Coast to Coast 51
+CP-1607           | 2004-01-10                  | Coast to Coast 52
+CP-1608           | 2004-01-17                  | Coast to Coast 53
+CP-1609           | 2003-11-03                  | Resisting Arrest Special Edition
+CP-1610           | 2004-01-24                  | Foolish Criminals Special Edition
+CP-1611           | 2003-09-13                  | Rescues 1 Special Edition
+CP-1612           | 2004-03-06                  | Coast to Coast 54
+CP-1613           | 2003-09-13                  | Rescues 2 Special Edition
+CP-1614           | 2004-01-31                  | Coast to Coast 55
+CP-1615           | 2004-02-21                  | Stupid Criminals Special Edition
+CP-1616           | 2004-02-07                  | War on Drugs 1 Special Edition
+CP-1617           | 2004-05-01                  | Drug Busts 2 Special Edition
+CP-1618           | 2003-11-03                  | Jersey Cop Special Edition
+CP-1619           | 2004-03-13                  | Coast to Coast 56
+CP-1620           | 2004-03-20                  | Coast to Coast 57
+CP-1621           | 2004-04-03                  | Coast to Coast 58
+CP-1622           | 2004-04-10                  | Coast to Coast 59
+CP-1623           | 2004-04-17                  | Coast to Coast 60
+CP-1624           | 2003-11-01                  | Naked Cops 2 Special Edition AKA Naked Perps or Perpetrators.
+CP-1625           | 2004-05-22                  | Bad Girls! 5 Special Edition
+CP-1626           | 2004-04-24                  | Coast to Coast 61
+CP-1627           | 2004-02-07                  | War on Drugs 2 Special Edition
+CP-1628           | 2004-07-10                  | Coast to Coast 62
+CP-1629           | 2004-02-28                  | Armed & Dangerous Special Edition
+CP-1630           | 2004-07-17                  | Coast to Coast 63
+CP-1631           | 2004-07-24                  | Coast to Coast 64
+CP-1632           | 2004-07-31                  | Coast to Coast 65
+CP-1633           | 2004-05-08                  | Hide 'N Seek Special Edition
+CP-1634           | 2003-12-20                  | Ho! Ho! Ho! 1 Special Edition
+CP-1635           | 2004-10-02                  | Coast to Coast 66
+CP-1636           | 2004-02-28                  | Guns & Drugs Special Edition
+CP-1637           | 2004-03-06                  | Resisting Arrest 2 Special Edition
+CP-1638           | 2004-02-14                  | Love Hurts 2 Hour Special AKA Crimes of Passion.
+CP-1639           | 2004-02-14                  | Love Hurts 2 Hour Special AKA Crimes of Passion.
+CP-1640           | 2004-05-01                  | Caught Red Handed -- 15 Greatest Takedowns
+CP-1641           | 2004-05-01                  | Caught Red Handed -- 15 Greatest Takedowns
+
+CP-1701           | 2004-05-15                  | Mardi Gras 2004 Pt 1
+CP-1702           | 2004-05-15                  | Mardi Gras 2004 Pt 2
+CP-1703           | 2004-09-11                  | Coast to Coast 67
+CP-1704           | 2004-09-11                  | Coast to Coast 68
+CP-1705           | 2004-09-18                  | Coast to Coast 69
+CP-1706           | 2004-09-25                  | Resisting Arrest 3 Special Edition
+CP-1707           | 2004-12-04                  | Coast to Coast 70
+CP-1708           | 2005-01-08                  | Maui Wowie Special Edition
+CP-1709           | 2005-03-05                  | Coast to Coast 71
+CP-1710           | 2004-11-06                  | Tased and Confused Special Edition
+CP-1711           | 2005-08-06                  | Coast to Coast 72
+CP-1712           | 2004-12-11                  | Ho! Ho! Ho! 2 Special Edition
+CP-1713           | 2005-01-22                  | Got a Habit Special Edition
+CP-1714           | 2005-05-21                  | Armed & Dangerous 2 Special Edition
+CP-1715           | 2005-01-29                  | Busts
+CP-1716           | 2005-02-19                  | Las Vegas Heat
+CP-1717           | 2005-02-19                  | Las Vegas Heat
+CP-1718           | 2005-02-05                  | Resisting Arrest 4 Special Edition
+CP-1719           | 2005-03-05                  | Coast to Coast 73
+CP-1720           | 2005-04-30                  | 600th Milestone Episode
+CP-1721           | 2004-11-13                  | Grand Theft Auto 2 Special Edition
+CP-1722           | 2005-05-14                  | Grand Theft Auto 3 Special Edition
+CP-1723           | 2005-04-16                  | Coast to Coast 74
+CP-1724           | 2004-11-19                  | Bad Girls! 6 Special Edition
+CP-1725           | 2005-04-09                  | High Times
+CP-1726           | 2005-03-19                  | Coast to Coast 75
+CP-1727           | 2005-04-30                  | Coast to Coast 76
+CP-1728           | 2005-04-30                  | Coast to Coast 77
+CP-1729           | 2005-07-02                  | Coast to Coast 78
+CP-1730           | 2005-02-05                  | High Crimes Special Edition
+CP-1731           | 2005-07-09                  | Coast to Coast 79
+CP-1732           | 2005-07-16                  | Coast to Coast 80
+CP-1733           | 2005-04-30                  | Caught in the Act Special
+CP-1734           | 2005-05-21                  | Bizarre Calls Special Edition
+CP-1735           | 2005-02-26                  | Bad Girls! 7 Special Edition
+CP-1736           | 2005-07-23                  | Coast to Coast 81
+
+CP-1801           | 2005-10-01                  | Coast to Coast 82
+CP-1802           | 2005-12-03                  | Coast to Coast 83
+CP-1803           | 2005-12-10                  | Coast to Coast 84
+CP-1804           | 2005-11-05                  | Coast to Coast 85
+CP-1805           | 2006-01-07                  | Coast to Coast 86
+CP-1806           | 2006-01-14                  | Coast to Coast 87
+CP-1807           | 2005-09-17                  | Coast to Coast 88
+CP-1808           | 2005-09-10                  | Coast to Coast 89
+CP-1809           | 2005-09-24                  | Coast to Coast 90
+CP-1810           | 2006-01-21                  | Coast to Coast 91
+CP-1811           | 2006-01-28                  | Coast to Coast 92
+CP-1812           | 2006-03-04                  | Coast to Coast 93
+CP-1813           | 2005-11-26                  | Las Vegas Heat 2 Special Edition
+CP-1814           | 2006-02-11                  | Las Vegas Heat 3 Special Edition
+CP-1815           | 2006-02-25                  | Coast to Coast 94
+CP-1816           | 2006-02-04                  | Coast to Coast 95
+CP-1817           | 2005-09-10                  | Coast to Coast 96
+CP-1818           | 2006-02-04                  | Coast to Coast 97
+CP-1819           | 2006-03-11                  | Coast to Coast 98
+CP-1820           | 2006-05-20                  | 650th Milestone Episode Special Edition
+CP-1821           | 2006-03-25                  | Coast to Coast 99
+CP-1822           | 2006-04-08                  | Coast to Coast 100
+CP-1823           | 2005-11-12                  | Bad Girls! 8 Special Edition
+CP-1824           | 2005-11-19                  | In Harms Way Special Edition
+CP-1825           | 2006-04-15                  | Coast to Coast 101
+CP-1826           | 2006-06-03                  | Coast to Coast 102
+CP-1827           | 2006-06-10                  | Coast to Coast 103
+CP-1828           | 2005-12-17                  | Ho! Ho! Ho! Special Edition 3
+CP-1829           | 2006-06-17                  | Coast to Coast 104
+CP-1830           | 2006-05-06                  | Bad Girls! 9 Special Edition
+CP-1831           | 2006-03-18                  | Coast to Coast 105
+CP-1832           | 2006-07-08                  | Coast to Coast 106
+CP-1833           | 2006-05-20                  | Palm Springs Weekend Special
+CP-1834           | 2006-07-15                  | Coast to Coast 107
+CP-1835           | 2006-04-29                  | Drug Arrests Special Edition
+CP-1836           | 2006-07-22                  | Coast to Coast 108
+
+CP-1901           | 2006-09-09                  |  Coast to Coast 109
+CP-1902           | 2006-09-16                  |  Coast to Coast 110
+CP-1903           | 2006-09-23                  |  Coast to Coast 111
+CP-1904           | 2006-09-09                  |  Coast to Coast 112
+CP-1905           | 2006-11-11                  |  Florida Heat 1 Special Edition
+CP-1906           | 2006-11-04                  |  Drug Arrests 2 Special Edition
+CP-1907           | 2006-09-30                  |  Coast to Coast 113
+CP-1908           | 2006-11-18                  |  Police Chases Special Edition
+CP-1909           | 2007-02-03                  |  Florida Heat 2 Special Edition
+CP-1910           | 2007-04-28                  |  Police Pullovers 1 Special Edition
+CP-1911           | 2006-12-02                  |  Coast to Coast 114
+CP-1912           | 2007-05-19                  |  High Crimes 2 Special Edition
+CP-1913           | 2006-12-09                  |  Coast to Coast 115
+CP-1914           | 2007-07-21                  |  Family Ties Special Edition
+CP-1915           | 2006-12-23                  |  Coast to Coast 116
+CP-1916           | 2007-02-24                  |  Liar Liar Special Edition
+CP-1917           | 2007-01-07                  |  Coast to Coast 117
+CP-1918           | 2007-05-19                  |  Ohio Drug Arrests Special Edition
+CP-1919           | 2007-01-20                  |  Coast to Coast 118
+CP-1920           | 2007-04-28                  |  Police Pullovers 2 Special Edition
+CP-1921           | 2007-01-27                  |  Coast to Coast 119
+CP-1922           | 2007-03-03                  |  Coast to Coast 120
+CP-1923           | 2006-12-16                  |  Ho! Ho! Ho! 4 Special Edition
+CP-1924           | 2007-03-10                  |  Coast to Coast 121
+CP-1925           | 2007-07-07                  |  High Crimes 3 Special Edition
+CP-1926           | 2007-03-17                  |  Coast to Coast 122
+CP-1927           | 2007-03-24                  |  Coast to Coast 123
+CP-1928           | 2007-04-07                  |  Coast to Coast 124
+CP-1929           | 2007-07-14                  |  Street Crimes Special Edition
+CP-1930           | 2007-02-17                  |  Tough Takedowns Special Edition
+CP-1931           | 2006-11-25                  |  Bad Girls! 10 Special Edition
+CP-1932           | 2007-06-02                  |  Coast to Coast 125
+CP-1933           | 2007-06-09                  |  Coast to Coast 126
+CP-1934           | 2007-06-16                  |  Coast to Coast 127
+CP-1935           | 2007-06-23                  |  Coast to Coast 128
+CP-1936           | 2007-07-28                  |  Coast to Coast 129
+
+CP-2001           | 2007-09-15                  | Coast to Coast 130
+CP-2002           | 2007-09-22                  | Coast to Coast 131
+CP-2003           | 2007-10-06                  | Coast to Coast 132
+CP-2004           | 2007-11-17                  | Police Pullovers 3 Special Edition
+CP-2005           | 2007-11-24                  | Stupid Criminals 2 Special Edition
+CP-2006           | 2007-11-03                  | Crimes in Progress Special Edition
+CP-2007           | 2007-09-08                  | Evidence...What Evidence? 1 Special Edition
+CP-2008           | 2007-11-10                  | 700th Milestone Episode
+CP-2009           | 2007-09-08                  | Coast to Coast 133
+CP-2010           | 2007-10-20                  | Coast to Coast 134
+CP-2011           | 2007-12-08                  | Coast to Coast 135
+CP-2012           | 2008-04-26                  | Caught in the Act 3 Special Edition
+CP-2013           | 2008-01-19                  | Coast to Coast 136
+CP-2014           | 2008-03-15                  | Strange Behavior 1 Special Edition
+CP-2015           | 2008-02-23                  | Stupid Criminals 3 Special Edition
+CP-2016           | 2008-01-26                  | Coast to Coast 137
+CP-2017           | 2008-02-23                  | War on Drugs 3 Special Edition
+CP-2018           | 2008-03-01                  | Takedowns Special Edition
+CP-2019           | 2008-05-17                  | Stupid Criminals 4 Special Edition
+CP-2020           | 2008-03-08                  | Coast to Coast 138
+CP-2021           | 2008-05-07                  | What Were They Thinking 1 Special Edition
+CP-2022           | 2007-12-15                  | Family Feuds Special Edition
+CP-2023           | 2008-04-19                  | In Denial Special Edition
+CP-2024           | 2008-02-16                  | Chases and Takedowns Special Edition
+CP-2025           | 2008-03-22                  | Coast to Coast 139
+CP-2026           | 2008-03-29                  | Coast to Coast 140
+CP-2027           | 2008-02-02                  | Stupid Behavior 1 Special Edition
+CP-2028           | 2008-05-31                  | Coast to Coast 141
+CP-2029           | 2008-07-12                  | Coast to Coast 142
+CP-2030           | 2008-06-14                  | What Were They Thinking 2 Special Edition
+CP-2031           | 2008-06-21                  | Stupid Behavior 2 Special Edition
+CP-2032           | 2008-08-02                  | Police Pullovers 4 Special Edition
+CP-2033           | 2008-07-19                  | Coast to Coast 143
+CP-2034           | 2008-02-02                  | Wild Chases Special Edition
+CP-2035           | 2008-02-16                  | Bad Girls! 11 Special Edition
+CP-2036           | 2008-07-26                  | Coast to Coast 144
+CP-2037           | 2007-09-29                  | 20 Years Caught on Tape
+CP-2038           | 2007-09-29                  | 20 Years Caught on Tape
+
+CP-2101           | 2008-09-06                  | What a Sap Special Edition
+CP-2102           | 2008-09-13                  | Stupid Behavior 3 Special Edition
+CP-2103           | 2008-09-20                  | Resisting Arrest 4 Special Edition
+CP-2104           | 2008-09-27                  | Black & Blue & White Special Edition
+CP-2105           | 2008-10-04                  | Coast to Coast 145
+CP-2106           | 2008-10-11                  | What! Who Me? Special Edition
+CP-2107           | 2008-09-06                  | Back to Broward Special Edition
+CP-2108           | 2008-11-01                  | Morons on Parade Special Edition
+CP-2109           | 2008-11-08                  | Anger Management Special Edition
+CP-2110           | 2008-11-15                  | Liar Liar 2 Special Edition
+CP-2111           | 2008-11-22                  | Evidence...What Evidence? 2 Special Edition
+CP-2112           | 2008-12-06                  | Coast to Coast 146
+CP-2113           | 2009-01-17                  | Coast to Coast 147
+CP-2114           | 2009-01-24                  | Coast to Coast 148
+CP-2115           | 2009-01-31                  | Coast to Coast 149
+CP-2116           | 2008-02-06                  | Coast to Coast 150
+CP-2117           | 2008-02-14                  | Upon Further Investigation Special Edition
+CP-2118           | 2009-02-21                  | Neighborhood Busts Special Edition
+CP-2119           | 2009-02-28                  | In Denial 2 Special Edition
+CP-2120           | 2009-03-07                  | Liar Liar 3 Special Edition
+CP-2121           | 2009-03-14                  | On the Run Special Edition
+CP-2122           | 2009-03-21                  | 750th Milestone Episode
+CP-2123           | 2009-03-28                  | Dazed and Confused Special Edition
+CP-2124           | 2009-03-28                  | High Crimes 4 Special Edition
+CP-2125           | 2009-04-25                  | From Bad to Worse Special Edition
+CP-2126           | 2008-12-13                  | Ho! Ho! Ho! 5 Special Edition
+CP-2127           | 2009-04-11                  | Coast to Coast 151
+CP-2128           | 2009-03-21                  | Bad Girls! 12 Special Edition
+CP-2129           | 2009-04-25                  | Police Pullovers 5 Special Edition
+CP-2130           | 2009-05-30                  | ?
+CP-2131           | 2009-06-06                  | ?
+CP-2132           | 2009-05-16                  | ?
+CP-2133           | 2009-07-11                  | Coast to Coast 155
+CP-2134           | 2009-07-18                  | Coast to Coast 156
+CP-2135           | 2009-05-16                  | Odd Arrests Special Edition
+CP-2136           | 2009-07-25                  | Coast to Coast 157
