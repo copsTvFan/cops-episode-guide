@@ -800,9 +800,9 @@ CP-2126           | 2008-12-13                  | Ho! Ho! Ho! 5 Special Edition
 CP-2127           | 2009-04-11                  | Coast to Coast 151
 CP-2128           | 2009-03-21                  | Bad Girls! 12 Special Edition
 CP-2129           | 2009-04-25                  | Police Pullovers 5 Special Edition
-CP-2130           | 2009-05-30                  | ?
-CP-2131           | 2009-06-06                  | ?
-CP-2132           | 2009-05-16                  | ?
+CP-2130           | 2009-05-30                  | Coast to Coast 153
+CP-2131           | 2009-06-06                  | Coast to Coast 154
+CP-2132           | 2009-05-16                  | Coast to Coast 152
 CP-2133           | 2009-07-11                  | Coast to Coast 155
 CP-2134           | 2009-07-18                  | Coast to Coast 156
 CP-2135           | 2009-05-16                  | Odd Arrests Special Edition
