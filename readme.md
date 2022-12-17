@@ -839,8 +839,8 @@ shots fired from two people, but it wasn't them.
 - (7:25 PM Hit and Run Accident) Deputy Glen Topping goes to where a gray
   Cadillac hit a woman in the street. The ambulance crew cleans her up and
   takes her away. A witness gets the plate 648-HUX
-- (8:40 PM Hit and Run Investigation) The plate comes back to someone born in
-  1910. They find the car at a house and go inside. The old women comes out and
+- (8:40 PM Hit and Run Investigation) The plate comes back to someone born in 1910.
+  They find the car at a house and go inside. The old women comes out and
   they show her the blood stains on the car, but she says it is rust. They also
   show her the hairs stuck there. They have to tow the car and she doesn't want
   them to, but it is evidence, it will be impounded and she might get it back.
