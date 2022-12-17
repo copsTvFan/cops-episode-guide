@@ -1,7 +1,7 @@
 # Cops Episode Guide
 
-* [Detailed guide](https://copstvfan.github.io/cops-episode-guide/guide).
-* [Brief guide](https://copstvfan.github.io/cops-episode-guide/brief.txt).
+* [Detailed guide](https://copstvfan.github.io/cops-episode-guide/guide)
+* [Brief guide](https://copstvfan.github.io/cops-episode-guide/brief.txt)
 
 # Context
 
@@ -24,3 +24,7 @@ are also welcome (`copsTvFan` *at* `protonmail.com`).
 - Wikipedia:
     - [seasons 1–20](<https://en.wikipedia.org/wiki/List_of_Cops_episodes_(seasons_1%E2%80%9320)>)
     - [season 21–present](<https://en.wikipedia.org/wiki/List_of_Cops_episodes_(season_21%E2%80%93present)>)
+
+## Guides comparison
+
+See <https://github.com/copsTvFan/cops-episode-guide/blob/master/guides-comparison.csv>.
