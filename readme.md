@@ -24,6 +24,14 @@ are also welcome (`copsTvFan` *at* `protonmail.com`).
 - Wikipedia:
     - [seasons 1–20](<https://en.wikipedia.org/wiki/List_of_Cops_episodes_(seasons_1%E2%80%9320)>)
     - [season 21–present](<https://en.wikipedia.org/wiki/List_of_Cops_episodes_(season_21%E2%80%93present)>)
+- Aaron Greenhouse's guide (seasons 7-13)
+    - [season 7](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops07.html)
+    - [season 8](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops08.html)
+    - [season 9](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops09.html)
+    - [season 10](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops10.html)
+    - [season 11](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops11.html)
+    - [season 12](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops12.html)
+    - [season 13](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops13.html)
 
 ## Guides comparison
 
