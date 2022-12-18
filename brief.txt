@@ -69,7 +69,7 @@ CP-320            | 1991-02-09                  | New Jersey 3
 CP-321            | 1991-02-16                  | New Jersey 4
 CP-322            | 1991-02-23                  | New Jersey 5
 CP-323            | 1991-03-02                  | Pittsburgh, PA 1
-CP-324            | 1991-03-09                  | - Pittsburgh, PA 2
+CP-324            | 1991-03-09                  | Pittsburgh, PA 2
 CP-325            | 1991-03-16                  | Tampa, FL 1
 CP-326            | 1991-04-06                  | Tampa, FL 2
 CP-327            | 1991-04-13                  | Tucson, AZ 1

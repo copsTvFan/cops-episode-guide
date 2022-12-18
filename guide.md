@@ -7181,7 +7181,7 @@ Aired 1995-06-03.
 
 **Best of Cops 3**
 
-- (Pomona, CA -- 12:03 AM Car Chase) Officer Dale La Fluer joins a hit and run
+- Pomona, CA (12:03 AM Car Chase) Sgt. Dale La Fleur joins a hit and run
   pursuit and calls it. The Asian driver won't stop even though his tires are
   blown and his engine is smoking, his hubcaps come off, sparks are flying and
   he's down to 5mph on his rims. He wanders into the opposite lane and crashes
