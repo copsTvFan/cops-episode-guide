@@ -371,7 +371,7 @@ Aired 1989-04-15.
   go outside and film through the door. They say she has to fill out a report.
   The cop says there is nowhere for him to sleep. She leaves crying at the
   conditions there. No crib, no blanket, nothing. Super Bowl Sunday
-- (4:30 Domestic Violence Call) Deputy Mike Hoffman talks to a woman who says
+- (4:30 PM Domestic Violence Call) Deputy Mike Hoffman talks to a woman who says
   her guy isn't scared of jail. She has to file to get rid of him, but won't do
   it.
 - (5:10 PM Possible Gang Fight) Mike says he'll never finish the shift with
