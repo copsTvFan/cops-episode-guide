@@ -32,6 +32,8 @@ are also welcome (`copsTvFan` *at* `protonmail.com`).
     - [season 11](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops11.html)
     - [season 12](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops12.html)
     - [season 13](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops13.html)
+- [The Futon Critic](http://www.thefutoncritic.com/showatch/cops/listings/) (S16E35+)
+- [TV Tango](http://www.tvtango.com/series/cops/episodes)
 
 ## Guides comparison
 

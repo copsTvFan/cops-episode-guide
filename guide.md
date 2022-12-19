@@ -10309,10 +10309,12 @@ dealer, the front 2 are users. The white guy says he's innocent. They find 2
 guys walking away and Miguel and Officer Ronald Scott catch them, but are out
 of cuffs. Officer Richard Everhart was undercover and bought from them and they
 swallowed the drugs. The dealer has pants with a special pocket to hide the
-drugs, but won't say if he made the pants himself. Supposed to be Trannys Gone
-Wild -- A Florida sheriff's deputy responds to a call and finds a transgender
-stabbing victim who had been working as a 'stroll girl.' Even in reruns it's
-listed, but this episode always plays instead, so Trannys doesn't exist.
+drugs, but won't say if he made the pants himself.
+
+Supposed to be Trannys Gone Wild -- A Florida sheriff's deputy responds to a
+call and finds a transgender stabbing victim who had been working as a 'stroll
+girl.' Even in reruns it's listed, but this episode always plays instead, so
+Trannys doesn't exist.
 
 ## CP-1708
 
