@@ -4116,7 +4116,9 @@ the game and wait, other people have problems too.
 
 Aired 1991-01-26.
 
-**New Jersey 1** (12:45 AM Shooting Call) Jersey City -- Officer Thomas Porter
+**New Jersey 1**
+
+- (12:45 AM Shooting Call) Jersey City -- Officer Thomas Porter
 chose the job because his brother was in the department and most people on the
 block were cops, so he figured he might as well join. He's driving toward the
 WTC and says there's excellent job security, the money's not bad, the benefits
@@ -4255,7 +4257,9 @@ as fast as they can.
 
 Aired 1991-02-02.
 
-**New Jersey 2** (Truck Sting Operation Briefing) Jersey City -- Captain Bobby
+**New Jersey 2**
+
+- (Truck Sting Operation Briefing) Jersey City -- Captain Bobby
 Martin says many trucks are getting broken into and getting hit heavy after
 getting steered off the turnpike down one way streets with no way to turn
 around. Conrail loaned them a surveillance van used in Boston. Chief Inspector
@@ -4322,7 +4326,9 @@ Harrison.
 
 Aired 1991-02-09.
 
-**New Jersey 3** (10:45 PM Roll Call) Jersey City -- The Sgt. tells officers the
+**New Jersey 3**
+
+- (10:45 PM Roll Call) Jersey City -- The Sgt. tells officers the
 Puerto Rican parade goes down to Grundy Park so give it special attention.
 That's it. One cop says he's on motorcycle 56. Officer Thomas Porter says what
 he likes most is the people he's with, they are a rare breed, not many people
@@ -4387,7 +4393,9 @@ anything tonight.
 
 Aired 1991-02-16.
 
-**New Jersey 4** (12:47 AM Disturbance Call) Hoboken -- Officer Mike Plunkett
+**New Jersey 4**
+
+- (12:47 AM Disturbance Call) Hoboken -- Officer Mike Plunkett
 became an officer for the same reason most people do -- to change the world, be
 somebody's knight in shining armor, rid the city of all crime. It's a good
 attitude to have when you first come on, you need that, but when you're on the
@@ -4471,7 +4479,9 @@ team at the station.
 
 Aired 1991-02-23.
 
-**New Jersey 5** (6:30 PM) Hoboken -- Officer Mike Plunkett car 122 says there
+**New Jersey 5**
+
+- (6:30 PM) Hoboken -- Officer Mike Plunkett car 122 says there
 are good days and bad days. One minute you are locking someone up, the next you
 are delivering a baby. Every job is different. He gets a call to Sparrow's
 liquor store where someone tried to pass a counterfeit $50 dollar bill. Officer
@@ -9097,25 +9107,33 @@ Aired 2001-05-12.
 
 Aired 2001-02-03.
 
-**New Jersey 6** (6:16 PM Street Patrol) Officer Tony Silver says there are ups and downs. He's held a dying person in his hands and delivered a baby with his hands. His partner is Officer T.J. O'Conner and they arrest a drug dealer who attempted to dispose of a bundle of heroin during a chase. Officers Garrison and Gonzalez help rescue a warehouse security guard who was forced into the back of a truck and stripped down to his underwear after encountering five intruders. Officers McCormick and Ramos help an injured little girl who was struck by a car after her brother chased her out into the street.
+**New Jersey 6**
+
+- (6:16 PM Street Patrol) Officer Tony Silver says there are ups and downs. He's held a dying person in his hands and delivered a baby with his hands. His partner is Officer T.J. O'Conner and they arrest a drug dealer who attempted to dispose of a bundle of heroin during a chase. Officers Garrison and Gonzalez help rescue a warehouse security guard who was forced into the back of a truck and stripped down to his underwear after encountering five intruders. Officers McCormick and Ramos help an injured little girl who was struck by a car after her brother chased her out into the street.
 
 ## CP-1328
 
 Aired 2001-02-10.
 
-**New Jersey 7** (9:04 PM Street Patrol) Jersey City -- Officer Mike McKerry plays bagpipes sometimes at cops weddings, sometimes at their funerals and it is a great way to honor them. His partner is Officer Keith Keoghan who has been there a year. They chase, tackle and arrest a suspect and later recover a small quantity of cocaine that he attempted to dispose of during the pursuit. With the help of a Lojack anti-theft tracking device, Sergeant Cruz and Detective Kearns pinpoint an expensive piece of stolen construction equipment in a man's garage. Officers Scanlon and Santiago apprehend a suspected purse snatcher.
+**New Jersey 7**
+
+- (9:04 PM Street Patrol) Jersey City -- Officer Mike McKerry plays bagpipes sometimes at cops weddings, sometimes at their funerals and it is a great way to honor them. His partner is Officer Keith Keoghan who has been there a year. They chase, tackle and arrest a suspect and later recover a small quantity of cocaine that he attempted to dispose of during the pursuit. With the help of a Lojack anti-theft tracking device, Sergeant Cruz and Detective Kearns pinpoint an expensive piece of stolen construction equipment in a man's garage. Officers Scanlon and Santiago apprehend a suspected purse snatcher.
 
 ## CP-1329
 
 Aired 2001-02-17.
 
-**New Jersey 8** (9:52 PM Suspicious Activity) Officer Kevin Kot says it is a fun job, not the same. Can be slow one minute, then call after call comes in. You can ride around all day doing basic patrol then within seconds it could be busy the entire night. His partner Officer Rich Romanski enjoys making peoples lives a little bit better, getting bad people off the street, even though they don't stay off long. He enjoys the people he works with. They arrest a young suspect who attempted to dispose of some drugs during a foot chase. Then they question a suspect whom the officers believe was using drugs inside her vehicle. Officers Mike and Ron Babiak help rescue a woman being held at knifepoint inside a suspect's apartment.
+**New Jersey 8**
+
+- (9:52 PM Suspicious Activity) Officer Kevin Kot says it is a fun job, not the same. Can be slow one minute, then call after call comes in. You can ride around all day doing basic patrol then within seconds it could be busy the entire night. His partner Officer Rich Romanski enjoys making peoples lives a little bit better, getting bad people off the street, even though they don't stay off long. He enjoys the people he works with. They arrest a young suspect who attempted to dispose of some drugs during a foot chase. Then they question a suspect whom the officers believe was using drugs inside her vehicle. Officers Mike and Ron Babiak help rescue a woman being held at knifepoint inside a suspect's apartment.
 
 ## CP-1330
 
 Aired 2001-02-24.
 
-**New Jersey 9** (12:01 AM Prostitution Sting) Vice Unit -- Lt. Walter Barrett says in response to complaints they are going to get rid of the prostitutes working the Grant PCP Area. Then they'll put their officers undercover -- Brenda, Doris & Mary Gail Novrit. There will be surveillance at all times as well as the PCP cover unit. Once they get the commitment from the Johns, give the take down signal. Officers sort out a dispute involving the mother of a young girl who claims that a neighbor arranged to have her daughter assaulted following an earlier dispute between the two families. Officers Santana and Ferrari arrest a man who broke into a building in an attempt to steal copper.
+**New Jersey 9**
+
+- (12:01 AM Prostitution Sting) Vice Unit -- Lt. Walter Barrett says in response to complaints they are going to get rid of the prostitutes working the Grant PCP Area. Then they'll put their officers undercover -- Brenda, Doris & Mary Gail Novrit. There will be surveillance at all times as well as the PCP cover unit. Once they get the commitment from the Johns, give the take down signal. Officers sort out a dispute involving the mother of a young girl who claims that a neighbor arranged to have her daughter assaulted following an earlier dispute between the two families. Officers Santana and Ferrari arrest a man who broke into a building in an attempt to steal copper.
 
 ## CP-1331
 
