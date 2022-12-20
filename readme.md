@@ -19,7 +19,7 @@ are also welcome (`copsTvFan` *at* `protonmail.com`).
 # External Guides
 
 - [thrawn's original guide](https://copstvfan.github.io/geocities-copsonfox-archive/) (unmaintained since 2009-08-15)
-- [epguides.com](https://epguides.com/cops/) (in the [past](https://web.archive.org/web/20151230230345/http://epguides.com:80/Cops/) this guide contained production numbers too)
+- [epguides.com (tvmaze)](https://epguides.com/cops/) (in the [past](https://web.archive.org/web/20151230230345/http://epguides.com:80/Cops/) this guide contained production numbers too)
 - [thetvdb.com](https://thetvdb.com/series/cops/allseasons/official)
 - Wikipedia:
     - [seasons 1–20](<https://en.wikipedia.org/wiki/List_of_Cops_episodes_(seasons_1%E2%80%9320)>)
@@ -34,6 +34,7 @@ are also welcome (`copsTvFan` *at* `protonmail.com`).
     - [season 13](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops13.html)
 - [The Futon Critic](http://www.thefutoncritic.com/showatch/cops/listings/) (S16E35+)
 - [TV Tango](http://www.tvtango.com/series/cops/episodes)
+- [zap2it](https://tvschedule.zap2it.com/overview.html?programSeriesId=SH00017070&tmsId=SH000170700000&from=TVGrid&aid=gapzap)
 
 ## Guides comparison
 
