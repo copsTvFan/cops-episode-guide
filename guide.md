@@ -9493,55 +9493,91 @@ Aired 2002-11-23.
 
 Aired 2003-07-19.
 
-**Coast to Coast 44** (Pierce County WA -- 3:59 AM Vehicle Pursuit) Sheriff's Dept South Hill Precinct -- Deputy Eric Carlson is trying to catch up to other units who have been pursuing a vehicle for 10 minutes. They are going to PIT him if the speeds are right. The suspects' Honda tires are shredding as he takes an exit ramp, he goes over the grass, back onto the road, plays chicken with a car on 54th, then drives through a park and out the back into a residential area. He takes a couple of turns then goes on sidewalk and back into the park. Eric can't follow as they bail out of the car. A K-9 catches Richard the driver. Sgt. Paul Schneider says he was so stupid and almost killed his friends who were throwing stereo equipment out the windows. Richard says they have the wrong guy since he was just sitting on his porch. They ask him why he's sweating so hard then. He says the cops scratched him up and dragged him over there. Officer Tim Mallon of the Puyallup PD saw them unloading stereo equipment out of a store. They threw stereos at him while he chased him and took out his lightbar. They've been in the pursuit since it started and know it was him. Richard keeps interrupting them and won't listen and says he's having an asthma attack and needs an ambulance. Paul says they have a hospital at the jail and asks where his inhaler is. He says it's in the car which isn't his, he has his own car, not this one. They say the story is getting old and they are done. It wasn't hard to catch him since no one else was on the road. (Albuquerque, NM -- 10:35 PM Officer Assistance Call) Southeast Area Command -- Officer Heather Hindi has been working there for three years, before that she met her husband who wasn't fond of female officers which was their first argument. Now that they are married he won't start that and she'll always win. There is a traffic stop at a hotel. The driver is Scott who is very manly, but is dressed as a woman in a blond wig and a glove missing fingers. Officer Chris George questions him. She pulls out Adam the Mexican passenger who says she was going to take him home, but he didn't know her. Scott drops stuff and is taken out for a drunk test, standing on one foot then goes back in the car. Adam says he's known her for three months, but doesn't know her name. He doesn't know Scott is a man. They don't believe his story and know they just met. They show him Scott's license listing him as a male. He says, “Oh wow!" They ask if he wants a cab because he could've gotten robbed or worse, but he wants to ride with Scott. Scott gets a failure to yield ticket for $53. He lives out of state and they will pick him up because of the way he's dressed. They've seen it before where a guy pretending to be a woman takes someone home and there are fights and stabbings. (Miami, FL -- 9:35 PM Street Patrol) North District -- Officer Rick Martinez started going to college to be a lawyer then decided he wanted to be on the other side catching the guys. He applied and that was 12 years ago. An area called Edison is a high drug area and it's hard to catch dealers because of the narrow alleys they run in and hide. He spots a big black guy, Jerome, in an American flag doorag and gives chase. They corner him so he gives up. They cuff him, arrest him. And find crack cocaine nearby. He's got a Jamaican accent and says he ran because he was scared and the drugs aren't his. A guy was fighting with his girlfriend and she put his clothes in the garbage can. He says the drugs aren't his, but he's been arrested for possession before. Rick asks what's up with him tossing the drugs like a football right in front of him. Jerome wants to know what he's being charged with. His story doesn't make sense, if he's in a fight why is he running toward her. He says he ran because he thought his girlfriend called the cops. If you have more than three bags on you it's possession with intent to sell and he has 15 bags on him. He keeps saying it's not his. He knows the game and will probably be back on the streets tomorrow doing the same thing.
+**Coast to Coast 44**
+
+- (Pierce County WA -- 3:59 AM Vehicle Pursuit) Sheriff's Dept South Hill Precinct -- Deputy Eric Carlson is trying to catch up to other units who have been pursuing a vehicle for 10 minutes. They are going to PIT him if the speeds are right. The suspects' Honda tires are shredding as he takes an exit ramp, he goes over the grass, back onto the road, plays chicken with a car on 54th, then drives through a park and out the back into a residential area. He takes a couple of turns then goes on sidewalk and back into the park. Eric can't follow as they bail out of the car. A K-9 catches Richard the driver. Sgt. Paul Schneider says he was so stupid and almost killed his friends who were throwing stereo equipment out the windows. Richard says they have the wrong guy since he was just sitting on his porch. They ask him why he's sweating so hard then. He says the cops scratched him up and dragged him over there. Officer Tim Mallon of the Puyallup PD saw them unloading stereo equipment out of a store. They threw stereos at him while he chased him and took out his lightbar. They've been in the pursuit since it started and know it was him. Richard keeps interrupting them and won't listen and says he's having an asthma attack and needs an ambulance. Paul says they have a hospital at the jail and asks where his inhaler is. He says it's in the car which isn't his, he has his own car, not this one. They say the story is getting old and they are done. It wasn't hard to catch him since no one else was on the road.
+- (Albuquerque, NM -- 10:35 PM Officer Assistance Call) Southeast Area Command -- Officer Heather Hindi has been working there for three years, before that she met her husband who wasn't fond of female officers which was their first argument. Now that they are married he won't start that and she'll always win. There is a traffic stop at a hotel. The driver is Scott who is very manly, but is dressed as a woman in a blond wig and a glove missing fingers. Officer Chris George questions him. She pulls out Adam the Mexican passenger who says she was going to take him home, but he didn't know her. Scott drops stuff and is taken out for a drunk test, standing on one foot then goes back in the car. Adam says he's known her for three months, but doesn't know her name. He doesn't know Scott is a man. They don't believe his story and know they just met. They show him Scott's license listing him as a male. He says, “Oh wow!" They ask if he wants a cab because he could've gotten robbed or worse, but he wants to ride with Scott. Scott gets a failure to yield ticket for $53. He lives out of state and they will pick him up because of the way he's dressed. They've seen it before where a guy pretending to be a woman takes someone home and there are fights and stabbings.
+- (Miami, FL -- 9:35 PM Street Patrol) North District -- Officer Rick Martinez started going to college to be a lawyer then decided he wanted to be on the other side catching the guys. He applied and that was 12 years ago. An area called Edison is a high drug area and it's hard to catch dealers because of the narrow alleys they run in and hide. He spots a big black guy, Jerome, in an American flag doorag and gives chase. They corner him so he gives up. They cuff him, arrest him. And find crack cocaine nearby. He's got a Jamaican accent and says he ran because he was scared and the drugs aren't his. A guy was fighting with his girlfriend and she put his clothes in the garbage can. He says the drugs aren't his, but he's been arrested for possession before. Rick asks what's up with him tossing the drugs like a football right in front of him. Jerome wants to know what he's being charged with. His story doesn't make sense, if he's in a fight why is he running toward her. He says he ran because he thought his girlfriend called the cops. If you have more than three bags on you it's possession with intent to sell and he has 15 bags on him. He keeps saying it's not his. He knows the game and will probably be back on the streets tomorrow doing the same thing.
 
 ## CP-1529
 
 Aired 2003-07-26.
 
-**Coast to Coast 45** (Davidson County NC -- 3:05 PM Sting Briefing) Deputy Geanine Pregel puts on her makeup. She has been with the department for two years and this is her first undercover prostitution sting, not that she is afraid. It's not something she is used to having no badge, gun or patrol vehicle. Even though she knows the guys around her and knows they are listening she is really nervous. Lt. Todd Kates says they are going to the city of Lexin on Ralley Rd because they have a prostitution problem. They need to be safe and have a good time. A routine search uncovers narcotics and a weapon. Miami, FL/Albuquerque NM
+**Coast to Coast 45**
+
+- (Davidson County NC -- 3:05 PM Sting Briefing) Deputy Geanine Pregel puts on her makeup. She has been with the department for two years and this is her first undercover prostitution sting, not that she is afraid. It's not something she is used to having no badge, gun or patrol vehicle. Even though she knows the guys around her and knows they are listening she is really nervous. Lt. Todd Kates says they are going to the city of Lexin on Ralley Rd because they have a prostitution problem. They need to be safe and have a good time. A routine search uncovers narcotics and a weapon.
+- Miami, FL
+- Albuquerque, NM
 
 ## CP-1530
 
 Aired 2003-08-02.
 
-**Coast to Coast 46** (Albuquerque, NM -- 11:45 PM Sting Operation) Southeast Area Command -- Sgt. Jeff Ferner says the Community Resources Team goes around in uniform and plain clothes tackling whatever problem. There are lots of people breaking into cars, especially unlocked ones so they are going to dump a car with items in plain view and hopefully people will steal them. a deputy is dispatched to assist a woman who fell inside her mobile home. Pierce County WA/Maricopa County AZ
+**Coast to Coast 46**
+
+- (Albuquerque, NM -- 11:45 PM Sting Operation) Southeast Area Command -- Sgt. Jeff Ferner says the Community Resources Team goes around in uniform and plain clothes tackling whatever problem. There are lots of people breaking into cars, especially unlocked ones so they are going to dump a car with items in plain view and hopefully people will steal them. a deputy is dispatched to assist a woman who fell inside her mobile home.
+- Pierce County, WA
+- Maricopa County, AZ
 
 ## CP-1531
 
 Aired 2003-02-22.
 
-**Stun Gun Special Edition** (Pierce County WA -- 10:02 PM Street Patrol) An officer uses a stun gun when a drunken driver picks a fight; an officer disarms a suspect. Miami, FL/Pomona, CA
+**Stun Gun Special Edition**
+
+- (Pierce County WA -- 10:02 PM Street Patrol) An officer uses a stun gun when a drunken driver picks a fight; an officer disarms a suspect.
+- Miami, FL
+- Pomona, CA
 
 ## CP-1532
 
 Aired 2003-09-20.
 
-**Coast to Coast 47** (Pierce County WA -- 2:07 AM Street Patrol) South Hill Precinct -- Deputy Gavin Foster works eastside graveyard in Ragatta. The majority of the jurisdiction is south of Tacoma and on any given night he could go from one side of the city all the way up to Mt. Rainer. He spots a car driving fast down the center turn lane and then he hits a curb and flips over. Possible DUI. Miami, FL -- A police sergeant coordinates a sting operation designed to nab drug suspects; Albuquerque, NM -- a security guard identifies a suspected shoplifter.
+**Coast to Coast 47**
+
+- (Pierce County WA -- 2:07 AM Street Patrol) South Hill Precinct -- Deputy Gavin Foster works eastside graveyard in Ragatta. The majority of the jurisdiction is south of Tacoma and on any given night he could go from one side of the city all the way up to Mt. Rainer. He spots a car driving fast down the center turn lane and then he hits a curb and flips over. Possible DUI.
+- Miami, FL -- A police sergeant coordinates a sting operation designed to nab drug suspects.
+- Albuquerque, NM -- a security guard identifies a suspected shoplifter.
 
 ## CP-1533
 
 Aired 2003-09-27.
 
-**Coast to Coast 48** (Albuquerque, NM -- 1:31 PM Domestic Violence) Southeast Area Command -- Officer John Guilmette says they start the day at 4pm and get to the gym at 4:30pm and by the time work is done it is a long day. His partner Officer John Corvino says sometimes when they start a shift it is slow all the way then it gets crazy -- you never know. A deputy finds drugs hidden inside a deodorant can; a deputy pulls over a vehicle with a stolen license plate. Riverside County CA/Pierce County WA
+**Coast to Coast 48**
+
+- (Albuquerque, NM -- 1:31 PM Domestic Violence) Southeast Area Command -- Officer John Guilmette says they start the day at 4pm and get to the gym at 4:30pm and by the time work is done it is a long day. His partner Officer John Corvino says sometimes when they start a shift it is slow all the way then it gets crazy -- you never know. A deputy finds drugs hidden inside a deodorant can; a deputy pulls over a vehicle with a stolen license plate.
+- Riverside County, CA
+- Pierce County, WA
 
 ## CP-1534
 
 Aired 2003-05-17.
 
-**Guns Special Edition** (Riverside County CA -- 9:30 PM Fight in Progress) Sheriff's Dept Jurupa Valley Station -- Deputy Richard Birmingham says his family is very supportive. His dad was a sheriff and his mom was a nurse so they understand the emergency field 100% and enjoy hearing his stories. He takes the call of backup needed at a fight where one person has a gun. Homestead, FL
+**Guns Special Edition**
+
+- (Riverside County CA -- 9:30 PM Fight in Progress) Sheriff's Dept Jurupa Valley Station -- Deputy Richard Birmingham says his family is very supportive. His dad was a sheriff and his mom was a nurse so they understand the emergency field 100% and enjoy hearing his stories. He takes the call of backup needed at a fight where one person has a gun.
+- Homestead, FL
 
 ## CP-1535
 
 Aired 2003-05-17.
 
-**Drug Enforcement Special Edition** (Tampa, FL -- 1:41 PM Drug Sting) Special Operations Unit -- Officer Matt Zalansky explains about the reverse drug sting. They are selling weed, coke and crack on 22nd and 29th streets. The three black undercover cops get ready to be the dealers. Officer Eric Houston is in the van on the corner watching the undercover officers. Albuquerque, NM/Palm Beach County FL
+**Drug Enforcement Special Edition**
+
+- (Tampa, FL -- 1:41 PM Drug Sting) Special Operations Unit -- Officer Matt Zalansky explains about the reverse drug sting. They are selling weed, coke and crack on 22nd and 29th streets. The three black undercover cops get ready to be the dealers. Officer Eric Houston is in the van on the corner watching the undercover officers.
+- Albuquerque, NM
+- Palm Beach County, FL
 
 ## CP-1536
 
 Aired 2003-02-01.
 
-**Bad Girls! 2 Special Edition** (Albuquerque, NM -- 1:31 PM Suspicious Activity) Southeast Area Command -- Officer John Guilmette says his partner talked him into going back to school and they are two months into it. They took the exam last night, the pressures off, rough 11 weeks doing work, family and college. Officer John Corvino says they are finally going to get a degree after so many years and should've done it a while ago. They spot a red car stopped with two people inside who seem out of it and have drugs and money that aren't theirs. An officer advises a 17-year-old Mexican boy who is dressed as a girl driver not to pick up strangers; a truck driver says two women broke into his truck and stole his wallet. Nashville, TN
+**Bad Girls! 2 Special Edition**
+
+- (Albuquerque, NM -- 1:31 PM Suspicious Activity) Southeast Area Command -- Officer John Guilmette says his partner talked him into going back to school and they are two months into it. They took the exam last night, the pressures off, rough 11 weeks doing work, family and college. Officer John Corvino says they are finally going to get a degree after so many years and should've done it a while ago. They spot a red car stopped with two people inside who seem out of it and have drugs and money that aren't theirs.
+- An officer advises a 17-year-old Mexican boy who is dressed as a girl driver not to pick up strangers
+- A truck driver says two women broke into his truck and stole his wallet.
+- Nashville, TN
 
 # Season 16
 
@@ -9555,31 +9591,45 @@ OR/San Bernardino, CA/Wichita, KS**
 
 Aired 2003-05-10.
 
-**Bad Girls! 3 Mardi Gras Special Edition** (8:15 PM Briefing) Women misbehave during New Orleans festivities; officers arrest female suspects involved in a physical altercation.
+**Bad Girls! 3 Mardi Gras Special Edition**
+
+- (8:15 PM Briefing) Women misbehave during New Orleans festivities; officers arrest female suspects involved in a physical altercation.
 
 ## CP-1602
 
 Aired 2003-04-26.
 
-**Mardi Gras 2003 Pt 2** (11:31 PM Fight in Progress) 8th District
+**Mardi Gras 2003 Pt 2**
+
+- (11:31 PM Fight in Progress) 8th District
 
 ## CP-1603
 
 Aired 2003-12-06.
 
-**Coast to Coast 49** (New Orleans, LA -- 1:11 AM Officer Assistance Call) 8th District -- Officer Patrick Dees has been there 3 years, 2 years in the 2nd District uptown and 1 year on the task force. His partner Officer John Nelson says task force is a specialized unit that gives support to officers and target certain areas. An argument leads to a man crashing his SUV into a pole/Wichita, KS -- Smell of pot leads to a brawl/Indio, CA -- Domestic violence call about lesbians fighting over the bills. 
+**Coast to Coast 49**
+
+- (New Orleans, LA -- 1:11 AM Officer Assistance Call) 8th District -- Officer Patrick Dees has been there 3 years, 2 years in the 2nd District uptown and 1 year on the task force. His partner Officer John Nelson says task force is a specialized unit that gives support to officers and target certain areas. An argument leads to a man crashing his SUV into a pole
+- Wichita, KS -- Smell of pot leads to a brawl
+- Indio, CA -- Domestic violence call about lesbians fighting over the bills. 
 
 ## CP-1604
 
 Aired 2003-11-22.
 
-**Bad Girls! 4 Special Edition** (Palm Springs, CA -- 8:54 PM Traffic Stop) Officer Steve Woodward was born in Binghamton NY, got a degree in criminal justice, was a cop in Los Angeles for 2 years and has been there 8 years now. It's a great city to work in, always something going on. A man runs a stop sign to get back to the drive thru/Officer fighting in parking garage/Traffic stop with angry frog faced lady/Traffic stop with woman on heroin. Wichita, KS/San Bernardino, CA -- Deputy Osvaldo Pelayes
+**Bad Girls! 4 Special Edition**
+
+- (Palm Springs, CA -- 8:54 PM Traffic Stop) Officer Steve Woodward was born in Binghamton NY, got a degree in criminal justice, was a cop in Los Angeles for 2 years and has been there 8 years now. It's a great city to work in, always something going on. A man runs a stop sign to get back to the drive thru/Officer fighting in parking garage/Traffic stop with angry frog faced lady/Traffic stop with woman on heroin. Wichita, KS/San Bernardino, CA -- Deputy Osvaldo Pelayes
 
 ## CP-1605
 
 Aired 2003-12-13.
 
-**Coast to Coast 50** (Passaic County NJ -- 6:03 PM Traffic Stop) Cpl Anthony Damiano -- No turn signal leads to a drug bust/Palm Beach County FL -- Domestic violence call for a man who punched a woman at a convenience store/Forsyth County NC -- Shots fired call from a previous domestic call by a shirtless man.
+**Coast to Coast 50**
+
+- (Passaic County NJ -- 6:03 PM Traffic Stop) Cpl Anthony Damiano -- No turn signal leads to a drug bust
+- Palm Beach County, FL -- Domestic violence call for a man who punched a woman at a convenience store
+- Forsyth County, NC -- Shots fired call from a previous domestic call by a shirtless man.
 
 ## CP-1606
 
