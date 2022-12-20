@@ -6739,55 +6739,73 @@ Aired 1994-04-23.
 
 Aired 1993-08-07.
 
-**Nashville, TN 1** (12:18 AM Suspicious Activity) Central Sector -- Officer Joe Shelton works Central. There are lots of drugs and shootings. He knows the area real well and believes in strong backup.
+**Nashville, TN 1**
+
+- (12:18 AM Suspicious Activity) Central Sector -- Officer Joe Shelton works Central. There are lots of drugs and shootings. He knows the area real well and believes in strong backup.
 
 ## CP-611
 
 Aired 1993-08-14.
 
-**Nashville, TN 2** (11:49 PM Stolen Vehicle Call) Metropolitan Police -- Officer Joe Shelton joins a pursuit. Female officers pose as prostitutes; suspect sleeping in stolen van.
+**Nashville, TN 2**
+
+- (11:49 PM Stolen Vehicle Call) Metropolitan Police -- Officer Joe Shelton joins a pursuit. Female officers pose as prostitutes; suspect sleeping in stolen van.
 
 ## CP-612
 
 Aired 1993-08-21.
 
-**Nashville, TN 3** (9:03 PM Armed Robbery) Metropolitan Police East Sector -- Officer Dana Lyon has only been on the job eight months and is always hyper and goofed on because of it. She loves her job and says if you like what you do you'll never work a day in your life. Armed robbery suspect turns violent; domestic dispute involves baby.
+**Nashville, TN 3**
+
+- (9:03 PM Armed Robbery) Metropolitan Police East Sector -- Officer Dana Lyon has only been on the job eight months and is always hyper and goofed on because of it. She loves her job and says if you like what you do you'll never work a day in your life. Armed robbery suspect turns violent; domestic dispute involves baby.
 
 ## CP-613
 
 Aired 1993-08-28.
 
-**Nashville, TN 4** (11:27 PM Officer Assistance) Central Sector -- Officer Joe Shelton has been a cop for 7 years, following in his dads footsteps. Officers control crowd in wake of fight; domestic dispute.
+**Nashville, TN 4**
+
+- (11:27 PM Officer Assistance) Central Sector -- Officer Joe Shelton has been a cop for 7 years, following in his dads footsteps. Officers control crowd in wake of fight; domestic dispute.
 
 ## CP-614
 
 Aired 1993-09-11.
 
-**Nashville, TN 5** (1:51 AM Stolen Vehicle Call) Central Sector -- Officer Joe Shelton goes after a four door with expired tags. Car stolen from deaf man; family dispute turns into reunion; armed father.
+**Nashville, TN 5**
+
+- (1:51 AM Stolen Vehicle Call) Central Sector -- Officer Joe Shelton goes after a four door with expired tags. Car stolen from deaf man; family dispute turns into reunion; armed father.
 
 ## CP-615
 
 Aired 1993-09-15.
 
-**Nashville, TN 6** (1:17 AM Man with a Gun) Metropolitan Police Dept -- Central Sector -- Officer David Ridings works the high crime area, the midnight shift since he's started. He sees a lot of crazy stuff he's gotten used to and never thought he'd would. Father/son altercation; man with a gun call; barroom stabbing.
+**Nashville, TN 6**
+
+- (1:17 AM Man with a Gun) Metropolitan Police Dept -- Central Sector -- Officer David Ridings works the high crime area, the midnight shift since he's started. He sees a lot of crazy stuff he's gotten used to and never thought he'd would. Father/son altercation; man with a gun call; barroom stabbing.
 
 ## CP-616
 
 Aired 1993-09-25.
 
-**Nashville, TN 7** (5:27 PM Stolen Vehicle Call) Man claims stepson stole his truck; man in seizure cuts himself.
+**Nashville, TN 7**
+
+- (5:27 PM Stolen Vehicle Call) Man claims stepson stole his truck; man in seizure cuts himself.
 
 ## CP-617
 
 Aired 1994-06-04.
 
-**Nashville, TN 8** (3:43 PM Domestic Disturbance) high-speed chase with DWI suspect.
+**Nashville, TN 8**
+
+- (3:43 PM Domestic Disturbance) high-speed chase with DWI suspect.
 
 ## CP-618
 
 Aired 1993-11-02.
 
-**Nashville, TN 9** (11:48 PM Stabbing Call) Girl is prime suspect in stabbing; weapons in pickup.
+**Nashville, TN 9**
+
+- (11:48 PM Stabbing Call) Girl is prime suspect in stabbing; weapons in pickup.
 
 ## CP-619
 
@@ -8170,7 +8188,7 @@ Aired 1998-08-01.
 
 Aired 1998-04-04.
 
-**Nashville, TN 11**
+**Nashville, TN 10**
 
 - (5:59 PM Stolen Moped Call) East Sector -- Officer Robert Butler says most
   people are nice, but 5% are the ones causing all the problems and that who he
@@ -8183,13 +8201,17 @@ Aired 1998-04-04.
 
 Aired 1998-06-20.
 
-**Nashville, TN 12** (8:54 PM Car Pursuit) East Sector -- Officer Robert Butler witnessed a 45. A car hit another and ran after leaving a bar which means it is probably a DUI. Hit-and-run chase; stolen vehicle; cat ownership; traffic dispute.
+**Nashville, TN 11**
+
+- (8:54 PM Car Pursuit) East Sector -- Officer Robert Butler witnessed a 45. A car hit another and ran after leaving a bar which means it is probably a DUI. Hit-and-run chase; stolen vehicle; cat ownership; traffic dispute.
 
 ## CP-1027
 
 Aired 1998-06-27.
 
-**Nashville, TN 13** (7:34 PM Street Patrol) Metro Central Sector -- Officer Eric Maasikas says he enjoys police work because every day is different, beats doing the same thing day after day never boring, challenging and you get to make split second decisions. He investigates a report of someone breaking into vehicles; and sort out a domestic dispute. A prostitute is found hiding beneath a bed in a motel room. A domestic dispute is settled.
+**Nashville, TN 12**
+
+- (7:34 PM Street Patrol) Metro Central Sector -- Officer Eric Maasikas says he enjoys police work because every day is different, beats doing the same thing day after day never boring, challenging and you get to make split second decisions. He investigates a report of someone breaking into vehicles; and sort out a domestic dispute. A prostitute is found hiding beneath a bed in a motel room. A domestic dispute is settled.
 
 ## CP-1028
 

@@ -377,9 +377,9 @@ CP-1021           | 1998-03-07                  | Kansas City 23
 CP-1022           | 1998-05-02                  | Kansas City 24
 CP-1023           | 1998-05-16                  | Kansas City 25
 CP-1024           | 1998-08-01                  | Kansas City 26
-CP-1025           | 1998-04-04                  | Nashville, TN 11
-CP-1026           | 1998-06-20                  | Nashville, TN 12
-CP-1027           | 1998-06-27                  | Nashville, TN 13
+CP-1025           | 1998-04-04                  | Nashville, TN 10
+CP-1026           | 1998-06-20                  | Nashville, TN 11
+CP-1027           | 1998-06-27                  | Nashville, TN 12
 CP-1028           | 1998-02-07                  | Texas 1
 CP-1029           | 1998-04-18                  | Texas 2
 CP-1030           | 1998-07-25                  | Texas 3
