@@ -5096,35 +5096,47 @@ resists arrest.
 
 Aired 1991-06-08.
 
-**Houston, TX 5** (2:33 AM Street Patrol) Harris County Sheriff's Dept. –
-Deputy Monty Herron has been around horses his whole life. He's owned one for
-15 years to relieve stress. He belongs to the rodeo association of Texas police
-officers and they travel around the state competing for buckles. He goes to a
-call of 5 or 6 black males at a burglary in progress. When he gets there it is
-a shooting. A man is hit in the chest and a woman in the leg. They go into a
-dark house with a woman blocking the way. The guy says someone tried to break
-in through the window and he shot them. His wife tried to escape through the
-front when shotgun blasts came through their bedroom window and they can see
-holes in a picture on the wall. There is blood everywhere. Cops say it was
-really a dope deal gone sour and the victims were hit with 9mm. They secure the
-scene for Detective Pratt. (11:17 PM Shots Fired Call)  Sheriff's Dept. -- Cpl.
-James Billonvich gives a stress test at a basic tactical training course. He
-tells the woman trainee she's been hit in the arm and has to load and holster
-with only one arm. He says they ride the females harder to make them better. A
-female heard several shots and someone screaming for help. While looking for
-the male shooter they find a guy who was shooting his gun in the air to
-celebrate because he's happy the Gulf War in over. James tells him it's
-illegal, but just gives him a warning.  (1:18 AM Theft Call) Deputy Michael
-Sieck likes the night shift the best. There are too many people out in the day
-and the night is busier.A guy pumped gas without paying at Wallaceville and
-Wake Forest. He finally pulls his truck over on the 300 block of Kokomo. They
-cuff the long haired driver for stealing the $16 worth of gas. The owner
-followed them and is on the scene. The passenger went in for cigarettes and the
-driver was supposed to go in and pay, but ran. The driver doesn't know anything
-about it. They take the driver back to the gas station to get ID'ed by the
-clerk. Mike says if he tells the truth he'll only get a citation. The driver
-says he only had $1, so he pumped and ran away. He gets a $200 fine and is let
-go until the trial.
+**Houston, TX 5**
+
+- (2:33 AM Street Patrol) Harris County Sheriff's Dept. -- Deputy Monty Herron
+  has been around horses his whole life. He's owned one for 15 years to relieve
+  stress. He belongs to the rodeo association of Texas police officers and they
+  travel around the state competing for buckles. He goes to a call of 5 or 6
+  black males at a burglary in progress. When he gets there it is a shooting. A
+  man is hit in the chest and a woman in the leg. They go into a dark house
+  with a woman blocking the way. The guy says someone tried to break in through
+  the window and he shot them. His wife tried to escape through the front when
+  shotgun blasts came through their bedroom window and they can see holes in a
+  picture on the wall. There is blood everywhere. Cops say it was really a dope
+  deal gone sour and the victims were hit with 9mm. They secure the scene for
+  Detective Pratt.
+- (11:17 PM Shots Fired Call) Sheriff's Dept. -- Cpl. James Bilinovich gives a
+  stress test at a basic tactical training course. He tells the woman trainee
+  she's been hit in the arm and has to load and holster with only one arm. He
+  says they ride the females harder to make them better. A female heard several
+  shots and someone screaming for help. While looking for the male shooter they
+  find a guy who was shooting his gun in the air to celebrate because he's
+  happy the Gulf War in over. James tells him it's illegal, but just gives him
+  a warning.
+- (1:18 AM Theft Call) Deputy Michael Sieck likes the night shift the best.
+  There are too many people out in the day and the night is busier.A guy pumped
+  gas without paying at Wallaceville and Wake Forest. He finally pulls his
+  truck over on the 300 block of Kokomo. They cuff the long haired driver for
+  stealing the $16 worth of gas. The owner followed them and is on the scene.
+  The passenger went in for cigarettes and the driver was supposed to go in and
+  pay, but ran. The driver doesn't know anything about it. They take the driver
+  back to the gas station to get ID'ed by the clerk. Mike says if he tells the
+  truth he'll only get a citation. The driver says he only had $1, so he pumped
+  and ran away. He gets a $200 fine and is let go until the trial.
+
+tvguide [mentions a different
+segment](https://www.tvguide.com/tvshows/cops/episodes-season-3/1000242631/),
+so maybe this episode was changed at the last moment or was censored after it
+originally aired:
+
+- In Houston, sheriff's deputy Monty Herron investigates a double shooting
+- Dep. Michael Sieck catches two men accused of not paying for gasoline
+- Sgt. Robert Jackson counsels a woman who was assaulted by her husband
 
 ## CP-336
 
