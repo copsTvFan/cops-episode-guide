@@ -5710,10 +5710,12 @@ drinking.
 
 Aired 1992-03-07.
 
-**Miami, FL 1** (7:01 PM Shooting Call) Officer Angel Calzadilla & Emilio
-Canciobello arrive at a crazy old man's house that is filled with rotting packs
-of dripping meat and the windowsill is buried in dead flies. man is unable to
-care for himself; overturned truck.
+**Miami, FL 1**
+
+- (7:01 PM Shooting Call) Officer Angel Calzadilla & Emilio Canciobello arrive
+  at a crazy old man's house that is filled with rotting packs of dripping meat
+  and the windowsill is buried in dead flies. man is unable to care for himself
+- overturned truck.
 
 ## CP-429
 
@@ -5845,7 +5847,9 @@ Aired 1992-03-14.
 
 Aired 1992-03-21.
 
-**Miami, FL 4** (Weapons Inspection) Metro-Dade Police Department -- Corporal
+**Miami, FL 4**
+
+- (Weapons Inspection) Metro-Dade Police Department -- Corporal
 Ronald Dignazio is the inspector and tells the officers to line up, draw their
 weapons, eject their cartridges to the floor and present their weapons for
 inspection. Another officer checks them. Officer Federico Chacon says he
@@ -5856,7 +5860,9 @@ decision. (7:24 PM Street Patrol) A car chase; man assaults friend; drug bust.
 
 Aired 1992-04-11.
 
-**South Florida 2** (6:40 PM Narcotics Unit Briefing) Metro-Dade Department --
+**South Florida 2**
+
+- (6:40 PM Narcotics Unit Briefing) Metro-Dade Department --
 Sgt. Fred Silber says Moe's CI from the 50K reverse drug buy was compromised
 when he owed $40,000 and Columbian leg breaker enforcers were hired to get his
 family. They'll wire Moe and if he is threatened they'll bust the Columbians.
@@ -5866,7 +5872,9 @@ Suspects threaten informant and family; suspected drunken driver.
 
 Aired 1992-05-30.
 
-**Miami, FL 5** (8:22 PM) Ft. Lauderdale Broward County -- Deputy Robert Lahiff
+**Miami, FL 5**
+
+- (8:22 PM) Ft. Lauderdale Broward County -- Deputy Robert Lahiff
 is off to set up a checkpoint. As long as they stop either the first, second or
 third cars and remain consistent it'll work. He tries to stop a suspect, a
 black guy in a white shirt red shorts walking down the street. When he sees the
@@ -5888,14 +5896,19 @@ their 12 month sting.
 
 Aired 1992-04-25.
 
-**Miami, FL 6** (5:59 PM Narcotics Unit Briefing) drug sting; suspect motorist;
-prostitution sweep.
+**Miami, FL 6**
+
+- (5:59 PM Narcotics Unit Briefing) drug sting
+- suspect motorist
+- prostitution sweep
 
 ## CP-436
 
 Aired 1992-05-02.
 
-**Miami, FL 7** (5:17 PM Roll Call) Lt. Noel Rojas announces that Officer Emilo
+**Miami, FL 7**
+
+- (5:17 PM Roll Call) Lt. Noel Rojas announces that Officer Emilo
 Cancibello is officer of the month. Capture of armed suspects; arrests for lewd
 behavior.
 
@@ -5903,7 +5916,9 @@ behavior.
 
 Aired 1992-06-13.
 
-**Miami, FL 8** (1:26 AM Crime Suppression Unit) Beach Police Department --
+**Miami, FL 8**
+
+- (1:26 AM Crime Suppression Unit) Beach Police Department --
 Officer Bill Guillem and his partner Officer Tony Sammarco says they work
 residential areas, hot spots where burglaries are and try to catch prowlers
 before they strike. They go to a business where the window was broken out and
@@ -5914,7 +5929,9 @@ arrives. A looter; car stuck on train tracks; drunken driver arrested.
 
 Aired 1992-05-09.
 
-**Miami, FL 9** (7:05 PM Narcotics Unit Briefing) Metro-Dade Sgt. Fred Silber
+**Miami, FL 9**
+
+- (7:05 PM Narcotics Unit Briefing) Metro-Dade Sgt. Fred Silber
 explains how undercover cops confiscated vases full of drugs from the runners
 who rolled over and were supposed to get $1000 each for them and now will meet
 the buyers to bust them. The must be done by 9pm. 7:32 -- they arrive at the
@@ -5943,7 +5960,9 @@ die during cock fights. He welcomes them to come back and check.
 
 Aired 1992-05-16.
 
-**Miami, FL 10** (11:47 PM Street Patrol) Sheriff's Office -- Deputy Charles
+**Miami, FL 10**
+
+- (11:47 PM Street Patrol) Sheriff's Office -- Deputy Charles
 Hicks spots car making a dope deal and hunts it down after losing sight of it.
 bank robbery arrest; public disturbance; hit and run.
 
@@ -5951,7 +5970,9 @@ bank robbery arrest; public disturbance; hit and run.
 
 Aired 1992-06-27.
 
-**Miami, FL 11** (10:57 PM Narcotics Unit Operation) Miami Beach Metro Dade --
+**Miami, FL 11**
+
+- (10:57 PM Narcotics Unit Operation) Miami Beach Metro Dade --
 Sgt. Fred Silber says they got a call from customs that there is a 50-100 pound
 package of pot, $100,000 worth, stuffed into fish on Air Jamaica Express from
 Kingston, Jamaica. He drives to general aviation and Special Agent Thomas
@@ -7617,43 +7638,57 @@ WA/Fresno, CA/Fort Myers, FL**
 
 Aired 1996-08-31.
 
-**Miami, FL 11** (11:10 PM Suspicious Vehicle) Central District -- Officer Jorge Castello grew up in some of the neighborhoods he patrols and it is interesting to see how people he knew have grown up. Some are good. He pursues a driver who ignored instructions to pull off the road. With some help from an anti-theft tracking device, Miami Police Sergeant Casiano aids in the arrest of a car thief. Miami Police Officer Grant questions a woman whose boyfriend shot himself in the head.
+**Miami, FL 12**
+
+- (11:10 PM Suspicious Vehicle) Central District -- Officer Jorge Castello grew up in some of the neighborhoods he patrols and it is interesting to see how people he knew have grown up. Some are good. He pursues a driver who ignored instructions to pull off the road. With some help from an anti-theft tracking device, Miami Police Sergeant Casiano aids in the arrest of a car thief. Miami Police Officer Grant questions a woman whose boyfriend shot himself in the head.
 
 ## CP-902
 
 Aired 1996-09-07.
 
-**Miami, FL 12** (6:27 PM Suspicious Vehicle) Officer Frank Fernandez says it's hard to find a good partner, but he appreciates Jorge and hopes he feels the same and he taught him a lot. Officer Jorge Castello says he learned a lot from Frank and from every incident you learn something new. When you think you know it all, that's when you get hurt. They arrest several men suspected of stealing cassette tapes from a video store. With the aid of a K-9 unit, Metro-Dade Police Officer Sullivan helps apprehend a suspect who hid in dense foliage in an attempt to avoid capture. Pompano Beach Police Officer India joins the search for a man who assaulted a police officer, then responds to a call involving an alleged automobile break-in.
+**Miami, FL 13**
+
+- (6:27 PM Suspicious Vehicle) Officer Frank Fernandez says it's hard to find a good partner, but he appreciates Jorge and hopes he feels the same and he taught him a lot. Officer Jorge Castello says he learned a lot from Frank and from every incident you learn something new. When you think you know it all, that's when you get hurt. They arrest several men suspected of stealing cassette tapes from a video store. With the aid of a K-9 unit, Metro-Dade Police Officer Sullivan helps apprehend a suspect who hid in dense foliage in an attempt to avoid capture. Pompano Beach Police Officer India joins the search for a man who assaulted a police officer, then responds to a call involving an alleged automobile break-in.
 
 ## CP-903
 
 Aired 1996-09-21.
 
-**Miami, FL 13** (3:35 AM Officer Down Call) Central District -- Officer Frank Alonso talks about how police get together once a year to honor those who have fallen in the line of duty and the ceremony is shown. He knows sometimes you might not come home, but that's the risk you take on the job. His partner is Officer Ken McIllwain and they take the call to aid a fellow policeman who was injured when his patrol vehicle collided with a second squad car. Officer Stanley detains an unidentified burglary suspect who attempt to mislead police by providing several aliases. Metro Dade Police Officer Sullivan investigates a call involving juvenile drug dealers.
+**Miami, FL 14**
+
+- (3:35 AM Officer Down Call) Central District -- Officer Frank Alonso talks about how police get together once a year to honor those who have fallen in the line of duty and the ceremony is shown. He knows sometimes you might not come home, but that's the risk you take on the job. His partner is Officer Ken McIllwain and they take the call to aid a fellow policeman who was injured when his patrol vehicle collided with a second squad car. Officer Stanley detains an unidentified burglary suspect who attempt to mislead police by providing several aliases. Metro Dade Police Officer Sullivan investigates a call involving juvenile drug dealers.
 
 ## CP-904
 
 Aired 1996-09-28.
 
-**Miami, FL 14** (8:28 PM Hostage Situation) Homestead -- Officer Lizanne Deegan says the things that are the hardest to take involve children or the elderly. She talks to her husband about her day when she gets home then calls it a night. She responds to a call involving an armed suspect who douses himself with gasoline and threatens to set himself on fire using a cigarette lighter. Officer Castello question the occupants of a sports utility vehicle and discovers two rocks of cocaine in the possession of a female suspect. Homestead Police Officer Grant questions a group of inebriated residents, then shuts down a gambling house.
+**Miami, FL 15**
+
+- (8:28 PM Hostage Situation) Homestead -- Officer Lizanne Deegan says the things that are the hardest to take involve children or the elderly. She talks to her husband about her day when she gets home then calls it a night. She responds to a call involving an armed suspect who douses himself with gasoline and threatens to set himself on fire using a cigarette lighter. Officer Castello question the occupants of a sports utility vehicle and discovers two rocks of cocaine in the possession of a female suspect. Homestead Police Officer Grant questions a group of inebriated residents, then shuts down a gambling house.
 
 ## CP-905
 
 Aired 1996-10-05.
 
-**Miami, FL 15** (9:28 PM Burglary in Progress) Officer Gregory Bavonese waits in the street for his partner who is chasing a suspect. He then gets in the car and goes to the scene and joins the rooftop hunt for two burglary suspects, then responds to a knife assault. Metro-Dade Police Officer Schmidlinger stops a woman after she ran a stop sign, then arrest a suicidal man who tossed bricks at a fast food restaurant.
+**Miami, FL 16**
+
+- (9:28 PM Burglary in Progress) Officer Gregory Bavonese waits in the street for his partner who is chasing a suspect. He then gets in the car and goes to the scene and joins the rooftop hunt for two burglary suspects, then responds to a knife assault. Metro-Dade Police Officer Schmidlinger stops a woman after she ran a stop sign, then arrest a suicidal man who tossed bricks at a fast food restaurant.
 
 ## CP-906
 
 Aired 1996-10-12.
 
-**Miami, FL 16** (6:02 PM Assistance Call) Central District -- Sgt. Juan Casiano says most of his crew has only been there 1-2 years and he gives advice on how to use their heads instead of getting physical. He rushes to a call where Officer Giovani Nunez spotted a store owner struggling with a shoplifter and assisted. The woman ran into the bathroom and locked herself in with $60 worth of pants and socks. He got her out and her husband tried to fight him, the woman also fought. They are both arrested, charges with theft, obstructing, resisting and more. (10:43 PM Assistance Call) Juan goes to the call of a car refusing to stop who was impersonating a police officer driving with a blue light and crashed. Miami Police Officer Bilberry participates in a reverse sting operation targeting suspects attempting to buy sex from prostitutes. Metro-Dade Police Officer Sullivan responds to an automobile accident in which a young woman has been seriously injured.
+**Miami, FL 17**
+
+- (6:02 PM Assistance Call) Central District -- Sgt. Juan Casiano says most of his crew has only been there 1-2 years and he gives advice on how to use their heads instead of getting physical. He rushes to a call where Officer Giovani Nunez spotted a store owner struggling with a shoplifter and assisted. The woman ran into the bathroom and locked herself in with $60 worth of pants and socks. He got her out and her husband tried to fight him, the woman also fought. They are both arrested, charges with theft, obstructing, resisting and more. (10:43 PM Assistance Call) Juan goes to the call of a car refusing to stop who was impersonating a police officer driving with a blue light and crashed. Miami Police Officer Bilberry participates in a reverse sting operation targeting suspects attempting to buy sex from prostitutes. Metro-Dade Police Officer Sullivan responds to an automobile accident in which a young woman has been seriously injured.
 
 ## CP-907
 
 Aired 1996-11-02.
 
-**Miami, FL 17** (10:35 PM Disturbance Call) Homestead -- Police Officer Coward responds to a call involving a man armed with a gun. Homestead Police Sergeant Kennedy executes a narcotics search warrant on a group of drug dealers. Miami Police Officer Ruiz joins other officers chasing a fleeing vehicle, then discovers an automobile engulfed in flames.
+**Miami, FL 18**
+
+- (10:35 PM Disturbance Call) Homestead -- Police Officer Coward responds to a call involving a man armed with a gun. Homestead Police Sergeant Kennedy executes a narcotics search warrant on a group of drug dealers. Miami Police Officer Ruiz joins other officers chasing a fleeing vehicle, then discovers an automobile engulfed in flames.
 
 ## CP-908
 
@@ -7723,7 +7758,7 @@ Aired 1996-12-21.
 
 Aired 1996-11-30.
 
-**Miami, FL 18**
+**Miami, FL 19**
 
 - (7:50 PM Narcotics Sting Briefing) Key West -- Special Operations Unit --
   Sgt. James Daniels compares how they plan to catch drug dealers to throwing
@@ -7737,7 +7772,9 @@ Aired 1996-11-30.
 
 Aired 1996-12-07.
 
-**Miami, FL 19** (5:37 PM Warrant Served) Street Narcotics Unit -- Lt. Antonio Rodriguez says the people want them there, it's the drug dealers and criminals who don't want them on the streets. People always say they hear "You're just busting me because I'm black, I'm Latino, I'm Haitian", but they don't get that too much since they serves warrants and make sure they are getting the right people. airline crash rescue operation; bicyclist's pipe; auto accident.
+**Miami, FL 20**
+
+- (5:37 PM Warrant Served) Street Narcotics Unit -- Lt. Antonio Rodriguez says the people want them there, it's the drug dealers and criminals who don't want them on the streets. People always say they hear "You're just busting me because I'm black, I'm Latino, I'm Haitian", but they don't get that too much since they serves warrants and make sure they are getting the right people. airline crash rescue operation; bicyclist's pipe; auto accident.
 
 ## CP-915
 

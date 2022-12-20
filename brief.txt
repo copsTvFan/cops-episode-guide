@@ -316,20 +316,20 @@ S-903             | 1996-02-07                  | Best Drug Busts
 S-904             | 1996-02-08                  | Best Stings
 S-905             | 1996-02-09                  | Classic Cops
 
-CP-901            | 1996-08-31                  | Miami, FL 11
-CP-902            | 1996-09-07                  | Miami, FL 12
-CP-903            | 1996-09-21                  | Miami, FL 13
-CP-904            | 1996-09-28                  | Miami, FL 14
-CP-905            | 1996-10-05                  | Miami, FL 15
-CP-906            | 1996-10-12                  | Miami, FL 16
-CP-907            | 1996-11-02                  | Miami, FL 17
+CP-901            | 1996-08-31                  | Miami, FL 12
+CP-902            | 1996-09-07                  | Miami, FL 13
+CP-903            | 1996-09-21                  | Miami, FL 14
+CP-904            | 1996-09-28                  | Miami, FL 15
+CP-905            | 1996-10-05                  | Miami, FL 16
+CP-906            | 1996-10-12                  | Miami, FL 17
+CP-907            | 1996-11-02                  | Miami, FL 18
 CP-908            | 1996-11-02                  | Boston/New City, MA
 CP-909            | 1996-11-09                  | Providence, RI 1
 CP-910            | 1996-11-16                  | Providence, RI 2
 CP-911            | 1996-09-23                  | Providence, RI/Boston 1
 CP-912            | 1996-12-21                  | Providence, RI/Boston 2
-CP-913            | 1996-11-30                  | Miami, FL 18
-CP-914            | 1996-12-07                  | Miami, FL 19
+CP-913            | 1996-11-30                  | Miami, FL 19
+CP-914            | 1996-12-07                  | Miami, FL 20
 CP-915            | 1997-01-04                  | Boston, MA 8
 CP-916            | 1997-02-01                  | Pierce County WA 10
 CP-917            | 1997-02-08                  | Pierce County WA 11
