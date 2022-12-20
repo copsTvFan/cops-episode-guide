@@ -6853,13 +6853,17 @@ Aired 1994-04-02.
 
 Aired 1994-09-03.
 
-**Indianapolis, IN 1** (11:41 PM Drug Unit Assistance) North District -- Officer Craig Patton K-9 Unit. His dog is Vasco and he is good to have because even having two cops with weapons drawn on a suspect they'll still run knowing they cannot or will not shoot at them. If the dog is there they'll focus on the dog and worry what he's going to do, not the officer. Suspect flees; couple steals from charity collection box.
+**Indianapolis, IN 1**
+
+- (11:41 PM Drug Unit Assistance) North District -- Officer Craig Patton K-9 Unit. His dog is Vasco and he is good to have because even having two cops with weapons drawn on a suspect they'll still run knowing they cannot or will not shoot at them. If the dog is there they'll focus on the dog and worry what he's going to do, not the officer. Suspect flees; couple steals from charity collection box.
 
 ## CP-627
 
 Aired 1994-09-10.
 
-**Indianapolis, IN 2** (2:17 AM Vehicle Pursuit) East District -- Officer David Schutz works 7pm to 3am, the high felony hours and it is past curfew for kids, so if he sees 3-4 of them outside he knows they are up to something. When he sees broken windows and hi-beams on cars he knows they are stolen, that's his forte. Officers chase suspect with crossbow;  convenience-store drug deal.
+**Indianapolis, IN 2**
+
+- (2:17 AM Vehicle Pursuit) East District -- Officer David Schutz works 7pm to 3am, the high felony hours and it is past curfew for kids, so if he sees 3-4 of them outside he knows they are up to something. When he sees broken windows and hi-beams on cars he knows they are stolen, that's his forte. Officers chase suspect with crossbow;  convenience-store drug deal.
 
 ## CP-628
 
@@ -6983,25 +6987,33 @@ Aired 1994-07-16.
 
 Aired 1994-04-30.
 
-**Indianapolis, IN 3** (6:56 PM Suspicious Activity) East District -- Sgt. Dennis Riley has been there 18 years and lots of things become routine. You can't get a false sense of security when approaching a car, you have to practice safety measures every time during an 8 hour day of patrol. You have to be constantly reminded something can happen on the spur of the moment and take any action necessary. Juveniles are in the parking lot of a liquor store, have been in and out of the store many times trying to buy beer/Parked car accident/Domestic in a back trailer/Domestic in a car. Officer admonishes clerk who sold alcohol to minor; DWI-related accident.
+**Indianapolis, IN 3**
+
+- (6:56 PM Suspicious Activity) East District -- Sgt. Dennis Riley has been there 18 years and lots of things become routine. You can't get a false sense of security when approaching a car, you have to practice safety measures every time during an 8 hour day of patrol. You have to be constantly reminded something can happen on the spur of the moment and take any action necessary. Juveniles are in the parking lot of a liquor store, have been in and out of the store many times trying to buy beer/Parked car accident/Domestic in a back trailer/Domestic in a car. Officer admonishes clerk who sold alcohol to minor; DWI-related accident.
 
 ## CP-643
 
 Aired 1994-09-17.
 
-**Indianapolis, IN 4** (12:52 AM Suspicious Vehicle) Officer David Schultz says the trouble with stolen vehicles is they almost end up in pursuits which is the most dangerous thing about the job. Suspected stolen vehicle; woman attempts to cash stolen check.
+**Indianapolis, IN 4**
+
+- (12:52 AM Suspicious Vehicle) Officer David Schultz says the trouble with stolen vehicles is they almost end up in pursuits which is the most dangerous thing about the job. Suspected stolen vehicle; woman attempts to cash stolen check.
 
 ## CP-644
 
 Aired 1994-05-07.
 
-**Indianapolis, IN 5** (2:24 AM Stolen Car) North District -- Officer Tom Shaffer works as a community center director in a lower class neighborhood. He feels it makes him relate better to people in the neighborhoods he patrols, they assist him better too. A helicopter is following a stolen car that a guy just bailed out of, two guys ran in different directions and one is hiding under a tree. Cops spill out and run after him. Officer Pauli Irwin was chasing two different cars. A K-9 is brought in and the dog bites a guy behind a dumpster and he screams. He says the other guy was the driver who told him to run and not to let the dog bite him again. They stole a car, got into another stolen car, stripped another and got in a third car. They find the driver in an orange and black jacket under a car and he already has handcuffs on. The ignition has been punched and there is a fake key. Pauli says there were four of them who ran, the guy in orange is the driver. The red car is also stolen and has bags of coke in it. Officer Jim Briner says there are 4 stolen cars, the van had 6 guys and 2 guns in it. Jim pulls out the guns. One is an old colt with 6 shots loaded and the other is a Beretta 9mm. East District -- Officer Emmanuel Toliver uses a baseball analogy. Life a team, know who is on what base, every one gets a chance to bat, you might get a homerun or strikeout, but everyone gets to play. He rushes to a call for assistance, the subject is fighting. A black guy, Patrick, has a bloody hand, a hole on his arm with something sticking out and blood all on his pants. He is trying to put his jacket over it, won't listen and doesn't want to be looked at. An EMT says his hand is ice cold, there is severe damage and he needs to go to the hospital. He says he has to take care of something and will go to the hospital when he's ready, just not now. He walks away and Emmanuel cuffs him, he is forcing him to the hospital. He won't get in the ambulance and they have to force him in. They strap him to a gurney and he says they are hurting him. He says that's his fault. Pat was upset with a girl and doesn't like the police and wanted to fight. At the hospital he says he was fighting with his woman and she cut him with a bottle, but didn't mean to cut him that bad. He wasn't under arrest, he was detained and he appreciated it. (10:03 PM Breaking & Entering). Officer David Schultz works the tactical shift from 7pm to 3am and it suits him well, he doesn't go to bed before 2am anyway. He runs into an apartment, it is dirty and the garbage is overflowing. A stoned looking guy has blood on his shirt and they make him sit in the kitchen. In the living room there is a man down, a guy on crutches and a hysterical woman. The guy on the floor goes into a seizure and starts flailing all around. He doesn't live there and just came through the back door and started grabbing people. The stoner says they stopped him. The seizure guy has a bloody face. Cops smell glue, enough to get a buzz. Sgt. Chris Mosier arrives and they tell him the guy on crutches whacked him in the face. The woman says the seizure guy was okay outside a minute ago. Stoner says he didn't hit him. Then how did he get blood all over him? They find a can of toluene and go into the basement and find another can they are huffing. There is a woman on a mattress down there who is tallywagged out. It is a huff house with 6-7 people there, even the dog is high, it's shaking around. They go out to the garage and find 6-7 empty cans of toluene and the whole place is burned up from fire.
+**Indianapolis, IN 5**
+
+- (2:24 AM Stolen Car) North District -- Officer Tom Shaffer works as a community center director in a lower class neighborhood. He feels it makes him relate better to people in the neighborhoods he patrols, they assist him better too. A helicopter is following a stolen car that a guy just bailed out of, two guys ran in different directions and one is hiding under a tree. Cops spill out and run after him. Officer Pauli Irwin was chasing two different cars. A K-9 is brought in and the dog bites a guy behind a dumpster and he screams. He says the other guy was the driver who told him to run and not to let the dog bite him again. They stole a car, got into another stolen car, stripped another and got in a third car. They find the driver in an orange and black jacket under a car and he already has handcuffs on. The ignition has been punched and there is a fake key. Pauli says there were four of them who ran, the guy in orange is the driver. The red car is also stolen and has bags of coke in it. Officer Jim Briner says there are 4 stolen cars, the van had 6 guys and 2 guns in it. Jim pulls out the guns. One is an old colt with 6 shots loaded and the other is a Beretta 9mm. East District -- Officer Emmanuel Toliver uses a baseball analogy. Life a team, know who is on what base, every one gets a chance to bat, you might get a homerun or strikeout, but everyone gets to play. He rushes to a call for assistance, the subject is fighting. A black guy, Patrick, has a bloody hand, a hole on his arm with something sticking out and blood all on his pants. He is trying to put his jacket over it, won't listen and doesn't want to be looked at. An EMT says his hand is ice cold, there is severe damage and he needs to go to the hospital. He says he has to take care of something and will go to the hospital when he's ready, just not now. He walks away and Emmanuel cuffs him, he is forcing him to the hospital. He won't get in the ambulance and they have to force him in. They strap him to a gurney and he says they are hurting him. He says that's his fault. Pat was upset with a girl and doesn't like the police and wanted to fight. At the hospital he says he was fighting with his woman and she cut him with a bottle, but didn't mean to cut him that bad. He wasn't under arrest, he was detained and he appreciated it. (10:03 PM Breaking & Entering). Officer David Schultz works the tactical shift from 7pm to 3am and it suits him well, he doesn't go to bed before 2am anyway. He runs into an apartment, it is dirty and the garbage is overflowing. A stoned looking guy has blood on his shirt and they make him sit in the kitchen. In the living room there is a man down, a guy on crutches and a hysterical woman. The guy on the floor goes into a seizure and starts flailing all around. He doesn't live there and just came through the back door and started grabbing people. The stoner says they stopped him. The seizure guy has a bloody face. Cops smell glue, enough to get a buzz. Sgt. Chris Mosier arrives and they tell him the guy on crutches whacked him in the face. The woman says the seizure guy was okay outside a minute ago. Stoner says he didn't hit him. Then how did he get blood all over him? They find a can of toluene and go into the basement and find another can they are huffing. There is a woman on a mattress down there who is tallywagged out. It is a huff house with 6-7 people there, even the dog is high, it's shaking around. They go out to the garage and find 6-7 empty cans of toluene and the whole place is burned up from fire.
 
 ## CP-645
 
 Aired 1994-09-24.
 
-**Indianapolis, IN 6** (5:17 PM Traffic Stop) Belligerent old biker tries to conceal marijuana; stabbing.
+**Indianapolis, IN 6**
+
+- (5:17 PM Traffic Stop) Belligerent old biker tries to conceal marijuana; stabbing.
 
 ## CP-646
 
@@ -7459,7 +7471,7 @@ Aired 1995-11-11.
 
 Aired 1995-09-09.
 
-**Fort Worth, TX 14** (where is `Fort Worth, TX 13`?)
+**Fort Worth, TX 13**
 
 (4:12 PM Street Patrol) South Division -- Officer Dave Moran is parked on an overpass looking down for an approaching white van. Traffic accidents; immigration-card ring; false fire report.
 
@@ -7467,7 +7479,9 @@ Aired 1995-09-09.
 
 Aired 1995-12-02.
 
-**Fort Worth, TX 15** (5:37 PM Street Patrol) South Division -- Officer Dave Moran says it is the beginning of the Saturday shift and there is not much going on and it is usually busy. So they drive through a neighborhood with lots of drug traffic to see what is going on. A drug-suspect chase; a body is found; a child-protective case; a noise complaint.
+**Fort Worth, TX 14**
+
+- (5:37 PM Street Patrol) South Division -- Officer Dave Moran says it is the beginning of the Saturday shift and there is not much going on and it is usually busy. So they drive through a neighborhood with lots of drug traffic to see what is going on. A drug-suspect chase; a body is found; a child-protective case; a noise complaint.
 
 ## CP-818
 
@@ -8534,7 +8548,7 @@ Aired 1999-09-18.
 
 Aired 1999-09-11.
 
-**Indianapolis, IN 8** (this likely should be `Indianapolis, IN 7`)
+**Indianapolis, IN 7**
 
 - (5:21 PM Assistance Call) East District -- Officer Genae Gehring says when
   she worked the Indy 500 speedway the first time she had to direct it three
@@ -8597,7 +8611,7 @@ Aired 1999-09-11.
 
 Aired 2000-01-15.
 
-**Indianapolis, IN 9**
+**Indianapolis, IN 8**
 
 - (2:32 AM Shooting Call) North District -- Officer Andrew Stradling likes the
   state and the city. It's not a big city, so there isn't as many problems like
@@ -8660,73 +8674,97 @@ Aired 2000-01-15.
 
 Aired 1999-09-25.
 
-**Indianapolis, IN 10** (9:34 PM Attempted Robbery) East District -- Officer Robert Cook says this district has all kind of weird activities. Once he was on the way to a call and spotted a naked man carrying a TV set, but wasn't able to find out why. He investigates an attempted robbery where the victim used martial arts on his assailants. Officers respond to a domestic dispute involving a woman who defended herself with a large knife when her ex-husband attempted to strangle her. The Department organizes a reverse sting operation targeting Johns out to pick up prostitutes.
+**Indianapolis, IN 9**
+
+- (9:34 PM Attempted Robbery) East District -- Officer Robert Cook says this district has all kind of weird activities. Once he was on the way to a call and spotted a naked man carrying a TV set, but wasn't able to find out why. He investigates an attempted robbery where the victim used martial arts on his assailants. Officers respond to a domestic dispute involving a woman who defended herself with a large knife when her ex-husband attempted to strangle her. The Department organizes a reverse sting operation targeting Johns out to pick up prostitutes.
 
 ## CP-1204
 
 Aired 1999-10-09.
 
-**Indianapolis, IN 11** (3:21 PM Assistance Call) East District -- Officer Frederick Hamer talks about going to Cubs games because that is real baseball -- in the day time, on grass in the open air. Plus there are 162 games a year, not like football. He helps other officers block a fleeing suspect's pick-up truck inside an alleyway, only to give chase yet again when the man places the vehicle in gear and makes another getaway attempt. Speedway Police Officers stop a motorist traveling at speeds over 100 mph and are later stunned by the suspect's honesty when they discover a bag of marijuana inside his vehicle. Speedway Police Officers come to the aid of two very young children who were locked out.
+**Indianapolis, IN 10**
+
+- (3:21 PM Assistance Call) East District -- Officer Frederick Hamer talks about going to Cubs games because that is real baseball -- in the day time, on grass in the open air. Plus there are 162 games a year, not like football. He helps other officers block a fleeing suspect's pick-up truck inside an alleyway, only to give chase yet again when the man places the vehicle in gear and makes another getaway attempt. Speedway Police Officers stop a motorist traveling at speeds over 100 mph and are later stunned by the suspect's honesty when they discover a bag of marijuana inside his vehicle. Speedway Police Officers come to the aid of two very young children who were locked out.
 
 ## CP-1205
 
 Aired 1999-10-30.
 
-**Indianapolis, IN 12** (4:36 PM Traffic Stop) West District -- Officer John Reichle was born and raised on the west side. The only other job he could do was he got accepted to seminary school to be a priest, but turned it down. It is a similar line of work -- helping people. He summons the K-9 unit when a fleeing suspect hides in some brush, and later he watches as a police dog applies a hold on the suspect's arm until officers are able to cuff him. Officer Travis assists animal control officers who claim they were assaulted when they attempted to take custody of a suspect's dog. Speedway Police Officers assist a department store security guard who observed two female suspects shoplifting clothing from the store.
+**Indianapolis, IN 11**
+
+- (4:36 PM Traffic Stop) West District -- Officer John Reichle was born and raised on the west side. The only other job he could do was he got accepted to seminary school to be a priest, but turned it down. It is a similar line of work -- helping people. He summons the K-9 unit when a fleeing suspect hides in some brush, and later he watches as a police dog applies a hold on the suspect's arm until officers are able to cuff him. Officer Travis assists animal control officers who claim they were assaulted when they attempted to take custody of a suspect's dog. Speedway Police Officers assist a department store security guard who observed two female suspects shoplifting clothing from the store.
 
 ## CP-1206
 
 Aired 1999-12-11.
 
-**Indianapolis, IN 13** (11:09 PM Robbery in Progress) West District -- Officer Jeff Viewegh -- Officers respond to a robbery; a teen overdoses on pain medication; a drug raid yields cocaine.
+**Indianapolis, IN 12**
+
+- (11:09 PM Robbery in Progress) West District -- Officer Jeff Viewegh -- Officers respond to a robbery; a teen overdoses on pain medication; a drug raid yields cocaine.
 
 ## CP-1207
 
 Aired 1999-12-18.
 
-**Indianapolis, IN 14** (9:26 PM Assistance Call) East District -- Officer Frederick Hamer says he thought the job would be all fun and games at first just catching bad guy. In reality the streets are blah, not a lot of excitement, lots of paperwork with hot calls only once in a while. Fleeing suspect leaves marijuana in the car; driver crashes into a telephone pole; foul-mouthed suspect quarrels with landlord and harasses his tenant.
+**Indianapolis, IN 13**
+
+- (9:26 PM Assistance Call) East District -- Officer Frederick Hamer says he thought the job would be all fun and games at first just catching bad guy. In reality the streets are blah, not a lot of excitement, lots of paperwork with hot calls only once in a while. Fleeing suspect leaves marijuana in the car; driver crashes into a telephone pole; foul-mouthed suspect quarrels with landlord and harasses his tenant.
 
 ## CP-1208
 
 Aired 2000-01-15.
 
-**Indianapolis, IN 15** (5:07 PM Prostitution Sting Briefing) East District -- Sgt. Ron Hicks says safety first, no arrest is worth getting hurt over. prostitution sting; man leaves a 3-year-old unattended; reckless motorcyclist; irate woman assaults an officer.
+**Indianapolis, IN 14**
+
+- (5:07 PM Prostitution Sting Briefing) East District -- Sgt. Ron Hicks says safety first, no arrest is worth getting hurt over. prostitution sting; man leaves a 3-year-old unattended; reckless motorcyclist; irate woman assaults an officer.
 
 ## CP-1209
 
 Aired 1999-10-02.
 
-**Indianapolis, IN 16** (5:27 PM Assistance Call) West District -- Officer John Reichle has been with the department eight years. He says there is no routine run. He keeps a pin on the roof of an officer who didn't wear his vest one night and was shot and killed to remind him to always wear his vest. He assists undercover narcotics officers with the arrest of a suspect who crashed his car and then dropped a packet of rock cocaine as he attempted to flee the scene on foot. Officer Faulk questions a motorist who accidentally drove her SUV through the wall of an apartment tenant's living room as she was attending to her crying child. Indianapolis police officers respond to a report about a man brandishing a gun, only to observe a scale and a small bag of marijuana in his possession.
+**Indianapolis, IN 15**
+
+- (5:27 PM Assistance Call) West District -- Officer John Reichle has been with the department eight years. He says there is no routine run. He keeps a pin on the roof of an officer who didn't wear his vest one night and was shot and killed to remind him to always wear his vest. He assists undercover narcotics officers with the arrest of a suspect who crashed his car and then dropped a packet of rock cocaine as he attempted to flee the scene on foot. Officer Faulk questions a motorist who accidentally drove her SUV through the wall of an apartment tenant's living room as she was attending to her crying child. Indianapolis police officers respond to a report about a man brandishing a gun, only to observe a scale and a small bag of marijuana in his possession.
 
 ## CP-1210
 
 Aired 1999-11-06.
 
-**Indianapolis, IN 17** (2:45 PM Assistance Call) South District -- Officer Tobi Cobian lived there his whole live and grew up in the south side, almost the same area he patrols. He is very familiar with a lot of the people in the neighborhood, the type of people and has a good relationship with the majority of people he works with. He takes the call to assist a homicide detective making a felony stop of a wanted Hispanic man for two counts of homicide in Boston; car sale goes awry; woman claims her husband assaulted her, and she fears retribution.
+**Indianapolis, IN 16**
+
+- (2:45 PM Assistance Call) South District -- Officer Tobi Cobian lived there his whole live and grew up in the south side, almost the same area he patrols. He is very familiar with a lot of the people in the neighborhood, the type of people and has a good relationship with the majority of people he works with. He takes the call to assist a homicide detective making a felony stop of a wanted Hispanic man for two counts of homicide in Boston; car sale goes awry; woman claims her husband assaulted her, and she fears retribution.
 
 ## CP-1211
 
 Aired 1999-11-06.
 
-**Fort Worth, TX 16** (7:36 PM Traffic Stop) South Sector -- Officer John Ost says when he is off duty he enjoys spending time with his wife and kid. He just got back into camping and fishing and tries to get far away without having to worry about work. He stops a car with a broken windshield, a missing rear view mirror and expired registration. He encounters an uncooperative driver who refuses to answer simple questions, demands a lawyer and attempts to run away. Forth Worth Police Officers utilize the services of a snake handler when a slithering serpent is discovered inside a broom closet. Officer Watkins spots a partially-clad female dancing in a provocative manner on the hood of a parked car.
+**Fort Worth, TX 15**
+
+- (7:36 PM Traffic Stop) South Sector -- Officer John Ost says when he is off duty he enjoys spending time with his wife and kid. He just got back into camping and fishing and tries to get far away without having to worry about work. He stops a car with a broken windshield, a missing rear view mirror and expired registration. He encounters an uncooperative driver who refuses to answer simple questions, demands a lawyer and attempts to run away. Forth Worth Police Officers utilize the services of a snake handler when a slithering serpent is discovered inside a broom closet. Officer Watkins spots a partially-clad female dancing in a provocative manner on the hood of a parked car.
 
 ## CP-1212
 
 Aired 1999-11-20.
 
-**Fort Worth, TX 17** (10:03 PM Suspicious Activity) East Sector -- Officer Jim Grow says one second everything can be honky dory and the next is madness and it is hard to believe that some people will try to kill you, but they will. They get caught up in their own thing and don't care who's in the way. Never let your guard down, when you do it could be your last time. He tries to sneak up on a man peddling narcotics. Suspect endangers officers while fleeing; woman facing multiple warrants begs not to be sent to jail; suspect tries hiding pot in a Bible.
+**Fort Worth, TX 16**
+
+- (10:03 PM Suspicious Activity) East Sector -- Officer Jim Grow says one second everything can be honky dory and the next is madness and it is hard to believe that some people will try to kill you, but they will. They get caught up in their own thing and don't care who's in the way. Never let your guard down, when you do it could be your last time. He tries to sneak up on a man peddling narcotics. Suspect endangers officers while fleeing; woman facing multiple warrants begs not to be sent to jail; suspect tries hiding pot in a Bible.
 
 ## CP-1213
 
 Aired 1999-11-27.
 
-**Fort Worth, TX 18** (10:44 PM Assistance Call) South Sector -- Officer Jerry Dalton likes the job since there are lots of opportunities to patrol the area he grew up in. It's real exciting and he wouldn't trade it for anything. If he became rich tomorrow he would still do it. He would do it for free if he had to. Two guys are caught stripping a stolen vehicle on the 3200 block of Todd. They are searched and one takes off over a fence, is caught, fights and Jerry pounds him. Another cop helps cuff him. He gets maced, screams and coughs. Officer Jose Alfardo gut cut in the eye. They go back and get disinfected. Jerry's knee is cut in 3 places. The other guy took off in the commotion and a helicopter tracks him. The first guy gets water poured on his face by paramedics. (10:32 PM Stabbing Call) Officer Phillip Whitehead was teaching special ed in a co-op school and wanted a change and his wife finally agreed. He goes to a country bar and cuffs Steve. Officer Kent Mouton mirandizes him. He says he got hit with a bottle first, then hit the guy back, it wasn't a fight. His front teeth are missing, they put him in a car to have the victim ID him. They go to a house where Clarence is all bloody on his face, shoulder and legs. He says Steve is his best friend and he hit him over a head with a bottle while he was sleeping too close to his old lady. He ID's him, presses charges and is loaded on an ambulance. His wife Ladonna heard it while she was sleeping and didn't see it because it was dark, but a friend saw it. (10:03 PM Traffic Stop) Officer Frederick Furgeson works the streets on a daily basis, learned about narcotics -- how to get it, how to do it. He wants to get home safe, that's the main thing. He sees a car leave a known drug house and stops them. Michael gets out, says he didn't bring his license, has no weapons, cleaned up his act and his nephew is in the car and it's his car. Fred asks the nephew if he can search his car and he says they can't for no reason and he wasn't driving. Mike gets cuffed, the nephew gets pulled out and searched. Fred finds wads of money and a bag of drugs on the seat and the guy reaches in, grabs the bag, fights and tosses it. Fred takes him down and cuffs him. Officer Kenneth Judd arrives and they find the bag of coke and heroin or "Boy & Girl" -- $1000 worth. Fred tells him the drugs have got to stop.
+**Fort Worth, TX 17**
+
+- (10:44 PM Assistance Call) South Sector -- Officer Jerry Dalton likes the job since there are lots of opportunities to patrol the area he grew up in. It's real exciting and he wouldn't trade it for anything. If he became rich tomorrow he would still do it. He would do it for free if he had to. Two guys are caught stripping a stolen vehicle on the 3200 block of Todd. They are searched and one takes off over a fence, is caught, fights and Jerry pounds him. Another cop helps cuff him. He gets maced, screams and coughs. Officer Jose Alfardo gut cut in the eye. They go back and get disinfected. Jerry's knee is cut in 3 places. The other guy took off in the commotion and a helicopter tracks him. The first guy gets water poured on his face by paramedics. (10:32 PM Stabbing Call) Officer Phillip Whitehead was teaching special ed in a co-op school and wanted a change and his wife finally agreed. He goes to a country bar and cuffs Steve. Officer Kent Mouton mirandizes him. He says he got hit with a bottle first, then hit the guy back, it wasn't a fight. His front teeth are missing, they put him in a car to have the victim ID him. They go to a house where Clarence is all bloody on his face, shoulder and legs. He says Steve is his best friend and he hit him over a head with a bottle while he was sleeping too close to his old lady. He ID's him, presses charges and is loaded on an ambulance. His wife Ladonna heard it while she was sleeping and didn't see it because it was dark, but a friend saw it. (10:03 PM Traffic Stop) Officer Frederick Furgeson works the streets on a daily basis, learned about narcotics -- how to get it, how to do it. He wants to get home safe, that's the main thing. He sees a car leave a known drug house and stops them. Michael gets out, says he didn't bring his license, has no weapons, cleaned up his act and his nephew is in the car and it's his car. Fred asks the nephew if he can search his car and he says they can't for no reason and he wasn't driving. Mike gets cuffed, the nephew gets pulled out and searched. Fred finds wads of money and a bag of drugs on the seat and the guy reaches in, grabs the bag, fights and tosses it. Fred takes him down and cuffs him. Officer Kenneth Judd arrives and they find the bag of coke and heroin or "Boy & Girl" -- $1000 worth. Fred tells him the drugs have got to stop.
 
 ## CP-1214
 
 Aired 1999-12-04.
 
-**Fort Worth, TX 19** (12:41 AM Traffic Stop) East Sector -- Officer Brian Clark says being a cop can be dangerous, not by getting shot, but the potential for being attacked. The biggest chance of getting injured is from driving a car 8 hours a day. He searches for a suspect who is believed to be armed with a high-powered assault rifle. Officers question a married couple about a domestic dispute in which the wife allegedly hurled objects at her husband's car. Officers arrest a profane young woman who manages to slip out of her handcuffs after being placed in the back of a patrol car.
+**Fort Worth, TX 18**
+
+- (12:41 AM Traffic Stop) East Sector -- Officer Brian Clark says being a cop can be dangerous, not by getting shot, but the potential for being attacked. The biggest chance of getting injured is from driving a car 8 hours a day. He searches for a suspect who is believed to be armed with a high-powered assault rifle. Officers question a married couple about a domestic dispute in which the wife allegedly hurled objects at her husband's car. Officers arrest a profane young woman who manages to slip out of her handcuffs after being placed in the back of a patrol car.
 
 ## CP-1215
 
@@ -8738,7 +8776,7 @@ Aired 1999-11-13.
 
 Aired 2000-01-08.
 
-**Fort Worth, TX 21** (where is `Fort Worth, TX 20`?)
+**Fort Worth, TX 20**
 
 - (8:45 PM Street Patrol) East Sector -- Officer Jim Grow talks about making a difference. The problem is that you can't always see it. You can stop a drunk driver and not know that what would've happened two minutes later, they could've killed 5 people if you didn't come along. You have to have faith that you are making a difference. He helps arrest two female suspects who made off with a man's car after he entered a convenience store to do some shopping. Officer Maldonado is flagged down by a female victim who claims to have given another woman money to buy her some crack... and received two pieces of plaster in return. Officer Hernandez receives some unusual help when a suspect detained during a routine traffic stop reveals that his companion is in possession of marijuana.
 
@@ -8746,49 +8784,65 @@ Aired 2000-01-08.
 
 Aired 2000-01-22.
 
-**Fort Worth, TX 22** (9:31 PM Domestic Disturbance Call) South Sector -- Officer Frederick Ferguson has been a cop for eight years and one of the calls that stands out in his mind was two brothers who shot each other over onions on a hamburger. He questions a male suspect who attacked his mother and brother after they turned off the TV show he was watching. Officer Cedillo stops a driver who openly admits that he was cruising a neighborhood in search of heroin to feed his daily habit. Fort Worth Police Officers hunt down two male suspects with some help from a helicopter equipped with infrared technology.
+**Fort Worth, TX 21**
+
+- (9:31 PM Domestic Disturbance Call) South Sector -- Officer Frederick Ferguson has been a cop for eight years and one of the calls that stands out in his mind was two brothers who shot each other over onions on a hamburger. He questions a male suspect who attacked his mother and brother after they turned off the TV show he was watching. Officer Cedillo stops a driver who openly admits that he was cruising a neighborhood in search of heroin to feed his daily habit. Fort Worth Police Officers hunt down two male suspects with some help from a helicopter equipped with infrared technology.
 
 ## CP-1218
 
 Aired 2000-01-29.
 
-**Fort Worth, TX 23** (10:36 PM Street Patrol) East Sector -- Officer Steve Myers says they deal with a lot of people with nothing to lose and who will do anything to get away. The major goal is to go home at the end of the night. He then chases a black man in a white shirt hanging out in an area known for drug activity through a park and catches him near a chain link fence. Officer Farah, Jr. questions a man who was arrested for narcotics on a previous occasion, and during the conversation, the officer notices that the suspect's cargo pants are stuffed with plastic baggies. Officer Maldonado questions a driver and his female passenger after they drive away from a house known for narcotics activity.
+**Fort Worth, TX 22**
+
+- (10:36 PM Street Patrol) East Sector -- Officer Steve Myers says they deal with a lot of people with nothing to lose and who will do anything to get away. The major goal is to go home at the end of the night. He then chases a black man in a white shirt hanging out in an area known for drug activity through a park and catches him near a chain link fence. Officer Farah, Jr. questions a man who was arrested for narcotics on a previous occasion, and during the conversation, the officer notices that the suspect's cargo pants are stuffed with plastic baggies. Officer Maldonado questions a driver and his female passenger after they drive away from a house known for narcotics activity.
 
 ## CP-1219
 
 Aired 2000-02-19.
 
-**Fort Worth, TX 24** (2:04 PM Assistance Call) South Sector -- Officer Joseph Farah, Jr. has a wife and three kids including a new baby. It's not an hour job which is kind of rough on his family. Sometimes he can't go home right away and his wife asks when he'll be home and he doesn't know. He could be booking a crazy suspect. He gets a call to back up an undercover auto theft detective in a hospital parking lot. He was following two guys and they ran in a black pickup truck, blew stop signs, crashed and bail. Joe goes after the passenger, an older white guy with red hair, and catchers him after jumping a chain link fence. He says he has bad legs and can't run. Officer Ismael Espinoza asks him to tell where his partner is and they'll go easy on him. He wants his hat that he lost in the chase. Detective Reginald Whitehead comes in to wrap it up. (11:30 PM Street Patrol) North Sector -- Officer Kenneth Pierce sees a dope deal going down on a corner with a black guy leaning in a car. He pulls him over, cuffs him and the older man who has one leg. When Ken was getting out of his car the dealer threw a canister of crack and Ken saw it and retrieves it. He also finds a pipe and he says it isn't his. Cpl. Randy Whisenhunt backs him up. The dealer has an eyeglass arm in his pocket for no reason, not for loading a crack pipe, a huge hole cut out of his license and no money. While the crack pipe isn't his, the keys right next to it are. South Sector -- Officer Joseph Farah, Jr. has been on South Side since he graduated in September 1995. (9:13 PM Domestic Disturbance Call) Officer Jorjana Wanzor backs him up. An old mother says her 35 year old son brought a no good crack woman over and then attacked her husband. His hand is cut and her husband John is 75 years old and can't read or write and went to the store to get away. He says the son tore the house up, beat on him and chunked things at him. Officer Ismael Espinoza talks to a neighbor who says the son threw a chair and beat the old man. The son says he swing a stick at him because he was only defending himself. He tried to stop him with a frying pan and spilled grease all over the floor then grabbed pliers. They put an EPO on him so he can't come back.
+**Fort Worth, TX 23**
+
+- (2:04 PM Assistance Call) South Sector -- Officer Joseph Farah, Jr. has a wife and three kids including a new baby. It's not an hour job which is kind of rough on his family. Sometimes he can't go home right away and his wife asks when he'll be home and he doesn't know. He could be booking a crazy suspect. He gets a call to back up an undercover auto theft detective in a hospital parking lot. He was following two guys and they ran in a black pickup truck, blew stop signs, crashed and bail. Joe goes after the passenger, an older white guy with red hair, and catchers him after jumping a chain link fence. He says he has bad legs and can't run. Officer Ismael Espinoza asks him to tell where his partner is and they'll go easy on him. He wants his hat that he lost in the chase. Detective Reginald Whitehead comes in to wrap it up. (11:30 PM Street Patrol) North Sector -- Officer Kenneth Pierce sees a dope deal going down on a corner with a black guy leaning in a car. He pulls him over, cuffs him and the older man who has one leg. When Ken was getting out of his car the dealer threw a canister of crack and Ken saw it and retrieves it. He also finds a pipe and he says it isn't his. Cpl. Randy Whisenhunt backs him up. The dealer has an eyeglass arm in his pocket for no reason, not for loading a crack pipe, a huge hole cut out of his license and no money. While the crack pipe isn't his, the keys right next to it are. South Sector -- Officer Joseph Farah, Jr. has been on South Side since he graduated in September 1995. (9:13 PM Domestic Disturbance Call) Officer Jorjana Wanzor backs him up. An old mother says her 35 year old son brought a no good crack woman over and then attacked her husband. His hand is cut and her husband John is 75 years old and can't read or write and went to the store to get away. He says the son tore the house up, beat on him and chunked things at him. Officer Ismael Espinoza talks to a neighbor who says the son threw a chair and beat the old man. The son says he swing a stick at him because he was only defending himself. He tried to stop him with a frying pan and spilled grease all over the floor then grabbed pliers. They put an EPO on him so he can't come back.
 
 ## CP-1220
 
 Aired 2000-03-04.
 
-**Fort Worth, TX 25** (3:12 PM Traffic Stop) East Sector -- Officer Antonio Maldonado II says there was just an aggravated robbery, and he spots a vehicle matching the description, a blue truck with a dent on the side door. He waits for backup before trying to pull them over going north on I35. There are 2 black males and a woman in the middle. He goes up with his gun drawn as Cpl. Silas Smith pulls the passenger out. Officer Allen Speed grabs the girl and finds a .32 gauge shotgun inside. The driver claims the truck was rented to him for $50 and the owner pulled a gun on him and wanted $100. He's been knowing the guy for years and the woman is his girlfriend. They both have warrants and are arresting. (12:11 AM Street Patrol) North Sector -- Officer Royce Hearne is getting older, but the criminals stay young. He works 5-6 days a week, bikes 6 days a week and is getting ready for a 100 mile race, his first one. He goes to a park that is closed and finds a fat Mexican woman with a baby on her lap giving a Hispanic man a BJ in the back seat of his car. Eric gets out with his pants down and says he had a fight with his wife so he went back with his ex. Royce tells the woman he has a problem with the woman giving him sexual favors with a child in the car. He's lucky he didn't see them in the act or they would be going to jail. Eric gets a citation for trespassing in the park. He says he's living with his woman for a year, not married, common law and is having trouble with the step-daughter. He ex is mad at him for living with the new girl, he pays child support, cries and admits he doesn't know whom he loves. He is 24, she is 37, he loves the baby... the baby comes first. East Sector -- Officer Antonio Maldonado II competes in bike races, did 120 miles in one day once. He follows a van leaving a known drug house and pulls him over. The old white guy gets out and is told to get back in. He claims he was looking for a van and is giving the young black woman with him a ride. He doesn't know if she's a whore, but he was going to ask for a BJ from her. The girl says she needed a ride to her uncle's house. She's not a ho, but all she has is a busted radio with money and a lingerie top stuffed inside, no ID and is going to Ramsey. Officer Sean Kenjura takes her info and both are cited for prostitution.
+**Fort Worth, TX 24**
+
+- (3:12 PM Traffic Stop) East Sector -- Officer Antonio Maldonado II says there was just an aggravated robbery, and he spots a vehicle matching the description, a blue truck with a dent on the side door. He waits for backup before trying to pull them over going north on I35. There are 2 black males and a woman in the middle. He goes up with his gun drawn as Cpl. Silas Smith pulls the passenger out. Officer Allen Speed grabs the girl and finds a .32 gauge shotgun inside. The driver claims the truck was rented to him for $50 and the owner pulled a gun on him and wanted $100. He's been knowing the guy for years and the woman is his girlfriend. They both have warrants and are arresting. (12:11 AM Street Patrol) North Sector -- Officer Royce Hearne is getting older, but the criminals stay young. He works 5-6 days a week, bikes 6 days a week and is getting ready for a 100 mile race, his first one. He goes to a park that is closed and finds a fat Mexican woman with a baby on her lap giving a Hispanic man a BJ in the back seat of his car. Eric gets out with his pants down and says he had a fight with his wife so he went back with his ex. Royce tells the woman he has a problem with the woman giving him sexual favors with a child in the car. He's lucky he didn't see them in the act or they would be going to jail. Eric gets a citation for trespassing in the park. He says he's living with his woman for a year, not married, common law and is having trouble with the step-daughter. He ex is mad at him for living with the new girl, he pays child support, cries and admits he doesn't know whom he loves. He is 24, she is 37, he loves the baby... the baby comes first. East Sector -- Officer Antonio Maldonado II competes in bike races, did 120 miles in one day once. He follows a van leaving a known drug house and pulls him over. The old white guy gets out and is told to get back in. He claims he was looking for a van and is giving the young black woman with him a ride. He doesn't know if she's a whore, but he was going to ask for a BJ from her. The girl says she needed a ride to her uncle's house. She's not a ho, but all she has is a busted radio with money and a lingerie top stuffed inside, no ID and is going to Ramsey. Officer Sean Kenjura takes her info and both are cited for prostitution.
 
 ## CP-1221
 
 Aired 2000-03-18.
 
-**Fort Worth, TX 26** (3:24 PM Traffic Stop) East Sector -- Officer Ruben Hernandez says people think they are always having fun because they laugh during bad situations to relieve stress since they don't want to cry. Crying makes you look weak, but they're not. He chases a stolen vehicle and, when the occupants bail out on foot, continues the pursuit with assistance from a police helicopter and numerous other officers. Officer Maldonado II questions a prostitute, spotted walking in and out of a roadway, who admits to having smoked crack cocaine earlier in the day. Officers Paine and Smith respond to a domestic violence call, only to encounter a female victim with visible signs of injury who does not want to press charges.
+**Fort Worth, TX 25**
+
+- (3:24 PM Traffic Stop) East Sector -- Officer Ruben Hernandez says people think they are always having fun because they laugh during bad situations to relieve stress since they don't want to cry. Crying makes you look weak, but they're not. He chases a stolen vehicle and, when the occupants bail out on foot, continues the pursuit with assistance from a police helicopter and numerous other officers. Officer Maldonado II questions a prostitute, spotted walking in and out of a roadway, who admits to having smoked crack cocaine earlier in the day. Officers Paine and Smith respond to a domestic violence call, only to encounter a female victim with visible signs of injury who does not want to press charges.
 
 ## CP-1222
 
 Aired 2000-03-25.
 
-**Fort Worth, TX 27** (6:17 PM Assistance Call) South Sector -- Officer Jorjana Wanzor wanted to become a cop because her mother was one. She went to court reporter school but decided she'd rather be in the field. An officer in a foot pursuit calls for help. A suspect bails out of car; runaway teen; driver stopped multiple times.
+**Fort Worth, TX 26**
+
+- (6:17 PM Assistance Call) South Sector -- Officer Jorjana Wanzor wanted to become a cop because her mother was one. She went to court reporter school but decided she'd rather be in the field. An officer in a foot pursuit calls for help. A suspect bails out of car; runaway teen; driver stopped multiple times.
 
 ## CP-1223
 
 Aired 2000-04-08.
 
-**Fort Worth, TX 28** (3:12 PM Traffic Stop) South Sector -- Officer John Ost says there are lots of gang members, drug dealers, a little bit of everything in the area. A driver owes $2000 tickets; father and son fight older man; marijuana found in cereal box.
+**Fort Worth, TX 27**
+
+- (3:12 PM Traffic Stop) South Sector -- Officer John Ost says there are lots of gang members, drug dealers, a little bit of everything in the area. A driver owes $2000 tickets; father and son fight older man; marijuana found in cereal box.
 
 ## CP-1224
 
 Aired 2000-04-22.
 
-**Fort Worth, TX 29** (12:48 AM Traffic Stop) East Sector -- Officer Sean Harris like dealing with kids. They look up to cops and hopefully they can shed light on their lives and help them onto the right path. driver speeds away from traffic stop; woman claims a man tried to rape her; suspect's cell phone rings during questioning.
+**Fort Worth, TX 28**
+
+- (12:48 AM Traffic Stop) East Sector -- Officer Sean Harris like dealing with kids. They look up to cops and hopefully they can shed light on their lives and help them onto the right path. driver speeds away from traffic stop; woman claims a man tried to rape her; suspect's cell phone rings during questioning.
 
 ## CP-1225
 

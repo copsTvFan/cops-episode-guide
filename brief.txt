@@ -287,8 +287,8 @@ CP-812            | 1995-09-16                  | Tampa, FL 11
 CP-813            | 1995-10-28                  | Dallas, TX 1
 CP-814            | 1995-09-23                  | Dallas, TX 2
 CP-815            | 1995-11-11                  | Dallas, TX 3
-CP-816            | 1995-09-09                  | Fort Worth, TX 14
-CP-817            | 1995-12-02                  | Fort Worth, TX 15
+CP-816            | 1995-09-09                  | Fort Worth, TX 13
+CP-817            | 1995-12-02                  | Fort Worth, TX 14
 CP-818            | 1996-03-30                  | Dallas, TX 4
 CP-819            | 1996-05-11                  | Dallas, TX 5
 CP-820            | 1995-10-07                  | Buffalo, NY 1
@@ -427,30 +427,30 @@ CP-1134           | 1999-05-15                  | Arizona 4
 CP-1135           | 1999-05-22                  | Arizona 5
 CP-1136           | 1999-09-18                  | Arizona 6
 
-CP-1201           | 1999-09-11                  | Indianapolis, IN 8
-CP-1202           | 2000-01-15                  | Indianapolis, IN 9
-CP-1203           | 1999-09-25                  | Indianapolis, IN 10
-CP-1204           | 1999-10-09                  | Indianapolis, IN 11
-CP-1205           | 1999-10-30                  | Indianapolis, IN 12
-CP-1206           | 1999-12-11                  | Indianapolis, IN 13
-CP-1207           | 1999-12-18                  | Indianapolis, IN 14
-CP-1208           | 2000-01-15                  | Indianapolis, IN 15
-CP-1209           | 1999-10-02                  | Indianapolis, IN 16
-CP-1210           | 1999-11-06                  | Indianapolis, IN 17
-CP-1211           | 1999-11-06                  | Fort Worth, TX 16
-CP-1212           | 1999-11-20                  | Fort Worth, TX 17
-CP-1213           | 1999-11-27                  | Fort Worth, TX 18
-CP-1214           | 1999-12-04                  | Fort Worth, TX 19
+CP-1201           | 1999-09-11                  | Indianapolis, IN 7
+CP-1202           | 2000-01-15                  | Indianapolis, IN 8
+CP-1203           | 1999-09-25                  | Indianapolis, IN 9
+CP-1204           | 1999-10-09                  | Indianapolis, IN 10
+CP-1205           | 1999-10-30                  | Indianapolis, IN 11
+CP-1206           | 1999-12-11                  | Indianapolis, IN 12
+CP-1207           | 1999-12-18                  | Indianapolis, IN 13
+CP-1208           | 2000-01-15                  | Indianapolis, IN 14
+CP-1209           | 1999-10-02                  | Indianapolis, IN 15
+CP-1210           | 1999-11-06                  | Indianapolis, IN 16
+CP-1211           | 1999-11-06                  | Fort Worth, TX 15
+CP-1212           | 1999-11-20                  | Fort Worth, TX 16
+CP-1213           | 1999-11-27                  | Fort Worth, TX 17
+CP-1214           | 1999-12-04                  | Fort Worth, TX 18
 CP-1215           | 1999-11-13                  | Fort Worth: Chases Special Edition
-CP-1216           | 2000-01-08                  | Fort Worth, TX 21
-CP-1217           | 2000-01-22                  | Fort Worth, TX 22
-CP-1218           | 2000-01-29                  | Fort Worth, TX 23
-CP-1219           | 2000-02-19                  | Fort Worth, TX 24
-CP-1220           | 2000-03-04                  | Fort Worth, TX 25
-CP-1221           | 2000-03-18                  | Fort Worth, TX 26
-CP-1222           | 2000-03-25                  | Fort Worth, TX 27
-CP-1223           | 2000-04-08                  | Fort Worth, TX 28
-CP-1224           | 2000-04-22                  | Fort Worth, TX 29
+CP-1216           | 2000-01-08                  | Fort Worth, TX 20
+CP-1217           | 2000-01-22                  | Fort Worth, TX 21
+CP-1218           | 2000-01-29                  | Fort Worth, TX 22
+CP-1219           | 2000-02-19                  | Fort Worth, TX 23
+CP-1220           | 2000-03-04                  | Fort Worth, TX 24
+CP-1221           | 2000-03-18                  | Fort Worth, TX 25
+CP-1222           | 2000-03-25                  | Fort Worth, TX 26
+CP-1223           | 2000-04-08                  | Fort Worth, TX 27
+CP-1224           | 2000-04-22                  | Fort Worth, TX 28
 CP-1225           | 2000-02-05                  | Albuquerque, NM 10
 CP-1226           | 2000-02-12                  | Albuquerque, NM 11
 CP-1227           | 2000-02-19                  | Albuquerque, NM 12
