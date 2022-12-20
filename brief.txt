@@ -46,6 +46,7 @@ CP-228            | 1990-04-14                  | Los Angeles, CA 10
 CP-229            | 1990-04-21                  | Los Angeles, CA 11
 CP-230            | 1990-04-28                  | Los Angeles CA 12
 CP-231            | 1990-05-05                  | Mardi Gras 1990 Hour Special
+
 CP-301            | 1990-09-15                  | Minneapolis, MN 1
 CP-302            | 1990-09-22                  | Minneapolis, MN 2 -- Rookies
 CP-303            | 1990-09-29                  | Minneapolis, MN 3 -- Women Cops

@@ -2099,67 +2099,72 @@ disappointing and tires to salvage what he can.
 
 Aired 1990-01-20.
 
-**San Diego, CA 4** (Northern Division Street Patrol) Sheriff's Dept -- Deputy
-Bill Hubler goes in his trunk for cuffs and a clipboard, then puts the cuffs on
-the shotgun inside. (2:45 PM Traffic Stop) He pulls over a black Z28 with
-license plate LE WEEZ. The driver Mrs. Anderson has over $9000 worth of traffic
-warrants and her license is suspend. The passenger Mr. Burton is sucking a
-lollipop and has no license either. She is pulled out and has no pockets to
-search and says she knows why she's getting arrested then yells “What?” really
-loud. He says the tape case and magazines are his and wants to know why they
-got pulled over. No front license plate. She starts crying in the back. He is
-free to go so he grabs his stuff and walks away. Bill finds an exacto knife kit
-in a wooden box, a vial of meth inside, a butane pencil torch and a glass crack
-pipe. She used to be a model and they find a folder of glamour shots of her
-posing in lingerie. Bill says she used to be a pretty good looking and she's
-not anymore. Central Jail -- Sgt. Grant Burnett says the advisory committee on
-adult detentions will be inspecting them, so make sure they polished their
-shoes, get a haircut and are squared away. He reads off the assignment list for
-search, P&R, etc. and they head out. (3:40 PM) Deputy Gene Bursch is assigned
-to gate duty. The first guy gets one chance to go along with the program.
-They'll take the cuffs off and if he sits in the room for 4-6 hours he'll get
-no charges, if not he gets a padded room for 12 hours. They hand out bags to
-put possessions in. (4:45 PM) They ask the guy if he ever wanted to kill
-himself, he says yes, but not tonight. He's been charged with oral copulation
-and sodomy, $60,000 bail. He'll get a chance to post it, but most likely won't
-be able to. (6:20 PM) A man says they picked him up at the YWCA and they tell
-him to be quiet and he'll get out in a few hours. He wants to know something.
-They tell them they don't know anything. He says they are the f--king police,
-they should know. He and his pregnant old lady have been all over the US with
-no problem. They say he should stay out of San Diego. They search a guy on
-crystal meth. They can get violent, paranoid and attack because they think
-people are out to get them, especially the druggies. He says he slammed and
-shows where he did it. He sticks it in the breasts of a woman on a tattoo. His
-heart rate is 104 bpm, he says he's not using though. It's instant exercise.
-They look in the drunk tank and people are whooping it up. One guy spits on the
-door. Another guy, Wayne, says he hasn't done meth in a week. They say he's
-tweaking and lying. They put him in a padded room and he says "Why me?" They
-smell pot and a small Mexican and a black guy in the drunk tank are smoking it.
-They pull them out and search them. The joys of alcohol, a typical Friday
-night. (7:38 PM) Eddie the transvestite is brought in, he's a regular and is
-wearing a tube top, white hat and looks like a cross between Vince Neil and
-Cher. He is charged with possession. They check his arms and he has a huge scar
-where he shot up at 3pm. He says he'll be out in a few hours, maybe more since
-he looks so cute. They show guys inspected naked in the shower. William is
-brought in for being drunk. He's down on the floor and says he can get up. He's
-the Duncan Man and not turn his arm and hurt. Gene tells him to shut up. He
-won't open his mouth or follow the program. Gene says he's not going to make
-it. Eddie is fingerprinted. An old black drunk is let out, free again. He says
-maybe he drinks too much and maybe he belongs in jail. They say they'll see him
-tomorrow, he says maybe later tonight. Bill says all he had was a couple of
-beers. He has a bloody fat lip and was beat up. They go to inspect him and he
-fights and goes down. Three cops are on him and he starts screaming like a
-girl. They tell him he's heading for the rubber room. He keeps howling and says
-he'll cooperate. He leaves a big bloody spot on the wall. He says the cuffs are
-hurting him, but they can't take them off because he's fighting. He says he
-isn't fighting. (9:07 PM) A guy in solitary tried to kill himself by wrapping
-toilet paper around his chest and setting on fire. Gene asks why he did that.
-He says so he could get pain killers. Gene says it'll hurt twice as much with
-the burns. A Mexican drunk is brought in and wants to go home. Gene says to
-click his heels together three times and say, “there's no place like home.”
-They guy actually does it and Gene says drunks are so funny. They say goodbye
-to Eddie and they'll see him next week. Welcome to County jail gentlemen, step
-on inside.
+**San Diego, CA 4**
+
+- (Northern Division Street Patrol) Sheriff's Dept -- Deputy Bill Hubler goes
+  in his trunk for cuffs and a clipboard, then puts the cuffs on the shotgun
+  inside. (2:45 PM Traffic Stop) He pulls over a black Z28 with license plate
+  LE WEEZ. The driver Mrs. Anderson has over $9000 worth of traffic warrants
+  and her license is suspend. The passenger Mr. Burton is sucking a lollipop
+  and has no license either. She is pulled out and has no pockets to search and
+  says she knows why she's getting arrested then yells “What?” really loud. He
+  says the tape case and magazines are his and wants to know why they got
+  pulled over. No front license plate. She starts crying in the back. He is
+  free to go so he grabs his stuff and walks away. Bill finds an exacto knife
+  kit in a wooden box, a vial of meth inside, a butane pencil torch and a glass
+  crack pipe. She used to be a model and they find a folder of glamour shots of
+  her posing in lingerie. Bill says she used to be a pretty good looking and
+  she's not anymore. Central Jail -- Sgt. Grant Burnett says the advisory
+  committee on adult detentions will be inspecting them, so make sure they
+  polished their shoes, get a haircut and are squared away. He reads off the
+  assignment list for search, P&R, etc. and they head out.
+- (3:40 PM) Deputy Gene Bursch is assigned to gate duty. The first guy gets one
+  chance to go along with the program.  They'll take the cuffs off and if he
+  sits in the room for 4-6 hours he'll get no charges, if not he gets a padded
+  room for 12 hours. They hand out bags to put possessions in.
+- (4:45 PM) They ask the guy if he ever wanted to kill himself, he says yes,
+  but not tonight. He's been charged with oral copulation and sodomy, $60,000
+  bail. He'll get a chance to post it, but most likely won't be able to.
+- (6:20 PM) A man says they picked him up at the YWCA and they tell him to be
+  quiet and he'll get out in a few hours. He wants to know something.  They
+  tell them they don't know anything. He says they are the f--king police, they
+  should know. He and his pregnant old lady have been all over the US with no
+  problem. They say he should stay out of San Diego. They search a guy on
+  crystal meth. They can get violent, paranoid and attack because they think
+  people are out to get them, especially the druggies. He says he slammed and
+  shows where he did it. He sticks it in the breasts of a woman on a tattoo.
+  His heart rate is 104 bpm, he says he's not using though. It's instant
+  exercise.  They look in the drunk tank and people are whooping it up. One guy
+  spits on the door. Another guy, Wayne, says he hasn't done meth in a week.
+  They say he's tweaking and lying. They put him in a padded room and he says
+  "Why me?" They smell pot and a small Mexican and a black guy in the drunk
+  tank are smoking it.  They pull them out and search them. The joys of
+  alcohol, a typical Friday night.
+- (7:38 PM) Eddie the transvestite is brought in, he's a regular and is wearing
+  a tube top, white hat and looks like a cross between Vince Neil and Cher. He
+  is charged with possession. They check his arms and he has a huge scar where
+  he shot up at 3pm. He says he'll be out in a few hours, maybe more since he
+  looks so cute. They show guys inspected naked in the shower. William is
+  brought in for being drunk. He's down on the floor and says he can get up.
+  He's the Duncan Man and not turn his arm and hurt. Gene tells him to shut up.
+  He won't open his mouth or follow the program. Gene says he's not going to
+  make it. Eddie is fingerprinted. An old black drunk is let out, free again.
+  He says maybe he drinks too much and maybe he belongs in jail. They say
+  they'll see him tomorrow, he says maybe later tonight. Bill says all he had
+  was a couple of beers. He has a bloody fat lip and was beat up. They go to
+  inspect him and he fights and goes down. Three cops are on him and he starts
+  screaming like a girl. They tell him he's heading for the rubber room. He
+  keeps howling and says he'll cooperate. He leaves a big bloody spot on the
+  wall. He says the cuffs are hurting him, but they can't take them off because
+  he's fighting. He says he isn't fighting.
+- (9:07 PM) A guy in solitary tried to kill himself by wrapping toilet paper
+  around his chest and setting on fire. Gene asks why he did that.  He says so
+  he could get pain killers. Gene says it'll hurt twice as much with the burns.
+  A Mexican drunk is brought in and wants to go home. Gene says to click his
+  heels together three times and say, “there's no place like home.” They guy
+  actually does it and Gene says drunks are so funny. They say goodbye to Eddie
+  and they'll see him next week. Welcome to County jail gentlemen, step on
+  inside.
 
 ## CP-218
 
@@ -7415,7 +7420,9 @@ Aired 1995-11-11.
 
 Aired 1995-09-09.
 
-**Fort Worth, TX 14** (4:12 PM Street Patrol) South Division -- Officer Dave Moran is parked on an overpass looking down for an approaching white van. Traffic accidents; immigration-card ring; false fire report.
+**Fort Worth, TX 14** (where is `Fort Worth, TX 13`?)
+
+(4:12 PM Street Patrol) South Division -- Officer Dave Moran is parked on an overpass looking down for an approaching white van. Traffic accidents; immigration-card ring; false fire report.
 
 ## CP-817
 
@@ -8468,7 +8475,64 @@ Aired 1999-09-18.
 
 Aired 1999-09-11.
 
-**Indianapolis, IN 8** (5:21 PM Assistance Call) East District -- Officer Genae Gehring says when she worked the Indy 500 speedway the first time she had to direct it three times in because of rain and it is a lot of fun, you get to walk around the track and meet a lot of people. She backs up an officer involved in a foot pursuit in an area past the train tracks on North Drive. She asks a witness where he went. He's a black guy, gray shirt, blue jeans. She backs up and goes on Dearborn. A group of people there says he ran into their house and out the back door. She knows the guy, it's Dave. She runs on foot through yards and they tackle him on a lawn. He says he's down after three cops are sitting on him including Officer Richard Wilkerson. Then he says he can't breathe and they don't believe him. They find a bag of powder in his pocket and he claims it's just Kool Aid. They tell him it doesn't matter, he'll still get busted for selling drugs. He's under house arrest and has an ankle bracelet on. His mom shows up and they tell him he was driving a stolen car. She wants to know if he stole the truck too. Officer Frederick Hamer Jr. explains it to him. Mom asks him what the bags are and he says a variety store next to them sells the Kool Aid like that. Genae says that's not true. He keeps talking and mom tells him to shut up. They sprayed him with mace and he has to go to the hospital. He wants to know what he's charged with and says his eyes are suddenly clean. Marion County (4:02 PM Traffic Accident) Sheriff's Dept -- West District Deputy Mark Myler has been there long enough to arrest the children of criminals and now even their grandchildren He goes to an accident where a girl was hit by a truck and is stuck underneath it. He says you never get used to seeing children hurt. He talks to the driver who says he was going around the corner and the girl came out in front of him on a bike and he panicked and hit the gas instead of the brake, hit her and dragged her into a yard. The bike is stuck under the truck and the driver cries. The girl, Sam, doesn't want to go to the hospital, but Mark says she has to. EMS works on her. A witness saw it, but doesn't know if the guy did anything wrong. He says another guy saw it too and Mark says to go get him. Mark has the driver show him what happened in the street and then has him sit in his car. A maintenance man lifts the truck and pulled her out. EMS says her pressure is dropping and they need to get her to the hospital. Being dragged on the lawn probably saved her. She got a bump on the head and lots of scrapes. She is stable. Indianapolis -- East District -- Officer Richard Wilkerson says you don't hear thank you a lot out here, when you do it's really nice. He goes to a house for a domestic and knocks on the door. A scroungy guy comes up and says someone called, but it's OK now. The guy who called doesn't live there. He sounds drunk and then says they guy who called is in the bathroom. He picks up some booze in the back and Rich tells him to put it down. He says he will after he drinks a sip. If anyone did anything wrong it was him, but he didn't do anything. Rich goes into the bathroom and there is a guy there with a bloody face. He says the drunk punched him twice. They go out and cuff the drunk and he says the guy punched himself in the eye. Officer Robert Hipple Jr. backs him up. The drunk says he fell, then he says it was self-defense. Rob questions the victim who says he told him to leave because his girlfriend left. Then he got mad, called 911 and then he punched him 3 times. He doesn't need an ambulance, but if it gets bad he'll go to the hospital. The drunk guy says he likes him and would die for any of them. Then he says he doesn't like the victim that much. They take him out and the victim tells them to take his Wild Irish Rose too. They pour it out. The drunk says to just take him home and Rich says he can't do that. He says he didn't hit the guy, but if he did hit him, he deserved it. Then he says he could overpower them all with a kung fu jujitsu flip. They ask what that is and he says not to worry about it.
+**Indianapolis, IN 8** (this likely should be `Indianapolis, IN 7`)
+
+- (5:21 PM Assistance Call) East District -- Officer Genae Gehring says when
+  she worked the Indy 500 speedway the first time she had to direct it three
+  times in because of rain and it is a lot of fun, you get to walk around the
+  track and meet a lot of people. She backs up an officer involved in a foot
+  pursuit in an area past the train tracks on North Drive. She asks a witness
+  where he went. He's a black guy, gray shirt, blue jeans. She backs up and
+  goes on Dearborn. A group of people there says he ran into their house and
+  out the back door. She knows the guy, it's Dave. She runs on foot through
+  yards and they tackle him on a lawn. He says he's down after three cops are
+  sitting on him including Officer Richard Wilkerson. Then he says he can't
+  breathe and they don't believe him. They find a bag of powder in his pocket
+  and he claims it's just Kool Aid. They tell him it doesn't matter, he'll
+  still get busted for selling drugs. He's under house arrest and has an ankle
+  bracelet on. His mom shows up and they tell him he was driving a stolen car.
+  She wants to know if he stole the truck too. Officer Frederick Hamer Jr.
+  explains it to him. Mom asks him what the bags are and he says a variety
+  store next to them sells the Kool Aid like that. Genae says that's not true.
+  He keeps talking and mom tells him to shut up. They sprayed him with mace and
+  he has to go to the hospital. He wants to know what he's charged with and
+  says his eyes are suddenly clean.
+- Marion County (4:02 PM Traffic Accident) Sheriff's Dept -- West District
+  Deputy Mark Myler has been there long enough to arrest the children of
+  criminals and now even their grandchildren He goes to an accident where a
+  girl was hit by a truck and is stuck underneath it. He says you never get
+  used to seeing children hurt. He talks to the driver who says he was going
+  around the corner and the girl came out in front of him on a bike and he
+  panicked and hit the gas instead of the brake, hit her and dragged her into a
+  yard. The bike is stuck under the truck and the driver cries. The girl, Sam,
+  doesn't want to go to the hospital, but Mark says she has to. EMS works on
+  her. A witness saw it, but doesn't know if the guy did anything wrong. He
+  says another guy saw it too and Mark says to go get him. Mark has the driver
+  show him what happened in the street and then has him sit in his car. A
+  maintenance man lifts the truck and pulled her out. EMS says her pressure is
+  dropping and they need to get her to the hospital. Being dragged on the lawn
+  probably saved her. She got a bump on the head and lots of scrapes. She is
+  stable.
+- Indianapolis -- East District -- Officer Richard Wilkerson says you don't
+  hear thank you a lot out here, when you do it's really nice. He goes to a
+  house for a domestic and knocks on the door. A scroungy guy comes up and says
+  someone called, but it's OK now. The guy who called doesn't live there. He
+  sounds drunk and then says they guy who called is in the bathroom. He picks
+  up some booze in the back and Rich tells him to put it down. He says he will
+  after he drinks a sip. If anyone did anything wrong it was him, but he didn't
+  do anything. Rich goes into the bathroom and there is a guy there with a
+  bloody face. He says the drunk punched him twice. They go out and cuff the
+  drunk and he says the guy punched himself in the eye. Officer Robert Hipple
+  Jr. backs him up. The drunk says he fell, then he says it was self-defense.
+  Rob questions the victim who says he told him to leave because his girlfriend
+  left. Then he got mad, called 911 and then he punched him 3 times. He doesn't
+  need an ambulance, but if it gets bad he'll go to the hospital. The drunk guy
+  says he likes him and would die for any of them. Then he says he doesn't like
+  the victim that much. They take him out and the victim tells them to take his
+  Wild Irish Rose too. They pour it out. The drunk says to just take him home
+  and Rich says he can't do that. He says he didn't hit the guy, but if he did
+  hit him, he deserved it. Then he says he could overpower them all with a kung
+  fu jujitsu flip. They ask what that is and he says not to worry about it.
 
 ## CP-1202
 
@@ -8615,7 +8679,9 @@ Aired 1999-11-13.
 
 Aired 2000-01-08.
 
-**Fort Worth, TX 21** (8:45 PM Street Patrol) East Sector -- Officer Jim Grow talks about making a difference. The problem is that you can't always see it. You can stop a drunk driver and not know that what would've happened two minutes later, they could've killed 5 people if you didn't come along. You have to have faith that you are making a difference. He helps arrest two female suspects who made off with a man's car after he entered a convenience store to do some shopping. Officer Maldonado is flagged down by a female victim who claims to have given another woman money to buy her some crack... and received two pieces of plaster in return. Officer Hernandez receives some unusual help when a suspect detained during a routine traffic stop reveals that his companion is in possession of marijuana.
+**Fort Worth, TX 21** (where is `Fort Worth, TX 20`?)
+
+- (8:45 PM Street Patrol) East Sector -- Officer Jim Grow talks about making a difference. The problem is that you can't always see it. You can stop a drunk driver and not know that what would've happened two minutes later, they could've killed 5 people if you didn't come along. You have to have faith that you are making a difference. He helps arrest two female suspects who made off with a man's car after he entered a convenience store to do some shopping. Officer Maldonado is flagged down by a female victim who claims to have given another woman money to buy her some crack... and received two pieces of plaster in return. Officer Hernandez receives some unusual help when a suspect detained during a routine traffic stop reveals that his companion is in possession of marijuana.
 
 ## CP-1217
 
