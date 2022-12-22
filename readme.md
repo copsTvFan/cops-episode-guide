@@ -6,8 +6,9 @@
 # Context
 
 This is a fork of William "Thrawn" Wolf III's original ["Cops on Fox"
-guide](https://copstvfan.github.io/geocities-copsonfox-archive/). William
-passed away in 2010.
+guide](https://copstvfan.github.io/geocities-copsonfox-archive/). Sadly William
+[passed away in
+2010](https://www.damianofuneralhome.com/obituary/William-WolfIII-1).
 
 This version contains fixes, allows text selection and copying, has better
 design and hosting, and will eventually also cover seasons 22 through 34.
