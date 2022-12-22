@@ -2219,61 +2219,65 @@ police arrive. It might be an off duty cop the dog belonged to.
 
 Aired 1990-02-03.
 
-**Los Angeles, CA 1** (12:20 PM Homicide Investigation) Sheriff's Dept Homicide
-Bureau -- A call comes from a man who hasn't heard from a neighbor in a while
-and went in with the key and found him dead. They find him on the floor next to
-the bed with a pillow over his face. He was last heard from on Saturday. He's
-in his 50s and was known to pick up young boys for gay sex. Detective Mike
-Bumcrot checks around and finds gay video tapes. His friend was worried, called
-the realtor, got the key and came in. The say it must be someone he knew
-because she can't get in the building. They find his hands are cuffed and they
-cut them out. Later an 18 year old is caught in Las Vegas using his credit
-card. His Mercedes was stolen along with his wallet. They want them to arrest
-him. He says the 23 year old brother was driving the car. (7:20 PM Homicide
-Bureau) Detective Mark Cleaves is told the son confessed to his mom, but she
-won't say what he told her. He went home with the guy and smoked crack, hopes
-he isn't dead and if he is he wants to kill himself. (3:12 AM Garden Grove
-Police Briefing) He said he wanted to turn himself in at the Crystal Cathedral
-in Vegas. (4:30 AM Suspect Arrested) They go and get him. The pastor says he
-came in wanting to give himself up and he did it. The pastor says goodbye to
-him and tells him to tell the truth. They were going to go to Reno to get him,
-but they are glad he came back and it's over. West Hollywood Sheriff's Station
-(Training Evaluation) Deputy Sean Collinsworth talks to Deputy Paul Terrusa
-about his second month evaluation. His total score is 2.8, better than last
-time, but some areas weren't. His broadcast skills are good, but when answering
-the calls he's not listening. He's the closest unit and he doesn't hear it. The
-armed robber he took down 2 weeks ago was superb. Uniform and attitude are
-excellent, his saving grace. If it wasn't for his attitude he would've shot him
-a long time ago. (911 Man with Gun) The suspect was there before and the victim
-saw a gun, left and came back. They play a video tape dated 10/19/89 and it
-shows the guy coming into the tow yard and when he turns to leave they see the
-gun in his back. They wait outside for the guy to come back and they go in with
-guns drawn. There are four Asian guys inside and they ask the guy in the white
-shirt where the gun is. The other three aren't with him, so they let them out.
-Paul checks him out. The guy says it was a pipe, not a gun. He was pissed
-because they towed his car. He came out and his car was gone and he looked for
-it for an hour. He says he threw the pipe out. Sean wants to look in his van.
-He says OK, but it's not his van. A second guy says he has a BB gun in his car.
-They find it and it looks like a .45 caliber. The first guy wants to tell his
-point of view. Sean says his point is mute. They say a fake gun will get him
-killed. LA County -- Sheriff's Dept West Hollywood -- Deputy Brian Nelson says he
-gets a lot of support from his family. They get excited when he gets certain
-jobs, but they worry too. He's brought his fiancé out with him to see what he
-does. She puts a lot of faith in him and trusts him because he's got good
-training. (11:49 PM Assistance Call) A call of 6 male blacks trying to beat up
-a transvestite comes in. He instead goes to a call of three men detained.
-Joshua is 19 and has a wool hat over his eyes. They want to see if they are the
-ones causing trouble. Deputy Brian Hickey is on the scene. His American Express
-Card says James. He says that was a card he just found a minute ago and was
-going to throw it away. Brian asks him why he would do that and not turn it in.
-They call in to find out if it is stolen. He says he didn't use it, but it's a
-misdemeanor to have it. They check him to see if he has others. Josh wants to
-know if he'll get in trouble for finding it. He says no, you should call it in
-or give it to the police. Common sense says he would try to get it back to the
-owner. Josh is on probation for second degree robbery, he did his time and is
-that going to be a problem? Josh is arrested for receiving stolen property and
-they'll contact his probation officer. Another Case solved. Dedicated to the
-memory of Deputy Jack Murphy 1954-1988.
+**Los Angeles, CA 1**
+
+- (12:20 PM Homicide Investigation) Sheriff's Dept Homicide Bureau -- A call
+  comes from a man who hasn't heard from a neighbor in a while and went in with
+  the key and found him dead. They find him on the floor next to the bed with a
+  pillow over his face. He was last heard from on Saturday. He's in his 50s and
+  was known to pick up young boys for gay sex. Detective Mike Bumcrot checks
+  around and finds gay video tapes. His friend was worried, called the realtor,
+  got the key and came in. The say it must be someone he knew because she can't
+  get in the building. They find his hands are cuffed and they cut them out.
+  Later an 18 year old is caught in Las Vegas using his credit card. His
+  Mercedes was stolen along with his wallet. They want them to arrest him. He
+  says the 23 year old brother was driving the car. (7:20 PM Homicide Bureau)
+  Detective Mark Cleaves is told the son confessed to his mom, but she won't
+  say what he told her. He went home with the guy and smoked crack, hopes he
+  isn't dead and if he is he wants to kill himself. (3:12 AM Garden Grove
+  Police Briefing) He said he wanted to turn himself in at the Crystal
+  Cathedral in Vegas. (4:30 AM Suspect Arrested) They go and get him. The
+  pastor says he came in wanting to give himself up and he did it. The pastor
+  says goodbye to him and tells him to tell the truth. They were going to go to
+  Reno to get him, but they are glad he came back and it's over.
+- West Hollywood Sheriff's Station (Training Evaluation) Deputy Sean
+  Collinsworth talks to Deputy Paul Terrusa about his second month evaluation.
+  His total score is 2.8, better than last time, but some areas weren't. His
+  broadcast skills are good, but when answering the calls he's not listening.
+  He's the closest unit and he doesn't hear it. The armed robber he took down 2
+  weeks ago was superb. Uniform and attitude are excellent, his saving grace.
+  If it wasn't for his attitude he would've shot him a long time ago. (911 Man
+  with Gun) The suspect was there before and the victim saw a gun, left and
+  came back. They play a video tape dated 10/19/89 and it shows the guy coming
+  into the tow yard and when he turns to leave they see the gun in his back.
+  They wait outside for the guy to come back and they go in with guns drawn.
+  There are four Asian guys inside and they ask the guy in the white shirt
+  where the gun is. The other three aren't with him, so they let them out.
+  Paul checks him out. The guy says it was a pipe, not a gun. He was pissed
+  because they towed his car. He came out and his car was gone and he looked
+  for it for an hour. He says he threw the pipe out. Sean wants to look in his
+  van.  He says OK, but it's not his van. A second guy says he has a BB gun in
+  his car.  They find it and it looks like a .45 caliber. The first guy wants
+  to tell his point of view. Sean says his point is mute. They say a fake gun
+  will get him killed.
+- LA County -- Sheriff's Dept West Hollywood -- Deputy Brian Nelson says he
+  gets a lot of support from his family. They get excited when he gets certain
+  jobs, but they worry too. He's brought his fiancé out with him to see what he
+  does. She puts a lot of faith in him and trusts him because he's got good
+  training. (11:49 PM Assistance Call) A call of 6 male blacks trying to beat
+  up a transvestite comes in. He instead goes to a call of three men detained.
+  Joshua is 19 and has a wool hat over his eyes. They want to see if they are
+  the ones causing trouble. Deputy Brian Hickey is on the scene. His American
+  Express Card says James. He says that was a card he just found a minute ago
+  and was going to throw it away. Brian asks him why he would do that and not
+  turn it in.  They call in to find out if it is stolen. He says he didn't use
+  it, but it's a misdemeanor to have it. They check him to see if he has
+  others. Josh wants to know if he'll get in trouble for finding it. He says
+  no, you should call it in or give it to the police. Common sense says he
+  would try to get it back to the owner. Josh is on probation for second degree
+  robbery, he did his time and is that going to be a problem? Josh is arrested
+  for receiving stolen property and they'll contact his probation officer.
+  Another Case solved. Dedicated to the memory of Deputy Jack Murphy 1954-1988.
 
 ## CP-220
 
