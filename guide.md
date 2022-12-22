@@ -2277,7 +2277,9 @@ Aired 1990-02-03.
   would try to get it back to the owner. Josh is on probation for second degree
   robbery, he did his time and is that going to be a problem? Josh is arrested
   for receiving stolen property and they'll contact his probation officer.
-  Another Case solved. Dedicated to the memory of Deputy Jack Murphy 1954-1988.
+  Another Case solved.
+
+Dedicated to the memory of Deputy Jack Miller 1954-1988.
 
 ## CP-220
 
