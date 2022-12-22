@@ -13640,149 +13640,333 @@ TODO: Add times.
 
 # Season 22
 
-2009–2010.
+2009–2010. Contributed by `copsTvFan` instead of `thrawn`.
 
+## CP-2201
+## S22E06
+
+Aired 2009-10-10.
+
+**Neighborhood Busts #2**
+
+- Brevard County, FL -- 3:16 PM Warrant Call -- Deputy Brett Moore
+
+## CP-2202
+## S22E07
+
+**Aired 2009-10-24.**
+
+In Denial #3
+
+- Las Vegas, NV -- 5:25 PM Suspicious Vehicle -- Officer Kirk Guevara
+
+## CP-2203
+## S22E05
+
+Aired 2009-10-03.
+
+**Family Ties #2**
+
+- Las Vegas, NV -- 6:08 PM Jaywalking -- Officer Scott Nastase
+
+## CP-2204
+## S22E04
+
+Aired 2009-09-26.
+
+**Dazed & Confused #2**
+
+- Las Vegas, NV -- 6:14 PM Disturbance Call -- Officer Matthew Eschker
+
+## CP-2205
+## S22E03
+
+Aired 2009-09-19.
+
+**Domestic Distrubances Special Edition**
+
+- San Bernandino Co., CA -- 5:20 PM Burglary in Progress -- Deputy Jason Whitsell
+
+## CP-2206
+## S22E02
+
+Aired 2009-09-12.
+
+**Liar, Liar #4**
+
+- San Bernandino Co., CA -- 9:15 PM Pursuit in Progress -- Deputy Lisa Guerra
+
+## CP-2207
 ## S22E01
+
+Aired 2009-09-12.
+
+**Odd Arrests #2**
 
 - Las Vegas, NV -- 5:21 PM Assistance Call -- Officer Zachary Johnson
 - Palm Beach County, FL -- 8:49 PM Disturbance call -- Sean McMichael
 - San Bernandino Co., CA -- 1:20 AM Suspicious Vehicle -- Deputy Vanessa Duardo
 
-## S22E02
-
-- San Bernandino Co., CA -- 9:15 PM Pursuit in Progress -- Deputy Lisa Guerra
-
-## S22E03
-
-- San Bernandino Co., CA -- 5:20 PM Burglary in Progress -- Deputy Jason Whitsell
-
-## S22E04
-
-- Las Vegas, NV -- 6:14 PM Disturbance Call -- Officer Matthew Eschker
-
-## S22E05
-
-- Las Vegas, NV -- 6:08 PM Jaywalking -- Officer Scott Nastase
-
-## S22E06
-
-- Brevard County, FL -- 3:16 PM Warrant Call -- Deputy Brett Moore
-
-## S22E07
-
-- Las Vegas, NV -- 5:25 PM Suspicious Vehicle -- Officer Kirk Guevara
-
-## S22E08
-
-- Las Vegas, NV -- 6:56 PM Pursuit in Progress -- Officer Jason Vallad
-
-## S22E09
-
-- Kern County, CA -- 4:54 PM Criminal Investigation -- Senior Deputy Robert Stevenson
-
-## S22E10
-
-- Tulsa County, OK -- 8:56 PM Carjacking -- Deputy Ryan Ayers
-
+## CP-2208
 ## S22E11
+
+Aired 2009-11-28.
+
+**Coast to Coast #158**
 
 - San Bernandino Co., CA -- 9:50 PM Fight in Progress -- Deputy Vanessa Duardo
 
+## CP-2209
+## S22E08
+
+Aired 2009-11-07.
+
+**Dangerous Arrests**
+
+- Las Vegas, NV -- 6:56 PM Pursuit in Progress -- Officer Jason Vallad
+
+## CP-2210
 ## S22E12
+
+Aired 2009-12-05.
+
+**Coast to Coast #159**
 
 - Las Vegas, NV -- 4:21 PM Unknown Trouble Call -- FTO Dave Howard
 
-## S22E13
-
-- Portland, OR -- 8:35 PM Vice Call -- Officer Josh Howery and  Officer Erica Hurley
-
+## CP-2211
 ## S22E14
+
+Aired 2010-01-09.
+
+**Bad Girls #13**
 
 - San Bernandino Co., CA -- 8:57 PM Domestic Disturbance Call -- Deputy Jason Whitsell
 
+## CP-2212
+## S22E09
+
+Aired 2009-11-14.
+
+**Stupid Behavior #4**
+
+- Kern County, CA -- 4:54 PM Criminal Investigation -- Senior Deputy Robert Stevenson
+
+## CP-2213
 ## S22E15
+
+Aired 2010-01-16.
+
+**Coast to Coast #160**
 
 - Tulsa County, OK -- 7:46 PM Suspicious Vehicle -- Deputy Ryan Ayers
 
+## CP-2214
+## S22E10
+
+Aired 2009-11-21.
+
+**Slacker Crimes Special Edition**
+
+- Tulsa County, OK -- 8:56 PM Carjacking -- Deputy Ryan Ayers
+
+## CP-2215
 ## S22E16
+
+Aired 2010-01-23.
+
+**Coast to Coast #161**
 
 - Tulsa County, OK -- 8:59 PM Traffic Stop -- Sgt. Shane Rhames
 
+## CP-2216
 ## S22E17
+
+Aired 2010-01-30.
+
+**Coast to Coast #162**
 
 - Tulsa County, OK -- 7:50 PM Pursuit in Progress -- Deputy Scott Dean
 
-## S22E18
-
-- Houston, TX -- 7:53 PM Traffic Stop -- Sgt. Matt Richard
-
-## S22E19
-
-- Houston, TX -- 9:00 PM Narcotics Operation -- Officer L.V. Powell
-
-## S22E20
-
-- Houston, TX -- 2:13 PM Traffic Stop -- Officer Hans Wagner and Sgt. Mark Bailey
-
+## CP-2217
 ## S22E21
+
+Aired 2010-03-06.
+
+**Coast to Coast #163**
 
 - Harris County, TX -- 5:00 PM Traffic Stop -- FTO George Ellington
 
+## CP-2218
 ## S22E22
+
+Aired 2010-03-13.
+
+**Coast to Coast #164**
 
 - Fort Myers, FL -- 6:42 PM Pursuit in Progress -- Officer Wolfgang Daniel
 
+## CP-2219
 ## S22E23
+
+Aired 2010-03-20.
+
+**Coast to Coast #165**
 
 - Amarillo, TX -- 1:12 AM Fight Call -- Officer Billy Jensen
 
+## CP-2220
+## S22E18
+
+Aired 2010-02-13.
+
+**Chases, Stings and Rescues**
+
+- Houston, TX -- 7:53 PM Traffic Stop -- Sgt. Matt Richard
+
+## CP-2221
+## S22E19
+
+Aired 2010-02-20.
+
+**War on Drugs #4**
+
+- Houston, TX -- 9:00 PM Narcotics Operation -- Officer L.V. Powell
+
+## CP-2222
+## S22E20
+
+Aired 2010-02-27.
+
+**Drugs & Driving**
+
+- Houston, TX -- 2:13 PM Traffic Stop -- Officer Hans Wagner and Sgt. Mark Bailey
+
+## CP-2223
 ## S22E24
+
+Aired 2010-03-27.
+
+**Coast to Coast #166**
 
 - Houston, TX -- 5:20 PM Robbery Call --  Senior Officer Karl Pederson
 
-## S22E25
-
-- Houston, TX -- 9:03 PM Pursuit in Progress -- Senior Officer Karl Pederson
-
-## S22E26
-
-- Portland, OR -- 11:10 PM Suspicious Activity -- Officer Ryan Reagan and Officer Tony Hill
-
+## CP-2224
 ## S22E27
+
+Aired 2010-05-15.
+
+**Police Pullovers #6**
 
 - Amarillo, TX -- 8:10 PM Fight Call -- Officer Billy Jensen
 
+## CP-2225
+## S22E25
+
+Aired 2010-04-17 (tvmaze, wiki) or 2010-04-03 (thetvdb).
+
+**Street Patrol #1**
+
+- Houston, TX -- 9:03 PM Pursuit in Progress -- Senior Officer Karl Pederson
+
+## CP-2226
 ## S22E28
+
+Aired 2010-05-15.
+
+**Resisting Arrest #5**
 
 - Boynton Beach, FL -- 9:08 PM Armed Robbery Call -- Officer Drew Murphy
 
+## CP-2227
+## S22E26
+
+Aired 2010-04-24 (tvmaze, wiki) or 2010-04-17 (thetvdb).
+
+**Coast to Coast #167**
+
+- Portland, OR -- 11:10 PM Suspicious Activity -- Officer Ryan Reagan and Officer Tony Hill
+
+## CP-2228
 ## S22E29
 
--- Maricopa County, AZ -- 10:30 PM Vehicle Pursuit in Progress -- Deputy Patrick Arend
+Aired 2010-06-05 (tvmaze, wiki) or 2010-06-12 (thetvdb).
 
-## S22E30
+**Coast to Coast #168**
 
-- Amarillo, TX -- 8:22 PM Suspicious Activity -- Officer Johnny Bermea
+- Maricopa County, AZ -- 10:30 PM Vehicle Pursuit in Progress -- Deputy Patrick Arend
 
-## S22E31
-
-- Houston, TX -- 5:44 PM Possible Drug Activity -- Sgt. Larry Mikel
-
-## S22E32
-
-- Amarillo, TX -- 9:49 PM Possible Burglary in Progress -- Officer James Blandford
-
+## CP-2229
 ## S22E33
+
+Aired 2010-07-10.
+
+**Morons On Parade #2**
 
 - Portland, OR -- 7:53 PM Fight Call -- Officer Andy Polas and Officer Ty Garrison
 
+## CP-2230
+## S22E30
+
+Aired 2010-06-12.
+
+**Coast to Coast #169**
+
+- Amarillo, TX -- 8:22 PM Suspicious Activity -- Officer Johnny Bermea
+
+## CP-2231
+## S22E31
+
+Aired 2010-06-19.
+
+**Coast to Coast #170**
+
+- Houston, TX -- 5:44 PM Possible Drug Activity -- Sgt. Larry Mikel
+
+## CP-2232
+## S22E32
+
+Aired 2010-07-03.
+
+**Coast to Coast #171**
+
+- Amarillo, TX -- 9:49 PM Possible Burglary in Progress -- Officer James Blandford
+
+## CP-2233
 ## S22E34
+
+Aired 2010-07-17.
+
+**Coast to Coast #172**
 
 - Boynton Beach, FL -- 9:16 PM Pursuit in Progress -- Officer Charles Turco
 
+## CP-2234
 ## S22E35
 
+Aired 2010-07-24.
+
+**Coast to Coast #173**
+
 - San Diago County, CA -- Surveillance Camera -- 7:27 AM Possible Immigration Violation -- Officer Edward Chavoya, Officer Alfredo Loperena
+
+## CP-2235
+## S22E36
+
+Aired 2010-07-31.
+
+**Coast to Coast #174**
+
+- TODO/FIXME
+
+## CP-2236
+## S22E13
+
+Aired 2009-12-12.
+
+**Ho! Ho! Ho! #6**
+
+- Portland, OR -- 8:35 PM Vice Call -- Officer Josh Howery and Officer Erica Hurley
 
 # Season 23
 
