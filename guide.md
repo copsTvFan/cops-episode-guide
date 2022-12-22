@@ -9904,8 +9904,16 @@ Aired 2004-01-17.
   worker
 - Wichita KS -- Fight in progress over grass on a driveway with a fat shirtless
   tattooed man and old hippies
-- Indio CA -- Officer assistance call with an ugly ex-con lesbian fighting with
-  her ex-lover at a liquor store.
+- Indio CA -- 11:56 PM Officer Assistance Call -- ugly ex-con lesbian fighting
+  with her ex-lover at a liquor store. Sgt. Jeff Hicks.
+
+Some versions has this as segment 2:
+
+- Albuquerque NM (1:26 PM Trespassing Call) Kevin hides under a mattress after
+  getting caught stealing tries and returning to trespass. Officer John
+  Guilmette and officer John Corvino.
+
+Censored segment?
 
 ## CP-1609
 
@@ -10008,10 +10016,12 @@ Aired 2004-02-21.
 - (Passaic County NJ 8:56 PM Traffic Stop) Two guys get caught buying drugs and
   they got busted last week in the same spot. The driver claims he wanted to
   see where he was busted and was just selling stuff.
-- Albuquerque NM (1:28 PM Trespassing Call) Kevin hides under a mattress after
-  getting caught stealing tries and returning to trespass.
+- Albuquerque NM (1:26 PM Trespassing Call) Kevin hides under a mattress after
+  getting caught stealing tries and returning to trespass. Officer John
+  Guilmette and officer John Corvino.
 - Wichita KS (9:40 PM Officer Assistance Call) A man steals a bike and takes
   off and gets caught hiding in a shed after riding past the bike owners house.
+  Officer Justin McCluskey.
 
 ## CP-1616
 
@@ -10454,35 +10464,39 @@ Aired 2004-09-11.
 
 Aired 2004-09-11.
 
-**Coast to Coast 68** (Jacksonville, FL -- 3:18 PM Narcotic Sting Briefing)
-Narcotics Unit -- Sgt. Randy White talks about a buy/bust operation and they
-call up a dealer whom Detective Linda Morgan has his number from a previous
-deal. They meet in a park in a blue truck with an ATV in the back. They jump
-the two black dealers who know nothing about any drugs. One guy starts
-swallowing the drugs and they get him to spit it out. They call another guy in
-a red Lumina for crack. He notices the police and drives off, but they block
-him in after he rams them twice. 8:12 PM -- Linda calls another guy and meets
-him at a liquor store parking lot. The black dealer runs and gets a huge lead
-across the road and they have to catch him by car. They take his picture and he
-won't say a word after selling them $100 worth of crack for $80. Passaic County
-NJ (4:51 Traffic Stop) Sheriff's Dept. Cpl. Anthony Damiano tells about the
-area he covers. He heads to a project to see what is going on. He pulls over a
-car for missing a stop sign. The white driver says excuse me to Anthony, gets
-out, has no ID, but has two bags of crack. He's 29 and from Garfield and has
-been smoking it for two weeks and just got out of rehab. He been stressed out
-because of his girlfriend hounding him, his one year old kid, having a crappy
-job and a bad accident at work today. He is charged with only simple possession
-and says his girlfriend will kick him out.  Jacksonville FL -- Zone 4 -- Officer
-Brett Futch says his kids don't worry about him. He keeps a journal for his
-daughter who thinks the stories from his job are cool. (9:22 PM Domestic
-Violence Call) 15 year old Nicole beat up her mom. She wanted to go to a
-birthday party, but instead was sneaking out with her boyfriend Anthony. She
-was punching, kicking and biting as her mom tried to get the phone away from
-her. She called her mom a bitch, slut, tramp and a whore an has marks on her
-from the struggle. Officer Michelle Terry arrests the daughter, which causes
-her to cry and say she wasn't the first one to attack. Nicole says she pushed
-her down on the bed and wouldn't let her get up. Brett says her mom has the
-right to discipline her. Mom says Nicole needs help. AKA Damiano Buy/Bust
+**Coast to Coast 68**
+
+- (Jacksonville, FL -- 3:18 PM Narcotic Sting Briefing) Narcotics Unit -- Sgt.
+  Randy White talks about a buy/bust operation and they call up a dealer whom
+  Detective Linda Morgan has his number from a previous deal. They meet in a
+  park in a blue truck with an ATV in the back. They jump the two black dealers
+  who know nothing about any drugs. One guy starts swallowing the drugs and
+  they get him to spit it out. They call another guy in a red Lumina for crack.
+  He notices the police and drives off, but they block him in after he rams
+  them twice. 8:12 PM -- Linda calls another guy and meets him at a liquor
+  store parking lot. The black dealer runs and gets a huge lead across the road
+  and they have to catch him by car. They take his picture and he won't say a
+  word after selling them $100 worth of crack for $80.
+- Passaic County NJ (4:51 Traffic Stop) Sheriff's Dept. Cpl. Anthony Damiano
+  tells about the area he covers. He heads to a project to see what is going
+  on. He pulls over a car for missing a stop sign. The white driver says excuse
+  me to Anthony, gets out, has no ID, but has two bags of crack. He's 29 and
+  from Garfield and has been smoking it for two weeks and just got out of
+  rehab. He been stressed out because of his girlfriend hounding him, his one
+  year old kid, having a crappy job and a bad accident at work today. He is
+  charged with only simple possession and says his girlfriend will kick him
+  out.
+- Jacksonville FL -- Zone 4 -- Officer Brett Futch says his kids don't worry
+  about him. He keeps a journal for his daughter who thinks the stories from
+  his job are cool. (9:22 PM Domestic Violence Call) 15 year old Nicole beat up
+  her mom. She wanted to go to a birthday party, but instead was sneaking out
+  with her boyfriend Anthony. She was punching, kicking and biting as her mom
+  tried to get the phone away from her. She called her mom a bitch, slut, tramp
+  and a whore an has marks on her from the struggle. Officer Michelle Terry
+  arrests the daughter, which causes her to cry and say she wasn't the first
+  one to attack. Nicole says she pushed her down on the bed and wouldn't let
+  her get up. Brett says her mom has the right to discipline her. Mom says
+  Nicole needs help. AKA Damiano Buy/Bust
 
 ## CP-1705
 
