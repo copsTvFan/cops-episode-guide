@@ -5661,60 +5661,77 @@ funeral. They make him dump all the pot out and cut him loose.
 
 Aired 1992-01-25.
 
-**Memphis, TN 3** (10:58 PM Armed Robbery Call) Officer Jeff Clark drives to
-the scene of a crime, unknown who is responsible, shots fired, victim is D.O.A.
-A 60 year old white man was who was a volunteer probation officer got robbed
-and shot five times and is dead. A black man in a black jacket was seen fleeing
-the scene and is apprehended down the street. robbery investigation yields
-murder victim; disturbance call.
+**Memphis, TN 3**
+
+- (10:58 PM Armed Robbery Call) Officer Jeff Clark drives to the scene of a
+  crime, unknown who is responsible, shots fired, victim is D.O.A.  A 60 year
+  old white man was who was a volunteer probation officer got robbed and shot
+  five times and is dead. A black man in a black jacket was seen fleeing the
+  scene and is apprehended down the street. robbery investigation yields murder
+  victim
+- (7:21 PM Roll Call) (10:54 PM Disturbance Call)
+- (7:37 AM) / (7:37 AM Traffic Stop) Deputy Mark Kellerhall, Sgt. David
+  Ducrest, Captain Richard Swain
 
 ## CP-425
 
 Aired 1992-02-15.
 
-**Memphis, TN 4** (12:52 AM Street Patrol) Officer Gene Hulley has been there 3
-years. It's all he ever wanted to do, all he could think about doing in high
-school, can't imagine doing anything else. He's got a seat on the front row of
-life and is enjoying it. His family thinks he's crazy for doing it, knows he
-could get shot, but most families are like that. officer's wife barricades
-herself in bathroom against intruder.
+**Memphis, TN 4**
+
+- (12:52 AM Street Patrol) Officer Gene Hulley has been there 3 years. It's all
+  he ever wanted to do, all he could think about doing in high school, can't
+  imagine doing anything else. He's got a seat on the front row of life and is
+  enjoying it. His family thinks he's crazy for doing it, knows he could get
+  shot, but most families are like that. Officer C. D. Hawkins.
+- Officer Marty Kula (10:13 PM) Officer Sam Posey, Officer Tim Simms, Officer
+  J. D. Downs, Commander james Campbell. Dead deer.
+- Deputy Gary Rogers (11:12 PM Disturbance Call)
+
+Potentially a censored segment: officer's wife barricades herself in bathroom
+against intruder.
 
 ## CP-426
 
 Aired 1992-05-30.
 
-**Memphis, TN 5** (9:11 PM Shooting Call) Officer Gene Hulley says they need
-clothes for the dirty patients who come in to the hospital and to donate any
-sex or size. His partner is C.D. Hawkins. A black drug dealer goes to a house
-to collect money a woman owes him and when she doesn't haven't he shoots her in
-the ass. They go looking for him and find he has shot another woman. Her sister
-is in the yard screaming she saw him shoot her sister. domestic disturbance;
-child endangerment.
+**Memphis, TN 5**
+
+- (9:11 PM Shooting Call) Officer Gene Hulley says they need clothes for the
+  dirty patients who come in to the hospital and to donate any sex or size. His
+  partner is C.D. Hawkins. A black drug dealer goes to a house to collect money
+  a woman owes him and when she doesn't haven't he shoots her in the ass. They
+  go looking for him and find he has shot another woman. Her sister is in the
+  yard screaming she saw him shoot her sister.
+- domestic disturbance
+- child endangerment
 
 ## CP-427
 
 Aired 1992-02-01.
 
-**Memphis, TN 6** (5:13 PM Shooting Call) Officer Matt Pugh responds to a call
-on the 600 block and arrives to find a black woman who took a shotgun blast to
-the chest and blows her finger off. She says Danny, her ex, did it and he fled
-with the sawed off after they had a fight on the porch over the gun and it went
-off. A neighbor says the woman owns the gun. Cops go back in and ask her two
-kids where the guns are. The boy pulls a rifle out of the closet and the
-shotgun from under the mattress where his mom hid it. Shelby County (1:08 PM)
-Backup comes to a traffic stop and Guadalupe the driver is wearing a Zappa
-shirt, is all nervous, and won't consent to have his car searched. K9 is
-brought in and a suitcase full of pot is found in the trunk. They take them
-back to interdiction HQ and weigh the dope and take their money. Guadalupe
-loses his car, $1350 and the drugs. Detective Steve Culley says it's nice to be
-thanked. (9:31 PM Domestic Disturbance Call) The caller says a father is
-beating his son in the front yard of his house. They talk to the witness
-outside and find his 16 year-old son Time wanted to bring a shirt to his
-friends house and his dad stopped him. The son pushed him off and his dad
-pushed and slapped him because he is a pacifist, but he isn't scared to stay
-there. They take the father outside and says he disciplined his son like what
-was done to him. They arrest him because he hit him Tim in the face and was
-drinking.
+**Memphis, TN 6**
+
+- (5:13 PM Shooting Call) Officer Matt Pugh responds to a call on the 600 block
+  and arrives to find a black woman who took a shotgun blast to the chest and
+  blows her finger off. She says Danny, her ex, did it and he fled with the
+  sawed off after they had a fight on the porch over the gun and it went off. A
+  neighbor says the woman owns the gun. Cops go back in and ask her two kids
+  where the guns are. The boy pulls a rifle out of the closet and the shotgun
+  from under the mattress where his mom hid it.
+- Shelby County (1:08 PM) Backup comes to a traffic stop and Guadalupe the
+  driver is wearing a Zappa shirt, is all nervous, and won't consent to have
+  his car searched. K9 is brought in and a suitcase full of pot is found in the
+  trunk. They take them back to interdiction HQ and weigh the dope and take
+  their money. Guadalupe loses his car, $1350 and the drugs.
+- Detective Steve Culley says it's nice to be thanked. (9:31 PM Domestic
+  Disturbance Call) The caller says a father is beating his son in the front
+  yard of his house. They talk to the witness outside and find his 16 year-old
+  son Time wanted to bring a shirt to his friends house and his dad stopped
+  him. The son pushed him off and his dad pushed and slapped him because he is
+  a pacifist, but he isn't scared to stay there. They take the father outside
+  and says he disciplined his son like what was done to him. They arrest him
+  because he hit him Tim in the face and was drinking.
 
 ## CP-428
 
@@ -13481,7 +13498,7 @@ Aired 2009-04-11.
   Robbie Young & Greg Galliano respond to a fleeing subject that takes the
   chase over fences and through backyards. The suspect learns the hard way that
   he bit off more than he could chew when two police dogs enter the pursuit.
-- (King County, WA -- 3:14 PM Traffic Stop) Sheriff’s Office Precinct 4 --
+- (King County, WA -- 3:14 PM Traffic Stop) Sheriff's Office Precinct 4 --
   Deputy Joel Anderson pulls over a man for a warrant associated with the
   vehicle, and the situation goes from bad to worse when it's discovered that
   his license is suspended and illicit possessions are uncovered.
@@ -13561,10 +13578,10 @@ Aired 2009-07-11.
 
 **Coast to Coast 155**
 
-- (Broward County, FL -- 2:53 PM Drug Sting) Sheriff’s Office Regional Anti
+- (Broward County, FL -- 2:53 PM Drug Sting) Sheriff's Office Regional Anti
   Crime Squad -- Detective Ed MacDougall says when we are out here working, have
   the best plan but that have other plans, expect the unexpected.
-- (Hillsborough County, FL -- 9:24 PM Traffic Stop) Sheriff’s Office District 2
+- (Hillsborough County, FL -- 9:24 PM Traffic Stop) Sheriff's Office District 2
   Street Crimes Unit -- Deputy Anthony Koehler has been there 8 years, started
   with patrol went overseas, came back to FTO, then street crimes unit been
   there 3 years.
@@ -13579,7 +13596,7 @@ Aired 2009-07-18.
 **Coast to Coast 156**
 
 - (Broward County, FL -- 12:40 AM Drug Sting) Sheriff's Office District 5 --
-  Detective Greg LaCerra says he’s been there 8 years, likes working narcotics,
+  Detective Greg LaCerra says he's been there 8 years, likes working narcotics,
   gets tips on what drugs are sold at houses, or somebody wanted for certain
   things and likes to see that through to the end.
 - (San Bernardino County, CA -- 9:03 PM Traffic Stop) Rancho Cucamonga Police
@@ -13831,7 +13848,7 @@ Aired 2017-06-24.
 
 - A repeat offender takes the police on a bumpy ride.
 - A deputy schools a couple of teens after he discovers them in a parked car.
-- A woman is shocked when deputies reveal her brother’s secret.
+- A woman is shocked when deputies reveal her brother's secret.
 
 ## S30E03
 
@@ -13869,7 +13886,7 @@ Aired 2017-07-22.
 
 "Pants on Fire"
 
-- With officers hot on his trail, a wanted suspect’s world comes crashing down.
+- With officers hot on his trail, a wanted suspect's world comes crashing down.
 - A tearful woman calls deputies to help apprehend her hostile husband.
 - During a traffic stop, one passenger tries to outrun the police and his past.
 
@@ -13881,7 +13898,7 @@ Aired 2017-07-29.
 
 - A suspect turns a small problem into a huge one when he decides to run.
 - A defiant woman reveals her misdeeds and puts her marriage at risk.
-- Deputies investigate a suspicious female, but it’s her friend that ends up in cuffs.
+- Deputies investigate a suspicious female, but it's her friend that ends up in cuffs.
 
 ## S30E08
 
@@ -13889,7 +13906,7 @@ Aired 2017-08-05.
 
 "Jumping the Gun"
 
-- Surrounded by officers, a driver’s sneaky passenger makes a bold move.
+- Surrounded by officers, a driver's sneaky passenger makes a bold move.
 - Tempers flare between roommates after a woman feeds eggs to her dog.
 - A deputy acts swiftly when he spots a dangerous object in the backseat of a vehicle.
 
@@ -13900,7 +13917,7 @@ Aired 2017-08-12.
 "Wrong Way Home"
 
 - A parolee manages to outrun officers, but his luck quickly runs out.
-- A quarreling couple attracts their neighbors’ attention, and police are called to intervene.
+- A quarreling couple attracts their neighbors' attention, and police are called to intervene.
 - A disoriented driver blames his freak accident on bad weather.
 
 ## S30E10
@@ -13910,7 +13927,7 @@ Aired 2017-08-21.
 "Bad Business"
 
 - Tasers are deployed after an erratic suspect attempts to outsmart officers.
-- A lawbreaker tries to convince detectives they didn’t just see him commit a crime.
+- A lawbreaker tries to convince detectives they didn't just see him commit a crime.
 - An officer is called to supervise a ridiculous business transaction.
 
 ## S30E11
@@ -13920,7 +13937,7 @@ Aired 2017-08-21.
 "I Used to Use My Brain"
 
 - A first-time offender immediately regrets his destructive decisions.
-- Nothing adds up when an evasive driver tells police that he’s the victim of a crime.
+- Nothing adds up when an evasive driver tells police that he's the victim of a crime.
 - A deputy encourages a troubled young woman to turn her life around.
 
 ## S30E12
@@ -13931,7 +13948,7 @@ Aired 2017-08-28.
 
 - A fleeing suspect tries every lame excuse to get out of going to jail.
 - A sleepy driver asks deputies to hide the truth from his angry wife.
-- Police hear everyone’s story when a trespassing call becomes a neighborhood-wide ordeal.
+- Police hear everyone's story when a trespassing call becomes a neighborhood-wide ordeal.
 
 ## S30E13
 
@@ -13939,7 +13956,7 @@ Aired 2017-09-11.
 
 "Set in His Ways"
 
-- (3:53 PM Suspicious Person) A repeat offender runs when officers catch him somewhere he’s not supposed to be.
+- (3:53 PM Suspicious Person) A repeat offender runs when officers catch him somewhere he's not supposed to be.
 - Two teens are slow to stop a bike thief, so police are called to assist.
 - Tensions rise after a questionable roommate situation takes a dark turn.
 
@@ -13959,9 +13976,9 @@ Aired 2017-09-23.
 
 "Fake Friends"
 
-- It’s off to the races when an injured suspect spots his window of opportunity.
-- A man bosses officers around after he’s caught with some unsavory items.
-- Detectives catch a man in a sting, but he still won’t admit to his crime.
+- It's off to the races when an injured suspect spots his window of opportunity.
+- A man bosses officers around after he's caught with some unsavory items.
+- Detectives catch a man in a sting, but he still won't admit to his crime.
 
 ## S30E16
 
@@ -13985,10 +14002,10 @@ Aired 2017-10-02.
 
 Aired 2017-10-16.
 
-"It’s Nothing Personal"
+"It's Nothing Personal"
 
-- It’s a reunion of sorts when the police catch up to a familiar face.
-- Emotions run high after a man’s mistress starts problems with his wife.
+- It's a reunion of sorts when the police catch up to a familiar face.
+- Emotions run high after a man's mistress starts problems with his wife.
 - Officers have trouble getting a straight answer from a suspicious duo.
 
 ## S30E19
@@ -13998,7 +14015,7 @@ Aired 2017-10-23.
 "Run and Gun"
 
 - A wanted man makes a break for it with deputies hot on his trail.
-- Police find themselves in a vehicle pursuit when a driver’s fears get the better of him.
+- Police find themselves in a vehicle pursuit when a driver's fears get the better of him.
 - A traffic stop exposes a car full of people who have a lot to hide.
 
 ## S30E20
@@ -14017,7 +14034,7 @@ Aired 2017-11-06.
 
 "Scaredy Cat"
 
-- Officers subdue an erratic man who’s convinced that a wild animal is following him.
+- Officers subdue an erratic man who's convinced that a wild animal is following him.
 - A birthday celebration quickly goes south when guns get involved.
 - Deputies help break up a volatile domestic situation.
 
@@ -14059,7 +14076,7 @@ Aired 2018-02-05.
 
 - Officers pursue a wanted man and prevent a potentially deadly home invasion.
 - A tense passenger starts mouthing off before deputies can get a word in.
-- Police search for a teen’s stolen bike and find a man at the end of his rope.
+- Police search for a teen's stolen bike and find a man at the end of his rope.
 
 ## S30E26
 
@@ -14097,7 +14114,7 @@ Aired 2018-04-23.
 
 - A DUI suspect makes some bad choices when he ventures out for a late-night snack.
 - A squabbling couple brings each other down once police start asking questions.
-- Cops pull over a man who’s convinced his passenger set him up.
+- Cops pull over a man who's convinced his passenger set him up.
 
 ## S30E30
 
@@ -14114,7 +14131,7 @@ Aired 2018-05-07.
 "Kiss and Make Up"
 
 - A motorcyclist leads officers on a chase down city streets.
-- Even a dead car battery doesn’t stop a grieving man from eluding the police.
+- Even a dead car battery doesn't stop a grieving man from eluding the police.
 - A jumpy driver fails to avoid the cops and gives an awkward apology to his girlfriend.
 
 ## S30E32
@@ -14124,7 +14141,7 @@ Aired 2018-05-14.
 "Cheek to Cheek"
 
 - A traffic stop takes an unexpected turn when the suspect decides to go off-roading.
-- A woman refuses to cover for her son’s friend.
+- A woman refuses to cover for her son's friend.
 - Security cameras catch a man trying to conceal some items in a not-so-nice hiding place.
 
 ## S30E33
@@ -14133,7 +14150,7 @@ Aired 2018-05-21.
 
 "Up in Smoke"
 
-- A desperate man’s last-ditch effort to flee from officers goes down in flames.
+- A desperate man's last-ditch effort to flee from officers goes down in flames.
 - Multiple units work together to diffuse a dangerous situation.
 - Deputies keep an eye on a custody battle that involves some expensive groceries.
 
