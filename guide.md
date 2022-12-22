@@ -13957,7 +13957,7 @@ Aired 2010-07-31.
 
 **Coast to Coast #174**
 
-- TODO/FIXME
+- Houston, TX -- 11:07 PM Suspicious Vehicle -- Senior Officer Eduardo Medrano, Sgt. Matt Richard, Officer Reece Hardy.
 
 ## CP-2236
 ## S22E13
