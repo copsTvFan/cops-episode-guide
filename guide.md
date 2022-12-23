@@ -2260,24 +2260,27 @@ Aired 1990-02-03.
   his car.  They find it and it looks like a .45 caliber. The first guy wants
   to tell his point of view. Sean says his point is mute. They say a fake gun
   will get him killed.
-- LA County -- Sheriff's Dept West Hollywood -- Deputy Brian Nelson says he
-  gets a lot of support from his family. They get excited when he gets certain
-  jobs, but they worry too. He's brought his fiancé out with him to see what he
-  does. She puts a lot of faith in him and trusts him because he's got good
-  training. (11:49 PM Assistance Call) A call of 6 male blacks trying to beat
-  up a transvestite comes in. He instead goes to a call of three men detained.
-  Joshua is 19 and has a wool hat over his eyes. They want to see if they are
-  the ones causing trouble. Deputy Brian Hickey is on the scene. His American
-  Express Card says James. He says that was a card he just found a minute ago
-  and was going to throw it away. Brian asks him why he would do that and not
-  turn it in.  They call in to find out if it is stolen. He says he didn't use
-  it, but it's a misdemeanor to have it. They check him to see if he has
-  others. Josh wants to know if he'll get in trouble for finding it. He says
-  no, you should call it in or give it to the police. Common sense says he
-  would try to get it back to the owner. Josh is on probation for second degree
-  robbery, he did his time and is that going to be a problem? Josh is arrested
-  for receiving stolen property and they'll contact his probation officer.
-  Another Case solved.
+- Original uncensored segment 3: (911 Call Man With Gun) (Lennox Sherriff's
+  Station Roll Call) (10:01 PM) Deputy Jill Beach is shining her badge. (10:48
+  PM Assault Investigation) (911 Call Stabbing)
+- New segment 3: LA County -- Sheriff's Dept West Hollywood -- Deputy Brian
+  Nelson says he gets a lot of support from his family. They get excited when
+  he gets certain jobs, but they worry too. He's brought his fiancé out with
+  him to see what he does. She puts a lot of faith in him and trusts him
+  because he's got good training. (11:49 PM Assistance Call) A call of 6 male
+  blacks trying to beat up a transvestite comes in. He instead goes to a call
+  of three men detained.  Joshua is 19 and has a wool hat over his eyes. They
+  want to see if they are the ones causing trouble. Deputy Brian Hickey is on
+  the scene. His American Express Card says James. He says that was a card he
+  just found a minute ago and was going to throw it away. Brian asks him why he
+  would do that and not turn it in.  They call in to find out if it is stolen.
+  He says he didn't use it, but it's a misdemeanor to have it. They check him
+  to see if he has others. Josh wants to know if he'll get in trouble for
+  finding it. He says no, you should call it in or give it to the police.
+  Common sense says he would try to get it back to the owner. Josh is on
+  probation for second degree robbery, he did his time and is that going to be
+  a problem? Josh is arrested for receiving stolen property and they'll contact
+  his probation officer.  Another Case solved.
 
 Dedicated to the memory of Deputy Jack Miller 1954-1988.
 
@@ -7780,7 +7783,7 @@ Aired 1996-11-09.
   from a car blocked to a shooting -- it changes from minute to minute. He aids
   a car stuck on curb then chases a carjacking suspect through yards.
 - Officers Garneau and Moroney sort out a domestic dispute with a fat white 12
-  year old boy who calls his mom a fag.
+  year old boy Patrick who calls his mom a fag.
 - Lynn Police Officers Kelter and White apprehend a black guy who broke into a
   house under construction.
 
