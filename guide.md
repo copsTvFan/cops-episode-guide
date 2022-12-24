@@ -11558,44 +11558,47 @@ tire behind a house as insurance. They go back and find it.
 
 Aired 2005-02-05.
 
-**High Crimes Special Edition** (Pierce County WA -- 1:43 AM Public Disturbance
-Call) South Hill Precinct -- Deputy Patrick Davidson works the eat area where
-there's not many cops, but lots of tweakers and dopeheads. He goes to a hotel
-on the call of Tim who is really wasted in Apt 21. When Pat arrives Tim takes
-off and is caught around back. Deputy Eugene Abaun assists. Tim ran because he
-thought they were trying to hit him, so he threw everything. He was high on
-coke and was going out to score. He's been awake for 4-5 days, is barefoot,
-can't walk because he has football feet. He's not on probation, on bond. He's
-done coke all day since he was 26 years old. He doesn't deal, lost his pipe and
-is bi-polar. The landlord wants him out. Christine can drive him away because
-it's not a crime to be high. So they let him go. The owner says he was
-wandering up and down knocking on doors last night. He told him to stay inside
-and wants him out tomorrow. He throws his stuff in a garbage bag and leaves.
-Santa Ana, CA -- Officer Garry Caruso grew up around police since his dad was a
-cop. He saw it, heard stories and it sounded like fun. He wasn't pushed into
-it. (1:38 AM Street Patrol) They drive an unmarked car into a known gang alley
-where they go to do and sell drugs. They go after a white El Camino with guys
-inside and catch them. The driver, Kevin, is an old white guy. The passenger is
-a young Hispanic. They go to pull the young guy out and he tries to swallow the
-drugs and they choke it out of him and cuff him. Officer Mary Campuzano was
-first on the scene. Kevin is on parole for a possession charge in 1998. He was
-going to pick up a girl named Shasta and the young guy just got in his car
-because he needed a ride. He saw he had drugs and he told him to get rid of
-them. Both go to jail. Las Vegas -- South East Area Command -- Officer Gibron
-Smith loves Vegas, but it gets hot -- over 110 degrees and stays like that for
-months. It gets real hot on 4 hours of calls outside of your car. Sgt. Kelly
-White says they can get dehydrated. They go to a gas station where a guy is
-pumping gas for 4 hours. The guy says he was looking for his keys for 10
-minutes. He left home at 8:30 am and now it's 9:30. They tell him it's really
-11:45. They find prescription drugs on him with the labels removed. He says
-they are his moms', but the label wasn't hers. He mixed the bottles to
-consolidate the pills for her to help her pain. He is a musician, classically
-trained, but his mom got hurt and he's taking care of her. His face is all made
-up, but he claims he's not wearing make up. He says his lips are chapped. He
-was shopping, but bought nothing and didn't get gas. The cashier says she
-watched him there for hours. He came in to buy stuff, forget his credit card
-and went back to his car and spent 30 minutes looking for it. His keys he
-couldn't find were on the roof the whole time.
+**High Times Special Edition**
+
+- (Pierce County WA -- 1:43 AM Public Disturbance Call) South Hill Precinct --
+  Deputy Patrick Davidson works the eat area where there's not many cops, but
+  lots of tweakers and dopeheads. He goes to a hotel on the call of Tim who is
+  really wasted in Apt 21. When Pat arrives Tim takes off and is caught around
+  back. Deputy Eugene Abaun assists. Tim ran because he thought they were
+  trying to hit him, so he threw everything. He was high on coke and was going
+  out to score. He's been awake for 4-5 days, is barefoot, can't walk because
+  he has football feet. He's not on probation, on bond. He's done coke all day
+  since he was 26 years old. He doesn't deal, lost his pipe and is bi-polar.
+  The landlord wants him out. Christine can drive him away because it's not a
+  crime to be high. So they let him go. The owner says he was wandering up and
+  down knocking on doors last night. He told him to stay inside and wants him
+  out tomorrow. He throws his stuff in a garbage bag and leaves.
+- Santa Ana, CA -- Officer Garry Caruso grew up around police since his dad was
+  a cop. He saw it, heard stories and it sounded like fun. He wasn't pushed
+  into it. (1:38 AM Street Patrol) They drive an unmarked car into a known gang
+  alley where they go to do and sell drugs. They go after a white El Camino
+  with guys inside and catch them. The driver, Kevin, is an old white guy. The
+  passenger is a young Hispanic. They go to pull the young guy out and he tries
+  to swallow the drugs and they choke it out of him and cuff him. Officer Mary
+  Campuzano was first on the scene. Kevin is on parole for a possession charge
+  in 1998. He was going to pick up a girl named Shasta and the young guy just
+  got in his car because he needed a ride. He saw he had drugs and he told him
+  to get rid of them. Both go to jail.
+- Las Vegas -- South East Area Command -- Officer Gibron Smith loves Vegas, but
+  it gets hot -- over 110 degrees and stays like that for months. It gets real
+  hot on 4 hours of calls outside of your car. Sgt. Kelly White says they can
+  get dehydrated. They go to a gas station where a guy is pumping gas for 4
+  hours. The guy says he was looking for his keys for 10 minutes. He left home
+  at 8:30 am and now it's 9:30. They tell him it's really 11:45. They find
+  prescription drugs on him with the labels removed. He says they are his
+  moms', but the label wasn't hers. He mixed the bottles to consolidate the
+  pills for her to help her pain. He is a musician, classically trained, but
+  his mom got hurt and he's taking care of her. His face is all made up, but he
+  claims he's not wearing make up. He says his lips are chapped. He was
+  shopping, but bought nothing and didn't get gas. The cashier says she watched
+  him there for hours. He came in to buy stuff, forget his credit card and went
+  back to his car and spent 30 minutes looking for it. His keys he couldn't
+  find were on the roof the whole time.
 
 ## CP-1731
 
