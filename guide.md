@@ -6625,67 +6625,100 @@ Aired 1993-05-16.
   arrest him.
 - Women assault each other; man jumps out window.
 
+## S05E39
 ## CP-538
 
 Aired 1993-06-05.
 
 **Phoenix, AZ 1**
 
-- (6:37 PM Burglary in Progress) Central City Precinct -- Officer Christopher Kawa loves what he does, thinks it matters. He comes to work with the opportunity to save people from getting hurt since there is no victimless crime. It pulls all society down, regardless of what crime it may be, it deteriorates everything. He can keep it from happening again. Burglary suspect is arrested
-- Plane crash.
-- Boy is separated from family.
+- (6:37 PM Burglary in Progress) Central City Precinct -- Officer Christopher
+  Kawa loves what he does, thinks it matters. He comes to work with the
+  opportunity to save people from getting hurt since there is no victimless
+  crime. It pulls all society down, regardless of what crime it may be, it
+  deteriorates everything. He can keep it from happening again. Officer
+  Christopher Kawa arrests a burglary suspect, and responds to a fiery plane
+  crash.
+- Sergeant Timothy Martin reunites a lost child and his dog with the boy's
+  mother.
+- Officer Matthew Knowles responds to a disturbance at a motel where a juvenile
+  male smashed a window.
 
+## S05E34
 ## CP-539
 
 Aired 1993-05-08.
 
 **Phoenix, AZ 2**
 
-- (7:06 PM Roll Call) Civilian patrol nabs trespass suspect
-- motel robbery.
-- shooting of teen.
+- (7:06 PM Roll Call) Officer Michael Adams responds to the apprehension of a
+  trespassing suspect by the Guardian Angels citizen patrol.
+- Officer John Collins responds to a robbery at a motel, where the suspect is
+  later apprehended.
+- Officer Kevin Hannah assists in the investigation of the shooting of a
+  16-year-old male.
 
+## S05E33
 ## CP-540
 
 Aired 1993-05-01.
 
 **Phoenix, AZ 3**
 
-- (4:35 PM Warrant Briefing) Central City Precinct -- A female Sgt. talks about serving search warrants to a pair of house and has a map of them on a chalkboard. She says there shouldn't be problems because there are no weapons there. Officer John Collins talks about the houses. Domestic disturbance call yields spousal abuse arrest; attempted kidnapping.
+- (4:35 PM Warrant Briefing) Central City Precinct -- Sergeant Deborah Smoot
+  leads in the execution of a search warrant for suspected narcotics
+  distribution inside a residence. She says there shouldn't be problems because
+  there are no weapons there. Officer John Collins talks about the houses.
+- Deputy Dave Tapio of the Maricopa County Sheriff's Office answers a domestic
+  disturbance call, and arrests a combative husband for abusing his spouse.
+- Officer John Collins investigates an attempted kidnapping.
 
+## S05E40
 ## CP-541
 
 Aired 1993-06-26.
 
 **Phoenix, AZ 4**
 
-- (12:57 AM Carjacking) Car-jacking arrest
-- family disturbance
-- shooting call.
+- (12:57 AM Carjacking) Officer John Collins apprehends a man suspected of
+  carjacking.
+- Officer Matthew Knowles responds to a family disturbance where a male
+  threatens his family with a gun. Later, Officer Knowles responds to a report
+  of an intoxicated individual causing a disturbance in a parking lot.
+- Officer Michael McElroy investigates a report of shots fired, and later
+  locates several firearms and narcotics.
 
 ## CP-542
 
 Aired 1993-07-10.
 
-**San Bernardino, CA 2** (7:47 PM Terrorist Threats) Victorville Station -- Deputy Rob Wickum works in the high desert and the bad thing is that it's so spread out, a very large area, and sometimes it takes a long time to get to calls. Sheriff's deputies respond to a threat to blow up a house; Sgt. Sam Pollock briefs a narcotics team; Dep. Hank Valencia assists when an officer is assaulted at a domestic-dispute call.
+**San Bernardino, CA 2**
+
+- (7:47 PM Terrorist Threats) Victorville Station -- Deputy Rob Wickum works in the high desert and the bad thing is that it's so spread out, a very large area, and sometimes it takes a long time to get to calls. Sheriff's deputies respond to a threat to blow up a house; Sgt. Sam Pollock briefs a narcotics team; Dep. Hank Valencia assists when an officer is assaulted at a domestic-dispute call.
 
 ## CP-543
 
 Aired 1993-07-17.
 
-**San Bernardino, CA 3** (10:02 PM Street Patrol) Pomona -- Corporal Joe Waltman grew up on the East Coast and always dreamed of going to California. I the courts they have all the time they need to work things out, but on the streets it's split second decisions. Officer pursues armed suspect; flood traps man; man on a sidewalk is armed.
+**San Bernardino, CA 3**
+
+- (10:02 PM Street Patrol) Pomona -- Corporal Joe Waltman grew up on the East Coast and always dreamed of going to California. I the courts they have all the time they need to work things out, but on the streets it's split second decisions. Officer pursues armed suspect; flood traps man; man on a sidewalk is armed.
 
 ## CP-544
 
 Aired 1993-07-24.
 
-**San Bernardino, CA 4** (1:37 AM Robbery Call) Sheriff's Dept Central Station -- Deputy Hank Valencia takes a call for a strong arm 211 involving a van. K-9 unit pursues robbery suspect; briefing on drug warrants; shooting in a car.
+**San Bernardino, CA 4**
+
+- (1:37 AM Robbery Call) Sheriff's Dept Central Station -- Deputy Hank Valencia takes a call for a strong arm 211 involving a van. K-9 unit pursues robbery suspect; briefing on drug warrants; shooting in a car.
 
 ## CP-545
 
 Aired 1993-07-31.
 
-**San Bernardino, CA 5** (12:21 PM Narcotics Unit) Sheriff's Dept -- Deputy Scott Mesa explains how the drug sting will go. Undercover Hispanic deputies sell dope, speed or coke to customers in their vehicles. They'll sell to the buyer, give the signal then quickly arrest them. The backup cops hide in a nearby van while an undercover First up is a black guy in a white pickup truck. Drug sting; armed motorist; drive-by shooting.
+**San Bernardino, CA 5**
+
+- (12:21 PM Narcotics Unit) Sheriff's Dept -- Deputy Scott Mesa explains how the drug sting will go. Undercover Hispanic deputies sell dope, speed or coke to customers in their vehicles. They'll sell to the buyer, give the signal then quickly arrest them. The backup cops hide in a nearby van while an undercover First up is a black guy in a white pickup truck. Drug sting; armed motorist; drive-by shooting.
 
 ## CP-546
 
