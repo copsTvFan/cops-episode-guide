@@ -6778,7 +6778,10 @@ Aired 1993-10-23.
 
 Aired 1993-10-30.
 
-**Sacramento, CA 5** (5:11 AM Suspicious Vehicle) Sheriff's Department -- Deputy Mark Freeman. Driver of stolen car flees on foot; trailer-park brawl.
+**Sacramento, CA 5**
+
+- (5:11 AM Suspicious Vehicle) or (5:11 AM Stolen Car) Sheriff's Department -- Deputy Mark Freeman. Driver of stolen car flees on foot
+- trailer-park brawl
 
 ## CP-606
 
