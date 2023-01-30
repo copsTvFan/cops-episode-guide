@@ -6694,7 +6694,9 @@ Aired 1993-07-10.
 
 **San Bernardino, CA 2**
 
-- (7:47 PM Terrorist Threats) Victorville Station -- Deputy Rob Wickum works in the high desert and the bad thing is that it's so spread out, a very large area, and sometimes it takes a long time to get to calls. Sheriff's deputies respond to a threat to blow up a house; Sgt. Sam Pollock briefs a narcotics team; Dep. Hank Valencia assists when an officer is assaulted at a domestic-dispute call.
+- (7:47 PM Bomb Threat) / (7:47 PM Terrorist Threats) Victorville Station -- Deputy Rob Wickum works in the high desert and the bad thing is that it's so spread out, a very large area, and sometimes it takes a long time to get to calls. Sheriff's deputies respond to a threat to blow up a house;
+- Sgt. Sam Pollock briefs a narcotics team;
+- Dep. Hank Valencia assists when an officer is assaulted at a domestic-dispute call.
 
 ## CP-543
 
