@@ -3214,7 +3214,7 @@ it was challenging, not a controlled environment, you deal with all kinds of
 people from all races and all levels of poverty from rich to poor. It's
 different, but everyone's the same. It's easier to talk to people when you are
 a female. They were brought up to talk first, physical next. Officer Holly
-Keegal has a blonde short puffy mullet and says originally was going to be a
+Keegel has a blonde short puffy mullet and says originally was going to be a
 teacher, but took some law courses and really enjoyed it. She took more classes
 and decided to pursue law. They go into a backyard and there is a dirty white
 guy with a heavily stained shirt sitting there. He says he lives there, looks
