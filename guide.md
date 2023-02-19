@@ -8459,7 +8459,42 @@ Aired 1998-10-03.
 
 Aired 1998-09-19.
 
-**Atlanta, GA 4** (4:07 PM Assistance Call) Zone 3 -- Officer Michael Centola says it can be humorous or dangerous. An incident can start dangerous, but then you can have a good time with it. Some things people do are off the wall, crazy. It is a good time. Sgt. Bennie Martin Jr. is in an unmarked vehicle and needs a marked one to pull over a woman blowing stop signs. They arrest her when she pulls into a Shell Station. She is an old, ugly, heavy, crazy white lady wearing a thick wool hat and heavy black eye make-up. She says she hasn't been drinking, just eating a Snickers bar. She ran because 10,000 sons of bitches chasing her tried to make 15,000 auto parts out of her. She claims it is her sons' car and she was in a bad neighborhood because her boyfriend is an addict, has a busted spleen and is half dead. She then starts screaming at everyone that their children are dead and you can't resurrect them. When they put her in the wagon she says they took her life and might as well put a bullet in her. She has a warrant and two children. Zone 5 -- Officer R.D. Woody says he has a partner he can count on -- Officer Ryan Thomas. (7:23 PM Street Patrol) Ryan gets dropped off and watches a drug deal from the woods with binoculars. He radios the info back to catch them. Ryan comes around and catches a woman smoking a blunt right on the sidewalk. She says she didn't mean no disrespect. R.D. has caught two women behind a fast food place with coke. One says they were never in jail before. The other is on probation. Chief Beverly Harvard gives a briefing at city hall about black spring break 98. (5:32 PM Street Patrol) Sr. Officer Maury Escher says it is about camaraderie from major black college trying to get away with things. His partner is Officer Eugene Johnson. They get out to catch a female pickpocket. They grab her and she says the girl dropped her bag even though they saw her take it. She says she was handing her the makeup bag when the cops grabbed her. The drug paraphernalia they find on her is because she is a diabetic. The crack pipe was in her purse when she got it. They drive down the road and see a drug deal on Edgewood Ave and run after the dealer and catch him a block away. He has nothing on him anymore and only ran because he was scared. He has a pile of money because he was scared. He ran because he thought they were going to beat him up and cries crocodile tears and then changes to defiance two seconds later.
+**Atlanta, GA 4**
+
+- (4:07 PM Assistance Call) Zone 3 -- Officer Michael Centola says it can be
+  humorous or dangerous. An incident can start dangerous, but then you can have
+  a good time with it. Some things people do are off the wall, crazy. It is a
+  good time. Sgt. Bennie Martin Jr. is in an unmarked vehicle and needs a
+  marked one to pull over a woman blowing stop signs. They arrest her when she
+  pulls into a Shell Station. She is an old, ugly, heavy, crazy white lady
+  wearing a thick wool hat and heavy black eye make-up. She says she hasn't
+  been drinking, just eating a Snickers bar. She ran because 10,000 sons of
+  bitches chasing her tried to make 15,000 auto parts out of her. She claims it
+  is her sons' car and she was in a bad neighborhood because her boyfriend is
+  an addict, has a busted spleen and is half dead. She then starts screaming at
+  everyone that their children are dead and you can't resurrect them. When they
+  put her in the wagon she says they took her life and might as well put a
+  bullet in her. She has a warrant and two children.
+- Zone 5 -- Officer R.D. Woody says he has a partner he can count on -- Officer
+  Ryan Thomas. (7:23 PM Street Patrol) Ryan gets dropped off and watches a drug
+  deal from the woods with binoculars. He radios the info back to catch them.
+  Ryan comes around and catches a woman smoking a blunt right on the sidewalk.
+  She says she didn't mean no disrespect. R.D. has caught two women behind a
+  fast food place with coke. One says they were never in jail before. The other
+  is on probation.
+- Chief Beverly Harvard gives a briefing at city hall about black spring break
+  '98. (5:32 PM Street Patrol) Sr. Officer Maury Escher says it is about
+  camaraderie from major black college trying to get away with things. His
+  partner is Officer Eugene Johnson. They get out to catch a female pickpocket.
+  They grab her and she says the girl dropped her bag even though they saw her
+  take it. She says she was handing her the makeup bag when the cops grabbed
+  her. The drug paraphernalia they find on her is because she is a diabetic.
+  The crack pipe was in her purse when she got it. They drive down the road and
+  see a drug deal on Edgewood Ave and run after the dealer and catch him a
+  block away. He has nothing on him anymore and only ran because he was scared.
+  He has a pile of money because he was scared. He ran because he thought they
+  were going to beat him up and cries crocodile tears and then changes to
+  defiance two seconds later.
 
 ## CP-1105
 
@@ -8483,7 +8518,9 @@ Aired 1998-10-10.
 
 Aired 1998-12-05.
 
-**Atlanta, GA 8** (8:54 AM Briefing) Fulton County -- Sergeant Hull organizes a raid on a motel frequented by drug dealers. Officer Centola assists a security officer and his wife at a local trailer park. Officers Lewis and Crenshaw uncover guns, drugs and handcuffs during a routine traffic stop.
+**Atlanta, GA 8**
+
+- (8:54 AM Briefing) Fulton County -- Sergeant Hull organizes a raid on a motel frequented by drug dealers. Officer Centola assists a security officer and his wife at a local trailer park. Officers Lewis and Crenshaw uncover guns, drugs and handcuffs during a routine traffic stop.
 
 ## CP-1109
 
@@ -9575,8 +9612,8 @@ Aired 2002-04-27.
 
 **Too Hot for Fox Special Edition**. Reruns as Too Hot for Television on other channels or Outrageous Calls.
 
-- (Atlanta, GA -- 4:07 PM Car Pursuit) Zone 3 -- Officer Michael Centola responds to an unmarked car that needs his marked car in a pursuit and the female suspect almost hit him.
-- (Las Vegas, NV -- 7:46 PM Disturbance Call) Polite vampire lady from CP-340; (11:32 PM Code 5 Arrival) Sgt. Dick Adams at the Clark County Detention Center. Woman removes her clothing and jumps into a public fountain
+- (Atlanta, GA -- 4:07 PM Car Pursuit) Zone 3 -- Officer Michael Centola responds to an unmarked car that needs his marked car in a pursuit and the female suspect almost hit him. This is from CP-1104.
+- (Las Vegas, NV -- 7:46 PM Disturbance Call) Polite vampire lady; (11:32 PM Code 5 Arrival) Sgt. Dick Adams at the Clark County Detention Center. Woman removes her clothing and jumps into a public fountain. This is from CP-340.
 - (Sacramento, CA -- 3:23 PM Suspicious Person) Officer Al Miller questions a transvestite
 - (Las Vegas, NV -- 11:30 PM Suspicious Activity) Officer Bob Kinch stops a transvestite ("Jennifer") buying drugs out of a red car.
 - (Forth Worth, TX -- 9:32 PM Man With a Knife) Officer Joseph Farah, Jr.
@@ -9594,28 +9631,28 @@ Aired 2002-09-14.
 2002-2003.
 
 - Albuquerque, NM
-- Bernalillo County NM
-- Broward County FL
+- Bernalillo County, NM
+- Broward County, FL
 - Chattanooga, TN
-- Davidson County NC
-- Forsyth County NC
+- Davidson County, NC
+- Forsyth County, NC
 - Fort Worth, TX
-- Hillsborough County FL
+- Hillsborough County, FL
 - Homestead, FL
 - Indianapolis, IN
 - Las Vegas, NV
 - Mardi Gras 2002
-- Maricopa County AZ
+- Maricopa County, AZ
 - Mesa, AZ
 - Miami, FL
-- Multnomah County OR
+- Multnomah County, OR
 - Nashville, TN
 - New Orleans, LA
 - North Las Vegas, NV
 - Palm Springs, CA
-- Pierce County WA
+- Pierce County, WA
 - Pomona, CA
-- Riverside County CA
+- Riverside County, CA
 - San Bernardino, CA
 - Tampa, FL
 
