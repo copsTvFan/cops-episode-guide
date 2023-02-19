@@ -3826,90 +3826,96 @@ months.
 
 Aired 1990-12-08.
 
-**Las Vegas, NV 3** (Clark County District Court #4) Metro PD Judge Earle W.
-White, Jr. meets with Officer Randy Sutton in his chambers. He says the warrant
-is for a seizure of a bunch of guns. It started as a burglary of guns and drugs
-- legal steroids from Jeff. He found the guy who robbed him and took Randy to
-the suspect's house in Henderson where he had the stuff. He told him the story
-how he was put on his knees at gunpoint and interrogated. He asked him how he
-came to Jeff's house. He bought steroids from him for four months, he's a big
-guy, body builder. Randy went to Judge Levitt and got papers. He's a big gun
-aficionado. He came to the door with a glock on his hip when they arrested him.
-He has AK-47, he went to jail, is out now, but they want to go back and get the
-rest of the guns. Earle makes him swear that what he says is true and he does
-and signs it. Randy says outside they aren't arresting him, they are just
-taking the guns, but they need warrants to remove the guns. Whenever you go to
-seize guns there is a heightened sense of danger. (4:00 PM Execution of Search
-Warrant) Randy knocks and tells Jeff to come out. A guy is standing and Randy
-tells him to get down at gunpoint because he has a gun on him and takes it. He
-asks if Jeff about the guns and he goes to get the key for the case and he
-tells him to sit. He says they can take all his guns and he's not happy about
-it so they give him the warrant. They make him move away from the guns and
-unload the gun from the guest. They go in the closest and pull out assault
-rifles. The other guy had a pistol in a holster on his hip when they came in,
-so it's not CCW. They find a huge box of steroids so Jeff's under arrest again.
-He says they are the same ones from before. Under the bed are more guns and
-they start putting them on the bed and soon the bed is covered. Officer Chuck
-Pierce Jr. finds Jeff's drug sales book and there are lots of high dollar sales
-listed including one for $1,500. Randy by law has to make a list of all the
-things he's taking and knows he's going to be there awhile and starts with an
-Uzi. Chuck makes call to Jeff's relatives that they are arresting him and
-taking three semis, handguns, 100 pounds of ammo and 40-50 clips. Randy reads
-the label on the steroids that says “for vets to administer to horses only” and
-doesn't think he would take something meant for horses. (10:20 PM Suspicious
-Person) Northeast Area Command -- Officer Thomas Fletcher says he's been
-fascinated by cops since he was five and grew up watching every cops show he
-could watch. So he joined the Marine Corps, became a military policeman, got
-out and has was hired in Vegas. He goes to a hotel at the 2000 block of
-Freemont and tells Jerry who is drunk to come out of the bushes. He talks to
-Peggy who was hiding from him and has kids, says they aren't alone because
-she's paying for a babysitter. How does she afford it? Her boyfriend is in
-prison. She's been in Vegas for five days, she flushed her license, will show
-something else for ID. The drunk guy says she was paying $188 a week for a
-hotel and he was trying to find a cheaper place. She has Colorado ID, is going
-to dealer school and college? Which is it? She says they are the same. The guy
-says he sold his ID in 1987. They ask him why he did that. A guy needed it. The
-girl cries, says she has a 19 month old kid, she knows the guy's a punk and a
-trouble maker, but she just moved here. The cops know the drunk guy. The cops
-admit they don't know him and tell her to relax, she says she's not spazzing.
-She met him at the Ambassador while playing some nickels slots and told him her
-story. Her mom died two weeks ago, she's from Clinton, IO and thought this
-place was like Reno. What's Reno like? Nicer. Tom is worried she's out drinking
-beer in the bushes while her kids are alone. She says they aren't and she has a
-5 year old and a 2 year old. They remember seeing Jerry drinking behind the
-mini mart a few weeks ago. He admits he was there drinking. They tell him to
-go. He goes to get her bag and she tells him not to. They tell Peggy she can go
-and not to jump in the bushes with some scrounge she doesn't know. She says
-where she's from they believe people. She doesn't know anybody here and she
-holds stuffed animals. They say she knows them know. Give them a call if she
-needs anything from now on. They see a lot of people like that, they come with
-their boyfriends and they leave them after a week and they have nothing, no
-money no job, nowhere to go. (7:00 PM Disturbance Call) Northeast Area Command
-- Officer Randy Sutton says the honest citizen has rights, to conduct his life
-free of being molested by burglars, rapists, gang members and other scum of the
-earth. Their job is to do the best they can to protect them from those leeches.
-It's like the bullies in school, he never liked them. They take advantage of
-the weak and it's their job to protect them. He goes to a 7-11 where a drunk
-man refuses to leave and now he's harassing customers out front. He asks the
-guy what's the problem. His shirt is open, his fat gut is exposed, he says no
-and walks away. Randy grabs him, says don't walk away from me and asks him why
-they got a call. He says his car got stolen, he's not harassing anyone. He
-tries to show his ID and says he's had a lot to drink. His car was on the
-corner there. He walks around and tries to smoke, but Randy doesn't want him to
-smoke. Want me to tell you what the truth is? Yes. He got high, gave money to a
-guy, thought he was his brother, gave him the keys and he took off. Randy asks
-what he was smoking. Rock. He gave the dealers his car so they could get more.
-The car is a 1979 Ford Fairmont. How long has he been smoking? Do you want the
-truth? Yes. Randy mirandizes him. He says he'll tell him and understands his
-rights. He doesn't know the license plate number, but it's in his name though.
-All the paperwork is in the glove compartment. He gave it to them an hour ago
-and never thought they would take it. He's been getting high with them for
-three days and knows where they live. He walks over and Randy says not to stand
-next to him. He wants to tell him. What were the guys' names? He can't tell.
-Randy arrests him for being under the influence of drugs. He cuffs him easily
-and puts him in the car. On the way to the station Randy says cocaine isn't
-good for him. He asks him how much has he spent on dope in his life. He can't
-tell him, maybe $30-40,000 and it's not cheap.
+**Las Vegas, NV 3**
+
+- (Clark County District Court #4) Metro PD Judge Earle W.  White, Jr. meets
+  with Officer Randy Sutton in his chambers. He says the warrant is for a
+  seizure of a bunch of guns. It started as a burglary of guns and drugs --
+  legal steroids from Jeff. He found the guy who robbed him and took Randy to
+  the suspect's house in Henderson where he had the stuff. He told him the
+  story how he was put on his knees at gunpoint and interrogated. He asked him
+  how he came to Jeff's house. He bought steroids from him for four months,
+  he's a big guy, body builder. Randy went to Judge Levitt and got papers. He's
+  a big gun aficionado. He came to the door with a glock on his hip when they
+  arrested him.  He has AK-47, he went to jail, is out now, but they want to go
+  back and get the rest of the guns. Earle makes him swear that what he says is
+  true and he does and signs it. Randy says outside they aren't arresting him,
+  they are just taking the guns, but they need warrants to remove the guns.
+  Whenever you go to seize guns there is a heightened sense of danger. (4:00 PM
+  Execution of Search Warrant) Randy knocks and tells Jeff to come out. A guy
+  is standing and Randy tells him to get down at gunpoint because he has a gun
+  on him and takes it. He asks if Jeff about the guns and he goes to get the
+  key for the case and he tells him to sit. He says they can take all his guns
+  and he's not happy about it so they give him the warrant. They make him move
+  away from the guns and unload the gun from the guest. They go in the closest
+  and pull out assault rifles. The other guy had a pistol in a holster on his
+  hip when they came in, so it's not CCW. They find a huge box of steroids so
+  Jeff's under arrest again.  He says they are the same ones from before. Under
+  the bed are more guns and they start putting them on the bed and soon the bed
+  is covered. Officer Chuck Pierce Jr. finds Jeff's drug sales book and there
+  are lots of high dollar sales listed including one for $1,500. Randy by law
+  has to make a list of all the things he's taking and knows he's going to be
+  there awhile and starts with an Uzi. Chuck makes call to Jeff's relatives
+  that they are arresting him and taking three semis, handguns, 100 pounds of
+  ammo and 40-50 clips. Randy reads the label on the steroids that says “for
+  vets to administer to horses only” and doesn't think he would take something
+  meant for horses.
+- (10:20 PM Suspicious Person) Northeast Area Command -- Officer Thomas
+  Fletcher says he's been fascinated by cops since he was five and grew up
+  watching every cops show he could watch. So he joined the Marine Corps,
+  became a military policeman, got out and has was hired in Vegas. He goes to a
+  hotel at the 2000 block of Freemont and tells Jerry who is drunk to come out
+  of the bushes. He talks to Peggy who was hiding from him and has kids, says
+  they aren't alone because she's paying for a babysitter. How does she afford
+  it? Her boyfriend is in prison. She's been in Vegas for five days, she
+  flushed her license, will show something else for ID. The drunk guy says she
+  was paying $188 a week for a hotel and he was trying to find a cheaper place.
+  She has Colorado ID, is going to dealer school and college? Which is it? She
+  says they are the same. The guy says he sold his ID in 1987. They ask him why
+  he did that. A guy needed it. The girl cries, says she has a 19 month old
+  kid, she knows the guy's a punk and a trouble maker, but she just moved here.
+  The cops know the drunk guy. The cops admit they don't know him and tell her
+  to relax, she says she's not spazzing.  She met him at the Ambassador while
+  playing some nickels slots and told him her story. Her mom died two weeks
+  ago, she's from Clinton, IO and thought this place was like Reno. What's Reno
+  like? Nicer. Tom is worried she's out drinking beer in the bushes while her
+  kids are alone. She says they aren't and she has a 5 year old and a 2 year
+  old. They remember seeing Jerry drinking behind the mini mart a few weeks
+  ago. He admits he was there drinking. They tell him to go. He goes to get her
+  bag and she tells him not to. They tell Peggy she can go and not to jump in
+  the bushes with some scrounge she doesn't know. She says where she's from
+  they believe people. She doesn't know anybody here and she holds stuffed
+  animals. They say she knows them know. Give them a call if she needs anything
+  from now on. They see a lot of people like that, they come with their
+  boyfriends and they leave them after a week and they have nothing, no money
+  no job, nowhere to go.
+- (7:00 PM Disturbance Call) Northeast Area Command -- Officer Randy Sutton
+  says the honest citizen has rights, to conduct his life free of being
+  molested by burglars, rapists, gang members and other scum of the earth.
+  Their job is to do the best they can to protect them from those leeches.
+  It's like the bullies in school, he never liked them. They take advantage of
+  the weak and it's their job to protect them. He goes to a 7-11 where a drunk
+  man refuses to leave and now he's harassing customers out front. He asks the
+  guy what's the problem. His shirt is open, his fat gut is exposed, he says no
+  and walks away. Randy grabs him, says don't walk away from me and asks him
+  why they got a call. He says his car got stolen, he's not harassing anyone.
+  He tries to show his ID and says he's had a lot to drink. His car was on the
+  corner there. He walks around and tries to smoke, but Randy doesn't want him
+  to smoke. Want me to tell you what the truth is? Yes. He got high, gave money
+  to a guy, thought he was his brother, gave him the keys and he took off.
+  Randy asks what he was smoking. Rock. He gave the dealers his car so they
+  could get more.  The car is a 1979 Ford Fairmont. How long has he been
+  smoking? Do you want the truth? Yes. Randy mirandizes him. He says he'll tell
+  him and understands his rights. He doesn't know the license plate number, but
+  it's in his name though.  All the paperwork is in the glove compartment. He
+  gave it to them an hour ago and never thought they would take it. He's been
+  getting high with them for three days and knows where they live. He walks
+  over and Randy says not to stand next to him. He wants to tell him. What were
+  the guys' names? He can't tell.  Randy arrests him for being under the
+  influence of drugs. He cuffs him easily and puts him in the car. On the way
+  to the station Randy says cocaine isn't good for him. He asks him how much
+  has he spent on dope in his life. He can't tell him, maybe $30-40,000 and
+  it's not cheap.
 
 ## CP-314
 
