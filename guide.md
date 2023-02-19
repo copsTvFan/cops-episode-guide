@@ -5251,12 +5251,15 @@ Robert Peel, SY has traditionally been it's HQ.
 
 Aired 1991-08-16.
 
-**Las Vegas, NV 8** (5:45 PM Suspicious Activity) Metropolitan PD Northeast
+**Las Vegas, NV 8**
+
+- (5:45 PM Suspicious Activity) Metropolitan PD Northeast
 Area Command -- Officers Thomas Fletcher says every car that metro has, B/W,
 have a computer terminal MCTs, they are a tremendous help. By running a plate
 at random they can determine if the car is stolen from anywhere in the US, if
 the person has warrants or if the plate is expired. Officer Andrew Legrow.
-(7:30 PM Disturbance Call) Officer Joseph Lombardo and the Polite Vampire lady.
+- (7:30 PM Disturbance Call) / (7:46 PM Disturbance Call) [in later episodes]
+  Officer Joseph Lombardo (Joe Lombardo) and the Polite Vampire lady.
 
 ## BOC-001
 
@@ -9572,8 +9575,13 @@ Aired 2002-04-27.
 
 **Too Hot for Fox Special Edition**. Reruns as Too Hot for Television on other channels or Outrageous Calls.
 
-- (Atlanta, GA -- 4:07 PM Car Pursuit) Zone 3 -- Officer Michel Centola responds to an unmarked car that needs his marked car in a pursuit and the suspect almost hit him.
-- An unmarked unit chases a dangerous driver; a biting woman says she is a vampire; a woman removes her clothing and jumps into a public fountain; an officer questions a transvestite. Las Vegas, NV from CP-340/Clark County/Sacramento, CA/Forth Worth, TX/Kodiak, AK/San Bernardino, CA.
+- (Atlanta, GA -- 4:07 PM Car Pursuit) Zone 3 -- Officer Michael Centola responds to an unmarked car that needs his marked car in a pursuit and the female suspect almost hit him.
+- (Las Vegas, NV -- 7:46 PM Disturbance Call) Polite vampire lady from CP-340; (11:32 PM Code 5 Arrival) Sgt. Dick Adams at the Clark County Detention Center. Woman removes her clothing and jumps into a public fountain
+- (Sacramento, CA -- 3:23 PM Suspicious Person) Officer Al Miller questions a transvestite
+- (Las Vegas, NV -- 11:30 PM Suspicious Activity) Officer Bob Kinch stops a transvestite ("Jennifer") buying drugs out of a red car.
+- (Forth Worth, TX -- 9:32 PM Man With a Knife) Officer Joseph Farah, Jr.
+- (Kodiak, AK -- 10:08 PM Disturbance Call) Sgt. John Palmer out of the Kodiak, AK Police Department arrests 2 females
+- (San Bernardino, CA -- 8:05 PM Disturbance Call) Deputy Don Lupear
 
 ## CP-1436
 
