@@ -4059,73 +4059,78 @@ your salary.” She wants to ask them for a raise then.
 
 Aired 1991-01-12.
 
-**Las Vegas, NV 6** (1:15 AM Fugitive Call) Metropolitan PD -- Officer Mike Horn
-and K-9 Eich are needed and go to the scene. Sgt. Doug Gillespie tells him 575
-wants to know what's going on 44 and 420, ran out the back. Patrol went to a
-house to get someone on a homicide warrant and the guy took off out the back
-door. He's armed with a knife and wanted for battery with a deadly weapon. He
-says the guy hopped over the back wall. Mike goes around back with the dog into
-a garage and asks an owner if they can go into their backyard to search. He
-says it's the worst kind of search he can do, he's worried more about getting
-shot by a resident than a suspect. They think someone is trying to rob them and
-shoot out their window or let their dogs out. He doesn't find anything and
-hears cops calling because another K-9 unit found him. He's cuffed on the
-ground with the dog trying to get him. One dog almost gets him and they yell at
-him to walk past them. He walks like he has all the time in the world. Mike has
-to yell to get the dog to stop. The guy says he just pushed her away, he's told
-he has warrants for attempted assault and attempted sexual battery. Mike trades
-barbs with the other K-9 officer. He calls him a rookie and he found him first,
-Mike says his dog was calm enough to cuff him, Doug says he would be calm too
-since he didn't make the catch. Mike says it's beginners luck, he's still a
-rookie and can't lie, there is competition, he wanted to make the catch, but
-Eich thinks he did anyway, so he still thinks he's top dog. (4:00 PM Indecent
-Exposure Call) Officer Randy Sutton says there are 240 million people in the
-country and only 500,000 cops. When you put on that uniform it's a lot of
-responsibility. The courts decided a cop can be sued as well as the department.
-What he worked so hard to get can be removed from him if the court decides he
-violated someone's rights. He goes to the call of Tanya who can see a man in
-his apartment with the drapes open masturbating in the window. The woman is
-outside when he pulls up and she points to where he is, but can't see him now.
-He backs up to get out of the way. She says he stands in the window with the
-curtains up and the window open and he plays with himself, it's embarrassing.
-She's getting sick of it and he acts like he hides. Tanya will file a crime
-report on him. Randy knocks on B1 and the guy says he's alone and he's wearing
-nothing but a small towel around his waist. Randy mirandizes him and asks if he
-knows why he's here. He says what is he supposed to say, he has a problem with
-her, but doesn't know her. He has scars on his back, knows what he was doing
-was wrong, is not going to deny it, but it was a spur of the moment thing.
-There was something about her, he saw her at the pool, liked the way she looked
-and thinks she's married. He's done it a couple times in front of her, but just
-her. He can see her across the way, finds her sexually attractive and there's
-not much he can really say. Randy tells him to get dressed. He has to go
-downtown and be charged with open and gross lewdness. If he's never been
-arrested they'll let him go. Is it necessary for him to be arrested. It's
-illegal to masturbate in front of women in Nevada. (12:15 AM Disturbance Call)
-Southeast Area Command -- Officer Dominick Rodriguez says he always wanted to
-become a cop, was raised in this town and knows it sounds corny but he loves
-his community. He wanted to be a cop since he was a kid and wants to
-participate in helping the community instead of complaining about it. There are
-people in the emergency room raising heck and refusing to leave. A woman points
-to security and says two young guys are drunk and creating a disturbance. Mike
-cut off the tip of his finger and wanted to be seen first and got obnoxious. He
-asked him to leave, he wouldn't, they are packed and she wants him out. She
-will file a trespass on him. They guy is on the phone when Dom goes in. He
-tells him to get off. He says he's been there 90 minutes, he needs stitches and
-needs help now. He has a bloody towel on his hand and called 911 and they said
-they have to help him. Mike says the guard is playing Mr. Hero, won't help him,
-he's there first. Dom says it's a private hospital and they don't have to take
-care of him. Mike says his uncle is Chuck Thompson and he'll take care of them
-all. A guy and a girl come over and start yelling it's a customer service
-problem. He asks if someone had a gun in his stomach would they wait? The guy
-comes back and says he's been bleeding for two hours and Dom says he'll arrest
-Donald for obstruction. They feel strongly about him leaving, he'll go in and
-talk to them. He talks to a woman who says it's not an emergency and not life
-threatening. He needs 2 maybe 3 stitches and he's only been there 30 minutes.
-The others are a priority, they take them in priority order, people came in by
-ambulance and he spread the wound apart to make it bleed. Mike says she told
-him it would be 5 stitches. The waiting process is part of the game. He denies
-he was there only 30 minutes. Dom sympathizes with them, but they have to play
-the game and wait, other people have problems too.
+**Las Vegas, NV 6**
+
+- (1:15 AM Fugitive Call) Metropolitan PD -- Officer Mike Horn and K-9 Eich are
+  needed and go to the scene. Sgt. Doug Gillespie tells him 575 wants to know
+  what's going on 44 and 420, ran out the back. Patrol went to a house to get
+  someone on a homicide warrant and the guy took off out the back door. He's
+  armed with a knife and wanted for battery with a deadly weapon. He says the
+  guy hopped over the back wall. Mike goes around back with the dog into a
+  garage and asks an owner if they can go into their backyard to search. He
+  says it's the worst kind of search he can do, he's worried more about getting
+  shot by a resident than a suspect. They think someone is trying to rob them
+  and shoot out their window or let their dogs out. He doesn't find anything
+  and hears cops calling because another K-9 unit found him. He's cuffed on the
+  ground with the dog trying to get him. One dog almost gets him and they yell
+  at him to walk past them. He walks like he has all the time in the world.
+  Mike has to yell to get the dog to stop. The guy says he just pushed her
+  away, he's told he has warrants for attempted assault and attempted sexual
+  battery. Mike trades barbs with the other K-9 officer. He calls him a rookie
+  and he found him first, Mike says his dog was calm enough to cuff him, Doug
+  says he would be calm too since he didn't make the catch. Mike says it's
+  beginners luck, he's still a rookie and can't lie, there is competition, he
+  wanted to make the catch, but Eich thinks he did anyway, so he still thinks
+  he's top dog.
+- (4:00 PM Indecent Exposure Call) Officer Randy Sutton says there are 240
+  million people in the country and only 500,000 cops. When you put on that
+  uniform it's a lot of responsibility. The courts decided a cop can be sued as
+  well as the department.  What he worked so hard to get can be removed from
+  him if the court decides he violated someone's rights. He goes to the call of
+  Tanya who can see a man in his apartment with the drapes open masturbating in
+  the window. The woman is outside when he pulls up and she points to where he
+  is, but can't see him now.  He backs up to get out of the way. She says he
+  stands in the window with the curtains up and the window open and he plays
+  with himself, it's embarrassing.  She's getting sick of it and he acts like
+  he hides. Tanya will file a crime report on him. Randy knocks on B1 and the
+  guy says he's alone and he's wearing nothing but a small towel around his
+  waist. Randy mirandizes him and asks if he knows why he's here. He says what
+  is he supposed to say, he has a problem with her, but doesn't know her. He
+  has scars on his back, knows what he was doing was wrong, is not going to
+  deny it, but it was a spur of the moment thing.  There was something about
+  her, he saw her at the pool, liked the way she looked and thinks she's
+  married. He's done it a couple times in front of her, but just her. He can
+  see her across the way, finds her sexually attractive and there's not much he
+  can really say. Randy tells him to get dressed. He has to go downtown and be
+  charged with open and gross lewdness. If he's never been arrested they'll let
+  him go. Is it necessary for him to be arrested. It's illegal to masturbate in
+  front of women in Nevada.
+- (12:15 AM Disturbance Call) Southeast Area Command -- Officer Dominick
+  Rodriguez says he always wanted to become a cop, was raised in this town and
+  knows it sounds corny but he loves his community. He wanted to be a cop since
+  he was a kid and wants to participate in helping the community instead of
+  complaining about it. There are people in the emergency room raising heck and
+  refusing to leave. A woman points to security and says two young guys are
+  drunk and creating a disturbance. Mike cut off the tip of his finger and
+  wanted to be seen first and got obnoxious. He asked him to leave, he
+  wouldn't, they are packed and she wants him out. She will file a trespass on
+  him. They guy is on the phone when Dom goes in. He tells him to get off. He
+  says he's been there 90 minutes, he needs stitches and needs help now. He has
+  a bloody towel on his hand and called 911 and they said they have to help
+  him. Mike says the guard is playing Mr. Hero, won't help him, he's there
+  first. Dom says it's a private hospital and they don't have to take care of
+  him. Mike says his uncle is Chuck Thompson and he'll take care of them all. A
+  guy and a girl come over and start yelling it's a customer service problem.
+  He asks if someone had a gun in his stomach would they wait? The guy comes
+  back and says he's been bleeding for two hours and Dom says he'll arrest
+  Donald for obstruction. They feel strongly about him leaving, he'll go in and
+  talk to them. He talks to a woman who says it's not an emergency and not life
+  threatening. He needs 2 maybe 3 stitches and he's only been there 30 minutes.
+  The others are a priority, they take them in priority order, people came in
+  by ambulance and he spread the wound apart to make it bleed. Mike says she
+  told him it would be 5 stitches. The waiting process is part of the game. He
+  denies he was there only 30 minutes. Dom sympathizes with them, but they have
+  to play the game and wait, other people have problems too.
 
 ## CP-317
 
@@ -8077,13 +8082,57 @@ Aired 1997-09-06.
 
 Aired 1997-10-11.
 
-**Las Vegas, NV 22** (9:21 PM Street Patrol) South East Area Command -- Officer Scott Martine has been there a year, used to drag race. The job is great, loves what he's doing. A 16 year-old boy waves him down saying Cheryl is freaking out, she's in her 40's and he's watching her kids. He told her to calm down and she hit him. They go to the door with Sgt. Randy Sutton and a kid answers. It's dark and mom is naked in bed with 6 kids, but only 4 are hers. She reaches across to turn on the light and hits Randy in the mouth, but claims she didn't hit him. Scott calls to get someone to watch the kids and she freaks out and attacks him. She says she has no man and isn't laying up in bed, then gets belligerent toward Randy. Grandma comes over and has custody of 2 of the kids and says Cheryl has AIDS. Randy says it's the saddest call he's had in a long time. North Las Vegas (4:57 PM Street Patrol) Officer Irene Booth says some days are dead, could be the weather, who knows? On other days you can't catch up. Her partner is Officer Sue Schaaf and they stop where a mother is fighting with her 15 year-old daughter Stephanie. She says her mom hit her for no reason. Mom says Steph is trying to run away and won't come home with her. She didn't come home last night and would rather go to jail. Sue tries to negotiate, but Steph won't try to get along and closes her mind. They cuff Steph who doesn't go to school, is mad and doesn't care. Eventually they uncuff her and give her back to mom. (3:12 PM Street Patrol) Officer Randy Carter has been there 10 years. He's been working out, trying to stay in shape. Sue is with him and they take a call to a house where Victor is naked in only a towel in the yard. He says he's there to take a shower. They get the daughter's shorts for him to wear as underwear. He lives on Packard and is high. He claims he was being chased and jumped in a window to get by the 5 dogs in the back and hid in these people's shower. The owner came home to find him there. Officer Dan Ewing takes him away charging him with burglary.
+**Las Vegas, NV 22**
+
+- (9:21 PM Street Patrol) South East Area Command -- Officer Scott Martine has
+  been there a year, used to drag race. The job is great, loves what he's
+  doing. A 16 year-old boy waves him down saying Cheryl is freaking out, she's
+  in her 40's and he's watching her kids. He told her to calm down and she hit
+  him. They go to the door with Sgt. Randy Sutton and a kid answers. It's dark
+  and mom is naked in bed with 6 kids, but only 4 are hers. She reaches across
+  to turn on the light and hits Randy in the mouth, but claims she didn't hit
+  him. Scott calls to get someone to watch the kids and she freaks out and
+  attacks him. She says she has no man and isn't laying up in bed, then gets
+  belligerent toward Randy. Grandma comes over and has custody of 2 of the kids
+  and says Cheryl has AIDS. Randy says it's the saddest call he's had in a long
+  time.
+- North Las Vegas (4:57 PM Street Patrol) Officer Irene Booth says some days
+  are dead, could be the weather, who knows? On other days you can't catch up.
+  Her partner is Officer Sue Schaaf and they stop where a mother is fighting
+  with her 15 year-old daughter Stephanie. She says her mom hit her for no
+  reason. Mom says Steph is trying to run away and won't come home with her.
+  She didn't come home last night and would rather go to jail. Sue tries to
+  negotiate, but Steph won't try to get along and closes her mind. They cuff
+  Steph who doesn't go to school, is mad and doesn't care. Eventually they
+  uncuff her and give her back to mom.
+- (3:12 PM Street Patrol) Officer Randy Carter has been there 10 years. He's
+  been working out, trying to stay in shape. Sue is with him and they take a
+  call to a house where Victor is naked in only a towel in the yard. He says
+  he's there to take a shower. They get the daughter's shorts for him to wear
+  as underwear. He lives on Packard and is high. He claims he was being chased
+  and jumped in a window to get by the 5 dogs in the back and hid in these
+  people's shower. The owner came home to find him there. Officer Dan Ewing
+  takes him away charging him with burglary.
 
 ## CP-1008
 
 Aired 1997-11-01.
 
-**Las Vegas, NV 23** (9:27 PM Prostitution Sting) Vice Station -- Officer Christine Payson makes herself skanky by adding heroin needle marks to her arm and a missing tooth so she can play a prostitute. Lt. Carlos Cordero says she played the part before and did really well and not all females can do it. She has to be an actor and think quickly on her feet. They snare johns during the undercover prostitution sting operation. Officers Smith and Middlebrook assist a driver who escaped serious injury after his Jeep was rear-ended by another vehicle. Officers Kinch and Sutton arrest a suspect for driving a car with a stolen license plate. 350th Episode.
+**Las Vegas, NV 23**
+
+- (9:27 PM Prostitution Sting) Vice Station -- Officer Christine Payson makes
+  herself skanky by adding heroin needle marks to her arm and a missing tooth
+  so she can play a prostitute. Lt. Carlos Cordeiro says she played the part
+  before and did really well and not all females can do it. She has to be an
+  actor and think quickly on her feet. They snare johns during the undercover
+  prostitution sting operation.
+- (5:32 PM Traffic Accident) Officers Dave Smith and George Middlebrook assist
+  a driver who escaped serious injury after his Jeep was rear-ended by another
+  vehicle.
+- (8:27 PM Car Stop) Officer Bob Kinch and Sgt. Randy Sutton arrest a suspect
+  for driving a car with a stolen license plate.
+
+350th Episode.
 
 ## CP-1009
 
@@ -8138,13 +8187,31 @@ Aired 1997-12-06.
 
 Aired 1997-12-13.
 
-**Las Vegas, NV 26** (6:34 PM Assistance Call) Sgt. Randy Sutton talks about why people become cops. He then assists in the arrest of a burglar whose getaway attempt was cut short when he inadvertently entered a detective's yard. Officer Walton goes undercover in a sting operation targeting Johns. Officers Rodrigues and Myers respond to a report of drug use in a North Las Vegas park.
+**Las Vegas, NV 26**
+
+- (6:34 PM Assistance Call) Sgt. Randy Sutton talks about why people become
+  cops. He then assists in the arrest of a burglar whose getaway attempt was
+  cut short when he inadvertently entered a detective's yard.
+- (10:12 PM Prostitution Sting) Officer Doreen Walton goes undercover in a
+  sting operation targeting Johns. Lt. Carlos Cordeiro.
+- (5:03 PM Assistance Call) Officers Mike Rodrigues and Mike Myers respond to a
+  report of drug use in a North Las Vegas park.
 
 ## CP-1012
 
 Aired 1998-01-24.
 
-**Las Vegas, NV 27** (3:12 PM Street Patrol) Officer Duane Eamon and officer Wayne Blackard talk about being partners. They arrest a suspect for drug possession, and in the second story, the officers respond to a report of shots fired in a residential neighborhood. Sergeant Randy Sutton investigates a report about a man. Officer Bill Oettinger joins the search for a suspect who fled a traffic stop.
+**Las Vegas, NV 27**
+
+- (3:12 PM Street Patrol) Officer Duane Eamon and officer Wayne Blackard talk
+  about being partners. They arrest a suspect for drug possession, and in the
+  second story (4:23 PM Suspicious Person Call), the officers respond to a
+  report of shots fired in a residential neighborhood. Ft. Office Mike
+  Rodrigues.
+- (7:43 PM Street Patrol) Sergeant Randy Sutton investigates a report about a
+  man.
+- (5:17 PM Assistance Call) Officer Bill Oettinger joins the search for a
+  suspect who fled a traffic stop. Ft. officer Don Evans.
 
 ## CP-1013
 
