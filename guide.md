@@ -5026,106 +5026,129 @@ Aired 1991-05-04.
 
 Aired 1991-05-11.
 
-**Houston, TX 1** (12:09 AM Street Patrol) Deputy James Billinovich talks about
-people who hate them and Sgt. Eugene Merritt briefs a group. In the car James
-says he hates thieves, maybe because he had 2 cars stolen in the last 10 years.
-high speed chase; juveniles steal car; rock throwing attack.
+**Houston, TX 1**
+
+- (12:09 AM Street Patrol) Deputy James Bilinovich talks about people who hate
+  them and Sgt. Eugene Merritt briefs a group. In the car James says he hates
+  thieves, maybe because he had 2 cars stolen in the last 10 years. High speed
+  chase.
+- (D.A.R.E. Program) Officer Leslie Henderson. (5:11 PM Traffic Stop). Rock
+  throwing attack.
+- (Harris County Sheriff's Department) Deputy Michael Sieck brings donuts.
+  (11:46 PM Domestic Disturbance)
 
 ## CP-332
 
 Aired 1991-05-18.
 
-**Houston, TX 2** (10:08 PM Disturbance Call) Sheriff's Dept -- Deputy Eugene
-Lancaster works the unicorporated parts of Harris county, in the last few years
-crime has gotten a lot worse, mostly drugs, especially crack. They're
-undermanned and always busy. A man is breaking windows with a pipe. Eugene goes
-up the dark driveway to a rundown house. A woman says her boyfriend done beat
-the windows in and took off. She saw him throw a ladder through a window and
-broke three others and the air conditioner. She was over his house and her car
-died and he left her there. They pushed the car to Circle K and the tow truck
-driver brought her home. He did it because he was drunk and thinks she's
-screwing around with the neighbor. They have two kids together and her
-grandfather lives with her and Eugene explains to her what to do if she wants
-to file charges. There is a gun on the table and Eugene holds it as he explains
-it. They guy isn't there, so he can't arrest him. They'll have to sign a
-statement saying he did it. Suddenly shots are fired in the yard. He calls for
-backup 42-40 and then runs out and hunts the guy down. He is in the yard in a
-red shirt and jeans. He tells him to get down and cuffs him. He says not to
-move, to shut up and asks him where the gun is. He says he has no gun. Eugene
-searches for it and tells him to shut up. He calls in that the guy is in
-custody. The woman comes down smoking and wanting the two jackets he's wearing
-saying they are hers. The man says he drank a 12 pack of beer and a pint of
-whiskey -- that's it. He doesn't care anymore, doesn't smoke crack. As they are
-driving back to the station a torrential rains starts. He says he was filing a
-criminal mischief report, got shot at, it scared him to death and was not a
-good feeling. He didn't see the guy, made a run for it and caught him. (11:22
-PM) They arrive at the station, take the first door on the right and Cpl Jim
-Haley questions him. The drunk says that his girlfriend got him disappointed
-and no woman in the world should get you disappointed when you are drinking
-trying to have a good time. When the car breaks down and they blame you that
-isn't right. He's not an alcoholic or anything, he doesn't like it, that's the
-way he is that's the way it's gonna be! That's the way he grew up and that's
-the way it's gonna be. He gets angry. You don't know where he grew up or where
-comes from. You don't and nobody else will. It makes him mad. He's worse than
-Rambo. He doesn't use a gun. He's the only one who can change it. He doesn't
-smoke crack. He is an alcoholic, he drinks the cheap whiskey. He is dying
-anyway of cirrhosis of the liver, but no one believes him. He's been through a
-stomach staple, he's been through hell, more than Rambo. He can't stop, he
-can't stop today, why should he? He ain't never tried to kill anyone or hurt
-anyone, he did break some teenie windows. Whenever he gets out he's not going
-to stop. As long as she treats him wrong he'll treat her like sh-t. If she
-treats him right, he'll treat her right. They've been together for 4 years. He
-has 2 kids -- 2 years and 4 months and 8 months. He hopes his kids see this so
-they'll be worse than him. He knows his one boy will be worse, he hopes he is.
-A man won't take sh-t from a woman. He doesn't want people messing with him
-when he has a good time. He says he doesn't drink that much, when someone gets
-him pissed off he gets pissed off. Jim asks shim if he wants help for his
-drinking. He says he doesn't need help, he just pissed off, it would be
-throwing money out the window. He cries and says he loves his kids, he could've
-got shot. Then he asks if it will cost anything. He says counseling is free and
-he admits he needs help. (2:52 AM Disturbance Call) Harris County Sheriff's
-Dept -- it's lunchtime. They are stuffing hot dogs down. Deputy Michael Sieck
-says his partner Deputy Bubba Hinton wears a hat, but his head is too big to
-fit in the car. Bubba says he's a native Texan and he likes wearing a cowboy
-hat, it goes natural with him. They take separate cars and hope it'll be a
-quiet call. Karen says for the guy to tell them. The guy says he rents a room
-to a friend and they got into a fight over the renter's woman. He has no shirt
-on and the guy has no pants on. The woman says the owner wants to sleep with
-her. The renter says the owner hit him in the face. She asks the owner to tell
-the truth that he came to her house and harassed her. She says not to turn his
-dad gum back on her. She has a 20 month old son and doesn't want to deal with
-it. All three of them smoke. Bubba says a tenant has rights and he has a right
-to have a woman over. The owner doesn't want her there. The renter says he
-wants her there. Bubba says she has to leave or she can leave with them. Bubba
-says if Karen doesn't leave he can arrest them all. She goes to leave and
-curses the owner out. Mike says 'he's fixin to jail her'. She gets so mad
-because he wants to screw her and she just wants to be friends. Mike says she
-shouldn't come over there and flaunt it front of him. She says she's not
-flaunting it. He says it's a figure of speech, she's in front of him. She says
-she didn't like him because he had no front teeth and was ugly looking.
+**Houston, TX 2**
+
+- Segment 1 and 2: (10:08 PM Disturbance Call) Sheriff's Dept -- Deputy Eugene
+  Lancaster works the unicorporated parts of Harris county, in the last few
+  years crime has gotten a lot worse, mostly drugs, especially crack. They're
+  undermanned and always busy. A man is breaking windows with a pipe. Eugene
+  goes up the dark driveway to a rundown house. A woman says her boyfriend done
+  beat the windows in and took off. She saw him throw a ladder through a window
+  and broke three others and the air conditioner. She was over his house and
+  her car died and he left her there. They pushed the car to Circle K and the
+  tow truck driver brought her home. He did it because he was drunk and thinks
+  she's screwing around with the neighbor. They have two kids together and her
+  grandfather lives with her and Eugene explains to her what to do if she wants
+  to file charges. There is a gun on the table and Eugene holds it as he
+  explains it.  They guy isn't there, so he can't arrest him. They'll have to
+  sign a statement saying he did it. Suddenly shots are fired in the yard. He
+  calls for backup 42-40 and then runs out and hunts the guy down. He is in the
+  yard in a red shirt and jeans. He tells him to get down and cuffs him. He
+  says not to move, to shut up and asks him where the gun is. He says he has no
+  gun.  Eugene searches for it and tells him to shut up. He calls in that the
+  guy is in custody. The woman comes down smoking and wanting the two jackets
+  he's wearing saying they are hers. The man says he drank a 12 pack of beer
+  and a pint of whiskey -- that's it. He doesn't care anymore, doesn't smoke
+  crack.  As they are driving back to the station a torrential rains starts. He
+  says he was filing a criminal mischief report, got shot at, it scared him to
+  death and was not a good feeling. He didn't see the guy, made a run for it
+  and caught him. (11:22 PM) They arrive at the station, take the first door on
+  the right and Cpl Jim Haley questions him. The drunk says that his girlfriend
+  got him disappointed and no woman in the world should get you disappointed
+  when you are drinking trying to have a good time. When the car breaks down
+  and they blame you that isn't right. He's not an alcoholic or anything, he
+  doesn't like it, that's the way he is that's the way it's gonna be! That's
+  the way he grew up and that's the way it's gonna be. He gets angry. You don't
+  know where he grew up or where comes from. You don't and nobody else will. It
+  makes him mad. He's worse than Rambo. He doesn't use a gun. He's the only one
+  who can change it. He doesn't smoke crack. He is an alcoholic, he drinks the
+  cheap whiskey. He is dying anyway of cirrhosis of the liver, but no one
+  believes him. He's been through a stomach staple, he's been through hell,
+  more than Rambo. He can't stop, he can't stop today, why should he? He ain't
+  never tried to kill anyone or hurt anyone, he did break some teenie windows.
+  Whenever he gets out he's not going to stop. As long as she treats him wrong
+  he'll treat her like shit. If she treats him right, he'll treat her right.
+  They've been together for 4 years. He has 2 kids -- 2 years and 4 months and
+  8 months. He hopes his kids see this so they'll be worse than him. He knows
+  his one boy will be worse, he hopes he is. A man won't take shit from a
+  woman. He doesn't want people messing with him when he has a good time. He
+  says he doesn't drink that much, when someone gets him pissed off he gets
+  pissed off. Jim asks shim if he wants help for his drinking. He says he
+  doesn't need help, he just pissed off, it would be throwing money out the
+  window. He cries and says he loves his kids, he could've got shot. Then he
+  asks if it will cost anything. He says counseling is free and he admits he
+  needs help.
+- (2:52 AM Disturbance Call) Harris County Sheriff's Dept -- it's lunchtime.
+  They are stuffing hot dogs down. Deputy Michael Sieck says his partner Deputy
+  Bubba Hunton wears a hat, but his head is too big to fit in the car. Bubba
+  says he's a native Texan and he likes wearing a cowboy hat, it goes natural
+  with him. They take separate cars and hope it'll be a quiet call. Karen says
+  for the guy to tell them. The guy says he rents a room to a friend and they
+  got into a fight over the renter's woman. He has no shirt on and the guy has
+  no pants on. The woman says the owner wants to sleep with her. The renter
+  says the owner hit him in the face. She asks the owner to tell the truth that
+  he came to her house and harassed her. She says not to turn his dad gum back
+  on her. She has a 20 month old son and doesn't want to deal with it. All
+  three of them smoke. Bubba says a tenant has rights and he has a right to
+  have a woman over. The owner doesn't want her there. The renter says he wants
+  her there. Bubba says she has to leave or she can leave with them. Bubba says
+  if Karen doesn't leave he can arrest them all. She goes to leave and curses
+  the owner out. Mike says 'he's fixin to jail her'. She gets so mad because he
+  wants to screw her and she just wants to be friends. Mike says she shouldn't
+  come over there and flaunt it front of him. She says she's not flaunting it.
+  He says it's a figure of speech, she's in front of him. She says she didn't
+  like him because he had no front teeth and was ugly looking.
 
 ## CP-333
 
 Aired 1991-05-25.
 
-**Houston, TX 3** (Boy Scout Kid on a Fence at Night) Harris County Sheriff's
-Dept. -- Cpl. Larry Blacksmith talks the kid, Stephen, down. The kid doesn't
-want to go to the boy scout meeting because he thinks everyone hates him there.
-Larry says he doesn't have to go if he doesn't want to and will take him home
-to his grandma if he wants. He's not in trouble and can climb up there and get
-him, but it would be easier if he just comes down. The kid thinks he hates him,
-but Larry assures him he doesn't, so he comes down and Larry takes him home.
-(10:05 PM Domestic Disturbance) -- man loses ear in domestic scuffle; tattooed
-woman arrested for drug possession.
+**Houston, TX 3**
+
+- (Boy Scout Kid on a Fence at Night) Harris County Sheriff's Dept. -- Cpl.
+  Larry Blacksmith talks the kid, Stephen, down. The kid doesn't want to go to
+  the boy scout meeting because he thinks everyone hates him there.  Larry says
+  he doesn't have to go if he doesn't want to and will take him home to his
+  grandma if he wants. He's not in trouble and can climb up there and get him,
+  but it would be easier if he just comes down. The kid thinks he hates him,
+  but Larry assures him he doesn't, so he comes down and Larry takes him home.
+  (10:05 PM Domestic Disturbance) -- man loses part of his ear in domestic
+  scuffle.
+- (8:03 PM Street Patrol) Deputy Robert Merchant. Tattooed woman arrested for
+  drug possession.
+- (Harris County Sheriff's Department) Lieutenant Wesley Porter tells officers
+  to clean their guns. (11:28 PM Traffic Stop) Deputy Monty Herron arrests a
+  driver.
 
 ## CP-334
 
 Aired 1991-06-01.
 
-**Houston, TX 4** (12:32 AM Traffic Stop) Sgt. Robert Jackson says he is from
-Detroit, but Houston is is home. It is more laid back and is great for a big
-city. A man is found hanging in a garage; truck stop disturbance; driver
-resists arrest.
+**Houston, TX 4**
+
+- (12:32 AM Traffic Stop) Sgt. Robert Jackson says he is from Detroit, but
+  Houston is is home. It is more laid back and is great for a big city. Driver
+  resists arrest.
+- (Harris County Sheriff's Department) Sgt. Mark Walker talks about a 12 pound
+  baby. (7:56 PM Disturbance Call) Corporal Larry Blacksmith. Deputy Ken
+  Melancon. Truck stop disturbance.
+- (3:05 PM) Deputy Robert Merchant. Sgt. Mark Walker. Detective Frank Pratt. A
+  man is found hanging in a garage (suspected suicide).
 
 ## CP-335
 
@@ -5177,75 +5200,87 @@ originally aired:
 
 Aired 1991-06-15.
 
-**Houston, TX 6** (Vehicle Fire Call) Cpl James Billinovich is called to help
-with the search for a fleeing vehicle. A body was found in the burned car in a
-foggy area and a tow truck is en route.
+**Houston, TX 6**
+
+- (Vehicle Fire Call) Cpl James Bilinovich is called to help with the search
+  for a fleeing vehicle.
+
+A body was found in the burned car in a foggy area and a tow truck is en route.
 
 ## CP-337
 
 Aired 1991-08-31.
 
-**Houston, TX 7** (9:24 PM Disturbance Call) Harris County Sheriff's Dept. --
-Deputy Ron Leonard says he's in the city police who cover from county line to
-county line. Sometimes it takes a while for back up to get there so he talks
-and deals with people differently. Arrest for an elderly guard's beating;
-suicide call.
+**Houston, TX 7**
+
+- (9:24 PM Disturbance Call) Harris County Sheriff's Dept. -- Deputy Ron
+  Leonard says he's in the city police who cover from county line to county
+  line. Sometimes it takes a while for back up to get there so he talks and
+  deals with people differently. Arrest for an elderly guard's beating.
+- (12:03 AM Attempted Suicide Call) Deputy Bubba Hunton.
+- (1:23 AM Stolen Vehicle Call) Deputy Richard King.
 
 ## CP-338
 
 Aired 1991-08-09.
 
-**Houston, TX 8** (1:35 AM Shooting Call) Harris County Sheriff's Dept. --
-Deputy Michael Sieck says everything happens at night. When people drink, they
-get drunk and fight so he has to be the moderator, doctor, referee and
-psychologist. He wears lots of hats. There's a 217 call at an upstairs hotel
-room. He finds blood on the doorstep, a guy on the bed with his leg bleeding
-and a woman freaking out. They say it happened 30 minutes ago. A 5' 4" black
-man wearing all black weighing 170 pounds came up and just shot him. They got
-out of the car, the guy was on the stairs and pulled a gun on them wanting
-money. They try to get her to calm down and give her water. EMT arrives and
-says he has a fracture to his leg and will have to be airlifted out. They wrap
-him in a comforter, take him out, a Hermann Hospital helicopter lands and he is
-wheeled aboard. Mike says he doesn't think they got the full story, doesn't
-believe anything he hears and only half of what he sees. This job is always
-something new, you never get in a rut. You try to help someone and sometimes
-they blow up in your face, but you keep going. . (2:25 AM Man with a Gun Call)
-The call is that a woman has been shot and they are walking on Market. He pulls
-up to the man and woman and when they see him they keep walking. He gets out
-and checks them. Melinda has a gun in her pocket. She says they were walking
-home to her mom's house. The guy threw his gun over a fence, she went to get it
-and a guy chased him. It is 2/19, she only met him 5 days ago. He threw the gun
-because they had a fight and she wouldn't give it back to him. There were 3
-shots fired, but she says it wasn't fired. They can tell that it was fired, so
-she says she believes them. They pull the guy out of the cop car and he says
-the woman is his fiancé, the gun is his, they were arguing and he shot it in
-the air twice because he was mad and he threw it away. He is upset she is
-getting arrested. He wants to know how much it will cost. They are both
-arrested and are crying. He kisses her in the back in the cop of the car. Mike
-didn't expect her to have the gun and she could've shot him. (12:21 AM
-Assistance Call) Deputy Bubba Hinton says his mother and father gave him the
-nickname Bubba, a real Texas name, no one knows his real name and they all call
-him Bubba. Deputy Victor Zigmont caught some black males trying to break into
-cars and apartments. He goes to help out and there are a bunch of officers on
-the scene. They find a pistol, a shotgun and a rifle in the thieves car. They
-saw one guy by an apartment with a screwdriver and caught the other one in a
-car. One guy says he was hitchhiking, they gave him the car and he's never been
-to jail. Deputy Ziggy chased the car doing 85mph, but the guy says they didn't
-run. He says there are others in his crew by the Stop N Go, so they go over
-there and look. A black guy in a trenchcoat is walking and runs off when he
-sees them. He runs into the woods and ditches his coat. They catch him a couple
-blocks later, he asks what he's being arrested for and what did he do? They put
-him in the car and find there was a path he ran down while they floundered
-through the deep sticks in the back.
+**Houston, TX 8**
+
+- (1:35 AM Shooting Call) Harris County Sheriff's Dept. -- Deputy Michael Sieck
+  says everything happens at night. When people drink, they get drunk and fight
+  so he has to be the moderator, doctor, referee and psychologist. He wears
+  lots of hats. There's a 217 call at an upstairs hotel room. He finds blood on
+  the doorstep, a guy on the bed with his leg bleeding and a woman freaking
+  out. They say it happened 30 minutes ago. A 5' 4" black man wearing all black
+  weighing 170 pounds came up and just shot him. They got out of the car, the
+  guy was on the stairs and pulled a gun on them wanting money. They try to get
+  her to calm down and give her water. EMT arrives and says he has a fracture
+  to his leg and will have to be airlifted out. They wrap him in a comforter,
+  take him out, a Hermann Hospital helicopter lands and he is wheeled aboard.
+  Mike says he doesn't think they got the full story, doesn't believe anything
+  he hears and only half of what he sees. This job is always something new, you
+  never get in a rut. You try to help someone and sometimes they blow up in
+  your face, but you keep going.
+- (2:25 AM Man with a Gun Call) Deputy Michael Sieck. The call is that a woman
+  has been shot and they are walking on Market. He pulls up to the man and
+  woman and when they see him they keep walking. He gets out and checks them.
+  Melinda has a gun in her pocket. She says they were walking home to her mom's
+  house. The guy threw his gun over a fence, she went to get it and a guy
+  chased him. It is 2/19, she only met him 5 days ago. He threw the gun because
+  they had a fight and she wouldn't give it back to him. There were 3 shots
+  fired, but she says it wasn't fired. They can tell that it was fired, so she
+  says she believes them.  They pull the guy out of the cop car and he says the
+  woman is his fiancé, the gun is his, they were arguing and he shot it in the
+  air twice because he was mad and he threw it away. He is upset she is getting
+  arrested. He wants to know how much it will cost. They are both arrested and
+  are crying. He kisses her in the back in the cop of the car. Mike didn't
+  expect her to have the gun and she could've shot him.
+- (12:21 AM Assistance Call) Deputy Bubba Hinton says his mother and father
+  gave him the nickname Bubba, a real Texas name, no one knows his real name
+  and they all call him Bubba. Deputy Victor Zigmont caught some black males
+  trying to break into cars and apartments. He goes to help out and there are a
+  bunch of officers on the scene, including Deputy Michael Sieck. They find a
+  pistol, a shotgun and a rifle in the thieves car. They saw one guy by an
+  apartment with a screwdriver and caught the other one in a car. One guy says
+  he was hitchhiking, they gave him the car and he's never been to jail. Deputy
+  Ziggy chased the car doing 85mph, but the guy says they didn't run. He says
+  there are others in his crew by the Stop N Go, so they go over there and
+  look. A black guy in a trench coat is walking and runs off when he sees them.
+  He runs into the woods and ditches his coat. They catch him a couple blocks
+  later, he asks what he's being arrested for and what did he do? They put him
+  in the car and find there was a path he ran down while they floundered
+  through the deep sticks in the back.
 
 ## CP-339
 
 Aired 1991-06-22.
 
-**London 1 Hour Special** (Parade) A marching band parades in front of
-Buckingham Palace. Cops watch and patrol. Sir Peter Imbert Commissioner says
-Scotland Yard is the HG of the metro police, it was formed in 1829 by Sir
-Robert Peel, SY has traditionally been it's HQ.
+**London 1 Hour Special**
+
+(Parade) A marching band parades in front of Buckingham Palace. Cops watch and
+patrol. Sir Peter Imbert Commissioner says Scotland Yard is the HG of the metro
+police, it was formed in 1829 by Sir Robert Peel, SY has traditionally been
+it's HQ.
 
 ## CP-340
 
@@ -13141,7 +13176,7 @@ Aired 2008-09-06.
   through a neighborhood known for drug activities. The Corporal stops the
   vehicle and the driver immediately opens his door and questions the reason
   behind the stop. When Ott asks the man to step out of the car, the agitated
-  man exclaims 'f--k this sh-t' and drives away. Corporal Ott pursues only to
+  man exclaims 'fuck this shit' and drives away. Corporal Ott pursues only to
   have the suspect vehicle make a u-turn and head towards him. The corporal
   continues the pursuit for a short distance and watches as the driver drives
   off of the highway and the passenger bails from the vehicle. The driver is
