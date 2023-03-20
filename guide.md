@@ -7346,7 +7346,37 @@ Aired 1995-07-15.
 
 Aired 1994-10-20.
 
-**New York City 1** (4:28 PM Street Patrol) N.Y.P.D. Street Crimes Unit -- Officer Joey Oroyo says they are a very large department, 38,000 strong. He's part of a small unit in such a large dept. They go to precincts with major problems in robberies, shooting and homicide and try to bring those numbers down. He was born in the ghetto, South Bronx, brought up in the hood, sees a lot of things, lots of guys he grew up with are in jail, some are dead or haven't made it anywhere. One of the few things he remembers as a kid was when the cops came down into the neighborhood and how they would actually clean up the neighborhood and he said 'hey when I get out of here one of the things I want to do is become a cop. I want to go out there, come back to the neighborhood that I was born in and do the same thing maybe plus times.' They ride under the L train and see three kids in a car weaving in traffic and follow them for a while. The cops get out and the kids have the radio blasting. One of them tries to run and Joey's partner cuffs him. Another has a gun and they order him down and cuff him as backup arrives. (4:11 AM Burglary Call) Cops go the scene and then climb on a roof. The crooks made a hole in the roof of a drugstore in the rain to gain entry. Cops open the store, but find no one. It looks like nothing was taken. Officer Ann Williams saw the crook and they head into a locked parking lot by dropping over a wall and climb on cars until they find him hiding stuck under a car. (4:05 PM Air Patrol) NYPD Aviation unit -- Detective Gregory Semendinger explains why he likes flying and his job as chopper pilot as they fly by the WTC. (4:31 PM Robbery in Progress) The chopper flies over a jewelry store robbery and they help with the search for a second suspect. (7:02 PM Shots Fired) Cops grab two people and the chopper makes sure the roofs are clear because recently an officer was killed when a bucket of joint compound was thrown for a roof. (9:45 PM Boat in Distress) Near Coney Island they use a thermal imaging unit to find the boat.
+**New York City 1**
+
+- (4:28 PM Street Patrol) N.Y.P.D. Street Crimes Unit -- Officer Joey Arroyo
+  says they are a very large department, 38,000 strong. He's part of a small
+  unit in such a large dept. They go to precincts with major problems in
+  robberies, shooting and homicide and try to bring those numbers down. He was
+  born in the ghetto, South Bronx, brought up in the hood, sees a lot of
+  things, lots of guys he grew up with are in jail, some are dead or haven't
+  made it anywhere. One of the few things he remembers as a kid was when the
+  cops came down into the neighborhood and how they would actually clean up the
+  neighborhood and he said 'hey when I get out of here one of the things I want
+  to do is become a cop. I want to go out there, come back to the neighborhood
+  that I was born in and do the same thing maybe plus times.' They ride under
+  the L train and see three kids in a car weaving in traffic and follow them
+  for a while. The cops get out and the kids have the radio blasting. One of
+  them tries to run and Joey's partner cuffs him. Another has a gun and they
+  order him down and cuff him as backup arrives.
+- (4:11 AM Burglary Call) Cops
+  go the scene and then climb on a roof. The crooks made a hole in the roof of
+  a drugstore in the rain to gain entry. Cops open the store, but find no one.
+  It looks like nothing was taken. Officer Ann Williams saw the crook and they
+  head into a locked parking lot by dropping over a wall and climb on cars
+  until they find him hiding stuck under a car.
+- (4:05 PM Air Patrol) NYPD Aviation unit -- Detective Gregory Semendinger
+  explains why he likes flying and his job as chopper pilot as they fly by the
+  WTC. (4:31 PM Robbery in Progress) The chopper flies over a jewelry store
+  robbery and they help with the search for a second suspect. (7:02 PM Shots
+  Fired) Cops grab two people and the chopper makes sure the roofs are clear
+  because recently an officer was killed when a bucket of joint compound was
+  thrown for a roof. (9:45 PM Boat in Distress) Near Coney Island they use a
+  thermal imaging unit to find the boat.
 
 ## CP-734
 
@@ -7528,7 +7558,9 @@ Aired 1995-09-30.
 
 Aired 1995-10-14.
 
-**Tampa, FL 4** (9:21 PM Cruelty to Animals) District 1 -- Officer Steven Borden takes a call of a man walking a dog down the street and kicking it as hard as he can and sending it airborne.
+**Tampa, FL 4**
+
+- (9:21 PM Cruelty to Animals) District 1 -- Officer Steven Borden takes a call of a man walking a dog down the street and kicking it as hard as he can and sending it airborne.
 
 ## CP-806
 
