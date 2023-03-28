@@ -10735,7 +10735,7 @@ Aired 2004-09-11.
 Aired 2004-09-18.
 
 **Coast to Coast 69** (New Orleans, LA -- 6:55 PM Suspicious Activity) 6th
-District Task Force -- Officers Bryan Lewis and Melvin Williams like being in
+District Task Force -- Officers Bryant Louis and Melvin Williams like being in
 the task force because it's different. They see three black men on a corner
 including Larry who are dealing drugs in front of a store. They catch them and
 Larry struggles and has a crack pipe on him even though he just got out of
