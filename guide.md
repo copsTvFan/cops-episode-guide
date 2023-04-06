@@ -3674,92 +3674,98 @@ Aired 1990-11-17.
 
 **Las Vegas Special Edition 1 Hour**
 
-A cop in a helicopter says people look at Las Vegas as a place you can get rich quick whether through gambling or the
-rapid growth in the valley and when they get here and don't realize that dream
-that's where I encounter these people. (Theme song) North East Area Command –
-Officer Larry Burns says he moved there in 1980 to work construction, but he
-was also interested in police work since they didn't make a lot of money he
-didn't take it serious. After he spent his first night in a patrol car he knew
-that was the job for him, that he loves police work. (7:42 PM 911 Call Fight in
-Progress)/Drunk And Disorderly Call with Officer Dennis Magill/Strong Arm
-Robbery and Domestic Violence with Officers Thomas Fletcher and Joe
-Lombardo/Prostitution Sting with Lieutenant Bill Young and Officer Thomas
-Monihan (911 Call -- Rape) Southeast Area Command -- Tom calls in that a woman
-was raped and the operator asks when it happened. A few minutes ago, the girl
-is at his apartment, does she need an ambulance? No, he's putting ice packs on
-her head, she's hysterical. Keep her there. Officer Jack Clark goes to the
-house and Tom answers. He talks to Kelly, she has her head in lap crying and
-mumbling. Where did it happen, here? No. She knows the guy, he's in his 40s,
-50s. She was trying to sleep and this guy came over and tried to stick his
-fingers in her. Tom's seen him by the Jacuzzi, talked to him, doesn't really
-know him. They go around the corner, upstairs to the apartment where the guy
-lives. There are two guys sitting at the kitchen table under a huge American
-flag. There's a shirtless bearded man climbing out the window and Jack pulls
-his gun and says give me a reason. He comes back in and Jack asks him if he's
-Phil. He says no, he's sleeping. They pull back the covers and Phil is in bed
-in his underwear. He doesn't want to get up, wants to know what's wrong so Jack
-jumps him and puts his knee on his back and cuffs him. He pulls him up and the
-man says easy. Officer Peter Rubini talks to John Christian. They don't know
-what's going on. He says Kelly was raped. She's been there for two days and was
-passed out in the bed stark naked. The old guy went in there and laid down,
-they had a party, but he didn't rape her. He didn't do anything wrong, then she
-got up screaming. They take him out and say the problem is when they go to the
-jury it becomes a moral question instead of a legal question. Did he force
-himself on her? The evidence shows him that he did. Laughlin, NV (5:4 PM Child
-Neglect Complaint) Substation -- Officer John Sias goes out to his truck and
-says it is a boomtown. When he arrived 6 years ago there were only 92 people
-living there, now there are 4500. On New Year's Eve they had 70,000 people
-there. Their problem is having a lot of transients. It's known as a boomtown so
-it draws a lot of people. He's going to check on kids living in a trailer in
-unsanitary conditions. He goes into a casino and asks for Jimbo or Jenny. They
-aren't sure if they are working. The kids are living in a trailer in the
-parking lot. The manager tried to look inside, but there's a big dog tied to
-it. He drives them to the lot and there's tons of trailers. He talks to the guy
-inside about the complaint and asks if there's anyone else there, he's not the
-father. John looks around, says it's not safe and is unsanitary. He has to take
-them to Child Haven. He tells the girl he's taking her there, it's a nice place
-with toys, she'll have to stay two days and be out Monday. Do you have a
-special toy you want to bring? Yes, what about your brother Cordell? Can you
-explain it to him? You are being a big girl, I need your help. He thanks the
-guy and he says to go before he's not so cooperative. John says he better
-remain that way. The manager says he wants them out of there by tomorrow. They
-find out Bobbie, the mother, works in the casino as a dealer and they go to
-talk to her. She says she's fine. John explains what happened and all she says
-is really, someone complained? He says it's a mess, no fridge, no food, the
-bathroom stank and didn't work plus the children weren't clean. She says they
-hadn't had a bath today. He's taking the kids, they'll be in the kids care, not
-the detention side. Something has to be done. She'll send them to her mom's
-house in California. She isn't concerned at all. He understands she's working
-on it, but he can't leave them there. Las Vegas (6:33 PM Strong Arm Robbery)
-Northeast Area Command -- Officer Joseph Lombardo says downtown has a variety of
-everything from street pushers, whores, transients, homeless and vagrants. You
-see them on TV and feel sorry for them, but an old guy is taking purses from
-old ladies, knocking them down, hurting them. He gives chase after a man was
-yelling for help. He catches the guy for robbing a blind man. They know Mike,
-they've arrested him before. Mike says you love me then. He checks him and says
-to go get the guy with the cane on the corner. He's lying because he must be
-running for some reason. He cuffs him and he can barely get up. They bring the
-old man he robbed who says he took a whole lot of money from him, $6 or $7.
-Officer Thomas Fletcher gives him the money back and asks what happened. He was
-walking on Freemont Street and Mike reached in his pocket and took his money.
-He has polio, couldn't chase him, told him to stop and is always in fear of his
-life. He'll go to jail as long as he agrees to testify. It's a worse crime, a
-larceny if he's in fear. Mike specializes in victims, he watches and waits for
-them, preys on them. They take him to jail, before it was just petty and
-loitering, now it's a felony, he'll spend time in jail. (11:01 PM Communication
-Center) a woman takes a 911 call about a runaway car traveling in circles in
-the Mirage parking lot. They don't know where the driver is. They pull up and
-someone suggests shooting out the tires. Cops say no. It's an old blue car with
-a white hard top. People want to jump in, but they say to stay back. They ask
-for a large semi truck to block it. They talk to the woman owner who agrees
-they can break the window. Officer Dennis Magill runs over, whacks it with the
-nightstick on the passenger side and jumps in and stops it. The crowd cheers
-and he gives high fives. They say it was a wise decision, $50 to replace the
-window instead of smashing it with the trailer. They are all happy about it and
-he goes back and helps clean the glass out. He asks her how did it happen? It
-slipped out of park, she didn't have it all the way in, got out and left it
-running, it hit the trailer and went around in circles. He doesn't know how it
-happened, but nobody got hurt.
+- A cop in a helicopter says people look at Las Vegas as a place you can get
+  rich quick whether through gambling or the rapid growth in the valley and
+  when they get here and don't realize that dream that's where I encounter
+  these people.
+- (Theme song)
+- North East Area Command – Officer Larry Burns says
+  he moved there in 1980 to work construction, but he was also interested in
+  police work since they didn't make a lot of money he didn't take it serious.
+  After he spent his first night in a patrol car he knew that was the job for
+  him, that he loves police work. (7:42 PM 911 Call Fight in Progress)
+- Drunk And Disorderly Call with Officer Dennis Magill
+- Strong Arm Robbery and Domestic Violence with Officers Thomas Fletcher and
+  Joe Lombardo
+- Prostitution Sting with Lieutenant Bill Young and Officer Thomas Monihan
+- (911 Call -- Rape) Southeast Area Command -- Tom calls in that a woman was
+  raped and the operator asks when it happened. A few minutes ago, the girl is
+  at his apartment, does she need an ambulance? No, he's putting ice packs on
+  her head, she's hysterical. Keep her there. Officer Jack Clark goes to the
+  house and Tom answers. He talks to Kelly, she has her head in lap crying and
+  mumbling. Where did it happen, here? No. She knows the guy, he's in his 40s,
+  50s. She was trying to sleep and this guy came over and tried to stick his
+  fingers in her. Tom's seen him by the Jacuzzi, talked to him, doesn't really
+  know him. They go around the corner, upstairs to the apartment where the guy
+  lives. There are two guys sitting at the kitchen table under a huge American
+  flag. There's a shirtless bearded man climbing out the window and Jack pulls
+  his gun and says give me a reason. He comes back in and Jack asks him if he's
+  Phil. He says no, he's sleeping. They pull back the covers and Phil is in bed
+  in his underwear. He doesn't want to get up, wants to know what's wrong so
+  Jack jumps him and puts his knee on his back and cuffs him. He pulls him up
+  and the man says easy. Officer Peter Rubini talks to John Christian. They
+  don't know what's going on. He says Kelly was raped. She's been there for two
+  days and was passed out in the bed stark naked. The old guy went in there and
+  laid down, they had a party, but he didn't rape her. He didn't do anything
+  wrong, then she got up screaming. They take him out and say the problem is
+  when they go to the jury it becomes a moral question instead of a legal
+  question. Did he force himself on her? The evidence shows him that he did.
+- Laughlin, NV (5:4 PM Child Neglect Complaint) Substation -- Officer John Sias
+  goes out to his truck and says it is a boomtown. When he arrived 6 years ago
+  there were only 92 people living there, now there are 4500. On New Year's Eve
+  they had 70,000 people there. Their problem is having a lot of transients.
+  It's known as a boomtown so it draws a lot of people. He's going to check on
+  kids living in a trailer in unsanitary conditions. He goes into a casino and
+  asks for Jimbo or Jenny. They aren't sure if they are working. The kids are
+  living in a trailer in the parking lot. The manager tried to look inside, but
+  there's a big dog tied to it. He drives them to the lot and there's tons of
+  trailers. He talks to the guy inside about the complaint and asks if there's
+  anyone else there, he's not the father. John looks around, says it's not safe
+  and is unsanitary. He has to take them to Child Haven. He tells the girl he's
+  taking her there, it's a nice place with toys, she'll have to stay two days
+  and be out Monday. Do you have a special toy you want to bring? Yes, what
+  about your brother Cordell? Can you explain it to him? You are being a big
+  girl, I need your help. He thanks the guy and he says to go before he's not
+  so cooperative. John says he better remain that way. The manager says he
+  wants them out of there by tomorrow. They find out Bobbie, the mother, works
+  in the casino as a dealer and they go to talk to her. She says she's fine.
+  John explains what happened and all she says is really, someone complained?
+  He says it's a mess, no fridge, no food, the bathroom stank and didn't work
+  plus the children weren't clean. She says they hadn't had a bath today. He's
+  taking the kids, they'll be in the kids care, not the detention side.
+  Something has to be done. She'll send them to her mom's house in California.
+  She isn't concerned at all. He understands she's working on it, but he can't
+  leave them there.
+- Las Vegas (6:33 PM Strong Arm Robbery) Northeast Area Command -- Officer
+  Joseph Lombardo says downtown has a variety of everything from street
+  pushers, whores, transients, homeless and vagrants. You see them on TV and
+  feel sorry for them, but an old guy is taking purses from old ladies,
+  knocking them down, hurting them. He gives chase after a man was yelling for
+  help. He catches the guy for robbing a blind man. They know Mike, they've
+  arrested him before. Mike says you love me then. He checks him and says to go
+  get the guy with the cane on the corner. He's lying because he must be
+  running for some reason. He cuffs him and he can barely get up. They bring
+  the old man he robbed who says he took a whole lot of money from him, $6 or
+  $7.  Officer Thomas Fletcher gives him the money back and asks what happened.
+  He was walking on Freemont Street and Mike reached in his pocket and took his
+  money.  He has polio, couldn't chase him, told him to stop and is always in
+  fear of his life. He'll go to jail as long as he agrees to testify. It's a
+  worse crime, a larceny if he's in fear. Mike specializes in victims, he
+  watches and waits for them, preys on them. They take him to jail, before it
+  was just petty and loitering, now it's a felony, he'll spend time in jail.
+- (11:01 PM Communication Center) a woman takes a 911 call about a runaway car
+  traveling in circles in the Mirage parking lot. They don't know where the
+  driver is. They pull up and someone suggests shooting out the tires. Cops say
+  no. It's an old blue car with a white hard top. People want to jump in, but
+  they say to stay back. They ask for a large semi truck to block it. They talk
+  to the woman owner who agrees they can break the window. Officer Dennis
+  Magill runs over, whacks it with the nightstick on the passenger side and
+  jumps in and stops it. The crowd cheers and he gives high fives. They say it
+  was a wise decision, $50 to replace the window instead of smashing it with
+  the trailer. They are all happy about it and he goes back and helps clean the
+  glass out. He asks her how did it happen? It slipped out of park, she didn't
+  have it all the way in, got out and left it running, it hit the trailer and
+  went around in circles. He doesn't know how it happened, but nobody got hurt.
 
 ## CP-312
 
@@ -4208,75 +4214,78 @@ the credits the WTC is seen from a distance.
 
 Aired 1991-01-19.
 
-**Las Vegas, NV 7** (7:45 PM Code Red -- Officer Emergency) Metropolitan PD
-Southeast Area Command -- Officer Jack Clark says because of the area with the
-high concentration of bars and casinos they have a DWI problem. People are
-either walking or driving, then it becomes a much more serious problem to put a
-thousand pound car in the hands of a drunk. He pulls over a white rental
-Cadillac with the horn stuck. They pop the hood and he tells them they can pull
-it and take it back to Budget. Then it suddenly stops. Metrocom Center -- a call
-comes in for an officer down emergency. They radio Jack and he takes off. A cop
-got run over at Circus Circus, but they don't know if it's a real cop or
-security. He pulls up and Officer Frank Janise is down on the street with a
-stream of blood coming from his head. One man keeps him down, another holds his
-hand. Jack calls for an ETA on EMS. More people arrive and they caught the
-older male driver who hit him and has no license. EMS cuts Frank's jacket off.
-A witness says he had to chase the driver down the street. He wasn't sure what
-the guy was doing, he was trying to make up his mind what to do. He stopped and
-the man reached in and grabbed his keys. They think he's drunk and give him a
-field test. There was a DWI accident scene and Frank was there. The drunk ran
-through the scene and hit him. He's arrested for felony DWI because of the
-drinking and the injuries. They take Frank to University Medical Center for
-lacerations to his head, broken ribs and broken wrist. He was investigating a
-DWI and stopped traffic, the suspect drove through the accident scene, hit
-Frank and he went to leave. A guard chased him down and made him come back.
-(Seven Months Later) Officer Frank Janise talks about the accident. He arrived
-at the accident scene and went to get flares and find out about getting blood
-drawn for BAC. That's the last thing he remembers. He was told the man came
-across the Industrial road, went over the double line and hit him. The mirror
-on the truck hit him in the head and something cut through his shirt, jacket
-and vest. (5:50 PM Accident Call) He goes to where another cop has a man
-stopped and thinks he's drunk. Officer David Wagner explains the guy was making
-a westbound turn on Paradise, then a lady hit the back of the cab, plus there's
-a second accident. He gives the man a field test. Frank talks to the woman. She
-says the man sandwiched the guy between the truck and the cab almost killing
-him. (8:10 PM Accident Call) He goes to the call of a three car accident where
-paramedics have already arrived. He pulls up and the scene is full of people.
-He talks to a blonde woman who says the white car tried to make a left hand
-turn and the red car didn't yield. The white car's front is smashed in and the
-red car looks like a tinfoil ball. He can relate to them better because he was
-never involved in a DWI accident until he was hit. Everyone had seatbelts
-except for one lady in an 85 Oldsmobile who only got lacerations. The driver
-was lucky he had his belt on so he survived. The old saying is if you drink,
-don't drive. (6:40 PM Suspicious Vehicle) Northeast Area Command -- Officer
-Thomas Fletcher has been assigned to the downtown area as a foot patrol
-officer. They run into a lot of homeless, a lot of robberies, find that a lot
-of their suspects come from in other cities. Then they find out they are also
-wanted back home, it's a very transient area. A red car is driving around a
-parking lot and they ask them what is the woman doing in the trunk of the
-hatchback and tell him to stop. He pulls over and they ask him why she is
-there. They were trying to get a room but it was $25. She has an Australian
-accent and says she's rode 5000 miles back there, that's why her leg is sore.
-The driver says he's rode back there. Officer Joseph Lombardo says he wouldn't
-ride there. Everything she owns is inside there and they laugh about it. (7:10
-PM Domestic Disturbance) A woman is supposed to be holding a baby on the street
-and park rangers have her. They pull up and she is gone. The ranger points to
-where they went. They are across four lanes of traffic. Joe walks over and
-there is a man, woman and kid standing there. Cindy is upset, says her husband
-beat her and the cops let him go again. He's drunk and has a warrant out for
-his arrest. She's putting tape on a large cardboard box on the ground. Her
-husband knew she didn't have any money, thinks he went home and left her there.
-The guy with her is a stranger who gives her some money. He says it won't help
-much, but she shouldn't be out here like that. Her daughter is two and she told
-him she was going back to her parents in Phoenix. He was going to take her to
-get her check and he dropped her off there and left. He wants her to go and he
-told her so. She has no money, except what the guy gave her. She was going to
-get $128 from her check and Greyhound bus tickets as $32. Cops take her box,
-put it in their trunk and will go to Greyhound, they have some money. They
-drive her to the huge bus terminal and ask when the next bus is to Phoenix.
-It's 12:15am. They buy her a ticket and tell her if he shows up again tonight
-and tries to force her to do anything to tell the front desk and they'll come
-as fast as they can.
+**Las Vegas, NV 7**
+
+- (7:45 PM Code Red -- Officer Emergency) Metropolitan PD Southeast Area
+  Command -- Officer Jack Clark says because of the area with the high
+  concentration of bars and casinos they have a DWI problem. People are either
+  walking or driving, then it becomes a much more serious problem to put a
+  thousand pound car in the hands of a drunk. He pulls over a white rental
+  Cadillac with the horn stuck. They pop the hood and he tells them they can
+  pull it and take it back to Budget. Then it suddenly stops. Metrocom Center
+  -- a call comes in for an officer down emergency. They radio Jack and he
+  takes off. A cop got run over at Circus Circus, but they don't know if it's a
+  real cop or security. He pulls up and Officer Frank Janise is down on the
+  street with a stream of blood coming from his head. One man keeps him down,
+  another holds his hand. Jack calls for an ETA on EMS. More people arrive and
+  they caught the older male driver who hit him and has no license. EMS cuts
+  Frank's jacket off. A witness says he had to chase the driver down the
+  street. He wasn't sure what the guy was doing, he was trying to make up his
+  mind what to do. He stopped and the man reached in and grabbed his keys. They
+  think he's drunk and give him a field test. There was a DWI accident scene
+  and Frank was there. The drunk ran through the scene and hit him. He's
+  arrested for felony DWI because of the drinking and the injuries. They take
+  Frank to University Medical Center for lacerations to his head, broken ribs
+  and broken wrist. He was investigating a DWI and stopped traffic, the suspect
+  drove through the accident scene, hit Frank and he went to leave. A guard
+  chased him down and made him come back. (Seven Months Later) Officer Frank
+  Janise talks about the accident. He arrived at the accident scene and went to
+  get flares and find out about getting blood drawn for BAC. That's the last
+  thing he remembers. He was told the man came across the Industrial road, went
+  over the double line and hit him. The mirror on the truck hit him in the head
+  and something cut through his shirt, jacket and vest. (5:50 PM Accident Call)
+  He goes to where another cop has a man stopped and thinks he's drunk. Officer
+  David Wagner explains the guy was making a westbound turn on Paradise, then a
+  lady hit the back of the cab, plus there's a second accident. He gives the
+  man a field test. Frank talks to the woman. She says the man sandwiched the
+  guy between the truck and the cab almost killing him. (8:10 PM Accident Call)
+  He goes to the call of a three car accident where paramedics have already
+  arrived. He pulls up and the scene is full of people.  He talks to a blonde
+  woman who says the white car tried to make a left hand turn and the red car
+  didn't yield. The white car's front is smashed in and the red car looks like
+  a tinfoil ball. He can relate to them better because he was never involved in
+  a DWI accident until he was hit. Everyone had seatbelts except for one lady
+  in an 85 Oldsmobile who only got lacerations. The driver was lucky he had his
+  belt on so he survived. The old saying is if you drink, don't drive.
+- (6:40 PM Suspicious Vehicle) Northeast Area Command -- Officer Thomas
+  Fletcher has been assigned to the downtown area as a foot patrol officer.
+  They run into a lot of homeless, a lot of robberies, find that a lot of their
+  suspects come from in other cities. Then they find out they are also wanted
+  back home, it's a very transient area. A red car is driving around a parking
+  lot and they ask them what is the woman doing in the trunk of the hatchback
+  and tell him to stop. He pulls over and they ask him why she is there. They
+  were trying to get a room but it was $25. She has an Australian accent and
+  says she's rode 5000 miles back there, that's why her leg is sore.  The
+  driver says he's rode back there. Officer Joseph Lombardo says he wouldn't
+  ride there. Everything she owns is inside there and they laugh about it.
+  (7:10 PM Domestic Disturbance) A woman is supposed to be holding a baby on
+  the street and park rangers have her. They pull up and she is gone. The
+  ranger points to where they went. They are across four lanes of traffic. Joe
+  walks over and there is a man, woman and kid standing there. Cindy is upset,
+  says her husband beat her and the cops let him go again. He's drunk and has a
+  warrant out for his arrest. She's putting tape on a large cardboard box on
+  the ground. Her husband knew she didn't have any money, thinks he went home
+  and left her there. The guy with her is a stranger who gives her some money.
+  He says it won't help much, but she shouldn't be out here like that. Her
+  daughter is two and she told him she was going back to her parents in
+  Phoenix. He was going to take her to get her check and he dropped her off
+  there and left. He wants her to go and he told her so. She has no money,
+  except what the guy gave her. She was going to get $128 from her check and
+  Greyhound bus tickets as $32. Cops take her box, put it in their trunk and
+  will go to Greyhound, they have some money. They drive her to the huge bus
+  terminal and ask when the next bus is to Phoenix. It's 12:15am. They buy her
+  a ticket and tell her if he shows up again tonight and tries to force her to
+  do anything to tell the front desk and they'll come as fast as they can.
 
 ## CP-319
 
@@ -4539,59 +4548,64 @@ They go and grab him and lock him up for 2 counts of burglary and theft.
 
 Aired 1991-03-02.
 
-**Pittsburgh, PA 1** (8:12 PM Stolen Vehicle Call) Officer Philip Mercurio got
-his K-9 Louie on 12/22/89 out of a dog pound at the Humane Society. He's a
-Rottweiler and he trained him for 4 months. The first time he saw the dog go
-after someone on the street for going after him and it was amazing. You get
-attached. He's seen two K-9 men lose their dogs. You see grown men crying over
-a dog and it's strange, but now he understands the attachment. He chases a
-silver Mercedes Benz on Clarissa St. Traffic gets in way and he yells. It's a
-personalized plate. They bail out on foot and give chase. He tells Louie "good
-boy" over and over. They catch a young black guy near a bunch of cars. Phil
-says if he moves he'll break his head open. The other got away beside the
-hospital. They make the guy lie down and run out to the street to look for the
-other guy. He tells a guy to watch him and goes over to the next guy who is
-caught by a civilian behind the Atlantic. Four guys were in the car and two
-were caught. The guy had to jump on the car to get away from the dog, he was
-proud. (11:24 PM Street Patrol) Officer Thomas Harris says the ladies of the
-evening are out. They are going to disperse them instead of arresting them. The
-area of the hill is heavy with whores. He spots a girl who tries to hide who
-would rather be arrested than get a lecture. They run from him hard to avoid
-lectures. He talks to a woman who says she's waiting for a bus. There were
-whores around who moved on and she's not working. She's a diabetic and can't
-use drugs. He knows the prostitutes and hasn't seen her before, if he sees her
-again he won't buy it. You can fool him once, maybe twice. Tom says two cars
-just checked her out. Leon pulls up and they don't recognize her. She lives in
-Liberty, but can't say which street. She does have ID though. He asks where her
-carfare is. She doesn't understand and says she has a bus pass. She digs around
-for it and he says he's had checks come faster in the mail. She keeps looking
-and can't find it. He says she played him and she wants her tissues back. He
-says he doesn't want her snot rag and will engrain her face into his brain. He
-would rather she told him the truth and he wouldn't have arrested her, but she
-danced around him like Ginger Rogers. She says she stays at East Liberty, but
-was staying with her nieces. She finally admits she came out there to work. His
-head is spinning, he's insulted. (11:40 PM 911 Call) Officer Joe Arroyo first
-started working at the jail when there was a full moon and there were lots of
-suicides and attempts. On the streets it makes people nuts, usually they are
-nice. They go crazy, he believes in it. Some people think they are crazy, but
-ask doctors or nurses in the ER and they'll tell you. It's a full moon tonight,
-so we'll see. Communications Center -- Charles is on the 6th street bridge
-threatening to jump off. He has a history of alcohol abuse and wants his sister
-to come to him so they call her. Anthony Novak, a Paramedic from the Pittsburgh
-Fire Department talks to him. Charles gives them his mom's number in case they
-can't get the sister. He's way up high on the top of the bridge. He says no one
-cares so why should Officer Jean White care who is helping. Commander Robert
-McNeilly arrives. Jean has known him since they were kids. She tells him Mary
-Lou is on the way down. He wants to see his dad in heaven. They are sending a
-car for his sister and it takes time. Mary Lou arrives and is hysterical. She
-tells him please come down, please, talk to her. They tell her it's really wide
-up there, he didn't jump. There are a lot of birds up there making noise. She
-tells him she loves him, Carol loves him, Crystal loves him and to come down.
-Mom loves her. He asks if she wants him to jump. She says no. They won't touch
-him if he comes down, they'll just take him to get help. He starts coming down,
-doesn't remember climbing up there, he was drinking and sobered up when he got
-there and was scared to climb down. He didn't want the fire ladder. She hopes
-the next time she sees him he'll be happy like he used to be.
+**Pittsburgh, PA 1**
+
+- (8:12 PM Stolen Vehicle Call) Officer Philip Mercurio got his K-9 Louie on
+  1989-12-22 out of a dog pound at the Humane Society. He's a Rottweiler and he
+  trained him for 4 months. The first time he saw the dog go after someone on
+  the street for going after him and it was amazing. You get attached. He's
+  seen two K-9 men lose their dogs. You see grown men crying over a dog and
+  it's strange, but now he understands the attachment. He chases a silver
+  Mercedes Benz on Clarissa St. Traffic gets in way and he yells. It's a
+  personalized plate. They bail out on foot and give chase. He tells Louie
+  "good boy" over and over. They catch a young black guy near a bunch of cars.
+  Phil says if he moves he'll break his head open. The other got away beside
+  the hospital. They make the guy lie down and run out to the street to look
+  for the other guy. He tells a guy to watch him and goes over to the next guy
+  who is caught by a civilian behind the Atlantic. Four guys were in the car
+  and two were caught. The guy had to jump on the car to get away from the dog,
+  he was proud.
+- (11:24 PM Street Patrol) Officer Thomas Harris says the ladies of the evening
+  are out. They are going to disperse them instead of arresting them. The area
+  of the hill is heavy with whores. He spots a girl who tries to hide who would
+  rather be arrested than get a lecture. They run from him hard to avoid
+  lectures. He talks to a woman who says she's waiting for a bus. There were
+  whores around who moved on and she's not working. She's a diabetic and can't
+  use drugs. He knows the prostitutes and hasn't seen her before, if he sees
+  her again he won't buy it. You can fool him once, maybe twice. Tom says two
+  cars just checked her out. Leon pulls up and they don't recognize her. She
+  lives in Liberty, but can't say which street. She does have ID though. He
+  asks where her carfare is. She doesn't understand and says she has a bus
+  pass. She digs around for it and he says he's had checks come faster in the
+  mail. She keeps looking and can't find it. He says she played him and she
+  wants her tissues back. He says he doesn't want her snot rag and will engrain
+  her face into his brain. He would rather she told him the truth and he
+  wouldn't have arrested her, but she danced around him like Ginger Rogers. She
+  says she stays at East Liberty, but was staying with her nieces. She finally
+  admits she came out there to work. His head is spinning, he's insulted.
+- (11:40 PM 911 Call) Officer Joe Arroyo first started working at the jail when
+  there was a full moon and there were lots of suicides and attempts. On the
+  streets it makes people nuts, usually they are nice. They go crazy, he
+  believes in it. Some people think they are crazy, but ask doctors or nurses
+  in the ER and they'll tell you. It's a full moon tonight, so we'll see.
+  Communications Center -- Charles is on the 6th street bridge threatening to
+  jump off. He has a history of alcohol abuse and wants his sister to come to
+  him so they call her. Anthony Novak, a Paramedic from the Pittsburgh Fire
+  Department talks to him. Charles gives them his mom's number in case they
+  can't get the sister. He's way up high on the top of the bridge. He says no
+  one cares so why should Officer Jean White care who is helping. Commander
+  Robert McNeilly arrives. Jean has known him since they were kids. She tells
+  him Mary Lou is on the way down. He wants to see his dad in heaven. They are
+  sending a car for his sister and it takes time. Mary Lou arrives and is
+  hysterical. She tells him please come down, please, talk to her. They tell
+  her it's really wide up there, he didn't jump. There are a lot of birds up
+  there making noise. She tells him she loves him, Carol loves him, Crystal
+  loves him and to come down.  Mom loves her. He asks if she wants him to jump.
+  She says no. They won't touch him if he comes down, they'll just take him to
+  get help. He starts coming down, doesn't remember climbing up there, he was
+  drinking and sobered up when he got there and was scared to climb down. He
+  didn't want the fire ladder. She hopes the next time she sees him he'll be
+  happy like he used to be.
 
 ## CP-324
 
@@ -5419,7 +5433,9 @@ brothers; crack-house sweep.
 
 Aired 1991-09-28.
 
-**Pittsburgh, PA 3** (11:26 PM Narcotics Task Force One) Eddie Brown talks to
+**Pittsburgh, PA 3**
+
+- (11:26 PM Narcotics Task Force One) Eddie Brown talks to
 the camera in the back seat about a new dealer named Ricky who is taking over
 territory causing 14 shootings in the last 10 days. One guy named Eman is now a
 cripple. His partner says he doesn't know if they'll get home alive every
@@ -6782,12 +6798,12 @@ Aired 1993-05-29.
 
 **United States Hour Special** AKA Cops Classics
 
-- (Pittsburgh, PA -- 11:40 PM 911 Call) CP-323
-- (Pittsburgh, PA -- Narcotics Task Force Team One) CP-409
-- (San Diego, CA -- 3:40 PM) CP-217
-- (Philadelphia, PA -- 11:04 PM Street Patrol) CP-521
-- (Houston, TX -- 12:32 AM Traffic Stop) CP-334
-- (Las Vegas, NV -- 7:45 PM Code Red -- Officer Emergency) CP-311
+- (Pittsburgh, PA -- 11:40 PM 911 Call) (CP-323 segment 3)
+- (Pittsburgh, PA -- 11:26 PM Narcotics Task Force Team One) (CP-409 segment 1)
+- (San Diego, CA -- 3:40 PM) (CP-217 segment 2)
+- (Philadelphia, PA -- 11:04 PM Street Patrol) (CP-521 segment 1)
+- (Houston, TX -- 12:32 AM Traffic Stop) (CP-334 segment 1)
+- (Las Vegas, NV -- 7:45 PM Code Red -- Officer Emergency) (CP-311 segment 1)
 - (Las Vegas, NV -- 11:01 PM Communication Center) CP-318.
 
 # Season 6
@@ -12062,53 +12078,57 @@ he threw the camera away. She admits sort of going to his room for drugs.
 
 Aired 2005-02-26.
 
-**Bad Girls! 7 Special Edition** (Fresno, CA -- 12:46 PM Suspicious Person)
-Southwest Policing District -- Officer Joey Perez grew up in the small town of
-Reedly, no drugs or gangs -- a good, small community. His dad was a cop and
-taught him moral character which no one teaches people that in this town and
-that is the problem. He spots a woman walking who headed the other way when she
-saw him coming. He asks if she has anything. Barbara is a fat, heavy white
-woman who says just a compact, then a lighter, makeup and cigarettes. Then she
-admits she has 2 crack pipes, but they are his, not hers. A train comes right
-by them and she starts bawling like a baby, doesn't want to go to jail and
-admits she smoked crack an hour ago. She freaks out, because cops make her
-nervous. Then she tries to run and Joey jumps on her. He threatens to taser her
-if she doesn't behave so she stops and is cuffed. A big chunk of crack fell out
-of her compact when she threw it. They also find dope she threw. Then she won't
-tell her name, she didn't resist, is 17 years old, pregnant and wants to see
-Sgt. Pat Jackson. Pat says she doesn't look pregnant. She says she hasn't had
-her period in 4 months, but no doctor confirmed it. She doesn't care about the
-kid, wants to die, kill herself, is 17 weeks pregnant and her arm and leg
-hurts. Pat says they have had contact with her before and she is always
-combative and sarcastic. When they pick up her crack pipe a cockroach leg falls
-out. Pierce County WA -- Lakewood (10:47 PM Vehicle Crash) Officer Joe Kolp says
-it's a business area, few taverns, really busy, bars are full. A car went
-through the back of a 7-11 into the office. Vivian the fat Mexican woman who
-owns the car says she was in the club and doesn't know what happened. The
-witness said the car sped through the lot, hit a man and then crashed. They say
-it was a female driver, but didn't see her. He was hit hard enough to flip
-through the air, they drove away so they went in and told the store-owner. They
-admit after they are told they could be held for obstruction if the Mexican
-woman was driving. Officer Rodger Leach questions her. Vivian cries and won't
-admit she was driving, then finally admits she drove the car and hit her
-boyfriend who left. She wasn't drinking. He jumped out of the car when they
-were arguing. She put the car in reverse and hit him by hitting the gas by
-mistake. She was scared, has two kids at home and is arrested for obstruction
-by lying at first and now is in a heap of trouble. San Bernardino County CA --
-Rancho Cucamonga PD. Deputy Joe Braaten has been with Sheriff's Dept for over 6
-years and wanted a career that was challenging and different every day. Other
-jobs didn't do it for him. He did a couple ride alongs with buddies and liked
-it. (12:32 AM Traffic Stop) He pulls over a car that has month old expired
-tags. Angela the driver says it's in the mail and has a pot pipe right in plain
-sight. He asks her how much weed she smoked tonight. She says none. He says she
-is lying. She says she doesn't have any pot in the car and wasn't smoking it.
-He checks her eyes and she's stoned. The pipe is next to a bag of cookies and
-there is a meth pipe too. She says there is nothing else that she knows off. He
-keeps looking and finds a speed straw. Deputy Scott Gould backs him up. She
-admits to him she used it a few hours ago. It was her first time in a while. He
-arrests her to wake her up since she has no previous arrests, no job and still
-lives at home. He tells her this stuff will destroy her and she seems like a
-nice person. She cries. (Fox Mistakenly Lists this as Bad Girls! 4)
+**Bad Girls! 7 Special Edition**
+
+- (Fresno, CA -- 12:46 PM Suspicious Person) Southwest Policing District --
+  Officer Joey Perez grew up in the small town of Reedly, no drugs or gangs --
+  a good, small community. His dad was a cop and taught him moral character
+  which no one teaches people that in this town and that is the problem. He
+  spots a woman walking who headed the other way when she saw him coming. He
+  asks if she has anything. Barbara is a fat, heavy white woman who says just a
+  compact, then a lighter, makeup and cigarettes. Then she admits she has 2
+  crack pipes, but they are his, not hers. A train comes right by them and she
+  starts bawling like a baby, doesn't want to go to jail and admits she smoked
+  crack an hour ago. She freaks out, because cops make her nervous. Then she
+  tries to run and Joey jumps on her. He threatens to taser her if she doesn't
+  behave so she stops and is cuffed. A big chunk of crack fell out of her
+  compact when she threw it. They also find dope she threw. Then she won't tell
+  her name, she didn't resist, is 17 years old, pregnant and wants to see Sgt.
+  Pat Jackson. Pat says she doesn't look pregnant. She says she hasn't had her
+  period in 4 months, but no doctor confirmed it. She doesn't care about the
+  kid, wants to die, kill herself, is 17 weeks pregnant and her arm and leg
+  hurts. Pat says they have had contact with her before and she is always
+  combative and sarcastic. When they pick up her crack pipe a cockroach leg
+  falls out.
+- Pierce County WA -- Lakewood (10:47 PM Vehicle Crash) Officer Joe Kolp says
+  it's a business area, few taverns, really busy, bars are full. A car went
+  through the back of a 7-11 into the office. Vivian the fat Mexican woman who
+  owns the car says she was in the club and doesn't know what happened. The
+  witness said the car sped through the lot, hit a man and then crashed. They
+  say it was a female driver, but didn't see her. He was hit hard enough to
+  flip through the air, they drove away so they went in and told the
+  store-owner. They admit after they are told they could be held for
+  obstruction if the Mexican woman was driving. Officer Rodger Leach questions
+  her. Vivian cries and won't admit she was driving, then finally admits she
+  drove the car and hit her boyfriend who left. She wasn't drinking. He jumped
+  out of the car when they were arguing. She put the car in reverse and hit him
+  by hitting the gas by mistake. She was scared, has two kids at home and is
+  arrested for obstruction by lying at first and now is in a heap of trouble.
+- San Bernardino County CA -- Rancho Cucamonga PD. Deputy Joe Braaten has been
+  with Sheriff's Dept for over 6 years and wanted a career that was challenging
+  and different every day. Other jobs didn't do it for him. He did a couple
+  ride alongs with buddies and liked it. (12:32 AM Traffic Stop) He pulls over
+  a car that has month old expired tags. Angela the driver says it's in the
+  mail and has a pot pipe right in plain sight. He asks her how much weed she
+  smoked tonight. She says none. He says she is lying. She says she doesn't
+  have any pot in the car and wasn't smoking it.  He checks her eyes and she's
+  stoned. The pipe is next to a bag of cookies and there is a meth pipe too.
+  She says there is nothing else that she knows off. He keeps looking and finds
+  a speed straw. Deputy Scott Gould backs him up. She admits to him she used it
+  a few hours ago. It was her first time in a while. He arrests her to wake her
+  up since she has no previous arrests, no job and still lives at home. He
+  tells her this stuff will destroy her and she seems like a nice person. She
+  cries. (Fox Mistakenly Lists this as Bad Girls! 4)
 
 ## CP-1736
 
