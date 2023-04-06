@@ -2650,66 +2650,71 @@ to them. To us it's not big deal.
 
 Aired 1990-03-17.
 
-**Los Angeles, CA 7** (9:50 AM Narcotics Bureau Warrant Briefing) Santa Clarita
-Sheriff's Station -- They are after Chilo, a Mexican male, 5'5", 19 years old
-with long modern hair style butched on the sides. He sells ounces of cocaine
-and carries a mean looking sawed off shotgun. He carries it for two reasons --
-drug rip-offs and cops. He has a floor plan of his house drawn on a chalk
-board. John is the ram man, Bobby is the #2 man. If a shooting occurs the
-paramedics can take him wherever. If they get hit they'll got to Kaiser. Sgt.
-Art Reddy listens. He's kinda wired, so be careful (10:03 AM Warrant Served)
-The front gated door is open so they run right in yelling, “Freeze or I'll kill
-you!” They hear someone go out the back and give chase. There is a storage
-building in the back that is open and they check it. There is a lot of garbage
-in the back and a large brick wall he might've jumped. They find the sawed off
-fully loaded in the closet. They like the gun and it has lots of shells. They
-also find a bunch of aerosol cans including one Fix a Flat that they unscrew
-the bottom off and it's full of three bags of coke. They saw the same thing at
-their last raid, he'll be hurting missing all those drugs. The woman there
-isn't very helpful. She says she's the aunt and is afraid because her three
-year old nephew is with him. (11:22 AM) They cuff her and take her with them to
-point out where he is. They find him in a small car with two other guys, make a
-felony stop and cuff him, same with the other two. Then the kid comes out of
-the car crying and runs to the woman. Caesar in the back is from Mission Hills.
-They get their paperwork together and go to book him whistling, “Hi Ho Hi Ho.”
-(12:10 AM Roll Call) West Hollywood -- Sheriff's Station. Steve says the way to
-the future is community oriented police. Deputy Sean Collinsworth agrees and
-they'll use that as a ruse so they won't go to jail. Two people were walking
-their dogs and saw the public forum and decided to drop in. They heard several
-people in the yard and saw the police and K-9s in their yard and asked what's
-going on and they yell at them to stay inside and shut the damn door. Deputy
-Paul Terrusa says he's been there before yelling in the heat of the moment and
-later he goes and apologizes. Sean says that's all they want, it's amazing how
-far “sorry” goes, so they wouldn't be at the meeting. (1:20 AM Traffic Stop)
-Sean tells the driver to turn the car off and get out. The driver gets out and
-is very drunk, he doesn't listen well and won't interlace his fingers. He says
-he had only two beers. Sean takes him over for a field sobriety test. He has
-trouble closing his eyes and putting his head back. Then he has him count and
-lift one foot and he can't do that. Sean asks if he has any medical problems.
-He tries the other foot and can't lift it for more than a second. He says it's
-the first time he's done this. Sean then demonstrates the heel to toe straight
-line and he messes up the count. The guy says he's the cop, he can let him do
-it over. The guy can't even put his heels together. Sean says he passed the
-last test, he's under arrest and cuffs him. They find a huge machete in the car
-and the guy wants it, but they say no. The passenger is also drunk and Sean
-tells him to start walking home. He keeps mouthing off, says he knows his
-rights and wants to know where his friend is going. They keep telling him to
-take off, but he won't listen, so they cuff him. (7:20 PM 911 Call Shooting)
-South East County Sheriff's Station -- Deputy Joe Villanueva parks and his
-partner get in their car. He takes the call, 245 -- gunshot victim, he's 30
-seconds away. When it starts this early it'll go on all night long. Chris says
-they have a traffic accident and a 245, but they are the same call. He almost
-hit someone, the other guy stopped, he crawled out the passenger side and was
-rolling on the ground saying he was shot. There is a bullet hole through the
-windshield. The side is covered in blood, no witnesses, nothing else they know.
-It's a head wound, Cruz and Jeff can handle it, they'll go to the hospital. He
-looks too old to be a gang member (8:12 PM) They arrive at the hospital, he was
-hit twice, once in the head and the bullet is still in the skull. They show the
-x-rays. The victim says he was driving east on Rosecrantz, he heard a shot and
-was hit once. He didn't see anyone and crawled out the side. Joe asks if he's
-OK. They picked up his wife and child and brought them. She comes in to see him
-and is hysterical. Sgt. Cole Hughes arrives. He's not a gang member, not
-involved in drugs, it's just a freak thing, he's a lucky man to survive.
+**Los Angeles, CA 7**
+
+- (9:50 AM Narcotics Bureau Warrant Briefing) Santa Clarita Sheriff's Station
+  -- They are after Chilo, a Mexican male, 5'5", 19 years old with long modern
+  hair style butched on the sides. He sells ounces of cocaine and carries a
+  mean looking sawed off shotgun. He carries it for two reasons -- drug
+  rip-offs and cops. He has a floor plan of his house drawn on a chalk board.
+  John is the ram man, Bobby is the #2 man. If a shooting occurs the paramedics
+  can take him wherever. If they get hit they'll got to Kaiser. Sgt.  Art Reddy
+  listens. He's kinda wired, so be careful (10:03 AM Warrant Served) The front
+  gated door is open so they run right in yelling, “Freeze or I'll kill you!”
+  They hear someone go out the back and give chase. There is a storage building
+  in the back that is open and they check it. There is a lot of garbage in the
+  back and a large brick wall he might've jumped. They find the sawed off fully
+  loaded in the closet. They like the gun and it has lots of shells. They also
+  find a bunch of aerosol cans including one Fix a Flat that they unscrew the
+  bottom off and it's full of three bags of coke. They saw the same thing at
+  their last raid, he'll be hurting missing all those drugs. The woman there
+  isn't very helpful. She says she's the aunt and is afraid because her three
+  year old nephew is with him. (11:22 AM) They cuff her and take her with them
+  to point out where he is. They find him in a small car with two other guys,
+  make a felony stop and cuff him, same with the other two. Then the kid comes
+  out of the car crying and runs to the woman. Caesar in the back is from
+  Mission Hills.  They get their paperwork together and go to book him
+  whistling, “Hi Ho Hi Ho.”
+- (12:10 AM Roll Call) West Hollywood -- Sheriff's Station. Steve says the way
+  to the future is community oriented police. Deputy Sean Collinsworth agrees
+  and they'll use that as a ruse so they won't go to jail. Two people were
+  walking their dogs and saw the public forum and decided to drop in. They
+  heard several people in the yard and saw the police and K-9s in their yard
+  and asked what's going on and they yell at them to stay inside and shut the
+  damn door. Deputy Paul Terrusa says he's been there before yelling in the
+  heat of the moment and later he goes and apologizes. Sean says that's all
+  they want, it's amazing how far “sorry” goes, so they wouldn't be at the
+  meeting. (1:20 AM Traffic Stop) Sean tells the driver to turn the car off and
+  get out. The driver gets out and is very drunk, he doesn't listen well and
+  won't interlace his fingers. He says he had only two beers. Sean takes him
+  over for a field sobriety test. He has trouble closing his eyes and putting
+  his head back. Then he has him count and lift one foot and he can't do that.
+  Sean asks if he has any medical problems.  He tries the other foot and can't
+  lift it for more than a second. He says it's the first time he's done this.
+  Sean then demonstrates the heel to toe straight line and he messes up the
+  count. The guy says he's the cop, he can let him do it over. The guy can't
+  even put his heels together. Sean says he passed the last test, he's under
+  arrest and cuffs him. They find a huge machete in the car and the guy wants
+  it, but they say no. The passenger is also drunk and Sean tells him to start
+  walking home. He keeps mouthing off, says he knows his rights and wants to
+  know where his friend is going. They keep telling him to take off, but he
+  won't listen, so they cuff him.
+- (7:20 PM 911 Call Shooting) South East County Sheriff's Station -- Deputy Joe
+  Villanueva parks and his partner get in their car. He takes the call, 245 --
+  gunshot victim, he's 30 seconds away. When it starts this early it'll go on
+  all night long. Chris says they have a traffic accident and a 245, but they
+  are the same call. He almost hit someone, the other guy stopped, he crawled
+  out the passenger side and was rolling on the ground saying he was shot.
+  There is a bullet hole through the windshield. The side is covered in blood,
+  no witnesses, nothing else they know.  It's a head wound, Cruz and Jeff can
+  handle it, they'll go to the hospital. He looks too old to be a gang member.
+  (8:12 PM) They arrive at the hospital, he was hit twice, once in the head and
+  the bullet is still in the skull. They show the x-rays. The victim says he
+  was driving east on Rosecrantz, he heard a shot and was hit once. He didn't
+  see anyone and crawled out the side. Joe asks if he's OK. They picked up his
+  wife and child and brought them. She comes in to see him and is hysterical.
+  Sgt. Cole Hughes arrives. He's not a gang member, not involved in drugs, it's
+  just a freak thing, he's a lucky man to survive.
 
 ## CP-226
 
@@ -9651,15 +9656,35 @@ Aired 2002-04-06.
 
 ## CP-1431
 
-Aired 2002-04-27.
+Aired 2002-04-27, after CP-1432.
 
-**Coast to Coast 22** (Palm Beach County FL -- 1:42 AM Suspicious Activity) District 3 -- Officer Phyllis Kearney wanted to get into law enforcement in Ireland, but the economy was pretty bad so she had to do it here. There is such a difference between Irish cops. They call them gardy. They don't carry guns unless they are in a special branch So when she came here and carried a gun her mother freaked out. She isn't used to it. When she visited she was pretty worried, but saw the people she worked with and was content. She comes upon two women, a blonde helping a brunette who is on the ground. She is bruised on the head and says her husband hit her with a bat during an argument. She swears she will kill him when she gets a hold of him; officers spot a car being driven backward down a one-way street. San Bernardino CA/Fort Worth TX
+**Coast to Coast 22**
+
+- (Palm Beach County, FL -- 1:42 AM Suspicious Activity) District 3 -- Deputy
+  Phyllis Kearney wanted to get into law enforcement in Ireland, but the
+  economy was pretty bad so she had to do it here. There is such a difference
+  between Irish cops. They call them Gardaí. They don't carry guns unless they
+  are in a special branch. So when she came here and carried a gun her mother
+  freaked out, because she isn't used to that. When she visited she was pretty
+  worried, but saw the people she worked with and was content. She comes upon
+  two women, a blonde helping a brunette who is on the ground. She is bruised
+  on the head and says her husband hit her with a bat during an argument. She
+  swears she will kill him when she gets a hold of him.
+- (San Bernardino County, CA -- 9:09 PM Domestic Disturbance Call) Deputy Chuck
+  Peterson used to work in construction.
+- (Fort Worth, TX -- 7:52 PM Domestic Disturbance Call) Officer W. E. Spakes
 
 ## CP-1432
 
-Aired 2002-04-27.
+Aired 2002-04-27, before CP-1431.
 
-**Coast to Coast 23** (San Bernardino, CA -- 8:25 PM Traffic Stop) Victorville Station -- Deputy Osvaldo Pelayes says he gets a lot of hot calls, especially in the summertime. A suspect flies into a rage in the back of a squad car; a suspect drives a car backward down a one-way street. Hillsborough County FL/Ft. Worth TX. 500th Episode.
+**Coast to Coast 23**
+
+500th Episode.
+
+- (San Bernardino, CA -- 8:25 PM Traffic Stop) Victorville Station -- Deputy Osvaldo Pelayes says he gets a lot of hot calls, especially in the summertime. Barbara is a heroin addict.
+- (Hillsborough County, FL -- 12:03 AM Suspicious Vehicle) Deputy Richard Fitzpatrick.
+- (Fort Worth, TX -- 12:49 AM Suspicious Activity) Officer Paul Ufkes. A suspect drives a car backward down a one-way street.
 
 ## CP-1433
 
