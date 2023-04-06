@@ -4955,73 +4955,77 @@ he owed him.
 
 Aired 1991-04-27.
 
-**Riverside County CA 1** (6:15 PM Warrant Briefing) Deputy Russ Wilson says
-the bad guys are either a patch holder for the Hell Angels or into it
-themselves. They are going to a meth lab is in a house and they don't know the
-status, if it's going to be bubbling or boxed up. Deputy Steve Peters says it's
-nerve racking, he gets butterflies, doesn't know if they are going to be home,
-if there are dogs, guns or what. They pound on the trailer and tell them to
-come out and they try to sneak out the back. They catch Sean and Shana out
-back. He says the guy is a friend of his from high school and he boogied out
-the back door, so he followed him. Shana says she's 20 and has a pipe on her.
-They find a plate of meth freshly cut, bags of pot and a M-16 with the serial
-numbers shaved off. Guns and dope always are together. They catch another group
-of people including Denise who is crying she came there with her dad. They
-check a girls' eyes and ask when was the last time she used speed. She denies
-it and is only 16, so they arrest her for being under the influence. Denise
-says she didn't do speed, her pupils are huge because she's scared. They say it
-doesn't work that way, so she says she smoked pot. Mom arrives and tells the 16
-year old that she played with a rattlesnake and got bit. She says mom, not now.
-Mom is pissed and wants them to take her to jail. They aren't going to and
-she's willing to pay them to do it. She says the guy she's with isn't her
-boyfriend and shows them a picture of the guy. The girl doesn't think she
-screwed up and doesn't want to get in the car. She says she just dropped
-Jeremiah off. Mom doesn't even want her in her car. 35 hours of work on this
-case is over. (4:30 PM 911 Call) Sheriff's Dept -- a man calls in that a woman
-has been shot in her living room, doesn't know how long she's been there and
-thinks she is dead. Kathy is crying in the background, it's her mother, no idea
-who did it. Deputy John Ruffcorn takes the call. Deputy Greg Colyer is on
-scene, he says there are 2 DOA, no suspects. The daughter and the son in law
-found them. Deputy Tom Segobia says they came in, found the step mother dead on
-the floor and the dad face down in the bedroom in a pool of blood. No one else
-lived there and no one stays with them. She thinks Carlos their neighbor was
-home, but doesn't know if he saw anything. They came over to borrow a chainsaw
-from her dad, knocked, no one answer, the door was unlocked, so they went
-around back and heard the dogs barking. She saw Carla there, couldn't get the
-phone to work, so she went next door. Tom tells her to hang tough, but she asks
-about her dad. He doesn't want to say, but admits he was found shot in the
-bedroom and he's dead. She breaks down. Tom says he hates this, there's no
-reason they should be dead. (6:52 PM Homicide Investigation) Detective Fred
-Breitkreuz says the back door was pried open, so that's where they'll start.
-Detective William Frogue says they'll probably be out there all night long.
-Inside the woman still has expensive jewelry on and a phone is in her hand. It
-doesn't look like a robbery since the TV is still there. (4:32 AM) Deputy
-Coroner Bob Overman is going to take the liver temperature to see how long
-they've been dead. It's 62 degrees, which means they've been dead 12-18 hours.
-They find blood on the side of the fridge and possibly gunpowder. (7:12 AM)
-They remove the bullet from the man after they've been there 12-14 hours. They
-come up with a dozen theories to what happened, one may be right, but they'll
-never know. Moreno Valley, CA (Gun Range) Sheriff's Dept -- Deputy Duke Viveros
-fires at a target, reloads and is told to shoot 12 rounds into the last target
-line. Every three months they need to go down to the range and shoot a 210
-score. If they fail they have to make it up. Not everyone shoots as much as
-they should and they'll regret it later when they get docked pay. He takes a
-call and pulls up to Maurice standing outside of his car. He tells him to put
-his hands up and he had a problem the other night. He says he didn't. Duke
-opens the trunk and there's a huge speaker inside. Maurice says he talked to
-her parents, told them he's 18, she's 14, they understood that. They thought he
-was going to rape her, he says he's not like that. They went to a party, she
-got drunk and said she was so horny in front of five guys. Deputy Heidi Godfrey
-says it's illegal for him to have sex with her. He knows, but she insisted
-saying she was ready. He didn't want to at first, but she assured him no one
-would find out. He says she wasn't drunk last night and he bought her an
-expensive ring. She says she loves him a lot, doesn't care if she got pregnant
-and wants kids. He asked for the ring back after what she did last night. Then
-she got mad and accused him of rape last night. He has two marks on his neck,
-she gave him a hickey and he gave one back. He says if it's love age shouldn't
-matter. They explain it's the law. He's arrested for unlawful intercourse with
-a minor. He's not thinking about being with an underage girl drinking, getting
-drunk and having sex.
+**Riverside County CA 1**
+
+- (6:15 PM Warrant Briefing) Deputy Russ Wilson says the bad guys are either a
+  patch holder for the Hell Angels or into it themselves. They are going to a
+  meth lab is in a house and they don't know the status, if it's going to be
+  bubbling or boxed up. Deputy Steve Peters says it's nerve racking, he gets
+  butterflies, doesn't know if they are going to be home, if there are dogs,
+  guns or what. They pound on the trailer and tell them to come out and they
+  try to sneak out the back. They catch Sean and Shana out back. He says the
+  guy is a friend of his from high school and he boogied out the back door, so
+  he followed him. Shana says she's 20 and has a pipe on her.  They find a
+  plate of meth freshly cut, bags of pot and a M-16 with the serial numbers
+  shaved off. Guns and dope always are together. They catch another group of
+  people including Denise who is crying she came there with her dad. They check
+  a girls' eyes and ask when was the last time she used speed. She denies it
+  and is only 16, so they arrest her for being under the influence. Denise says
+  she didn't do speed, her pupils are huge because she's scared. They say it
+  doesn't work that way, so she says she smoked pot. Mom arrives and tells the
+  16 year old that she played with a rattlesnake and got bit. She says mom, not
+  now.  Mom is pissed and wants them to take her to jail. They aren't going to
+  and she's willing to pay them to do it. She says the guy she's with isn't her
+  boyfriend and shows them a picture of the guy. The girl doesn't think she
+  screwed up and doesn't want to get in the car. She says she just dropped
+  Jeremiah off. Mom doesn't even want her in her car. 35 hours of work on this
+  case is over.
+- (4:30 PM 911 Call) Sheriff's Dept -- a man calls in that a woman has been
+  shot in her living room, doesn't know how long she's been there and thinks
+  she is dead. Kathy is crying in the background, it's her mother, no idea who
+  did it. Deputy John Ruffcorn takes the call. Deputy Greg Colyer is on scene,
+  he says there are 2 DOA, no suspects. The daughter and the son in law found
+  them. Deputy Tom Segobia says they came in, found the step mother dead on the
+  floor and the dad face down in the bedroom in a pool of blood. No one else
+  lived there and no one stays with them. She thinks Carlos their neighbor was
+  home, but doesn't know if he saw anything. They came over to borrow a
+  chainsaw from her dad, knocked, no one answer, the door was unlocked, so they
+  went around back and heard the dogs barking. She saw Carla there, couldn't
+  get the phone to work, so she went next door. Tom tells her to hang tough,
+  but she asks about her dad. He doesn't want to say, but admits he was found
+  shot in the bedroom and he's dead. She breaks down. Tom says he hates this,
+  there's no reason they should be dead.
+- (6:52 PM Homicide Investigation) Detective Fred Breitkreuz says the back door
+  was pried open, so that's where they'll start.  Detective William Frogue says
+  they'll probably be out there all night long.  Inside the woman still has
+  expensive jewelry on and a phone is in her hand. It doesn't look like a
+  robbery since the TV is still there. (4:32 AM) Deputy Coroner Bob Overman is
+  going to take the liver temperature to see how long they've been dead. It's
+  62 degrees, which means they've been dead 12-18 hours.  They find blood on
+  the side of the fridge and possibly gunpowder. (7:12 AM) They remove the
+  bullet from the man after they've been there 12-14 hours. They come up with a
+  dozen theories to what happened, one may be right, but they'll never know.
+- Moreno Valley, CA (Gun Range) Sheriff's Dept -- Deputy Duke Viveros fires at
+  a target, reloads and is told to shoot 12 rounds into the last target line.
+  Every three months they need to go down to the range and shoot a 210 score.
+  If they fail they have to make it up. Not everyone shoots as much as they
+  should and they'll regret it later when they get docked pay. He takes a call
+  and pulls up to Maurice standing outside of his car. He tells him to put his
+  hands up and he had a problem the other night. He says he didn't. Duke opens
+  the trunk and there's a huge speaker inside. Maurice says he talked to her
+  parents, told them he's 18, she's 14, they understood that. They thought he
+  was going to rape her, he says he's not like that. They went to a party, she
+  got drunk and said she was so horny in front of five guys. Deputy Heidi
+  Godfrey says it's illegal for him to have sex with her. He knows, but she
+  insisted saying she was ready. He didn't want to at first, but she assured
+  him no one would find out. He says she wasn't drunk last night and he bought
+  her an expensive ring. She says she loves him a lot, doesn't care if she got
+  pregnant and wants kids. He asked for the ring back after what she did last
+  night. Then she got mad and accused him of rape last night. He has two marks
+  on his neck, she gave him a hickey and he gave one back. He says if it's love
+  age shouldn't matter. They explain it's the law. He's arrested for unlawful
+  intercourse with a minor. He's not thinking about being with an underage girl
+  drinking, getting drunk and having sex.
 
 ## CP-330
 
@@ -9390,7 +9394,8 @@ Aired 2001-02-17.
 
 **New Jersey 8**
 
-- (9:52 PM Suspicious Activity) Officer Kevin Kot says it is a fun job, not the same. Can be slow one minute, then call after call comes in. You can ride around all day doing basic patrol then within seconds it could be busy the entire night. His partner Officer Rich Romanski enjoys making peoples lives a little bit better, getting bad people off the street, even though they don't stay off long. He enjoys the people he works with. They arrest a young suspect who attempted to dispose of some drugs during a foot chase. Then they question a suspect whom the officers believe was using drugs inside her vehicle. Officers Mike and Ron Babiak help rescue a woman being held at knifepoint inside a suspect's apartment.
+- (9:52 PM Suspicious Activity) Officer Kevin Kot says it is a fun job, not the same. Can be slow one minute, then call after call comes in. You can ride around all day doing basic patrol then within seconds it could be busy the entire night. His partner Officer Rich Romanski enjoys making peoples lives a little bit better, getting bad people off the street, even though they don't stay off long. He enjoys the people he works with. They arrest a young suspect who attempted to dispose of some drugs during a foot chase. Then they question a suspect whom the officers believe was using drugs inside her vehicle.
+- Officers Mike and Ron Babiak help rescue a woman being held at knifepoint inside a suspect's apartment.
 
 ## CP-1330
 
