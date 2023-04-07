@@ -1550,87 +1550,92 @@ Aired 1989-11-04.
 
 Aired 1989-11-11.
 
-**Portland, OR 8** (911 Call Domestic Violence) Multnomah, Co -- Deputy John
-Blackman goes to a house at night next to a school and walks up to knock on the
-door, but it is open. They find blood on the doorstep and a woman crying who
-says he's in the back bedroom. They arrest a man who said he didn't do
-anything. They say his wife is bloody and crying. She wants to press charges
-then he wants to press charges. He says it looks like she was screwing the
-neighbor to him. John yanks him out the door and the suspect says he's twisting
-his arm. He says after what he did to his wife he doesn't really care. He says
-he didn't do it. John supposes she fell down. The fire department arrives to
-check her out and she has lots of swelling, might have a concussion. She asks
-how bad she looks and wants to go over and slap him because he knows what he
-did to her. They says she can't, but he does know what he did. She cries and
-gets loaded into the ambulance. John says she needs to file a restraining
-order, get a divorce, its assault and to take care of it on Monday. (One Week
-Later) They are going back to the same place. John asks what happened this
-time. She says the same thing as last week and asks if he's the same cop as
-before. He is. The suspect is hiding outside. He says he'll go look for him and
-finds him hiding in the weeds. He's arrested , says he wants to press charges
-and has blood on his face. John dumps him over the fence and he crashes hard
-and moans. He told him to roll over, but he didn't listen. When he sees his
-wife he goes for her and they have to push him away and are tired of playing
-games with him. He says he wants a minute and they are getting involved in
-something they shouldn't be. She comes along crying and wanting to talk. A
-female cop tells her to get back in the house and has to lead her away. They
-put the guy in the car and he says maybe he can talk to her after. He still
-wants to talk to his wife. He ripped John's shirt and tried to kick him. He hit
-his face on the door running out when Officer Van Dyke arrived. They tell her
-she needs to file paperwork on him, maybe that way he'll get counseling, he
-needs it, he also needs to dry out. Officer Harry Jackson talks to a black
-prostitute. She says she's going to a friends'. He wants a note from the
-friend. She hasn't been arrested, but has been out on the streets a long time.
-(North Precinct Street Patrol) He goes around the corner and finds the girl
-standing there. He's mad she lied that she was going home and she's just
-standing there. Victor the pimp comes walking up and Harry knows him, he's
-looking for his lady. He just came jumping out of the bushes. He says he sent
-Arlene home. She says she doesn't know him. Harry then spots Michael the pimp
-hiding in a doorway across the street. He knows him too. She says she's with
-him. He waves at Harry and Harry calls him over. He asks Michael if he made her
-work and she's all smiles. Victor takes off and Mike says she is her
-girlfriend. Harry wants to know why he lets her stand on the corner while he
-watches. He says she's making money. Harry asks why doesn't he go work and make
-money. He says he works. Harry says he's a jealous type that wouldn't want his
-lady doing freaky things with strangers. He asks how he could do that to do
-her. He says he can't force her, she does what she wants. Harry says she's been
-out there 4-5 months and he hasn't arrested her, she's overdue. He feels bad
-about it. Mike wants to know when he's not working. Harry says everyone asks
-him that and he sends them away. Homicide Division Murder Investigation (9:40
-PM Sunday) A victim tried to run away and was shot, then another victim was
-shot. They talked to the unit manager and they went to University hospitals.
-Detective Ed Herbert talks to a female witness whose face and voice are hidden
-who says they were on a patio telling jokes and Preston came out, pulled a gun
-and shot Paul through the head and blood came out both sides of his head. She
-then cries. Ed tells her to take a break. She smokes and says she thinks
-Preston said, "you're next you son of a bitch" and pointed it at Gene. Gene's
-chair went back on the gravel, he tried to get away. Everything went in slow
-motion and she turned, didn't know what to do, she was scared. Ed draws a
-circle of the table next to Everett street and wants her to draw where everyone
-was. She says Paul was here and he came over with the gun and shot him. They go
-back to the crime scene and say everything is the way it was. Paul's body is
-still in the chair. They check his head wound. It's a smoking gun, only thing
-that would've been simpler was to find the suspect standing over the body. Good
-eyewitnesses, got the suspect, it's not the what, it's the why. Murder Suspect
-Police tape -- Preston is an old white man with glasses who says Paul came in
-the laundry room and talking about him and it was a big lie. He threatened to
-beat his face in and told everyone he did it and was the aggressor. It caused
-him to come back later that night with his gun in his hat. He told him to take
-back his lies and he wouldn't. He looked at him like you go to hell. He had the
-gun, but he can't say for sure if he squeezed the trigger, he's thought about
-it in his mind, but he just doesn't know. Detective Kent Perry makes a call to
-the hospital about a shooting victim named Gene Wilbur who was brought in. They
-say he's getting ready for surgery, he was shot in the arm and the bullet went
-through his chest. He's a paralyzed, the best he'll be in a paraplegic. (11:05
-AM Wednesday) They go to him in the hospital and ask if he had problems with
-Preston in the past. Everyone has, he was being evicted, he was too much
-trouble. He never threatened him before, but he threatened Paul saying he was
-going to shoot him. He doesn't own a gun, never has, never told Preston he
-owned a gun. Why would he say that? He doesn't know. He asks if Preston killed
-anyone. They pause and finally say yeah. He says that's too bad. Then it goes
-to a KATU Ch 2 news clip of Jeff Gianola who says a 62 year old man just died
-who was shot on June 25. It was Gene Wilbur of 2041 NW Everett. They were
-sitting outside when both were shot by a man who lived in their apartment.
+**Portland, OR 8**
+
+- (911 Call Domestic Violence) Multnomah, Co -- Deputy John Blackman goes to a
+  house at night next to a school and walks up to knock on the door, but it is
+  open. They find blood on the doorstep and a woman crying who says he's in the
+  back bedroom. They arrest a man who said he didn't do anything. They say his
+  wife is bloody and crying. She wants to press charges then he wants to press
+  charges. He says it looks like she was screwing the neighbor to him. John
+  yanks him out the door and the suspect says he's twisting his arm. He says
+  after what he did to his wife he doesn't really care. He says he didn't do
+  it. John supposes she fell down. The fire department arrives to check her out
+  and she has lots of swelling, might have a concussion. She asks how bad she
+  looks and wants to go over and slap him because he knows what he did to her.
+  They says she can't, but he does know what he did. She cries and gets loaded
+  into the ambulance. John says she needs to file a restraining order, get a
+  divorce, its assault and to take care of it on Monday. (One Week Later) They
+  are going back to the same place. John asks what happened this time. She says
+  the same thing as last week and asks if he's the same cop as before. He is.
+  The suspect is hiding outside. He says he'll go look for him and finds him
+  hiding in the weeds. He's arrested, says he wants to press charges and has
+  blood on his face. John dumps him over the fence and he crashes hard and
+  moans. He told him to roll over, but he didn't listen. When he sees his wife
+  he goes for her and they have to push him away and are tired of playing games
+  with him. He says he wants a minute and they are getting involved in
+  something they shouldn't be. She comes along crying and wanting to talk. A
+  female cop tells her to get back in the house and has to lead her away. They
+  put the guy in the car and he says maybe he can talk to her after. He still
+  wants to talk to his wife. He ripped John's shirt and tried to kick him. He
+  hit his face on the door running out when Officer Van Dyke arrived. They tell
+  her she needs to file paperwork on him, maybe that way he'll get counseling,
+  he needs it, he also needs to dry out.
+- Officer Harry Jackson talks to a black prostitute. She says she's going to a
+  friends'. He wants a note from the friend. She hasn't been arrested, but has
+  been out on the streets a long time.  (North Precinct Street Patrol) He goes
+  around the corner and finds the girl standing there. He's mad she lied that
+  she was going home and she's just standing there. Victor the pimp comes
+  walking up and Harry knows him, he's looking for his lady. He just came
+  jumping out of the bushes. He says he sent Arlene home. She says she doesn't
+  know him. Harry then spots Michael the pimp hiding in a doorway across the
+  street. He knows him too. She says she's with him. He waves at Harry and
+  Harry calls him over. He asks Michael if he made her work and she's all
+  smiles. Victor takes off and Mike says she is her girlfriend. Harry wants to
+  know why he lets her stand on the corner while he watches. He says she's
+  making money. Harry asks why doesn't he go work and make money. He says he
+  works. Harry says he's a jealous type that wouldn't want his lady doing
+  freaky things with strangers. He asks how he could do that to do her. He says
+  he can't force her, she does what she wants. Harry says she's been out there
+  4-5 months and he hasn't arrested her, she's overdue. He feels bad about it.
+  Mike wants to know when he's not working.  Harry says everyone asks him that
+  and he sends them away.
+- Homicide Division Murder Investigation (9:40 PM Sunday) A victim tried to run
+  away and was shot, then another victim was shot. They talked to the unit
+  manager and they went to University hospitals.  Detective Ed Herbert talks to
+  a female witness whose face and voice are hidden who says they were on a
+  patio telling jokes and Preston came out, pulled a gun and shot Paul through
+  the head and blood came out both sides of his head. She then cries. Ed tells
+  her to take a break. She smokes and says she thinks Preston said, "you're
+  next you son of a bitch" and pointed it at Gene. Gene's chair went back on
+  the gravel, he tried to get away. Everything went in slow motion and she
+  turned, didn't know what to do, she was scared. Ed draws a circle of the
+  table next to Everett street and wants her to draw where everyone was. She
+  says Paul was here and he came over with the gun and shot him. They go back
+  to the crime scene and say everything is the way it was. Paul's body is still
+  in the chair. They check his head wound. It's a smoking gun, only thing that
+  would've been simpler was to find the suspect standing over the body. Good
+  eyewitnesses, got the suspect, it's not the what, it's the why. Murder
+  Suspect Police tape -- Preston is an old white man with glasses who says Paul
+  came in the laundry room and talking about him and it was a big lie. He
+  threatened to beat his face in and told everyone he did it and was the
+  aggressor. It caused him to come back later that night with his gun in his
+  hat. He told him to take back his lies and he wouldn't. He looked at him like
+  you go to hell. He had the gun, but he can't say for sure if he squeezed the
+  trigger, he's thought about it in his mind, but he just doesn't know.
+  Detective Kent Perry makes a call to the hospital about a shooting victim
+  named Gene Wilbur who was brought in.  They say he's getting ready for
+  surgery, he was shot in the arm and the bullet went through his chest. He's a
+  paralyzed, the best he'll be in a paraplegic. (11:05 AM Wednesday) They go to
+  him in the hospital and ask if he had problems with Preston in the past.
+  Everyone has, he was being evicted, he was too much trouble. He never
+  threatened him before, but he threatened Paul saying he was going to shoot
+  him. He doesn't own a gun, never has, never told Preston he owned a gun. Why
+  would he say that? He doesn't know. He asks if Preston killed anyone. They
+  pause and finally say yeah. He says that's too bad. Then it goes to a KATU Ch
+  2 news clip of Jeff Gianola who says a 62 year old man just died who was shot
+  on June 25. It was Gene Wilbur of 2041 NW Everett. They were sitting outside
+  when both were shot by a man who lived in their apartment.
 
 ## CP-209
 
@@ -2367,67 +2372,71 @@ court on a technicality.
 
 Aired 1990-02-17.
 
-**Los Angeles, CA 3** (Baton Training) LA County West Hollywood Sheriff's
-Station -- Deputy Sean Collingsworth rides a bicycle to work is in a biking
-outfit. They are going to do an all out assault on the bag 1 at time for 15
-seconds. Deputy Paul Terrusa is up first. They egg him on, saying it's a 200
-pound thief trying to take his gun away. Sean says it was good. Sean is next
-and wails harder than Paul and pokes with the baton. They yell to give it a
-good pop, take it seriously, jab it, he's making fun of your balls. There are
-all posters of pin up girls on the walls. (12:38 AM Man with a Gun Call) Sean
-drives up, a boy flags them down and they run over on foot. They cuff Joseph, a
-long-haired guy in a denim jacket and NASCAR shirt on the ground who says he
-doesn't have a gun and they woke him up trying to steal his stuff. He says he
-doesn't have a knife. The park custodian says the guy threatened him, said he'd
-stab him. They go back to Joseph and he admits he threw the knife somewhere. He
-asks what he did and why's he being arrested. Sean says he's getting assault
-with a deadly weapon, work with it. Joe says he didn't assault anyone. They go
-to take Joe away and he freaks out so they throw him against a fence, down on
-the ground, he screams wildly that they tried to rob him, they woke him up,
-why's he being arrested. He keeps screaming and yelling "Why?" They find a
-Bowie type knife. He asks if the knife is illegal. Sean says no, it's illegal
-to point it at someone. (1:12 AM) They take him to jail, tell him to take his
-socks off and sit him in a holding cell. (4:40 PM Street Patrol) South East
-County Sheriff's Station -- Deputy David Halm gets his shotgun out of the trunk,
-loads it, puts it up front and locks it in place. He says he gets the one gun
-that doesn't fit. (911 Call Domestic Violence) 5:27pm. He's on Bellflower and
-Flower. A guy beat up his girl and he went down the street. She got away and is
-calling from the 7-11 down the road. He pulls in and asks who called. A guy
-says she's in the van. She says her husband, they don't live together. He lives
-on passage. She went to his house, buzzed him at the gate and had three bags
-for the baby. He didn't have his key, got mad, hit her in the chest and tried
-to pull her wedding ring off. David says they'll have to go back since it's the
-city of Paramount and get a cop from there. She's working two jobs to take care
-of the kid, he's not giving her any help and is being a rudie-poo. She went to
-drop the kid off because it's his turn for visitation and she needs to go to
-work. They go to the Todds' house and yell to open up or they'll bring the K-9
-up. He doesn't answer. David kicks at the door over and over, but the dead bolt
-holds it. They yell for Todd to come out. They let Chubby kick it a while.
-Eventually they get in and the dog goes through, but they don't find him. The
-paramedics are called for her because her arm is swelling up, her ribs might be
-broken and she's thrilled. They cart her off and say he's arrestible now. (6:17
-PM) They get a call from Todd asking why his door was kicked in so they go back
-to his place. There are a few people inside and they ask where Todd Weiss is.
-He says he didn't touch his wife, never in his life. They have to go with the
-evidence they have and see. Bail is $5,000 since it's a felony if his friends
-want to bail him out. They've arrested him for it before. The law is that if
-there is any signs of injury they have to arrest and everyone is happy, except
-for him. Temple City Sheriff's Station (911 Call Domestic Violence) Deputy
-Patrick Martinez gets ready for work at the station. He says he and Rice are
-working out the schedule for some reasonable hours. Deputy Ann Brannan goes to
-a locker and grabs a shotgun. (7:20 PM) She goes to a call at 3642 North Delta
-of a mother vs. daughter. The daughter says mom has been drinking all day, has
-no right to, passed out on the couch, she called her aunt and they kicked her
-out. She went to grandmas, kept drinking, punched her sister and bit her
-breast. She doesn't want to prosecute and her little daughter is crying. There
-are four of them living there. She has a black eye from mom, wishes she would
-go to jail, when is she going to stop drinking? If she wants to prosecute, they
-both have injuries so she'll have to make a citizen's arrest, they'll both go
-to jail and they'll have to take the kids. Mom went to AA, but Ann says she
-can't solve family drinking problems. She asks the girl if she has a place to
-go with her kid. Mom says she bit her chest and Ann looks. The little girl is
-cold and Ann checks her for bruises. She says they all need counseling or they
-can go to jail.
+**Los Angeles, CA 3**
+
+- (Baton Training) LA County West Hollywood Sheriff's Station -- Deputy Sean
+  Collingsworth rides a bicycle to work is in a biking outfit. They are going
+  to do an all out assault on the bag 1 at time for 15 seconds. Deputy Paul
+  Terrusa is up first. They egg him on, saying it's a 200 pound thief trying to
+  take his gun away. Sean says it was good. Sean is next and wails harder than
+  Paul and pokes with the baton. They yell to give it a good pop, take it
+  seriously, jab it, he's making fun of your balls. There are all posters of
+  pin up girls on the walls. (12:38 AM Man with a Gun Call) Sean drives up, a
+  boy flags them down and they run over on foot. They cuff Joseph, a
+  long-haired guy in a denim jacket and NASCAR shirt on the ground who says he
+  doesn't have a gun and they woke him up trying to steal his stuff. He says he
+  doesn't have a knife. The park custodian says the guy threatened him, said
+  he'd stab him. They go back to Joseph and he admits he threw the knife
+  somewhere. He asks what he did and why's he being arrested. Sean says he's
+  getting assault with a deadly weapon, work with it. Joe says he didn't
+  assault anyone. They go to take Joe away and he freaks out so they throw him
+  against a fence, down on the ground, he screams wildly that they tried to rob
+  him, they woke him up, why's he being arrested. He keeps screaming and
+  yelling "Why?" They find a Bowie type knife. He asks if the knife is illegal.
+  Sean says no, it's illegal to point it at someone. (1:12 AM) They take him to
+  jail, tell him to take his socks off and sit him in a holding cell.
+- (4:40 PM Street Patrol) South East County Sheriff's Station -- Deputy David
+  Halm gets his shotgun out of the trunk, loads it, puts it up front and locks
+  it in place. He says he gets the one gun that doesn't fit. (911 Call Domestic
+  Violence) 5:27pm. He's on Bellflower and Flower. A guy beat up his girl and
+  he went down the street. She got away and is calling from the 7-11 down the
+  road. He pulls in and asks who called. A guy says she's in the van. She says
+  her husband, they don't live together. He lives on passage. She went to his
+  house, buzzed him at the gate and had three bags for the baby. He didn't have
+  his key, got mad, hit her in the chest and tried to pull her wedding ring
+  off. David says they'll have to go back since it's the city of Paramount and
+  get a cop from there. She's working two jobs to take care of the kid, he's
+  not giving her any help and is being a rudie-poo. She went to drop the kid
+  off because it's his turn for visitation and she needs to go to work. They go
+  to the Todds' house and yell to open up or they'll bring the K-9 up. He
+  doesn't answer. David kicks at the door over and over, but the dead bolt
+  holds it. They yell for Todd to come out. They let Chubby kick it a while.
+  Eventually they get in and the dog goes through, but they don't find him. The
+  paramedics are called for her because her arm is swelling up, her ribs might
+  be broken and she's thrilled. They cart her off and say he's arrestible now.
+  (6:17 PM) They get a call from Todd asking why his door was kicked in so they
+  go back to his place. There are a few people inside and they ask where Todd
+  Weiss is.  He says he didn't touch his wife, never in his life. They have to
+  go with the evidence they have and see. Bail is $5,000 since it's a felony if
+  his friends want to bail him out. They've arrested him for it before. The law
+  is that if there is any signs of injury they have to arrest and everyone is
+  happy, except for him.
+- Temple City Sheriff's Station (911 Call Domestic Violence) Deputy Patrick
+  Martinez gets ready for work at the station. He says he and Rice are working
+  out the schedule for some reasonable hours. Deputy Ann Brannan goes to a
+  locker and grabs a shotgun. (7:20 PM) She goes to a call at 3642 North Delta
+  of a mother vs. daughter. The daughter says mom has been drinking all day,
+  has no right to, passed out on the couch, she called her aunt and they kicked
+  her out. She went to grandmas, kept drinking, punched her sister and bit her
+  breast. She doesn't want to prosecute and her little daughter is crying.
+  There are four of them living there. She has a black eye from mom, wishes she
+  would go to jail, when is she going to stop drinking? If she wants to
+  prosecute, they both have injuries so she'll have to make a citizen's arrest,
+  they'll both go to jail and they'll have to take the kids. Mom went to AA,
+  but Ann says she can't solve family drinking problems. She asks the girl if
+  she has a place to go with her kid. Mom says she bit her chest and Ann looks.
+  The little girl is cold and Ann checks her for bruises. She says they all
+  need counseling or they can go to jail.
 
 ## CP-222
 
@@ -3556,60 +3565,64 @@ in his mind.
 
 Aired 1990-11-03.
 
-**Alaska 2** (9:10 AM Drowning Investigation) Bethel State Troopers -- Trooper
-Terry Asberry and Sgt. Dan Hickman got a call last night that three male youths
-were joyriding in a boat, took a sharp turn and the two in the back fell out.
-The driver came back and found one guy, but not the other. It'll take an hour
-to get there by plane, about 100 miles away. They wheel out a Cessna tri wheel
-from a hanger. They says the area looks smooth, but there is a lot of turmoil
-under the water, lots of eddies and drownings. Kotlik -- they see nothing from
-the air. At the airport they meet Safety Officer William Murphy. He says they
-just gassed up and they've been using poles to drag both side of the river.
-They get a call that they found the victim and go to the wooden jail for a body
-bag. They drive a boat out and there are another 10 boats on the scene near
-where it happened. They have a foot sticking out of a line. They get into a
-second boat and spread out the body bag and pull the body in. They go to the
-magistrate to say the kid had no life vest on, if he did he probably would've
-lived. (4:58 PM Child Assault Call) Anchorage -- Officer Marc Woodward says
-Alaska is a very liberal state. The people's rights are utmost so they have to
-be extra sharp with constitutional laws so they don't lose a case because of
-it. A teenager assaulted a small child and EMS is on the scene. They are in a
-field and the kid is screaming. His friend Brian who is 21 says he fed the kid
-alcohol because he wanted it. EMS needs to take him to the hospital, the kid
-says he had a couple of Coronas. He lives on Jewel Lake and has no phone. A
-witness says he saw the kid crawling away and the Brian picked him up and threw
-him, then tried to carry him away. He grabbed him and made him put the kid
-down. They drive Brian to talk to the parents. The kid says he made them drink.
-Brian says he wanted it. He drank some and didn't want anymore and they said to
-take it. Marc goes in to talk to the parents. Mom wants to kill Brian and Marc
-says he might himself. They do have a phone and call Providence Hospital. In
-the hospital the kid screams like crazy when they put a line in his throat with
-an IV in. His BAC is .178, would be 7-8 drinks for an adult, less for the kid.
-They won't charge Brian until they know more. They give him a citation instead
-of going to jail, but he'll have to go to court. The kid seems like a zombie.
-Marc says the kid could've died and Brian is stupid. Anytime a kid is in danger
-it hits closer to home, especially when you are a parent like he is. (9:20 PM
-Shoplifting Call) Anchorage -- Officer Scott Jessen says he's originally from
-Boise ID and the army sent him up there in January 1979. He likes the country,
-it's familiar. It's the same as Boise except for the snow and ice. They get a
-month of decent weather and the rest is snow. A kid stole a $14 book from a
-comic store. He tells the kid he is under arrest and asks why is he grinning at
-him. He says his dad's here. Scott says it's not a joke and he can take him to
-jail even if it's a comic. He says he's never been arrested and never stole
-before. He then says he didn't steal it. He put it in his bag while he was
-still shopping. Scott tells him it's concealment. He tells him to sit and he
-starts crying. The dad says he's never done it before and had enough cash to
-buy it. There is a TMNT poster on the back door where he's sitting. There is an
-Archie Comics rack with Super Mario Brothers. Batman and Metallica Harvester of
-Sorrow shirts are hanging up. He says he was looking at a computer game and
-wanted to get some other stuff. His dad will take him and he has to go to
-juvenile court. The next time he will take him to jail, not to his dad. There
-is concealment and removal, he has to explain to his dad the difference, but
-both are a crime. The kid has a swatch watch with a swatch guard too. After
-Scott says he really didn't get through to the kid until he realized he could
-go to jail. He finally figured it out when he started crying, that's when you
-know you've made the point. Over the credits is footage with the body bag from
-the first segment.
+**Alaska 2**
+
+- (9:10 AM Drowning Investigation) Bethel State Troopers -- Trooper Terry
+  Asberry and Sgt. Dan Hickman got a call last night that three male youths
+  were joyriding in a boat, took a sharp turn and the two in the back fell out.
+  The driver came back and found one guy, but not the other. It'll take an hour
+  to get there by plane, about 100 miles away. They wheel out a Cessna tri
+  wheel from a hanger. They says the area looks smooth, but there is a lot of
+  turmoil under the water, lots of eddies and drownings. Kotlik -- they see
+  nothing from the air. At the airport they meet Safety Officer William Murphy.
+  He says they just gassed up and they've been using poles to drag both side of
+  the river.  They get a call that they found the victim and go to the wooden
+  jail for a body bag. They drive a boat out and there are another 10 boats on
+  the scene near where it happened. They have a foot sticking out of a line.
+  They get into a second boat and spread out the body bag and pull the body in.
+  They go to the magistrate to say the kid had no life vest on, if he did he
+  probably would've lived.
+- (4:58 PM Child Assault Call) Anchorage -- Officer Marc Woodward says Alaska
+  is a very liberal state. The people's rights are utmost so they have to be
+  extra sharp with constitutional laws so they don't lose a case because of it.
+  A teenager assaulted a small child and EMS is on the scene. They are in a
+  field and the kid is screaming. His friend Brian who is 21 says he fed the
+  kid alcohol because he wanted it. EMS needs to take him to the hospital, the
+  kid says he had a couple of Coronas. He lives on Jewel Lake and has no phone.
+  A witness says he saw the kid crawling away and the Brian picked him up and
+  threw him, then tried to carry him away. He grabbed him and made him put the
+  kid down. They drive Brian to talk to the parents. The kid says he made them
+  drink.  Brian says he wanted it. He drank some and didn't want anymore and
+  they said to take it. Marc goes in to talk to the parents. Mom wants to kill
+  Brian and Marc says he might himself. They do have a phone and call
+  Providence Hospital. In the hospital the kid screams like crazy when they put
+  a line in his throat with an IV in. His BAC is .178, would be 7-8 drinks for
+  an adult, less for the kid.  They won't charge Brian until they know more.
+  They give him a citation instead of going to jail, but he'll have to go to
+  court. The kid seems like a zombie.  Marc says the kid could've died and
+  Brian is stupid. Anytime a kid is in danger it hits closer to home,
+  especially when you are a parent like he is.
+- (9:20 PM Shoplifting Call) Anchorage -- Officer Scott Jessen says he's
+  originally from Boise ID and the army sent him up there in January 1979. He
+  likes the country, it's familiar. It's the same as Boise except for the snow
+  and ice. They get a month of decent weather and the rest is snow. A kid stole
+  a $14 book from a comic store. He tells the kid he is under arrest and asks
+  why is he grinning at him. He says his dad's here. Scott says it's not a joke
+  and he can take him to jail even if it's a comic. He says he's never been
+  arrested and never stole before. He then says he didn't steal it. He put it
+  in his bag while he was still shopping. Scott tells him it's concealment. He
+  tells him to sit and he starts crying. The dad says he's never done it before
+  and had enough cash to buy it. There is a TMNT poster on the back door where
+  he's sitting. There is an Archie Comics rack with Super Mario Brothers.
+  Batman and Metallica Harvester of Sorrow shirts are hanging up. He says he
+  was looking at a computer game and wanted to get some other stuff. His dad
+  will take him and he has to go to juvenile court. The next time he will take
+  him to jail, not to his dad. There is concealment and removal, he has to
+  explain to his dad the difference, but both are a crime. The kid has a swatch
+  watch with a swatch guard too. After Scott says he really didn't get through
+  to the kid until he realized he could go to jail. He finally figured it out
+  when he started crying, that's when you know you've made the point. Over the
+  credits is footage with the body bag from the first segment.
 
 ## CP-309
 
@@ -4882,74 +4895,79 @@ Aired 1991-04-13.
 
 Aired 1991-04-20.
 
-**Tucson, AZ 2** (9:48 PM Shooting Call) Officer Terri O'Rourke says she always
-wanted to be a cop since 7th 8th grade. They asked her what she wanted to do
-with her life and they laughed at her because there weren't a lot of female
-cops. It was always something she was interested in, so she did it. A call of
-someone who got shot and 3 men left the scene in a yellow car comes in. She
-pulls up and there is a lot of commotion, lots of cops, Fire Dept and people
-yelling. A black guy thought they were playing, then they grabbed his neck, put
-a gun to his throat and said you wanna shoot? So they shot at them. They come
-there to visit Bertha at her apartment all the time. They are two brothers and
-can ID the shooters. The big guy Willie got hit with shrapnel. Willie says he
-and his brother were coming downstairs and they were approached. A guy was
-making noise, they were playing, then the woman driving the car started calling
-them niggers. They drive back to the scene where the three Mexican males are
-caught. The are juveniles ages 16 & 18. Willie says that's them, but he doesn't
-know who shot him. There is a pair of guns on the seat of their car. Willie
-went in for surgery, but there was no bullet inside of him, it only grazed him.
-He'll be in the hospital a few days. One is arrested for assault and the rest
-are pending. (Street Patrol) Officer Gary Lynch says he is very active in his
-church and feels sorry for a lot of the people he deals with and understands a
-lot of the problems they have. When he first contacts them his whole rapport is
-he doesn't have to fight or arrest them. He doesn't want to do it, if he is
-calm and polite then they'll give him the same respect. (10:12 PM Domestic
-Dispute) A call of a family fight at a neighbor's house. They hear noises, no
-other info. They go up to the apartment complex and knock on the door with a
-Merry Christmas sign on it. The woman is below, says it's her apt. The guy was
-punching the wall and said he was going to kill her. Her 8 month old baby is in
-there and she is crying that her kids are freezing. Gary says to drop the kids
-at a neighbors' until they can get it sorted out. He's been drinking, just got
-home from a bar, has a knife and told her he would kill himself. Gary wants to
-ask the manager for a key, but she doesn't want him to do that. He told her if
-she called the cops he would shoot her. Gary says he might not mean that. She
-says he means it. A neighbor comes to take the kid. She says they have no phone
-and it's apt 38, so he goes to the manager. The man says he needs his wife. She
-gives them a key that should work. He goes and tries the key, but it doesn't
-work. They go to maintenance and get a ladder to climb up on the balcony to get
-in the sliding glass door. They get in and call for Danny and get no answer.
-Gary grabs the baby out of the crib while other cops search for him. He hands
-the baby to the fat mother who is busy smoking and hits the kid with the
-cigarette. Danny's hand is cut open, he says it's from hitting a glass picture
-and wants a cigarette. He's under arrest. Paramedics are going to check him out
-first. She is upset, can't believe he is going along with it. He's been
-arrested for domestic before and so has she, it's nothing new to her. (8:04 PM
-Burglary Call) Officer Steve McGuigan says the public perceives them as being
-different, cold hearted and mean, but they are people too who grew up the same
-as everyone else. When they get off the job they all do different kinds of
-things and people perceive them differently. He goes to a park at night and
-plays basketball with young kids. He hits a shot and says they owe him a dollar
-and he'll be back for it. Another unit spotted a suspect, doesn't know what for
-yet and he drives over to assist. The apartment was burgled and they got a good
-boot print on the door and fingerprints. He's now supposed to be at the Red Dog
-drinking. They'll have the victim call him at the bar and make sure he is there
-so they can bust him. The guy says he stole a microwave and some 8 track tapes.
-The guy says he got all belligerent and he needed to leave. He calls to talk to
-Richard and says to go out by the phone, he's got his money, he'll be there in
-5 minutes. They drive there, but have no probable cause so they will just
-interview him and see what he says. They find him walking into the bar and he
-agrees to talk. He's all nice and turns over a pocket knife. He says he worked
-phone sales for the guy. He checks his boots and says they scuff nice. He says
-he kicked the door a couple days ago and denies knowing anything about a
-microwave or 8 track tapes and doesn't know they had that. It's Friday, he
-kicked the door on Wednesday. He agrees to go over there and talk to the guy.
-He's not mad about the money. They tell him witnesses say the door was clean
-yesterday, so he's under arrest, put the cigarette out. He kicked it Wed or
-Thurs. They find the stolen stuff behind a bush and want to check it for prints
-first. Forensics arrives to dust for prints and finds good prints on the door
-and the property. He then admits he stole the stuff at 5-6pm and stashed it. He
-has no electricity, so he was holding it for ransom until he got the $16 back
-he owed him.
+**Tucson, AZ 2**
+
+- (9:48 PM Shooting Call) Officer Terri O'Rourke says she always wanted to be a
+  cop since 7th 8th grade. They asked her what she wanted to do with her life
+  and they laughed at her because there weren't a lot of female cops. It was
+  always something she was interested in, so she did it. A call of someone who
+  got shot and 3 men left the scene in a yellow car comes in. She pulls up and
+  there is a lot of commotion, lots of cops, Fire Dept and people yelling. A
+  black guy thought they were playing, then they grabbed his neck, put a gun to
+  his throat and said you wanna shoot? So they shot at them. They come there to
+  visit Bertha at her apartment all the time. They are two brothers and can ID
+  the shooters. The big guy Willie got hit with shrapnel. Willie says he and
+  his brother were coming downstairs and they were approached. A guy was making
+  noise, they were playing, then the woman driving the car started calling them
+  niggers. They drive back to the scene where the three Mexican males are
+  caught. The are juveniles ages 16 & 18. Willie says that's them, but he
+  doesn't know who shot him. There is a pair of guns on the seat of their car.
+  Willie went in for surgery, but there was no bullet inside of him, it only
+  grazed him.  He'll be in the hospital a few days. One is arrested for assault
+  and the rest are pending.
+- (Street Patrol) Officer Gary Lynch says he is very active in his church and
+  feels sorry for a lot of the people he deals with and understands a lot of
+  the problems they have. When he first contacts them his whole rapport is he
+  doesn't have to fight or arrest them. He doesn't want to do it, if he is calm
+  and polite then they'll give him the same respect. (10:12 PM Domestic
+  Dispute) A call of a family fight at a neighbor's house. They hear noises, no
+  other info. They go up to the apartment complex and knock on the door with a
+  Merry Christmas sign on it. The woman is below, says it's her apt. The guy
+  was punching the wall and said he was going to kill her. Her 8 month old baby
+  is in there and she is crying that her kids are freezing. Gary says to drop
+  the kids at a neighbors' until they can get it sorted out. He's been
+  drinking, just got home from a bar, has a knife and told her he would kill
+  himself. Gary wants to ask the manager for a key, but she doesn't want him to
+  do that. He told her if she called the cops he would shoot her. Gary says he
+  might not mean that. She says he means it. A neighbor comes to take the kid.
+  She says they have no phone and it's apt 38, so he goes to the manager. The
+  man says he needs his wife. She gives them a key that should work. He goes
+  and tries the key, but it doesn't work. They go to maintenance and get a
+  ladder to climb up on the balcony to get in the sliding glass door. They get
+  in and call for Danny and get no answer.  Gary grabs the baby out of the crib
+  while other cops search for him. He hands the baby to the fat mother who is
+  busy smoking and hits the kid with the cigarette. Danny's hand is cut open,
+  he says it's from hitting a glass picture and wants a cigarette. He's under
+  arrest. Paramedics are going to check him out first. She is upset, can't
+  believe he is going along with it. He's been arrested for domestic before and
+  so has she, it's nothing new to her.
+- (8:04 PM Burglary Call) Officer Steve McGuigan says the public perceives them
+  as being different, cold hearted and mean, but they are people too who grew
+  up the same as everyone else. When they get off the job they all do different
+  kinds of things and people perceive them differently. He goes to a park at
+  night and plays basketball with young kids. He hits a shot and says they owe
+  him a dollar and he'll be back for it. Another unit spotted a suspect,
+  doesn't know what for yet and he drives over to assist. The apartment was
+  burgled and they got a good boot print on the door and fingerprints. He's now
+  supposed to be at the Red Dog drinking. They'll have the victim call him at
+  the bar and make sure he is there so they can bust him. The guy says he stole
+  a microwave and some 8 track tapes.  The guy says he got all belligerent and
+  he needed to leave. He calls to talk to Richard and says to go out by the
+  phone, he's got his money, he'll be there in 5 minutes. They drive there, but
+  have no probable cause so they will just interview him and see what he says.
+  They find him walking into the bar and he agrees to talk. He's all nice and
+  turns over a pocket knife. He says he worked phone sales for the guy. He
+  checks his boots and says they scuff nice. He says he kicked the door a
+  couple days ago and denies knowing anything about a microwave or 8 track
+  tapes and doesn't know they had that. It's Friday, he kicked the door on
+  Wednesday. He agrees to go over there and talk to the guy.  He's not mad
+  about the money. They tell him witnesses say the door was clean yesterday, so
+  he's under arrest, put the cigarette out. He kicked it Wed or Thurs. They
+  find the stolen stuff behind a bush and want to check it for prints first.
+  Forensics arrives to dust for prints and finds good prints on the door and
+  the property. He then admits he stole the stuff at 5-6pm and stashed it. He
+  has no electricity, so he was holding it for ransom until he got the $16 back
+  he owed him.
 
 ## CP-329
 
@@ -5840,7 +5858,7 @@ Aired 1992-02-22.
   It is a cake that reads 'good luck in homicide' they figure he needs to put
   on some weight. He goes to the call of a black woman and a man fighting in
   front of a store with another man on the NW corner of 133rd. Anthony jumps
-  out , breaks it up, stops the man with a bloody mouth and cuffs him. She is
+  out, breaks it up, stops the man with a bloody mouth and cuffs him. She is
   there with a new boyfriend, he is an old boyfriend. The new guy says he came
   over to the house and cursed out her momma and he got up to get rid of him
   and the old guy said he would shoot him. The old guy says “why can't I talk
@@ -7317,7 +7335,9 @@ Aired 1994-11-19.
 
 Aired 1995-03-11.
 
-**Kansas City 10** (MO -- 7:26 PM Briefing) East Patrol -- Sgt. Mark Johnson talks about an area known for drive bys.
+**Kansas City 10**
+
+- (MO -- 7:26 PM Briefing) East Patrol -- Sgt. Mark Johnson talks about an area known for drive bys.
 
 ## CP-725
 
@@ -10204,7 +10224,7 @@ Aired 2003-11-03.
   woman's side. Also a drunk Mexican man who prompts an intense struggle after
   admitting he was looking into windows of a local recovery center.
 - (Spokane, WA -- 9:26 PM Street Patrol) Spokane PD
-- (Harris County TX -- 8:03 PM Domestic Disturbance) Sheriff's Dept. District 3
+- (Harris County, TX -- 8:03 PM Domestic Disturbance) Sheriff's Dept. District 3
 
 ## CP-1610
 
@@ -12626,7 +12646,7 @@ Aired 2007-05-19.
 
 Aired 2007-01-20.
 
-**Coast to Coast 118** (Wichita, KS -- 1:08 AM Traffic Stop) An officer notices a concealed weapon during a traffic stop; a Riverside County CA , sheriff handles a domestic-assault situation. Cincinnati, OH
+**Coast to Coast 118** (Wichita, KS -- 1:08 AM Traffic Stop) An officer notices a concealed weapon during a traffic stop; a Riverside County CA, sheriff handles a domestic-assault situation. Cincinnati, OH
 
 ## CP-1920
 
