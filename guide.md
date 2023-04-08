@@ -14677,6 +14677,86 @@ TODO
 
 # Season 34
 
-2022.
+2022-2023.
+
+## S34E01
 
 TODO
+
+## S34E02
+
+TODO
+
+## S34E03
+
+TODO
+
+## S34E04
+
+TODO
+
+## S34E05
+
+TODO
+
+## S34E06
+
+TODO
+
+## S34E07
+
+TODO
+
+## S34E08
+
+TODO
+
+## S34E09
+
+TODO
+
+## S34E10
+
+TODO
+
+## S34E11
+
+TODO
+
+## S34E12
+
+TODO
+
+## S34E13
+
+TODO
+
+## S34E14
+
+TODO
+
+## S34E15
+
+TODO
+
+## S34E16
+
+TODO
+
+## S34E17
+
+- (Richmond County, GA -- 5:27 PM Suspicious Vehicle) Deputy Anthony Martinez
+- (Boise, ID -- 7:59 PM Traffic Stop) Officer Joe Martinez, Corporal Kevin Holtry
+- (Las Vegas, NV -- 9:08 PM Traffic Stop) PO II LaRon Cooke, Officer E. Sanchez
+
+# Season 35
+
+2023.
+
+## S35E01
+
+Aired 2023-04-07.
+
+- (NYE County, NV -- 12:53 AM Vehicle Pursuit) Deputy Deon Ford, Captain David Boruchowitz, Deputy Sedrick Sweet.
+- (Las Vegas, NV -- 4:22 PM Vehicle Burglary) PO II Tyler Aleiwe, PO II B. Samuelson, Detective Josh Haynes.
+- (Colton, CA -- 10:05 PM Traffic Stop) Detective Anthony Jaeger.
