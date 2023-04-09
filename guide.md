@@ -9300,19 +9300,20 @@ Aired 2000-01-08.
 
 **Fort Worth, TX 20**
 
-- (8:45 PM Street Patrol) East Sector -- Officer Jim Grow talks about making a
-  difference. The problem is that you can't always see it. You can stop a drunk
-  driver and not know that what would've happened two minutes later, they
-  could've killed 5 people if you didn't come along. You have to have faith
-  that you are making a difference. He helps arrest two female suspects who
-  made off with a man's car after he entered a convenience store to do some
-  shopping.
-- Officer Maldonado is flagged down by a female victim who claims to have given
-  another woman money to buy her some crack... and received two pieces of
-  plaster in return.
-- Officer Hernandez receives some unusual help when a suspect detained during a
-  routine traffic stop reveals that his companion is in possession of
-  marijuana.
+- (Fort Worth, TX -- 8:45 PM Street Patrol) East Sector -- Officer Jim Grow
+  talks about making a difference. The problem is that you can't always see it.
+  You can stop a drunk driver and not know that what would've happened two
+  minutes later, they could've killed 5 people if you didn't come along. You
+  have to have faith that you are making a difference. He helps arrest two
+  female suspects who made off with a man's car after he entered a convenience
+  store to do some shopping.
+- (Fort Worth, TX -- 3:31 PM Street Patrol) Officer Antonio Maldonado II is
+  flagged down by a female victim who claims to have given another woman money
+  to buy her some crack... and received two pieces of plaster in return. This
+  segment is also known as "rock refund".
+- (Fort Worth, TX -- 8:17 PM Traffic Stop) Officer Ruben Hernandez receives
+  some unusual help when a suspect detained during a routine traffic stop
+  reveals that his companion is in possession of marijuana.
 
 ## CP-1217
 
