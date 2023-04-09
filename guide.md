@@ -4552,34 +4552,36 @@ Aired 1991-02-23.
 
 **New Jersey 5**
 
-- (6:30 PM) Hoboken -- Officer Mike Plunkett car 122 says there
-are good days and bad days. One minute you are locking someone up, the next you
-are delivering a baby. Every job is different. He gets a call to Sparrow's
-liquor store where someone tried to pass a counterfeit $50 dollar bill. Officer
-Gene Drayton is on the scene. The thief, Raymond, took off on 2nd and
-Washington St in a 4 door Cadillac, wearing a burgundy shirt, headband and is
-shirt, fat and white. They find Ray in a bar and bring him back to the scene to
-ID him. Detective Tom Connor and Detective Karen Dimonde have him. He was also
-on 6th st at Rocko's Liquor Store and passed a fake $50 there. The cops go
-there and retrieve it. Ray's friend says it was his bill and he sent him in
-with the money, they wouldn't take it so they went to another store and threw
-it down a sewer. Jersey City (11:45 PM Roll Call) Officer Elayne Zadroga says
-her dad and uncle were cops and her 7 brothers didn't follow in their
-footsteps. Officer Sal Noto started the job at age 32 and they call him the old
-rookie. (1:25 AM Disturbance Call) They go to a bar and Anne, an old black
-woman, was drinking and did nothing and the owner told her to leave and she
-didn't want to. They ask her to leave and she gets loud and points in Elayne's
-face. She pushes her finger away and Anne gets belligerent and it takes 3 cops
-to cuff and get her out. Her shoes fall off and so does her wig. They take her
-to the drunk tank as people laugh at her. Jersey City -- West District -- Officer
-Brian Rabbit says he's been there 3 years and still feels like a rookie. (9:46
-PM Entry in Progress) It's in the back of a building on 80th ave. When they
-arrive the alarm is going off. Officer Jim Keating gets in the back and turns
-it off. The place is such a mess, including a large dead rat, that they can't
-tell if it is burglarized. A black man says his brother Warren tried to break
-in and rob all the people in the apartment. He has papers against him so they
-can arrest the guy. He is on the corner in a blue shirt, hat and brown jacket.
-They go and grab him and lock him up for 2 counts of burglary and theft.
+- (6:30 PM) Hoboken -- Officer Mike Plunkett car 122 says there are good days
+  and bad days. One minute you are locking someone up, the next you are
+  delivering a baby. Every job is different. He gets a call to Sparrow's liquor
+  store where someone tried to pass a counterfeit $50 dollar bill. Officer Gene
+  Drayton is on the scene. The thief, Raymond, took off on 2nd and Washington
+  St in a 4 door Cadillac, wearing a burgundy shirt, headband and is shirt, fat
+  and white. They find Ray in a bar and bring him back to the scene to ID him.
+  Detective Tom Connor and Detective Karen Dimonde have him. He was also on 6th
+  st at Rocko's Liquor Store and passed a fake $50 there. The cops go there and
+  retrieve it. Ray's friend says it was his bill and he sent him in with the
+  money, they wouldn't take it so they went to another store and threw it down
+  a sewer.
+- Jersey City (11:45 PM Roll Call) Officer Elayne Zadroga says her dad and
+  uncle were cops and her 7 brothers didn't follow in their footsteps. Officer
+  Sal Noto started the job at age 32 and they call him the old rookie. (1:25 AM
+  Disturbance Call) They go to a bar and Anne, an old black woman, was drinking
+  and did nothing and the owner told her to leave and she didn't want to. They
+  ask her to leave and she gets loud and points in Elayne's face. She pushes
+  her finger away and Anne gets belligerent and it takes 3 cops to cuff and get
+  her out. Her shoes fall off and so does her wig. They take her to the drunk
+  tank as people laugh at her.
+- Jersey City -- West District -- Officer Brian Rabbit says he's been there 3
+  years and still feels like a rookie. (9:46 PM Entry in Progress) It's in the
+  back of a building on 80th ave. When they arrive the alarm is going off.
+  Officer Jim Keating gets in the back and turns it off. The place is such a
+  mess, including a large dead rat, that they can't tell if it is burglarized.
+  A black man says his brother Warren tried to break in and rob all the people
+  in the apartment. He has papers against him so they can arrest the guy. He is
+  on the corner in a blue shirt, hat and brown jacket.  They go and grab him
+  and lock him up for 2 counts of burglary and theft.
 
 ## CP-323
 
@@ -5481,12 +5483,13 @@ Aired 1991-09-28.
 
 **Pittsburgh, PA 3**
 
-- (11:26 PM Narcotics Task Force One) Eddie Brown talks to
-the camera in the back seat about a new dealer named Ricky who is taking over
-territory causing 14 shootings in the last 10 days. One guy named Eman is now a
-cripple. His partner says he doesn't know if they'll get home alive every
-night, that's how serious it is. Officers injured while pursuing drug dealers;
-suspected car thief.
+- (11:26 PM Narcotics Task Force One) Eddie Brown talks to the camera in the
+  back seat about a new dealer named Ricky who is taking over territory causing
+  14 shootings in the last 10 days. One guy named Eman is now a cripple. His
+  partner says he doesn't know if they'll get home alive every night, that's
+  how serious it is.
+- Officers injured while pursuing drug dealers.
+- suspected car thief.
 
 ## CP-410
 
@@ -9476,62 +9479,157 @@ Aired 2000-04-22.
 
 Aired 2000-02-05.
 
-**Albuquerque, NM 10** (10:47 PM Street Patrol) Southeast Area Command -- Officer James Badway says he's been a cop for 5 years, has gotten to know a lot of people in the area, they know his name and say, "Hey Badway!" and he'll wave back. Officer Michael Riley says there is a lot of prostitution and drugs in the area, it's cleaned up, but still there. They are waved down by what they think is a lady, but it's a guy. Joe has lipstick on, is holding a wig, wearing a leopard print leotard and has on stockings. They ask him what's going on and he says, “There was a damn cop that didn't help him." What happened to his knee? He fell chasing him. He was in his truck, a man came over to him and he opened the window. He says everything he has in his wallet is gone. He wants to secure his semi-truck so the rest doesn't get stolen. He's parked next block over. All of his paperwork is in the wallet. He's a tall guy, dark hair, black pants, he doesn't have time for this, every document he's got is in his wallet. He doesn't know his name. He took off and he chased him to the light. What's he look like? White guy, black hair, his height, his age. He wasn't in the truck with him, how many times does he have to say that? He pulled over to get some rest. He has tears in his stocking and bloody scrapes. Officer Charles Gravis backs them up. He saw a cop when he was chasing him and he wouldn't help. It's not right. He gets back in his cab and says if he finds him he'll kill him. He won't give his info so they say if they find his wallet they can't contact him. His toes are painted red, and he has on blue eyeshadow. The guy grabbed his wallet and took off, pulled it out the window, didn't get in. Joe wants to get dressed, he puts on a tank top, pink shorts and flip flops. They say based on the outfit he had on he was looking for something. He was there a while, lots of cigarette butts with lipstick on it outside the truck. They find his wallet with his license, cards and cash, but two checks are missing, which is what he's most worried about. The thing is that son of a bitch stole his wallet, who's he gonna do it to next? He doesn't understand the law and drives away in his 18 wheeler. The other cop he saw had a prisoner and couldn't leave. They hope he feels better about the police than he did before. He's going to a different part of town, won't be back here. (2:02 AM Street Patrol) Southeast Area Command -- Officer Charles Gravis works graveyard and is not dealing with the general public like on day shift, these people are usually out looking for something like drugs or are drunk. Those are the people you deal with and try to keep them in line and keep it sane, but it gets pretty crazy. He spots two women screaming at each other in the street. He goes over and one woman walks away from him and won't listen. The second woman comes over to him and says the other woman scratched her. She keeps pushing her hair back and says he doesn't understand. She was outside and got pulled over. They both sit down and yell at each other. The white girl came back from the store and tried to get back in her room, but the black girl was there, but wasn't supposed to be. She lives by herself and is totally wired. He calls a female officer to search her. She admits she has a pipe on her. Officer Debbie Hesley arrives to search her. She says the pipe is inside her pants and she's wearing boxer shorts. She says she's the one who gets all the blame and has to pay for the crime. She keeps squirming around and fidgeting with her hair. Says the pipe is all she has and is being honest with her. She takes her shoe off and drugs fall out of it. She says that wasn't in her shoe. If it was there, she would've felt it when she was walking. She says, “please officer -- tonight's not my night.” She checks her socks and says it couldn't have been in her shoe, if you walk on it then it would crunch. It was a crack rock in the shoe. She didn't know it was there. The black girl has two pipes on her, but is just given citations. Crack takes over your life out here. (3:26 PM Stabbing Call) Southeast Area Command -- Officer Gary Barboa says a man has been stabbed in the stomach multiple times by a white man who fled the scene in a teal Thunderbird. A witness says they both left, but the guy who got stabbed is walking toward them. He's a big black guy with a huge bloodstain on his shirt dripping down. Deputy Leif Arvidson backs him up. He says he's all right and they have him sit down. He was talking to his sister's fiancé and was drunk. He went in his room and then he started swinging the knife at him. He had it on him, just freaked. His sister left with the guy. They live at the apartments right behind him. They go over there and a nasty looking white woman is freaking out, hyperventilating. She goes down, can't speak, says she saw the stabbing, please, I'm going back home, can't stand it anymore. They catch the shirtless suspect around the corner and a woman with him. They are cuffed and mirandized. The husband comes over to comfort his wife Rhonda who can't breathe. The suspect says he hit him, he didn't do nothing. He was hit three times in the last month, who hit him today? He doesn't know. Who stopped him? He doesn't know what happened at the apartment. He didn't do anything with Charles. He keeps repeating everything. The Sgt. arrives and his car has two flat tires.
+**Albuquerque, NM 10**
+
+- (10:47 PM Street Patrol) Southeast Area Command -- Officer James Badway says
+  he's been a cop for 5 years, has gotten to know a lot of people in the area,
+  they know his name and say, "Hey Badway!" and he'll wave back. Officer
+  Michael Riley says there is a lot of prostitution and drugs in the area, it's
+  cleaned up, but still there. They are waved down by what they think is a
+  lady, but it's a guy. Joe has lipstick on, is holding a wig, wearing a
+  leopard print leotard and has on stockings. They ask him what's going on and
+  he says, “There was a damn cop that didn't help him." What happened to his
+  knee? He fell chasing him. He was in his truck, a man came over to him and he
+  opened the window. He says everything he has in his wallet is gone. He wants
+  to secure his semi-truck so the rest doesn't get stolen. He's parked next
+  block over. All of his paperwork is in the wallet. He's a tall guy, dark
+  hair, black pants, he doesn't have time for this, every document he's got is
+  in his wallet. He doesn't know his name. He took off and he chased him to the
+  light. What's he look like? White guy, black hair, his height, his age. He
+  wasn't in the truck with him, how many times does he have to say that? He
+  pulled over to get some rest. He has tears in his stocking and bloody
+  scrapes. Officer Charles Gravis backs them up. He saw a cop when he was
+  chasing him and he wouldn't help. It's not right. He gets back in his cab and
+  says if he finds him he'll kill him. He won't give his info so they say if
+  they find his wallet they can't contact him. His toes are painted red, and he
+  has on blue eyeshadow. The guy grabbed his wallet and took off, pulled it out
+  the window, didn't get in. Joe wants to get dressed, he puts on a tank top,
+  pink shorts and flip flops. They say based on the outfit he had on he was
+  looking for something. He was there a while, lots of cigarette butts with
+  lipstick on it outside the truck. They find his wallet with his license,
+  cards and cash, but two checks are missing, which is what he's most worried
+  about. The thing is that son of a bitch stole his wallet, who's he gonna do
+  it to next? He doesn't understand the law and drives away in his 18 wheeler.
+  The other cop he saw had a prisoner and couldn't leave. They hope he feels
+  better about the police than he did before. He's going to a different part of
+  town, won't be back here.
+- (2:02 AM Street Patrol) Southeast Area Command -- Officer Charles Gravis
+  works graveyard and is not dealing with the general public like on day shift,
+  these people are usually out looking for something like drugs or are drunk.
+  Those are the people you deal with and try to keep them in line and keep it
+  sane, but it gets pretty crazy. He spots two women screaming at each other in
+  the street. He goes over and one woman walks away from him and won't listen.
+  The second woman comes over to him and says the other woman scratched her.
+  She keeps pushing her hair back and says he doesn't understand. She was
+  outside and got pulled over. They both sit down and yell at each other. The
+  white girl came back from the store and tried to get back in her room, but
+  the black girl was there, but wasn't supposed to be. She lives by herself and
+  is totally wired. He calls a female officer to search her. She admits she has
+  a pipe on her. Officer Debbie Hesley arrives to search her. She says the pipe
+  is inside her pants and she's wearing boxer shorts. She says she's the one
+  who gets all the blame and has to pay for the crime. She keeps squirming
+  around and fidgeting with her hair. Says the pipe is all she has and is being
+  honest with her. She takes her shoe off and drugs fall out of it. She says
+  that wasn't in her shoe. If it was there, she would've felt it when she was
+  walking. She says, “please officer -- tonight's not my night.” She checks her
+  socks and says it couldn't have been in her shoe, if you walk on it then it
+  would crunch. It was a crack rock in the shoe. She didn't know it was there.
+  The black girl has two pipes on her, but is just given citations. Crack takes
+  over your life out here.
+- (3:26 PM Stabbing Call) Southeast Area Command -- Officer Gary Barboa says a
+  man has been stabbed in the stomach multiple times by a white man who fled
+  the scene in a teal Thunderbird. A witness says they both left, but the guy
+  who got stabbed is walking toward them. He's a big black guy with a huge
+  bloodstain on his shirt dripping down. Deputy Leif Arvidson backs him up. He
+  says he's all right and they have him sit down. He was talking to his
+  sister's fiancé and was drunk. He went in his room and then he started
+  swinging the knife at him. He had it on him, just freaked. His sister left
+  with the guy. They live at the apartments right behind him. They go over
+  there and a nasty looking white woman is freaking out, hyperventilating. She
+  goes down, can't speak, says she saw the stabbing, please, I'm going back
+  home, can't stand it anymore. They catch the shirtless suspect around the
+  corner and a woman with him. They are cuffed and mirandized. The husband
+  comes over to comfort his wife Rhonda who can't breathe. The suspect says he
+  hit him, he didn't do nothing. He was hit three times in the last month, who
+  hit him today? He doesn't know. Who stopped him? He doesn't know what
+  happened at the apartment. He didn't do anything with Charles. He keeps
+  repeating everything. The Sgt. arrives and his car has two flat tires.
 
 ## CP-1226
 
 Aired 2000-02-12.
 
-**Albuquerque, NM 11** (7:19 PM Assistance Call) Officers attempt to stop a driver for a routine traffic violation, but the suspect ignores their instructions to pull over and leads police on a chase through the city's back alleys. Police officers detain a young mother-of-five for trespassing, discover heroin concealed in her shoe and then listen to her assertion that her husband is out to kill her. Police question a female suspect who brandished a knife during an altercation with a motel security guard.
+**Albuquerque, NM 11**
+
+- (7:19 PM Assistance Call) Officers attempt to stop a driver for a routine
+  traffic violation, but the suspect ignores their instructions to pull over
+  and leads police on a chase through the city's back alleys.
+- Police officers detain a young mother-of-five for trespassing, discover
+  heroin concealed in her shoe and then listen to her assertion that her
+  husband is out to kill her.
+- Police question a female suspect who brandished a knife during an altercation
+  with a motel security guard.
 
 ## CP-1227
 
 Aired 2000-02-19.
 
-**Albuquerque, NM 12** (9:18 PM 911 Hang-Up Call) Southeast Area Command -- Officer James Badway has worked there long enough that people who call know him by name and are glad to see him. It is a good place and a good job. His partner Officer Michael Riley likes to help people. That's why they are there and it is rewarding. A bird attacks an officer; man found with drugs; woman contemplates prostitution.
+**Albuquerque, NM 12**
+
+- (9:18 PM 911 Hang-Up Call) Southeast Area Command -- Officer James Badway has worked there long enough that people who call know him by name and are glad to see him. It is a good place and a good job. His partner Officer Michael Riley likes to help people. That's why they are there and it is rewarding. A bird attacks an officer; man found with drugs; woman contemplates prostitution.
 
 ## CP-1228
 
 Aired 2000-02-26.
 
-**Albuquerque, NM 13** (1:34 AM Assistance Call) North Valley Area Command -- Deputy Leonard Armijo drives by the balloon festival and says the town is a neat place to work and is one hour from the desert. His is bi-lingual so he can talk to anyone. All different people come there because the climate is good. Ruben Barela is in the car that stops the suspect, he is the sergeant who speaks at the very end to the deputies about what happened. A dangerous high-speed pursuit; officer deals with a depressed woman; domestic dispute.
+**Albuquerque, NM 13**
+
+- (1:34 AM Assistance Call) North Valley Area Command -- Deputy Leonard Armijo drives by the balloon festival and says the town is a neat place to work and is one hour from the desert. His is bi-lingual so he can talk to anyone. All different people come there because the climate is good. Ruben Barela is in the car that stops the suspect, he is the sergeant who speaks at the very end to the deputies about what happened. A dangerous high-speed pursuit; officer deals with a depressed woman; domestic dispute.
 
 ## CP-1229
 
 Aired 2000-04-15.
 
-**Albuquerque, NM 14** (12:04 AM Assistance Call) Southeast Area Command -- Officer Charles Gravis says every once in a while you get someone who thanks you and it makes it all worthwhile and realize that you are doing good. An officer calls for backup after pulling over a car with three suspicious people inside. The suspects claim was simply their attempt to repair mechanical problems. Officer Goral assists a male cross-dresser who says that a female suspect came into his room and stole his purse. Officer Badway responds to a disturbance call in which a fight between neighbors led to a birthday cake being shoved into a woman's face.
+**Albuquerque, NM 14**
+
+- (12:04 AM Assistance Call) Southeast Area Command -- Officer Charles Gravis says every once in a while you get someone who thanks you and it makes it all worthwhile and realize that you are doing good. An officer calls for backup after pulling over a car with three suspicious people inside. The suspects claim was simply their attempt to repair mechanical problems. Officer Goral assists a male cross-dresser who says that a female suspect came into his room and stole his purse. Officer Badway responds to a disturbance call in which a fight between neighbors led to a birthday cake being shoved into a woman's face.
 
 ## CP-1230
 
 Aired 2000-04-29.
 
-**Albuquerque, NM 15** (11:56 PM Assistance Call) Southeast Area Command -- Sgt. Jeffrey Ferner has been there since 1983, supervisor since 1993 and now it is his 6th year as a patrol sergeant. He is going to back up a pursuit of a truck that just left a drug house. Police officers attempt to extract what is believed to be rock cocaine from a transvestite's mouth. Officers question a male suspect about the empty gun holster on his person after he was observed trespassing on private property. Officer Gonterman responds to a call involving three young males who attempted to pass a counterfeit twenty-dollar bill at a convenience store.
+**Albuquerque, NM 15**
+
+- (11:56 PM Assistance Call) Southeast Area Command -- Sgt. Jeffrey Ferner has been there since 1983, supervisor since 1993 and now it is his 6th year as a patrol sergeant. He is going to back up a pursuit of a truck that just left a drug house. Police officers attempt to extract what is believed to be rock cocaine from a transvestite's mouth. Officers question a male suspect about the empty gun holster on his person after he was observed trespassing on private property. Officer Gonterman responds to a call involving three young males who attempted to pass a counterfeit twenty-dollar bill at a convenience store.
 
 ## CP-1231
 
 Aired 2000-05-06.
 
-**Albuquerque, NM 16** (12:13 AM Man with Knife Call) K-9 Unit -- Officer Rick Garcia is heading to a hotel on the 1700 block where a man is chasing a family member with a knife. They called the police. Suspects possess a gun and marijuana; prostitution sting.
+**Albuquerque, NM 16**
+
+- (12:13 AM Man with Knife Call) K-9 Unit -- Officer Rick Garcia is heading to a hotel on the 1700 block where a man is chasing a family member with a knife. They called the police. Suspects possess a gun and marijuana; prostitution sting.
 
 ## CP-1232
 
 Aired 2000-05-13.
 
-**Albuquerque, NM 17** (11:07 AM John Sting Briefing) Vice Unit -- Detective Tod Babcock says they are going to do a John Op. The girls will walk up and down Central soliciting Johns for sex for money. They'll get them to park at a nearby hotel, lead them to a room where they will be waiting. Officer Nicole Boone and Officer Mariann Wallace are the girls. Tod says the Johns are hard up by the lack of prostitutes and are so hard up they're even picking up Isabelle. prostitution sting; officers find narcotics; grandmother's car stolen.
+**Albuquerque, NM 17**
+
+- (11:07 AM John Sting Briefing) Vice Unit -- Detective Tod Babcock says they are going to do a John Op. The girls will walk up and down Central soliciting Johns for sex for money. They'll get them to park at a nearby hotel, lead them to a room where they will be waiting. Officer Nicole Boone and Officer Mariann Wallace are the girls. Tod says the Johns are hard up by the lack of prostitutes and are so hard up they're even picking up Isabelle. prostitution sting; officers find narcotics; grandmother's car stolen.
 
 ## CP-1233
 
 Aired 2000-05-20.
 
-**Albuquerque, NM 18** (12:31 PM)
+**Albuquerque, NM 18**
 
-- Vice Unit Detective Clarence G. Davis says they are going after prostitutes
-  and people with warrants. He spots a ho by the HoJo. Detective John McKenna
-  who is undercover in a white Toyota pick up truck looking for prostitutes.
-  First he gets an Indian bum that asks him for a quarter. Then Barbara gets in
-  and is glad he picked her up because she was worried the Indians on the
-  corner might grab her purse.
+- (12:31 PM) Vice Unit Detective Clarence G. Davis says they are going after
+  prostitutes and people with warrants. He spots a ho by the HoJo. Detective
+  John McKenna who is undercover in a white Toyota pick up truck looking for
+  prostitutes.  First he gets an Indian bum that asks him for a quarter. Then
+  Barbara gets in and is glad he picked her up because she was worried the
+  Indians on the corner might grab her purse.
 - drug dealer
 - road rage
 - uncooperative suspect
@@ -9540,13 +9638,17 @@ Aired 2000-05-20.
 
 Aired 2000-07-15.
 
-**Albuquerque, NM 19** (10:36 PM Assistance Call) Police arrest four suspects connected with drug activity inside a hotel room, and get a lucky break when one of the suspects is named by the others as the main supplier. A woman riding in a suspicious vehicle informs sheriff's deputies that her companion hid crack cocaine in a soda cup inside the car. An undercover detective posing as an interested john helps the Albuquerque Vice Unit snare a prostitute.
+**Albuquerque, NM 19**
+
+- (10:36 PM Assistance Call) Police arrest four suspects connected with drug activity inside a hotel room, and get a lucky break when one of the suspects is named by the others as the main supplier. A woman riding in a suspicious vehicle informs sheriff's deputies that her companion hid crack cocaine in a soda cup inside the car. An undercover detective posing as an interested john helps the Albuquerque Vice Unit snare a prostitute.
 
 ## CP-1235
 
 Aired 2000-07-22.
 
-**Albuquerque, NM 20** (10:31 AM Prostitution Sting Briefing) Sgt. Clarence G. Davis wants to hit the track since there are more Johns than girls and tells Detective Tom Hernandez to make sure they have buy money. An undercover sting operation targeting ladies of the evening arrests a john who picked up a male prostitute. Police officers catch two burglars red-handed as they attempt to make off with valuables stolen from a residence. While on patrol, Officer Garcia encounters two male suspects involved in an argument, one of whom punches the other in the nose.
+**Albuquerque, NM 20**
+
+- (10:31 AM Prostitution Sting Briefing) Sgt. Clarence G. Davis wants to hit the track since there are more Johns than girls and tells Detective Tom Hernandez to make sure they have buy money. An undercover sting operation targeting ladies of the evening arrests a john who picked up a male prostitute. Police officers catch two burglars red-handed as they attempt to make off with valuables stolen from a residence. While on patrol, Officer Garcia encounters two male suspects involved in an argument, one of whom punches the other in the nose.
 
 ## CP-1236
 
@@ -9563,7 +9665,11 @@ Aired 2000-07-29.
 
 2000-2001.
 
-**Jacksonville, FL/Pierce County WA/New Jersey/Mesa, AZ/Best of**
+- Jacksonville, FL
+- Pierce County WA
+- New Jersey
+- Mesa, AZ
+- Best of
 
 ## CP-1301
 
@@ -10458,9 +10564,18 @@ Aired 2003-02-01.
 
 2003-2004.
 
-**Forsyth County NC/Indio, CA/Mardi Gras 2003/New Orleans, LA/New York City,
-NY/Palm Beach County FL/Palm Springs, CA/Passaic, NJ/Pierce County WA/Portland,
-OR/San Bernardino, CA/Wichita, KS**
+- Forsyth County NC
+- Indio, CA
+- Mardi Gras 2003
+- New Orleans, LA
+- New York City, NY
+- Palm Beach County FL
+- Palm Springs, CA
+- Passaic, NJ
+- Pierce County WA
+- Portland, OR
+- San Bernardino, CA
+- Wichita, KS
 
 ## CP-1601
 
@@ -10502,7 +10617,7 @@ Aired 2003-12-13.
 
 **Coast to Coast 50**
 
-- (Passaic County NJ -- 6:03 PM Traffic Stop) Cpl Anthony Damiano -- No turn signal leads to a drug bust
+- (Passaic County, NJ -- 6:03 PM Traffic Stop) Cpl Anthony Damiano -- No turn signal leads to a drug bust
 - Palm Beach County, FL -- Domestic violence call for a man who punched a woman at a convenience store
 - Forsyth County, NC -- Shots fired call from a previous domestic call by a shirtless man.
 
@@ -10601,7 +10716,7 @@ Aired 2003-09-13.
 
 **Rescues 1 Special Edition**
 
-- (Passaic County NJ -- 4:54 PM Assistance Call) Sheriff's Dept -- Officer Jason
+- (Passaic County, NJ -- 4:54 PM Assistance Call) Sheriff's Dept -- Officer Jason
   DeGroat went to Lakeland Regional High School, then got a job working
   security at Passaic County Community College. Lots of Passaic County police
   officers worked there as security and he met a lot of them. They would tell
@@ -10611,7 +10726,7 @@ Aired 2003-09-13.
   dream came true -- out to the streets of Passaic. They take the call of a man
   who fell into the river. Rescue a man who has fallen into a rushing river.
 - (New York City, NY -- 6:15 PM Car Accident) from CP-734.
-- (Pierce County WA -- 11:21 PM Noise Complaint) from CP-1313.
+- (Pierce County, WA -- 11:21 PM Noise Complaint) from CP-1313.
 
 ## CP-1612
 
@@ -10619,14 +10734,14 @@ Aired 2004-03-06.
 
 **Coast to Coast 54**
 
-- (Passaic County NJ -- 9:38 PM Suspicious Activity) County Sheriff's Dept. -- A
+- (Passaic County, NJ -- 9:38 PM Suspicious Activity) County Sheriff's Dept. -- A
   white guy in an orange shirt goes back to get his stash and gets caught. He
   runs and the cop goes back to get his car and catches him. A K9 is brought in
   to find the tossed drugs.
-- (Wichita KS -- 4:24 PM Suspicious Vehicle) A gross white woman and a gay black
+- (Wichita, KS -- 4:24 PM Suspicious Vehicle) A gross white woman and a gay black
   guy are in a car in front of a house where they shouldn't be with no ID, no
   clue, she has 6 warrants and he is an alcoholic and on parole.
-- (Palm Beach Co FL -- 9:27 PM Domestic Disturbance Call) Sheriff's Office
+- (Palm Beach Co, FL -- 9:27 PM Domestic Disturbance Call) Sheriff's Office
   District 1 Martin and his wife are drunk and fight over the keys to the
   truck. She rips his shirt and he cuts her arm.
 
@@ -10647,7 +10762,7 @@ Aired 2004-01-31.
 
 **Coast to Coast 55**
 
-- (Passaic County NJ -- 5:52 PM Stolen Vehicle) Detective Derrick Catli says
+- (Passaic County, NJ -- 5:52 PM Stolen Vehicle) Detective Derrick Catli says
   he's a rookie at heart. He spots a stolen car and follows. Three black men in
   a Honda Civic ram police, try to flee and crash into a parked car and we see
   they are drunk and injured.
@@ -10662,7 +10777,7 @@ Aired 2004-02-21.
 
 **Stupid Criminals Special Edition**
 
-- (Passaic County NJ 8:56 PM Traffic Stop) Two guys get caught buying drugs and
+- (Passaic County, NJ 8:56 PM Traffic Stop) Two guys get caught buying drugs and
   they got busted last week in the same spot. The driver claims he wanted to
   see where he was busted and was just selling stuff.
 - Albuquerque NM (1:26 PM Trespassing Call) Kevin hides under a mattress after
@@ -10678,14 +10793,14 @@ Aired 2004-02-07.
 
 **War on Drugs 1 Special Edition**
 
-- (Passaic County NJ -- 5:14 PM Officer Assistance Call) Sheriff's Department --
+- (Passaic County, NJ -- 5:14 PM Officer Assistance Call) Sheriff's Department --
   Officer Jason DeGroat says it is a great place to live and goes on a call
   looking for a car. The white punk driver runs from a blue car with two
   passengers and is caught after dumping his bundle of 50 heroin bags.
-- Maui HI (1:25 PM Traffic Stop) No license plate leads to a man fleeing
+- Maui, HI (1:25 PM Traffic Stop) No license plate leads to a man fleeing
   through a condo and the cop loses him and checks his car. Other cops catch
   him and take him back to jail.
-- Passaic NJ (4:58 PM Suspicious Activity) White guy in a Rangers shirt buys
+- Passaic, NJ (4:58 PM Suspicious Activity) White guy in a Rangers shirt buys
   heroin and is sweating buckets, then taken to jail. AKA Drug Busts 1.
 
 ## CP-1617
@@ -10694,18 +10809,18 @@ Aired 2004-05-01.
 
 **Drug Busts 2 Special Edition**
 
-- (Passaic County NJ -- 8:55 PM Traffic Stop) Brent leaves the drug ridden
+- (Passaic County, NJ -- 8:55 PM Traffic Stop) Brent leaves the drug ridden
   projects in his car and blows a stop sign. His girlfriend Elise is in the car
   and thinks Brent bought drugs, but says she doesn't know anything. Brent
   pulls heroin packs out of his checkbook and Elise says they are hers, but
   doesn't want to take the fall alone so both get arrested.
-- (Riverside County CA -- 6:15 PM Suspicious Vehicle Call) A car is stopped on
+- (Riverside County, CA -- 6:15 PM Suspicious Vehicle Call) A car is stopped on
   the side of the road with three Mexicans inside and no tail lights outside.
   One of the guys smells like weed and they find a big bag of pot and a roach.
   The girl who was driving is 8 months pregnant and is crying because the
   father is going to let her take the fall. Ryan, the father, finally takes
   credit for it.
-- (Wichita KS -- 4:30 PM Suspicious Activity) A car leaving a crack house is
+- (Wichita, KS -- 4:30 PM Suspicious Activity) A car leaving a crack house is
   stopped for a cracked windshield. The driver says the car belongs to Shirley,
   but he doesn't know his last name or phone number. He has a box of razor
   blades in his pocket and was smoking crack and the cop sees he is hiding
@@ -10718,13 +10833,13 @@ Aired 2003-11-03.
 
 **Jersey Cop Special Edition**
 
-- (Passaic County NJ -- 10:06 PM Suspicious Activity) Cpl Anthony Damiano says
+- (Passaic County, NJ -- 10:06 PM Suspicious Activity) Cpl Anthony Damiano says
   the weather has broken up, supposed to be BBQ time, hopefully it break as now
   it is just pouring rain. Hopefully we'll get a good summer. Guy smoking a
   joint in a hallway
-- (Passaic County NJ -- 8:44 PM Suspicious Activity) Suspicious vehicle trading
+- (Passaic County, NJ -- 8:44 PM Suspicious Activity) Suspicious vehicle trading
   DVD player for drugs 
-- (Passaic County NJ -- 5:04 PM Traffic Stop) man with 50 bags of dope (9:49 PM
+- (Passaic County, NJ -- 5:04 PM Traffic Stop) man with 50 bags of dope (9:49 PM
   Suspicious Vehicle) man with do rag drug stop. AKA Riding With Corporal
   Damiano.
 
@@ -10896,61 +11011,220 @@ Aired 2004-04-24.
 
 Aired 2004-02-07.
 
-**War on Drugs 2 Special Edition** (Jacksonville, FL -- 3:24 PM Narcotics Sting) Narcotics Unit -- Sgt. Valentino Demps talks about setting up a mini reverse drug sting operation. The task force enters a drug house and takes it over then sells out of it from the window to three different black men. Passaic NJ (5:06 PM Suspicious Activity) A cop sees a green Ford make a drug buy and chases him down and finds the passenger has drugs. Portland OR (11:12 Disturbance Call) Randy gets busted again for heroin and says he'll let them get poked with an AIDS filled needle if they search him.
+**War on Drugs 2 Special Edition**
+
+- (Jacksonville, FL -- 3:24 PM Narcotics Sting) Narcotics Unit -- Sgt.
+  Valentino Demps talks about setting up a mini reverse drug sting operation.
+  The task force enters a drug house and takes it over then sells out of it
+  from the window to three different black men.
+- (Passaic, NJ -- 5:06 PM Suspicious Activity) A cop sees a green Ford make a
+  drug buy and chases him down and finds the passenger has drugs.
+- (Portland, OR -- 11:12 Disturbance Call) Randy gets busted again for heroin
+  and says he'll let them get poked with an AIDS filled needle if they search
+  him.
 
 ## CP-1628
 
 Aired 2004-07-10.
 
-**Coast to Coast 62** (Jacksonville, FL -- 3:02 PM Sting Briefing) Sgt. Valentino Demps explains about the buy/bust they are going to do in Zone 3 then 5. If anyone has any suggestions of other areas they are to let him know. Undercover cops in a car buy from a dealer on the street and the backup unit gives chase through the projects. The man ditches the bag of drugs before he is caught and says it isn't his. The second buyer doesn't run and says the cops were just loaning him the money. The third buyer doesn't have the drugs, but calls his supplier and they deal out of his car when the backup unit boxes them in. The girl in the car has pot on her and prescription drugs that aren't hers. Portland, OR (10:03 PM Disturbance Call) A man is getting towed for parking a car in a no parking zone. His girlfriend works in a strip club and has to finish a lap dance to get the money. She almost has the $60 needed, but the tow truck driver says the fee went up $50 for the boyfriend having a bad attitude. Then he raises the price $20 since he already started lifting the car. The girl comes back with the $60 and learns of the new price, but doesn't have the money so they tow the car anyway. Spokane, WA (11:03 PM Traffic Stop) Joseph is in a Toyota Camry and is loudly honking his horn going down the street. He has no license or registration because he just bought the car. He is pulled out and smells of pot. He says there is pot and a pipe in the center console. They find a massive pipe that cost him and his two friends $400. The cop calls Joe's mom Lorraine to pick the car up so he won't have to get impounded and ticketed.
+**Coast to Coast 62**
+
+- (Jacksonville, FL -- 3:02 PM Sting Briefing) Sgt. Valentino Demps explains
+  about the buy/bust they are going to do in Zone 3 then 5. If anyone has any
+  suggestions of other areas they are to let him know. Undercover cops in a car
+  buy from a dealer on the street and the backup unit gives chase through the
+  projects. The man ditches the bag of drugs before he is caught and says it
+  isn't his. The second buyer doesn't run and says the cops were just loaning
+  him the money. The third buyer doesn't have the drugs, but calls his supplier
+  and they deal out of his car when the backup unit boxes them in. The girl in
+  the car has pot on her and prescription drugs that aren't hers.
+- (Portland, OR -- 10:03 PM Disturbance Call) A man is getting towed for
+  parking a car in a no parking zone. His girlfriend works in a strip club and
+  has to finish a lap dance to get the money. She almost has the $60 needed,
+  but the tow truck driver says the fee went up $50 for the boyfriend having a
+  bad attitude. Then he raises the price $20 since he already started lifting
+  the car. The girl comes back with the $60 and learns of the new price, but
+  doesn't have the money so they tow the car anyway.
+- (Spokane, WA -- 11:03 PM Traffic Stop) Joseph is in a Toyota Camry and is
+  loudly honking his horn going down the street. He has no license or
+  registration because he just bought the car. He is pulled out and smells of
+  pot. He says there is pot and a pipe in the center console. They find a
+  massive pipe that cost him and his two friends $400. The cop calls Joe's mom
+  Lorraine to pick the car up so he won't have to get impounded and ticketed.
 
 ## CP-1629
 
 Aired 2004-02-28.
 
-**Armed & Dangerous Special Edition** (Jacksonville FL 8:47 PM Shots Fired Call) Zone 3 -- Officer Tom Hemsley has been there seven years. From Sept to Dec they have a beard growing contest for charity and it's good not to have to shave. Hollis comes to a trailer and starts shooting and asking for money. The owner grabs the gun and shoots the intruder and kills him. Spokane WA (11:58 PM Officer Assistance Call) A K9 unit searches for a Stanley in the basement who has a shotgun and warrants. He gets bitten because he wanted a lawyer. Pierce County WA (3:02 AM Traffic Stop) A green El Camino runs and shoots back at the cop and then tosses the gun. The lead unit tries a pit, but wrecks his car. The suspect goes into a trailer park and crashes into a fence and runs. A K9 unit catches him. AKA Weapons Drawn Special Edition.
+**Armed & Dangerous Special Edition**
+
+- (Jacksonville FL 8:47 PM Shots Fired Call) Zone 3 -- Officer Tom Hemsley has
+  been there seven years. From Sept to Dec they have a beard growing contest
+  for charity and it's good not to have to shave. Hollis comes to a trailer and
+  starts shooting and asking for money. The owner grabs the gun and shoots the
+  intruder and kills him.
+- (Spokane, WA -- 11:58 PM Officer Assistance Call) A K9 unit searches for a
+  Stanley in the basement who has a shotgun and warrants. He gets bitten
+  because he wanted a lawyer.
+- (Pierce County, WA -- 3:02 AM Traffic Stop) A green El Camino runs and shoots
+  back at the cop and then tosses the gun. The lead unit tries a pit, but
+  wrecks his car. The suspect goes into a trailer park and crashes into a fence
+  and runs. A K9 unit catches him. AKA Weapons Drawn Special Edition.
 
 ## CP-1630
 
 Aired 2004-07-17.
 
-**Coast to Coast 63** (Spokane, WA -- 2:03 PM Domestic Disturbance Call) Officer James Erickson says it is a great place to work, lots of variety. He works swing shift on the south side of town and really enjoys it. He goes to a call of a father fighting with his 20 year old mentally ill son. An Asian man says his son wants to kill himself so cops go in to talk to him. The son curses, goes crazy and a cop tasers him on the porch and only then does he start to listen. They turn him over and cuff him. He then tries to get out of the cuffs and spits on them and they have to take him down again. The ambulance crew is called in and takes him away. Jacksonville FL (1:32 AM Suspicious Person) A woman is spotted at a closed business sitting in a car that isn't hers without a license waiting for a friend. She says she has a pipe on her and the cop searches and finds two rocks that test positive for coke. She says the coke is Darryl's and she doesn't know whose car it is. She is arrested for possession. Philadelphia PA (11:47 PM Burglary in Progress) Cops stop three black guys walking down the road. One guy is carrying a box of sneakers, a screwdriver and Nyquil. He says the sneakers are his sisters and he got them from his aunt. Tito the owner of the house they robbed show up after they were called and goes with the cops to check his house and to see what is missing. He then goes and ID's the shoes and stuff as his. Then cops talk to the neighbors who called it in.
+**Coast to Coast 63**
+
+- (Spokane, WA -- 2:03 PM Domestic Disturbance Call) Officer James Erickson
+  says it is a great place to work, lots of variety. He works swing shift on
+  the south side of town and really enjoys it. He goes to a call of a father
+  fighting with his 20 year old mentally ill son. An Asian man says his son
+  wants to kill himself so cops go in to talk to him. The son curses, goes
+  crazy and a cop tasers him on the porch and only then does he start to
+  listen. They turn him over and cuff him. He then tries to get out of the
+  cuffs and spits on them and they have to take him down again. The ambulance
+  crew is called in and takes him away.
+- (Jacksonville, FL -- 1:32 AM Suspicious Person) A woman is spotted at a
+  closed business sitting in a car that isn't hers without a license waiting
+  for a friend. She says she has a pipe on her and the cop searches and finds
+  two rocks that test positive for coke. She says the coke is Darryl's and she
+  doesn't know whose car it is. She is arrested for possession.
+- (Philadelphia, PA -- 11:47 PM Burglary in Progress) Cops stop three black
+  guys walking down the road. One guy is carrying a box of sneakers, a
+  screwdriver and Nyquil. He says the sneakers are his sisters and he got them
+  from his aunt. Tito the owner of the house they robbed show up after they
+  were called and goes with the cops to check his house and to see what is
+  missing. He then goes and ID's the shoes and stuff as his. Then cops talk to
+  the neighbors who called it in.
 
 ## CP-1631
 
 Aired 2004-07-24.
 
-**Coast to Coast 64** (Jacksonville, FL -- 10:04 PM Robbery Investigation) Officer Dan Perotti talks about his off time. He sees a guy on a bike that matches a robbers description, pulls over and jumps out after him. He and another cop with a K9 catch him and the dog tears at him as the cops cuff him. The dog bit his arm and he bleeds all over his clothes. They find a huge wad of money in his pocket that he says was his. He came up to a couple on his bike and demanded money and they fought him. The woman then decides to give him money so he'd go away. He fought her fiancé John and kicked him. The robber said he didn't do it, but he did have a bag of weed. Palm Beach County FL -- a cop stops a van at a crack house and pulls out two guys. In the van he finds a crack pipe under the seat and a pipe in the girls purse who drove to the house. He is 21 and the girl is 36. The guy with the pipe is on probation. He just got out of jail last week and now will go to jail for five years. He says it is the drivers. The girl is a dealer. Albuquerque NM (9:45 AM Suspicious Activity) Cops go to a park where people sit in their cars and do drugs. They pull up on a couple in their car. This guy hands the cop his ID and there is heroin sticking out of his wallet. He is cuffed immediately, but says it isn't his. They aren't his pants either. They belong to his friend and he might've stuck the heroin in there without him knowing it. The female driver says it is her mom's car and she was just hanging out since she works nearby.
+**Coast to Coast 64**
+
+- (Jacksonville, FL -- 10:04 PM Robbery Investigation) Officer Dan Perotti
+  talks about his off time. He sees a guy on a bike that matches a robbers
+  description, pulls over and jumps out after him. He and another cop with a K9
+  catch him and the dog tears at him as the cops cuff him. The dog bit his arm
+  and he bleeds all over his clothes. They find a huge wad of money in his
+  pocket that he says was his. He came up to a couple on his bike and demanded
+  money and they fought him. The woman then decides to give him money so he'd
+  go away. He fought her fiancé John and kicked him. The robber said he didn't
+  do it, but he did have a bag of weed.
+- (Palm Beach County, FL) a cop stops a van at a crack house and pulls out two
+  guys. In the van he finds a crack pipe under the seat and a pipe in the girls
+  purse who drove to the house. He is 21 and the girl is 36. The guy with the
+  pipe is on probation. He just got out of jail last week and now will go to
+  jail for five years. He says it is the drivers. The girl is a dealer.
+- (Albuquerque, NM -- 9:45 AM Suspicious Activity) Cops go to a park where
+  people sit in their cars and do drugs. They pull up on a couple in their car.
+  This guy hands the cop his ID and there is heroin sticking out of his wallet.
+  He is cuffed immediately, but says it isn't his. They aren't his pants
+  either. They belong to his friend and he might've stuck the heroin in there
+  without him knowing it. The female driver says it is her mom's car and she
+  was just hanging out since she works nearby.
 
 ## CP-1632
 
 Aired 2004-07-31.
 
-**Coast to Coast 65** (Jacksonville, FL -- 7:51 PM Suspicious Vehicle) Officer Tom Helmsey talks about the weather. He then sees a car with an expired tag and goes to pull it over. Two passengers bail out and the driver speeds up and takes off going 90mph over a bridge and down a freeway until he wipes out into the side wall. He jumps over the wall 30 feet to the ground. The cop follows, but hits his head on the ground and knocks himself out. The suspect hops a fence and takes off. The car was stolen and the two passengers were caught and brought to the scene, but say they didn't know the driver as he was just giving them a ride. Whittier, CA (8:41 PM Suspicious Person) Lead Officer Michael Hinson talks about his son playing hockey. Mike has been seen climbing trees in other people's yards. He goes to a house and the woman who lives there says he climbed a tree to get into her house and her dogs chased him away. She takes the cop to his house on the next block because she is scared and shaken. Mike is a Mexican who is wasted, though he says he only had two beers. He said he went on her patio and into her living room because he didn't want his cats to be torn up by her dog. A search turns up weed on him. Maui, HI (10:21 PM Suspicious Vehicle) Officer Jonathan Acosta talks about why he became a cop. He then sees a couple sitting in a truck across from a drug dealers' house. The woman has a rap sheet she lied about and does not want them to search her bag. He lets them search his van and they find a crystal meth pipe. A drug sniffing K-9 is brought in and sniffs her backpack and it comes up positive so she is arrested.
+**Coast to Coast 65**
+
+- (Jacksonville, FL -- 7:51 PM Suspicious Vehicle) Officer Tom Helmsey talks
+  about the weather. He then sees a car with an expired tag and goes to pull it
+  over. Two passengers bail out and the driver speeds up and takes off going
+  90mph over a bridge and down a freeway until he wipes out into the side wall.
+  He jumps over the wall 30 feet to the ground. The cop follows, but hits his
+  head on the ground and knocks himself out. The suspect hops a fence and takes
+  off. The car was stolen and the two passengers were caught and brought to the
+  scene, but say they didn't know the driver as he was just giving them a ride.
+- (Whittier, CA -- 8:41 PM Suspicious Person) Lead Officer Michael Hinson talks
+  about his son playing hockey. Mike has been seen climbing trees in other
+  people's yards. He goes to a house and the woman who lives there says he
+  climbed a tree to get into her house and her dogs chased him away. She takes
+  the cop to his house on the next block because she is scared and shaken. Mike
+  is a Mexican who is wasted, though he says he only had two beers. He said he
+  went on her patio and into her living room because he didn't want his cats to
+  be torn up by her dog. A search turns up weed on him.
+- (Maui, HI -- 10:21 PM Suspicious Vehicle) Officer Jonathan Acosta talks about
+  why he became a cop. He then sees a couple sitting in a truck across from a
+  drug dealers' house. The woman has a rap sheet she lied about and does not
+  want them to search her bag. He lets them search his van and they find a
+  crystal meth pipe. A drug sniffing K-9 is brought in and sniffs her backpack
+  and it comes up positive so she is arrested.
 
 ## CP-1633
 
 Aired 2004-05-08.
 
-**Hide 'N Seek Special Edition** (Jacksonville FL -- 1:23 AM Suspicious Activity) Zone 5 -- Officer Lance Whitaker became interested when he did a ride along with a buddy who was a cop. The first call was a burglary in progress with a couple units kicking in door -- it was fun excitement. Two black men are sitting in a parked car. When asked what is going on the driver says they were smoking cigarettes because his mom won't let them smoke in the house. He also says there is nothing illegal in the car that he knows of. He gives consent to search his girlfriends car then runs. He hides in a shed, but the K9 unit finds him. They then find cocaine in his car. He says he didn't have any coke and forget they had his ID when he ran and heard it was a felony to get a traffic ticket. Maui HI (11:24 PM Officer Assistance Call) A car refuses to stop and leads to a pursuit. The guy bails and is hiding in the weeds somewhere and they run through a field and find him under a branch. He ran because he had $200 in warrants. His wife hit him with a toaster and he went to jail and she moved her boyfriend in and he started taking ice so he wouldn't kill himself. Then they find stolen credit cards on him from a burglary the night before. He says he found them on the beach. Maricopa County AZ (1:28 AM Traffic Stop) Officer Gilchrist chases a speeding motorcycle down some roads and into the desert. The bike spins out in the sand and crashes. The man runs off as the cop hits the Kawasaki and loses sight of the guy, but finds him in a bush a few minutes later. A K9 is on standby and they find a crack pipe on him and that the bike was stolen. AKA Resisting Arrest 2.
+**Hide 'N Seek Special Edition**
+
+- (Jacksonville FL -- 1:23 AM Suspicious Activity) Zone 5 -- Officer Lance
+  Whitaker became interested when he did a ride along with a buddy who was a
+  cop. The first call was a burglary in progress with a couple units kicking in
+  door -- it was fun excitement. Two black men are sitting in a parked car.
+  When asked what is going on the driver says they were smoking cigarettes
+  because his mom won't let them smoke in the house. He also says there is
+  nothing illegal in the car that he knows of. He gives consent to search his
+  girlfriends car then runs. He hides in a shed, but the K9 unit finds him.
+  They then find cocaine in his car. He says he didn't have any coke and forget
+  they had his ID when he ran and heard it was a felony to get a traffic
+  ticket.
+- (Maui, HI -- 11:24 PM Officer Assistance Call) A car refuses to stop and
+  leads to a pursuit. The guy bails and is hiding in the weeds somewhere and
+  they run through a field and find him under a branch. He ran because he had
+  $200 in warrants. His wife hit him with a toaster and he went to jail and she
+  moved her boyfriend in and he started taking ice so he wouldn't kill himself.
+  Then they find stolen credit cards on him from a burglary the night before.
+  He says he found them on the beach.
+- (Maricopa County, AZ -- 1:28 AM Traffic Stop) Officer Gilchrist chases a
+  speeding motorcycle down some roads and into the desert. The bike spins out
+  in the sand and crashes. The man runs off as the cop hits the Kawasaki and
+  loses sight of the guy, but finds him in a bush a few minutes later. A K9 is
+  on standby and they find a crack pipe on him and that the bike was stolen.
+  AKA Resisting Arrest 2.
 
 ## CP-1634
 
 Aired 2003-12-20.
 
-**Ho! Ho! Ho! 1 Special Edition** (Wichita KS -- 2:40 PM Prostitution Sting Briefing) Sgt picks up a girl for a $20 BJ and an ugly drugged whore for $15 for sex + Black woman who discounts sex for $20/Black man tries to pick up a cop at a gas station + a Mexican man does the same in a red car/Palm Beach County FL -- Johns pick up female undercover cops/North Las Vegas NV -- Suspicious activity -- man in a pickup truck picks up a whore that turns out to be a man.
+**Ho! Ho! Ho! 1 Special Edition**
+
+- (Wichita KS -- 2:40 PM Prostitution Sting Briefing) Sgt picks up a girl for a $20 BJ and an ugly drugged whore for $15 for sex + Black woman who discounts sex for $20/Black man tries to pick up a cop at a gas station + a Mexican man does the same in a red car
+- Palm Beach County FL -- Johns pick up female undercover cops
+- North Las Vegas NV -- Suspicious activity -- man in a pickup truck picks up a whore that turns out to be a man.
 
 ## CP-1635
 
 Aired 2004-10-02.
 
-**Coast to Coast 66** (Jacksonville, FL -- 3:42 PM Narcotics Sting Briefing) Buy Bust Zone 145 -- Sgt. Valentino Emps is in charge, all the others are masked. Two undercover cops are in a car buying. They stop two guys who say the can get $60 worth of crack if they aren't cops. They run to a house and back and says he can get them $60 more of rock. He runs and is caught and tells them the truth. He is much older and has been busted before. 7:02 PM -- Another buy for $60 at a hotel. They guy goes and gets it and comes back. He runs like mad around the hotel and says he is hurt and that is why he has a cane. He says he didn't sell any drugs, but was caught before on 8/9. It is getting dark so they call it a night. Des Moines, IA -- Officer Mike Moody has spent 15 years on the job. To relieve stress he stays with his family and rides motorcycles. He stops a woman driving who says she is looking for her loose dog and an 80 year old man called Hillbilly Elvin kicked her 12 year old son in the face. He lives in his car and thought the kid was breaking in when he knocked on his door. He isn't home when they go back and they find him in a nearby bar. He was sleeping in his car and when the kid knocked on his door he woke up suddenly, kicked the door open and it hit the kid who was trying to ask him if he'd seen his dog. The bartender is friends with Elvin and says the kid shouldn't be in Racing Corner Tap parking lot at 10pm in the first place and the dog is loose all the time. Jacksonville, FL Zone 4 (10:03 PM Shooting Call) Officer Joe Crotty takes the call of a black man named Cedric who was shot in the head. Renee called Cedric for a ride because she was fighting with Richard, throwing her shoes at him. He sees all this and goes back in his car and the guy came out and shot through the windshield and the bullet hit him and lodged in his skull. Richard is caught and says he didn't shoot him and was just drinking. Renee says it was all over crack. Richard gave her $7 to buy crack and she didn't want to do it and is freaking out over all this. Richard thinks Cedric took the $7 and shot him and a second shot went into the woods. She is talky, nutty and thought the gun was fake.
+**Coast to Coast 66**
+
+- (Jacksonville, FL -- 3:42 PM Narcotics Sting Briefing) Buy Bust Zone 145 -- Sgt. Valentino Emps is in charge, all the others are masked. Two undercover cops are in a car buying. They stop two guys who say the can get $60 worth of crack if they aren't cops. They run to a house and back and says he can get them $60 more of rock. He runs and is caught and tells them the truth. He is much older and has been busted before. 7:02 PM -- Another buy for $60 at a hotel. They guy goes and gets it and comes back. He runs like mad around the hotel and says he is hurt and that is why he has a cane. He says he didn't sell any drugs, but was caught before on 8/9. It is getting dark so they call it a night.
+- Des Moines, IA -- Officer Mike Moody has spent 15 years on the job. To relieve stress he stays with his family and rides motorcycles. He stops a woman driving who says she is looking for her loose dog and an 80 year old man called Hillbilly Elvin kicked her 12 year old son in the face. He lives in his car and thought the kid was breaking in when he knocked on his door. He isn't home when they go back and they find him in a nearby bar. He was sleeping in his car and when the kid knocked on his door he woke up suddenly, kicked the door open and it hit the kid who was trying to ask him if he'd seen his dog. The bartender is friends with Elvin and says the kid shouldn't be in Racing Corner Tap parking lot at 10pm in the first place and the dog is loose all the time.
+- (Jacksonville, FL Zone 4 -- 10:03 PM Shooting Call) Officer Joe Crotty takes the call of a black man named Cedric who was shot in the head. Renee called Cedric for a ride because she was fighting with Richard, throwing her shoes at him. He sees all this and goes back in his car and the guy came out and shot through the windshield and the bullet hit him and lodged in his skull. Richard is caught and says he didn't shoot him and was just drinking. Renee says it was all over crack. Richard gave her $7 to buy crack and she didn't want to do it and is freaking out over all this. Richard thinks Cedric took the $7 and shot him and a second shot went into the woods. She is talky, nutty and thought the gun was fake.
 
 ## CP-1636
 
 Aired 2004-02-28.
 
-**Guns & Drugs Special Edition** (Jacksonville, FL -- 12:41 AM Suspicious Activity) Zone 4 -- Officer Frank Canaday says a good day is a little traffic enforcement and a good arrest a night. He goes home feeling good doing a little bit. He's not trying to save the world, just do his best -- an honest days work for an honest days pay. Cops pick up a called off pursuit on 95 south. The 16 year old girl driving hit stops sticks and fights them and they find drugs in the car. Whittier CA (7:03 PM Officer Assistance Call) Two Spanish guys run from cops and they set up a perimeter looking for them. One guy goes in a backyard and lifts weights after he dumps a fake gun and drugs. Maui HI (3:42 PM Traffic Stop) Cop pulls over a van for no seatbelt and then the cop goes running to the next house to stop a guy from attacking a man with a shovel who came to his house looking for drugs.
+**Guns & Drugs Special Edition**
+
+- (Jacksonville, FL -- 12:41 AM Suspicious Activity) Zone 4 -- Officer Frank
+  Canaday says a good day is a little traffic enforcement and a good arrest a
+  night. He goes home feeling good doing a little bit. He's not trying to save
+  the world, just do his best -- an honest days work for an honest days pay.
+  Cops pick up a called off pursuit on 95 south. The 16 year old girl driving
+  hit stops sticks and fights them and they find drugs in the car.
+- (Whittier, CA -- 7:03 PM Officer Assistance Call) Two Spanish guys run from
+  cops and they set up a perimeter looking for them. One guy goes in a backyard
+  and lifts weights after he dumps a fake gun and drugs.
+- (Maui, HI -- 3:42 PM Traffic Stop) Cop pulls over a van for no seatbelt and
+  then the cop goes running to the next house to stop a guy from attacking a
+  man with a shovel who came to his house looking for drugs.
 
 ## CP-1637
 
@@ -11101,7 +11375,6 @@ Aired 2004-09-11.
   Six officers jump him and knock him into a wall, cutting his head open.
   Officers are choking from the mace as they wash the suspect's face with
   water, cuff him and take him to a charity hospital.
-
 - Jacksonville -- Zone 5 -- Officer Jaime Eason thrives on chasing people,
   never knows what's next and because of that loves coming to work. (9:32 PM
   Assistance Call) A guy is driving with his girlfriend and her mom Becky. Mom
@@ -11110,7 +11383,6 @@ Aired 2004-09-11.
   marks down the road. Becky says she just drove next to her daughter to talk
   to her. They put Becky in the back of the police car and she is arrested for
   domestic aggravated assault.
-
 - Riverside County CA -- Jurupa Valley Station -- Deputy Chris Barajas says the
   most important thing is self evaluation. (11:41 PM Fight Call) A father hit
   his daughter. Ray says some guy came into his yard and tried to slug him so
