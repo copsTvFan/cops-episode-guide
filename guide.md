@@ -12664,9 +12664,14 @@ Aired 2005-09-10.
 
 **Coast to Coast 89**
 
-- (Pittsburgh, PA -- 12:22 AM Narcotics Surveillance) Narcotics Impact Squad -- Sgt. Jason Snyder says his unit is a Vice task force doing street level narcotics intervention, looking for open air transactions.
-- Travis Co, TX -- a robbery call turns out to be a disturbance with a bunch of drunks.
-- Gwinnett County GA -- A man riding a bike is hit by a car and knocked into the woods.
+- (Pittsburgh, PA -- 12:22 AM Narcotics Surveillance) Narcotics Impact Squad --
+  Sgt. Jason Snyder says his unit is a Vice task force doing street level
+  narcotics intervention, looking for open air transactions.
+- (Travis Co, TX -- 12:02 AM Deputy Assistance Call) Deputy Marc Taub and
+  Deputy Joseph Ensminger. A robbery call turns out to be a disturbance with a
+  two guys high on weed. "That's a really incredible synopsis".
+- (Gwinnett County, GA -- 4:36 PM Traffic Accident) Corporal Bev Genevish. A
+  man riding a bike is hit by a car and knocked into the woods.
 
 ## CP-1809
 
