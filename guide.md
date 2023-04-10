@@ -10065,19 +10065,31 @@ Aired 2001-09-01.
 
 Aired 2001-09-08.
 
-**Coast to Coast 1** (Des Moines, IA -- 9:22 PM Fight Call) Atlanta, GA/Chattanooga TN
+**Coast to Coast 1**
+
+- (Des Moines, IA -- 9:22 PM Fight Call)
+- Atlanta, GA
+- (Chattanooga, TN -- 2:54 AM Street Patrol) Officer Brian Russell
 
 ## CP-1411
 
 Aired 2001-11-10.
 
-**Coast to Coast 2** (Des Moines, IA -- 6:35 PM Violent Person Call) 3rd Watch -- Officer Lori Wilson has been there four years and meets a lot of nice people along with the bad. She gets a lot of good feedback too. A naked bloody black man on PCP goes crazy in a park. He tries to punch through a wooden fence and gets maced. A dozen cops jump him and a female cop gets covered in blood and has to be cleansed in the ambulance. Chattanooga, TN (2:12 AM Suspicious Person Call) Fox Station -- Officer Brian Russell says he never discussed with his wife about being a cop. He then goes a gas station where a U Haul is parked and they open it to find a dirty old hippie couple sleeping naked inside with their dog. The guy has no ID because it got burned in a fire, but later says he had permission to be there. They just got back from Arkansas and had nowhere to stay. Atlanta, GA (5:30 AM Traffic Stop) Zone 1 -- Officer Frank Huff stops a car for having no license plate lights. He stops and when the cop gets out he drives off across town. He pulls off into a neighborhood and runs into the woods and is caught. He crashed into three cars along the way and had no license.
+**Coast to Coast 2**
+
+- (Des Moines, IA -- 6:35 PM Violent Person Call) 3rd Watch -- Officer Lori Wilson has been there four years and meets a lot of nice people along with the bad. She gets a lot of good feedback too. A naked bloody black man on PCP goes crazy in a park. He tries to punch through a wooden fence and gets maced. A dozen cops jump him and a female cop gets covered in blood and has to be cleansed in the ambulance.
+- (Chattanooga, TN -- 2:12 AM Suspicious Person Call) Fox Station -- Officer Brian Russell says he never discussed with his wife about being a cop. He then goes a gas station where a U Haul is parked and they open it to find a dirty old hippie couple sleeping naked inside with their dog. The guy has no ID because it got burned in a fire, but later says he had permission to be there. They just got back from Arkansas and had nowhere to stay.
+- (Atlanta, GA -- 5:30 AM Traffic Stop) Zone 1 -- Officer Frank Huff stops a car for having no license plate lights. He stops and when the cop gets out he drives off across town. He pulls off into a neighborhood and runs into the woods and is caught. He crashed into three cars along the way and had no license.
 
 ## CP-1412
 
 Aired 2001-09-15.
 
-**Coast to Coast 3** (Des Moines, IA -- 8:18 PM Assistance Call) 3rd Watch -- Officer Joe Morgan has been there eleven years and likes the city because it is small, but not too small, there is still lots to do. An off duty cop is in a foot pursuit. Pursuit; domestic disturbance; car chase. Chattanooga TN/Atlanta, GA 
+**Coast to Coast 3**
+
+- (Des Moines, IA -- 8:18 PM Assistance Call) 3rd Watch -- Officer Joe Morgan has been there eleven years and likes the city because it is small, but not too small, there is still lots to do. An off duty cop is in a foot pursuit. Pursuit; domestic disturbance; car chase.
+- (Chattanooga, TN -- 4:13 PM Public Disorder Call) Officer Brian Miller likes to play golf.
+- (Atlanta, GA -- 5:05 AM Traffic Stop) Officer Tim Fenner.
 
 ## CP-1413
 
@@ -10089,61 +10101,101 @@ Aired 2001-09-22.
 
 Aired 2001-09-29.
 
-**Coast to Coast 5** (Chattanooga, TN -- 2:01 AM Man with a Gun) Fox Station -- Officer Jonathan Chambers says whatever happens at work stays at work. He talks to his wife briefly and gives her the highlights because she's interested in what happens and leaves it at that, otherwise it'll drive him crazy. He responds to a man-with-a-gun call, and later apprehends a suspect who attempted to sell stolen property. In Des Moines, IA, Officers Morgan and Helle question two brothers who were involved in a fistfight. In Atlanta, GA, Officer Cotter interviews a woman who claims that her boyfriend allegedly punched her in the mouth while she was walking down the street.
+**Coast to Coast 5**
+
+- (Chattanooga, TN -- 2:01 AM Man with a Gun) Fox Station -- Officer Jonathan Chambers says whatever happens at work stays at work. He talks to his wife briefly and gives her the highlights because she's interested in what happens and leaves it at that, otherwise it'll drive him crazy. He responds to a man-with-a-gun call, and later apprehends a suspect who attempted to sell stolen property.
+- In Des Moines, IA, Officers Morgan and Helle question two brothers who were involved in a fistfight.
+- In Atlanta, GA, Officer Cotter interviews a woman who claims that her boyfriend allegedly punched her in the mouth while she was walking down the street.
 
 ## CP-1415
 
 Aired 2001-10-06.
 
-**Coast to Coast 6** (Chattanooga, TN -- 7:13 PM Traffic Stop) Alpha Team -- Sgt. Edwin McPherson says they work street level stopping minor dope deals. His partner Officer Curtis Green says it is never a dull moment with Edwin. They stop a car for having a loose license plate and question several people after detecting the odor of marijuana emanating from their vehicle. In Des Moines, IA -- Officers Wilson and Matalone are called to a residence to investigate a domestic dispute and after finding broken glass and drops of blood at the front door, their attention shifts to the unsanitary conditions of the kitchen area. In Atlanta, GA, Officers Huff and Strickland assist an undercover unit after a suspicious vehicle is discovered.
+**Coast to Coast 6**
+
+- (Chattanooga, TN -- 7:13 PM Traffic Stop) Alpha Team -- Sgt. Edwin McPherson says they work street level stopping minor dope deals. His partner Officer Curtis Green says it is never a dull moment with Edwin. They stop a car for having a loose license plate and question several people after detecting the odor of marijuana emanating from their vehicle.
+- In Des Moines, IA -- Officers Wilson and Matalone are called to a residence to investigate a domestic dispute and after finding broken glass and drops of blood at the front door, their attention shifts to the unsanitary conditions of the kitchen area.
+- In Atlanta, GA, Officers Huff and Strickland assist an undercover unit after a suspicious vehicle is discovered.
 
 ## CP-1416
 
 Aired 2001-11-17.
 
-**Coast to Coast 7** (Chattanooga, TN -- 6:40 PM Stolen Vehicle) Fox Station -- Officer Christopher Smith says his uncle was a police chief which inspired him. His partner Officer David Holloway wanted to be a cop since he was age five. He wants to be the best cop he can be, help people and catch bad guys. They observe as the driver of a stolen vehicle crashes into the side of a house. In Fort Worth, Texas, Officer Eddleman happens upon a fire at a local motel, a blaze later determined to be the work of an arsonist. In Des Moines, Iowa, Officer Cornwell gives chase when a speeding motorcyclist ditches his vehicle and flees on foot.
+**Coast to Coast 7**
+
+- (Chattanooga, TN -- 6:40 PM Stolen Vehicle) Fox Station -- Officer Christopher Smith says his uncle was a police chief which inspired him. His partner Officer David Holloway wanted to be a cop since he was age five. He wants to be the best cop he can be, help people and catch bad guys. They observe as the driver of a stolen vehicle crashes into the side of a house.
+- In Fort Worth, Texas, Officer Eddleman happens upon a fire at a local motel, a blaze later determined to be the work of an arsonist.
+- In Des Moines, IA, Officer Cornwell gives chase when a speeding motorcyclist ditches his vehicle and flees on foot.
 
 ## CP-1417
 
 Aired 2001-11-24.
 
-**Coast to Coast 8** (Atlanta, GA -- 5:05 AM Traffic Stop) Zone 1 -- Officer Frank Huff says police are like regular people just doing their jobs. He then pursues a white Dodge Durango seen in a known drug area. Officer Huff pursues a driver who eventually loses control of his vehicle and slams into a wall. In Chattanooga, Tennessee, Officer Willoughby questions a woman with a large plug of hair missing from the back of her head, which she she claims was the result of being assaulted by a man she met at an AA meeting. In Des Moines, Iowa, Officer Curtis loses sight of a fleeing suspect, and with the help of a witness, discovers the man relieving himself in a public port-a-potty.
+**Coast to Coast 8**
+
+- (Atlanta, GA -- 5:05 AM Traffic Stop) Zone 1 -- Officer Frank Huff says police are like regular people just doing their jobs. He then pursues a white Dodge Durango seen in a known drug area. Officer Huff pursues a driver who eventually loses control of his vehicle and slams into a wall.
+- (Chattanooga, TN -- 12:43 AM Domestic Disturbance Call) Officer Kevin Willoughby questions a woman with a large plug of hair missing from the back of her head, which she she claims was the result of being assaulted by a man she met at an AA meeting.
+- In Des Moines, IA, Officer Curtis loses sight of a fleeing suspect, and with the help of a witness, discovers the man relieving himself in a public port-a-potty.
 
 ## CP-1418
 
 Aired 2001-12-01.
 
-**Coast to Coast 9** (Fort Worth, TX -- 10:48 PM Traffic Stop) East Division -- Officer Michael Martinez has worked in four departments in the zero tolerance units with good people. He questions two male suspects and a prostitute riding in the same car, and when the driver suddenly pulls away, Martinez gives chase and observes as the male suspects abandon the woman on a dangerous stretch of the interstate. In Chattanooga, Tennessee, Officer Pendygraft stops and questions a suspect who claims he was on his way to a friend's house, but during a routine search, the officer uncovers a large quantity of marijuana crammed into the suspect's pants.
+**Coast to Coast 9**
+
+- (Fort Worth, TX -- 10:48 PM Traffic Stop) East Division -- Officer Michael Martinez has worked in four departments in the zero tolerance units with good people. He questions two male suspects and a prostitute riding in the same car, and when the driver suddenly pulls away, Martinez gives chase and observes as the male suspects abandon the woman on a dangerous stretch of the interstate.
+- (Chattanooga, TN -- 12:32 AM Suspicious Vehicle) Officer Michael Pendygraft stops and questions a suspect who claims he was on his way to a friend's house, but during a routine search, the officer uncovers a large quantity of marijuana crammed into the suspect's pants.
+- (Des Moines, IA -- 7:30 PM Dispute Call) Officer Chad Cornwell
 
 ## CP-1419
 
 Aired 2002-01-19.
 
-**Coast to Coast 10** (Chattanooga, TN -- 9:28 PM Robbery Call) Fox Station -- Officer Phillip McClain was born and raised there and it is one of the most beautiful cities in the country. Like most cities they have their problems. The biggest thing that keeps him there is that he wants to factor himself in the equation of ridding the city of some of its' criminal element. McClain responds to a robbery report at a local motel, and upon entering the nervous suspect's room discovers bags of crack cocaine stuffed in the bathroom ceiling vent. In Fort Worth, TX, Officer Maldonaldo orders a a driver to pull off the road after the man was observed leaving a known drug house. In Des Moines, IA -- Officer Morgan assists a father whose five-year-old son suddenly ran out of the house and disappeared into the neighborhood.
+**Coast to Coast 10**
+
+- (Chattanooga, TN -- 9:28 PM Robbery Call) Fox Station -- Officer Phillip McClain was born and raised there and it is one of the most beautiful cities in the country. Like most cities they have their problems. The biggest thing that keeps him there is that he wants to factor himself in the equation of ridding the city of some of its' criminal element. McClain responds to a robbery report at a local motel, and upon entering the nervous suspect's room discovers bags of crack cocaine stuffed in the bathroom ceiling vent.
+- In Fort Worth, TX, Officer Maldonaldo orders a driver to pull off the road after the man was observed leaving a known drug house.
+- In Des Moines, IA -- Officer Morgan assists a father whose five-year-old son suddenly ran out of the house and disappeared into the neighborhood.
 
 ## CP-1420
 
 Aired 2002-02-02.
 
-**Coast to Coast 11** (Fort Worth, TX -- 2:03 AM Traffic Stop) North Division -- Officer David Tate says everyone in Baker district has a nickname, his is Tater because of his last name. There are lots of crimes, but the ones he likes best are catching car thieves and burglars -- it's rewarding. He sees a vehicle on 28th with a head light out. It turns south on McHenry and runs a stop sign. He instructs them pull off the road, but the suspect speeds off into a neighborhood and eventually attempts a getaway on foot. In Chattanooga, TN, Officer Chambers tracks down an intoxicated suspect who was ejected from a local bar for causing trouble, but after giving the man a warning and calling a cab, Chambers later discovers that the suspect jumped out of the cab a block away. In Des Moines, IA
+**Coast to Coast 11**
+
+- (Fort Worth, TX -- 2:03 AM Traffic Stop) North Division -- Officer David Tate says everyone in Baker district has a nickname, his is Tater because of his last name. There are lots of crimes, but the ones he likes best are catching car thieves and burglars -- it's rewarding. He sees a vehicle on 28th with a head light out. It turns south on McHenry and runs a stop sign. He instructs them pull off the road, but the suspect speeds off into a neighborhood and eventually attempts a getaway on foot.
+- (Chattanooga, TN -- 1:21 AM Suspicious Person Call) Officer Johnathon Chambers tracks down an intoxicated suspect who was ejected from a local bar for causing trouble, but after giving the man a warning and calling a cab, Chambers later discovers that the suspect jumped out of the cab a block away.
+- (Des Moines, IA -- 4:47 PM Assistance Call) Officer Kenneth Brown, Officer John Poplawski.
 
 ## CP-1421
 
 Aired 2002-01-12.
 
-**Coast to Coast 12** (Fort Worth, TX -- 9:26 PM Stolen Vehicle) East Division -- Officer Chris Leary says the most common misconception about police is they're not human beings and have no feelings and no respect for people. They might have had bad dealings with the police and don't realize they are just like them and put their pants on one leg at a time. He instructs the driver of a stolen vehicle to pull off the road, but when the suspect complies, he and a passenger flee into a residential area. In Des Moines, IA, Officer Frentess stops the driver of a speeding vehicle and although the suspect first claims he had not been drinking, he later admits having consumed two beers and claims he did not know how fast he had been driving. In Chattanooga, TN, Officer Miller responds to an attempted robbery at a local residence.
+**Coast to Coast 12**
+
+- (Fort Worth, TX -- 9:26 PM Stolen Vehicle) East Division -- Officer Chris Leary says the most common misconception about police is they're not human beings and have no feelings and no respect for people. They might have had bad dealings with the police and don't realize they are just like them and put their pants on one leg at a time. He instructs the driver of a stolen vehicle to pull off the road, but when the suspect complies, he and a passenger flee into a residential area.
+- (Des Moines, IA -- 11:05 PM Suspicious Vehicle) Officer Joe Frentess stops the driver of a speeding vehicle and although the suspect first claims he had not been drinking, he later admits having consumed two beers and claims he did not know how fast he had been driving.
+- (Chattanooga, TN -- 7:28 PM Assistance Call) Officer Brian Miller used to be a high school history teacher and responds to an attempted robbery at a local residence.
 
 ## CP-1422
 
 Aired 2002-01-26.
 
-**Coast to Coast 13** (Fort Worth, TX -- 11:04 PM Stolen Vehicle) East Division -- Officer Brian Clark says one of the useful tools they have are K-9 unit and a helicopter called Air One. It's piloted by a civilian and an officer observer. They get involved in pursuits and missing persons. It has a several million candle power light called 'Night Sun' and a Fleer system that can see heat sources on the ground and can tell a dog from a person, pretty efficient. He follows a car involved in a robbery with 3 people going east on Ave I, North on South Caller. He gives chase when a gang member driving a stolen vehicle refuses to pull off the road and later he gives chase when the suspect and his passenger bail out of the car and flee on foot. In Des Moines, IA, Officers Moody and Gallardo are called to a local bar where they learn that a suspect threw a drink at a woman when she refused to dance with him, which triggered a fight between the suspect and the woman's boyfriend. Officers answer a call at a Chattanooga, TN bar.
+**Coast to Coast 13**
+
+- (Fort Worth, TX -- 11:04 PM Stolen Vehicle) East Division -- Officer Brian Clark says one of the useful tools they have are K-9 unit and a helicopter called Air One. It's piloted by a civilian and an officer observer. They get involved in pursuits and missing persons. It has a several million candle power light called 'Night Sun' and a Fleer system that can see heat sources on the ground and can tell a dog from a person, pretty efficient. He follows a car involved in a robbery with 3 people going east on Ave I, North on South Caller. He gives chase when a gang member driving a stolen vehicle refuses to pull off the road and later he gives chase when the suspect and his passenger bail out of the car and flee on foot.
+- (Des Moines, IA -- 11:55 PM Fight In Progress) Officers Mike Moody and Raymond Gallardo are called to a local bar where they learn that a suspect threw a drink at a woman when she refused to dance with him, which triggered a fight between the suspect and the woman's boyfriend.
+- (Chattanooga, TN -- 10:03 PM Disturbance Call) Officers Christopher Smith and Brian Miller.
 
 ## CP-1423
 
 Aired 2002-02-09.
 
-**Coast to Coast 14** (Fort Worth, TX -- 11:02 PM Roll Call) East Division -- Sgt. Phillip South talks about a string of home invasion where 4-5 black males hit Vietnamese residences between 10p -- 1am, no description of people or vehicles. There MO is to kick in the front door, 4 go in and 1 looks out. They take TVs, VCRs and cash. In Fort Worth, Texas, Officer Jacoby helps apprehend the driver of a stolen vehicle and, upon searching the suspect, recovers several distinct tools associated with professional car thieves. In Des Moines, IA, Officer Cornwell stops a suspect for a routine traffic violation and finds a biohazard container filled with syringes and methampehtamine inside his van. In Chattanooga, TN, the Street Crimes Unit arrests several suspected drug dealers during a buy-bust operation.
+**Coast to Coast 14**
+
+- (Fort Worth, TX -- 11:02 PM Roll Call) East Division -- Sgt. Phillip South talks about a string of home invasion where 4-5 black males hit Vietnamese residences between 10p -- 1am, no description of people or vehicles. Their MO is to kick in the front door, 4 go in and 1 looks out. They take TVs, VCRs and cash.
+- In Fort Worth, Texas, Officer Jacoby helps apprehend the driver of a stolen vehicle and, upon searching the suspect, recovers several distinct tools associated with professional car thieves.
+- In Des Moines, IA, Officer Cornwell stops a suspect for a routine traffic violation and finds a biohazard container filled with syringes and methampehtamine inside his van. In Chattanooga, TN, the Street Crimes Unit arrests several suspected drug dealers during a buy-bust operation.
 
 ## CP-1424
 
