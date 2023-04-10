@@ -10352,7 +10352,7 @@ Aired 2002-02-23.
 
 - (Fort Worth, TX -- 4:16 PM Stolen Vehicle Call) North Division -- Officer W.E. Spakes has been there 3 years in NPD2 Baker District. It's primarily a Hispanic community, a barrio. The biggest problem is communication since he doesn't speak Spanish well. He is Baker 14 and goes to a stolen car pursuit that lead to a crash on 28th and Angle in a residential area. The car is the wrong way in the bushes, the front tire is gone, the hood and front end is wrecked and there is smoke coming from the engine. Officer Ernesto Flores caught the black passenger in a red shirt soon after. The Mexican driver in the yellow shirt and blue jeans is missing. They find him in a fetal position next to the car in the bushes. W.E. gives him a sternum rub which makes him move. He is OK. They brief Sgt. William Hernandez on the scene afterwards.
 - (Des Moines, IA -- 8:55 PM Domestic Disturbance Call) 3rd Watch -- Officer John Poplawski is Polish & Spanish and people wonder where he got his name. It works out because he is able to communicate with the community. Officer Kenneth Brown is his partner. They speak with a woman who claims her daughter's intoxicated boyfriend damaged a mailbox and then fled the scene.
-- In Chattanooga, TN, Officer Willoughby apprehends a driver who ignored instructions to pull over.
+- (Chattanooga, TN -- 12:22 AM Traffic Stop) Officer Kevin Willoughby apprehends a driver who ignored instructions to pull over.
 
 ## CP-1426
 
@@ -10512,7 +10512,11 @@ Aired 2002-09-14.
 
 Aired 2002-05-04.
 
-**Coco the Clown** (Tampa, FL -- 1:45 PM Sting Briefing) Sgt. Marc Hamlin explains that it is harder to make prostitution arrests in the daytime and the need to take the edge off. So an officer gets into the spirit by dressing himself up as Coco the Clown. Chattanooga, TN/Tampa FL 
+**Coco the Clown**
+
+- (Tampa, FL -- 1:45 PM Sting Briefing) Sgt. Marc Hamlin explains that it is harder to make prostitution arrests in the daytime and the need to take the edge off. So an officer gets into the spirit by dressing himself up as Coco the Clown.
+- (Chattanooga, TN -- 11:43 AM Sting Briefing) Vice Unit. Officer Elicia Jenkins, officer Gerald Dossett.
+- (Tampa, FL -- Hidden Camera) Sgt. Marc Hamlin, Officer Tim Pasley. Undercover clown.
 
 ## CP-1502
 
@@ -13396,8 +13400,8 @@ Aired 2006-03-11.
 **Coast to Coast 98**
 
 - (Pittsburgh, PA -- 10:37 PM Traffic Stop) A suspect speeds away from police, and a high-speed chase ensues.
-- Chattanooga, TN
-- Travis County TX
+- (Chattanooga, TN -- 11:35 PM Traffic Stop) Officer Derrick Pendergrass, Officer Zach Fuller.
+- (Travis County, TX -- 8:21 PM Family Disturbance Call) Deputy Belinda Mangum.
 
 ## CP-1820
 
@@ -13416,8 +13420,8 @@ Aired 2006-03-25.
 **Coast to Coast 99**
 
 - (Pittsburgh, PA -- 8:29 PM Suspicious Activity) Officers respond to a call about a male burglar and find the suspect hiding on the roof of the home.
-- Spokane, WA
-- Chattanooga, TN
+- (Spokane, WA -- 10:04 PM Assistance Call) Officer Alan Edwards.
+- (Chattanooga, TN -- 7:15 PM Possible Narcotics Activity) Officer Michael Joiner.
 
 ## CP-1822
 
@@ -13507,7 +13511,7 @@ Aired 2006-05-06.
 
 - (Chattanooga, TN -- 7:55 PM Injured Person Call)
 - Spokane, WA -- An intoxicated woman tries to bite an officer
-- Martin County FL -- a woman gets creative concealing a crack pipe.
+- Martin County, FL -- a woman gets creative concealing a crack pipe.
 
 ## CP-1831
 
@@ -13591,9 +13595,9 @@ Aired 2006-09-09.
 
 **Coast to Coast 109**
 
-- (Palm Beach County FL -- 9:35 PM Traffic Stop) Sheriff's Office District 4 -- A stop turns into a footrace through Palm Beach County, Fla. officers pull a bicyclist over.
-- Palm Springs, CA
-- Chattanooga, TN
+- (Palm Beach County, FL -- 9:35 PM Traffic Stop) Deputy Steve Ultsh. Sheriff's Office District 4 -- A stop turns into a footrace through Palm Beach County, FL.
+- (Palm Springs, CA -- 1:47 AM Traffic Stop) Officer Anthony Pilutik.
+- (Chattanooga, TN -- 9:40 PM Felony Warrant) Officer Aaron Williams.
 
 ## CP-1902
 
@@ -13601,9 +13605,9 @@ Aired 2006-09-16.
 
 **Coast to Coast 110**
 
-- (Palm Beach County FL -- 12:38 AM Domestic Violence Call) Sheriff's Dept Jurupa Valley Station -- Domestic violence in Palm Springs, Calif.; possession of meth.
-- Chattanooga, TN
-- Palm Springs, CA
+- (Palm Beach County, FL -- 12:38 AM Domestic Violence Call) Deputy Rick Santos, Deputy Chris Sorvillo.
+- (Chattanooga, TN -- 6:17 PM Possible Drug Activity) Officer Derrick Pendergrass.
+- (Palm Springs, CA -- 1:05 AM Street Patrol) Officer Anthony Pilutik.
 
 ## CP-1903
 
@@ -13779,61 +13783,102 @@ Aired 2007-05-19.
 
 Aired 2007-01-20.
 
-**Coast to Coast 118** (Wichita, KS -- 1:08 AM Traffic Stop) An officer notices a concealed weapon during a traffic stop; a Riverside County CA, sheriff handles a domestic-assault situation. Cincinnati, OH
+**Coast to Coast 118**
+
+- (Wichita, KS -- 1:08 AM Traffic Stop) An officer notices a concealed weapon during a traffic stop;
+- a Riverside County CA, sheriff handles a domestic assault situation.
+- Cincinnati, OH
 
 ## CP-1920
 
 Aired 2007-04-28.
 
-**Police Pullovers 2 Special Edition** (Cincinnati, OH -- 2:41 AM Suspicious Activity) District 4 -- Officers Mike Harper and Mark Longworth of the Cincinnati Police Department pull up to a parked vehicle occupied by three males. The men are questioned about their activities in the vehicle and they all insist that they were just chillin'. However, when the front seat passenger appears to reach for something, an officer spots a gun and a brief struggle takes place. The suspect eventually agrees to cooperate and is taken into custody without incident. He's charged with resisting and carrying a concealed weapon. Officer Chris Wessman of the Fontana Police Department questions the occupants of a vehicle that is parked on a desolate road. The couple claim that they were headed to a racetrack. The driver (the male occupant) is taken into custody after the officer learns that he has outstanding warrants. During a routine search of the vehicle the officer discovers methamphetamine and drug paraphernalia. When the driver refuses to take the blame for the contraband found in the female passenger's purse, she's arrested as well. Officer Ryan Cook of the Las Vegas Metropolitan Police Department pulls over a vehicle with a busted tail light. The female driver is questioned and claims that she was involved in a hit and run and did not have the financial resources to have the vehicle repaired. Officer Cook runs her identification and is forced to impound the vehicle after he learns that she's driving on a suspended license. The driver and her girlfriend take a few personal items before walking away.
+**Police Pullovers 2 Special Edition**
+
+- (Cincinnati, OH -- 2:41 AM Suspicious Activity) District 4 -- Officers Mike Harper and Mark Longworth of the Cincinnati Police Department pull up to a parked vehicle occupied by three males. The men are questioned about their activities in the vehicle and they all insist that they were just chillin'. However, when the front seat passenger appears to reach for something, an officer spots a gun and a brief struggle takes place. The suspect eventually agrees to cooperate and is taken into custody without incident. He's charged with resisting and carrying a concealed weapon.
+- Officer Chris Wessman of the Fontana Police Department questions the occupants of a vehicle that is parked on a desolate road. The couple claim that they were headed to a racetrack. The driver (the male occupant) is taken into custody after the officer learns that he has outstanding warrants. During a routine search of the vehicle the officer discovers methamphetamine and drug paraphernalia. When the driver refuses to take the blame for the contraband found in the female passenger's purse, she's arrested as well.
+- Officer Ryan Cook of the Las Vegas Metropolitan Police Department pulls over a vehicle with a busted tail light. The female driver is questioned and claims that she was involved in a hit and run and did not have the financial resources to have the vehicle repaired. Officer Cook runs her identification and is forced to impound the vehicle after he learns that she's driving on a suspended license. The driver and her girlfriend take a few personal items before walking away.
 
 ## CP-1921
 
 Aired 2007-01-27.
 
-**Coast to Coast 119** (Fontana, CA -- 9:48 PM Pursuit in Progress) An officer finds stolen property in a car after a high-speed pursuit; a Covington, KY officer tries to settle a teen couple's dispute. Wichita, KS/Covington, KY
+**Coast to Coast 119**
+
+- (Fontana, CA -- 9:48 PM Pursuit in Progress) An officer finds stolen property in a car after a high-speed pursuit;
+- a Covington, KY officer tries to settle a teen couple's dispute.
+- Wichita, KS
+- Covington, KY
 
 ## CP-1922
 
 Aired 2007-03-03.
 
-**Coast to Coast 120** (Las Vegas, NV -- 1:14 AM Suspicious Activity) An officer chases a suspect on foot; Boise, ID road rage, a Palm Springs, CA officer organizes a sting to snare an online predator.
+**Coast to Coast 120**
+
+- (Las Vegas, NV -- 1:14 AM Suspicious Activity) An officer chases a suspect on foot;
+- Boise, ID road rage,
+- a Palm Springs, CA officer organizes a sting to snare an online predator.
 
 ## CP-1923
 
 Aired 2006-12-16.
 
-**Ho! Ho! Ho! 4 Special Edition** (Las Vegas, NV -- 4:25 AM Officer Assistance Call) South Central Area Command -- Sgt. Raymond Reyes lends assistance on a traffic stop. The SUV was seen driving erratically on the famous Las Vegas Strip in the wee hours of the morning. Officer Evan Rosenthal quickly identifies the female driver as a known prostitute who has an extensive arrest history. Suspicious of her sobriety, the officers conduct a routine field test and place her under arrest for DUI after she fails. The woman asks the officers to not reveal her past to her male companion whom she claims does not know of her checkered history. Officer Ryan Cook of the Las Vegas Metropolitan Police Department detains a suspicious male and female in an area known for drug activity and prostitution. During questioning the female admits to being a former prostitute and a drug user. When the officer discovers drug paraphernalia in her purse, she's placed under arrest. The male individual insists that after meeting the lady earlier in the evening, she asked for a ride home. He claims that he had no knowledge that she was a transsexual prostitute and thanks Officer Cook for his help. Officer Derrick Pendergrass of the Chattanooga Police Department questions a known prostitute he spotted in front of a known crack house. The 21-year-old mother of two is released after the officer warns her to leave the area. A short time later the officer assists another unit on a traffic stop. To his surprise, the same woman he had shown leniency to earlier is in the vehicle. Although the driver insists that she flagged him down and asked for a ride to the store, Officer Pendergrass does not buy his explanation. When the officers learn that the driver has a revoked license for a DUI, he's placed under arrest. The desperate female is given another stern warning and is released once more.
+**Ho! Ho! Ho! 4 Special Edition**
+
+- (Las Vegas, NV -- 4:25 AM Officer Assistance Call) South Central Area Command -- Sgt. Raymond Reyes lends assistance on a traffic stop. The SUV was seen driving erratically on the famous Las Vegas Strip in the wee hours of the morning. Officer Evan Rosenthal quickly identifies the female driver as a known prostitute who has an extensive arrest history. Suspicious of her sobriety, the officers conduct a routine field test and place her under arrest for DUI after she fails. The woman asks the officers to not reveal her past to her male companion whom she claims does not know of her checkered history. Officer Ryan Cook of the Las Vegas Metropolitan Police Department detains a suspicious male and female in an area known for drug activity and prostitution. During questioning the female admits to being a former prostitute and a drug user. When the officer discovers drug paraphernalia in her purse, she's placed under arrest. The male individual insists that after meeting the lady earlier in the evening, she asked for a ride home. He claims that he had no knowledge that she was a transsexual prostitute and thanks Officer Cook for his help.
+- (Las Vegas, NV -- 10:40 PM Street Patrol) Officer Ryan Cook arrests a transgender prostitute.
+- (Chattanooga, TN -- 10:02 PM Suspicious Person) Officer Derrick Pendergrass questions a known prostitute he spotted in front of a known crack house. The 21-year-old mother of two is released after the officer warns her to leave the area. A short time later the officer assists another unit on a traffic stop. To his surprise, the same woman he had shown leniency to earlier is in the vehicle. Although the driver insists that she flagged him down and asked for a ride to the store, Officer Pendergrass does not buy his explanation. When the officers learn that the driver has a revoked license for a DUI, he's placed under arrest. The desperate female is given another stern warning and is released once more.
 
 ## CP-1924
 
 Aired 2007-03-10.
 
-**Coast to Coast 121** (Las Vegas, NV -- 3:38 AM Suspicious Activity) officer confronts a midget exhibiting bizarre behavior. Fontana, CA -- stolen rims, Boise, ID officer discovers a lost boy lying in the road.
+**Coast to Coast 121**
+
+- (Las Vegas, NV -- 3:38 AM Suspicious Activity) officer confronts a midget exhibiting bizarre behavior.
+- Fontana, CA -- stolen rims,
+- Boise, ID officer discovers a lost boy lying in the road.
 
 ## CP-1925
 
 Aired 2007-07-07.
 
-**High Crimes 3 Special Edition** (Las Vegas, NV -- 2:01 AM Possible Intoxicated Driver) Metro PD South Central Area Command -- Officer Evan Rosenthal says he's going to a traffic unit on a motorcycle trying to pull over a DWI who won't stop. A Covington, KY officer makes a traffic stop and questions the driver about a suspicious smell coming from the vehicle. Boise, ID -- Traffic Stop
+**High Crimes 3 Special Edition**
+
+- (Las Vegas, NV -- 2:01 AM Possible Intoxicated Driver) Metro PD South Central Area Command -- Officer Evan Rosenthal says he's going to a traffic unit on a motorcycle trying to pull over a DWI who won't stop.
+- A Covington, KY officer makes a traffic stop and questions the driver about a suspicious smell coming from the vehicle.
+- Boise, ID -- Traffic Stop
 
 ## CP-1926
 
 Aired 2007-03-17.
 
-**Coast to Coast 122** (Boston, MA -- 10:38 PM Street Patrol) Youth Violence Strike Force officers pursue a suspect attempting to flee on a bicycle; Las Vegas, NV officers question a couple after a domestic disturbance is reported. Boise, ID officer spots a suspicious car at Hardy and Edward.
+**Coast to Coast 122**
+
+- (Boston, MA -- 10:38 PM Street Patrol) Youth Violence Strike Force officers pursue a suspect attempting to flee on a bicycle;
+- Las Vegas, NV officers question a couple after a domestic disturbance is reported.
+- Boise, ID officer spots a suspicious car at Hardy and Edward.
 
 ## CP-1927
 
 Aired 2007-03-24.
 
-**Coast to Coast 123** (Las Vegas, NV -- 4:31 PM Burglary in Progress) Metro PD Downtown Area Command -- Sgt. John Faulis catches a man breaking into a car for cigarettes. A Boise, ID officer discovers a suspect in a park who has been beaten. Las Vegas, NV domestic violence call.
+**Coast to Coast 123**
+
+- (Las Vegas, NV -- 4:31 PM Burglary in Progress) Metro PD Downtown Area Command -- Sgt. John Faulis catches a man breaking into a car for cigarettes.
+- A Boise, ID officer discovers a suspect in a park who has been beaten.
+- Las Vegas, NV domestic violence call.
 
 ## CP-1928
 
 Aired 2007-04-07.
 
-**Coast to Coast 124** (Boston, MA -- 8:36 PM Street Patrol) Youth Violence Strike Force -- drug bust, Lowell, MA officer deals with a disturbance call. Palm Springs, CA officers arrest a suspect attempting to meet an underage girl.
+**Coast to Coast 124**
+
+- (Boston, MA -- 8:36 PM Street Patrol) Youth Violence Strike Force -- drug bust.
+- Lowell, MA officer deals with a disturbance call.
+- Palm Springs, CA officers arrest a suspect attempting to meet an underage girl.
 
 ## CP-1929
 
@@ -13852,8 +13897,8 @@ Aired 2007-02-17.
 **Tough Takedowns Special Edition**
 
 - (Las Vegas, NV -- 11:32 PM Suspicious Person) the midget from CP-1924 returns.
-- A Boise, ID, officer handles a domestic-violence call;
-- a Chattanooga, TN officer deals with a suspect who swallowed crack in an attempt to hide it.
+- (Boise, ID -- 10:32 PM Domestic Violence Call) Officer Brian Lee handles a domestic-violence call.
+- (Chattanooga, TN -- 10:35 PM Traffic Stop) Officer Derrick Pendergrass deals with a suspect who swallowed crack in an attempt to hide it.
 
 ## CP-1931
 
