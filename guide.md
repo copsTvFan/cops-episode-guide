@@ -10307,7 +10307,16 @@ Aired 2002-05-18.
 
 Aired 2002-12-14.
 
-**Coast to Coast 25** (Tampa, FL -- 2:12 PM Narcotics Sting) Explains about a citywide buy bust operation. The visual signal is the tapping of the brakes. If they can't get them, move on there are plenty of others. Officers nab reputed drug dealers in a citywide sting; suspects steal car stereos at a dealership. Hillsborough County FL/Fort Worth, TX
+**Coast to Coast 25**
+
+- (Tampa, FL -- 2:12 PM Narcotics Sting) Explains about a citywide buy bust
+  operation. The visual signal is the tapping of the brakes. If they can't get
+  them, move on there are plenty of others. Officers nab reputed drug dealers
+  in a citywide sting; suspects steal car stereos at a dealership.
+- Hillsborough County FL
+- (Fort Worth, TX -- 2:20 PM Suspicious Activity) Officer Ronnie McMullen goes
+  to a call about two orphaned brothers, Jerry and Roland, huffing paint /
+  sniffing paint.
 
 ## CP-1505
 
