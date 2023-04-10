@@ -10509,10 +10509,19 @@ Aired 2003-07-12.
 
 **Coast to Coast 42**
 
-- (Pierce County WA -- 1:24 AM Possible Stolen Vehicle) Lakewood -- Officer Mark Eakes like working graveyard. It's challenging and what you accomplish in one night is fun and very rewarding. His partner is Officer Mark Rickerson who also loves graveyard. It's a great time to work and they can use darkness to their advantage like the criminals do. It makes their job easier.
-- Deputies pursue a suspicious vehicle
-- officers question male suspects who are soliciting sex while wearing makeup and women's clothing
-- Albuquerque NM
+- (Pierce County WA -- 1:24 AM Possible Stolen Vehicle) Lakewood -- Officer
+  Mark Eakes like working graveyard. It's challenging and what you accomplish
+  in one night is fun and very rewarding. His partner is Officer Mark Rickerson
+  who also loves graveyard. It's a great time to work and they can use darkness
+  to their advantage like the criminals do. It makes their job easier.
+  Deputies pursue a suspicious vehicle.
+- (Albuquerque, NM -- 11:57 AM Public Nuisance Call) Officer James Badway
+  responds to a call about sex worker cross-dressers. This is the famous
+  segment with [Stephanie
+  Yellowhair](https://en.wikipedia.org/wiki/Stephanie_Yellowhair) saying
+  "Excuse my beauty".
+- (Indianapolis, IN -- 4:58 PM John Sting) Detective Laura Russell, Sgt. Mike
+  Schenkenfelder, Officer Brent Miller, Officer Richard Riddle.
 
 ## CP-1526
 
@@ -11844,52 +11853,55 @@ Aired 2005-01-22.
 
 Aired 2005-05-21.
 
-**Armed & Dangerous 2 Special Edition** (Santa Ana, CA -- 9:15 PM Robbery in
-Progress) Officer Chuck Elms was born and raised there, went away to school and
-came back with the intentions of being a cop. It's good to be back where he
-grew up. The call is for backup at a KFC restaurant. A witness says he was at
-the drive thru getting his drinks and saw a Hispanic man inside with a gun.
-They go inside and watch the surveillance tape of a guy in a blue shirt holding
-a gun and another guy in a white shirt with black gloves hopping the counter
-and empting the register. Someone got the license plate, but it turns out to be
-stolen. It is the third robbery they committed. They go to a donut shop that
-they robbed next. A shot was fired and it went through the kitchen. They check
-the tape and it's the same guys robbing the register. They get a call that one
-is caught and the other is being chased on foot. Sgt. Mark Strouhan is heading
-up the search with dozens of cops around. Officer David Schwacher caught one
-and Sgt. Ernie Conde caught the other. It turns out there were three of them,
-one is a third strike parolee. The guy in blue turns in the gun and a
-bulletproof vest. One got away, but was ID'd. Little Rock, AR (3:20 PM Street
-Patrol) Officer Tim Stankevitz always wanted to be a cop and got hired at 27, a
-late start. He loves it, it's a good bunch of people, enjoys working the
-streets and it gets exciting. A man calls about a problem with homeless people
-camping out at his building. A black man with a “Called in sick” t-shirt says
-the man in the blue shirt has a gun. They go around behind the building and
-find the guy. He is holding the gun and won't drop it. He finally drops it, but
-won't listen and is pulled down hard and cuffed. Another guy shows up and
-Officer Ryan Hudson takes him down. The man called 8 Ball keeps saying he
-should've killed the other guy, talks nonsense, the guy beat him with a 2x4 and
-he was going to take care of him. He's mad at himself for not killing him, it
-would've been less trouble and he should've killed him. He beat him over a $2
-rock of coke and says if the cops didn't come he would've killed him. He
-thought he was going back home to jail. The other guy says he doesn't even know
-the guy, he must think he's someone else. He's been arrested for drugs in 1997
-though. The gun is a .22 and has 2 bullets. Officer Joe Miller checks it out
-and says it looks like it misfired. San Bernardino, CA (7:01 PM Shooting Call)
-Sheriff's Dept -- Officer Mike Martinez says a good day is taking a couple
-hardcore criminals off the street and going home at night. Officer Joe Silva
-says a man shot himself by mistake, but it might've been a gun battle. They go
-around back with a helicopter is overhead. They cut the lock on the fence, come
-up to the house and there is blood all the way up the front. There is a crusty
-old biker on the floor bleeding from a bullet wound on his leg who says a guy
-came after him for money and he pulled his .44 Magnum to get rid of him and it
-went off. Sgt. Ernie Kopasz checks the gun. Greg threw a trailer ball at him.
-They find him and he's bald with a big bloody bruise under his eye. Deputy John
-Walker questions him and he says he was hit by a steel bar, ran out after the
-gun went off and locked the gate on the way out, but his son says no. He says
-he might've hopped the fence. They were in business together and he owed him
-$1,000 and he came to collect. They are both charged with assault with a deadly
-weapon.
+**Armed & Dangerous 2 Special Edition**
+
+- (Santa Ana, CA -- 9:15 PM Robbery in Progress) Officer Chuck Elms was born
+  and raised there, went away to school and came back with the intentions of
+  being a cop. It's good to be back where he grew up. The call is for backup at
+  a KFC restaurant. A witness says he was at the drive thru getting his drinks
+  and saw a Hispanic man inside with a gun.  They go inside and watch the
+  surveillance tape of a guy in a blue shirt holding a gun and another guy in a
+  white shirt with black gloves hopping the counter and empting the register.
+  Someone got the license plate, but it turns out to be stolen. It is the third
+  robbery they committed. They go to a donut shop that they robbed next. A shot
+  was fired and it went through the kitchen. They check the tape and it's the
+  same guys robbing the register. They get a call that one is caught and the
+  other is being chased on foot. Sgt. Mark Strouhan is heading up the search
+  with dozens of cops around. Officer David Schwacher caught one and Sgt. Ernie
+  Conde caught the other. It turns out there were three of them, one is a third
+  strike parolee. The guy in blue turns in the gun and a bulletproof vest. One
+  got away, but was ID'd.
+- Little Rock, AR (3:20 PM Street Patrol) Officer Tim Stankevitz always wanted
+  to be a cop and got hired at 27, a late start. He loves it, it's a good bunch
+  of people, enjoys working the streets and it gets exciting. A man calls about
+  a problem with homeless people camping out at his building. A black man with
+  a “Called in sick” t-shirt says the man in the blue shirt has a gun. They go
+  around behind the building and find the guy. He is holding the gun and won't
+  drop it. He finally drops it, but won't listen and is pulled down hard and
+  cuffed. Another guy shows up and Officer Ryan Hudson takes him down. The man
+  called 8 Ball keeps saying he should've killed the other guy, talks nonsense,
+  the guy beat him with a 2x4 and he was going to take care of him. He's mad at
+  himself for not killing him, it would've been less trouble and he should've
+  killed him. He beat him over a $2 rock of coke and says if the cops didn't
+  come he would've killed him. He thought he was going back home to jail. The
+  other guy says he doesn't even know the guy, he must think he's someone else.
+  He's been arrested for drugs in 1997 though. The gun is a .22 and has 2
+  bullets. Officer Joe Miller checks it out and says it looks like it misfired.
+- San Bernardino, CA (7:01 PM Shooting Call) Sheriff's Dept -- Officer Mike
+  Martinez says a good day is taking a couple hardcore criminals off the street
+  and going home at night. Officer Joe Silva says a man shot himself by
+  mistake, but it might've been a gun battle. They go around back with a
+  helicopter is overhead. They cut the lock on the fence, come up to the house
+  and there is blood all the way up the front. There is a crusty old biker on
+  the floor bleeding from a bullet wound on his leg who says a guy came after
+  him for money and he pulled his .44 Magnum to get rid of him and it went off.
+  Sgt. Ernie Kopasz checks the gun. Greg threw a trailer ball at him.  They
+  find him and he's bald with a big bloody bruise under his eye. Deputy John
+  Walker questions him and he says he was hit by a steel bar, ran out after the
+  gun went off and locked the gate on the way out, but his son says no. He says
+  he might've hopped the fence. They were in business together and he owed him
+  $1,000 and he came to collect. They are both charged with assault with a
+  deadly weapon.
 
 ## CP-1715
 
@@ -12154,11 +12166,12 @@ Aired 2005-04-30.
 
 **600th Milestone Episode**
 
-(Cincinnati, OH -- 9:24 PM Traffic Stop) Officer Michael Winslow says it's a
-full moon, lots of officers believe the myth that it makes more crime. He
-hasn't seen that. Cameras capture a fleeing suspect; domestic disturbance; a
-family disturbance that threatens to separate children from their father.
-Covington, KY/Hamilton Co, OH.
+- (Cincinnati, OH -- 9:24 PM Traffic Stop) Officer Michael Winslow says it's a
+  full moon, lots of officers believe the myth that it makes more crime. He
+  hasn't seen that. Cameras capture a fleeing suspect; domestic disturbance; a
+  family disturbance that threatens to separate children from their father.
+- Covington, KY
+- Hamilton Co, OH.
 
 ## CP-1721
 
