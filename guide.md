@@ -9792,61 +9792,83 @@ Aired 2000-05-20.
 
 Aired 2000-09-02.
 
-**Jacksonville, FL 2** (10:23 PM Assistance Call) Zone 4 -- Officer Shawn Pringle says when he was a kid he was fascinated by the police. When he heard a cop car coming he'd run out of his house to watch them go by. He gets great enjoyment helping people. He gets a call to back up a fight between a male and a female and the female is the suspect for a change. A man threatens woman a with voodoo curse; marijuana sale leads to foot chase; elderly woman falls asleep in bank restroom.
+**Jacksonville, FL 2**
+
+- (10:23 PM Assistance Call) Zone 4 -- Officer Shawn Pringle says when he was a kid he was fascinated by the police. When he heard a cop car coming he'd run out of his house to watch them go by. He gets great enjoyment helping people. He gets a call to back up a fight between a male and a female and the female is the suspect for a change. A man threatens woman a with voodoo curse. House full of snakes.
+- marijuana sale leads to foot chase
+- elderly woman falls asleep in bank restroom.
 
 ## CP-1303
 
 Aired 2000-08-26.
 
-**Jacksonville, FL 3** (9:48 PM Assistance Call) Officer George Daunhauer says he wife is also a cop which is good. He sees two men fighting and goes over. One man hits his cousins car with a brick three times before the cop can stop him. It turns out he owes him $5 and is holding his cell phone for ransom until he pays up. The man jumps out and they both fight. Police arrest a suspect after they observe him pushing his girlfriend and, later, the victim begs officers not to take her beloved to jail. Officers interview a taxicab driver who was shot in the neck and back several times during an armed robbery, yet miraculously survived.
+**Jacksonville, FL 3**
+
+- (9:48 PM Assistance Call) Officer George Daunhauer says he wife is also a cop which is good. He sees two men fighting and goes over. One man hits his cousins car with a brick three times before the cop can stop him. It turns out he owes him $5 and is holding his cell phone for ransom until he pays up. The man jumps out and they both fight. Police arrest a suspect after they observe him pushing his girlfriend and, later, the victim begs officers not to take her beloved to jail. Officers interview a taxicab driver who was shot in the neck and back several times during an armed robbery, yet miraculously survived.
 
 ## CP-1304
 
 Aired 2000-08-19.
 
-**Jacksonville, FL 4** (11:58 PM Robbery in Progress) Officer Linda Morgan talks about meeting her husband who was a bike cop on the force and how great it is to be married to another cop. She aids in the arrest of a robber who attacked his intended victim with a pipe and tried to choke him. Officer Dobscha responds to a report of a six-foot alligator discovered on a homeowner's back porch. While participating in an undercover sting operation targeting car thieves, Officer McNeil observes a group of individuals attempting to burglarize a decoy vehicle.
+**Jacksonville, FL 4**
+
+- (11:58 PM Robbery in Progress) Officer Linda Morgan talks about meeting her husband who was a bike cop on the force and how great it is to be married to another cop. She aids in the arrest of a robber who attacked his intended victim with a pipe and tried to choke him. Officer Dobscha responds to a report of a six-foot alligator discovered on a homeowner's back porch. While participating in an undercover sting operation targeting car thieves, Officer McNeil observes a group of individuals attempting to burglarize a decoy vehicle.
 
 ## CP-1305
 
 Aired 2000-09-09.
 
-**Jacksonville, FL 5** (1:49 AM Burglary in Progress) Officer Robert Adams races to the scene where an officer responded to a burglar alarm and found three men on the scene and has one at gunpoint. Officer Adams questions a witness whose vehicle was rammed by two robbery suspects whom police believe may be responsible for a string of storage unit break-ins. Officer McNeil aids in the pursuit of a suspect linked to a series of armed robberies who is apprehended after a witness says that she saw the man change his clothes in the lobby of her apartment building. Officer McNeil investigates a report of a disabled man selling counterfeit jewelry to unsuspecting customers.
+**Jacksonville, FL 5**
+
+- (1:49 AM Burglary in Progress) Officer Robert Adams races to the scene where an officer responded to a burglar alarm and found three men on the scene and has one at gunpoint. Officer Adams questions a witness whose vehicle was rammed by two robbery suspects whom police believe may be responsible for a string of storage unit break-ins. Officer McNeil aids in the pursuit of a suspect linked to a series of armed robberies who is apprehended after a witness says that she saw the man change his clothes in the lobby of her apartment building. Officer McNeil investigates a report of a disabled man selling counterfeit jewelry to unsuspecting customers.
 
 ## CP-1306
 
 Aired 2000-10-14.
 
-**Jacksonville, FL 6** (3:31 PM Sting Operation Briefing) Sgt. Charles Wall reads a list of which officers will be in which vehicles for the busts. The Vice Unit targets drug activity in a problem area of the city, leading to the arrest of several suspects, one of whom possesses marked currency given to him by an undercover officer. Officers Mitaly and Cullen assist a homeowner who reported finding hissing raccoons in her chimney and, later, volunteers to help remove a mother raccoon and her three adorable babies from the residence. Officer Johnson investigates after he witnesses a driver pick up a female.
+**Jacksonville, FL 6**
+
+- (3:31 PM Sting Operation Briefing) Sgt. Charles Wall reads a list of which officers will be in which vehicles for the busts. The Vice Unit targets drug activity in a problem area of the city, leading to the arrest of several suspects, one of whom possesses marked currency given to him by an undercover officer. Officers Mitaly and Cullen assist a homeowner who reported finding hissing raccoons in her chimney and, later, volunteers to help remove a mother raccoon and her three adorable babies from the residence. Officer Johnson investigates after he witnesses a driver pick up a female.
 
 ## CP-1307
 
 Aired 2000-12-02.
 
-**Jacksonville, FL 7** (7:52 PM Drug Sting) Organized Crime Unit -- Sgt. Robert Phelps talks about taking over a female drug dealer's trailer and selling out of it on a Friday night. The Vice Unit arrests a drug dealer inside her trailer, and later, undercover officers posing as dealers use the trailer to attract several unwitting buyers. Sheriff Lederman arrests a driver and his two female passengers after it is determined they are riding in a vehicle that had been reported stolen earlier that day. Sheriff Meyer aids in the arrest of three suspects who burglarized a change machine at a coin-operated car wash.
+**Jacksonville, FL 7**
+
+- (7:52 PM Drug Sting) Organized Crime Unit -- Sgt. Robert Phelps talks about taking over a female drug dealer's trailer and selling out of it on a Friday night. The Vice Unit arrests a drug dealer inside her trailer, and later, undercover officers posing as dealers use the trailer to attract several unwitting buyers. Sheriff Lederman arrests a driver and his two female passengers after it is determined they are riding in a vehicle that had been reported stolen earlier that day. Sheriff Meyer aids in the arrest of three suspects who burglarized a change machine at a coin-operated car wash.
 
 ## CP-1308
 
 Aired 2000-12-16.
 
-**Jacksonville, FL 8** (3:27 PM John Sting Briefing) Sheriff's Office Vice Unit -- Sgt. John Britt discusses with officers about doing a prostitution decoy sting and not jeopardizing the officer's safety. A neighborhood resident complains of male prostitution; officers remove a snake from a woman's home.
+**Jacksonville, FL 8**
+
+- (3:27 PM John Sting Briefing) Sheriff's Office Vice Unit -- Sgt. John Britt discusses with officers about doing a prostitution decoy sting and not jeopardizing the officer's safety. A neighborhood resident complains of male prostitution; officers remove a snake from a woman's home.
 
 ## CP-1309
 
 Aired 2001-01-06.
 
-**Jacksonville, FL 9** (1:45 PM Drug Sting) Organized Crime Unit -- Sgt. Tony R. Davis says sometimes by doing this reverse stings they catch people wanted for different crimes. Officers search for missing marijuana; a man says his girlfriend's father damaged his belongings; a man denies assaulting a woman.
+**Jacksonville, FL 9**
+
+- (1:45 PM Drug Sting) Organized Crime Unit -- Sgt. Tony R. Davis says sometimes by doing this reverse stings they catch people wanted for different crimes. Officers search for missing marijuana; a man says his girlfriend's father damaged his belongings; a man denies assaulting a woman.
 
 ## CP-1310
 
 Aired 2001-01-13.
 
-**Jacksonville, FL 10** (6:04 PM Suspicious Vehicle) Zone 1 -- Officer Russell Johnson says they took a call of a woman shot on the corner and when they got their they never her because she was in trouble with the law before. She thought they wouldn't help her because of that and was surprised that they did, not realizing she was a victim and they haven't seen her since. They spot a car trying to avoid them and go after it. Police try to link a gun to a suspect; a man says his uncle stabbed him; a man says his daughter skipped school and smoked marijuana.
+**Jacksonville, FL 10**
+
+- (6:04 PM Suspicious Vehicle) Zone 1 -- Officer Russell Johnson says they took a call of a woman shot on the corner and when they got their they never her because she was in trouble with the law before. She thought they wouldn't help her because of that and was surprised that they did, not realizing she was a victim and they haven't seen her since. They spot a car trying to avoid them and go after it. Police try to link a gun to a suspect; a man says his uncle stabbed him; a man says his daughter skipped school and smoked marijuana.
 
 ## CP-1311
 
 Aired 2001-01-20.
 
-**Jacksonville: AMW Crossover Follow-Up** (10:09 PM Possible Murder Suspect) 911 Communications Center -- A man who works at a homeless shelter calls in that he saw one of the guys there on America's Most Wanted wanted on attempted murder and armed robbery charges. Zone 1 -- Sgt. Michelle Cook takes the call. Officer Johnson gets some unexpected cooperation from a suspect who admits he has a gun in his car, but when police search the vehicle, they also turn up crack cocaine. As members of the Organized Crime Unit serve a drug warrant inside an apartment, they discover signs of drug manufacturing and the remnants of crack cocaine.
+**Jacksonville: AMW Crossover Follow-Up**
+
+- (10:09 PM Possible Murder Suspect) 911 Communications Center -- A man who works at a homeless shelter calls in that he saw one of the guys there on America's Most Wanted wanted on attempted murder and armed robbery charges. Zone 1 -- Sgt. Michelle Cook takes the call. Officer Johnson gets some unexpected cooperation from a suspect who admits he has a gun in his car, but when police search the vehicle, they also turn up crack cocaine. As members of the Organized Crime Unit serve a drug warrant inside an apartment, they discover signs of drug manufacturing and the remnants of crack cocaine.
 
 ## CP-1312
 
@@ -13220,8 +13242,8 @@ Aired 2005-10-01.
 **Coast to Coast 82**
 
 - (Lee County FL -- 1:15 AM Car Pursuit) When officers respond to a home invasion robbery, they question the victims, who describe how an unknown suspect kicked in their front door and then demanded to see his wife.
-- Las Vegas, NV
-- Pierce County, WA
+- (Las Vegas, NV -- 11:01 PM Home Invasion Call) Officer Ryan Cook.
+- (Pierce County, WA -- 3:20 AM Officer Assistance Call) Deputy Frank Brown.
 
 ## CP-1802
 
@@ -13249,8 +13271,9 @@ Aired 2005-11-05.
 
 **Coast to Coast 85**
 
-- (Las Vegas, NV -- 1:06 AM Suspicious Activity) A suspect pulled over for a traffic violation has felony warrants and tries to flee.
-- Maricopa County AZ
+- (Las Vegas, NV -- 1:06 AM Suspicious Activity) Officer Ryan Cook. Female and male in a heated argument.
+- (Maricopa County, AZ -- 8:02 PM Traffic Stop) Deputy Jared Griffith. A suspect pulled over for a traffic violation has felony warrants and tries to flee.
+- (Las Vegas, NV -- 3:16 PM Fugitive Recovery Briefing) Sgt. Dan Flaherty.
 
 ## CP-1805
 
@@ -13277,9 +13300,9 @@ Aired 2005-09-17.
 
 **Coast to Coast 88**
 
-- (Gwinnett County GA -- 6:05 PM Domestic Disturbance Call) Officers respond to a domestic disturbance call from a motel and find a woman irate with her boyfriend, whom she found in a truck with another woman.
-- Las Vegas, NV
-- Maricopa County AZ
+- (Gwinnett County, GA -- 6:05 PM Domestic Disturbance Call) Officers respond to a domestic disturbance call from a motel and find a woman irate with her boyfriend, whom she found in a truck with another woman.
+- (Las Vegas, NV -- 8:17 PM Man With A Knife Call) Officer Jeff Harper.
+- (Maricopa County, AZ -- 12:19 AM Unknown Trouble Call) Deputy David Jones.
 
 ## CP-1808
 
@@ -13302,9 +13325,9 @@ Aired 2005-09-24.
 
 **Coast to Coast 90**
 
-- (Las Vegas, NV -- 9:20 PM Disturbance Call) Police are dispatched to a fast-food restaurant where a disturbed man has reportedly threatened a customer.
-- Lee County FL
-- Las Vegas, NV
+- (Las Vegas, NV -- 9:20 PM Disturbance Call) Officer Ryan Cook. Police are dispatched to a fast-food restaurant where a disturbed man has reportedly threatened a customer.
+- (Lee County, FL -- 11:31 PM Traffic Stop) Deputy Robert Elwell.
+- (Las Vegas, NV -- 3:51 PM Traffic Stop) Officer Christopher Curtis.
 
 ## CP-1810
 
@@ -15476,6 +15499,14 @@ TODO
 2011–2012.
 
 TODO
+
+## S24E03
+
+**Smooth Criminal**
+
+- (Boynton Beach, FL -- 12:37 AM Murder For Hire Investigation) Sgt. Frank
+  Ranzie, Detective Alex Moreno, Sgt. Paul Sheridan. This is the famous
+  single-segment Dalia Dippolito episode.
 
 # Season 25
 
