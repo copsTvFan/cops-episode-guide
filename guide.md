@@ -3060,8 +3060,17 @@ Aired 1990-05-05.
 
 1990-1991.
 
-**Minneapolis, MN/Alaska/Las Vegas, NV/New Jersey/Pittsburgh, PA/Tampa,
-FL/Tucson, AZ/ Riverside County CA/Houston, TX/London, England/Best of 1&2**
+- Minneapolis, MN
+- Alaska
+- Las Vegas, NV
+- New Jersey
+- Pittsburgh, PA
+- Tampa, FL
+- Tucson, AZ
+- Riverside County, CA
+- Houston, TX
+- London, England
+- Best of 1&2
 
 ## CP-301
 
@@ -5389,8 +5398,15 @@ Aired 1991-07-06.
 
 1991-1992.
 
-**Kansas City MO&KS/King County WA/Pittsburgh, PA/U.S. Marshals/Boston,
-MA/Memphis, TN/Miami, FL/South Florida/Pierce County WA**
+- Kansas City MO&KS
+- King County WA
+- Pittsburgh, PA
+- U.S. Marshals
+- Boston, MA
+- Memphis, TN
+- Miami, FL
+- South Florida
+- Pierce County, WA
 
 ## CP-401
 
@@ -6867,8 +6883,14 @@ Aired 1993-05-29.
 
 1993-1994.
 
-**Sacramento, CA/Nashville, TN/El Paso, TX/Cleveland, OH/New York
-City/Little Rock, AR/Indianapolis, IN/Hong Kong**
+- Sacramento, CA
+- Nashville, TN
+- El Paso, TX
+- Cleveland, OH
+- New York City
+- Little Rock, AR
+- Indianapolis, IN
+- Hong Kong
 
 ## CP-601
 
@@ -7117,10 +7139,9 @@ Aired 1993-12-18.
 
 **Cleveland, OH 5**
 
-- (7:29 PM Fight Call) Women with baseball bats fighting at gas station
-- Drunk guy at police station
-- Domestic with fat black guy and a tech-9
-- Domestic with old couple in a country trailer.
+- (7:29 PM Fight Call) Officer Frank Thompson, Officer Alvin Gulley, Sgt. Brian Hefferman. Women with baseball bats fighting at gas station. (9:44 PM) Drunk guy at police station.
+- (1:16 AM Domestic Disturbance) Officer Tim Brown and Officer Jim Luby. Domestic with fat black guy screaming "Rochelle" and a tech-9.
+- (4:26 PM Domestic Violence) Officer George Seroka and Officer Mark Tescar. Domestic with old couple in a country trailer.
 
 ## CP-634
 
@@ -7226,7 +7247,11 @@ Aired 1994-06-18.
 
 1994-1995.
 
-**Los Angeles, CA/Las Vegas, NV/Kansas City, MO/New York City/Best of**
+- Los Angeles, CA
+- Las Vegas, NV
+- Kansas City, MO
+- New York City
+- Best of
 
 ## CP-701
 
@@ -7986,8 +8011,13 @@ Aired 1996-02-09.
 
 1996-1997.
 
-**Miami, FL/Boston & New City, MA/Providence, RI/Miami, FL/Pierce County
-WA/Fresno, CA/Fort Myers, FL**
+- Miami, FL
+- Boston & New City, MA
+- Providence, RI
+- Miami, FL
+- Pierce County, WA
+- Fresno, CA
+- Fort Myers, FL
 
 ## CP-901
 
@@ -8278,7 +8308,11 @@ Aired 1997-07-12.
 
 1997-1998.
 
-**Las Vegas, NV/Kansas City, MO & KS/Nashville, TN/Texas/Sturgis Biker Rally 1997**
+- Las Vegas, NV
+- Kansas City, MO & KS
+- Nashville, TN
+- Texas
+- Sturgis Biker Rally 1997
 
 ## CP-1001
 
@@ -8670,7 +8704,10 @@ Aired 1998-02-07.
 
 1998-1999.
 
-**Atlanta, GA/Virginia Beach, VA/Palm Beach, FL/Arizona**
+- Atlanta, GA
+- Virginia Beach, VA
+- Palm Beach, FL
+- Arizona
 
 ## CP-1101
 
@@ -9666,7 +9703,7 @@ Aired 2000-07-29.
 2000-2001.
 
 - Jacksonville, FL
-- Pierce County WA
+- Pierce County, WA
 - New Jersey
 - Mesa, AZ
 - Best of
@@ -9741,19 +9778,31 @@ Aired 2001-01-20.
 
 Aired 2001-01-27.
 
-**Pierce County WA 21** (11:33 PM Traffic Stop) Deputy Joe Kolp says they have less officers than most large cities. His partner is Deputy Karin Lofing-Newman who lied to her dad once and got caught. No one is perfect and cops are no different. A guy is speeding, acting suspicious and pulls over slowly. Then he speeds off. The passenger tosses something near Charlie's Car Spot on the 145 block, then crashes near a TexaCounty Joe yanks the driver out, they fight and he's pulled down and cuffed. Lot of backup and a K-9 arrive. One of the suspects has handcuffs. Deputy Les Bunton finds a large knife, lots of beer and a bunch of CD players. The driver has 5 warrants. Deputy Mark Gosling found the gun he tossed. K-9 Deputy John Munson was right behind them. Lakewood PD -- Deputy Dan Wulick is on the way to a treat call and he's been there before. (1:03 AM Traffic Stop) He spots car with a broken windshield and pulls the woman over. The male passenger Ryan and her 5 year old daughter are in the back. She has no license, the passenger has no ID and just got out of jail on the 29th for heroin. He uses his booking sheet as ID where he has a beard which he has since shaved off. He has warrants, but says he didn't know. The kid cries and Deputy Dave Butts back him up. The woman says she has no drugs they know of. The car has a layer of garbage on the floor and in it they find a meth kit belonging to her husband. He just bought it today, but won't say where. The kid wants to know why. Lakewood PD -- Deputy Joe Kolp says there are lots of mom and pop ships for soldiers in the area. (10:42 PM Domestic Disturbance Call) When he arrives a window is broken out, the woman says he called her a liar, drove 50 miles in his truck, he denied it and punched her, kicked her stuff and ran out. K-9 Deputy Greg Premo is brought in to look for him and they go down the train tracks north on the 4400 block, down in the woods and find him there. He's cuffed, has a $200 warrant and a police scanner. Deputy John Delgado frisks him.
+**Pierce County WA 21**
+
+- (11:33 PM Traffic Stop) Deputy Joe Kolp says they have less officers than most large cities. His partner is Deputy Karin Lofing-Newman who lied to her dad once and got caught. No one is perfect and cops are no different. A guy is speeding, acting suspicious and pulls over slowly. Then he speeds off. The passenger tosses something near Charlie's Car Spot on the 145 block, then crashes near a TexaCounty Joe yanks the driver out, they fight and he's pulled down and cuffed. Lot of backup and a K-9 arrive. One of the suspects has handcuffs. Deputy Les Bunton finds a large knife, lots of beer and a bunch of CD players. The driver has 5 warrants. Deputy Mark Gosling found the gun he tossed. K-9 Deputy John Munson was right behind them.
+- Lakewood PD -- Deputy Dan Wulick is on the way to a treat call and he's been there before. (1:03 AM Traffic Stop) He spots car with a broken windshield and pulls the woman over. The male passenger Ryan and her 5 year old daughter are in the back. She has no license, the passenger has no ID and just got out of jail on the 29th for heroin. He uses his booking sheet as ID where he has a beard which he has since shaved off. He has warrants, but says he didn't know. The kid cries and Deputy Dave Butts back him up. The woman says she has no drugs they know of. The car has a layer of garbage on the floor and in it they find a meth kit belonging to her husband. He just bought it today, but won't say where. The kid wants to know why.
+- Lakewood PD -- Deputy Joe Kolp says there are lots of mom and pop ships for soldiers in the area. (10:42 PM Domestic Disturbance Call) When he arrives a window is broken out, the woman says he called her a liar, drove 50 miles in his truck, he denied it and punched her, kicked her stuff and ran out. K-9 Deputy Greg Premo is brought in to look for him and they go down the train tracks north on the 4400 block, down in the woods and find him there. He's cuffed, has a $200 warrant and a police scanner. Deputy John Delgado frisks him.
 
 ## CP-1313
 
 Aired 2000-11-04.
 
-**Pierce County WA 22** (3:02 AM Traffic Stop) South Hill Precinct -- Deputy Erik Clarkson spots a green El Camino making fast turns without signaling and running a stop sign at 106th. He refuses to stop and sticks a gun out the window and Erik shoots back at him. He drives recklessly, shoots again, runs more lights and stop sign, then holds the gun to his head. He tosses the gun out the window, plays chicken and Erik hits hit on a turn, rams him, then his car died. Deputy Jerry Tiffany joins the pursuit through a trailer park with 8-9 other cops. The car hits a fence, he bails out and tells everyone to stay inside their trailers. A K-9 is brought in and goes through the woods. He keeps screaming and asked why he tossed the gun. The car was stolen and he's been pulled over before. Lakewood PD -- Deputy Dan Wulick likes to stop in a convenience store to see Radar. He asks him if he has any new tricks and he shows him one with 2 clown noses and that there's been no problems lately. (11:21 PM Noise Complaint) He goes to a juvenile's party, but spots a fire on the way. People are trying to put out this huge fire with small fire extinguishers. He tries to get them to stop, then tries to clear out all the apartments, but people keep running back inside to grab stuff. One man thinks his daughter is still inside, but turns out she isn't. A woman runs back inside looking for her cat. She leaves and goes back in. Firefighters arriver and Officer John Giron from Dupont says the woman ran back inside again. Dan goes in the smoke filled apartment, grabs the car and throws him out, but gets a bad scratch in the process and bleeds down his hand. Lakewood PD -- Deputy Joe Kolp likes hockey, plays all the time, works out, goes to movies, anything to get away from work. (2:23 AM Fight in Progress) Someone was hit by a 1989 Dodge Caravan. Deputy Monti Minion asks the victim for a description of the van and the driver. The man came barreling through a yard, the victim came out and told him to stop. The guy says to get his dog away, backed up and hit him, his fence and his furniture which are destroyed. Deputy Karin Lofling finds the van's license plate in the rubble -- 218 -- ? The catch the driver and go to ID him. Deputy Heath Page reads Anthony his rights. Deputy Les Bunton backs them up. Anthony is a loud mouth wise ass who doesn't understand his rights. The victims ID him and he doesn't know why he's being arrested, says to prove it since they are wrong. He admits he was there, but wasn't driving.
+**Pierce County WA 22**
+
+- (3:02 AM Traffic Stop) South Hill Precinct -- Deputy Erik Clarkson spots a green El Camino making fast turns without signaling and running a stop sign at 106th. He refuses to stop and sticks a gun out the window and Erik shoots back at him. He drives recklessly, shoots again, runs more lights and stop sign, then holds the gun to his head. He tosses the gun out the window, plays chicken and Erik hits hit on a turn, rams him, then his car died. Deputy Jerry Tiffany joins the pursuit through a trailer park with 8-9 other cops. The car hits a fence, he bails out and tells everyone to stay inside their trailers. A K-9 is brought in and goes through the woods. He keeps screaming and asked why he tossed the gun. The car was stolen and he's been pulled over before.
+- Lakewood PD -- Deputy Dan Wulick likes to stop in a convenience store to see Radar. He asks him if he has any new tricks and he shows him one with 2 clown noses and that there's been no problems lately. (11:21 PM Noise Complaint) He goes to a juvenile's party, but spots a fire on the way. People are trying to put out this huge fire with small fire extinguishers. He tries to get them to stop, then tries to clear out all the apartments, but people keep running back inside to grab stuff. One man thinks his daughter is still inside, but turns out she isn't. A woman runs back inside looking for her cat. She leaves and goes back in. Firefighters arriver and Officer John Giron from Dupont says the woman ran back inside again. Dan goes in the smoke filled apartment, grabs the car and throws him out, but gets a bad scratch in the process and bleeds down his hand.
+- Lakewood PD -- Deputy Joe Kolp likes hockey, plays all the time, works out, goes to movies, anything to get away from work. (2:23 AM Fight in Progress) Someone was hit by a 1989 Dodge Caravan. Deputy Monti Minion asks the victim for a description of the van and the driver. The man came barreling through a yard, the victim came out and told him to stop. The guy says to get his dog away, backed up and hit him, his fence and his furniture which are destroyed. Deputy Karin Lofling finds the van's license plate in the rubble -- 218 -- ? The catch the driver and go to ID him. Deputy Heath Page reads Anthony his rights. Deputy Les Bunton backs them up. Anthony is a loud mouth wise ass who doesn't understand his rights. The victims ID him and he doesn't know why he's being arrested, says to prove it since they are wrong. He admits he was there, but wasn't driving.
 
 ## CP-1314
 
 Aired 2000-11-11.
 
-**Pierce County WA 23** (3:21 AM Vehicle Pursuit) South Hill Precinct -- Deputy Eric Carlson spots a white Chevy truck with two occupants on the hot sheet. He chases the stolen vehicle which takes out a telephone pole, goes east on 52nd, north on I, crosses 51st, goes on a lawn, north on Portland. He gets a flat, starts smoking, drives on the rim at 25 mph and sparks fly. They throw a paper bag out the window on an overpass and get off at the rest area A exit, gets boxed in and the woman passenger is cuffed, then the male driver. Eric was going to PIT him. Deputy Jerry Tiffany says they caught him last week stealing a car at a Chevron. She says he wouldn't stop and didn't know why. He wanted to jump out, but hit a tree, fence and a pole. He has a warrant and there was meth in the bag they threw out. Lakewood (11:05 PM Disturbance Call) Deputy Russ Martin goes to an apartment. Anna answers the door and says there's nothing going on. Alice wanted pork chops and she wanted cheeseburgers, so they fought. Anna's hand and face are bloody, but she says she ran into the bathroom wall, Alice stole $1000 from her and if Anna leaves she'll kill her outside. They go inside and talk to Alice and she says she didn't hit her or take the money. Alice then goes and gets the money, which she says is in her purse. Deputy Bill Pebley asks what's going to happen when they leave. Anna says she'll bury her and wants the cops to call her a cab so she doesn't run into another wall though there isn't any blood on the wall now. Deputy Eric Carlson says his wife does a great job running the house to allow him to work graveyard, which he loves. (10:34 PM Traffic Stop) He spots a speeding white truck that might be stolen. When he catches up to the truck it is abandoned. Witnesses saw a short, stubby white guy in a t-shirt running through a yard. K-9 Deputy Greg Premo and Max are brought in. The woman at 1407 says he tried to get into her house. He took the keys to the truck and ran out of his shoes. The K-9 tracks him 2 blocks away by a chain link fence. He is an older guy and says he wasn't running, just sleeping in the weeds. He is covered in sweat, has no shoes and says he left them at the bar. His name is Dave, but he has no ID and was lying there 2 hours. He is asked if he knows what obstruction is. He admits he has 2 DWI's. An old black guy comes over to ID him. He wears a size 9 shoe and the sandals they found fit him perfectly. Eric wears a size 12 and says to Dave “liar, liar pants on fire.”
+**Pierce County WA 23**
+
+- (3:21 AM Vehicle Pursuit) South Hill Precinct -- Deputy Eric Carlson spots a white Chevy truck with two occupants on the hot sheet. He chases the stolen vehicle which takes out a telephone pole, goes east on 52nd, north on I, crosses 51st, goes on a lawn, north on Portland. He gets a flat, starts smoking, drives on the rim at 25 mph and sparks fly. They throw a paper bag out the window on an overpass and get off at the rest area A exit, gets boxed in and the woman passenger is cuffed, then the male driver. Eric was going to PIT him. Deputy Jerry Tiffany says they caught him last week stealing a car at a Chevron. She says he wouldn't stop and didn't know why. He wanted to jump out, but hit a tree, fence and a pole. He has a warrant and there was meth in the bag they threw out.
+- Lakewood (11:05 PM Disturbance Call) Deputy Russ Martin goes to an apartment. Anna answers the door and says there's nothing going on. Alice wanted pork chops and she wanted cheeseburgers, so they fought. Anna's hand and face are bloody, but she says she ran into the bathroom wall, Alice stole $1000 from her and if Anna leaves she'll kill her outside. They go inside and talk to Alice and she says she didn't hit her or take the money. Alice then goes and gets the money, which she says is in her purse. Deputy Bill Pebley asks what's going to happen when they leave. Anna says she'll bury her and wants the cops to call her a cab so she doesn't run into another wall though there isn't any blood on the wall now.
+- Deputy Eric Carlson says his wife does a great job running the house to allow him to work graveyard, which he loves. (10:34 PM Traffic Stop) He spots a speeding white truck that might be stolen. When he catches up to the truck it is abandoned. Witnesses saw a short, stubby white guy in a t-shirt running through a yard. K-9 Deputy Greg Premo and Max are brought in. The woman at 1407 says he tried to get into her house. He took the keys to the truck and ran out of his shoes. The K-9 tracks him 2 blocks away by a chain link fence. He is an older guy and says he wasn't running, just sleeping in the weeds. He is covered in sweat, has no shoes and says he left them at the bar. His name is Dave, but he has no ID and was lying there 2 hours. He is asked if he knows what obstruction is. He admits he has 2 DWI's. An old black guy comes over to ID him. He wears a size 9 shoe and the sandals they found fit him perfectly. Eric wears a size 12 and says to Dave “liar, liar pants on fire.”
 
 ## CP-1315
 
@@ -9948,7 +9997,15 @@ Aired 2001-05-??.
 
 2001-2002.
 
-**West Palm Beach, FL/Atlanta, GA/Des Moines, IA/Chattanooga, TN/Fort Worth, TX/Palm Beach County FL/Tampa, FL/San Bernardino, CA/Best of**
+- West Palm Beach, FL
+- Atlanta, GA
+- Des Moines, IA
+- Chattanooga, TN
+- Fort Worth, TX
+- Palm Beach County, FL
+- Tampa, FL
+- San Bernardino, CA
+- Best of
 
 ## CP-1401
 
@@ -10316,13 +10373,21 @@ Aired 2003-03-22.
 
 Aired 2003-02-15.
 
-**Domestic Disturbance Special Edition** (Pierce County WA -- 9:25 PM Domestic Disturbance Call) Lakewood -- Deputy John Delgado says he likes the job because it is different every night. He thinks people have the right not to be harassed, doesn't like people being afraid to sleep at night and he gets to be the big brother to help everyone. His partner is Deputy Kory Shaffer and they go to the call of a man who hit his girlfriend and he thinks they can't come in without a search warrant. Sgt. John Stonack tells them they can come in. The woman sticks her head out a window and says she's fine and the independent witness overreacted. John says they need to see them face to face and are determined to do that. She says they just argued, didn't hit each other and she won't open the door unless they guarantee no one will go to jail. John says he can't to that, so she won't open it. It's Wednesday, so they don't have anywhere to go. An officer goes back to the station for a battering ram and returns and they break the door in. The place is a disaster with food and junk all over the floor. Both are cuffed and arrested and the girl keeps saying nothing was wrong and there was no reason for them to come in. John explains they are obligated by law to investigate and if they left and she got hurt later it would be the police's fault. The guy says they went to the lake and came back home, then had to go back because she forgot her pants with her money inside after she flipped out. She started hitting him and he kicked her. He read somewhere he didn't have to open the door for the police. He's moving to San Diego after he gets out. (Mesa, AZ -- 10:08 PM Disturbance Call) Dobson Division -- F.T.O. Gina Nesbit goes to a house where a fight occurred. Tiffany is there with blood dripping down her face. Mike wanted her to leave and they are married, but separated. Her mouth is bloody and she spit the blood in her husband's face and bit his ear. Officer Kevin Mattocks talks to him. Tiffany claims she bit his ear during sex as she was enjoying him. He knocked a tooth out of her mouth, but he claims he didn't touch her and that her face hit the door. Mike's knuckles are bloody where he hit her though. The manager of the apartment comes over and says Tiffany is the trouble. She finds her tooth and wants them to put it back in. Cops find a pot pipe in Mike's pocket. (Riverside County CA -- 1:15 AM Domestic Dispute Call) Jurupa Valley Station -- Deputy Jason Horton says he was at this house at 6AM for a fight and now he is returning. The older man Jim can barely speak and says his ex, Navida, came after him with a metal pipe. He says she caused a compound fracture in his ribcage while he was sleeping. He has a calcium deficiency and had 5 cartilage operations. Navida calls while they are there and Jason asks her to come over. He was supposed to get a restraining order against her but didn't. She is at a payphone around the corner and they go get her. Navida claims she didn't have a pipe over there, she just found it now at a gas station. Then how did her husband know she had it? He cuffs her, searches her and uncuffs her. She didn't use drugs before today and wants to make up with Jim, but he doesn't want her. Jason tells her to clean up and get walking.
+**Domestic Disturbance Special Edition**
+
+- (Pierce County WA -- 9:25 PM Domestic Disturbance Call) Lakewood -- Deputy John Delgado says he likes the job because it is different every night. He thinks people have the right not to be harassed, doesn't like people being afraid to sleep at night and he gets to be the big brother to help everyone. His partner is Deputy Kory Shaffer and they go to the call of a man who hit his girlfriend and he thinks they can't come in without a search warrant. Sgt. John Stonack tells them they can come in. The woman sticks her head out a window and says she's fine and the independent witness overreacted. John says they need to see them face to face and are determined to do that. She says they just argued, didn't hit each other and she won't open the door unless they guarantee no one will go to jail. John says he can't to that, so she won't open it. It's Wednesday, so they don't have anywhere to go. An officer goes back to the station for a battering ram and returns and they break the door in. The place is a disaster with food and junk all over the floor. Both are cuffed and arrested and the girl keeps saying nothing was wrong and there was no reason for them to come in. John explains they are obligated by law to investigate and if they left and she got hurt later it would be the police's fault. The guy says they went to the lake and came back home, then had to go back because she forgot her pants with her money inside after she flipped out. She started hitting him and he kicked her. He read somewhere he didn't have to open the door for the police. He's moving to San Diego after he gets out.
+- (Mesa, AZ -- 10:08 PM Disturbance Call) Dobson Division -- F.T.O. Gina Nesbit goes to a house where a fight occurred. Tiffany is there with blood dripping down her face. Mike wanted her to leave and they are married, but separated. Her mouth is bloody and she spit the blood in her husband's face and bit his ear. Officer Kevin Mattocks talks to him. Tiffany claims she bit his ear during sex as she was enjoying him. He knocked a tooth out of her mouth, but he claims he didn't touch her and that her face hit the door. Mike's knuckles are bloody where he hit her though. The manager of the apartment comes over and says Tiffany is the trouble. She finds her tooth and wants them to put it back in. Cops find a pot pipe in Mike's pocket.
+- (Riverside County CA -- 1:15 AM Domestic Dispute Call) Jurupa Valley Station -- Deputy Jason Horton says he was at this house at 6AM for a fight and now he is returning. The older man Jim can barely speak and says his ex, Navida, came after him with a metal pipe. He says she caused a compound fracture in his ribcage while he was sleeping. He has a calcium deficiency and had 5 cartilage operations. Navida calls while they are there and Jason asks her to come over. He was supposed to get a restraining order against her but didn't. She is at a payphone around the corner and they go get her. Navida claims she didn't have a pipe over there, she just found it now at a gas station. Then how did her husband know she had it? He cuffs her, searches her and uncuffs her. She didn't use drugs before today and wants to make up with Jim, but he doesn't want her. Jason tells her to clean up and get walking.
 
 ## CP-1516
 
 Aired 2003-04-12.
 
-**Coast to Coast 36** (Albuquerque, NM -- 10:35 PM Fight in Progress) Southeast Area Command -- Officer Paul Duran responds to a call of the sexual assault of a 14-year-old girl; a motorcyclist boasts he has ducked 27 traffic tickets; a deputy serves a warrant to a hotel guest. Pierce County WA/Forsyth County NC
+**Coast to Coast 36**
+
+- (Albuquerque, NM -- 10:35 PM Fight in Progress) Southeast Area Command -- Officer Paul Duran responds to a call of the sexual assault of a 14-year-old girl
+- Pierce County WA -- a motorcyclist boasts he has ducked 27 traffic tickets
+- Forsyth County NC -- a deputy serves a warrant to a hotel guest.
 
 ## CP-1517
 
@@ -10564,12 +10629,12 @@ Aired 2003-02-01.
 
 2003-2004.
 
-- Forsyth County NC
+- Forsyth County, NC
 - Indio, CA
 - Mardi Gras 2003
 - New Orleans, LA
 - New York City, NY
-- Palm Beach County FL
+- Palm Beach County, FL
 - Palm Springs, CA
 - Passaic, NJ
 - Pierce County WA
@@ -12982,9 +13047,12 @@ Aired 2006-03-04.
 
 **Coast to Coast 93**
 
-- (Santa Ana, CA -- 11:09 PM Street Patrol) Officer goes to a gun range to qualify. Officers encounter a young male in a bad neighborhood and upon searching his person they find a cocked gun and bullets.
-- Gwinnett County GA
-- Las Vegas, NV
+- (Santa Ana, CA -- 11:09 PM Street Patrol) Sgt. Ken Witt goes to a gun range
+  to qualify. Rangemaster Dan Dolan is giving instructions. Officers encounter
+  a young male in a bad neighborhood and upon searching his person they find a
+  cocked gun and bullets.
+- (Gwinnett County, GA -- 10:27 PM Street Patrol) Officer Roger Bell
+- (Las Vegas, NV -- 5:39 PM Suspicious Activity) Officer Ryan Cook.
 
 ## CP-1813
 
@@ -13000,7 +13068,9 @@ Aired 2006-02-11.
 
 **Las Vegas Heat 3 Special Edition**
 
-- (1:02 AM Suspicious Activity) While on routine patrol, officers observe a female pedestrian allowing a male stranger to kiss and fondle her in public.
+- (Las Vegas, NV -- 1:02 AM Suspicious Activity) While on routine patrol, officer Peter Connell observe a female pedestrian allowing a male stranger to kiss and fondle her in public.
+- (Las Vegas, NV -- 10:51 PM Suspicious Activity) Officer Ryan Cook stops a car with a couple.
+- (Las Vegas, NV -- 911 Communications Center, 6:49 PM Homicide Investigation) Detective Dean O'Kelley, Detective Rob Wilson, Sgt. Rocky Alba.
 
 ## CP-1815
 
@@ -13221,9 +13291,18 @@ Aired 2006-07-22.
 
 2006-2007.
 
-**Atlanta, GA/Brevard County FL/Chattanooga, TN/Fontana, CA/Las Vegas,
-NV/Lowell, MA/Martin County FL/Okaloosa County FL/Palm Beach County
-FL/Palm Springs, CA/Riverside County CA/Wichita, KS**
+- Atlanta, GA
+- Brevard County, FL
+- Chattanooga, TN
+- Fontana, CA
+- Las Vegas, NV
+- Lowell, MA
+- Martin County, FL
+- Okaloosa County, FL
+- Palm Beach County, FL
+- Palm Springs, CA
+- Riverside County, CA
+- Wichita, KS
 
 ## CP-1901
 
@@ -13231,104 +13310,183 @@ Aired 2006-09-09.
 
 **Coast to Coast 109**
 
-- (Palm Beach County FL -- 9:35 PM Traffic Stop) Sheriff's Office District 4 -- A stop turns into a footrace through Palm Beach County, Fla.
-- officers pull a bicyclist over. Palm Springs, CA/Chattanooga, TN
+- (Palm Beach County FL -- 9:35 PM Traffic Stop) Sheriff's Office District 4 -- A stop turns into a footrace through Palm Beach County, Fla. officers pull a bicyclist over.
+- Palm Springs, CA
+- Chattanooga, TN
 
 ## CP-1902
 
 Aired 2006-09-16.
 
-**Coast to Coast 110** (Palm Beach County FL -- 12:38 AM Domestic Violence Call) Sheriff's Dept Jurupa Valley Station -- Domestic violence in Palm Springs, Calif.; possession of meth. Chattanooga, TN/Palm Springs, CA
+**Coast to Coast 110**
+
+- (Palm Beach County FL -- 12:38 AM Domestic Violence Call) Sheriff's Dept Jurupa Valley Station -- Domestic violence in Palm Springs, Calif.; possession of meth.
+- Chattanooga, TN
+- Palm Springs, CA
 
 ## CP-1903
 
 Aired 2006-09-23.
 
-**Coast to Coast 111** (Palm Beach County FL -- 12:03 AM Disturbance Call) Cameras capture the consequences when suspects resist arrest. Palm Springs, CA/Pittsburgh, PA
+**Coast to Coast 111**
+
+- (Palm Beach County FL -- 12:03 AM Disturbance Call) Cameras capture the consequences when suspects resist arrest.
+- Palm Springs, CA
+- Pittsburgh, PA
 
 ## CP-1904
 
 Aired 2006-09-09.
 
-**Coast to Coast 112** (Riverside County CA -- 4:49 PM Traffic Stop) A routine traffic-stop turns into a major accident involving a bicyclist and another motorist; an embarrassing domestic-violence call. Palm Beach County FL/Martin County FL
+**Coast to Coast 112**
+
+- (Riverside County, CA -- 4:49 PM Traffic Stop) A routine traffic-stop turns into a major accident involving a bicyclist and another motorist; an embarrassing domestic-violence call.
+- Palm Beach County, FL
+- Martin County, FL
 
 ## CP-1905
 
 Aired 2006-11-11.
 
-**Florida Heat 1 Special Edition** (Brevard County FL -- 3:09 AM Suspicious Activity) A Florida officer pursues a vehicle with three suspects inside, then the situation takes a turn for the worse when the suspects flee on foot. West Palm Beach/Palm Beach County
+**Florida Heat 1 Special Edition**
+
+- (Brevard County FL -- 3:09 AM Suspicious Activity) A Florida officer pursues a vehicle with three suspects inside, then the situation takes a turn for the worse when the suspects flee on foot.
+- West Palm Beach, FL
+- Palm Beach County, FL
 
 ## CP-1906
 
 Aired 2006-11-04.
 
-**Drug Arrests 2 Special Edition** (Palm Springs, CA -- 1:41 PM Suspicious Activity) An officer tries to stop a suspicious man, who is riding a bicycle erratically; in Atlanta, police spot two men in a drug transaction. Atlanta, GA/Okaloosa County FL
+**Drug Arrests 2 Special Edition**
+
+- (Palm Springs, CA -- 1:41 PM Suspicious Activity) An officer tries to stop a suspicious man, who is riding a bicycle erratically; in Atlanta, police spot two men in a drug transaction.
+- Atlanta, GA
+- Okaloosa County, FL
 
 ## CP-1907
 
 Aired 2006-09-30.
 
-**Coast to Coast 113** (Riverside County CA -- 10:30 PM Street Patrol) Officers pursue a suspect who appears to be on drugs; a man demands that police arrest his intoxicated daughter. Palm Beach County FL
+**Coast to Coast 113**
+
+- (Riverside County, CA -- 10:30 PM Street Patrol) Deputy Howard Hibbler pursues a suspect who appears to be on drugs. Deputy Mike Portillo.
+- (Palm Beach County, FL -- 7:51 PM Domestic Disturbance Call) Deputy Iris Reyes responds to a call where a man demands that police arrest his intoxicated daughter.
+- (Riverside County, CA -- 10:35 PM Suspicious Activity) Deputy Mike Portillo.
 
 ## CP-1908
 
 Aired 2006-11-18.
 
-**Police Chases Special Edition** (Brevard County FL -- 4:36 PM Possible Stolen Vehicle) A suspect ditches a stolen vehicle, forcing officers to chase him on foot; several police units take part in a high-speed chase in California. Spokane, WA/Palm Springs, CA
+**Police Chases Special Edition**
+
+- (Brevard County FL -- 4:36 PM Possible Stolen Vehicle) A suspect ditches a stolen vehicle, forcing officers to chase him on foot; several police units take part in a high-speed chase in California.
+- Spokane, WA
+- Palm Springs, CA
 
 ## CP-1909
 
 Aired 2007-02-03.
 
-**Florida Heat 2 Special Edition** (Brevard County -- 10:21 PM Suspicious Activity) Sheriff's Office -- Deputy Jim Haman pulls over driver for a traffic violation. As he issues the man a traffic citation, he notices that the man appears to be concealing a crack rock in his mouth. The desperate driver is arrested and admonished by the deputy after a brief struggle to extract the cocaine. The deputy tells the man that he could have killed himself had he swallowed the drugs and that he should examine his lifestyle. Palm Beach County FL Sheriff's Office -- Deputy Dan Frend investigates a suspicious vehicle he spotted in an area known for drug activity. The driver, who has a long history of drug related crimes, is arrested when an officer finds 30 crack rocks in his vehicle. Palm Beach County -- Sheriff's Office -- Deputy James Evans pulls over a vehicle he spotted driving erratically in traffic. Deputy Evans questions the nervous female driver who claims that she has no driver license or any form of identification. During the course of the investigation, the woman admits that she gave the officer her sister's information. She's arrested for giving a false name and driving under suspension.
+**Florida Heat 2 Special Edition**
+
+- (Brevard County -- 10:21 PM Suspicious Activity) Sheriff's Office -- Deputy
+  Jim Haman pulls over driver for a traffic violation. As he issues the man a
+  traffic citation, he notices that the man appears to be concealing a crack
+  rock in his mouth. The desperate driver is arrested and admonished by the
+  deputy after a brief struggle to extract the cocaine. The deputy tells the
+  man that he could have killed himself had he swallowed the drugs and that he
+  should examine his lifestyle.
+- Palm Beach County, FL, Sheriff's Office -- Deputy Dan Frend investigates a
+  suspicious vehicle he spotted in an area known for drug activity. The driver,
+  who has a long history of drug related crimes, is arrested when an officer
+  finds 30 crack rocks in his vehicle.
+- Palm Beach County -- Sheriff's Office -- Deputy James Evans pulls over a
+  vehicle he spotted driving erratically in traffic. Deputy Evans questions the
+  nervous female driver who claims that she has no driver license or any form
+  of identification. During the course of the investigation, the woman admits
+  that she gave the officer her sister's information. She's arrested for giving
+  a false name and driving under suspension.
 
 ## CP-1910
 
 Aired 2007-04-28.
 
-**Police Pullovers 1 Special Edition** (Fontana, CA -- 12:35 AM Vehicle Pursuit) Officer Brian Binks says has an uncle who is a cop there for 18 years. Officer confronts a suspect after a high-speed chase. Brevard County FL -- driver attempts to eat pot after being stopped. Palm Springs, CA
+**Police Pullovers 1 Special Edition**
+
+- (Fontana, CA -- 12:35 AM Vehicle Pursuit) Officer Brian Binks says has an uncle who is a cop there for 18 years. Officer confronts a suspect after a high-speed chase.
+- Brevard County FL -- driver attempts to eat pot after being stopped.
+- Palm Springs, CA
 
 ## CP-1911
 
 Aired 2006-12-02.
 
-**Coast to Coast 114** (Brevard County FL -- 1:46 AM Assistance Call) sheriffs pursue a suspect who is hiding in a pond, and a Palm Beach County sheriff questions an agitated customer at a restaurant. Palm Beach County FL/Palm Springs, CA
+**Coast to Coast 114**
+
+- (Brevard County, FL -- 1:46 AM Assistance Call) sheriffs pursue a suspect who is hiding in a pond, and a Palm Beach County sheriff questions an agitated customer at a restaurant.
+- Palm Beach County, FL
+- Palm Springs, CA
 
 ## CP-1912
 
 Aired 2007-05-19.
 
-**High Crimes 2 Special Edition** (Cincinnati, OH -- 12:01 AM Traffic Stop) District 4 -- Officer Todd Ploehs stops a car with a stolen plate. A Brevard County, FL sheriff questions two females in possession of drugs; a Palm Springs, CA officer sniffs out a drug deal at a motel.
+**High Crimes 2 Special Edition**
+
+- (Cincinnati, OH -- 12:01 AM Traffic Stop) District 4 -- Officer Todd Ploehs stops a car with a stolen plate.
+- A Brevard County, FL sheriff questions two females in possession of drugs
+- A Palm Springs, CA officer sniffs out a drug deal at a motel.
 
 ## CP-1913
 
 Aired 2006-12-09.
 
-**Coast to Coast 115** (Wichita, KS -- 7:01 PM Assistance Call) officers assist a bondsman attempting to enter a home; a suspect tries to swallow a bag of marijuana while in the custody of a sheriff in Brevard County FL/West Palm Beach, FL
+**Coast to Coast 115**
+
+- (Wichita, KS -- 7:01 PM Assistance Call) officers assist a bondsman attempting to enter a home
+- a suspect tries to swallow a bag of marijuana while in the custody of a sheriff in Brevard County FL
+- West Palm Beach, FL
 
 ## CP-1914
 
 Aired 2007-07-21.
 
-**Family Ties Special Edition** (Wichita, KS -- 3:50 AM Shots Fired Call) Patrol North -- Patrol North -- While in route to a shots fired call, Officer Bill Wagner pursues a suspicious vehicle he saw leaving the area at a very high rate of speed. The dangerous chase ends when the driver arrives at his home. Three males are removed from the vehicle at gunpoint and are taken into custody without incident. The trio will face charges including felony possession of crack cocaine along with evading and additional traffic infractions. Lowell, MA Police Department -- Officer Brian Kinney attempts to stop a motorcyclist for traffic violations. The suspect driving the bike flees from the scene and the officer gives chase. As the department is able to track the owner of the bike, the pursuit is terminated for safety reasons. The officer makes his way to the suspect's home and learns that several other officers have the man detained at the home. An officer tells Kinney that he witnessed the suspect roll up on the bike and drive it to the back of the house where it is still located. The female on the back of bike denies any knowledge of the event as does the owner/suspect. The man is arrested for evading and the bike is towed. The suspect tells officers he plans to sell the bike soon. Las Vegas, NV Metropolitan Police Department -- Officers Dean Hennesy and Bert Hughes respond to a domestic violence call involving an intoxicated man who reportedly hit and choked a female victim. At the scene, the officers take an infuriated male suspect into custody after his female acquaintance accuses him of physically assaulting her during an argument. When the suspect finally calms down he admits to the assault and cheerfully informs the officers that the female has two warrants. The officers verify the suspect's statement and eventually arrest the female for the outstanding warrants and the suspect for domestic battery.
+**Family Ties Special Edition**
+
+- (Wichita, KS -- 3:50 AM Shots Fired Call) Patrol North -- Patrol North -- While in route to a shots fired call, Officer Bill Wagner pursues a suspicious vehicle he saw leaving the area at a very high rate of speed. The dangerous chase ends when the driver arrives at his home. Three males are removed from the vehicle at gunpoint and are taken into custody without incident. The trio will face charges including felony possession of crack cocaine along with evading and additional traffic infractions.
+- Lowell, MA Police Department -- Officer Brian Kinney attempts to stop a motorcyclist for traffic violations. The suspect driving the bike flees from the scene and the officer gives chase. As the department is able to track the owner of the bike, the pursuit is terminated for safety reasons. The officer makes his way to the suspect's home and learns that several other officers have the man detained at the home. An officer tells Kinney that he witnessed the suspect roll up on the bike and drive it to the back of the house where it is still located. The female on the back of bike denies any knowledge of the event as does the owner/suspect. The man is arrested for evading and the bike is towed. The suspect tells officers he plans to sell the bike soon.
+- Las Vegas, NV Metropolitan Police Department -- Officers Dean Hennesy and Bert Hughes respond to a domestic violence call involving an intoxicated man who reportedly hit and choked a female victim. At the scene, the officers take an infuriated male suspect into custody after his female acquaintance accuses him of physically assaulting her during an argument. When the suspect finally calms down he admits to the assault and cheerfully informs the officers that the female has two warrants. The officers verify the suspect's statement and eventually arrest the female for the outstanding warrants and the suspect for domestic battery.
 
 ## CP-1915
 
 Aired 2006-12-23.
 
-**Coast to Coast 116** (Fontana, CA -- 12:02 AM Motorcycle Pursuit) a high-speed chase with a motorcyclist; a Brevard County, FL, sheriff detects marijuana use during a traffic stop. Hamilton County OH
+**Coast to Coast 116**
+
+- (Fontana, CA -- 12:02 AM Motorcycle Pursuit) a high-speed chase with a motorcyclist
+- a Brevard County, FL, sheriff detects marijuana use during a traffic stop.
+- Hamilton County OH
 
 ## CP-1916
 
 Aired 2007-02-24.
 
-**Liar Liar Special Edition** (Cincinnati, OH -- 2:41 AM Traffic Stop) Officer Donny Meece of the Police Department, attempts to pull over a vehicle he observed leaving an area known for drug activity. When the driver stops, the passenger jumps out of the vehicle and a foot pursuit ensues. The brief chase ends when the officer uses a tazer to restrain the suspect. During a routine investigation, Officer Meece retrieves a loaded handgun the suspect discarded during the pursuit. The suspect will face several weapons charges. The driver took off in the vehicle during the foot pursuit. He evaded arrest. Brevard County FL -- Deputy Jason West of the Sheriff's Office pulls over a vehicle occupied by a female driver and male passenger for playing loud music. During questioning the woman tells the officer that she never been arrested. Her clean record is quickly tarnished after the officer finds a large amount of pot in addition to prescription pills in the vehicle during a routine search. She's arrested and charged with felony possession of cannabis. Palm Springs, CA -- Officer Anthony Pilutik of the Police Department responds to a disturbance call in an active area of the city. The officer arrives at the scene, as a male individual is being questioned and searched by a fellow officer. Suspicious of his behavior, the officers decide to give the man a routine field sobriety test. When he fails the test, the officers search his bag and discover a large amount of methamphetamine and drug paraphernalia. The man is arrested for being under the influence of a controlled substance and will face undisclosed drug charges.
+**Liar Liar Special Edition**
+
+- (Cincinnati, OH -- 2:41 AM Traffic Stop) Officer Donny Meece of the Police Department, attempts to pull over a vehicle he observed leaving an area known for drug activity. When the driver stops, the passenger jumps out of the vehicle and a foot pursuit ensues. The brief chase ends when the officer uses a tazer to restrain the suspect. During a routine investigation, Officer Meece retrieves a loaded handgun the suspect discarded during the pursuit. The suspect will face several weapons charges. The driver took off in the vehicle during the foot pursuit. He evaded arrest.
+- Brevard County FL -- Deputy Jason West of the Sheriff's Office pulls over a vehicle occupied by a female driver and male passenger for playing loud music. During questioning the woman tells the officer that she never been arrested. Her clean record is quickly tarnished after the officer finds a large amount of pot in addition to prescription pills in the vehicle during a routine search. She's arrested and charged with felony possession of cannabis.
+- Palm Springs, CA -- Officer Anthony Pilutik of the Police Department responds to a disturbance call in an active area of the city. The officer arrives at the scene, as a male individual is being questioned and searched by a fellow officer. Suspicious of his behavior, the officers decide to give the man a routine field sobriety test. When he fails the test, the officers search his bag and discover a large amount of methamphetamine and drug paraphernalia. The man is arrested for being under the influence of a controlled substance and will face undisclosed drug charges.
 
 ## CP-1917
 
 Aired 2007-01-07.
 
-**Coast to Coast 117** (Wichita, KS -- 2:37 AM Assault Call) Patrol North -- Officer Tommy Nikkel engages in a high-speed pursuit, Brevard County FL (11:15 PM Possible Drug Activity) sheriffs think a suspect has hidden drugs in his body. Hamilton County OH
+**Coast to Coast 117**
+
+- (Wichita, KS -- 2:37 AM Assault Call) Patrol North -- Officer Tommy Nikkel engages in a high-speed pursuit,
+- Brevard County FL (11:15 PM Possible Drug Activity) sheriffs think a suspect has hidden drugs in his body.
+- Hamilton County OH
 
 ## CP-1918
 
