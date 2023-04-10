@@ -1843,275 +1843,297 @@ Aired 1989-12-02.
 
 Aired 1989-12-09.
 
-**Portland, OR 12** (3:40 PM Street Patrol) East Precinct. People call because
-they think have a rattlesnake in their yard. Officer Lon Sweeney says it is a
-bull snake and uses a stick to toss it over their fence. (5:35 PM Racial
-Harassment Call) Cops go to a skinhead's house to arrest guys who attacked some
-blacks with baseball bats. A white girl comes home and freaks out that they
-won't let her in since she lives there. A bunch of skins are brought to jail.
-(9:41 PM Traffic Stop) Lon pulls over a motorcycle. Bobby stops and then does a
-U turn and takes off. He gets caught in the dirt and Lon jumps out and pushes
-him over and arrests him. He knows who Bobby is, but not why he ran. (911 Call
-Auto Theft) A couple of teenage guys try to hot wire a 280-Z and get caught by
-the owner. The owner punches the 17 year old thief wearing a Judas Priest in
-the nose making it a bloody mess. The second thief is Justin Swackhammer who is
-15 and is wearing an Ozzy shirt. He stands down the road giving them the finger
-and egging them on. They catch him and the bloody guy spits on the victim and
-almost gets punched again. The 15 year old is drunk, spitting, cursing and
-frothing. (2:40 PM Domestic Call) Ed is a 20 year old man who sniffs paint. He
-is hiding in his moms' shed with a knife. His sister just died from paint
-sniffing because she drove over a cliff. They try to help him, but he doesn't
-want any help. Mom wants him to hurt her so they will arrest him. There is
-nothing they can do, so they leave. Three weeks later he kills himself.
+**Portland, OR 12**
+
+- (3:40 PM Street Patrol) East Precinct. People call because they think have a
+  rattlesnake in their yard. Officer Lon Sweeney says it is a bull snake and
+  uses a stick to toss it over their fence. (5:35 PM Racial Harassment Call)
+  Cops go to a skinhead's house to arrest guys who attacked some blacks with
+  baseball bats. A white girl comes home and freaks out that they won't let her
+  in since she lives there. A bunch of skins are brought to jail.  (9:41 PM
+  Traffic Stop) Lon pulls over a motorcycle. Bobby stops and then does a U turn
+  and takes off. He gets caught in the dirt and Lon jumps out and pushes him
+  over and arrests him. He knows who Bobby is, but not why he ran.
+- (911 Call Auto Theft) Deputy John Blackman. A couple of teenage guys try to
+  hot wire a 280-Z and get caught by the owner. The owner punches the 17 year
+  old thief wearing a Judas Priest in the nose making it a bloody mess. The
+  second thief is Justin Swackhammer who is 15 and is wearing an Ozzy shirt. He
+  stands down the road giving them the finger and egging them on. They catch
+  him and the bloody guy spits on the victim and almost gets punched again. The
+  15 year old is drunk, spitting, cursing and frothing.
+- (2:40 PM Domestic Call) Sgt. Loren Caddy. Ed is a 20 year old man who sniffs
+  paint. He is hiding in his moms' shed with a knife. His sister just died from
+  paint sniffing because she drove over a cliff. They try to help him, but he
+  doesn't want any help. Mom wants him to hurt her so they will arrest him.
+  There is nothing they can do, so they leave. Three weeks later he kills
+  himself.
 
 ## CP-213
 
 Aired 1989-12-16.
 
-**Portland, OR 13** (2:30 PM Traffic Stop) Multnomah County Sheriff's Dept --
-Sgt. Loren Caddy says another officer has a potential DWI under arrest and he
-needs Loren to breathalize him. A car hat hit a bunch of mailboxes and they
-went over to check it out and found open containers and Buds on ice in the
-back. They guy wouldn't talk, struggled and then passed out in the back of the
-police car. Back at the station the shirtless man won't give his name. He wants
-the cuffs off, wants to make a phone call and if they treat him like a piece of
-dog s--t, he's going to act like a piece of s--t. He won't say who he wants to
-call and already knows his rights. Loren says he has different rights and reads
-to him about DWI. The guy says they beat him up. He gives him the phone number
-as 749 and wants the cuffs off. Loren asks him if it's long distance. It's in
-Salem, he doesn't know where he is. He wants the cuffs off, knows a lot of
-local people who will reverse the charges, they'll accept it. Loren calls for
-him and the guy says his name is Zoom Zoom Zim Zam, they'll accept it. He says
-to arrest him, Loren says he's already under arrest. He asks what's for? He
-tells him DWI, but he doesn't accept that. He calls Loren a piece of s--t. They
-say he can have the cuffs off if he goes in the cage, but he doesn't want to go
-in there. He says he has no address, won't say his weight or anything. Loren
-tells him to back off, his breast stinks, he has enough and puts him in the
-cell cuffed. Tammy arrives to ID him. She says his name is Scott, he lives with
-her and they let him go with her. He warns her of his dinosaur breath, he says
-he doesn't have a Social Security number, to ask his mother. He is lucky they
-don't put him in detox. She asks if he's been obnoxious, Scott says no. After
-he leaves Loren says, "What a jerk." (Narcotics Task Force Warrant Briefing)
-Sgt. John Bunnell is going to meet the rest of the crew and have a chalk talk.
-There is a report of five suspects in the house, including R Lu, the female
-they are looking for. He's going to grind it to a halt in front of the house.
-They get the battering ram ready with John. (12:15 PM Warrant Served) It takes
-four hits to ram the door open. John yells to get down and they cuff everyone.
-She an old woman who says she has a problem with her shoulder and doesn't sell
-coke, but they find a big baggie of it. She's asked if she works and John says
-to put “refused to answer.” (4:10 PM 2nd Warrant Briefing) Detective Doug Ross
-says they are growing 300-400 pot plants. They'll go in nice at first and smash
-their way in if they have to. (5:21 PM Warrant Served) A barking dog gets in
-John's face and he threatens to shoot it if they don't pull it off. They find
-two huge rooms full of pot plants growing to the ceiling. There is also a
-calendar going back to January with his growing schedule. They seize $8,000
-worth of pot. The suspect says he read how to grow it in a book. It's the first
-time he's grown it, doesn't know any sellers. John says to just arrest him,
-he's not helping them any. Portland -- North Precinct (Street Patrol) Officer
-Harry Jackson says he wants to see if he knows a whore on the street. (3:20 PM)
-He knows Mrs. Lynn, who says she doesn't live there and is going to a house to
-see an old friend. She knocks at the door and asks if they remember her. They
-don't. She says her mom lives down the street and she used to lay out in the
-yard last Summer. The wife says we don't know her. She lives on Alameda, but
-has a friend down the street. She wants to use the phone, she's going to
-Vancouver street and says, "With you around Jackson, who needs the national
-Guard.” (4:35 PM) He spots Alexandra McConnell AKA Buffy walking and checks
-her. He asks what she's doing, if she has rubbers and she's playing Russian
-Roulette with her life. She says she'll live her life the way she wants, if god
-wants to take her now, he will. He asks is that how it is? Then asks about the
-night her nose got rearranged, did she like that? No. He says well he thought
-it was all right, she thought it was wrong. You may think whoring is right, but
-other people think it's wrong. She doesn't understand about having crack
-babies. He says she'll go right around the corner and jump in the first car.
-He's known her for years, arrested her, got her treatment, testified for her
-court, everything. She won't answer, has the right to remain silent. She
-thanked him since he was the only one who showed up in court, not even her mom
-did. (6:47 PM) He spots Laura and says he's glad she looks so good because he
-thought he would lose her. She says she's working legit and used to work this
-corner. He asks what changed her. She says you did, he got her off the streets.
-He says he better not catch her outside, she says she knows she was a hard
-head, thanks him and gives him a hug and a kiss.
+**Portland, OR 13**
+
+- (2:30 PM Traffic Stop) Multnomah County Sheriff's Dept -- Sgt. Loren Caddy
+  says another officer has a potential DWI under arrest and he needs Loren to
+  breathalize him. A car hat hit a bunch of mailboxes and they went over to
+  check it out and found open containers and Buds on ice in the back. They guy
+  wouldn't talk, struggled and then passed out in the back of the police car.
+  Back at the station the shirtless man won't give his name. He wants the cuffs
+  off, wants to make a phone call and if they treat him like a piece of dog
+  shit, he's going to act like a piece of shit. He won't say who he wants to
+  call and already knows his rights. Loren says he has different rights and
+  reads to him about DWI. The guy says they beat him up. He gives him the phone
+  number as 749 and wants the cuffs off. Loren asks him if it's long distance.
+  It's in Salem, he doesn't know where he is. He wants the cuffs off, knows a
+  lot of local people who will reverse the charges, they'll accept it. Loren
+  calls for him and the guy says his name is Zoom Zoom Zim Zam, they'll accept
+  it. He says to arrest him, Loren says he's already under arrest. He asks
+  what's for? He tells him DWI, but he doesn't accept that. He calls Loren a
+  piece of shit. They say he can have the cuffs off if he goes in the cage, but
+  he doesn't want to go in there. He says he has no address, won't say his
+  weight or anything. Loren tells him to back off, his breast stinks, he has
+  enough and puts him in the cell cuffed. Tammy arrives to ID him. She says his
+  name is Scott, he lives with her and they let him go with her. He warns her
+  of his dinosaur breath, he says he doesn't have a Social Security number, to
+  ask his mother. He is lucky they don't put him in detox. She asks if he's
+  been obnoxious, Scott says no. After he leaves Loren says, "What a jerk."
+- (Narcotics Task Force Warrant Briefing) Sgt. John Bunnell is going to meet
+  the rest of the crew and have a chalk talk.  There is a report of five
+  suspects in the house, including R Lu, the female they are looking for. He's
+  going to grind it to a halt in front of the house.  They get the battering
+  ram ready with John. (12:15 PM Warrant Served) It takes four hits to ram the
+  door open. John yells to get down and they cuff everyone.  She an old woman
+  who says she has a problem with her shoulder and doesn't sell coke, but they
+  find a big baggie of it. She's asked if she works and John says to put
+  “refused to answer.” (4:10 PM 2nd Warrant Briefing) Detective Doug Ross says
+  they are growing 300-400 pot plants. They'll go in nice at first and smash
+  their way in if they have to. (5:21 PM Warrant Served) A barking dog gets in
+  John's face and he threatens to shoot it if they don't pull it off. They find
+  two huge rooms full of pot plants growing to the ceiling. There is also a
+  calendar going back to January with his growing schedule. They seize $8,000
+  worth of pot. The suspect says he read how to grow it in a book. It's the
+  first time he's grown it, doesn't know any sellers. John says to just arrest
+  him, he's not helping them any.
+- Portland -- North Precinct (Street Patrol) Officer Harry Jackson says he
+  wants to see if he knows a whore on the street. (3:20 PM) He knows Mrs.
+  Lynn, who says she doesn't live there and is going to a house to see an old
+  friend. She knocks at the door and asks if they remember her. They don't. She
+  says her mom lives down the street and she used to lay out in the yard last
+  Summer. The wife says we don't know her. She lives on Alameda, but has a
+  friend down the street. She wants to use the phone, she's going to Vancouver
+  street and says, "With you around Jackson, who needs the national Guard.”
+  (4:35 PM) He spots Alexandra McConnell AKA Buffy walking and checks her. He
+  asks what she's doing, if she has rubbers and she's playing Russian Roulette
+  with her life. She says she'll live her life the way she wants, if god wants
+  to take her now, he will. He asks is that how it is? Then asks about the
+  night her nose got rearranged, did she like that? No. He says well he thought
+  it was all right, she thought it was wrong. You may think whoring is right,
+  but other people think it's wrong. She doesn't understand about having crack
+  babies. He says she'll go right around the corner and jump in the first car.
+  He's known her for years, arrested her, got her treatment, testified for her
+  court, everything. She won't answer, has the right to remain silent. She
+  thanked him since he was the only one who showed up in court, not even her
+  mom did. (6:47 PM) He spots Laura and says he's glad she looks so good
+  because he thought he would lose her. She says she's working legit and used
+  to work this corner. He asks what changed her. She says you did, he got her
+  off the streets. He says he better not catch her outside, she says she knows
+  she was a hard head, thanks him and gives him a hug and a kiss.
 
 ## CP-214
 
 Aired 1989-12-23.
 
-**San Diego, CA 1** (Academy Graduation) Sheriff John F. Duffy is at the podium
-and makes the police cadets repeat, "I solemnly swear that I will well and
-faithfully discharge the duties I'm about to enter." He congratulates them and
-gives their first order -- take that badge off that envelope and pin it on your
-chest. Then they all cheer. Deputy Bob Frausto says it is a unique place to be
-proactive in their job, the size is about the state of CT -- 43,000 square miles
-from metropolitan policing to mountains and deserts. Helicopter patrol is a
-good way to cover rural and metro areas. Astrea Division Air Support (6:52 PM
-Fugitive Search) They are looking for a 5150, Dave, a psychotic violent subject
-who was hit with a taser and it didn't stop him. The Marshals went to arrest
-him, pulled the tasers out and took off. They lost him. Deputy Marshall Scott
-Hill says they hit him with two fully charged tasers and he fell back, ripped
-them out, laughed and ran back to his car. He's a white man, blonde, 6 feet
-tall, 180 pounds. A helicopter spots him near a backyard pool after a woman in
-the house saw him. Cops pour into the yard to look for him. They catch him and
-he keeps fighting them. Dave says his shoelace is untied, he didn't try to kick
-them and tries to close the door. They says he's outnumbered and it's time to
-give it up. They hobble him and he sticks his tongue out at the camera. He's
-going to mental health. Deputy Marshall Joe Sprecco says he was supposed to go
-to mental health for evaluation, he didn't show up and they came to get him.
-Northern Division Station House -- Deputy Bill Hubler watches cops go through
-fancy drug paraphernalia they confiscated. He signs in and they show how to use
-a colossal skull bong and a two pipe bong that doesn't need hands to smoke it.
-Bill takes his cooler and leaves. (2:47 PM Street Patrol) He goes to a call of
-a distraught mom who locked her 6 month old baby in the car. They are trying to
-open the door with coat hangers, the back window is open and the boy in the
-back is hysterical. They are in the shade, so it's not as bad. Bill works a
-Slim Jim down the door and gets it open. She pulls him out and the kid stops
-crying as a crowd of people look on. (7:35 PM Stolen Car Call) A plumber went
-to a liquor store, left his keys inside his work van and someone took it while
-he went inside. Real smart. The guy took off on Santa Fe and Deputy Brian
-Sheets caught him. The driver says he has no registration, but it's his van. He
-keeps asking what's wrong, says he has no ID, but a guy over there will ID the
-van as his. His name is Shawn Griffen and he just bought the van. Bill finds
-Coke cans with drugs in the back. He says he's not suing drugs, but they find
-meth on him which he says is not his. They go to cuff him and he fights hard.
-They choke him, he screams like a demon and they tell him to shut up. He tried
-to destroy the meth, a second offense. Brain asks Bill if he believes this guy.
-Shawn huffs, puffs, moans, groans and says he can't believe they set him up
-like this. Bill says he might have more dope in his sock. He keeps moaning and
-says they're hurting him, but they are only taking his shoe off. What's it all
-about? He claims he's got a broken left foot, though he walked fine before.
-Bill says they can testify to how much powder they saw. Brian uses a credit
-card to scrape it up on the hood of his car and collects it. The guy tried to
-jam it down the backseat of the car. He asks if it's his why wouldn't he hide
-it, they said he's stupid that why. He wants someone to pick up his car. They
-say they'll impound it and he'll never get it back. His real name is Walter
-Bradsure, Bill's arrested him 4-5 times before, but he didn't even recognize
-him until now. Walt says they've harassed him enough. Bill says he's caught him
-buying drugs before. (911 Call Stabbing) Northern Division Street Patrol -- Sgt.
-Derek Clark calls Vista paramedics, they have a person down. A woman says
-someone was stabbed. A mom says a woman stabbed her daughter in the eye, she
-won't calm down, she's dying and she'll kick her guts out. She gets hysterical
-and they rush away the suspect. EMS arrives as they tie off the crime scene and
-her mother goes crazy. The victim stepped in between a fight and got stabbed in
-the face and the hand by Constance. They have to seal her house off because
-that's where it happened. The mom says she was crazy, came at her like the guy
-in Psycho, said she was not her daughter, smashed her in the face with a frying
-pan which didn't stop her, kicked her while she was down and she still came at
-her. They'll get her medication and lock up her apartment. She says she just
-wanted to talk to someone. Deputy Victoria Reden says she got stabbed and
-didn't pull it out, jammed it back and forth and got cut from eye to mouth. The
-woman has a ton of medication and drinks constantly. The bathroom is covered
-with blood and they find the knife there totally cleaned off, but broken.
+**San Diego, CA 1**
+
+- (Academy Graduation) Sheriff John F. Duffy is at the podium and makes the
+  police cadets repeat, "I solemnly swear that I will well and faithfully
+  discharge the duties I'm about to enter." He congratulates them and gives
+  their first order -- take that badge off that envelope and pin it on your
+  chest. Then they all cheer. Deputy Bob Frausto says it is a unique place to
+  be proactive in their job, the size is about the state of CT -- 43,000 square
+  miles from metropolitan policing to mountains and deserts. Helicopter patrol
+  is a good way to cover rural and metro areas. Astrea Division Air Support
+  (6:52 PM Fugitive Search) They are looking for a 5150, Dave, a psychotic
+  violent subject who was hit with a taser and it didn't stop him. The Marshals
+  went to arrest him, pulled the tasers out and took off. They lost him. Deputy
+  Marshall Scott Hill says they hit him with two fully charged tasers and he
+  fell back, ripped them out, laughed and ran back to his car. He's a white
+  man, blonde, 6 feet tall, 180 pounds. A helicopter spots him near a backyard
+  pool after a woman in the house saw him. Cops pour into the yard to look for
+  him. They catch him and he keeps fighting them. Dave says his shoelace is
+  untied, he didn't try to kick them and tries to close the door. They says
+  he's outnumbered and it's time to give it up. They hobble him and he sticks
+  his tongue out at the camera. He's going to mental health. Deputy Marshall
+  Joe Sprecco says he was supposed to go to mental health for evaluation, he
+  didn't show up and they came to get him.
+- Northern Division Station House -- Deputy Bill Hubler watches cops go through
+  fancy drug paraphernalia they confiscated. He signs in and they show how to
+  use a colossal skull bong and a two pipe bong that doesn't need hands to
+  smoke it.  Bill takes his cooler and leaves. (2:47 PM Street Patrol) He goes
+  to a call of a distraught mom who locked her 6 month old baby in the car.
+  They are trying to open the door with coat hangers, the back window is open
+  and the boy in the back is hysterical. They are in the shade, so it's not as
+  bad. Bill works a Slim Jim down the door and gets it open. She pulls him out
+  and the kid stops crying as a crowd of people look on. (7:35 PM Stolen Car
+  Call) A plumber went to a liquor store, left his keys inside his work van and
+  someone took it while he went inside. Real smart. The guy took off on Santa
+  Fe and Deputy Brian Sheets caught him. The driver says he has no
+  registration, but it's his van. He keeps asking what's wrong, says he has no
+  ID, but a guy over there will ID the van as his. His name is Shawn Griffen
+  and he just bought the van. Bill finds Coke cans with drugs in the back. He
+  says he's not suing drugs, but they find meth on him which he says is not
+  his. They go to cuff him and he fights hard.  They choke him, he screams like
+  a demon and they tell him to shut up. He tried to destroy the meth, a second
+  offense. Brain asks Bill if he believes this guy.  Shawn huffs, puffs, moans,
+  groans and says he can't believe they set him up like this. Bill says he
+  might have more dope in his sock. He keeps moaning and says they're hurting
+  him, but they are only taking his shoe off. What's it all about? He claims
+  he's got a broken left foot, though he walked fine before.  Bill says they
+  can testify to how much powder they saw. Brian uses a credit card to scrape
+  it up on the hood of his car and collects it. The guy tried to jam it down
+  the backseat of the car. He asks if it's his why wouldn't he hide it, they
+  said he's stupid that why. He wants someone to pick up his car. They say
+  they'll impound it and he'll never get it back. His real name is Walter
+  Bradsure, Bill's arrested him 4-5 times before, but he didn't even recognize
+  him until now. Walt says they've harassed him enough. Bill says he's caught
+  him buying drugs before.
+- (911 Call Stabbing) Northern Division Street Patrol -- Sgt. Derek Clark calls
+  Vista paramedics, they have a person down. A woman says someone was stabbed.
+  A mom says a woman stabbed her daughter in the eye, she won't calm down,
+  she's dying and she'll kick her guts out. She gets hysterical and they rush
+  away the suspect. EMS arrives as they tie off the crime scene and her mother
+  goes crazy. The victim stepped in between a fight and got stabbed in the face
+  and the hand by Constance. They have to seal her house off because that's
+  where it happened. The mom says she was crazy, came at her like the guy in
+  Psycho, said she was not her daughter, smashed her in the face with a frying
+  pan which didn't stop her, kicked her while she was down and she still came
+  at her. They'll get her medication and lock up her apartment. She says she
+  just wanted to talk to someone. Deputy Victoria Reden says she got stabbed
+  and didn't pull it out, jammed it back and forth and got cut from eye to
+  mouth. The woman has a ton of medication and drinks constantly. The bathroom
+  is covered with blood and they find the knife there totally cleaned off, but
+  broken.
 
 ## CP-215
 
 Aired 1990-01-06.
 
-**San Diego, CA 2** (Eastern Division Street Patrol) Sheriff's Dept -- Deputy
-Bob Frausto says they are going to a shooting call where a girl was screaming
-on the phone. Astrea Division -- Air Support helicopter flies over. Bob runs to
-the house with another cop and finds a woman crying hysterically. She says she
-accidentally shot her boyfriend in the gut while playing with a gun. Fire and
-Rescue comes in and ambulances him off. Deputy Jon Shellhammer lands his
-helicopter so they can airlift him out. The girl says she was being taught how
-to shoot the gun and it went off. The bullet missed an artery by an inch. (3:45
-PM Traffic Stop) Bob pulls over Dennis, a Hell's Angel Biker. He tells him to
-get off the bike and he won't. Bob asks to see his license and he just holds it
-up and tells him he knows he has one. He says the Sgt. told him he had a
-license. Bob says he has been suspended since 8/17, but the computer says it is
-valid. Dennis says he will beat him up any time, anywhere. (8:37 PM Family
-Disturbance) A man is trying to get into his house, but his wife won't let him
-in. He was supposed to pick her up for lunch, but didn't and she was
-embarrassed. She yelled at him, took his keys and stabbed him with a pencil
-through the window. Cops get his keys back so he can leave. Northern Division
-Street Patrol -- Deputy Bill Hubler takes the call of a Mexican man holding a
-kid at knife point. (3:05 PM Attempted Kidnapping) They talk to the young girl
-who said he held a knife to her throat when he grabbed her from behind and
-covered her eyes. He said if she screams he'll cut her head off so she kneed
-him in the private spot and ran. She didn't see his face though. She takes him
-to Beaumont where she was walking home from school and shows Bill where he
-dragged her through the bushes. They find no evidence and since they have no
-description all they can do is step up patrols in that area. (9:22 PM
-Restaurant Disturbance) A woman doesn't want the pizza she bought because it
-was supposed to be 12 slices and it was only 8 and since they touched it when
-they cut it she doesn't want it. The owner says the pizza is the same size no
-matter how he cuts it. He winds up refunding her money to get rid of her.
+**San Diego, CA 2**
+
+- (Eastern Division Street Patrol) Sheriff's Dept -- Deputy Bob Frausto says
+  they are going to a shooting call where a girl was screaming on the phone.
+  Astrea Division -- Air Support helicopter flies over. Bob runs to the house
+  with another cop and finds a woman crying hysterically. She says she
+  accidentally shot her boyfriend in the gut while playing with a gun. Fire and
+  Rescue comes in and ambulances him off. Deputy Jon Shellhammer lands his
+  helicopter so they can airlift him out. The girl says she was being taught
+  how to shoot the gun and it went off. The bullet missed an artery by an inch.
+- (3:45 PM Traffic Stop) Bob pulls over Dennis, a Hell's Angel Biker. He tells
+  him to get off the bike and he won't. Bob asks to see his license and he just
+  holds it up and tells him he knows he has one. He says the Sgt. told him he
+  had a license. Bob says he has been suspended since 8/17, but the computer
+  says it is valid. Dennis says he will beat him up any time, anywhere. (8:37
+  PM Family Disturbance) A man is trying to get into his house, but his wife
+  won't let him in. He was supposed to pick her up for lunch, but didn't and
+  she was embarrassed. She yelled at him, took his keys and stabbed him with a
+  pencil through the window. Cops get his keys back so he can leave.
+- Northern Division Street Patrol -- Deputy Bill Hubler takes the call of a
+  Mexican man holding a kid at knife point. (3:05 PM Attempted Kidnapping) They
+  talk to the young girl who said he held a knife to her throat when he grabbed
+  her from behind and covered her eyes. He said if she screams he'll cut her
+  head off so she kneed him in the private spot and ran. She didn't see his
+  face though. She takes him to Beaumont where she was walking home from
+  school and shows Bill where he dragged her through the bushes. They find no
+  evidence and since they have no description all they can do is step up
+  patrols in that area. (9:22 PM Restaurant Disturbance) A woman doesn't want
+  the pizza she bought because it was supposed to be 12 slices and it was only
+  8 and since they touched it when they cut it she doesn't want it. The owner
+  says the pizza is the same size no matter how he cuts it. He winds up
+  refunding her money to get rid of her.
 
 ## CP-216
 
 Aired 1990-01-13.
 
-**San Diego, CA 3** (Northern Division Roll Call) -- Sgt. Derek Clark says the
-activity is still hot and heavy at 228, if anything goes on please stop, park
-in the driveway if you aren't busy, make them miserable. Robert who lives
-nearby has a radio tower and can listen to the police so he knows what's going
-on. When they go by let him know and he'll come out and throw rocks at the car
-they are chasing, he's not kidding. (911 Call Gunfire) They pull up and catch a
-white guy in the dark with a USA shirt. He says he's on his personal property
-and not doing anything so why are they bothering him? They explain the
-neighbors heard shots. He says to talk to them instead of him. The stop sign in
-front of his house has three holes in it and they found spend casings. He says
-he fired two shots, realized he did something wrong and went back in and
-stuffed it in the woodpile. They find the large handgun so he is cuffed. His
-girlfriend asks why they have to do this. It's felony in CA to discharge a
-weapon in an area where people can get killed or injured. (9:03 PM Traffic
-Stop) Derek pulls behind a car that sits through a couple of traffic light
-changes and pulls her over. Kimberly says she was going to a friends apartment.
-He says they've raided it a few times, it's a drug house. Everyone they pull
-out of there has drugs, they want to run them all at of the town, they are
-useless and should be swept out. She looks like a young Samantha Fox, heavily
-made up with lots of jewelry. She has a warrant for providing false info to the
-police. She swears to god she went to all her court hearings and cries. They
-find a bag of crystal meth, a pipe and a wad of cash in the car. She is cuffed
-and wants to know where they are going to take her. He says to the station. She
-wants to know where she'll go from there, she's scared, her family doesn't know
-where she is. He says to a women's facility. She says she didn't do anything,
-it's in her car. They talk to Ralph who arrives and says someone told him they
-saw his car getting stopped. She has no license, so they tow her car. He asks
-the cops if she said the drugs were hers. He says no, but he didn't ask her.
-They know the drugs are his and he's letting Kimberly take the fall. Kim asks
-how could he walk away and freaks out cursing him, calling him a jerk and god
-damn him. Derek says he has no doubt the drugs are his. (11:40 AM Rural Patrol)
-Deputy John Sheiferth says they are resident deputy sheriffs, they live in the
-community the serve. There are six other deputies in the rule enforcement
-program covering 200 square miles. They serve as detectives, an ambulance,
-whatever needed. (1:28 PM Domestic Call) He goes past Julian's Café to a house
-where a man has had problems with a guy being drunk and violent. He calls his
-partner to back him up. The windows on the house are broken out and a neighbor
-says the guy went nuts, ran off and his wife and kids are gone. They find him
-out back shirtless and bearded. He says he did it because he was pissed off at
-his wife. He says he's been there before, why don't they separate? He's been
-there 30 years, doesn't want to give it up, has been with her since he was 13
-and he was 45 yesterday. He'll die with that witch, but he should leave her.
-They arrest him for being under the influence. At jail they read him his
-rights. (3:50 PM Traffic Stop) The guy says he has 3 deadly diseases -- asthma,
-pneumonia and emphysema. He's like an older, grosser, dirty Charlie Manson who
-lives out of his car. He's trying to get some sleep, trying to get some rest
-and is tired and sick. His car is filled with junk. He doesn't go to the
-hospital because he can't afford it. John says he should take up opportunities
-with the state for help instead of sleeping out there where tourists go. It's
-an old green car with a truck camper on the roof. He gets the car started and
-drives off. John says some people get stranded there with no money and they
-help them as best as they can. (Northern Division Street Patrol) Deputy Bill
-Hubler says they are going to have computers put in all the cars and will cut
-down paperwork by 50%. He is told not to take the car past 5gs. He says that
-would be 500mph and he would die, but his computer would survive. He drinks
-7-11 coffee on the run. (3:12 PM Stolen Vehicle Call) A man had his truck
-stolen a week ago and a friend found it by the railroad tracks. He called the
-cops to go over there. It's totally stripped, the wheels are gone, the bed of
-the truck was removed and is in a yard, plus the stereo and seats are gone.
-They go over and the hood it up, but the plates are still on it. They go up to
-the house and Maureen Masonette comes out. She says her son lives there with
-her, she was just cooking and they surprised her. Rajee the son comes out and
-says Greg from down the street was driving it got stuck in the mud and left it
-there. He doesn't know Greg's last name. Bill says he better think fast. They
-stripped it and he took the bed off because the guy wanted the bed for his
-truck. Bill asks if he thinks a 1988 Toyota truck would get stuck and left
-there forever. He says he doesn't have any way to contact the police. He's
-arrested for possession of stolen property. They tell the owner the guy was the
-one tearing the stuff off his truck and he has no theft insurance. (5:48 PM)
-Bill talks to Rajee at the station. He wants the truth on everything or he will
-go to juvenile hall and his mom won't come and get him. They let him go and the
-mom says thanks, Bill suggests a major change in friends. The owner says it's
-disappointing and tires to salvage what he can.
+**San Diego, CA 3**
+
+- (Northern Division Roll Call) -- Sgt. Derek Clark says the activity is still
+  hot and heavy at 228, if anything goes on please stop, park in the driveway
+  if you aren't busy, make them miserable. Robert who lives nearby has a radio
+  tower and can listen to the police so he knows what's going on. When they go
+  by let him know and he'll come out and throw rocks at the car they are
+  chasing, he's not kidding. (911 Call Gunfire) They pull up and catch a white
+  guy in the dark with a USA shirt. He says he's on his personal property and
+  not doing anything so why are they bothering him? They explain the neighbors
+  heard shots. He says to talk to them instead of him. The stop sign in front
+  of his house has three holes in it and they found spend casings. He says he
+  fired two shots, realized he did something wrong and went back in and stuffed
+  it in the woodpile. They find the large handgun so he is cuffed. His
+  girlfriend asks why they have to do this. It's felony in CA to discharge a
+  weapon in an area where people can get killed or injured. (9:03 PM Traffic
+  Stop) Derek pulls behind a car that sits through a couple of traffic light
+  changes and pulls her over. Kimberly says she was going to a friends
+  apartment.  He says they've raided it a few times, it's a drug house.
+  Everyone they pull out of there has drugs, they want to run them all at of
+  the town, they are useless and should be swept out. She looks like a young
+  Samantha Fox, heavily made up with lots of jewelry. She has a warrant for
+  providing false info to the police. She swears to god she went to all her
+  court hearings and cries. They find a bag of crystal meth, a pipe and a wad
+  of cash in the car. She is cuffed and wants to know where they are going to
+  take her. He says to the station. She wants to know where she'll go from
+  there, she's scared, her family doesn't know where she is. He says to a
+  women's facility. She says she didn't do anything, it's in her car. They talk
+  to Ralph who arrives and says someone told him they saw his car getting
+  stopped. She has no license, so they tow her car. He asks the cops if she
+  said the drugs were hers. He says no, but he didn't ask her.  They know the
+  drugs are his and he's letting Kimberly take the fall. Kim asks how could he
+  walk away and freaks out cursing him, calling him a jerk and god damn him.
+  Derek says he has no doubt the drugs are his.
+- (11:40 AM Rural Patrol) Deputy John Sheiferth says they are resident deputy
+  sheriffs, they live in the community the serve. There are six other deputies
+  in the rule enforcement program covering 200 square miles. They serve as
+  detectives, an ambulance, whatever needed. (1:28 PM Domestic Call) He goes
+  past Julian's Café to a house where a man has had problems with a guy being
+  drunk and violent. He calls his partner to back him up. The windows on the
+  house are broken out and a neighbor says the guy went nuts, ran off and his
+  wife and kids are gone. They find him out back shirtless and bearded. He says
+  he did it because he was pissed off at his wife. He says he's been there
+  before, why don't they separate? He's been there 30 years, doesn't want to
+  give it up, has been with her since he was 13 and he was 45 yesterday. He'll
+  die with that witch, but he should leave her.  They arrest him for being
+  under the influence. At jail they read him his rights. (3:50 PM Traffic Stop)
+  The guy says he has 3 deadly diseases -- asthma, pneumonia and emphysema.
+  He's like an older, grosser, dirty Charlie Manson who lives out of his car.
+  He's trying to get some sleep, trying to get some rest and is tired and sick.
+  His car is filled with junk. He doesn't go to the hospital because he can't
+  afford it. John says he should take up opportunities with the state for help
+  instead of sleeping out there where tourists go. It's an old green car with a
+  truck camper on the roof. He gets the car started and drives off. John says
+  some people get stranded there with no money and they help them as best as
+  they can.
+- (Northern Division Street Patrol) Deputy Bill Hubler says they are going to
+  have computers put in all the cars and will cut down paperwork by 50%. He is
+  told not to take the car past 5gs. He says that would be 500mph and he would
+  die, but his computer would survive. He drinks 7-11 coffee on the run. (3:12
+  PM Stolen Vehicle Call) A man had his truck stolen a week ago and a friend
+  found it by the railroad tracks. He called the cops to go over there. It's
+  totally stripped, the wheels are gone, the bed of the truck was removed and
+  is in a yard, plus the stereo and seats are gone.  They go over and the hood
+  it up, but the plates are still on it. They go up to the house and Maureen
+  Masonette comes out. She says her son lives there with her, she was just
+  cooking and they surprised her. Rajee the son comes out and says Greg from
+  down the street was driving it got stuck in the mud and left it there. He
+  doesn't know Greg's last name. Bill says he better think fast. They stripped
+  it and he took the bed off because the guy wanted the bed for his truck. Bill
+  asks if he thinks a 1988 Toyota truck would get stuck and left there forever.
+  He says he doesn't have any way to contact the police. He's arrested for
+  possession of stolen property. They tell the owner the guy was the one
+  tearing the stuff off his truck and he has no theft insurance. (5:48 PM) Bill
+  talks to Rajee at the station. He wants the truth on everything or he will go
+  to juvenile hall and his mom won't come and get him. They let him go and the
+  mom says thanks, Bill suggests a major change in friends. The owner says it's
+  disappointing and tires to salvage what he can.
 
 ## CP-217
 
@@ -2132,18 +2154,19 @@ Aired 1990-01-20.
   kit in a wooden box, a vial of meth inside, a butane pencil torch and a glass
   crack pipe. She used to be a model and they find a folder of glamour shots of
   her posing in lingerie. Bill says she used to be a pretty good looking and
-  she's not anymore. Central Jail -- Sgt. Grant Burnett says the advisory
+  she's not anymore.
+- Central Jail -- Sgt. Grant Burnett says the advisory
   committee on adult detentions will be inspecting them, so make sure they
   polished their shoes, get a haircut and are squared away. He reads off the
   assignment list for search, P&R, etc. and they head out.
-- (3:40 PM) Deputy Gene Bursch is assigned to gate duty. The first guy gets one
+  (3:40 PM) Deputy Gene Bursch is assigned to gate duty. The first guy gets one
   chance to go along with the program.  They'll take the cuffs off and if he
   sits in the room for 4-6 hours he'll get no charges, if not he gets a padded
   room for 12 hours. They hand out bags to put possessions in.
-- (4:45 PM) They ask the guy if he ever wanted to kill himself, he says yes,
+  (4:45 PM) They ask the guy if he ever wanted to kill himself, he says yes,
   but not tonight. He's been charged with oral copulation and sodomy, $60,000
   bail. He'll get a chance to post it, but most likely won't be able to.
-- (6:20 PM) A man says they picked him up at the YWCA and they tell him to be
+  (6:20 PM) A man says they picked him up at the YWCA and they tell him to be
   quiet and he'll get out in a few hours. He wants to know something.  They
   tell them they don't know anything. He says they are the f--king police, they
   should know. He and his pregnant old lady have been all over the US with no
@@ -2174,64 +2197,67 @@ Aired 1990-01-20.
   screaming like a girl. They tell him he's heading for the rubber room. He
   keeps howling and says he'll cooperate. He leaves a big bloody spot on the
   wall. He says the cuffs are hurting him, but they can't take them off because
-  he's fighting. He says he isn't fighting.
-- (9:07 PM) A guy in solitary tried to kill himself by wrapping toilet paper
-  around his chest and setting on fire. Gene asks why he did that.  He says so
-  he could get pain killers. Gene says it'll hurt twice as much with the burns.
-  A Mexican drunk is brought in and wants to go home. Gene says to click his
-  heels together three times and say, “there's no place like home.” They guy
-  actually does it and Gene says drunks are so funny. They say goodbye to Eddie
-  and they'll see him next week. Welcome to County jail gentlemen, step on
-  inside.
+  he's fighting. He says he isn't fighting.  (9:07 PM) A guy in solitary tried
+  to kill himself by wrapping toilet paper around his chest and setting on
+  fire. Gene asks why he did that.  He says so he could get pain killers. Gene
+  says it'll hurt twice as much with the burns.  A Mexican drunk is brought in
+  and wants to go home. Gene says to click his heels together three times and
+  say, “there's no place like home.” They guy actually does it and Gene says
+  drunks are so funny. They say goodbye to Eddie and they'll see him next week.
+  Welcome to County jail gentlemen, step on inside.
 
 ## CP-218
 
 Aired 1990-01-27.
 
-**San Diego, CA 5** (5:05 PM Child Abuse Unit) County Sheriff's Dept Northern
-Division Warrant Briefing -- Detective Mike Radovich says the people across the
-hallway in #40 are their victims, 2 girls 6-7, thought the suspect was a little
-weird. He babysat them a couple months, then he started molesting him. She
-could always smell ether coming out of his apartment and he tried to show her
-XXX movies, but she wasn't into it. They could smell bottles cooking. They are
-looking for naked playing cards he showed them, a movie showing a foursome and
-adult magazine. They are taking everything. Deputy Bill Hubler goes along.
-(6:00 PM) They pull up with a vanload of people. Inside they tell the people to
-get facedown. There is a young girl there. Phyllis says they are looking for
-Mike, she doesn't know where he is or when he's coming home. There's a knife on
-the couch along with VHS pornos. There's a stolen car in the garage plus a meth
-kit loaded with needles and some have blood in them. They find the magazines
-too. If he was there he'd be arrested. (7:45 PM Subject Located) They pull him
-out of his car at gunpoint. There is also a male passenger in the car. Both are
-cuffed. He's wanted for sodomy. (Northern Division Street Patrol) Deputy Bill
-Hubler goes to Fox Point apartments around the back and meets Deputy Victoria
-Reden there. They go up to apartment #23 and a naked woman opens the door, says
-her boyfriend John is in the bathroom, doesn't know his last name because she
-just met him. She puts a red robe on. They have a warrant for John
-Nickalopolous. He asks what he did now and he doesn't have a gun, so they look
-for it. Then Bill finds a guy drinking in the closet that looks Jim Martin from
-Faith No More. He's pissed and glad he wasn't armed, or Vietcong or he'd be
-dead. John says the gun is in the closet where the guy was, so Bill feels
-really stupid. The woman points to where it is and he finds it. She says she's
-sorry and is innocent. Everything went well, it was a 9mm, good thing he wasn't
-a killer or he'd be dead. God watches over fools and cops. (911 Call Female
-with a Gun) Someone saw a person hand a gun to a woman who stuck it in her
-clothes. They grab a guy in a leather jacket and a Motorhead shirt. The girl is
-dressed like Debbie Gibson in a flannel shirt, gray jean vest and black felt
-hat. She has a black plastic Uzi toy on her. She says it's her sons as the guy
-eats an ice cream bar. Bill calls to a cop across the street and asks if he'd
-shoot him over it. He says yes. The woman says she bought it as a gift for her
-son. They take the toy away from her, the guy says he guesses he learned his
-lesson. Astrea Division Air Support -- Deputy Ron Cowan is the pilot. They fly
-to a field in the middle of nowhere and there is a truck there. (5:20 PM Patrol
-Stop) The truck starts moving and they drop the helicopter down. Deputy Jon
-Shellhammer goes over and talks to the driver. He has no shirt on, there are 2
-tires in the back that he says are his friends and belong to a Nissan. His
-paperwork is in order so he lets him go. (8:11 PM) Back-up Call Drug
-Investigation -- they go to watch the ground units because it's a bad
-neighborhood. They find one suspect in the bushes. The cops approach him and he
-runs. They follow him through yards, around in a circle and K-9 gets him until
-police arrive. It might be an off duty cop the dog belonged to.
+**San Diego, CA 5**
+
+- (5:05 PM Child Abuse Unit) County Sheriff's Dept Northern Division Warrant
+  Briefing -- Detective Mike Radovich says the people across the hallway in #40
+  are their victims, 2 girls 6-7, thought the suspect was a little weird. He
+  babysat them a couple months, then he started molesting him. She could always
+  smell ether coming out of his apartment and he tried to show her XXX movies,
+  but she wasn't into it. They could smell bottles cooking. They are looking
+  for naked playing cards he showed them, a movie showing a foursome and adult
+  magazine. They are taking everything. Deputy Bill Hubler goes along.  (6:00
+  PM) They pull up with a vanload of people. Inside they tell the people to get
+  facedown. There is a young girl there. Phyllis says they are looking for
+  Mike, she doesn't know where he is or when he's coming home. There's a knife
+  on the couch along with VHS pornos. There's a stolen car in the garage plus a
+  meth kit loaded with needles and some have blood in them. They find the
+  magazines too. If he was there he'd be arrested. (7:45 PM Subject Located)
+  They pull him out of his car at gunpoint. There is also a male passenger in
+  the car. Both are cuffed. He's wanted for sodomy.
+- (Northern Division Street Patrol) Deputy Bill Hubler goes to Fox Point
+  apartments around the back and meets Deputy Victoria Reden there. They go up
+  to apartment #23 and a naked woman opens the door, says her boyfriend John is
+  in the bathroom, doesn't know his last name because she just met him. She
+  puts a red robe on. They have a warrant for John Nickalopolous. He asks what
+  he did now and he doesn't have a gun, so they look for it. Then Bill finds a
+  guy drinking in the closet that looks Jim Martin from Faith No More. He's
+  pissed and glad he wasn't armed, or Vietcong or he'd be dead. John says the
+  gun is in the closet where the guy was, so Bill feels really stupid. The
+  woman points to where it is and he finds it. She says she's sorry and is
+  innocent. Everything went well, it was a 9mm, good thing he wasn't a killer
+  or he'd be dead. God watches over fools and cops. (911 Call Female with a
+  Gun) Someone saw a person hand a gun to a woman who stuck it in her clothes.
+  They grab a guy in a leather jacket and a Motorhead shirt. The girl is
+  dressed like Debbie Gibson in a flannel shirt, gray jean vest and black felt
+  hat. She has a black plastic Uzi toy on her. She says it's her sons as the
+  guy eats an ice cream bar. Bill calls to a cop across the street and asks if
+  he'd shoot him over it. He says yes. The woman says she bought it as a gift
+  for her son. They take the toy away from her, the guy says he guesses he
+  learned his lesson.
+- Astrea Division Air Support -- Deputy Ron Cowan is the pilot. They fly to a
+  field in the middle of nowhere and there is a truck there. (5:20 PM Patrol
+  Stop) The truck starts moving and they drop the helicopter down. Deputy Jon
+  Shellhammer goes over and talks to the driver. He has no shirt on, there are
+  2 tires in the back that he says are his friends and belong to a Nissan. His
+  paperwork is in order so he lets him go. (8:11 PM) Back-up Call Drug
+  Investigation -- they go to watch the ground units because it's a bad
+  neighborhood. They find one suspect in the bushes. The cops approach him and
+  he runs. They follow him through yards, around in a circle and K-9 gets him
+  until police arrive. It might be an off duty cop the dog belonged to.
 
 ## CP-219
 
@@ -2306,80 +2332,85 @@ Dedicated to the memory of Deputy Jack Miller 1954-1988.
 
 Aired 1990-02-10.
 
-**Los Angeles, CA 2** (9:00 PM Male Prostitution Stings) West Hollywood
-Sheriff's Station Special Problems Unit -- Deputy Aldo Iturriaga says you know
-why we are all out here. The city, the gay and business community asked them to
-come out to arrest hustlers because of the crimes associated with them. They'll
-only make right turns and the signal is to put the blinker on. They are going
-to do it different then before by using a limo. Inside the signal will be to
-pick up the phone and say, "Let's go to the hotel." Deputy Jim Campbell says to
-give him time to play the guys as he'll have to string them along longer than
-normal. Aldo says once you do the passby turn your radio off and say, “You are
-going to try to go for it.” They have to stay off Santa Monica and use Fountain
-until they get something to do it that way. (9:30 PM) Justin walks up asks
-what's going on. He says he's a man of the world, would you like to see a lot
-of it and get in. He does and says he's from Sicily. Jim says he comes and goes
-as he feels as they go on Detroit. He says he's a working man, charges $60 and
-can get anything he wants for that. Jim asks what he likes. Justin likes BJs
-and giving it in the ass. He asks if he likes hotels, motels or the back seat
-of the car. He says this is good. Jim says he'll call his driver and they stop,
-run out and bust him. Justin asks doesn't he have to have money to be busted?
-The second guy is a young Hispanic who asks Jim if he's a cop. Jim says does
-this look like a cop car. He asks to prove it. How can he prove it? Let him in.
-He goes to kiss Jim and he freaks out and the hustler knows he is a cop. He
-tries to get out Jim asks is that a game you lay, he's a man who moves a lot of
-money, he doesn't give kisses, he's bewildered by it. Do you usually do that,
-jumping in the car looking for a kiss? Does he always do that? No. He says he
-looks for something quick, not kissing. He says he finds him attractive. Jim
-says he hoped he would. He asks about a price and the guy says he's not
-interested and gets out. Jim says to send any of his friends over that might
-be. Then he says this guy is good. (11:38 PM) A guy walks up and gets in. he
-says he's Steve and shakes his hand. Jim says he wants to get to the nitty
-gritty, time is money, you've got places to go and things. What are you
-hustling for? He says he gets different amounts like $50. Jim says what does he
-get for that. Then a guy comes over to the car and asks if anyone famous is in
-there. Jim says one at a time. The guy says he likes to give BJs and he doesn't
-have a hotel to go to. They go north on Orange to Lexiginton. Jim asks about
-him. He says he's 20 and from Ohio. He wanted to come out and get into acting,
-but he got strung out on drugs. He wants to save up for AA to get off drugs.
-Then he'll have his pictures done and get an agent. They pull him out and Aldo
-says Fred Hennicker says they busted him before. Jim wants the guy who went to
-kiss him (11:52 PM) Eric D'Angelo gets in dressed in drag. He is from Mexico
-and tired of it. He keeps talking, then cops bust him and he just stares. Jim
-says he's probably a guy. He says he has nothing on him, no weapons, no ID. Do
-you have a penis? Yes. (12:15 AM) An old guy gets in, says his name is Snake.
-Jim thinks he's Steve. He asks his first name and he says Clint. He asks if Jim
-is heat. He says does it look like it. He says they try anything. Jim asks
-what's on the menu. He says for $50 he'll do anything but S&M. Jim says
-anything for $50. Then he picks up the phone and says it's not a good spot. The
-cops bust him and say he has coke on him, they know him, he's Earl Jackson, he
-was just released from jail an hour ago after doing 6 months. They laugh at him
-and tell him to pick another line of work, he's not good at this. It's the 14th
-time he's been busted for it. Will he get a bullet, a year this time? It
-doesn't matter, as soon as he gets out he'll be back doing it again. Beverly
-Hills Municipal Court (9:05 AM Two Weeks Later) Deputy Jim Campbell is called
-to speak in the case against Earl. His job is for West Hollywood Sheriff's
-Department, been there 24 years. On 10/21/89 he was working a project for male
-hustlers. What does that mean? Deputy District Attorney Lisa Hart questions
-him. She asks what that mean. He says he picks up makes for sex. She asks if he
-was plain clothes, in a limo. Sgt. Powell was the driver. He picked him up on
-the corner. He asked him what is he doing and asked to get in. He moved over,
-didn't come in and came around the other side and he told him he surprised him.
-He asked if he was out hustling, he's a businessman. He charges $50 and will do
-whatever you want. Chief Medical Officer John H. Clark gets up next. He's  from
-the LA County sheriff's dept. They ask him about drawing blood for HIV
-analysis. He says Mr. Tribble is HIV+. Public Defender Michael Masterson asks
-if the test can be assumed from the results alone that the patient has AIDS. He
-says that is correct. Can he assume from the Smith Klein test that he will get
-AIDS. He can say for certain, but everything they know says it is a great
-chance he will get full blown AIDS. Det. Brown is next up. He first saw him in
-the West Hollywood jail and interviewed him there. Did AIDS come up? He
-initiated it. He told him what happened on the arrest and he asked him if he
-had AIDS. He said he knew 6 weeks ago he had AIDS. He asked him why he was
-still soliciting if he knew this. He doesn't care about anyone else and hopes
-they will all get it. As a result of the preliminary hearing the suspect was
-charged with felony prostitution. The case was later dismissed by a superior
-court on a technicality.
+**Los Angeles, CA 2**
+
+- (9:00 PM Male Prostitution Stings) West Hollywood Sheriff's Station Special
+  Problems Unit -- Deputy Aldo Iturriaga says you know why we are all out here.
+  The city, the gay and business community asked them to come out to arrest
+  hustlers because of the crimes associated with them. They'll only make right
+  turns and the signal is to put the blinker on. They are going to do it
+  different then before by using a limo. Inside the signal will be to pick up
+  the phone and say, "Let's go to the hotel." Deputy Jim Campbell says to give
+  him time to play the guys as he'll have to string them along longer than
+  normal. Aldo says once you do the passby turn your radio off and say, “You
+  are going to try to go for it.” They have to stay off Santa Monica and use
+  Fountain until they get something to do it that way. (9:30 PM) Justin walks
+  up asks what's going on. He says he's a man of the world, would you like to
+  see a lot of it and get in. He does and says he's from Sicily. Jim says he
+  comes and goes as he feels as they go on Detroit. He says he's a working man,
+  charges $60 and can get anything he wants for that. Jim asks what he likes.
+  Justin likes BJs and giving it in the ass. He asks if he likes hotels, motels
+  or the back seat of the car. He says this is good. Jim says he'll call his
+  driver and they stop, run out and bust him. Justin asks doesn't he have to
+  have money to be busted?  The second guy is a young Hispanic who asks Jim if
+  he's a cop. Jim says does this look like a cop car. He asks to prove it. How
+  can he prove it? Let him in.  He goes to kiss Jim and he freaks out and the
+  hustler knows he is a cop. He tries to get out Jim asks is that a game you
+  lay, he's a man who moves a lot of money, he doesn't give kisses, he's
+  bewildered by it. Do you usually do that, jumping in the car looking for a
+  kiss? Does he always do that? No. He says he looks for something quick, not
+  kissing. He says he finds him attractive. Jim says he hoped he would. He asks
+  about a price and the guy says he's not interested and gets out. Jim says to
+  send any of his friends over that might be. Then he says this guy is good.
+- (11:38 PM) A guy walks up and gets in. he says he's Steve and shakes his
+  hand. Jim says he wants to get to the nitty gritty, time is money, you've got
+  places to go and things. What are you hustling for? He says he gets different
+  amounts like $50. Jim says what does he get for that. Then a guy comes over
+  to the car and asks if anyone famous is in there. Jim says one at a time. The
+  guy says he likes to give BJs and he doesn't have a hotel to go to. They go
+  north on Orange to Lexiginton. Jim asks about him. He says he's 20 and from
+  Ohio. He wanted to come out and get into acting, but he got strung out on
+  drugs. He wants to save up for AA to get off drugs.  Then he'll have his
+  pictures done and get an agent. They pull him out and Aldo says Fred
+  Hennicker says they busted him before. Jim wants the guy who went to kiss him
+  (11:52 PM) Eric D'Angelo gets in dressed in drag. He is from Mexico and tired
+  of it. He keeps talking, then cops bust him and he just stares. Jim says he's
+  probably a guy. He says he has nothing on him, no weapons, no ID. Do you have
+  a penis? Yes. (12:15 AM) An old guy gets in, says his name is Snake.  Jim
+  thinks he's Steve. He asks his first name and he says Clint. He asks if Jim
+  is heat. He says does it look like it. He says they try anything. Jim asks
+  what's on the menu. He says for $50 he'll do anything but S&M. Jim says
+  anything for $50. Then he picks up the phone and says it's not a good spot.
+  The cops bust him and say he has coke on him, they know him, he's Earl
+  Jackson, he was just released from jail an hour ago after doing 6 months.
+  They laugh at him and tell him to pick another line of work, he's not good at
+  this. It's the 14th time he's been busted for it. Will he get a bullet, a
+  year this time? It doesn't matter, as soon as he gets out he'll be back doing
+  it again.
+- Beverly Hills Municipal Court (9:05 AM Two Weeks Later) Deputy Jim Campbell
+  is called to speak in the case against Earl. His job is for West Hollywood
+  Sheriff's Department, been there 24 years. On 10/21/89 he was working a
+  project for male hustlers. What does that mean? Deputy District Attorney Lisa
+  Hart questions him. She asks what that mean. He says he picks up makes for
+  sex. She asks if he was plain clothes, in a limo. Sgt. Powell was the driver.
+  He picked him up on the corner. He asked him what is he doing and asked to
+  get in. He moved over, didn't come in and came around the other side and he
+  told him he surprised him.  He asked if he was out hustling, he's a
+  businessman. He charges $50 and will do whatever you want. Chief Medical
+  Officer John H. Clark gets up next. He's  from the LA County sheriff's dept.
+  They ask him about drawing blood for HIV analysis. He says Mr. Tribble is
+  HIV+. Public Defender Michael Masterson asks if the test can be assumed from
+  the results alone that the patient has AIDS. He says that is correct. Can he
+  assume from the Smith Klein test that he will get AIDS. He can say for
+  certain, but everything they know says it is a great chance he will get full
+  blown AIDS. Det. Brown is next up. He first saw him in the West Hollywood
+  jail and interviewed him there. Did AIDS come up? He initiated it. He told
+  him what happened on the arrest and he asked him if he had AIDS. He said he
+  knew 6 weeks ago he had AIDS. He asked him why he was still soliciting if he
+  knew this. He doesn't care about anyone else and hopes they will all get it.
+  As a result of the preliminary hearing the suspect was charged with felony
+  prostitution. The case was later dismissed by a superior court on a
+  technicality.
 
 ## CP-221
 
@@ -2455,218 +2486,233 @@ Aired 1990-02-17.
 
 Aired 1990-02-24.
 
-**Los Angeles, CA 4** (7:45 PM Shooting Call) Sheriff's Dept. Homicide Bureau --
-Sgt. Ray Verdugo says they are seeing a lot of homicides, a vast increase. Last
-year was a record-breaking year in the entire county and this year they are
-ahead of last year. There seems to be an underlying sense of frustration and
-anger unleashing real rapidly, people seem to have a shorter fuse and are more
-angry about lesser things. The wrong look will kill you. He often sees it as
-fame or infamy. If you can't be famous, be infamous -- try to assassinate the
-president. Be known in your own crowd as the meanest guy or the guy who shot
-and killed someone. It's a tragedy. If he had the job and the education maybe
-he could give you the answer why. On patrol he says it is a warm, beautiful
-night, very comfortable, one of those unfortunate things that brings people to
-southern California. There is a murder in the Fireside station on Hopper in
-South Central. Detective Dave Castillo and Deputy Tanya Edwards are on scene.
-She says the guy and his 6 buddies were dancing and having a ball with their
-shirts off. Then 8 guys came up to them and told them to put their shirts back
-on which they refused and a fight ensued between all 14 of them. One guy pulled
-out a semi-automatic, then another came out. One is DOA and there are 7
-injured. The mans body is in the street and they take pictures. His sister ID's
-the body. Several witnesses come forward to talk to them including people
-involved and hopefully the suspect, but it's a pipe dream. He's an 18-19 year
-old youthful looking guy shot dead in the street for no reason. He took off his
-shirt, was dancing at a party and someone took offense and shot him dead. It's
-ludicrous, but a sign of the times. A guy at the station says the shooter fired
-3-4 shots at Marco. Another witness says in Mexico quite often they take a
-stand of revenge. If someone kills a good person, they seek revenge to kill
-them. He is only 15, but would kill him if he had a gun. A man is killed and a
-cousin will hunt them down. They don't judge, but if they apply customs from
-another land, this person will get justice if they don't get him first. Some
-friend or relative will get him. If he goes back to Mexico, they will kill him.
-(2:45 PM) South East County -- Sheriff's Station (911 Call Choking Child) Deputy
-David Halm takes the call of a baby having a seizure inside a supermarket. An
-employee has her, but doesn't know what to do. He takes the girl and puts her
-on the ground. Emily is breathing, that's good. He tells her to stay awake,
-don't close your eyes. Fire rescue arrives. Her heart is beating, no pupil
-reaction and she's been sick. They give her oxygen, the mom is crying and they
-tell her to be calm so the girl doesn't see her and freakout. They put her on a
-stretcher. (5:20 PM Warrant Briefing) LA County -- Detective Armando Rea says
-it's a who dunnit case. A man was on his roof and saw a neighbor at 2163
-Briarcrest with his power tools that were stolen. (5:35 PM Warrant Served) They
-go to the house and pull out two men, a woman and two girls. The girl says her
-dad Mike went to a storage yard. In the garage they find a bicycle, weed eater,
-two heaters, an American toolbox and Christmas lights that were stolen. The
-victim arrives and carts his stuff out never thinking he would get it back. His
-grandma gave him the lights. He was in San Diego while his house was being
-fumigated and he was robbed. The wife has no idea what's going on, no idea
-about any stolen equipment. Then Mike pulls up and she screams like she's being
-killed and yells "No!!!" They pull out guns and make him stop. He surrenders
-and is cuffed. They got them all, it was a good stop. West Hollywood Sheriff's
-Station -- Deputy Sean Collinsworth goes to a cleaner during a full moon wearing
-a large nose and glasses for Halloween. The cleaning will be ready Friday. He
-says the glasses tickle. (12:17 AM Street Patrol) Sean wants to get a picture
-of Deputy Paul Terrusa with a guy dressed as a zombie in the street. They both
-get pictures with a man as a silver robot. A man as a French maid cleans them.
-They get shows by scantily clad women to the delight of the crowd (911 Suicide
-Attempt) A guy tried to kill himself. They arrive and a woman says he just went
-down... the elevator. She has blood on her arm from him. They go downstairs and
-she runs out the door barefoot. They come around the corner to a shirtless,
-white long-haired guy who cut his wrist. He has no knife and says he's unhappy.
-Sean asks about anything particular. They call the Fire Dept saying he's on
-first floor in the back. Sean eats an apple while talking to him and is totally
-unphased. The guy has dozens of bracelets on and wants to go home, but they
-have to take him to the hospital. He says they have other business and should
-leave. He gets a little bit bummed out in life like they all do. (2:20 AM 911
-Call Man with a Gun) They go to Jeff who says he overheard on the intercom that
-they were coming in from all corners Sean asks Jeff if he's on medication or
-under treatment. He says no. They don't see anyone coming at him. He says a
-woman walked out of her apartment with her dog. There was a figure in the front
-corner of the apartment, he has his left arm up right now. His finger was
-pointing at them, he had a gun and they zoomed in on all fours. He heard the
-man call in, he said homosexuality had to be stopped at all costs. It was
-pretty aggressive. Sean says it all looks normal to him. He says they split
-right before they came in a car. There's nothing they can do now, call us again
-if you see them.
+**Los Angeles, CA 4**
+
+- (7:45 PM Shooting Call) Sheriff's Dept. Homicide Bureau -- Sgt. Ray Verdugo
+  says they are seeing a lot of homicides, a vast increase. Last year was a
+  record-breaking year in the entire county and this year they are ahead of
+  last year. There seems to be an underlying sense of frustration and anger
+  unleashing real rapidly, people seem to have a shorter fuse and are more
+  angry about lesser things. The wrong look will kill you. He often sees it as
+  fame or infamy. If you can't be famous, be infamous -- try to assassinate the
+  president. Be known in your own crowd as the meanest guy or the guy who shot
+  and killed someone. It's a tragedy. If he had the job and the education maybe
+  he could give you the answer why. On patrol he says it is a warm, beautiful
+  night, very comfortable, one of those unfortunate things that brings people
+  to southern California. There is a murder in the Fireside station on Hopper
+  in South Central. Detective Dave Castillo and Deputy Tanya Edwards are on
+  scene.  She says the guy and his 6 buddies were dancing and having a ball
+  with their shirts off. Then 8 guys came up to them and told them to put their
+  shirts back on which they refused and a fight ensued between all 14 of them.
+  One guy pulled out a semi-automatic, then another came out. One is DOA and
+  there are 7 injured. The mans body is in the street and they take pictures.
+  His sister ID's the body. Several witnesses come forward to talk to them
+  including people involved and hopefully the suspect, but it's a pipe dream.
+  He's an 18-19 year old youthful looking guy shot dead in the street for no
+  reason. He took off his shirt, was dancing at a party and someone took
+  offense and shot him dead. It's ludicrous, but a sign of the times. A guy at
+  the station says the shooter fired 3-4 shots at Marco. Another witness says
+  in Mexico quite often they take a stand of revenge. If someone kills a good
+  person, they seek revenge to kill them. He is only 15, but would kill him if
+  he had a gun. A man is killed and a cousin will hunt them down. They don't
+  judge, but if they apply customs from another land, this person will get
+  justice if they don't get him first. Some friend or relative will get him. If
+  he goes back to Mexico, they will kill him.
+- (2:45 PM) South East County -- Sheriff's Station (911 Call Choking Child)
+  Deputy David Halm takes the call of a baby having a seizure inside a
+  supermarket. An employee has her, but doesn't know what to do. He takes the
+  girl and puts her on the ground. Emily is breathing, that's good. He tells
+  her to stay awake, don't close your eyes. Fire rescue arrives. Her heart is
+  beating, no pupil reaction and she's been sick. They give her oxygen, the mom
+  is crying and they tell her to be calm so the girl doesn't see her and
+  freakout. They put her on a stretcher. (5:20 PM Warrant Briefing) LA County
+  -- Detective Armando Rea says it's a who dunnit case. A man was on his roof
+  and saw a neighbor at 2163 Briarcrest with his power tools that were stolen.
+  (5:35 PM Warrant Served) They go to the house and pull out two men, a woman
+  and two girls. The girl says her dad Mike went to a storage yard. In the
+  garage they find a bicycle, weed eater, two heaters, an American toolbox and
+  Christmas lights that were stolen. The victim arrives and carts his stuff out
+  never thinking he would get it back. His grandma gave him the lights. He was
+  in San Diego while his house was being fumigated and he was robbed. The wife
+  has no idea what's going on, no idea about any stolen equipment. Then Mike
+  pulls up and she screams like she's being killed and yells "No!!!" They pull
+  out guns and make him stop. He surrenders and is cuffed. They got them all,
+  it was a good stop.
+- West Hollywood Sheriff's Station -- Deputy Sean Collinsworth goes to a
+  cleaner during a full moon wearing a large nose and glasses for Halloween.
+  The cleaning will be ready Friday. He says the glasses tickle. (12:17 AM
+  Street Patrol) Sean wants to get a picture of Deputy Paul Terrusa with a guy
+  dressed as a zombie in the street. They both get pictures with a man as a
+  silver robot. A man as a French maid cleans them.  They get shows by scantily
+  clad women to the delight of the crowd (911 Suicide Attempt) A guy tried to
+  kill himself. They arrive and a woman says he just went down... the elevator.
+  She has blood on her arm from him. They go downstairs and she runs out the
+  door barefoot. They come around the corner to a shirtless, white long-haired
+  guy who cut his wrist. He has no knife and says he's unhappy.  Sean asks
+  about anything particular. They call the Fire Dept saying he's on first floor
+  in the back. Sean eats an apple while talking to him and is totally unphased.
+  The guy has dozens of bracelets on and wants to go home, but they have to
+  take him to the hospital. He says they have other business and should leave.
+  He gets a little bit bummed out in life like they all do. (2:20 AM 911 Call
+  Man with a Gun) They go to Jeff who says he overheard on the intercom that
+  they were coming in from all corners Sean asks Jeff if he's on medication or
+  under treatment. He says no. They don't see anyone coming at him. He says a
+  woman walked out of her apartment with her dog. There was a figure in the
+  front corner of the apartment, he has his left arm up right now. His finger
+  was pointing at them, he had a gun and they zoomed in on all fours. He heard
+  the man call in, he said homosexuality had to be stopped at all costs. It was
+  pretty aggressive. Sean says it all looks normal to him. He says they split
+  right before they came in a car. There's nothing they can do now, call us
+  again if you see them.
 
 ## CP-223
 
 Aired 1990-03-03.
 
-**Los Angeles, CA 5** (11:20 PM Sheriff's Homicide Bureau) A call comes in for
-two units to respond to a multiple murder shooting of three people at Direct
-Liquor. A witness says four people got shot. He just waited on the victims,
-they are dead face down in the street. He's been working there since 1965 and
-this is the worst thing he's ever seen. Sgt. Rey Verdguo arrives and Deputy
-Dana Villander explains what happened. Two kids came up, words were exchanged
-and the shooting started. A guy and a girl went down outside and were DOA. All
-the shots were fired outside. Two Mexicans were hit inside, probably dead, now
-removed. The witness was working there behind the counter and couldn't hear
-outside, but everyone started leaving and he saw what was happening. The guy
-inside said, "Piru" and they asked why he said that. He went outside, was hit,
-came back in and fell down. It's a gang fight between B13 and G13 Gardena 13
-gangs. Two Mexicans pulled up and they told him they don't bang. They got shot
-at and two customers were hit on the way out. (1:56 AM Homicide Bureau)
-Detective Jerry Jensen questions Sherry, a black woman with a huge afro. She
-was walking out, they were walking in and they bumped into her boy and he asked
-what was going on. A guy pulled a gun, he called him blood and that was it, he
-had blood in his eyes. She is trying to remember how he looked, he had a baby
-face, possibly a thin mustache and thinks she can ID him. Lennox Sheriff's
-Station -- Rey says this is a definite hit from a guy in the South Los Gang.
-(3:12 PM Homicide Investigation) Three out of the four have now died. They went
-to the location looking for a Gardena 13 gang member. It's what the one guy
-said that caused them to open up. What they do know is to talk to kids
-congregating and see what they heard. (Field Investigation) Two guys say Little
-Wolfie died and his brother Wolfie went back for justice. They don't know who
-this guy is. (4:02 PM Crime Lab) They remove a large slug from the dead black
-female. They have two bullets they want analyzed from a Rossi Revolver, Astra,
-Colt, or Dan Wesson. (10:11 Monday) They went to the house and retrieved some
-guns. (1:25 PM Ballistic Lab) One of the guns is a Wesson. They say the gun has
-no prints, but ballisticaly it matches up. They went to the G13 gang and they
-said Osvaldo Renrossos AKA Little Wolfie did it in retaliation for his
-brother's death. Ignacio Morina was only 13 and was going to join the gang and
-idolized Little Wolfie. They got photos and took it to their three witnesses.
-The woman ID's him right away and so does another witness. A member of B13 said
-that night he saw the shooter. He wasn't going to help him and off the record
-he said it was Wolfie. (One Month Later Suspect Arrested) They pulled by his
-house, saw his car there, went up to his mother and got him with no problems.
-In the station there is a Robocop poster on the wall. Rey tells the guy he has
-rights. He says he didn't do it, but knows about it. Rey said they will verify
-his story one way of the other and they want to be sure of a murder filing.
-It's multiple murders with the death penalty attached. He denies it, but all
-the witnesses say he did it. It's him beyond a reasonable doubt. Narcotic
-Bureau Temple City Station (8:15 AM Warrant Briefing) Deputy David Busk says
-they are looking for the same girl from July, red hair, green eyes with 19 & 20
-year old sons who are crazy bikers. The drugs and scales should be right
-inside. It's on Lelee and Pamono. Deputy Art Belmontes says she's been up all
-night. (8:30 AM Warrant Served) They go up to the white adobe house and the
-door is open so they don't have to smash it. Penny is still in bed, the sons
-are up front. She wants to put her glasses on. There is a shirtless man
-fidgeting there. They are cuffed and she says she only has a little bit of
-drugs for herself and doesn't sell. They don't believe her since they found
-baggies. She is 38, but she looks 45, the speed is aging her fast. The find two
-sheriff's patches in the bedroom and they laugh. They ask her why they deal
-with meth, why do bikers like it? He wants a quote for his book. She doesn't
-know and doesn't want to be quoted. (11:48 PM) She is taken in and bail is
-$100,000. In memory of Officer Anthony J. Gardner 1970-1989
+**Los Angeles, CA 5**
+
+- (11:20 PM Sheriff's Homicide Bureau) A call comes in for two units to respond
+  to a multiple murder shooting of three people at Direct Liquor. A witness
+  says four people got shot. He just waited on the victims, they are dead face
+  down in the street. He's been working there since 1965 and this is the worst
+  thing he's ever seen. Sgt. Rey Verdguo arrives and Deputy Dana Villander
+  explains what happened. Two kids came up, words were exchanged and the
+  shooting started. A guy and a girl went down outside and were DOA. All the
+  shots were fired outside. Two Mexicans were hit inside, probably dead, now
+  removed. The witness was working there behind the counter and couldn't hear
+  outside, but everyone started leaving and he saw what was happening. The guy
+  inside said, "Piru" and they asked why he said that. He went outside, was
+  hit, came back in and fell down. It's a gang fight between B13 and G13
+  Gardena 13 gangs. Two Mexicans pulled up and they told him they don't bang.
+  They got shot at and two customers were hit on the way out. (1:56 AM Homicide
+  Bureau) Detective Jerry Jensen questions Sherry, a black woman with a huge
+  afro. She was walking out, they were walking in and they bumped into her boy
+  and he asked what was going on. A guy pulled a gun, he called him blood and
+  that was it, he had blood in his eyes. She is trying to remember how he
+  looked, he had a baby face, possibly a thin mustache and thinks she can ID
+  him.
+- Lennox Sheriff's Station -- Rey says this is a definite hit from a guy in the
+  South Los Gang.  (3:12 PM Homicide Investigation) Three out of the four have
+  now died. They went to the location looking for a Gardena 13 gang member.
+  It's what the one guy said that caused them to open up. What they do know is
+  to talk to kids congregating and see what they heard. (Field Investigation)
+  Two guys say Little Wolfie died and his brother Wolfie went back for justice.
+  They don't know who this guy is. (4:02 PM Crime Lab) They remove a large slug
+  from the dead black female. They have two bullets they want analyzed from a
+  Rossi Revolver, Astra, Colt, or Dan Wesson. (10:11 Monday) They went to the
+  house and retrieved some guns. (1:25 PM Ballistic Lab) One of the guns is a
+  Wesson. They say the gun has no prints, but ballisticaly it matches up. They
+  went to the G13 gang and they said Osvaldo Renrossos AKA Little Wolfie did it
+  in retaliation for his brother's death. Ignacio Morina was only 13 and was
+  going to join the gang and idolized Little Wolfie. They got photos and took
+  it to their three witnesses.  The woman ID's him right away and so does
+  another witness. A member of B13 said that night he saw the shooter. He
+  wasn't going to help him and off the record he said it was Wolfie. (One Month
+  Later Suspect Arrested) They pulled by his house, saw his car there, went up
+  to his mother and got him with no problems.  In the station there is a
+  Robocop poster on the wall. Rey tells the guy he has rights. He says he
+  didn't do it, but knows about it. Rey said they will verify his story one way
+  of the other and they want to be sure of a murder filing.  It's multiple
+  murders with the death penalty attached. He denies it, but all the witnesses
+  say he did it. It's him beyond a reasonable doubt.
+- Narcotic Bureau Temple City Station (8:15 AM Warrant Briefing) Deputy David
+  Busk says they are looking for the same girl from July, red hair, green eyes
+  with 19 & 20 year old sons who are crazy bikers. The drugs and scales should
+  be right inside.  It's on Lelee and Pamono. Deputy Art Belmontes says she's
+  been up all night.  (8:30 AM Warrant Served) They go up to the white adobe
+  house and the door is open so they don't have to smash it. Penny is still in
+  bed, the sons are up front. She wants to put her glasses on. There is a
+  shirtless man fidgeting there. They are cuffed and she says she only has a
+  little bit of drugs for herself and doesn't sell. They don't believe her
+  since they found baggies.  She is 38, but she looks 45, the speed is aging
+  her fast. The find two sheriff's patches in the bedroom and they laugh. They
+  ask her why they deal with meth, why do bikers like it? He wants a quote for
+  his book. She doesn't know and doesn't want to be quoted. (11:48 PM) She is
+  taken in and bail is $100,000. In memory of Officer Anthony J. Gardner
+  1970-1989
 
 ## CP-224
 
 Aired 1990-03-10.
 
-**Los Angeles, CA 6** (9:15 PM 911 Call Heart Attack) South East County
-Sheriff's Station -- Deputy David Halm says a woman isn't breathing on Compton
-Blvd. It's trailer #2. EMS arrives, but they can't get in the door. They hear
-someone screaming inside. David slams the sliding glass door with his Billy
-club and a woman screams. He tells her to open the door, it's the police and is
-someone is having a heart attack. She says she is now. He's glad the glass
-didn't break. The old white woman says she didn't call. She was watching TV
-until 9pm and went to bed. EMS checks her out, 140/100 blood pressure. She asks
-if that's high. They say considering, it's pretty good. It seems a kid called
-it in, so it was a just cruel joke. She thanks them. (911 Call Drunk and
-Disorderly) They stop a white guy in a cowboy hat next to a white car. He says
-he has a license and shows it to David's partner. The guy says he has had
-something to drink and thinks about it -- a bottle of beer and 3 mixed drinks.
-He has a Budweiser shirt and sounds totally drunk. Where is he headed? He's not
-sure, he's going to his basement apartment around the corner. He says he wasn't
-going to drive. They tell him he better not. He says it won't happen. He was
-inside a fast food place and was drunk. No one saw him drive, he says he wasn't
-driving, so there is nothing they can do. Minutes later they swing around after
-getting a call that he drove away. If they find him they'll arrest him. They
-spot his car around the corner swerving down the road. He hits a curb and
-stops. Dan told him not to drive. He pulls him out, says he has no weapons and
-gives him a field sobriety test. The guy says he doesn't know if he can, the
-ground isn't level. They take him to a paved lot and have him walk a straight
-line, which he can't do. They arrest him, take him to the station and give him
-a breath test. It comes out .202 -- double the legal limit. They put him in a
-cell. The breath is always lower than the blood would be so he probably has a
-.22 or .23. (7:20 AM Warrant Briefing) Antelope Valley Narcotic Bureau -- Deputy
-Dennis Ingersoll says they want a lightweight meth dealer, male white, 30 years
-old and the informant says he carries 9mm. Tony takes the back, Carl takes the
-bolt cutters incase the gate is locked. (7:37 AM Warrant Served) They knock and
-announce, then bash the door in. There are four people sleeping on the floor of
-the living room. Carol says she is going to faint, starts to shake and doesn't
-live there. The guy with her behind the couch gets up and puts his pants on.
-Wayne, the owner of the house is cuffed. They have a search warrant. They cuff
-the other guy too. One cop finds a bunch of ¼ grams of meth wrapped in papers.
-They bring the guy with no shirt into the kitchen. They hear he's dealing and
-he was found sleeping next to it. He says it's not his. They bring Wayne in the
-kitchen and ask where the stash is so they don't have to tear the house apart.
-He says he doesn't have a stash and doesn't deal. He's told an undercover
-bought from him personally two days ago. Now he wants to lie to him, he didn't
-just fall of the turnip truck. Wayne says he doesn't want his house torn up,
-but he has no stash. They'll tear up every inch of the place until they find
-it, how are they supposed to trust him? In a woman's purse they find an 8 ball,
-crank and a syringe. The phone rings and Dennis answers it. He says Wayne is
-tied up right now. It's his boss, he's late for work. He tells him it's the
-sheriff's department, he's under arrest. He can come over and secure the house
-for him if he wants. He doesn't. Wayne isn't coming into work today. Lennox
-Sheriff's Station -- Sgt. Robin Sawyer says Detective Holbrook has info that the
-Buchannon family ripped off some Columbians on a dope deal and they are going
-to even the score. The Buchannon's are arming themselves with automatic weapons
-and will be carrying them when they go out. If they aren't familiar with the
-family talk to Holbrook. (3:29 PM Drive-by Shooting) They leave and head to a
-street under construction where a black man in a blue shirt is down and a crowd
-is around. The fire department arrives and a woman says he's her brother,
-doesn't know who shot him or why, he just got home from work. EMS works on him,
-gives him oxygen and he's not happy about getting a needle. They say he was
-just shot, a needle is the least of his worries. Deputy Bruce Vallerand talks
-to a witness. The guy says it looked like .32s. One was a .38 and the passenger
-shot him. They are a couple of drug dealers. The big guy got shot twice, the
-skinny guy shot once, neither are going to die, but it's definitely gang
-related. (4:37 PM Disturbance Call) They go to a Korean grocer and the woman
-says you'll shoot me. The guy says he wanted to buy a hat, he told her it was
-$10 and got mad. They talk to the black guy. He says he didn't want any
-trouble, he just wanted to change the hat. He goes to Cal State, bought a bunch
-of stuff, went to wear the hat to the basketball game, took it out and saw it
-was all worn. He came to get his money back and she said no, it's been worn.
-The cop says to give him another hat and they can all leave. They want to give
-him the money back, but he doesn't want it, he wants the Chicago Bulls hat.
-They pull it down from a display and he says it's fine. Robin says they come
-over to this country and try to make a living. The only way they can survive it
-to keep it open 20 hours a day from 6am to 2am. There was a communication
-breakdown and they think they are getting ripped off, it's a couple hours pay
-to them. To us it's not big deal.
+**Los Angeles, CA 6**
+
+- (9:15 PM 911 Call Heart Attack) South East County Sheriff's Station -- Deputy
+  David Halm says a woman isn't breathing on Compton Blvd. It's trailer #2. EMS
+  arrives, but they can't get in the door. They hear someone screaming inside.
+  David slams the sliding glass door with his Billy club and a woman screams.
+  He tells her to open the door, it's the police and is someone is having a
+  heart attack. She says she is now. He's glad the glass didn't break. The old
+  white woman says she didn't call. She was watching TV until 9pm and went to
+  bed. EMS checks her out, 140/100 blood pressure. She asks if that's high.
+  They say considering, it's pretty good. It seems a kid called it in, so it
+  was a just cruel joke. She thanks them. (911 Call Drunk and Disorderly) They
+  stop a white guy in a cowboy hat next to a white car. He says he has a
+  license and shows it to David's partner. The guy says he has had something to
+  drink and thinks about it -- a bottle of beer and 3 mixed drinks.  He has a
+  Budweiser shirt and sounds totally drunk. Where is he headed? He's not sure,
+  he's going to his basement apartment around the corner. He says he wasn't
+  going to drive. They tell him he better not. He says it won't happen. He was
+  inside a fast food place and was drunk. No one saw him drive, he says he
+  wasn't driving, so there is nothing they can do. Minutes later they swing
+  around after getting a call that he drove away. If they find him they'll
+  arrest him. They spot his car around the corner swerving down the road. He
+  hits a curb and stops. Dan told him not to drive. He pulls him out, says he
+  has no weapons and gives him a field sobriety test. The guy says he doesn't
+  know if he can, the ground isn't level. They take him to a paved lot and have
+  him walk a straight line, which he can't do. They arrest him, take him to the
+  station and give him a breath test. It comes out .202 -- double the legal
+  limit. They put him in a cell. The breath is always lower than the blood
+  would be so he probably has a .22 or .23.
+- (7:20 AM Warrant Briefing) Antelope Valley Narcotic Bureau -- Deputy Dennis
+  Ingersoll says they want a lightweight meth dealer, male white, 30 years old
+  and the informant says he carries 9mm. Tony takes the back, Carl takes the
+  bolt cutters incase the gate is locked. (7:37 AM Warrant Served) They knock
+  and announce, then bash the door in. There are four people sleeping on the
+  floor of the living room. Carol says she is going to faint, starts to shake
+  and doesn't live there. The guy with her behind the couch gets up and puts
+  his pants on.  Wayne, the owner of the house is cuffed. They have a search
+  warrant. They cuff the other guy too. One cop finds a bunch of ¼ grams of
+  meth wrapped in papers.  They bring the guy with no shirt into the kitchen.
+  They hear he's dealing and he was found sleeping next to it. He says it's not
+  his. They bring Wayne in the kitchen and ask where the stash is so they don't
+  have to tear the house apart.  He says he doesn't have a stash and doesn't
+  deal. He's told an undercover bought from him personally two days ago. Now he
+  wants to lie to him, he didn't just fall of the turnip truck. Wayne says he
+  doesn't want his house torn up, but he has no stash. They'll tear up every
+  inch of the place until they find it, how are they supposed to trust him? In
+  a woman's purse they find an 8 ball, crank and a syringe. The phone rings and
+  Dennis answers it. He says Wayne is tied up right now. It's his boss, he's
+  late for work. He tells him it's the sheriff's department, he's under arrest.
+  He can come over and secure the house for him if he wants. He doesn't. Wayne
+  isn't coming into work today.
+- Lennox Sheriff's Station -- Sgt. Robin Sawyer says Detective Holbrook has
+  info that the Buchannon family ripped off some Columbians on a dope deal and
+  they are going to even the score. The Buchannon's are arming themselves with
+  automatic weapons and will be carrying them when they go out. If they aren't
+  familiar with the family talk to Holbrook. (3:29 PM Drive-by Shooting) They
+  leave and head to a street under construction where a black man in a blue
+  shirt is down and a crowd is around.  The fire department arrives and a woman
+  says he's her brother, doesn't know who shot him or why, he just got home
+  from work. EMS works on him, gives him oxygen and he's not happy about
+  getting a needle. They say he was just shot, a needle is the least of his
+  worries. Deputy Bruce Vallerand talks to a witness. The guy says it looked
+  like .32s. One was a .38 and the passenger shot him. They are a couple of
+  drug dealers. The big guy got shot twice, the skinny guy shot once, neither
+  are going to die, but it's definitely gang related. (4:37 PM Disturbance
+  Call) They go to a Korean grocer and the woman says you'll shoot me. The guy
+  says he wanted to buy a hat, he told her it was $10 and got mad. They talk to
+  the black guy. He says he didn't want any trouble, he just wanted to change
+  the hat. He goes to Cal State, bought a bunch of stuff, went to wear the hat
+  to the basketball game, took it out and saw it was all worn. He came to get
+  his money back and she said no, it's been worn.  The cop says to give him
+  another hat and they can all leave. They want to give him the money back, but
+  he doesn't want it, he wants the Chicago Bulls hat.  They pull it down from a
+  display and he says it's fine. Robin says they come over to this country and
+  try to make a living. The only way they can survive it to keep it open 20
+  hours a day from 6am to 2am. There was a communication breakdown and they
+  think they are getting ripped off, it's a couple hours pay to them. To us
+  it's not big deal.
 
 ## CP-225
 
@@ -2742,302 +2788,322 @@ Aired 1990-03-17.
 
 Aired 1990-03-24.
 
-**Los Angeles, CA 8** (7:10 PM Baby with a Seizure) South East County Sheriff's
-Station -- Deputy David Halm races to the Mexican hovel. It is a. asks the sex
-of the child who can't breath. It is a boy, so he goes to get a blanket,. They
-put him on the blanket and he cries. He is 5 months old and they think he OD'd
-on penicillin medication because he's been sick. David says when they get too
-hot they can have a seizure to fight the heat. They take the baby's clothes
-off. EMS arrives and the mother says she started giving the baby penicillin on
-her own. They say she shouldn't do that. David assures them this is normal for
-a baby. He thanks them and leaves. (9:33 PM Domestic Dispute) David knows the
-guy, he's on parole and has dealt with him before. The guy tries to go inside
-and David makes him comes back. They live behind a fenced gas
-station/convenience store and their fence is covered with beer ads. The guy
-says Tina took all his stuff, his car and furniture. She says she wants to get
-her bed and kitchen table and has a friend with her that has a truck to haul it
-out. She doesn't want a fight, but he keeps yelling and carrying on. He says
-she's leaving him with an empty house. Tina says her sister is getting married
-so she has to do it know. He wants her to get it on Friday and not to leave him
-with an empty house. The cops let her go in and take her stuff. He's worried
-he's going to jail and says they took the glass to his coffee table. They stop
-the truck and the glass is between the mattresses. They say they don't want the
-glass and cops bring it back. (Narcotics Unit Warrant Briefing) Temple City
-Sheriff's Station -- They have a drawing and a deputy asks if there is a dog
-there. It's a house on Pear Blossom Hwy, which is drawn on the board. (4:18 PM
-Warrant Served) It's 50 off the road. They run out, open a large gate then
-spread out. There are a bunch of sheds and camper tops from trailers and they
-find a guy and a woman in a wooden box. Another guy comes out and they give her
-the warrant to search the place. There is a sign that reads “Attack cat on
-duty.” The only way to get into their "house" is a wooden corridor connecting
-the trailers that is filled with trash. The woman gets up and they make her sit
-down, she says it's probably her husband's brother and her son Mike beat her
-up. They say it is such a mess that they want her to show them where the drugs
-are. He can't go back in there because it smells so bad, the worst he's ever
-found. They find bags, boxes and cups full of drugs. She says she's tried to
-clean it, but only has one day off a week. There is garbage and boxes piled up
-all over and they hate it. (10:47 Fight at Club) West Hollywood Sheriff's
-Station -- Deputy Sean Collingsworth finds a group of people surrounding a man
-on the ground with bandages. A woman says has 25 witnesses who saw a man jump
-the guy and beat him up. They say his girl went in the club with his ticket and
-he went to get her and they jumped him. A guy pushes his way up and Sean cuffs
-him. A guy in a big hat and fringe jacket says Red threw the first punch and
-he's the one they cuffed. Sean calls for backup and says it was the bouncers
-who did this, the second one is inside. Fire rescue arrives. The guy is totally
-bloody and they beat him when he was down. Sean looks for people to go inside
-to ID the other guy. The victim says they kicked him in the face and he can
-barely keep his head up. They ask him where it hurts, he says his head. People
-cheer when they bring the other guy out in cuffs. The bouncers stopped the guy
-from going in and the manager is the one who started kicking. The Sgt. says the
-manager is responsible. The witnesses say he only kicked him once. They pull
-Red out and ask him what happened. He says the victim was thrown out and he
-came back in looking for his girlfriend. He told him to leave and they fought.
-He held him down and they victim tried to kick and punch him and the other
-guys. He hit him and didn't see anyone kick him. So he is arrested too.
+**Los Angeles, CA 8**
+
+- (7:10 PM Baby with a Seizure) South East County Sheriff's Station -- Deputy
+  David Halm races to the Mexican hovel. It is a. asks the sex of the child who
+  can't breath. It is a boy, so he goes to get a blanket,. They put him on the
+  blanket and he cries. He is 5 months old and they think he OD'd on penicillin
+  medication because he's been sick. David says when they get too hot they can
+  have a seizure to fight the heat. They take the baby's clothes off. EMS
+  arrives and the mother says she started giving the baby penicillin on her
+  own. They say she shouldn't do that. David assures them this is normal for a
+  baby. He thanks them and leaves. (9:33 PM Domestic Dispute) David knows the
+  guy, he's on parole and has dealt with him before. The guy tries to go inside
+  and David makes him comes back. They live behind a fenced gas
+  station/convenience store and their fence is covered with beer ads. The guy
+  says Tina took all his stuff, his car and furniture. She says she wants to
+  get her bed and kitchen table and has a friend with her that has a truck to
+  haul it out. She doesn't want a fight, but he keeps yelling and carrying on.
+  He says she's leaving him with an empty house. Tina says her sister is
+  getting married so she has to do it know. He wants her to get it on Friday
+  and not to leave him with an empty house. The cops let her go in and take her
+  stuff. He's worried he's going to jail and says they took the glass to his
+  coffee table. They stop the truck and the glass is between the mattresses.
+  They say they don't want the glass and cops bring it back.
+- (Narcotics Unit Warrant Briefing) Temple City Sheriff's Station -- They have
+  a drawing and a deputy asks if there is a dog there. It's a house on Pear
+  Blossom Hwy, which is drawn on the board. (4:18 PM Warrant Served) It's 50
+  off the road. They run out, open a large gate then spread out. There are a
+  bunch of sheds and camper tops from trailers and they find a guy and a woman
+  in a wooden box. Another guy comes out and they give her the warrant to
+  search the place. There is a sign that reads “Attack cat on duty.” The only
+  way to get into their "house" is a wooden corridor connecting the trailers
+  that is filled with trash. The woman gets up and they make her sit down, she
+  says it's probably her husband's brother and her son Mike beat her up. They
+  say it is such a mess that they want her to show them where the drugs are. He
+  can't go back in there because it smells so bad, the worst he's ever found.
+  They find bags, boxes and cups full of drugs. She says she's tried to clean
+  it, but only has one day off a week. There is garbage and boxes piled up all
+  over and they hate it.
+- (10:47 Fight at Club) West Hollywood Sheriff's Station -- Deputy Sean
+  Collingsworth finds a group of people surrounding a man on the ground with
+  bandages. A woman says has 25 witnesses who saw a man jump the guy and beat
+  him up. They say his girl went in the club with his ticket and he went to get
+  her and they jumped him. A guy pushes his way up and Sean cuffs him. A guy in
+  a big hat and fringe jacket says Red threw the first punch and he's the one
+  they cuffed. Sean calls for backup and says it was the bouncers who did this,
+  the second one is inside. Fire rescue arrives. The guy is totally bloody and
+  they beat him when he was down. Sean looks for people to go inside to ID the
+  other guy. The victim says they kicked him in the face and he can barely keep
+  his head up. They ask him where it hurts, he says his head. People cheer when
+  they bring the other guy out in cuffs. The bouncers stopped the guy from
+  going in and the manager is the one who started kicking.  The Sgt. says the
+  manager is responsible. The witnesses say he only kicked him once. They pull
+  Red out and ask him what happened. He says the victim was thrown out and he
+  came back in looking for his girlfriend. He told him to leave and they
+  fought.  He held him down and they victim tried to kick and punch him and the
+  other guys. He hit him and didn't see anyone kick him. So he is arrested too.
 
 ## CP-227
 
 Aired 1990-04-07.
 
-**Los Angeles, CA 9** (7:58 PM Suspicious Person) LA County, Malibu Sheriff's
-Station -- Deputy Gary Spencer says Malibu is different than lots of locations
-because of the greater distance, sometimes it takes more than 15 minutes to get
-to a call. People are people whether they are criminals or car thieves, it
-doesn't matter where you work, there's law enforcement to be done. He stops a
-car and Brian the driver says he's never been arrested before. Gary says he has
-two kinds of weed on him. Deputy Daniel McCann tells him he's in trouble and he
-swears it's not his and can show the keys. (10:50 PM Drug Investigation) They
-have Brian call in to make a deal with his buyer. (11:27 PM) They have him,
-it's Saturday night, time to go to jail. The dealer is an obese white guy with
-a mullet in a fancy white pickup truck. He's so big they need 2 handcuffs and
-might even need 3. They find a wad of cash and high quality cocaine off a kilo
-brick. The size and type leads them to believe he is a dealer and they write up
-a search warrant, present it to Judge Lawrence Mira and go to his house. (1:45
-AM) They arrive at the judge's house, he signs it and Gary swears on it. (2:40
-AM Warrant Served) They bang on the door and get no answer, so they kick it in.
-They find an ounce of coke in the closet, a shotgun and shells in the bedroom.
-They started their shift at 5pm and now it's over at 4am. They'll file the
-paperwork and hopefully be done at 6:30am, get home and start again tomorrow.
-(4:40 PM Roll Call) South East County Sheriff's Station -- The captain says for
-shoplifting if they are going for a felony to file burglary and theft with a
-prior and they can get them for 16 months on a first offense. Let them know
-they are going to state prison so they won't go out and rip off cars. Deputy
-David Halm listens. (5:40 PM Traffic Stop) David spots a car with no
-registration. He pulls out Robert the driver who knows his headlights are out.
-He says he has no guns or drugs, he just forgot to put the lights on. He wasn't
-putting anything under the seat where they saw him digging, but they find a
-pellet gun there. He likes to target shoot. They find black face makeup in the
-trunk. He says it's from Halloween, he doesn't clean his car out much. Dave
-asks if he's doing any robbery. He says no, but has been in jail seven times.
-He was arrested for meth, but hasn't done it since the last time he was in
-jail. He has a massive key ring with hotel keys. He says he just picked them up
-and collects them. He claims he owned seven cars at one time, but there is more
-than seven sets of keys. They had a robbery a couple weeks ago by a man in
-black face. They don't know all the details, so they'll take him in to run him.
-He claims the makeup is for his kids' costume. (7:15 PM Robbery Investigation)
-They go to the supermarket that was robbed a couple weeks ago. They find a
-bagger who was there that night. He said the guy had a painted face and a gun.
-He didn't see the gun and he also had a fake beard. A woman says he showed the
-gun in his jacket. It sounds like their suspect so they go back to the station
-and read the report. The guy left on foot, was wearing makeup, possibly a white
-male. They are going to book him for robbery. (8:11 PM Multiple Shooting) They
-are looking for suspects wearing masks who had AK-47s. They picked the suspects
-out and executed them. David pulls up to a body shop and there is blood and
-guts on the street. Deputy Eric Stewart was first on the scene. One guys' leg
-was blown off, another guy was shot in the gut and his intestines came out.
-Deputy Fred Bertsche talks to one guy. They were watching Star Search, working
-on their cars, putting a radio in and then the shooting started and he split.
-EMS comes in and treats people. EMS says the first guy was across the street
-with an ankle wound, two guys were by the Pepsi machine with one with a head
-wound and the other was eviscerated, a guy was by the car with his stomach shot
-open and the fifth victim got over the fence and cut his foot open. Sgt. Cole
-Hughes says they chased the people through the parking lot and fired at them.
-They found a 308 shell, a large round. A woman was on the phone calling the
-police and heard someone yell, "Where's the money? Get on the floor!" One had a
-red rag in their pocket so it seems gang related. They had a gang shooting two
-weeks ago where kids shot at cops with AK-47s. They think they know where the
-guys are. It's ironic that up on the wall is a Crimestoppers security alarms
-sign. They install them in cars, but not on their own door.
+**Los Angeles, CA 9**
+
+- (7:58 PM Suspicious Person) LA County, Malibu Sheriff's Station -- Deputy
+  Gary Spencer says Malibu is different than lots of locations because of the
+  greater distance, sometimes it takes more than 15 minutes to get to a call.
+  People are people whether they are criminals or car thieves, it doesn't
+  matter where you work, there's law enforcement to be done. He stops a car and
+  Brian the driver says he's never been arrested before. Gary says he has two
+  kinds of weed on him. Deputy Daniel McCann tells him he's in trouble and he
+  swears it's not his and can show the keys. (10:50 PM Drug Investigation) They
+  have Brian call in to make a deal with his buyer. (11:27 PM) They have him,
+  it's Saturday night, time to go to jail. The dealer is an obese white guy
+  with a mullet in a fancy white pickup truck. He's so big they need 2
+  handcuffs and might even need 3. They find a wad of cash and high quality
+  cocaine off a kilo brick. The size and type leads them to believe he is a
+  dealer and they write up a search warrant, present it to Judge Lawrence Mira
+  and go to his house. (1:45 AM) They arrive at the judge's house, he signs it
+  and Gary swears on it. (2:40 AM Warrant Served) They bang on the door and get
+  no answer, so they kick it in.  They find an ounce of coke in the closet, a
+  shotgun and shells in the bedroom.  They started their shift at 5pm and now
+  it's over at 4am. They'll file the paperwork and hopefully be done at 6:30am,
+  get home and start again tomorrow.
+- (4:40 PM Roll Call) South East County Sheriff's Station -- The captain says
+  for shoplifting if they are going for a felony to file burglary and theft
+  with a prior and they can get them for 16 months on a first offense. Let them
+  know they are going to state prison so they won't go out and rip off cars.
+  Deputy David Halm listens. (5:40 PM Traffic Stop) David spots a car with no
+  registration. He pulls out Robert the driver who knows his headlights are
+  out.  He says he has no guns or drugs, he just forgot to put the lights on.
+  He wasn't putting anything under the seat where they saw him digging, but
+  they find a pellet gun there. He likes to target shoot. They find black face
+  makeup in the trunk. He says it's from Halloween, he doesn't clean his car
+  out much. Dave asks if he's doing any robbery. He says no, but has been in
+  jail seven times.  He was arrested for meth, but hasn't done it since the
+  last time he was in jail. He has a massive key ring with hotel keys. He says
+  he just picked them up and collects them.  He claims he owned seven cars at
+  one time, but there is more than seven sets of keys. They had a robbery a
+  couple weeks ago by a man in black face. They don't know all the details, so
+  they'll take him in to run him.  He claims the makeup is for his kids'
+  costume. (7:15 PM Robbery Investigation) They go to the supermarket that was
+  robbed a couple weeks ago. They find a bagger who was there that night. He
+  said the guy had a painted face and a gun.  He didn't see the gun and he also
+  had a fake beard. A woman says he showed the gun in his jacket. It sounds
+  like their suspect so they go back to the station and read the report. The
+  guy left on foot, was wearing makeup, possibly a white male. They are going
+  to book him for robbery.
+- (8:11 PM Multiple Shooting) They are looking for suspects wearing masks who
+  had AK-47s. They picked the suspects out and executed them. David pulls up to
+  a body shop and there is blood and guts on the street. Deputy Eric Stewart
+  was first on the scene. One guys' leg was blown off, another guy was shot in
+  the gut and his intestines came out.  Deputy Fred Bertsche talks to one guy.
+  They were watching Star Search, working on their cars, putting a radio in and
+  then the shooting started and he split.  EMS comes in and treats people. EMS
+  says the first guy was across the street with an ankle wound, two guys were
+  by the Pepsi machine with one with a head wound and the other was
+  eviscerated, a guy was by the car with his stomach shot open and the fifth
+  victim got over the fence and cut his foot open. Sgt. Cole Hughes says they
+  chased the people through the parking lot and fired at them.  They found a
+  308 shell, a large round. A woman was on the phone calling the police and
+  heard someone yell, "Where's the money? Get on the floor!" One had a red rag
+  in their pocket so it seems gang related.  They had a gang shooting two weeks
+  ago where kids shot at cops with AK-47s.  They think they know where the guys
+  are. It's ironic that up on the wall is a Crimestoppers security alarms sign.
+  They install them in cars, but not on their own door.
 
 ## CP-228
 
 Aired 1990-04-14.
 
-**Los Angeles, CA 10** (5:06 PM Domestic Violence) LA County -- Temple City
-Sheriff's Station -- Deputy Ann Brannan goes to the call of a husband, Carlos,
-beating his wife. He says she fell. Claudia is Spanish and says he beat her in
-front of their baby, threw her against a wall, punched her in the face and
-back. He is in the back with the baby, is searched for weapons and says they
-can't get along, she scratched and bit him and he doesn't want anything to do
-with her. They explain he can't hit her like they do in Latino countries and is
-arrested on a 275 -- spousal abuse. They put him in a holding cell at the jail
-and remove the cuffs. He wants to take pictures of her at the hospital. (9:05
-PM Hotel Disturbance) West Hollywood Sheriff's Station -- Deputy Paul Terrusa
-and Deputy Sean Collinsworth go to the call of a drunk at the Sunset Hyatt
-House on the 9th floor where a guy is throwing chairs from a balcony. A
-long-haired blonde guy, another guy and a short girl come out. The girl is
-crying, says she almost got killed. Their room is completely trashed, stuff is
-everywhere. The blonde guy says there was a knock at the door for Steve and he
-said he wasn't there. They kept knocking and 3 black guys rushed him, came in,
-tied them up and robbed them of their money and drugs. Sean asks why they
-didn't say that at first? He says they were scared, the last time they opened
-the door they were robbed. Their stories don't match and the management wants
-them out, plus people saw them throwing stuff. (11:17 PM Shots Fired) South
-East County Sheriff's Station -- Deputy David Halm goes to a hotel and finds two
-shirtless black guys at a car saying 2 white guys attacked them and said
-“Niggers get out!” and one hit them with a bat. One swung a golf club at them.
-David says there is an armed man inside when Deputy Brent Becker arrives. Two
-guys attacked a Mexican and locked him out of his room. The manager fired at
-them and cops go inside to get his gun. The man thought he was going to get
-robbed and they threatened to kill him. Then he says they can stay since the
-rent is paid. Cops go back to the car and let the black guys go. (11:55 PM Man
-with a Gun) He stops a car and finds 2 guns in the trunk that were from the
-hotel in the last call. The black guys got the gun from their car, were going
-back to the hotel to get the other guys plus two women. Cops find a .357 that
-belongs to Glover and Tyson. They called their friends to bring the guns so
-they could kill the manager.
+**Los Angeles, CA 10**
+
+- (5:06 PM Domestic Violence) LA County -- Temple City Sheriff's Station --
+  Deputy Ann Brannan goes to the call of a husband, Carlos, beating his wife.
+  He says she fell. Claudia is Spanish and says he beat her in front of their
+  baby, threw her against a wall, punched her in the face and back. He is in
+  the back with the baby, is searched for weapons and says they can't get
+  along, she scratched and bit him and he doesn't want anything to do with her.
+  They explain he can't hit her like they do in Latino countries and is
+  arrested on a 275 -- spousal abuse. They put him in a holding cell at the
+  jail and remove the cuffs. He wants to take pictures of her at the hospital.
+- (9:05 PM Hotel Disturbance) West Hollywood Sheriff's Station -- Deputy Paul
+  Terrusa and Deputy Sean Collinsworth go to the call of a drunk at the Sunset
+  Hyatt House on the 9th floor where a guy is throwing chairs from a balcony. A
+  long-haired blonde guy, another guy and a short girl come out. The girl is
+  crying, says she almost got killed. Their room is completely trashed, stuff
+  is everywhere. The blonde guy says there was a knock at the door for Steve
+  and he said he wasn't there. They kept knocking and 3 black guys rushed him,
+  came in, tied them up and robbed them of their money and drugs. Sean asks why
+  they didn't say that at first? He says they were scared, the last time they
+  opened the door they were robbed. Their stories don't match and the
+  management wants them out, plus people saw them throwing stuff.
+- (11:17 PM Shots Fired) South East County Sheriff's Station -- Deputy David
+  Halm goes to a hotel and finds two shirtless black guys at a car saying 2
+  white guys attacked them and said “Niggers get out!” and one hit them with a
+  bat. One swung a golf club at them.  David says there is an armed man inside
+  when Deputy Brent Becker arrives. Two guys attacked a Mexican and locked him
+  out of his room. The manager fired at them and cops go inside to get his gun.
+  The man thought he was going to get robbed and they threatened to kill him.
+  Then he says they can stay since the rent is paid. Cops go back to the car
+  and let the black guys go. (11:55 PM Man with a Gun) He stops a car and finds
+  2 guns in the trunk that were from the hotel in the last call. The black guys
+  got the gun from their car, were going back to the hotel to get the other
+  guys plus two women. Cops find a .357 that belongs to Glover and Tyson. They
+  called their friends to bring the guns so they could kill the manager.
 
 ## CP-229
 
 Aired 1990-04-21.
 
-**Los Angeles, CA 11** (911 Call Possible Assault) Los Angeles County Malibu
-Sheriff's Station -- Deputy Gary Spencer leaves the station with a gun and loads
-it into his car. A call comes in about a man outside bothering a woman. He's at
-the door with a jacket and a Walkman on. She wants to know how long it'll take
-to get there, 5-10 minutes. It's a possible 5150. The man rang the bell, makes
-loud complaints and curses. They spot the guy walking with a red bag and they
-go out to talk to him and he fights so three cops jump him and hold him against
-the car and cuff him. He says, "Ow! Ow! My little animals, there are little
-animals in the red case. They look dead, but they're alive. Ow! Ow! Ow! I am a
-cripblood, I am a god." They laugh at him. He has a long coat, white scarf,
-orange shirt and a brown turtleneck. He screams they are hurting him so bad,
-his animals are alive, don't let them take his butterfly and little hummingbird
-by these pig bastards. He swears to god. He can remain silent, they would
-prefer it. The butterfly has a number on it's wing “Mail to entomology, natural
-history museum, Los Angeles, CA.” Gary tells him they look like they are doing
-a good job of playing dead. His name is Robert and he's on medication. What
-kind? Anything he wants. His lawyer's name is ouch. They transport him to the
-hospital for a 72 hour mental evaluation since he is a danger to himself. (6:10
-PM Arson Investigation) West Hollywood Sheriff's Station -- Deputy Sean
-Collingsworth says 93 to 95 Tom1 he's taking over the call. Deputy Jeffrey Fine
-is on the scene. He's training a rookie partner, Deputy Paul Terrusa, so he
-wants him to take it. Jeff had them all get outside calmly, the fire is
-contained to the east side of the building and is almost out. Paul talks to the
-man who runs the building. He thinks it's electrical from the kitchen. He needs
-to fill it out like a 39. The fire department talks to one of the female
-workers who says one of the shelves with the cookbooks was on fire. She thought
-they could put it out, but it just erupted. She takes them into the burned out
-room to point out the books that were stacked up and on fire. They are to call
-immediately to say it's possible arson. (7:40 PM Narcotics Investigation) They
-look for a black guy named Tree and find him on the street. Paul checks and
-cuffs him. Sean finds some little baggies on him and the suspect says he
-collects stamps and that's what they're for, also for jewelry. There is meth in
-the bags, but he says he just found them. He's arrested for a 2020. (8:50 PM)
-They take him to jail for a strip search. A snitch told them he was a speed
-dealer. He says he's used and shows his arms. They find a bag taped to the
-inside of his shirt that has speed baggies in it. This is what they expected.
-(1:50 AM) Sean says this is Paul's last evaluation. He's rated competent. He's
-made lots of improvements with codes, rules and procedures, it's his first 3.0,
-tremendous improvement in all facets of his training. Field performance is
-excellent, it's good because he's coming inside next month as the watch deputy
-so he'll be watching him. Congratulations and best of luck. (4:31 PM Patrol
-Stop) Lennox Sheriff's Station -- Sgt. Robin Sawyer tries to stay out there and
-monitor all the calls for service and make sure they are answered in a
-reasonable amount of time. He waits for the hot calls and rolls on those,
-evaluates the deputies on performance and doesn't want them to take unnecessary
-risks. Out there they do a real good job, everybody enjoys working there. He
-stops and talks to prostitute who has been beat, robbed and shot. She says no
-one's done that. He asks if they don't pay is it rape. She says no, she always
-discusses payments in advance. She's on a crutch and her left foot is in a
-cast. They shot her and robbed her of $1100, then the next time they took $400.
-She didn't know she was shot, she heard that a bullet wound doesn't hurt, but
-it hurt. There was a hole in her shoe, it went through the first and second
-toe, went up and broke it in 3 pieces. She's got someone to rough him up. She
-won't call the cops because the girls will beat him up. He says let them take
-care of it. She says they hate her. He asks her if she wants to get off the
-street. She says yeah, but how? He says to work with him and arrest this guy,
-get the SOB off the street. She says to talk to her tomorrow. She's going home
-to change because no one will pick her up since she looks like she's
-handicapped. They just won't do the right thing. Robin went to his 30th high
-school reunion and everything's changed. They took all the trophies out of the
-display case and replaced them with tributes to the murdered students. (8:01 PM
-Suspicious Juveniles) Deputy Bruce Vallerand caught a 12 year-old black kid
-with a gun. He says he doesn't have a gun, but they saw him throw it. He's in
-7th grade. They ask him his homeroom teacher's name, but he doesn't know since
-he just got there. They ask his old homeroom teacher's name and he doesn't know
-that either. They find cocaine in a wrapped up paper. That way they can drop it
-and no one will know. They are $20 rocks. They saw him toss the gun into the
-bushes when he pulled up. There are three kids getting into guns and drugs and
-gangs already -- two lives lost.
+**Los Angeles, CA 11**
+
+- (911 Call Possible Assault) Los Angeles County Malibu Sheriff's Station --
+  Deputy Gary Spencer leaves the station with a gun and loads it into his car.
+  A call comes in about a man outside bothering a woman. He's at the door with
+  a jacket and a Walkman on. She wants to know how long it'll take to get
+  there, 5-10 minutes. It's a possible 5150. The man rang the bell, makes loud
+  complaints and curses. They spot the guy walking with a red bag and they go
+  out to talk to him and he fights so three cops jump him and hold him against
+  the car and cuff him. He says, "Ow! Ow! My little animals, there are little
+  animals in the red case. They look dead, but they're alive. Ow! Ow! Ow! I am
+  a cripblood, I am a god." They laugh at him. He has a long coat, white scarf,
+  orange shirt and a brown turtleneck. He screams they are hurting him so bad,
+  his animals are alive, don't let them take his butterfly and little
+  hummingbird by these pig bastards. He swears to god. He can remain silent,
+  they would prefer it. The butterfly has a number on it's wing “Mail to
+  entomology, natural history museum, Los Angeles, CA.” Gary tells him they
+  look like they are doing a good job of playing dead. His name is Robert and
+  he's on medication. What kind? Anything he wants. His lawyer's name is ouch.
+  They transport him to the hospital for a 72 hour mental evaluation since he
+  is a danger to himself.
+- (6:10 PM Arson Investigation) West Hollywood Sheriff's Station -- Deputy Sean
+  Collingsworth says 93 to 95 Tom1 he's taking over the call. Deputy Jeffrey
+  Fine is on the scene. He's training a rookie partner, Deputy Paul Terrusa, so
+  he wants him to take it. Jeff had them all get outside calmly, the fire is
+  contained to the east side of the building and is almost out. Paul talks to
+  the man who runs the building. He thinks it's electrical from the kitchen. He
+  needs to fill it out like a 39. The fire department talks to one of the
+  female workers who says one of the shelves with the cookbooks was on fire.
+  She thought they could put it out, but it just erupted. She takes them into
+  the burned out room to point out the books that were stacked up and on fire.
+  They are to call immediately to say it's possible arson. (7:40 PM Narcotics
+  Investigation) They look for a black guy named Tree and find him on the
+  street. Paul checks and cuffs him. Sean finds some little baggies on him and
+  the suspect says he collects stamps and that's what they're for, also for
+  jewelry. There is meth in the bags, but he says he just found them. He's
+  arrested for a 2020. (8:50 PM) They take him to jail for a strip search. A
+  snitch told them he was a speed dealer. He says he's used and shows his arms.
+  They find a bag taped to the inside of his shirt that has speed baggies in
+  it. This is what they expected.  (1:50 AM) Sean says this is Paul's last
+  evaluation. He's rated competent. He's made lots of improvements with codes,
+  rules and procedures, it's his first 3.0, tremendous improvement in all
+  facets of his training. Field performance is excellent, it's good because
+  he's coming inside next month as the watch deputy so he'll be watching him.
+  Congratulations and best of luck.
+- (4:31 PM Patrol Stop) Lennox Sheriff's Station -- Sgt. Robin Sawyer tries to
+  stay out there and monitor all the calls for service and make sure they are
+  answered in a reasonable amount of time. He waits for the hot calls and rolls
+  on those, evaluates the deputies on performance and doesn't want them to take
+  unnecessary risks. Out there they do a real good job, everybody enjoys
+  working there. He stops and talks to prostitute who has been beat, robbed and
+  shot. She says no one's done that. He asks if they don't pay is it rape. She
+  says no, she always discusses payments in advance. She's on a crutch and her
+  left foot is in a cast. They shot her and robbed her of $1100, then the next
+  time they took $400.  She didn't know she was shot, she heard that a bullet
+  wound doesn't hurt, but it hurt. There was a hole in her shoe, it went
+  through the first and second toe, went up and broke it in 3 pieces. She's got
+  someone to rough him up. She won't call the cops because the girls will beat
+  him up. He says let them take care of it. She says they hate her. He asks her
+  if she wants to get off the street. She says yeah, but how? He says to work
+  with him and arrest this guy, get the SOB off the street. She says to talk to
+  her tomorrow. She's going home to change because no one will pick her up
+  since she looks like she's handicapped. They just won't do the right thing.
+  Robin went to his 30th high school reunion and everything's changed. They
+  took all the trophies out of the display case and replaced them with tributes
+  to the murdered students.  (8:01 PM Suspicious Juveniles) Deputy Bruce
+  Vallerand caught a 12 year-old black kid with a gun. He says he doesn't have
+  a gun, but they saw him throw it. He's in 7th grade. They ask him his
+  homeroom teacher's name, but he doesn't know since he just got there. They
+  ask his old homeroom teacher's name and he doesn't know that either. They
+  find cocaine in a wrapped up paper. That way they can drop it and no one will
+  know. They are $20 rocks.  They saw him toss the gun into the bushes when he
+  pulled up. There are three kids getting into guns and drugs and gangs already
+  -- two lives lost.
 
 ## CP-230
 
 Aired 1990-04-28.
 
-**Los Angeles CA 12** (11:20 AM Saturday) LA County Sheriff's Department
-Homicide Investigation -- George calls the police to say his wife is lying on
-the floor it looks like someone broke into his house and stabbed her. He didn't
-check the body to see if she's breathing. The dispatcher tells him to check.
-She's dead in a large pool of blood. He called into Lakewood Station at 8:33am,
-said he woke up and found her. Lt. Joe Brown investigates, talks on the phone
-and has a theory about it. They check the closets and the fridge, but there is
-no alcohol in the house. They talk to the neighbor. He's known them for years,
-they have no problems and he saw them a few days ago to pay the rent. He has no
-idea why someone would want to kill her. They check the stab wound and see it
-was a large wound that must've been 12 inch knife. They roll her over and to
-take pictures. They load the body up and the blood is leaking through the
-sheets. They find the murder weapon and there is nothing stolen, nothing
-ransacked. The husband was home when they got there. They are going to talk to
-the husband and stepson at the station. (2:38 PM Homicide Bureau) They ask
-George his story. He usually sleeps late, but he woke up early. She was already
-up, so he decided to get up. He's slow to get dressed and took five minutes. He
-opened up the door and she was lying there in a pool of blood. They say there
-is a problem, something happened this morning. They all know he murdered his
-wife and he can't face up to the fact that he did it. Something happened to
-make him mad. How did the blood get on the top of his shoes? He says he doesn't
-know what it was, it was there for days. He thought it was her paint or
-Crayolas. (4:46 PM Homicide Bureau) They ask if he washed his hands after
-finding her. They take samples from between his fingers to see if he has blood
-stains. If it's positive it'll change to purple or pink and it won't matter if
-he washed his hands. His hands are very sweaty and he says it's from his
-medication. She continues to swab his hands. It's not a specific blood test,
-it's presumptive to allow them to investigate further. They pull out his shoes
-that have red on them as well as hair and possible brain matter. They talk to
-the stepson and ask if George is capable of harming his mother. He doesn't
-know, she met him when he was 5 and he's 18 now. He's never seen him get mad,
-he raised his voice once in a great while and he's a soft mellow person. He
-wants to know if someone else besides George stabbed her. They don't know. He
-wants to know where she is. They say at the coroner's office. (1:10 PM Tuesday)
-Crime Lab -- It turns out she wasn't stabbed, she was shot in the back of the
-head and it shattered. They want the shoe analyzed for brain matter. He told
-them that he approached he wife from behind between her legs and touched her
-from the back, but the pool of blood was by her head. She analyzes the Reebok
-tennis shoe in a lab. There was no exit wound. She puts the shoe on a
-microscope and they wonder about the power. She says the red is clear like
-strawberry jam, certainly not blood. His story is going to stand, maybe she let
-someone in. They'll have to get prints from the knife, maybe she stabbed the
-suspect and he stabbed her. She brought a knife to a gunfight. (2:30 PM Friday)
-There are no prints on the knife and no motive for the husband. It could've
-been a rapist or an opportunist. George says when he went to call 911 the phone
-was unplugged. He had to plug it back in. It's always plugged in because he has
-a recorder for the rental properties he owns. Maybe someone got in with a phone
-company uniform. Temple City Sheriff's Station (911 Call Assault with a Deadly
-Weapon) A woman calls about an attack from a man in a green Jeep with a white
-top. He just got on the freeway and they go to look for it. They spot a pickup
-truck heading west with a bunch of junk in the back with a tarp over it. There
-are three people in the truck, one child. It's heavy traffic so they can't make
-a stop. (5:11 PM Felony Stop) They pull him over on Rosemeade Blvd. He's an
-older Mexican guy in a cowboy hat. They pull him out at gunpoint and tell him
-it's not a joke. Then they call the younger Mexican guy out and tell him to put
-his hands out the window, but he doesn't listen. The white male passenger tries
-to get out to, and they yell at him to get back in. He finally gets out and is
-filthy. The suspect is Jessie Barber wanted in the murder of George's wife, but
-this guy's not the one. Deputy Patrick Martinez says to cut them loose and
-explain what happened. Deputy Ann Brannon has to explain. There was a serious
-crime down the street that matched the description. He thought he was the one
-blasting the radio in front of him. They just did an excavation site and scared
-the crap out of them. They let them go.
+**Los Angeles CA 12**
+
+- (11:20 AM Saturday) LA County Sheriff's Department Homicide Investigation --
+  George calls the police to say his wife is lying on the floor it looks like
+  someone broke into his house and stabbed her. He didn't check the body to see
+  if she's breathing. The dispatcher tells him to check.  She's dead in a large
+  pool of blood. He called into Lakewood Station at 8:33am, said he woke up and
+  found her. Lt. Joe Brown investigates, talks on the phone and has a theory
+  about it. They check the closets and the fridge, but there is no alcohol in
+  the house. They talk to the neighbor. He's known them for years, they have no
+  problems and he saw them a few days ago to pay the rent. He has no idea why
+  someone would want to kill her. They check the stab wound and see it was a
+  large wound that must've been 12 inch knife. They roll her over and to take
+  pictures. They load the body up and the blood is leaking through the sheets.
+  They find the murder weapon and there is nothing stolen, nothing ransacked.
+  The husband was home when they got there. They are going to talk to the
+  husband and stepson at the station. (2:38 PM Homicide Bureau) They ask George
+  his story. He usually sleeps late, but he woke up early. She was already up,
+  so he decided to get up. He's slow to get dressed and took five minutes. He
+  opened up the door and she was lying there in a pool of blood. They say there
+  is a problem, something happened this morning. They all know he murdered his
+  wife and he can't face up to the fact that he did it. Something happened to
+  make him mad. How did the blood get on the top of his shoes? He says he
+  doesn't know what it was, it was there for days. He thought it was her paint
+  or Crayolas.
+- (4:46 PM Homicide Bureau) They ask if he washed his hands after finding her.
+  They take samples from between his fingers to see if he has blood stains. If
+  it's positive it'll change to purple or pink and it won't matter if he washed
+  his hands. His hands are very sweaty and he says it's from his medication.
+  She continues to swab his hands. It's not a specific blood test, it's
+  presumptive to allow them to investigate further. They pull out his shoes
+  that have red on them as well as hair and possible brain matter. They talk to
+  the stepson and ask if George is capable of harming his mother. He doesn't
+  know, she met him when he was 5 and he's 18 now. He's never seen him get mad,
+  he raised his voice once in a great while and he's a soft mellow person. He
+  wants to know if someone else besides George stabbed her. They don't know. He
+  wants to know where she is. They say at the coroner's office. (1:10 PM
+  Tuesday) Crime Lab -- It turns out she wasn't stabbed, she was shot in the
+  back of the head and it shattered. They want the shoe analyzed for brain
+  matter. He told them that he approached he wife from behind between her legs
+  and touched her from the back, but the pool of blood was by her head. She
+  analyzes the Reebok tennis shoe in a lab. There was no exit wound. She puts
+  the shoe on a microscope and they wonder about the power. She says the red is
+  clear like strawberry jam, certainly not blood.  His story is going to stand,
+  maybe she let someone in. They'll have to get prints from the knife, maybe
+  she stabbed the suspect and he stabbed her. She brought a knife to a
+  gunfight. (2:30 PM Friday) There are no prints on the knife and no motive for
+  the husband. It could've been a rapist or an opportunist. George says when he
+  went to call 911 the phone was unplugged. He had to plug it back in. It's
+  always plugged in because he has a recorder for the rental properties he
+  owns. Maybe someone got in with a phone company uniform.
+- Temple City Sheriff's Station (911 Call Assault with a Deadly Weapon) A woman
+  calls about an attack from a man in a green Jeep with a white top. He just
+  got on the freeway and they go to look for it. They spot a pickup truck
+  heading west with a bunch of junk in the back with a tarp over it. There are
+  three people in the truck, one child. It's heavy traffic so they can't make a
+  stop. (5:11 PM Felony Stop) They pull him over on Rosemeade Blvd. He's an
+  older Mexican guy in a cowboy hat. They pull him out at gunpoint and tell him
+  it's not a joke. Then they call the younger Mexican guy out and tell him to
+  put his hands out the window, but he doesn't listen. The white male passenger
+  tries to get out to, and they yell at him to get back in. He finally gets out
+  and is filthy. The suspect is Jessie Barber wanted in the murder of George's
+  wife, but this guy's not the one. Deputy Patrick Martinez says to cut them
+  loose and explain what happened. Deputy Ann Brannon has to explain. There was
+  a serious crime down the street that matched the description. He thought he
+  was the one blasting the radio in front of him.  They just did an excavation
+  site and scared the crap out of them. They let them go.
 
 ## CP-231 / CP-232
 
@@ -3318,281 +3384,299 @@ Aired 1990-09-29.
 
 Aired 1990-10-06.
 
-**Minneapolis, MN 4 -- On the Home Front** (5:26 PM Sexual Assault Call) Third
-Precinct -- A call comes in from a woman who says her 11 year-old daughter has
-been raped, it just happened and the suspect has left the scene. Officer Dan
-McShane and Officer Paul Cottingham go up to the house and say her they don't
-know where it happened, have no suspect info and will take it as they get it.
-They walk up to the dirty house and the TV is blaring. Macy the girl says
-cousin Randy was going to take her to McDonald's and Freddy would pay for it.
-Freddy told her they would go around the corner, he's someone they know and
-trust, a friend of her aunt and he's 35-40. He told them to get in the car so
-she got in the back and he told her to come up front. They went to McDonald's
-ordered food and he didn't pay for it. He told her to come in his car and sit
-up there, she said no, she was going to go to McDonald's and he said no, but
-they went anyway. He wanted to go to the movies, she said they couldn't do that
-and he started the car, she wanted to go home, he parked and asked her to show
-him something. She says she didn't have anything. Then he said he would show
-her something. She said no. Did she know what he was talking about? Yeah, his
-private parts. He started driving, almost crashed and she yelled. He put his
-hand on her leg and she started crying. He said you are scared huh? Macy and
-her mom then cry. It will be molestation and they will turn over to child
-welfare. They will get back to her, they take it very serious. Avoid contact
-with Freddy, they'll get back to them, it could be something he does often. She
-did the right thing by telling her mom, she was very brave, a lot of people
-don't tell, otherwise it could go on. Stay away from him, it's a bad scene.
-(Roll Call) Fifth Precinct -- Officer Don Bautista says they had an unusual
-burglary last night, all he did was go through the woman's underwear, sexual in
-nature. She is a counselor from St. Mary's chemical dependencies. He was
-discharged on Monday, has called and left her a message on her machine. He
-works at a Pizzeria, is a 20 year old white male, they'll talk to him tonight
-and see what his story is. All he did was take her underwear out and did what
-those type of people do. (7:45 PM Burglary Investigation) They go to Ribizza
-looking for Ben, he isn't there, but will be back in 15 minutes. He's wearing a
-white t-shirt and dark shorts. They get him when he pulls up and detain him.
-He's curious as to what is going on. There was a burglary on 27th & Xerxes last
-night while he was working to someone he's familiar with. He says Tracy is the
-only one she knows living there. He has surprised her when she was sunbathing
-at home and on the beach. He says he said hello to her at the beach and she was
-expecting him at the house. He's been in her house before with her, with her
-permission. It's just an interview, so he's let go. He goes to see Tracy. She
-says she didn't call Ben and didn't make a date with him. He tells her what Ben
-said that she made advances towards him. He knows this is false. There is no
-relationship between them. She says "oh, god" about her dating him, he must
-have quite a record. He says he has no record and checked around the world. She
-asks if he thinks Ben will do something. He can't guarantee that. When she
-comes home, open the door, don't go in, wait, listen. Don't go anywhere alone,
-bring people with you. The guy is a wacko, you've read the papers. They have
-probable cause to arrest him and goes back to Ribizza to look for him. He goes
-in and finds him in the back. He is searched, cuffed, taken downtown and
-mirandized. (7:17 PM Domestic Violence Call) Third Precinct -- Officer John
-Billington says it seems whenever you get alcohol and drugs in the picture it
-gets worse. Lots more domestics lately, whenever force is used on people living
-together they have to make an arrest. Officer Steve Setzer is his partner. They
-get a call from a woman saying her husband is smoking crack in the house and
-she wants him out. They pull up, she says he's in the bathroom freaking out and
-has kids inside and a gun. They don't want to go in and say she should get an
-order of protection against him. They go in eventually slowly with guns drawn
-and head upstairs. They find Quinn up there, but he goes down the hall on him.
-He says he didn't put his hands on nobody, hasn't done anything. They go to
-cuff him and he says don't take me please. They are just talking to him. There
-are two infants laying on the bed. He says when he got back they really started
-arguing. He's breathing heavy, says he's hot, really scared and not on crack.
-John changes a diaper on a crying baby. The woman says he spent the whole rent
-check on crack, he was swinging things around, she was really scared and he was
-foaming at the mouth. They tried to keep him inside until the ambulance came,
-but he was slinging them around. Quinn is sweating bullets, says he didn't mean
-nobody harm, didn't hurt anyone. She says he needs help. She went to Chicago
-with her mom, came back and he sold everything. All of her furniture was gone,
-he sold it. They can't find any drugs, so will take him for domestic. He
-promises not to do anything and will leave. He says she can get a restraining
-order on him, just don't arrest him. They tell her to go to the county, floor
-17 and file a OOP on him. He just wanted to take his car and leave. She says he
-went out to get pot, he came back, went into the bathroom and she smelled
-smoke. He came out, threw her and his sister around. It appeared like he was
-smoking crack. The sad part was he checked the diapers not to see if they were
-wet, but to see if he shoved the crack in there, he's seen it before. A cop
-can't expect he can change the world, but he can make it a little better.
+**Minneapolis, MN 4 -- On the Home Front**
+
+- (5:26 PM Sexual Assault Call) Third Precinct -- A call comes in from a woman
+  who says her 11 year-old daughter has been raped, it just happened and the
+  suspect has left the scene. Officer Dan McShane and Officer Paul Cottingham
+  go up to the house and say her they don't know where it happened, have no
+  suspect info and will take it as they get it.  They walk up to the dirty
+  house and the TV is blaring. Macy the girl says cousin Randy was going to
+  take her to McDonald's and Freddy would pay for it.  Freddy told her they
+  would go around the corner, he's someone they know and trust, a friend of her
+  aunt and he's 35-40. He told them to get in the car so she got in the back
+  and he told her to come up front. They went to McDonald's ordered food and he
+  didn't pay for it. He told her to come in his car and sit up there, she said
+  no, she was going to go to McDonald's and he said no, but they went anyway.
+  He wanted to go to the movies, she said they couldn't do that and he started
+  the car, she wanted to go home, he parked and asked her to show him
+  something. She says she didn't have anything. Then he said he would show her
+  something. She said no. Did she know what he was talking about? Yeah, his
+  private parts. He started driving, almost crashed and she yelled. He put his
+  hand on her leg and she started crying. He said you are scared huh? Macy and
+  her mom then cry. It will be molestation and they will turn over to child
+  welfare. They will get back to her, they take it very serious. Avoid contact
+  with Freddy, they'll get back to them, it could be something he does often.
+  She did the right thing by telling her mom, she was very brave, a lot of
+  people don't tell, otherwise it could go on. Stay away from him, it's a bad
+  scene.
+- (Roll Call) Fifth Precinct -- Officer Don Bautista says they had an unusual
+  burglary last night, all he did was go through the woman's underwear, sexual
+  in nature. She is a counselor from St. Mary's chemical dependencies.  He was
+  discharged on Monday, has called and left her a message on her machine. He
+  works at a Pizzeria, is a 20 year old white male, they'll talk to him tonight
+  and see what his story is. All he did was take her underwear out and did what
+  those type of people do. (7:45 PM Burglary Investigation) They go to Ribizza
+  looking for Ben, he isn't there, but will be back in 15 minutes. He's wearing
+  a white t-shirt and dark shorts. They get him when he pulls up and detain
+  him.  He's curious as to what is going on. There was a burglary on 27th &
+  Xerxes last night while he was working to someone he's familiar with. He says
+  Tracy is the only one she knows living there. He has surprised her when she
+  was sunbathing at home and on the beach. He says he said hello to her at the
+  beach and she was expecting him at the house. He's been in her house before
+  with her, with her permission. It's just an interview, so he's let go. He
+  goes to see Tracy. She says she didn't call Ben and didn't make a date with
+  him. He tells her what Ben said that she made advances towards him. He knows
+  this is false. There is no relationship between them. She says "oh, god"
+  about her dating him, he must have quite a record. He says he has no record
+  and checked around the world. She asks if he thinks Ben will do something. He
+  can't guarantee that. When she comes home, open the door, don't go in, wait,
+  listen. Don't go anywhere alone, bring people with you. The guy is a wacko,
+  you've read the papers. They have probable cause to arrest him and goes back
+  to Ribizza to look for him. He goes in and finds him in the back. He is
+  searched, cuffed, taken downtown and mirandized.
+- (7:17 PM Domestic Violence Call) Third Precinct -- Officer John Billington
+  says it seems whenever you get alcohol and drugs in the picture it gets
+  worse. Lots more domestics lately, whenever force is used on people living
+  together they have to make an arrest. Officer Steve Setzer is his partner.
+  They get a call from a woman saying her husband is smoking crack in the house
+  and she wants him out. They pull up, she says he's in the bathroom freaking
+  out and has kids inside and a gun. They don't want to go in and say she
+  should get an order of protection against him. They go in eventually slowly
+  with guns drawn and head upstairs.  They find Quinn up there, but he goes
+  down the hall on him.  He says he didn't put his hands on nobody, hasn't done
+  anything. They go to cuff him and he says don't take me please. They are just
+  talking to him. There are two infants laying on the bed. He says when he got
+  back they really started arguing. He's breathing heavy, says he's hot, really
+  scared and not on crack.  John changes a diaper on a crying baby. The woman
+  says he spent the whole rent check on crack, he was swinging things around,
+  she was really scared and he was foaming at the mouth. They tried to keep him
+  inside until the ambulance came, but he was slinging them around.  Quinn is
+  sweating bullets, says he didn't mean nobody harm, didn't hurt anyone. She
+  says he needs help.  She went to Chicago with her mom, came back and he sold
+  everything. All of her furniture was gone, he sold it. They can't find any
+  drugs, so will take him for domestic. He promises not to do anything and will
+  leave. He says she can get a restraining order on him, just don't arrest him.
+  They tell her to go to the county, floor 17 and file a OOP on him. He just
+  wanted to take his car and leave. She says he went out to get pot, he came
+  back, went into the bathroom and she smelled smoke. He came out, threw her
+  and his sister around.  It appeared like he was smoking crack. The sad part
+  was he checked the diapers not to see if they were wet, but to see if he
+  shoved the crack in there, he's seen it before. A cop can't expect he can
+  change the world, but he can make it a little better.
 
 ## CP-305
 
 Aired 1990-10-13.
 
-**Minneapolis, MN 5** (2:15 PM Riot Control Briefing) Deputy Chief Doug Smith
-says the Skinheads, Lawyers Guild and Woman against Military Madness will be in
-the demonstration at 3:30 PM by the federal building. Expect 300-500 people.
-They don't have a parade permit, won't disclose it so they'll go in private to
-discourage and provoke the police. They will provoke by spray painting things.
-If cops move in they will throw rocks at them. They will ID the leaders and may
-wait until the end before they arrest people. A female cop goes undercover as a
-punk goth chick in a black wig with black lipstick. The cops get all their riot
-gear ready. A speaker says they have no permit, but will march anyway. A hippy
-leader approaches police who will assist them in any way possible. They will
-give a police escort, but keep the traffic blockage to a minimum and no
-vandalism. The guy says they don't want any trouble, want to march, traffic
-support is OK. Their chant is "We're going to beat back the Bush attack" and
-"1234 we don't want their bloody war." They put up posters and burn a dummy.
-Then things get out of hand and one person is arrested. They tell the leader
-they have painted the building twice, vandalized, enough is enough, time to
-move along. A couple fights and are arrested. The goal was to wait and
-surgically remove the leaders. A guy threw paint bombs and two people jumped
-them, all are arrested. (5:05 PM Debriefing) The leader bit an IDS guard and
-went to jail. The plain clothes people ID'd him, a job well done. (911 Call
-Street Fight) Third District -- It's at 3309 Clinton Ave, one male down, one
-might have a gun and a bunch of people have sticks and bats. They pull up and
-stop three guys, one has a bar. Officer Steve Setzer is there. A black guy has
-a huge stick in his pocket. He says a guy broke out his car window and called
-them niggers. Officer John Billington goes to the victim. He's a white guy with
-a bunch of cuts and a bloody nose he covers. He says they ran through his yard,
-didn't see them, but knows their car. Three black guys tried to break into his
-garage, he confronted them, they beat him and took off. His car also has
-windows broken out. One of the crooks says he punched him in the face and
-pulled a knife on them and they took off. He says there were two of them and
-stabbed their windows. One guy keeps yelling and John tells them to speak
-English, he's listening, stop the garbage. The guy in a Batman shirt gets loud
-and says the guy accused him of going through his yard. They ran and thought
-they caught him. The victim says they came through his yard and they beat him
-up. The criminals says they left their house, went to their car, the guy yelled
-at them, smashed their car and they chased him, but didn't catch them. No one
-knows what happened, both are lying and they can't tell who is telling the
-truth. They are going to write them up and cut them loose. What about their
-car? That's what insurance is for. Fourth Precinct Roll Call -- Sgt. Frank
-Dallman reads a report about a young black thief who cuts in windows and steals
-things, tools and more. Officer Bill Thornberg has been there 15 years, likes
-the job since he's outside all day and can't stand office work. His car is his
-office, he's his own boss, other jobs aren't as flexible, the pay isn't great,
-but it's a good job. Officer Chuck Nathan is his partner. (7:48 PPM Fight Call)
-A man was hit in the face with a shovel. There is a massive group of people
-there when they arrive. The victim is on a lawn and is bloody and squirming. A
-woman and her children are screaming and crying all around. Bill says to move
-back, give him air, it's hot as hell. The victim's ear is split and he needs to
-stay down, but keeps trying to move. A crowd stands around, they don't know who
-he is, but know the guy who did it though. His name is Terry and the victim is
-George. He's bleeding from his arm and ear. EMS arrives, says he's unconscious,
-they need to move him fast and holds his head. It's a struggle to move him. A
-witness says Terry broke a beer bottle and hit him. He pulled out a bunch of
-his hair, then they started punching and fighting. He was stabbed 4-5 times
-with bottle, split ear, cut artery in neck, spurting blood. It wasn't a shovel.
-They caught Terry a few blocks away. George's mother holds a bloody rag and
-throws it at the suspect. She says, "You hurt my boy, he loved you all this
-time. He is Indian, American.”
+**Minneapolis, MN 5**
+
+- (2:15 PM Riot Control Briefing) Deputy Chief Doug Smith says the Skinheads,
+  Lawyers Guild and Woman against Military Madness will be in the demonstration
+  at 3:30 PM by the federal building. Expect 300-500 people.  They don't have a
+  parade permit, won't disclose it so they'll go in private to discourage and
+  provoke the police. They will provoke by spray painting things.  If cops move
+  in they will throw rocks at them. They will ID the leaders and may wait until
+  the end before they arrest people. A female cop goes undercover as a punk
+  goth chick in a black wig with black lipstick. The cops get all their riot
+  gear ready. A speaker says they have no permit, but will march anyway. A
+  hippy leader approaches police who will assist them in any way possible. They
+  will give a police escort, but keep the traffic blockage to a minimum and no
+  vandalism. The guy says they don't want any trouble, want to march, traffic
+  support is OK. Their chant is "We're going to beat back the Bush attack" and
+  "1234 we don't want their bloody war." They put up posters and burn a dummy.
+  Then things get out of hand and one person is arrested. They tell the leader
+  they have painted the building twice, vandalized, enough is enough, time to
+  move along. A couple fights and are arrested. The goal was to wait and
+  surgically remove the leaders. A guy threw paint bombs and two people jumped
+  them, all are arrested. (5:05 PM Debriefing) The leader bit an IDS guard and
+  went to jail. The plain clothes people ID'd him, a job well done.
+- (911 Call Street Fight) Third District -- It's at 3309 Clinton Ave, one male
+  down, one might have a gun and a bunch of people have sticks and bats. They
+  pull up and stop three guys, one has a bar. Officer Steve Setzer is there. A
+  black guy has a huge stick in his pocket. He says a guy broke out his car
+  window and called them niggers. Officer John Billington goes to the victim.
+  He's a white guy with a bunch of cuts and a bloody nose he covers. He says
+  they ran through his yard, didn't see them, but knows their car. Three black
+  guys tried to break into his garage, he confronted them, they beat him and
+  took off. His car also has windows broken out. One of the crooks says he
+  punched him in the face and pulled a knife on them and they took off. He says
+  there were two of them and stabbed their windows. One guy keeps yelling and
+  John tells them to speak English, he's listening, stop the garbage. The guy
+  in a Batman shirt gets loud and says the guy accused him of going through his
+  yard. They ran and thought they caught him. The victim says they came through
+  his yard and they beat him up. The criminals says they left their house, went
+  to their car, the guy yelled at them, smashed their car and they chased him,
+  but didn't catch them. No one knows what happened, both are lying and they
+  can't tell who is telling the truth. They are going to write them up and cut
+  them loose. What about their car? That's what insurance is for.
+- Fourth Precinct Roll Call -- Sgt. Frank Dallman reads a report about a young
+  black thief who cuts in windows and steals things, tools and more. Officer
+  Bill Thornberg has been there 15 years, likes the job since he's outside all
+  day and can't stand office work. His car is his office, he's his own boss,
+  other jobs aren't as flexible, the pay isn't great, but it's a good job.
+  Officer Chuck Nathan is his partner. (7:48 PPM Fight Call) A man was hit in
+  the face with a shovel. There is a massive group of people there when they
+  arrive. The victim is on a lawn and is bloody and squirming. A woman and her
+  children are screaming and crying all around. Bill says to move back, give
+  him air, it's hot as hell. The victim's ear is split and he needs to stay
+  down, but keeps trying to move. A crowd stands around, they don't know who he
+  is, but know the guy who did it though. His name is Terry and the victim is
+  George. He's bleeding from his arm and ear. EMS arrives, says he's
+  unconscious, they need to move him fast and holds his head. It's a struggle
+  to move him. A witness says Terry broke a beer bottle and hit him. He pulled
+  out a bunch of his hair, then they started punching and fighting. He was
+  stabbed 4-5 times with bottle, split ear, cut artery in neck, spurting blood.
+  It wasn't a shovel.  They caught Terry a few blocks away. George's mother
+  holds a bloody rag and throws it at the suspect. She says, "You hurt my boy,
+  he loved you all this time. He is Indian, American.”
 
 ## CP-306
 
 Aired 1990-10-20.
 
-**Minneapolis, MN 6** (3:13 PM Woman with a Gun Call) Officer Greg Hirsch says
-it's an interesting job, he works with 800 people where if he has a problem
-with 1 or 2 of them, that goes out the window when you go to back them up.
-He'll put his life down for those 800 people even if he's never met them
-before. He gets a call of a white woman with a gun at 2919 in the rear in a
-yellow shirt. They get out and run through a parking lot with guns drawn. There
-is a group of people in the lot and they tell the woman in yellow to get her
-hands up and she doesn't listen so someone pushes her forward. She says she
-doesn't have a gun, she did, but dropped it behind the car. They find an
-automatic handgun back there with no clip. A witness says she's been pointing
-the gun around for two hours. The cops came once and she said it was just a
-fight and they left and she started it again. Greg loves this job, where else
-can you go the wrong way doing 60mph on a one-way street. (7:05 PM Neighbor
-Dispute) A woman brings her kid over who says his brother's shirt was thrown on
-the neighbor's roof and he wanted to get it and the guy told him if he went up
-there he'd shoot him. She doesn't really know the neighbor. The neighbor says
-he's had a lot of problems with these kids. They take his stuff and damage his
-property. He found a kid on his roof, didn't know who was up there and they
-wouldn't come down so he told them if they didn't come down he said he would go
-get his gun. He admits it was the heat of the moment, a dumb thing to say, but
-he was tired because he had a really bad day and took it out on the kids. Greg
-says she can follow a criminal complaint on him and goes back and has the guy
-apologize so it doesn't have to go any further. It's better they try to get
-along, but next time ask the guy before you climb on his garage. (911 Call
-Domestic Violence) Officer Bill Thornberg says with domestics you never know
-what to expect when you get there. The tradition is a man threatening or
-hitting a woman and he goes off to jail, but you never know. Andrea Jones calls
-that her boyfriend went off on her, he's on cocaine, she can't control him and
-she cries. It is nighttime at house 1530. They walk up and hear gunfire in the
-distance. The guy inside says he's drunk again. She says he threatened to kill
-her and 911 heard it. He says it's just a threat thing, he does it all the
-time, but she denies it. He just came home, accused her of crazy things and
-threw her down. Police have been there before and she never pressed charges
-because she loved him. She wants him out, wants him arrested and wants to press
-charges. All her family is dead except for her sister upstairs and she couldn't
-get a hold of her. She said she didn't do anything. Officer Chuck Nathan checks
-him for weapons. She says he's been on coke for months and called her a slut.
-She was at her sisters, not at bars, found out he was on coke two weeks ago and
-called the crisis line, but they don't understand. Bill says no, he hasn't been
-out there before and gives her a card with victims rights and domestic violence
-info, how to get a restraining order and the number for a battered women's
-shelter. She says it's her home and if she leaves he'll follow her. They tell
-her to leave the phone off the hook. She doesn't want them to let him out
-tonight. Bill says they'll call before they let him out. She says to ask his
-mom how abusive he is, but only to her. Third Precinct -- Officer Steve Setzer
-says the call is for neighbor trouble, one threatening another. It's pitch
-black when they walk up to the house and a guy says they are in the back
-fighting. They walk around and can hear a woman yelling. She said she heard the
-woman neighbor saying, "I hate those niggers and niggers this." The second
-woman says they cut her power and has to have all the smoke detectors wired
-together. She's white and was in her house having a private conversation. The
-black lady says she could hear it in her kitchen. Officer Cheri Dexter talks to
-her, she says she has two witnesses. Cheri says there is nothing they can do,
-how are they going to get along, it's between them and the landlord. A black
-guy with no shirt appears and says they threw beer at them. She says they
-threatened to blow up her house. Steve says for them all to go to bed and
-ignore each other. She says she pays $48 a month and it's a nice place. The
-white guy is drunk and told the black guy, "... for the niggers to get out of
-here." They go back around and tell them to cut the crap and stop yelling. The
-white guy says he told him he would get his gun and blow his brains out, is
-that right? Cheri says other neighbors are complaining too. She can't stay
-there all night, give it up tonight. Steve says it starts to seem like they are
-the problem, the guy is a drunk and obnoxious. The guy says he hasn't bothered
-anyone. He says maybe he will go to bed, maybe he won't. How dare he call me a
-drunk, how do to you know me, you're so tough? Steve says to come on out of his
-house. He makes noises at him and says he won't come out because then you'll
-arrest me. Steve says he's an obnoxious jerk, but there is no law allowing them
-to pull him out of his house and taking him to detox.
+**Minneapolis, MN 6**
 
-## CP-307 
+- (3:13 PM Woman with a Gun Call) Officer Greg Hirsch says it's an interesting
+  job, he works with 800 people where if he has a problem with 1 or 2 of them,
+  that goes out the window when you go to back them up.  He'll put his life
+  down for those 800 people even if he's never met them before. He gets a call
+  of a white woman with a gun at 2919 in the rear in a yellow shirt. They get
+  out and run through a parking lot with guns drawn. There is a group of people
+  in the lot and they tell the woman in yellow to get her hands up and she
+  doesn't listen so someone pushes her forward. She says she doesn't have a
+  gun, she did, but dropped it behind the car. They find an automatic handgun
+  back there with no clip. A witness says she's been pointing the gun around
+  for two hours. The cops came once and she said it was just a fight and they
+  left and she started it again. Greg loves this job, where else can you go the
+  wrong way doing 60mph on a one-way street. (7:05 PM Neighbor Dispute) A woman
+  brings her kid over who says his brother's shirt was thrown on the neighbor's
+  roof and he wanted to get it and the guy told him if he went up there he'd
+  shoot him. She doesn't really know the neighbor. The neighbor says he's had a
+  lot of problems with these kids. They take his stuff and damage his property.
+  He found a kid on his roof, didn't know who was up there and they wouldn't
+  come down so he told them if they didn't come down he said he would go get
+  his gun. He admits it was the heat of the moment, a dumb thing to say, but he
+  was tired because he had a really bad day and took it out on the kids. Greg
+  says she can follow a criminal complaint on him and goes back and has the guy
+  apologize so it doesn't have to go any further. It's better they try to get
+  along, but next time ask the guy before you climb on his garage.
+- (911 Call Domestic Violence) Officer Bill Thornberg says with domestics you
+  never know what to expect when you get there. The tradition is a man
+  threatening or hitting a woman and he goes off to jail, but you never know.
+  Andrea Jones calls that her boyfriend went off on her, he's on cocaine, she
+  can't control him and she cries. It is nighttime at house 1530. They walk up
+  and hear gunfire in the distance. The guy inside says he's drunk again. She
+  says he threatened to kill her and 911 heard it. He says it's just a threat
+  thing, he does it all the time, but she denies it. He just came home, accused
+  her of crazy things and threw her down. Police have been there before and she
+  never pressed charges because she loved him. She wants him out, wants him
+  arrested and wants to press charges. All her family is dead except for her
+  sister upstairs and she couldn't get a hold of her. She said she didn't do
+  anything.  Officer Chuck Nathan checks him for weapons. She says he's been on
+  coke for months and called her a slut.  She was at her sisters, not at bars,
+  found out he was on coke two weeks ago and called the crisis line, but they
+  don't understand. Bill says no, he hasn't been out there before and gives her
+  a card with victims rights and domestic violence info, how to get a
+  restraining order and the number for a battered women's shelter. She says
+  it's her home and if she leaves he'll follow her. They tell her to leave the
+  phone off the hook. She doesn't want them to let him out tonight. Bill says
+  they'll call before they let him out. She says to ask his mom how abusive he
+  is, but only to her.
+- (12:40 AM Neighbor Dispute) Third Precinct -- Officer Steve Setzer says the
+  call is for neighbor trouble, one threatening another. It's pitch black when
+  they walk up to the house and a guy says they are in the back fighting. They
+  walk around and can hear a woman yelling. She said she heard the woman
+  neighbor saying, "I hate those niggers and niggers this." The second woman
+  says they cut her power and has to have all the smoke detectors wired
+  together. She's white and was in her house having a private conversation. The
+  black lady says she could hear it in her kitchen. Officer Cheri Dexter talks
+  to her, she says she has two witnesses. Cheri says there is nothing they can
+  do, how are they going to get along, it's between them and the landlord. A
+  black guy with no shirt appears and says they threw beer at them. She says
+  they threatened to blow up her house. Steve says for them all to go to bed
+  and ignore each other. She says she pays $48 a month and it's a nice place.
+  The white guy is drunk and told the black guy, "... for the niggers to get
+  out of here." They go back around and tell them to cut the crap and stop
+  yelling. The white guy says he told him he would get his gun and blow his
+  brains out, is that right?  Cheri says other neighbors are complaining too.
+  She can't stay there all night, give it up tonight. Steve says it starts to
+  seem like they are the problem, the guy is a drunk and obnoxious. The guy
+  says he hasn't bothered anyone. He says maybe he will go to bed, maybe he
+  won't. How dare he call me a drunk, how do to you know me, you're so tough?
+  Steve says to come on out of his house. He makes noises at him and says he
+  won't come out because then you'll arrest me.  Steve says he's an obnoxious
+  jerk, but there is no law allowing them to pull him out of his house and
+  taking him to detox.
+
+## CP-307
 
 Aired 1990-10-27.
 
-**Alaska 1** (State Troopers) Nome -- Trooper Ike Lorentz & Sgt. Al Schadle
-check the weather, 1000 foot overcast, visibility 15 miles. They are going 180
-miles away, should take an hour. There was an assault and more a couple days
-ago. They look at the map and go out to top off the gas tank on their small
-plane. The state is 560,000 square miles, as big as the US. He'll work a 16
-hour day and 10 of it is in the air. His beat is 200,000 square miles, if it's
-not the last frontier nothing is. (Village of Savoonga) There is a bootlegging
-operation where they make or can buy the alcohol and transport it to a dry
-village. This causes problems for at least a week until it dries up. Magistrate
-Abner Golorgergen meets them at the tiny airport. They ride in a truck to the
-magistrate's office. Once there they talk to an Eskimo who seems high and
-usually isn't like that. There is a makeshift court in the building and they
-try the Eskimo man. He shot a rifle outside of a public building and was drunk
-in the second judicial district. The highest penalty is $5,000 and a year in
-jail. Ike says the man is a danger by the state of his mind and asks that bail
-be set in the matter. It is set at $1000. Abner wears sunglasses and jeans and
-as soon as he's done he takes the robe off. They have to take the man's
-possessions, but he doesn't want them to. He wants to take them home. He says
-they have to do it and he is in their possession until they get him back to
-Nome. He wanted help, turned himself in and wanted to get out of the village.
-They take him out to the airport, get on the plane and fly back. (Hit & Run
-Investigation) Anchorage PD -- Officer Mark Hunstiger says people joke about the
-town. The nice thing about it is you can get to Alaska from there. There are
-250,000 people living there, half the state. An island city stuck in a vast
-wilderness. They've had five hit & runs in the last 10 minutes by a man in an
-Arizona van. He spots the red van in a parking lot with a brown car under the
-back end. The guy ran off and witnesses point him across the street. The guy is
-behind a building where a woman is keeping her eye on him. He searches him and
-asks if he had any beers. He says three. Mark asks him if he had them all at
-the same time and he says yes. He admits he only backed over one car because he
-didn't see it. He didn't hit anyone else. His DOB is 2/31/59. Mark talks to
-witnesses and suddenly the drunk has left his car. He asks if this an escape
-and has to go back in the car. He says he will behave if he removes the cuffs.
-Mark says they don't make deals with drunks. They go to put him back and he
-fights. Two women help and they have to hobble him. He says to go ahead and
-arrest him. They agree. They take him back to the station and his BAC is .232.
-He says the Fiat parked behind him, it wasn't his fault. He skimmed off a car
-at a bar. Which one? The bar where they found him. He wasn't at a bar, he was
-at a credit union. He was? Mark says maybe they serve drinks there. The
-magistrate can't believe the damage he caused and since the guy only has $50 on
-him he won't make bail which is good because he's so dangerous. He can't
-believe no one got killed in his rampage. (State Troopers) Pilot Bob Larson is
-going to Seward to recover a body from a plane crash that happened three weeks
-ago. It is at the 3000 foot level in the mountains. The wreckage broke up bad
-the first time they were there when they found four bodies. The site is often
-in the clouds and they've been there four times already. Cpl. Jerry Fleetwood
-is coordinating the search. Hopefully he'll recover the body and the effects,
-ID it by whatever means, then notify the next of kin and get the remains back
-to them. A Cessna 207 during an hour flight tour that took people from a cruise
-ship hit the side of a mountain. They are supposed to meet climbers there. They
-land the helicopter on a mountain and walk over. Two male climbers are heading
-down tot he wreckage. Jerry says the best thing about being a trooper is the
-gratification from getting the job done. The only good thing there will be is
-to bring the remains back to the family. They find the body, load it up in a
-bag, move the helicopter and lower a tow rope down to get it. The father of the
-dead girl was waiting for her, but had to go back to Florida for medical
-reasons. Back at the base Jerry calls the father and says the body is at the
-funeral home where is wife is. He hopes that returning her will put it to rest
-in his mind.
+**Alaska 1**
+
+- (State Troopers) Nome -- Trooper Ike Lorentz & Sgt. Al Schadle check the
+  weather, 1000 foot overcast, visibility 15 miles. They are going 180 miles
+  away, should take an hour. There was an assault and more a couple days ago.
+  They look at the map and go out to top off the gas tank on their small plane.
+  The state is 560,000 square miles, as big as the US. He'll work a 16 hour day
+  and 10 of it is in the air. His beat is 200,000 square miles, if it's not the
+  last frontier nothing is. (Village of Savoonga) There is a bootlegging
+  operation where they make or can buy the alcohol and transport it to a dry
+  village. This causes problems for at least a week until it dries up.
+  Magistrate Abner Golorgergen meets them at the tiny airport. They ride in a
+  truck to the magistrate's office. Once there they talk to an Eskimo who seems
+  high and usually isn't like that. There is a makeshift court in the building
+  and they try the Eskimo man. He shot a rifle outside of a public building and
+  was drunk in the second judicial district. The highest penalty is $5,000 and
+  a year in jail. Ike says the man is a danger by the state of his mind and
+  asks that bail be set in the matter. It is set at $1000. Abner wears
+  sunglasses and jeans and as soon as he's done he takes the robe off. They
+  have to take the man's possessions, but he doesn't want them to. He wants to
+  take them home. He says they have to do it and he is in their possession
+  until they get him back to Nome. He wanted help, turned himself in and wanted
+  to get out of the village.  They take him out to the airport, get on the
+  plane and fly back.
+- (Hit & Run Investigation) Anchorage PD -- Officer Mark Hunstiger says people
+  joke about the town. The nice thing about it is you can get to Alaska from
+  there. There are 250,000 people living there, half the state. An island city
+  stuck in a vast wilderness. They've had five hit & runs in the last 10
+  minutes by a man in an Arizona van. He spots the red van in a parking lot
+  with a brown car under the back end. The guy ran off and witnesses point him
+  across the street. The guy is behind a building where a woman is keeping her
+  eye on him. He searches him and asks if he had any beers. He says three. Mark
+  asks him if he had them all at the same time and he says yes. He admits he
+  only backed over one car because he didn't see it. He didn't hit anyone else.
+  His DOB is 2/31/59. Mark talks to witnesses and suddenly the drunk has left
+  his car. He asks if this an escape and has to go back in the car. He says he
+  will behave if he removes the cuffs.  Mark says they don't make deals with
+  drunks. They go to put him back and he fights. Two women help and they have
+  to hobble him. He says to go ahead and arrest him. They agree. They take him
+  back to the station and his BAC is .232.  He says the Fiat parked behind him,
+  it wasn't his fault. He skimmed off a car at a bar. Which one? The bar where
+  they found him. He wasn't at a bar, he was at a credit union. He was? Mark
+  says maybe they serve drinks there. The magistrate can't believe the damage
+  he caused and since the guy only has $50 on him he won't make bail which is
+  good because he's so dangerous. He can't believe no one got killed in his
+  rampage.
+- (State Troopers) Pilot Bob Larson is going to Seward to recover a body from a
+  plane crash that happened three weeks ago. It is at the 3000 foot level in
+  the mountains. The wreckage broke up bad the first time they were there when
+  they found four bodies. The site is often in the clouds and they've been
+  there four times already. Cpl. Jerry Fleetwood is coordinating the search.
+  Hopefully he'll recover the body and the effects, ID it by whatever means,
+  then notify the next of kin and get the remains back to them.  A Cessna 207
+  during an hour flight tour that took people from a cruise ship hit the side
+  of a mountain. They are supposed to meet climbers there. They land the
+  helicopter on a mountain and walk over. Two male climbers are heading down
+  tot he wreckage. Jerry says the best thing about being a trooper is the
+  gratification from getting the job done. The only good thing there will be is
+  to bring the remains back to the family. They find the body, load it up in a
+  bag, move the helicopter and lower a tow rope down to get it. The father of
+  the dead girl was waiting for her, but had to go back to Florida for medical
+  reasons. Back at the base Jerry calls the father and says the body is at the
+  funeral home where is wife is. He hopes that returning her will put it to
+  rest in his mind.
 
 ## CP-308
 
@@ -3661,58 +3745,65 @@ Aired 1990-11-03.
 
 Aired 1990-11-10.
 
-**Alaska 3** (9:30 PM Attempted Robbery Call) Anchorage -- Officer Audie
-Holloway says the town is getting bigger, up to 230-250,000 people. They have
-their share of drugs and robberies there. Robert "Jay" Spinach attempted to rob
-a liquor store and took off. He gets caught and is scared and on crystal meth.
-He gets cuffed and starts to fight when the K9 is brought in. Kodiak AK (10:08
-PM Disturbance Call) A bartender throws out two crazy, drunk Eskimo women from
-Ship's Bar. They go into another bar and start a fight. One of them gets a
-glass broken on her face. Lucy starts kicking the police car and screaming
-"liar" at them. They have to tie her down when she is brought into detox.
-Anchorage AK (5:14 PM Stolen Property Investigation) A man gets a call that his
-cell phone was stolen so he files a complaint and the police go to Cellular 1
-where the guy with the stolen hone went. They trace him to his gas station and
-he says he bought it from Willie Earl. They go to Willie's place and he runs.
-They catch him in the weeds and take him to a magistrate and set bail at $1000.
-He says he paid $80 for the phone from Joe. (10:33 PM Street Patrol) A cop
-pulls a woman over in a rental car for speeding. She said she didn't realize
-she was going so fast since she isn't used to the car. He makes her raise her
-hand and swear she won't do it again.
+**Alaska 3**
+
+- (Anchorage, AK -- 9:30 PM Attempted Robbery Call) Officer Audie Holloway says
+  the town is getting bigger, up to 230-250,000 people. They have their share
+  of drugs and robberies there. Robert "Jay" Spinach attempted to rob a liquor
+  store and took off. He gets caught and is scared and on crystal meth.  He
+  gets cuffed and starts to fight when the K9 is brought in.
+- (Kodiak, AK -- 10:08 PM Disturbance Call) A bartender throws out two crazy,
+  drunk Eskimo women from Ship's Bar. They go into another bar and start a
+  fight. One of them gets a glass broken on her face. Lucy starts kicking the
+  police car and screaming "liar" at them. They have to tie her down when she
+  is brought into detox. 
+- (Anchorage, AK -- 5:14 PM Stolen Property Investigation) A man gets a call
+  that his cell phone was stolen so he files a complaint and the police go to
+  Cellular 1 where the guy with the stolen hone went. They trace him to his gas
+  station and he says he bought it from Willie Earl. They go to Willie's place
+  and he runs.  They catch him in the weeds and take him to a magistrate and
+  set bail at $1000.  He says he paid $80 for the phone from Joe. (10:33 PM
+  Street Patrol) A cop pulls a woman over in a rental car for speeding. She
+  said she didn't realize she was going so fast since she isn't used to the
+  car. He makes her raise her hand and swear she won't do it again.
 
 ## CP-310
 
 Aired 1990-11-10.
 
-**Alaska 4** (12:15 PM Assault Call) Bethel -- Alaska State Troopers -- Sgt. Dan
-Hickman and 1st Sgt. Greg Close go out to a four-seater plane and fly to a
-shooting call. James shot at tow people and their dogs. They land on a dirt
-strip and meet a guy on a motorcycle who tells them James killed a dog and his
-sister ran away because of it and James is hiding out at his green house. They
-find him squatting outside when they arrive and go over and talk to him and
-cuff him in the front to be nice since they are now required by law to cuff
-suspects. Dan says there are lots of shooting and suicides up there. Five years
-in jail is the usual sentence. A 12 gauge shotgun is taken as well as
-bootlegged whiskey. They takes James back to the plane and fly him back with
-them. Anchorage 4:30 PM -- K-9 Training Officer Keith Corder puts Officer Pam
-Nelson into the dog training suit because she is the only one who can fit
-inside. Officer Tom Katkus has the dog and it runs over and takes her down by
-the arm. (8:30 PM Domestic Disturbance) While patrolling Pam says people
-usually start partying at 11pm instead of 8pm in the lower 48, lots of weird
-things go on. She goes to a woman's house who says it is haunted by a crying
-baby. Pam puts holy water in the closet to capture it. Officer James Conley
-takes the 'ghost' away in a ghost collector. She says it is easier to pretend
-with these people because they take it seriously. Anchorage (8:45 PM Assault
-Call) Officer Marc Woodward says it is always different, never boring. There is
-a call of a fight with several people in the middle of the road. They are gone
-when he gets there. He finds the victim, Terry, inside a video store bleeding.
-He says he was riding his bike, bought a six pack and then some black guys
-stopped him. A couple others in a car joined in and beat him up, threw glass
-bottles and his beers at him and stole the rest. He says not worry he'll take
-care of them himself. (10:20 PM Disturbance Call) Marc finds Bobby on the
-street crying that his past keeps coming back to haunt him and he wants to die.
-He says he wants to go to API, but they won't take him. Marc says he'll help
-and drives him to API himself.
+**Alaska 4**
+
+- (Bethel, AK -- 12:15 PM Assault Call) Alaska State Troopers -- Sgt. Dan
+  Hickman and 1st Sgt. Greg Close go out to a four-seater plane and fly to a
+  shooting call. James shot at tow people and their dogs. They land on a dirt
+  strip and meet a guy on a motorcycle who tells them James killed a dog and
+  his sister ran away because of it and James is hiding out at his green house.
+  They find him squatting outside when they arrive and go over and talk to him
+  and cuff him in the front to be nice since they are now required by law to
+  cuff suspects. Dan says there are lots of shooting and suicides up there.
+  Five years in jail is the usual sentence. A 12 gauge shotgun is taken as well
+  as bootlegged whiskey. They takes James back to the plane and fly him back
+  with them.
+- (Anchorage, AK -- 4:30 PM K-9 Training) Officer Keith Corder puts Officer Pam
+  Nelson into the dog training suit because she is the only one who can fit
+  inside. Officer Tom Katkus has the dog and it runs over and takes her down by
+  the arm. (8:30 PM Domestic Disturbance) While patrolling Pam says people
+  usually start partying at 11pm instead of 8pm in the lower 48, lots of weird
+  things go on. She goes to a woman's house who says it is haunted by a crying
+  baby. Pam puts holy water in the closet to capture it. Officer James Conley
+  takes the 'ghost' away in a ghost collector. She says it is easier to pretend
+  with these people because they take it seriously.
+- (Anchorage, AK -- 8:45 PM Assault Call) Officer Marc Woodward says it is
+  always different, never boring. There is a call of a fight with several
+  people in the middle of the road. They are gone when he gets there. He finds
+  the victim, Terry, inside a video store bleeding.  He says he was riding his
+  bike, bought a six pack and then some black guys stopped him. A couple others
+  in a car joined in and beat him up, threw glass bottles and his beers at him
+  and stole the rest. He says not worry he'll take care of them himself. (10:20
+  PM Disturbance Call) Marc finds Bobby on the street crying that his past
+  keeps coming back to haunt him and he wants to die.  He says he wants to go
+  to API, but they won't take him.  Marc says he'll help and drives him to API
+  himself.
 
 ## CP-311
 
@@ -13493,7 +13584,7 @@ Aired 2006-06-03.
 **Coast to Coast 102**
 
 - (Pittsburgh, PA -- 1:22 AM Street Patrol) police chase an armed suspect on foot
-- Martin County FL -- Florida police respond to a disturbance call involving an inebriated, incoherent woman. 
+- Martin County FL -- Florida police respond to a disturbance call involving an inebriated, incoherent woman.
 - Anchorage, AK
 
 ## CP-1827
