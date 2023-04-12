@@ -7980,121 +7980,165 @@ Aired 1996-03-30.
 
 Aired 1996-05-11.
 
-**Dallas, TX 5** (8:01 PM Street Patrol) Central Division -- Officer Kurt Kaetterherny says what motivated him most to do the job is you see every aspect of life both good and bad. Officer Mark Vernon says to pull over a car with an expired tag. The male Hispanic driver takes off, runs on foot through a yard, over fences and falls hard. Kurt drives and Mark jumps out and catches him in an alley. He says he ran because he had warrants from tickets. His cousin said he had 9 warrants, he was scared and thought he'd go to jail. (12:05 AM Stabbing Call) A white guy stopped for directions and the black guy was helping him stabbed him in a Shell station parking lot. The white guy came after him and the black guy pulled out a knife and stabbed him in the back a few times. The river says his friend gave him the wrong directions, he was lost and he asked the black guy for help. The white guy game over, threw his stuff down and said, “why you messing with my people?” He got up in his face and pushed and punched the guy. The black guy pulled a knife to defend himself, he pulled out cassettes and said he was going to shoot him. If he gave him $60 he would go away. (3:05 PM Disturbance Call) S.E. Division -- Officer Mike Witzgall is going to the 3200 block where a man drove animal control off the road. The animal control man took an old mans' bird and says it might be put to sleep. The old man was upset and went after him by cutting him off the road. He says the bird is city property and wrote him a ticket for interfering with a public official. It is a pigeon, a rat with wings, the guy found it injured on the road, called them and was upset that it might be put to sleep. The man asks for Mike's badge number and he says 5873 and tells the man there is nothing he can do in this dispute. The law is if the bird is wounded he has to pick it up and a vet will take care of it. The old man says if he knew animal control would take the bird he never would've called. He has a bird sanctuary and would take care of it, but he said he it was his. The old man is all shaken up and says the man was a smart Alec to him. Then they look at the bird, which looks OK. (11:15 PM Street Patrol) N.W. Division -- Officer Greg Stonewall says his hobby is bodybuilding because when you fight with someone even for 30 seconds it can wear you out. They get a fight call and go to an apartment complex. Officer Rick Waller grabs one suspect. They are shirtless and fighting right in the street. One gets punched in the face and has a bloody nose when they stop it. One guy says they are brothers and are just playing. Greg says they should play in the dirt then. They claim they are just wrestling. The cops laugh and let them go and say to play soccer instead. (12:17 AM Shooting Call) They go to the apartments on Valley Meadow. An ambulance is on the scene, there is a bloody man shot on the ground with his shoes off. A black man says a 4 door white car drove by with 2 black guys who shot the guy. They were just standing there talking and the shooters thought they were Bloods or Crips. Officer Rhonda Baker closes the scene. Greg says they see this all the time, can't let it bother them and have to go on to the next call. They only talk about it for a few minutes then forget about it.
+**Dallas, TX 5**
+
+- (8:01 PM Street Patrol) Central Division -- Officer Kurt Kaetterherny says what motivated him most to do the job is you see every aspect of life both good and bad. Officer Mark Vernon says to pull over a car with an expired tag. The male Hispanic driver takes off, runs on foot through a yard, over fences and falls hard. Kurt drives and Mark jumps out and catches him in an alley. He says he ran because he had warrants from tickets. His cousin said he had 9 warrants, he was scared and thought he'd go to jail. (12:05 AM Stabbing Call) A white guy stopped for directions and the black guy was helping him stabbed him in a Shell station parking lot. The white guy came after him and the black guy pulled out a knife and stabbed him in the back a few times. The river says his friend gave him the wrong directions, he was lost and he asked the black guy for help. The white guy game over, threw his stuff down and said, “why you messing with my people?” He got up in his face and pushed and punched the guy. The black guy pulled a knife to defend himself, he pulled out cassettes and said he was going to shoot him. If he gave him $60 he would go away. (3:05 PM Disturbance Call) S.E. Division -- Officer Mike Witzgall is going to the 3200 block where a man drove animal control off the road. The animal control man took an old mans' bird and says it might be put to sleep. The old man was upset and went after him by cutting him off the road. He says the bird is city property and wrote him a ticket for interfering with a public official. It is a pigeon, a rat with wings, the guy found it injured on the road, called them and was upset that it might be put to sleep. The man asks for Mike's badge number and he says 5873 and tells the man there is nothing he can do in this dispute. The law is if the bird is wounded he has to pick it up and a vet will take care of it. The old man says if he knew animal control would take the bird he never would've called. He has a bird sanctuary and would take care of it, but he said he it was his. The old man is all shaken up and says the man was a smart Alec to him. Then they look at the bird, which looks OK. (11:15 PM Street Patrol) N.W. Division -- Officer Greg Stonewall says his hobby is bodybuilding because when you fight with someone even for 30 seconds it can wear you out. They get a fight call and go to an apartment complex. Officer Rick Waller grabs one suspect. They are shirtless and fighting right in the street. One gets punched in the face and has a bloody nose when they stop it. One guy says they are brothers and are just playing. Greg says they should play in the dirt then. They claim they are just wrestling. The cops laugh and let them go and say to play soccer instead. (12:17 AM Shooting Call) They go to the apartments on Valley Meadow. An ambulance is on the scene, there is a bloody man shot on the ground with his shoes off. A black man says a 4 door white car drove by with 2 black guys who shot the guy. They were just standing there talking and the shooters thought they were Bloods or Crips. Officer Rhonda Baker closes the scene. Greg says they see this all the time, can't let it bother them and have to go on to the next call. They only talk about it for a few minutes then forget about it.
 
 ## CP-820
 
 Aired 1995-10-07.
 
-**Buffalo, NY 1** (7:54 PM Assistance Call) Precinct 12 -- Officer Annette Campbell has been there 10 years on the 4pm -- 2am shift, the busiest shift in the busiest precinct. Precinct 12 is exciting since there are quite a few homicides, lots of robberies, chases, guns. Sometimes you get bored when everyone stays inside and it is good to relax. Her partner Officer Zrinell Webster says it's busy, busy most of the time. Once in a while there are slow days, but not too much. Armed robber spotted; burglary suspect caught; drug raid; corpse found; loose boa.
+**Buffalo, NY 1**
+
+- (7:54 PM Assistance Call) Precinct 12 -- Officer Annette Campbell has been there 10 years on the 4pm -- 2am shift, the busiest shift in the busiest precinct. Precinct 12 is exciting since there are quite a few homicides, lots of robberies, chases, guns. Sometimes you get bored when everyone stays inside and it is good to relax. Her partner Officer Zrinell Webster says it's busy, busy most of the time. Once in a while there are slow days, but not too much. Armed robber spotted; burglary suspect caught; drug raid; corpse found; loose boa.
 
 ## CP-821
 
 Aired 1995-10-21.
 
-**Buffalo, NY 2** (8:44 PM Burglary in Progress) Burglary suspect sighted; floating corpses; high-speed chase of unlicensed driver.
+**Buffalo, NY 2**
+
+- (8:44 PM Burglary in Progress) Burglary suspect sighted; floating corpses; high-speed chase of unlicensed driver.
 
 ## CP-822
 
 Aired 1995-12-09.
 
-**Buffalo, NY 3** (4:27 PM Assistance Call) Officers Gambino and Rieman help capture a young robbery suspect, then diffuse a dispute between neighbors. Erie County Sheriff's Department Marine Patrol Officer Sean Simet cites a boater for piloting his vessel too fast and too close to shore, and later, accompanied by Sergeant Donaghue, he stops another boat for a safety inspection. Officers Bowen and Walters respond to a burglary in which several men stole some liquor.
+**Buffalo, NY 3**
+
+- (4:27 PM Assistance Call) Officers Gambino and Rieman help capture a young robbery suspect, then diffuse a dispute between neighbors. Erie County Sheriff's Department Marine Patrol Officer Sean Simet cites a boater for piloting his vessel too fast and too close to shore, and later, accompanied by Sergeant Donaghue, he stops another boat for a safety inspection. Officers Bowen and Walters respond to a burglary in which several men stole some liquor.
 
 ## CP-823
 
 Aired 1995-12-23.
 
-**Buffalo, NY 4** (9:25 PM Street Patrol) Officers Tilsdale and Hall question a woman who tossed her husband's clothes into the driveway after a domestic dispute, then detain a man who entered a vacant dwelling. Lieutenant Taggart and Officer Simonian question several partygoers after a young man claims his sister was molested. Officers Marracino and Trimper chase a man who was involved in a domestic dispute with his girlfriend, then respond to a burglary at a vacant home.
+**Buffalo, NY 4**
+
+- (9:25 PM Street Patrol) Officers Tilsdale and Hall question a woman who tossed her husband's clothes into the driveway after a domestic dispute, then detain a man who entered a vacant dwelling. Lieutenant Taggart and Officer Simonian question several partygoers after a young man claims his sister was molested. Officers Marracino and Trimper chase a man who was involved in a domestic dispute with his girlfriend, then respond to a burglary at a vacant home.
 
 ## CP-824
 
 Aired 1996-01-06.
 
-**Buffalo, NY 5** (8:18 PM Street Patrol) Precinct II -- Officer Bill Gambino Says downtown Buffalo, East side, that's what it's all about, why he became a policeman. You never know what's going to happen. His partner Officer Bill Rieman says it's not your average job. You never know what's going to happen because there is o set time. It's not a routine job, it can be fun or depressing and no two calls are ever the same. They chase a suspect who stole another man's wallet at a delicatessen. Officers Williams and Kaudeyr investigate a bloody fight between brothers. Officers Gambino and Rieman meet with a man who claims his neighbor threw old phonograph records at his Cadillac.
+**Buffalo, NY 5**
+
+- (8:18 PM Street Patrol) Precinct II -- Officer Bill Gambino Says downtown Buffalo, East side, that's what it's all about, why he became a policeman. You never know what's going to happen. His partner Officer Bill Rieman says it's not your average job. You never know what's going to happen because there is o set time. It's not a routine job, it can be fun or depressing and no two calls are ever the same. They chase a suspect who stole another man's wallet at a delicatessen. Officers Williams and Kaudeyr investigate a bloody fight between brothers. Officers Gambino and Rieman meet with a man who claims his neighbor threw old phonograph records at his Cadillac.
 
 ## CP-825
 
 Aired 1996-01-13.
 
-**Buffalo, NY 6** (5:38 PM Assault Call) Officer Al Monteforte and his partner Officer Don Genovese go to a call of a gang beating up on one person. They interview several people who witnessed a fight that erupted after a man Vandalized a vehicle. Officers Kaudeyr and Williams investigate when a young man armed with a knife claims that his stepfather threatened him with a gun. Later, Monteforte and Genovese are tipped to a robbery in progress and detain two teenagers in possession of a stolen jewelry case.
+**Buffalo, NY 6**
+
+- (5:38 PM Assault Call) Officer Al Monteforte and his partner Officer Don Genovese go to a call of a gang beating up on one person. They interview several people who witnessed a fight that erupted after a man Vandalized a vehicle. Officers Kaudeyr and Williams investigate when a young man armed with a knife claims that his stepfather threatened him with a gun. Later, Monteforte and Genovese are tipped to a robbery in progress and detain two teenagers in possession of a stolen jewelry case.
 
 ## CP-826
 
 Aired 1996-01-27.
 
-**Buffalo, NY 7** (6:20 PM Street Patrol) Precinct 3 -- Officer Pat Roberts says when he was 19-20 he started taking civil service exams for state police and firefighter on the strong advice of his father, a recently retired Lt. Chief. It was an excellent opportunity and worked perfectly. His partner is Officer Paul Roberts who says occasionally people will look at their name tags, see the same name and ask if they are brothers and he'll say yeah. People like that, see the same first initial and old ladies like it so much the ask for a kiss on the cheek. Domestic disturbances; man revived; juveniles detained.
+**Buffalo, NY 7**
+
+- (6:20 PM Street Patrol) Precinct 3 -- Officer Pat Roberts says when he was 19-20 he started taking civil service exams for state police and firefighter on the strong advice of his father, a recently retired Lt. Chief. It was an excellent opportunity and worked perfectly. His partner is Officer Paul Roberts who says occasionally people will look at their name tags, see the same name and ask if they are brothers and he'll say yeah. People like that, see the same first initial and old ladies like it so much the ask for a kiss on the cheek. Domestic disturbances; man revived; juveniles detained.
 
 ## CP-827
 
 Aired 1996-02-03.
 
-**Albuquerque, NM 1** (12:30 PM Briefing) Bernalillo County Sheriff's Dept Narcotics Unit -- Detective Mark Rosario shows pictures and talks about the guy they have a warrant for. He lives in Apt 7, the last one on the east side. He leads his narcotics team on a heroin bust, and later, an undercover officer snares crack cocaine dealers in a sting operation. Albuquerque officers Marquez and Oleksak question a woman who claims she and her boyfriend are being harassed by her roommate's ex-boyfriend. Bernalillo County Sheriff's Deputy Ruben Barela apprehends a convicted felon driving with a sawed-off shotgun and a clown mask.
+**Albuquerque, NM 1**
+
+- (12:30 PM Briefing) Bernalillo County Sheriff's Dept Narcotics Unit -- Detective Mark Rosario shows pictures and talks about the guy they have a warrant for. He lives in Apt 7, the last one on the east side. He leads his narcotics team on a heroin bust, and later, an undercover officer snares crack cocaine dealers in a sting operation. Albuquerque officers Marquez and Oleksak question a woman who claims she and her boyfriend are being harassed by her roommate's ex-boyfriend. Bernalillo County Sheriff's Deputy Ruben Barela apprehends a convicted felon driving with a sawed-off shotgun and a clown mask.
 
 ## CP-828
 
 Aired 1996-02-10.
 
-**Albuquerque, NM 2** (5:45 PM Street Patrol) Southeast Area Command -- Officer John Bode says he likes it most when kids come up to him to thank him. It sounds corny, but it is true. When a kid says thanks for coming down his street so he can play it means the most. Kids have to go to parks to play since they don't have yards and gang members come and shoot it up and kids get hurt and they can put a stop to that. He goes to a violent domestic dispute where he has been to many times. Ruben gets into a foot pursuit with a woman who stole 4 cartons of cigarettes from a store and she is found hiding under a truck, claims she is on medication and is a Bi-polar Manic Depressant, then fights with the officers when they try to get her into the car. drunken driver.
+**Albuquerque, NM 2**
+
+- (5:45 PM Street Patrol) Southeast Area Command -- Officer John Bode says he likes it most when kids come up to him to thank him. It sounds corny, but it is true. When a kid says thanks for coming down his street so he can play it means the most. Kids have to go to parks to play since they don't have yards and gang members come and shoot it up and kids get hurt and they can put a stop to that. He goes to a violent domestic dispute where he has been to many times. Ruben gets into a foot pursuit with a woman who stole 4 cartons of cigarettes from a store and she is found hiding under a truck, claims she is on medication and is a Bi-polar Manic Depressant, then fights with the officers when they try to get her into the car. drunken driver.
 
 ## CP-829
 
 Aired 1996-04-06.
 
-**Albuquerque, NM 3** (8:50 PM Assistance Call) Bernalillo County Sheriff's Dept -- South Valley Sub-Station -- Deputy Ruben Barela was born and raised in Albuquerque and patrols the same area he grew up in. He always wanted to be a cop in the Bernalillo County Sheriff's Dept and enjoys working there with the other officers. SWAT team arrests murder suspect; motorist ejects syringe from car; mother-son reunion.
+**Albuquerque, NM 3**
+
+- (8:50 PM Assistance Call) Bernalillo County Sheriff's Dept -- South Valley Sub-Station -- Deputy Ruben Barela was born and raised in Albuquerque and patrols the same area he grew up in. He always wanted to be a cop in the Bernalillo County Sheriff's Dept and enjoys working there with the other officers. SWAT team arrests murder suspect; motorist ejects syringe from car; mother-son reunion.
 
 ## CP-830
 
 Aired 1996-04-13.
 
-**Albuquerque, NM 4** (5:15 PM Drug Activity) drug arrests; pregnant woman assaulted; paint sniffer arrested; accidental shooting.
+**Albuquerque, NM 4**
+
+- (5:15 PM Drug Activity) drug arrests; pregnant woman assaulted; paint sniffer arrested; accidental shooting.
 
 ## CP-831
 
 Aired 1996-05-04.
 
-**Albuquerque, NM 5** (5:31 PM Street Patrol) Valley Area Command -- Officer Ray Atencio says he was married two weeks before he entered the academy and they both feel this is where he needs to be, it is his calling. Suspected felon is pursued; DWI suspect; assault case. A call out to a disorderly drunk man in a car, Ernie from Texas, at a gas station with a Hispanic man. Ernie asks Ruben to beat him up, then offers to give Deputy Ruben Barela money and buy him coffee. Ruben transports both of them downtown, but no arrest.
+**Albuquerque, NM 5**
+
+- (5:31 PM Street Patrol) Valley Area Command -- Officer Ray Atencio says he was married two weeks before he entered the academy and they both feel this is where he needs to be, it is his calling. Suspected felon is pursued; DWI suspect; assault case. A call out to a disorderly drunk man in a car, Ernie from Texas, at a gas station with a Hispanic man. Ernie asks Ruben to beat him up, then offers to give Deputy Ruben Barela money and buy him coffee. Ruben transports both of them downtown, but no arrest.
 
 ## CP-832
 
 Aired 1996-05-25.
 
-**Albuquerque, NM 6** (7:32 PM Street Patrol) Bernalillo County Sheriff's Dept -- North Valley Sub-Station -- Deputy Dan Royston says his philosophy on police work is to keep people safe and the roads clear. Police are required to be family & Marriage counselors and priests. Drug-related incidents include a car without plates.
+**Albuquerque, NM 6**
+
+- (7:32 PM Street Patrol) Bernalillo County Sheriff's Dept -- North Valley Sub-Station -- Deputy Dan Royston says his philosophy on police work is to keep people safe and the roads clear. Police are required to be family & Marriage counselors and priests. Drug-related incidents include a car without plates.
 
 ## CP-833
 
 Aired 1996-05-18.
 
-**Albuquerque, NM 7** (4:07 PM Car Pursuit) Bernalillo County Sheriff's Dept -- North Valley Sub-Station -- Deputy Jeff Garcia says there isn't enough money for programs to help those in jail that shouldn't be there and there is a problem with repeat offenders who keep going back to jail. Deputy Ruben Barela is dispatched to a "Suicide attempt" call, supposedly for a man with a knife, they tackle the husband and arrest both the husband and take the wife away for attempted suicide. vehicular pursuit; domestic dispute; suicide attempt.
+**Albuquerque, NM 7**
+
+- (4:07 PM Car Pursuit) Bernalillo County Sheriff's Dept -- North Valley Sub-Station -- Deputy Jeff Garcia says there isn't enough money for programs to help those in jail that shouldn't be there and there is a problem with repeat offenders who keep going back to jail. Deputy Ruben Barela is dispatched to a "Suicide attempt" call, supposedly for a man with a knife, they tackle the husband and arrest both the husband and take the wife away for attempted suicide. vehicular pursuit; domestic dispute; suicide attempt.
 
 ## CP-834
 
 Aired 1996-06-22.
 
-**Albuquerque, NM 8** (9:12 PM Assistance Call) Bernalillo County Sheriff's Dept -- North Valley Sub-Station -- Deputy Robert Tyler likes to help people and return their stolen property to them. Ruben Barela arrests a man who was believed to be burglarizing a residence but it turns out that he did in fact was staying at the residence and at the end of the episode they ended up not taking him to jail. Women brawl; robbery suspect; unconscious man.
+**Albuquerque, NM 8**
+
+- (9:12 PM Assistance Call) Bernalillo County Sheriff's Dept -- North Valley Sub-Station -- Deputy Robert Tyler likes to help people and return their stolen property to them. Ruben Barela arrests a man who was believed to be burglarizing a residence but it turns out that he did in fact was staying at the residence and at the end of the episode they ended up not taking him to jail. Women brawl; robbery suspect; unconscious man.
 
 ## CP-835
 
 Aired 1996-06-29.
 
-**Albuquerque, NM 9** (5:47 PM Warrant Served) Bernalillo County Sheriff's Dept. Narcotics Unit -- Sgt. Russell Blaschke says this is the north valley, a section between the city and the county, it doesn't get a lot of cops, is known for black tar heroin, lots of users, rundown, poverty and people take advantage of them. He's trying to make a dent in it. They have a search warrant for a heroin dealers. They run down a dirt driveway past a car that has no tires and is filled with wood then slam the door open. It looks like it's only one big room. Detective Bill Reid calls it in. There is a Mexican man named Gabriel and a woman inside who are cuffed. They find needles, the man has holes in his arm and there is blood on the floor. They ask her what Gabe did, did he swallow anything? She says he shot up. They find razor blades, needles and residue. Gabe wants a cigarette and he gets one. Deputy Larry Garcia talks to a man who pulls up in the rear who says he's just there to give a trumpet lesson. He actually has a trumpet, but there is meth in there. They ask if it's stolen and to prove it's his. So he plays a little bit and they let him go. Gabe is charged with trafficking. (4:02 PM Assistance Call) Albuquerque Valley Area Command -- Officer Gene Marquez says they do make a difference, have helped quite a bit. When they feel they've hit a dead end they talk to the neighbors who appreciate them. A woman went in a gas station asking for help. A car is backing out that is damaged and held together with string in the back. Gene stops them and suddenly Gerard pops up from the front seat. He says he was looking for something. He is wearing a blue doorag is taken out and cuffed. Officer Scott Grommes searches the car. Gene asks Mary the driver what he's hiding, she says he dropped a cigarette. She lives in the south valley, but has no license. She doesn't know what he was doing. They pour out liquor, Gerard says he's not lying because that would be stupid and ignorant. They find a credit card with the name Yolanda that doesn't belong to them. Mary doesn't know anything. The cashier says Gerard tried to use Yolanda's card there to buy beer. He also used the card yesterday. Sgt. Earl Holmes got his name and admits he got the card from a guy and knew it was stolen. Gerard says she didn't know anything. He's used it a few times since yesterday. Gene says he was looking for a male subject with a gun and because he was acting suspicious he stopped him. If he was acting normal he never would've noticed him. (9:12 PM Traffic Stop) South Valley Sub-Station -- Deputy Ruben Barela is from NM, born in the Albuquerque south valley, the streets he patrols now. He's known since he was a child he wanted to be a cop, you've probably heard it a 100 times. This is the area he always wanted to work. He stops a red T-bird with Iowa plates in a parking lot. The driver says a friend of his lives there, he doesn't have a license and doesn't know why he's driving. He just had to go somewhere and is wearing Gonzalez Bail Bonds jacket. The car is damaged and it's fresh. He says he was in an accident this morning. He has no ID, no insurance and the back tire is falling off. He says it's his friends car. The entire left side of the car is bent, damaged and scratched. Deputy Van Elderedge questions the female passenger. Deputy Greg Rees backs him up and searches the car. He says it's a skip car. Now he says he was in an accident late last night. The woman has no idea and gives a social security number that comes back to a man. They find out she has a warrant with no bond. She is arrested and they find a needle in her purse. If she brings any drugs to a jail it's a felony. Ruben tells the guy Gonzalez can't help her.
+**Albuquerque, NM 9**
+
+- (5:47 PM Warrant Served) Bernalillo County Sheriff's Dept. Narcotics Unit -- Sgt. Russell Blaschke says this is the north valley, a section between the city and the county, it doesn't get a lot of cops, is known for black tar heroin, lots of users, rundown, poverty and people take advantage of them. He's trying to make a dent in it. They have a search warrant for a heroin dealers. They run down a dirt driveway past a car that has no tires and is filled with wood then slam the door open. It looks like it's only one big room. Detective Bill Reid calls it in. There is a Mexican man named Gabriel and a woman inside who are cuffed. They find needles, the man has holes in his arm and there is blood on the floor. They ask her what Gabe did, did he swallow anything? She says he shot up. They find razor blades, needles and residue. Gabe wants a cigarette and he gets one. Deputy Larry Garcia talks to a man who pulls up in the rear who says he's just there to give a trumpet lesson. He actually has a trumpet, but there is meth in there. They ask if it's stolen and to prove it's his. So he plays a little bit and they let him go. Gabe is charged with trafficking. (4:02 PM Assistance Call) Albuquerque Valley Area Command -- Officer Gene Marquez says they do make a difference, have helped quite a bit. When they feel they've hit a dead end they talk to the neighbors who appreciate them. A woman went in a gas station asking for help. A car is backing out that is damaged and held together with string in the back. Gene stops them and suddenly Gerard pops up from the front seat. He says he was looking for something. He is wearing a blue doorag is taken out and cuffed. Officer Scott Grommes searches the car. Gene asks Mary the driver what he's hiding, she says he dropped a cigarette. She lives in the south valley, but has no license. She doesn't know what he was doing. They pour out liquor, Gerard says he's not lying because that would be stupid and ignorant. They find a credit card with the name Yolanda that doesn't belong to them. Mary doesn't know anything. The cashier says Gerard tried to use Yolanda's card there to buy beer. He also used the card yesterday. Sgt. Earl Holmes got his name and admits he got the card from a guy and knew it was stolen. Gerard says she didn't know anything. He's used it a few times since yesterday. Gene says he was looking for a male subject with a gun and because he was acting suspicious he stopped him. If he was acting normal he never would've noticed him. (9:12 PM Traffic Stop) South Valley Sub-Station -- Deputy Ruben Barela is from NM, born in the Albuquerque south valley, the streets he patrols now. He's known since he was a child he wanted to be a cop, you've probably heard it a 100 times. This is the area he always wanted to work. He stops a red T-bird with Iowa plates in a parking lot. The driver says a friend of his lives there, he doesn't have a license and doesn't know why he's driving. He just had to go somewhere and is wearing Gonzalez Bail Bonds jacket. The car is damaged and it's fresh. He says he was in an accident this morning. He has no ID, no insurance and the back tire is falling off. He says it's his friends car. The entire left side of the car is bent, damaged and scratched. Deputy Van Elderedge questions the female passenger. Deputy Greg Rees backs him up and searches the car. He says it's a skip car. Now he says he was in an accident late last night. The woman has no idea and gives a social security number that comes back to a man. They find out she has a warrant with no bond. She is arrested and they find a needle in her purse. If she brings any drugs to a jail it's a felony. Ruben tells the guy Gonzalez can't help her.
 
 ## CP-836
 
 Aired 1996-04-27.
 
-**Orange County, CA 1** (7:03 PM Street Patrol) Fullerton -- Sgt. Dave Miller says it's a nice place to work, has nice residential neighborhoods, nice schools and with a population of two million they face all kinds of problems and it is a good way for an officer to learn. Communication Center gets a call from a man who tried to commit suicide; officer pursues gang member; purse stolen.
+**Orange County, CA 1**
+
+- (7:03 PM Street Patrol) Fullerton -- Sgt. Dave Miller says it's a nice place to work, has nice residential neighborhoods, nice schools and with a population of two million they face all kinds of problems and it is a good way for an officer to learn. Communication Center gets a call from a man who tried to commit suicide; officer pursues gang member; purse stolen.
 
 ## CP-837
 
 Aired 1996-07-06.
 
-**Orange County, CA 2** (Training Session) Santa Ana -- The Range Master directs Sgt. John Follo in the use of a video simulator. The test involves a Mexican man and two women standing next to a car. The man then takes one hostage and she gets away and John shoots him. He says a live fire simulator will be better. 6:30 PM Carjacking call. drug arrests; burglary; assault; molestation attempt.
+**Orange County, CA 2**
+
+- (Training Session) Santa Ana -- The Range Master directs Sgt. John Follo in
+  the use of a video simulator. The test involves a Mexican man and two women
+  standing next to a car. The man then takes one hostage and she gets away and
+  John shoots him. He says a live fire simulator will be better. 6:30 PM
+  Carjacking call. drug arrests; burglary; assault; molestation attempt.
 
 ## CP-838
 
 Aired 1996-07-13.
 
-**Orange County, CA 3** (7:45 PM Narcotics Briefing) Garden Grove -- Officer Mike Reynolds is instructed by an undercover officer that they are going to buy an ounce of speed. car-jacking; suspect behind a bookcase; drug sting.
+**Orange County, CA 3**
+
+- (7:45 PM Narcotics Briefing) Garden Grove -- Officer Mike Reynolds is instructed by an undercover officer that they are going to buy an ounce of speed. car-jacking; suspect behind a bookcase; drug sting.
 
 ## S-901
 
@@ -12140,40 +12184,44 @@ Aired 2005-08-06.
 
 Aired 2004-12-11.
 
-**Ho! Ho! Ho! 2 Special Edition** (Las Vegas, NV -- 10:21 PM Prostitution Sting)
-Vice Unit -- Detective Boyse Francis says it used to be a good area, but now
-they are tracking prostitutes with ADIS. There are now 368 of them and if they
-are caught it's a felony. Officer Noel Roberts is undercover and picks up a
-woman. She says she normally gets $40, has her own place, strips down and it's
-$20 for more. She works security, has clearance and is looking for her sister.
-The sister isn't a whore, has gotten stopped before and has a picture and info
-on the girl (11:18 PM) Noel picks up a young girl who will give a BJ for $60,
-but doesn't want him to park near the jail because she was arrested 2 weeks ago
-for prostitution. She's from San Diego, has a 1 year old daughter and claims
-she is 18. She might be underage, they'll have to check. She has a warrant for
-failure to appear and admits she messed with the wrong crowd, was stupid, got
-raped 14 times and only 1 guy had no condom, so she got pregnant. When she
-makes $100,000 she'll quit. Santa Ana, CA (7:27 PM Street Patrol) Officer Jose
-Gonzalez takes pride in the city and likes being proactive. He sees a black
-whore with long red braids he knows and she claims she's helping a handicapped
-man who fell in the street. She's taking him to the Jack in the Box, met with
-her probation officer today, there's nothing fishy going on, she doesn't do
-drugs anymore and used to do coke and pot. He has a crutch, a bad leg and a
-brain injury, which means he can't see her as a prostitute since she has a
-heart of gold. He goes to a room with her, not for sex, but just to talk. He's
-49, but hasn't been crippled his whole life. Cincinnati, OH (7:43 PM Suspicious
-Activity) District 1 -- Officer Kelly Bast was in the Marine Corps for 11 years,
-was taught how to be a strong person, have a command voice and to be
-professional. Officer Judy Dillinger sees an abandoned car with a couple inside
-trying to hide. They pull Mary out who says she's not doing anything, but does
-drugs, just not here. The black guy says the car belongs to a friend of his
-that went to jail. His name is Sherman, but doesn't know his last name. They
-pull him out, he says he has no drugs and his zipper is down because it's
-broken. His pants are wet because he just bathed. He wasn't picking up a whore
-and doesn't know the girls name. They find crack, drug paraphernalia and he has
-warrants. Mary says he had some crack and invited her in and she just got out
-of rehab for heroin. She used to be a whore, but isn't any more. He's on
-probation and claims he's trying to get her off heroin.
+**Ho! Ho! Ho! 2 Special Edition**
+
+- (Las Vegas, NV -- 10:21 PM Prostitution Sting) Vice Unit -- Detective Boyse
+  Francis says it used to be a good area, but now they are tracking prostitutes
+  with ADIS. There are now 368 of them and if they are caught it's a felony.
+  Officer Noel Roberts is undercover and picks up a woman. She says she
+  normally gets $40, has her own place, strips down and it's $20 for more. She
+  works security, has clearance and is looking for her sister.  The sister
+  isn't a whore, has gotten stopped before and has a picture and info on the
+  girl (11:18 PM) Noel picks up a young girl who will give a BJ for $60, but
+  doesn't want him to park near the jail because she was arrested 2 weeks ago
+  for prostitution. She's from San Diego, has a 1 year old daughter and claims
+  she is 18. She might be underage, they'll have to check. She has a warrant
+  for failure to appear and admits she messed with the wrong crowd, was stupid,
+  got raped 14 times and only 1 guy had no condom, so she got pregnant. When
+  she makes $100,000 she'll quit.
+- (Santa Ana, CA -- 7:27 PM Street Patrol) Officer Jose Gonzalez takes pride in
+  the city and likes being proactive. He sees a black whore with long red
+  braids he knows and she claims she's helping a handicapped man who fell in
+  the street. She's taking him to the Jack in the Box, met with her probation
+  officer today, there's nothing fishy going on, she doesn't do drugs anymore
+  and used to do coke and pot. He has a crutch, a bad leg and a brain injury,
+  which means he can't see her as a prostitute since she has a heart of gold.
+  He goes to a room with her, not for sex, but just to talk. He's 49, but
+  hasn't been crippled his whole life.
+- (Cincinnati, OH -- 7:43 PM Suspicious Activity) District 1 -- Officer Kelly
+  Best was in the Marine Corps for 11 years, was taught how to be a strong
+  person, have a command voice and to be professional. Officer Judy Dillinger
+  sees an abandoned car with a couple inside trying to hide. They pull Mary out
+  who says she's not doing anything, but does drugs, just not here. The black
+  guy says the car belongs to a friend of his that went to jail. His name is
+  Sherman, but doesn't know his last name. They pull him out, he says he has no
+  drugs and his zipper is down because it's broken. His pants are wet because
+  he just bathed. He wasn't picking up a whore and doesn't know the girls name.
+  They find crack, drug paraphernalia and he has warrants. Mary says he had
+  some crack and invited her in and she just got out of rehab for heroin. She
+  used to be a whore, but isn't any more. He's on probation and claims he's
+  trying to get her off heroin.
 
 ## CP-1713
 
@@ -12239,23 +12287,24 @@ Aired 2005-05-21.
   Conde caught the other. It turns out there were three of them, one is a third
   strike parolee. The guy in blue turns in the gun and a bulletproof vest. One
   got away, but was ID'd.
-- Little Rock, AR (3:20 PM Street Patrol) Officer Tim Stankevitz always wanted
-  to be a cop and got hired at 27, a late start. He loves it, it's a good bunch
-  of people, enjoys working the streets and it gets exciting. A man calls about
-  a problem with homeless people camping out at his building. A black man with
-  a “Called in sick” t-shirt says the man in the blue shirt has a gun. They go
-  around behind the building and find the guy. He is holding the gun and won't
-  drop it. He finally drops it, but won't listen and is pulled down hard and
-  cuffed. Another guy shows up and Officer Ryan Hudson takes him down. The man
-  called 8 Ball keeps saying he should've killed the other guy, talks nonsense,
-  the guy beat him with a 2x4 and he was going to take care of him. He's mad at
-  himself for not killing him, it would've been less trouble and he should've
-  killed him. He beat him over a $2 rock of coke and says if the cops didn't
-  come he would've killed him. He thought he was going back home to jail. The
-  other guy says he doesn't even know the guy, he must think he's someone else.
-  He's been arrested for drugs in 1997 though. The gun is a .22 and has 2
-  bullets. Officer Joe Miller checks it out and says it looks like it misfired.
-- San Bernardino, CA (7:01 PM Shooting Call) Sheriff's Dept -- Officer Mike
+- (Little Rock, AR -- 3:20 PM Street Patrol) Officer Tim Stankevitz always
+  wanted to be a cop and got hired at 27, a late start. He loves it, it's a
+  good bunch of people, enjoys working the streets and it gets exciting. A man
+  calls about a problem with homeless people camping out at his building. A
+  black man with a “Called in sick” t-shirt says the man in the blue shirt has
+  a gun. They go around behind the building and find the guy. He is holding the
+  gun and won't drop it. He finally drops it, but won't listen and is pulled
+  down hard and cuffed. Another guy shows up and Officer Ryan Hudson takes him
+  down. The man called 8 Ball keeps saying he should've killed the other guy,
+  talks nonsense, the guy beat him with a 2x4 and he was going to take care of
+  him. He's mad at himself for not killing him, it would've been less trouble
+  and he should've killed him. He beat him over a $2 rock of coke and says if
+  the cops didn't come he would've killed him. He thought he was going back
+  home to jail. The other guy says he doesn't even know the guy, he must think
+  he's someone else.  He's been arrested for drugs in 1997 though. The gun is a
+  .22 and has 2 bullets. Officer Joe Miller checks it out and says it looks
+  like it misfired.
+- (San Bernardino, CA -- 7:01 PM Shooting Call) Sheriff's Dept -- Officer Mike
   Martinez says a good day is taking a couple hardcore criminals off the street
   and going home at night. Officer Joe Silva says a man shot himself by
   mistake, but it might've been a gun battle. They go around back with a
@@ -12495,21 +12544,22 @@ Aired 2005-03-05.
   nearby.  Juan finds a vial and rocks on him and he speaks Spanish so he can't
   get away with it. He also finds a wad of money on him and a bunch of rocks on
   the ground. A crowd of children suddenly appears to laugh at him.
-- Covington, KY (4:14 PM Assistance Call) Officer Jess Hamblin takes the call
-  of a person refusing to leave a hotel. He arrives at the same time as Officer
-  Chris Gangwich. They talk to the owner James who says he, Paul and John are
-  the only ones who should be there. They are his sons and bring people with
-  them and smoke crack. He gives permission to get them out and check for
-  drugs. Two guys are inside and there is a guy and a girl in the bathroom. One
-  guy says he's lived there since October with his dad. He's never seen these
-  other people before. Jennifer who was in the bathroom has a crack pipe so she
-  is arrested.  There are crack pipes all over, but the owner says he just
-  invited them in for cold beers. They find 2 crack pipes in the toilet and a
-  stick. Jen says she just went in the bathroom to talk to the guy and knows
-  nothing about the crack.  The owner's son has a crack pipe in his shirt and
-  all of them are arrested. The son sings as he's brought out and says he was
-  just watching the Dukes of Hazzard and didn't know nothing. He has an
-  addictive personality -- he'll do anything you put out in front of him.
+- (Covington, KY -- 4:14 PM Assistance Call) Officer Jess Hamblin takes the
+  call of a person refusing to leave a hotel. He arrives at the same time as
+  Officer Chris Gangwich. They talk to the owner James who says he, Paul and
+  John are the only ones who should be there. They are his sons and bring
+  people with them and smoke crack. He gives permission to get them out and
+  check for drugs. Two guys are inside and there is a guy and a girl in the
+  bathroom. One guy says he's lived there since October with his dad. He's
+  never seen these other people before. Jennifer who was in the bathroom has a
+  crack pipe so she is arrested.  There are crack pipes all over, but the owner
+  says he just invited them in for cold beers. They find 2 crack pipes in the
+  toilet and a stick. Jen says she just went in the bathroom to talk to the guy
+  and knows nothing about the crack.  The owner's son has a crack pipe in his
+  shirt and all of them are arrested. The son sings as he's brought out and
+  says he was just watching the Dukes of Hazzard and didn't know nothing. He
+  has an addictive personality -- he'll do anything you put out in front of
+  him.
 - Fresno, CA -- Southwest Policing District. (10:43 PM Domestic Disturbance)
   Officer Curtis Davis drives and Officer Paul Martinez says he likes to
   multitask. It's his third unit, he's going to do undercover detail and
@@ -13495,7 +13545,11 @@ Aired 2006-02-04.
 
 Aired 2005-09-10.
 
-**Coast to Coast 96** (Las Vegas, NV -- 1:38 PM Homicide Investigation) Homicide Division -- Detective Dean O'Kelley says they got a call on Lone Mountain & Riley, someone found a human skull there. Santa Ana, CA -- cops spot a drug deal going down in a jeep. Las Vegas, NV -- a woman called 911 that her boyfriend was kicking the door in and the line went dead.
+**Coast to Coast 96**
+
+- (Las Vegas, NV -- 1:38 PM Homicide Investigation) Homicide Division -- Detective Dean O'Kelley says they got a call on Lone Mountain & Riley, someone found a human skull there.
+- Santa Ana, CA -- cops spot a drug deal going down in a jeep.
+- Las Vegas, NV -- a woman called 911 that her boyfriend was kicking the door in and the line went dead.
 
 ## CP-1818
 
