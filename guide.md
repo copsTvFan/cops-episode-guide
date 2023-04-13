@@ -6478,7 +6478,7 @@ Aired 1992-09-26.
   and he says he isn't drunk, just on back pain pills. He says he'll sue them
   for $100 million, though he can't read, write or listen. Their mom shows up
   and says she was pushed down and hit by him and doesn't know that her age is
-  78. Cops find three guns inside and take them. John's room has drawers full
+  78\. Cops find three guns inside and take them. John's room has drawers full
   of women's clothes and wigs, though no one knows why. When asked John says he
   is building a plastic museum. (9:38 PM Disturbance Call) A black man and
   woman are fighting in the parking lot of a Taco Bell. She is trying to rip
@@ -6643,13 +6643,27 @@ Aired 1993-09-04.
 
 Aired 1992-08-22.
 
-**Philadelphia, PA 1** (6:32 PM Burglary in Progress)
+**Philadelphia, PA 1**
+
+- (6:32 PM Burglary in Progress)
 
 ## CP-520
 
 Aired 1992-08-29.
 
-**Philadelphia, PA 2** (7:27 PM Traffic Stop) Highway Patrol -- Patrol Officer Walter Rice his driving and his partner Patrol Officer Antonio Santiago says there is no such thing as a routine traffic stop. They'll fool you as best as they can. The bad guy is never going to tell you where the gun is or that he is a bad guy. Part of their routine patrol is to put the bad guys away. The stop a white car from NJ who drove into oncoming traffic so he could get ahead in the traffic line on his side. The black driver says he was boxed out and couldn't get back in. He just bought the car, has no paperwork for it, no ID, no license. traffic stop yields guns, drugs and stolen car; elderly women have leaky ceiling.
+**Philadelphia, PA 2**
+
+- (7:27 PM Traffic Stop) Highway Patrol -- Patrol Officer Walter Rice his
+  driving and his partner Patrol Officer Antonio Santiago says there is no such
+  thing as a routine traffic stop. They'll fool you as best as they can. The
+  bad guy is never going to tell you where the gun is or that he is a bad guy.
+  Part of their routine patrol is to put the bad guys away. The stop a white
+  car from NJ who drove into oncoming traffic so he could get ahead in the
+  traffic line on his side. The black driver says he was boxed out and couldn't
+  get back in. He just bought the car, has no paperwork for it, no ID, no
+  license. traffic stop yields guns
+- drugs and stolen car
+- elderly women have leaky ceiling.
 
 ## CP-521
 
@@ -6738,7 +6752,12 @@ Aired 1992-09-05.
 
 **Philadelphia, PA 4**
 
-- (10:37 PM Suspicious Vehicle) Patrol Officer Jim Ryan is a second generation cop, his dad was one, he always wanted to be one and is lucky enough to fulfill what he wanted when he was a kid. Patrol Officer Walter David spots a car going very fast, then slow. Purse-snatcher; convenience-store shootings; car theft.
+- (10:37 PM Suspicious Vehicle) Patrol Officer Jim Ryan is a second generation
+  cop, his dad was one, he always wanted to be one and is lucky enough to
+  fulfill what he wanted when he was a kid. Patrol Officer Walter David spots a
+  car going very fast, then slow. Purse-snatcher
+- convenience-store shootings
+- car theft.
 
 ## CP-523
 
