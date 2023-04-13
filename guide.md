@@ -9453,6 +9453,11 @@ Aired 1997-04-12.
   be there. He is then off to an assist call in the arrest of a young motorist
   in possession of a firearm and drugs, and in the second story, Gray makes a
   drug bust after noticing a marijuana cigarette tucked behind a suspect's ear.
+  - "Right behind your ear, brother"
+  - "Very good" -- Henry
+  - "Powers of observation!"
+  - "I didn't even know it was there. When you're wrong, you're wrong though,
+    you know?" -- Henry
 - Deputy Kenneth Gray encounters a domestic violence suspect who giggles like a
   child as he is being frisked for weapons.
 - Deputy Rien stops a driver operating a vehicle at night with its lights
