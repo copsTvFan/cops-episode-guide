@@ -13601,7 +13601,7 @@ Aired 2004-07-31.
 
 **Coast to Coast 65**
 
-- (Jacksonville, FL -- 7:51 PM Suspicious Vehicle) Officer Tom Helmsey talks
+- (Jacksonville, FL -- 7:51 PM Suspicious Vehicle) Officer Tom Hemsley talks
   about the weather. He then sees a car with an expired tag and goes to pull it
   over. Two passengers bail out and the driver speeds up and takes off going
   90mph over a bridge and down a freeway until he wipes out into the side wall.
