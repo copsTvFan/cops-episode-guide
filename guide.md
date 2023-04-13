@@ -446,7 +446,7 @@ Aired 1989-04-22.
   colored. Lt. Bob Rios says his unit's job is getting drunks off the street.
   This month they've gotten 78, 67 other arrests -- narcotics or weapons, plus
   601 citations.
-- (D.U.I. Task Force) Deputy Chris Wagoneer is looking for signs of DUI's –
+- (D.U.I. Task Force) Deputy Chris Wagoneer is looking for signs of DUI's -
   weaving, going over a curb.
 - (8:45 PM DUI Stop) He is given a field sobriety test. He makes Mr. Crawley do
   9 steps forward heel to toe. He counts them out in a British accent, but does
@@ -682,7 +682,7 @@ Aired 1989-05-20.
 - (8:13 PM Domestic Violence Call) A woman says she was sprayed in the face
   with Armor All by her boyfriend Danny and wants him out or she'll kill him.
   Danny gets in the cops faces, won't listen, won't sit down, tells them to hit
-  him and says he'll hit Mike because it is his house and he pays the rent –
+  him and says he'll hit Mike because it is his house and he pays the rent -
   not Mike. He is drunk and when he gets in the back of the police car he bangs
   his head against the window a couple of times. They stop him and then he
   starts all over again banging his head 32 times in a row, so they hog tie
@@ -876,12 +876,13 @@ Aired 1989-06-10.
   there. She wonders about questions because she doesn't want to end up on
   America's Most Wanted. She takes her shirt off and goes into the bathroom and
   they run in and grab her. She says her boyfriend is downstairs waiting for
-  her and knows what she is doing. Miami -- Little Havana
-- (Homicide Investigation 9:45 PM) The first 24 hours are the most crucial in
-  the investigation. A dead man is found in a Chinese restaurant and Sgt. Diego
-  O'Choa is in charge. He was shot through the window and door. As was a girl
-  was working there, it was her first day. Another one was only working 2
-  weeks. They measure and photograph the body and take him away.
+  her and knows what she is doing.
+- Miami -- Little Havana (Homicide Investigation 9:45 PM) The first 24 hours
+  are the most crucial in the investigation. A dead man is found in a Chinese
+  restaurant and Sgt. Diego O'Choa is in charge. He was shot through the window
+  and door. As was a girl was working there, it was her first day. Another one
+  was only working 2 weeks. They measure and photograph the body and take him
+  away.
 - (11:10) They go to an apartment looking for the shooter and get the
   girlfriend. She says she doesn't know who shot or got shot and doesn't know
   her boyfriends' last name or how to reach him. They have a guy in
@@ -2790,7 +2791,7 @@ Aired 1990-03-24.
 
 **Los Angeles, CA 8**
 
-- (7:10 PM Baby with a Seizure) South East County Sheriff's Station -- Deputy
+- (7:10 PM Baby With Seizure) South East County Sheriff's Station -- Deputy
   David Halm races to the Mexican hovel. It is a. asks the sex of the child who
   can't breath. It is a boy, so he goes to get a blanket,. They put him on the
   blanket and he cries. He is 5 months old and they think he OD'd on penicillin
@@ -3816,11 +3817,11 @@ Aired 1990-11-17.
   when they get here and don't realize that dream that's where I encounter
   these people.
 - (Theme song)
-- North East Area Command – Officer Larry Burns says
-  he moved there in 1980 to work construction, but he was also interested in
-  police work since they didn't make a lot of money he didn't take it serious.
-  After he spent his first night in a patrol car he knew that was the job for
-  him, that he loves police work. (7:42 PM 911 Call Fight in Progress)
+- North East Area Command -- Officer Larry Burns says he moved there in 1980 to
+  work construction, but he was also interested in police work since they
+  didn't make a lot of money he didn't take it serious.  After he spent his
+  first night in a patrol car he knew that was the job for him, that he loves
+  police work. (7:42 PM 911 Call Fight in Progress)
 - Drunk And Disorderly Call with Officer Dennis Magill
 - Strong Arm Robbery and Domestic Violence with Officers Thomas Fletcher and
   Joe Lombardo
@@ -3908,7 +3909,9 @@ Aired 1990-11-17.
 
 Aired 1990-12-01.
 
-**Las Vegas, NV 2** (LSP Unit Southeast Area Command) Metropolitan PD -- Officer
+**Las Vegas, NV 2**
+
+- (LSP Unit Southeast Area Command) Metropolitan PD -- Officer
 Jack Clark calls a suspect with a warrant and tells him he's from Dewercs, Mr.
 Rathford won a 27" TV set from RCA. It won't cost him anything, he just has to
 fill out a questionnaire after 30 days. They pay nothing, the company pays
@@ -4069,7 +4072,9 @@ Aired 1990-12-08.
 
 Aired 1990-12-15.
 
-**Las Vegas, NV 4** (Firing Range) Metropolitan PD -- Officer Randy Sutton fires
+**Las Vegas, NV 4**
+
+- (Firing Range) Metropolitan PD -- Officer Randy Sutton fires
 two clips. He was involved in a shooting incident using a 9mm. They shot at
 each other about 5 feet apart. He hit him in the chest, the guy missed him, but
 the suspect didn't even know he was hit, it didn't make him flinch. He decided
@@ -4130,7 +4135,9 @@ purse. They'll get it. She says it's the most humiliating, disturbing thing.
 
 Aired 1990-12-22.
 
-**Las Vegas, NV 5** (7:20 PM Runaway Child) Metropolitan Police Dept -- Officer
+**Las Vegas, NV 5**
+
+- (7:20 PM Runaway Child) Metropolitan Police Dept -- Officer
 Randy Sutton goes to the call of Jessie, an eight year-old boy, who ran away an
 hour ago after a domestic dispute and hasn't been seen since. He pulls up to
 \#2645, clipboard in hand. The woman says he was beating up on some kids and she
@@ -4375,25 +4382,26 @@ Aired 1991-01-19.
   Frank to University Medical Center for lacerations to his head, broken ribs
   and broken wrist. He was investigating a DWI and stopped traffic, the suspect
   drove through the accident scene, hit Frank and he went to leave. A guard
-  chased him down and made him come back. (Seven Months Later) Officer Frank
-  Janise talks about the accident. He arrived at the accident scene and went to
-  get flares and find out about getting blood drawn for BAC. That's the last
-  thing he remembers. He was told the man came across the Industrial road, went
-  over the double line and hit him. The mirror on the truck hit him in the head
-  and something cut through his shirt, jacket and vest. (5:50 PM Accident Call)
-  He goes to where another cop has a man stopped and thinks he's drunk. Officer
-  David Wagner explains the guy was making a westbound turn on Paradise, then a
-  lady hit the back of the cab, plus there's a second accident. He gives the
-  man a field test. Frank talks to the woman. She says the man sandwiched the
-  guy between the truck and the cab almost killing him. (8:10 PM Accident Call)
-  He goes to the call of a three car accident where paramedics have already
-  arrived. He pulls up and the scene is full of people.  He talks to a blonde
-  woman who says the white car tried to make a left hand turn and the red car
-  didn't yield. The white car's front is smashed in and the red car looks like
-  a tinfoil ball. He can relate to them better because he was never involved in
-  a DWI accident until he was hit. Everyone had seatbelts except for one lady
-  in an 85 Oldsmobile who only got lacerations. The driver was lucky he had his
-  belt on so he survived. The old saying is if you drink, don't drive.
+  chased him down and made him come back.
+- (Seven Months Later) Officer Frank Janise talks about the accident. He
+  arrived at the accident scene and went to get flares and find out about
+  getting blood drawn for BAC. That's the last thing he remembers. He was told
+  the man came across the Industrial road, went over the double line and hit
+  him. The mirror on the truck hit him in the head and something cut through
+  his shirt, jacket and vest. (5:50 PM Accident Call) He goes to where another
+  cop has a man stopped and thinks he's drunk. Officer David Wagner explains
+  the guy was making a westbound turn on Paradise, then a lady hit the back of
+  the cab, plus there's a second accident. He gives the man a field test. Frank
+  talks to the woman. She says the man sandwiched the guy between the truck and
+  the cab almost killing him. (8:10 PM Accident Call) He goes to the call of a
+  three car accident where paramedics have already arrived. He pulls up and the
+  scene is full of people.  He talks to a blonde woman who says the white car
+  tried to make a left hand turn and the red car didn't yield. The white car's
+  front is smashed in and the red car looks like a tinfoil ball. He can relate
+  to them better because he was never involved in a DWI accident until he was
+  hit. Everyone had seatbelts except for one lady in an 85 Oldsmobile who only
+  got lacerations. The driver was lucky he had his belt on so he survived. The
+  old saying is if you drink, don't drive.
 - (6:40 PM Suspicious Vehicle) Northeast Area Command -- Officer Thomas
   Fletcher has been assigned to the downtown area as a foot patrol officer.
   They run into a lot of homeless, a lot of robberies, find that a lot of their
@@ -4834,7 +4842,7 @@ Aired 1991-03-16.
 - (3:32 PM Quad Squad Briefing) Officer Vickie Thomas is at home
 getting her gear ready for work. Her job is very exciting, going out dealing
 with the scum as the mayor would call them. She never knows what to expect, be
-prepared for anything, likes a good fight, it gets the adrenaline pumping,
+prepared for anything, likes a good fight, it gets the adrenaline going,
 likes to get in there, roll around, give her a fight any day. She gets in her
 car and drives to work. Sgt. Jim Diamond says they are going to do a buy/bust
 operation and they have two women in the car, so take care of them. Vickie is a
@@ -5211,7 +5219,7 @@ Aired 1991-05-18.
 **Houston, TX 2**
 
 - Segment 1 and 2: (10:08 PM Disturbance Call) Sheriff's Dept -- Deputy Eugene
-  Lancaster works the unicorporated parts of Harris county, in the last few
+  Lancaster works the unincorporated parts of Harris county, in the last few
   years crime has gotten a lot worse, mostly drugs, especially crack. They're
   undermanned and always busy. A man is breaking windows with a pipe. Eugene
   goes up the dark driveway to a rundown house. A woman says her boyfriend done
@@ -5444,10 +5452,10 @@ Aired 1991-06-22.
 
 **London 1 Hour Special**
 
-(Parade) A marching band parades in front of Buckingham Palace. Cops watch and
-patrol. Sir Peter Imbert Commissioner says Scotland Yard is the HG of the metro
-police, it was formed in 1829 by Sir Robert Peel, SY has traditionally been
-it's HQ.
+- (Parade) A marching band parades in front of Buckingham Palace. Cops watch
+  and patrol. Sir Peter Imbert Commissioner says Scotland Yard is the HG of the
+  metro police, it was formed in 1829 by Sir Robert Peel, SY has traditionally
+  been it's HQ.
 
 ## CP-340
 
@@ -5455,11 +5463,11 @@ Aired 1991-08-16.
 
 **Las Vegas, NV 8**
 
-- (5:45 PM Suspicious Activity) Metropolitan PD Northeast
-Area Command -- Officers Thomas Fletcher says every car that metro has, B/W,
-have a computer terminal MCTs, they are a tremendous help. By running a plate
-at random they can determine if the car is stolen from anywhere in the US, if
-the person has warrants or if the plate is expired. Officer Andrew Legrow.
+- (5:45 PM Suspicious Activity) Metropolitan PD Northeast Area Command --
+  Officers Thomas Fletcher says every car that metro has, B/W, have a computer
+  terminal MCTs, they are a tremendous help. By running a plate at random they
+  can determine if the car is stolen from anywhere in the US, if the person has
+  warrants or if the plate is expired. Officer Andrew Legrow.
 - (7:30 PM Disturbance Call) / (7:46 PM Disturbance Call) [in later episodes]
   Officer Joseph Lombardo (Joe Lombardo) and the Polite Vampire lady.
 
@@ -5469,7 +5477,7 @@ Aired 1991-06-29.
 
 **Best of Cops Volume 1**
 
-- (Broward County FL -- 4:00 PM Drug Operation Briefing) from CP-109
+- (Broward County, FL -- 4:00 PM Drug Operation Briefing) from CP-109
 - (San Diego, CA -- Northern Division Roll Call) from CP-216
 - (Portland, OR) Sgt. Loren Caddy goes to an accident where a mother dies from
   not wearing a seatbelt from CP-205
@@ -5480,9 +5488,9 @@ Aired 1991-07-06.
 
 **Best of Cops Volume 2**
 
-- (Broward County FL -- 8:13 PM Domestic Violence Call) CP-110
+- (Broward County, FL -- 8:13 PM Domestic Violence Call) CP-110
 - (Las Vegas, NV -- 6:30 PM Prostitution Sting Briefing) from CP-311
-- (Broward County FL) Deputy Linda Canada goes to a call of Nancy and her
+- (Broward County, FL) Deputy Linda Canada goes to a call of Nancy and her
   daughter who want her boyfriend not to come back from CP-101
 
 # Season 4
@@ -5503,7 +5511,9 @@ Aired 1991-07-06.
 
 Aired 1991-08-10.
 
-**Kansas City 1** (MO -- East Patrol) Officer Kevin Tempel describes the Crime
+**Kansas City 1**
+
+- (MO -- East Patrol) Officer Kevin Tempel describes the Crime
 Tips program. Kids come up to them and they give them baseball cards with
 Royals players on the front and crime tips on the back. They stopped it, but
 kids still asked so they reinstituted the program. He stops three kids and has
@@ -5514,22 +5524,26 @@ suspected shoplifter, domestic call.
 
 Aired 1991-08-17.
 
-**Kansas City 2** (KS -- 2:33 AM Assistance Call) Officer Zane Schuberger says
+**Kansas City 2**
+
+- (KS -- 2:33 AM Assistance Call) Officer Zane Schuberger says
 it is a good town and the north end where he works is the place to be if you
-want to catch the bad guys -- it has the most crime in the city. truck theft;
+want to catch the bad guys -- it has the most crime in the city. Truck theft;
 DUI arrest of retired officer; drug bust.
 
 ## CP-403
 
 Aired 1991-08-24.
 
-**Kansas City 3** (MO -- 7:45 PM) Officer Randy Poletis responds to a
-disturbance in a restaurant on Main St. by a drunk, belligerent man. When he
-goes in the man is sitting at a table reading the paper and the owner wants him
-out. He gets up but won't put his drink down. Randy and another officer force
-the drink down and take him out in the hall and search him. When they go to
-cuff him he fights and goes down on a couch and growls. A violent trespassing
-suspect; domestic disturbance turns into food fight.
+**Kansas City 3**
+
+- (MO -- 7:45 PM) Officer Randy Poletis responds to a disturbance in a
+  restaurant on Main St. by a drunk, belligerent man. When he goes in the man
+  is sitting at a table reading the paper and the owner wants him out. He gets
+  up but won't put his drink down. Randy and another officer force the drink
+  down and take him out in the hall and search him. When they go to cuff him he
+  fights and goes down on a couch and growls. A violent trespassing suspect;
+  domestic disturbance turns into food fight.
 
 ## CP-404
 
@@ -5539,7 +5553,7 @@ Aired 1991-12-07.
 
 - (KS -- 10:52 PM Street Patrol) Officer Bob Lane pulls up on five guys trying
   to start a truck with a stuck valve on the main street that are making a huge
-  smoke cloud. Off. Bob Lane probes the shooting of an intruder.
+  smoke cloud. Officer Bob Lane probes the shooting of an intruder.
 - Off. Mike Cook answers a disturbance call, which results in convicted felon's
   capture.
 - Off. Gale Hall tries to keep a man from attacking his sister's boyfriend.
@@ -5560,29 +5574,36 @@ Aired 1991-09-13.
 
 Aired 1991-10-19.
 
-**Kansas City 6** (MO -- 6:14 PM Warrant Briefing) Metro Tactical Unit -- Sgt.
-Steve Majors talks about 3 warrants, only having one van and not the
-surveillance van since it sticks out, where to park when they get there, seeing
-the 3 houses overlook each other. There are 2 rammers and he is one of them.
-Officer Mark Neiman is the sacrificial lamb. officer serves warrant for drug
-dealing; dog is stolen.
+**Kansas City 6**
+
+- (MO -- 6:14 PM Warrant Briefing) Metro Tactical Unit -- Sgt.  Steve Majors
+  talks about 3 warrants, only having one van and not the surveillance van
+  since it sticks out, where to park when they get there, seeing the 3 houses
+  overlook each other. There are 2 rammers and he is one of them.  Officer Mark
+  Neiman is the sacrificial lamb. Officer serves warrant for drug dealing; dog
+  is stolen.
 
 ## CP-407
 
 Aired 1991-10-12.
 
-**Kansas City 7** (KS -- 2:29 AM Officer Down Call) Officer Zane Schuberger
-races to the scene of a 1060. officer knifed; woman ties up drunken husband;
-jealous husband.
+**Kansas City 7**
+
+- (KS -- 2:29 AM Officer Down Call) Officer Zane Schuberger races to the scene
+  of a 1060. Officer knifed
+- woman ties up drunken husband
+- jealous husband.
 
 ## CP-408
 
 Aired 1991-10-05.
 
-**Kansas City 8** (MO -- 4:12 PM Roll Call) Sgt. Gary Schmidt hands out stop
-smoking class forms are put out because cops aren't allowed to smoke after 9/1
-then turns it over to Cpt. Tom Daily. officers fight with burglary suspect and
-brothers; crack-house sweep.
+**Kansas City 8**
+
+- (MO -- 4:12 PM Roll Call) Sgt. Gary Schmidt hands out stop smoking class
+  forms are put out because cops aren't allowed to smoke after 9/1 then turns
+  it over to Cpt. Tom Daily. Officers fight with burglary suspect and brothers;
+  crack-house sweep.
 
 ## CP-409
 
@@ -5602,17 +5623,21 @@ Aired 1991-09-28.
 
 Aired 1991-10-26.
 
-**Pittsburgh, PA 4** (10:18 PM Domestic Disturbance) Officer Michelle McCants
-was the first female K-9 in the city's history and is breakin' down them walls.
-She gets a call to go to a bar called Jeannie's on Chestnut. Inside is a woman
-with a cut chin. If the man is still inside an arrest must be made. Bar patrons
-arrested; burglary suspects in abandoned funeral home.
+**Pittsburgh, PA 4**
+
+- (10:18 PM Domestic Disturbance) Officer Michelle McCants was the first female
+  K-9 in the city's history and is breakin' down them walls.  She gets a call
+  to go to a bar called Jeannie's on Chestnut. Inside is a woman with a cut
+  chin. If the man is still inside an arrest must be made. Bar patrons
+  arrested; burglary suspects in abandoned funeral home.
 
 ## CP-411
 
 Aired 1991-12-21.
 
-**Pittsburgh, PA 5** (8:58 PM Narcotics Task Force Briefing) Eddie Brown jokes
+**Pittsburgh, PA 5**
+
+- (8:58 PM Narcotics Task Force Briefing) Eddie Brown jokes
 that the officer in the Cincinnati Reds hat eating a salad is what heroes are
 made of. Detective Damien Wiles says the guy they are looking for is Erwin Earl
 in he lives in an apartment at the bottom.
@@ -5621,22 +5646,27 @@ in he lives in an apartment at the bottom.
 
 Aired 1991-11-02.
 
-**Pittsburgh, PA 6** (6:08 PM Drug Bust) Detective Eddie Brown says the task
-force in Homewood in the last eight days made 88 arrests, got 20 guns of the
-street and it's going back to the community, doing what they have to do to keep
-the streets clean and drug free. They're here to stay. A drug deal is on
-Breston Ave with 5-6 people on the edge of the city near Penn Hills. They catch
-two black guys on a concrete staircase up a hill. drive-by shooting foiled;
-hit-and-run suspect apprehended.
+**Pittsburgh, PA 6**
+
+- (6:08 PM Drug Bust) Detective Eddie Brown says the task force in Homewood in
+  the last eight days made 88 arrests, got 20 guns of the street and it's going
+  back to the community, doing what they have to do to keep the streets clean
+  and drug free. They're here to stay. A drug deal is on Breston Ave with 5-6
+  people on the edge of the city near Penn Hills. They catch two black guys on
+  a concrete staircase up a hill.
+- drive-by shooting foiled
+- hit-and-run suspect apprehended.
 
 ## CP-413
 
 Aired 1992-01-04.
 
-**Pittsburgh, PA 7** (12:06 AM Shooting Call) Officer Pat Logan and Officer
-Jimmy McGee head to a call of two people shot In the legs. In the last 5 days 9
-people have been shot of drugs. Rival drugs dealers on the edge of town.
-Suspect with "cop-killing" bullets in gun; officers help confused senior.
+**Pittsburgh, PA 7**
+
+- (12:06 AM Shooting Call) Officer Pat Logan and Officer Jimmy McGee head to a
+  call of two people shot In the legs. In the last 5 days 9 people have been
+  shot of drugs. Rival drugs dealers on the edge of town.  Suspect with
+  "cop-killing" bullets in gun; officers help confused senior.
 
 ## CP-414
 
@@ -5652,245 +5682,288 @@ Aired 1992-02-07.
 
 Aired 1991-11-16.
 
-**Boston, MA 1** (11:16 PM Drug Sweeps) Area A-7 -- Officer Mike Lopriore says
-Boston is just the right size, was a good place to grow up -- not too big or too
-small, neighborhoods are sectioned off, good city, it's run well, nothing else
-he could ask for. He loves it and there's nothing else he'd rather be doing
-than policing the city he grew up in. He spots a drug deal in an alley as they
-drive by. He gets out and sneaks around back. He catches a white guy in a blue
-jacket and presses him against a fence. His partner Officer Peter Fontanez
-catches the other guy and brings him over. The guy starts choking and Mike
-pounds him on the back until he spits out 3 bags of cocaine. They call him an
-idiot. Peter cut them off with the car and enabled Mike to catch them. After he
-says lots of guys choke on the bags and they have to play paramedic. They bring
-the kid to the station and the kid says he wasn't doing anything. (11:56 PM)
-He's charged with possession class B and possession within 1000 feet of a
-school, then he is mirandized. He says he has 2 kids and was going to rehab
-Tuesday, then counseling. Mike says he could've choked to death. (4:06 PM Roll
-Call) with Officer Robert Anthony. He takes the call of a woman trying to pass
-a phony prescription at a supermarket. Officer Ralph Amoroso questions her and
-she says she was picking it up for a neighbor Donna. The pharmacist says she's
-called before, but the information she gave didn't match up. She wanted Vicadin
-and gives Ralph her ID and the pharmacist calls the doctor. The woman claims
-she didn't know it was phony and wants to know if she is under arrest and can
-she leave. She's an attorney. They say they can detain her until they determine
-if there was a crime, the Sgt is on the way. Robert asks to see her Bar Card if
-she's a lawyer, but she doesn't have one. Sgt. Francis Gaughan talks to the
-pharmacist who says she couldn't find the name and stalled until police
-arrived. She said it was for Navarro. The woman says she has 2 kids in her car,
-but there is no one there. She is arrested for a 92C -- passing a phony
-prescription. Francis says they have to cuff, it's the law. They check her car
-and find 3 additional license plates in the car. They also find prescription
-bags with no receipts and different names. The pharmacist comes out and checks
-the bags and says it's a highly addictive pill and sells for about $8 a pill.
-Cops say she is the best scammer they've ever seen. Sgt. Joe Flandaca has a
-Warrant Briefing. A couple has a 22 year old son and they have a sledgehammer
-to break the door down if necessary. They arrive at 4:22 pm. They get in and
-have to go up and downstairs to check the place. Detective Chuck Wilson
-questions the old man, Johnny, who owns the house if there is any cocaine
-there. Detective Joe Mugnano says his son will get locked up if they find any
-coke and it isn't his fault. The old guy  understands. Joe says he has a chance
-of saving everyone else from being charged if he'll tell them the truth. Mike
-Lopriore says the guy told him where everything is, but doesn't believe it.
-He's arrested the son 5 times for drugs already -- it runs in the family. They
-find bags of rocks in the Cheerios cereal. A call comes in from Tony who wants
-to bet on the Celtics and Joe pretends he's Johnny and takes the call making up
-a point spread. The phone rings again and he says that Johnny is out for a
-while and he's taking care of things. He takes a bet over the phone. Cops keep
-tearing up the place looking for drugs, in dresses in a closet, in the couch
-and they find nunchucks. They cuff him and Joe says they have a steady gambling
-habit and sell the drugs to pay the gambling bills. (8:12 PM) Chuck helps
-Johnny into the back of his car and he can barely get in because he's 70 years
-old.
+**Boston, MA 1**
+
+- (11:16 PM Drug Sweeps) Area A-7 -- Officer Mike Lopriore says Boston is just
+  the right size, was a good place to grow up -- not too big or too small,
+  neighborhoods are sectioned off, good city, it's run well, nothing else he
+  could ask for. He loves it and there's nothing else he'd rather be doing than
+  policing the city he grew up in. He spots a drug deal in an alley as they
+  drive by. He gets out and sneaks around back. He catches a white guy in a
+  blue jacket and presses him against a fence. His partner Officer Peter
+  Fontanez catches the other guy and brings him over. The guy starts choking
+  and Mike pounds him on the back until he spits out 3 bags of cocaine. They
+  call him an idiot. Peter cut them off with the car and enabled Mike to catch
+  them. After he says lots of guys choke on the bags and they have to play
+  paramedic. They bring the kid to the station and the kid says he wasn't doing
+  anything. (11:56 PM) He's charged with possession class B and possession
+  within 1000 feet of a school, then he is mirandized. He says he has 2 kids
+  and was going to rehab Tuesday, then counseling. Mike says he could've choked
+  to death.
+- (4:06 PM Roll Call) with Officer Robert Anthony. He takes the call of a woman
+  trying to pass a phony prescription at a supermarket. Officer Ralph Amoroso
+  questions her and she says she was picking it up for a neighbor Donna. The
+  pharmacist says she's called before, but the information she gave didn't
+  match up. She wanted Vicadin and gives Ralph her ID and the pharmacist calls
+  the doctor. The woman claims she didn't know it was phony and wants to know
+  if she is under arrest and can she leave. She's an attorney. They say they
+  can detain her until they determine if there was a crime, the Sgt is on the
+  way. Robert asks to see her Bar Card if she's a lawyer, but she doesn't have
+  one. Sgt. Francis Gaughan talks to the pharmacist who says she couldn't find
+  the name and stalled until police arrived. She said it was for Navarro. The
+  woman says she has 2 kids in her car, but there is no one there. She is
+  arrested for a 92C -- passing a phony prescription. Francis says they have to
+  cuff, it's the law. They check her car and find 3 additional license plates
+  in the car. They also find prescription bags with no receipts and different
+  names. The pharmacist comes out and checks the bags and says it's a highly
+  addictive pill and sells for about $8 a pill.  Cops say she is the best
+  scammer they've ever seen. Sgt.
+- (Warrant Briefing) Joe Flandaca has a Warrant Briefing. A couple has a 22
+  year old son and they have a sledgehammer to break the door down if
+  necessary. They arrive at 4:22 pm. They get in and have to go up and
+  downstairs to check the place. Detective Chuck Wilson questions the old man,
+  Johnny, who owns the house if there is any cocaine there. Detective Joe
+  Mugnano says his son will get locked up if they find any coke and it isn't
+  his fault. The old guy  understands. Joe says he has a chance of saving
+  everyone else from being charged if he'll tell them the truth. Mike Lopriore
+  says the guy told him where everything is, but doesn't believe it.  He's
+  arrested the son 5 times for drugs already -- it runs in the family. They
+  find bags of rocks in the Cheerios cereal. A call comes in from Tony who
+  wants to bet on the Celtics and Joe pretends he's Johnny and takes the call
+  making up a point spread. The phone rings again and he says that Johnny is
+  out for a while and he's taking care of things. He takes a bet over the
+  phone. Cops keep tearing up the place looking for drugs, in dresses in a
+  closet, in the couch and they find nunchucks. They cuff him and Joe says they
+  have a steady gambling habit and sell the drugs to pay the gambling bills.
+  (8:12 PM) Chuck helps Johnny into the back of his car and he can barely get
+  in because he's 70 years old.
 
 ## CP-416
 
 Aired 1991-11-09.
 
-**Boston, MA 2** (7:54 PM Area B) Officer Mike Stratton says they have plain
-clothes cops in unmarked cars watching a heavy drug area. When they see a deal
-going on they'll describe the buyer and call the other cops and they'll catch
-them out of view of the dealers. Partner is Officer Greg Brown. Foot pursuit
-into convenience store/Briefing/Domestic -- woman with a knife gets toys/Man
-gets Stabbed/Inside the jail. officers detain drug buyer to get to seller;
-domestic disturbance.
+**Boston, MA 2**
+
+- (7:54 PM Area B) Officer Mike Stratton says they have plain clothes cops in
+  unmarked cars watching a heavy drug area. When they see a deal going on
+  they'll describe the buyer and call the other cops and they'll catch them out
+  of view of the dealers. Partner is Officer Greg Brown. Foot pursuit into
+  convenience store.
+- (Boston Police Department) Briefing with Officer Peter Fontanez, Sgt. John
+  O'Connell, Officer Mike Lopriore.  (7:12 PM). (8:42 PM Domestic Disturbance).
+  Woman with a knife gets toys.
+- (Anti-gang & Violence Unit) Officer Tito Whittington, officer Robert Rogers
+  head to a (11:32 PM Assistance Call). Man gets stabbed. Officer John Dailey.
+  (12:22 AM).
 
 ## CP-417
 
 Aired 1991-11-23.
 
-**Boston, MA 3** (5:54 PM Disturbance Call) Area D Briefing -- The Sgt. talks to
-Officer John Ridge & Officer Bill Reynolds about liability. He's mentioned it
-before that if you have a situation where you make an arrest and you can make
-or not make a report -- always makes a report -- liability, liability, liability.
-Then he wants to know if anyone has a joke, but no one does. A call comes in of
-a fire on Angeline Rd where a man jumped from the building and hit the ground.
-A crowd is gathering as they get stuck in traffic on the way. There is a white
-man in his underwear on the ground with both feet and arms broken and bloody
-and they tell him to relax. The fire department shows up and says the fire is
-in Apt 204 where the man jumped from. Everyone else is out of the all elderly
-building. The man says his hands and feet hurt as they put a brace on his neck
-and he yells not to touch his feet. He jumped from the window, to the roof then
-to the street. The man fought with his wife, ran down the hall, ran into
-another apartment and fought with the woman there. She ran out and he stayed
-inside and set the place on fire and jumped. (5:37 PM 911 Call) PD Headquarters
-Communications Center -- a man calls from the Angelo Seafood Restaurant about a
-guy creating a disturbance. (5:42 PM Disturbance Call) Officer Brian McMasters
-& Officer Ralph Amoroso go to the call saying it's a law going back to the
-1700s about disturbing the innkeeper. Angelo and his wife says the guy has
-complained to them three times. He ate 3/4 of the clams in a box and then
-wanted a refund. The customer says they have the best fish in town, but the
-clams are tough, taste terrible and you can't chew them. Ralph says they can't
-give him a refund since he ate most of it. The guy says he's going to picket
-outside tomorrow. He used to come in once a week to eat the clams, but they did
-this to him out of spite. He'll have to go to another seafood restaurant now.
-(9:17 PM Domestic Violence Call) They go and talk to a 72 year old woman who
-won't put up with the abuse any more. The drunk guy needs help, is overweight,
-he's abused her and she's scared for her life. Backup arrives and all five of
-them go upstairs to get Michael. They find him in the apartment and he wants
-his shoes and says not to push him. They've been there a few times for him.
-Back at the station they tell him his wife is scared and wants him to get help.
-He says she's his wife, people think she's his mother. Help won't help him, he
-went to AA and all they talk about is booze. He wants to forget booze. They
-have to move the table so he can get out since he is so fat. They uncuff him
-and tell him to behave or he'll go in a cell. Mike kisses their hands, cries
-and doesn't want to go to jail. He has a hearing aid and they make him take his
-jewelry off, but his finger is red and swollen under his ring. He says last
-night he dreamt he was a police officer. (7:12 PM Roll Call) Officer John Ridge
-says the police have been in his family for over 30 years, he was born and
-raised with it, his cousins, uncles and father were cops. You can't explain the
-job to people, it's too complicated going from one call to the next. (10:10
-Disturbance Call) It's at the Food Basket convenience store. When they get
-there the guy takes off and they chase him. When they catch him he says he
-wasn't doing anything, just talking to a guy. Then he says he was running to
-catch a train. They put him in a car and the victim arrives. He says he took
-money out of a MAC machine and asked for a quarter, then a dollar, then $10
-dollars. He followed him into the store and took a swing at him. It was a
-vicious shot that knocked off his glasses. They pull the guy out of the car and
-cuff him. He starts getting loud and violent saying he just came out of a house
-right now, he didn't rob anyone. He says they are doing this because he's
-Puerto Rican and they are white. The victim says he hit him in the store, they
-went outside to talk and the guy hit him again and broke his glasses. The guy
-screams that he will kill him and the guy is a liar. John says usually they
-don't catch the guy because they flee, but this time they got him and he's
-going to jail.
+**Boston, MA 3**
+
+- (5:54 PM Disturbance Call) Area D Briefing -- The Sgt. talks to Officer John
+  Ridge & Officer Bill Reynolds about liability. He's mentioned it before that
+  if you have a situation where you make an arrest and you can make or not make
+  a report -- always makes a report -- liability, liability, liability.  Then
+  he wants to know if anyone has a joke, but no one does. A call comes in of a
+  fire on Angeline Rd where a man jumped from the building and hit the ground.
+  A crowd is gathering as they get stuck in traffic on the way. There is a
+  white man in his underwear on the ground with both feet and arms broken and
+  bloody and they tell him to relax. The fire department shows up and says the
+  fire is in Apt 204 where the man jumped from. Everyone else is out of the all
+  elderly building. The man says his hands and feet hurt as they put a brace on
+  his neck and he yells not to touch his feet. He jumped from the window, to
+  the roof then to the street. The man fought with his wife, ran down the hall,
+  ran into another apartment and fought with the woman there. She ran out and
+  he stayed inside and set the place on fire and jumped.
+- (5:37 PM 911 Call) PD Headquarters Communications Center -- a man calls from
+  the Angelo Seafood Restaurant about a guy creating a disturbance. (5:42 PM
+  Disturbance Call) Officer Brian McMasters & Officer Ralph Amoroso go to the
+  call saying it's a law going back to the 1700s about disturbing the
+  innkeeper. Angelo and his wife says the guy has complained to them three
+  times. He ate 3/4 of the clams in a box and then wanted a refund. The
+  customer says they have the best fish in town, but the clams are tough, taste
+  terrible and you can't chew them.  Ralph says they can't give him a refund
+  since he ate most of it. The guy says he's going to picket outside tomorrow.
+  He used to come in once a week to eat the clams, but they did this to him out
+  of spite. He'll have to go to another seafood restaurant now.  (9:17 PM
+  Domestic Violence Call) They go and talk to a 72 year old woman who won't put
+  up with the abuse any more. The drunk guy needs help, is overweight, he's
+  abused her and she's scared for her life.  Backup arrives and all five of
+  them go upstairs to get Michael. They find him in the apartment and he wants
+  his shoes and says not to push him. They've been there a few times for him.
+  Back at the station they tell him his wife is scared and wants him to get
+  help.  He says she's his wife, people think she's his mother. Help won't help
+  him, he went to AA and all they talk about is booze. He wants to forget
+  booze. They have to move the table so he can get out since he is so fat. They
+  uncuff him and tell him to behave or he'll go in a cell. Mike kisses their
+  hands, cries and doesn't want to go to jail. He has a hearing aid and they
+  make him take his jewelry off, but his finger is red and swollen under his
+  ring. He says last night he dreamt he was a police officer.
+- (7:12 PM Roll Call) Officer John Ridge says the police have been in his
+  family for over 30 years, he was born and raised with it, his cousins, uncles
+  and father were cops. You can't explain the job to people, it's too
+  complicated going from one call to the next. (10:10 Disturbance Call) It's at
+  the Food Basket convenience store. When they get there the guy takes off and
+  they chase him.  When they catch him he says he wasn't doing anything, just
+  talking to a guy.  Then he says he was running to catch a train. They put him
+  in a car and the victim arrives. He says he took money out of a MAC machine
+  and asked for a quarter, then a dollar, then $10 dollars. He followed him
+  into the store and took a swing at him. It was a vicious shot that knocked
+  off his glasses. They pull the guy out of the car and cuff him. He starts
+  getting loud and violent saying he just came out of a house right now, he
+  didn't rob anyone. He says they are doing this because he's Puerto Rican and
+  they are white. The victim says he hit him in the store, they went outside to
+  talk and the guy hit him again and broke his glasses. The guy screams that he
+  will kill him and the guy is a liar. John says usually they don't catch the
+  guy because they flee, but this time they got him and he's going to jail.
 
 ## CP-418
 
 Aired 1992-03-21.
 
-**Boston, MA 4** (7:38 PM Drug Buy Calls) Officer Mike Lopriore calls a dealers
-beeper and then has to go to another phone on Chelsea to they know it is set.
-His partner is Officer Peter Fontantez/Selling drugs out a window/Roll call
-weapon's check/Fire call/Arson suspect in station.
+**Boston, MA 4**
+
+- (7:38 PM) / perhaps (7:38 Drug Buy Calls) originally. Officer Mike Lopriore
+  calls a dealers beeper and then has to go to another phone on Chelsea to they
+  know it is set.  His partner is Officer Peter Fontantez.
+- (12:18 AM Investigation Call) Officer Mike Stratton and Officer Greg Brown. A
+  man claims his nephew is selling drugs out a window.
+- (Lynn Police Department) (9:32 PM Roll Call) Weapons check. Officer Ned
+  Shinnick. (9:47 PM Fire Call). Sgt. Ralph Sirois. (11:12 PM) Arson suspect
+  Gary in station.
 
 ## CP-419
 
 Aired 1991-12-07.
 
-**Boston, MA 5** (4:52 PM Domestic Disturbance Call) Guy bleeding from fight
-from being stabbed and claims to have AIDS/Guy ate a banana without paying/Drug
-surveillance buying crack. violent drug arrest.
+**Boston, MA 5**
+
+- (4:52 PM Domestic Disturbance Call) Guy bleeding from fight from being
+  stabbed and claims to have AIDS.
+- (10:09 PM Assault Call) Officer Ralph Amoroso and officer Robert Anthony. Guy
+  ate a banana without paying.
+- (10:26 PM Drug Surveillance Briefing) Officer Tito Whittington, officer
+  Robert Rogers.
 
 ## CP-420
 
 Aired 1991-12-14.
 
-**Boston, MA 6** (8:37 PM Warrant Briefing) East Boston -- Officer Robert
-Anthony listens as the detective talks about a house dealing coke out of it.
-They'll take a sledgehammer if needed and there is a woman there. They all load
-up and enter the apartment building, run down the hallway and knock and enter.
-There are two people downstairs, and three upstairs. On 11/7 they sold to an
-undercover cop so they know they have drugs. If Donald cooperates only he and
-his wife will go down, not everyone. Detective Joe Mugnano makes a drug deal on
-the phone with the delivery guy saying the woman is in the bathroom. He tells
-them to come up and ring the bell twice. The guy comes up with the coke and
-they jump him. They pull him in fast and get bags of rocks off him. They put
-the owners in cuffs and lead them out. (10:27 PM) At the station they talk
-about beeping a Spanish drug dealer to see if he'll show up. They drive down to
-because he's supposed to have an ounce of coke. The dealer is driving right at
-them and they cut him off. They pull him out, check his mouth for drugs and
-find wads of money on him. They don't want to tie up the street so they bring
-him back to the station to thoroughly check the car. (11:42 PM) They tear the
-car up at the station and find bags of rocks in the dash. (9:10 PM
-Investigation Call) Officer Bill Reynolds and his partner Officer John Ridge
-are heading to the 560 block. Jackie is on a blind date and called her father
-screaming. They are supposed to be in apartment 1208 and they check with
-security at the building and run up there. They knock and no one answers. They
-go back down to security to get there parking space number. They check it and
-the car is gone. They are in a black Saab and spot them on the road and chase
-them down. They pull them out and the woman is shaken, she has no idea what is
-going on. She says everything is fine, it must be a joke and they've only been
-out 2 hours. Bill tells her to call her dad. Jackie calls her brother Joe to
-ask what's going on. It turns out she said she was having an emergency, but all
-she needed was hair gel and that they are weird. John talks to the brother on
-the phone. She was getting ready and left a message on her sisters machine that
-it was an emergency. The sister called the father who called them. It's a date
-she'll never forget. (9:02 PM Disturbance Call) Officer Edward Tansey says Lynn
-is a beautiful city, has the biggest reservation and is right outside of
-Boston. Officer Charles Griffin is his partner. They are going to a house where
-a Tammy threatened to set her house on fire. They've been there before, it's
-off the road. They go in and a woman says it's a drug deal gone bad. She gave
-him $40 and they ripped her off. There are three men -- two Dominicans and a
-Puerto Rico inside man who don't speak English. One of them has a large knife.
-They say Jose is the dealer and isn't there. Tammy has bought from him before,
-but says she's Vanessa. He's there illegally and she is mad because last night
-they bought from him and it was baking soda so she called the police. Sgt.
-Robert O'Neil talks to the girlfriend of the manager Bob McDenna who says the
-three guys don't belong there. The renter was evicted yesterday and the place
-is supposed to be empty. The woman was assaulted trying to buy coke. They put
-the money under the door for coke, but got nothing back. She says she smokes,
-not snorts and only spends $40 a day so it's not a bad habit.
+**Boston, MA 6**
+
+- (8:37 PM Warrant Briefing) East Boston -- Officer Robert Anthony listens as
+  the detective talks about a house dealing coke out of it.  They'll take a
+  sledgehammer if needed and there is a woman there. They all load up and enter
+  the apartment building, run down the hallway and knock and enter.  There are
+  two people downstairs, and three upstairs. On 11/7 they sold to an undercover
+  cop so they know they have drugs. If Donald cooperates only he and his wife
+  will go down, not everyone. Detective Joe Mugnano makes a drug deal on the
+  phone with the delivery guy saying the woman is in the bathroom. He tells
+  them to come up and ring the bell twice. The guy comes up with the coke and
+  they jump him. They pull him in fast and get bags of rocks off him. They put
+  the owners in cuffs and lead them out. (10:27 PM) At the station they talk
+  about beeping a Spanish drug dealer to see if he'll show up. They drive down
+  to because he's supposed to have an ounce of coke. The dealer is driving
+  right at them and they cut him off. They pull him out, check his mouth for
+  drugs and find wads of money on him. They don't want to tie up the street so
+  they bring him back to the station to thoroughly check the car. (11:42 PM)
+  They tear the car up at the station and find bags of rocks in the dash.
+- (9:10 PM Investigation Call) Officer Bill Reynolds and his partner Officer
+  John Ridge are heading to the 560 block. Jackie is on a blind date and called
+  her father screaming. They are supposed to be in apartment 1208 and they
+  check with security at the building and run up there. They knock and no one
+  answers. They go back down to security to get there parking space number.
+  They check it and the car is gone. They are in a black Saab and spot them on
+  the road and chase them down. They pull them out and the woman is shaken, she
+  has no idea what is going on. She says everything is fine, it must be a joke
+  and they've only been out 2 hours. Bill tells her to call her dad. Jackie
+  calls her brother Joe to ask what's going on. It turns out she said she was
+  having an emergency, but all she needed was hair gel and that they are weird.
+  John talks to the brother on the phone. She was getting ready and left a
+  message on her sisters machine that it was an emergency. The sister called
+  the father who called them. It's a date she'll never forget.
+- (9:02 PM Disturbance Call) Officer Edward Tansey says Lynn is a beautiful
+  city, has the biggest reservation and is right outside of Boston. Officer
+  Charles Griffin is his partner. They are going to a house where a Tammy
+  threatened to set her house on fire. They've been there before, it's off the
+  road. They go in and a woman says it's a drug deal gone bad. She gave him $40
+  and they ripped her off. There are three men -- two Dominicans and a Puerto
+  Rico inside man who don't speak English. One of them has a large knife.  They
+  say Jose is the dealer and isn't there. Tammy has bought from him before, but
+  says she's Vanessa. He's there illegally and she is mad because last night
+  they bought from him and it was baking soda so she called the police. Sgt.
+  Robert O'Neil talks to the girlfriend of the manager Bob McDenna who says the
+  three guys don't belong there. The renter was evicted yesterday and the place
+  is supposed to be empty. The woman was assaulted trying to buy coke. They put
+  the money under the door for coke, but got nothing back. She says she smokes,
+  not snorts and only spends $40 a day so it's not a bad habit.
 
 ## CP-421
 
 Aired 1992-04-04.
 
-**Boston, MA 7** (8:28 PM Buy/Bust Operation) Officer Mike Lopriore says a guy
-on probation is part of the we deliver network. he goes to drug meetings and
-then delivers coke all night. He beeped all his customers to meet in a parking
-lot an some undercover detectives are going in to bust buyers and sellers. Drug
-sting at gas station/Roll call -- treat everyone like they are armed/Stabbing of
-husband by his drunk, drugged wife/Shooting by armed gang/Booking of suspect.
+**Boston, MA 7**
+
+- (8:28 PM Buy/Bust Operation) Officer Mike Lopriore says a guy on probation is
+  part of the we deliver network. he goes to drug meetings and then delivers
+  coke all night. He beeped all his customers to meet in a parking lot an some
+  undercover detectives are going in to bust buyers and sellers. Drug sting at
+  gas station
+- (Roll Call) Sgt. Ralph Sirois says treat everyone like they are armed.
+  Officer Jim Carroll, Officer Mark O'Toole, Officer Michael Kelter. (9:18 PM
+  Stabbing Call).  Stabbing of husband by his drunk, drugged wife.
+- (6:06 PM Shooting Call) Shooting by armed gang with Officer Tom Boyle,
+  Detective William Kennedy, Officer Mike O'Hara, (9:15 PM) Booking of suspect.
 
 ## CP-422
 
 Aired 1992-01-11.
 
-**Memphis, TN 1** (Narcotics Unit Briefing) Detective Leo Hampton says there is
-a 65 & 63 year old white couple selling pot out of their house and he wants to
-get them all in one room. They bought from the woman before and she is supposed
-to have 4 or 5 pounds of marijuana there. 10:07 PM they head out and he says
-she is known to carry a .22 and is not afraid to use it. (10:17 PM Warrant
-Served) Elderly couple distributed narcotics; assault.
+**Memphis, TN 1**
+
+- (Narcotics Unit Briefing) Detective Leo Hampton says there is a 65 & 63 year
+  old white couple selling pot out of their house and he wants to get them all
+  in one room. They bought from the woman before and she is supposed to have 4
+  or 5 pounds of marijuana there. 10:07 PM they head out and he says she is
+  known to carry a .22 and is not afraid to use it. (10:17 PM Warrant Served)
+  Elderly couple distributed narcotics
+- (9:57 PM Domestic Disturbance) Black girlfriend stabbed her black boyfriend.
+  Officer Tommy Turner and officer Mark Miller. The boyfriend gets arrested.
+- (9:42 AM Interdiction Team Briefing) Deputy Nick Hazlerig, Deputy Marty
+  Tartera, Deputy Mickey McCune.
 
 ## CP-423
 
 Aired 1992-01-18.
 
-**Memphis, TN 2** (11:22 PM Street Patrol) Shelby County Sheriff's Station –
-Lt. Mike McEachren congratulates the group on last nights pursuit. It started
-gloomy, but there was no damage and they all survived. They pull over a car for
-having no license plate and a bulb out. It is a white and silver Pontiac
-Bonneville that refuses to stop and crosses over into Mississippi and are
-cutoff and captured. The black driver is Tony Johnson with a female Mexican
-passenger, Amanda Mars. Deputy Vernon Pollahite Jr. read them their rights. She
-says Tony had no license, so he wouldn't stop. He crossed the border because
-he's rather go to a Mississippi jail since they are better. Officers Grayland
-King and Mike Fleming of Olive Branch MS take them to their jail. Deputy Mike
-Tulley says he likes to help people and catch bad guys. He sees a lot of bad,
-but also sees the good. (12:22 AM Domestic Disturbance) Gene says his wife
-Vanessa was supposed to be home by 10pm and she came home at 11. She tried to
-drive off and he held on so she drove with him on the hood. She wants to leave
-with the kids, but he won't let he. After being married for five years he
-threatened to beat her. He tries to get her to stay, but she leaves. Sheriff's
-Dept. -- Deputy Nick Hazelrig dreamt of dope coming from Texas to his town.
-(8:54 AM Assistance Call) A car from Texas is stopped and they find a little
-pot that the male driver has. Deputy Mark Kellerman searches the car with his
-wife and two kids in the back. He shows him a baggie in the trunk and a joint
-in his eyeglass case. The wife is hysterical and is glad he got caught. She
-calls him an ass and can't believe he did this on the way to his father's
-funeral. They make him dump all the pot out and cut him loose.
+**Memphis, TN 2**
+
+- (11:22 PM Street Patrol) Shelby County Sheriff's Station -- Lt. Mike McEachren
+  congratulates the group on last nights pursuit. It started gloomy, but there
+  was no damage and they all survived. They pull over a car for having no
+  license plate and a bulb out. It is a white and silver Pontiac Bonneville
+  that refuses to stop and crosses over into Mississippi and are cutoff and
+  captured. The black driver is Tony Johnson with a female Mexican passenger,
+  Amanda Mars. Deputy Vernon Pollahite Jr. read them their rights. She says
+  Tony had no license, so he wouldn't stop. He crossed the border because he's
+  rather go to a Mississippi jail since they are better. Officers Grayland King
+  and Mike Fleming of Olive Branch MS take them to their jail.
+- Deputy Mike Tulley says he likes to help people and catch bad guys. He sees a
+  lot of bad, but also sees the good. (12:22 AM Domestic Disturbance) Gene says
+  his wife Vanessa was supposed to be home by 10pm and she came home at 11. She
+  tried to drive off and he held on so she drove with him on the hood. She
+  wants to leave with the kids, but he won't let he. After being married for
+  five years he threatened to beat her. He tries to get her to stay, but she
+  leaves.
+- Sheriff's Dept. -- Deputy Nick Hazelrig dreamt of dope coming from Texas to
+  his town.  (8:54 AM Assistance Call) A car from Texas is stopped and they
+  find a little pot that the male driver has. Deputy Mark Kellerman searches
+  the car with his wife and two kids in the back. He shows him a baggie in the
+  trunk and a joint in his eyeglass case. The wife is hysterical and is glad he
+  got caught. She calls him an ass and can't believe he did this on the way to
+  his father's funeral. They make him dump all the pot out and cut him loose.
 
 ## CP-424
 
@@ -5902,8 +5975,8 @@ Aired 1992-01-25.
   crime, unknown who is responsible, shots fired, victim is D.O.A.  A 60 year
   old white man was who was a volunteer probation officer got robbed and shot
   five times and is dead. A black man in a black jacket was seen fleeing the
-  scene and is apprehended down the street. robbery investigation yields murder
-  victim
+  scene and is apprehended down the street. Robbery investigation yields murder
+  victim.
 - (7:21 PM Roll Call) (10:54 PM Disturbance Call)
 - (7:37 AM) / (7:37 AM Traffic Stop) Deputy Mark Kellerhall, Sgt. David
   Ducrest, Captain Richard Swain
@@ -5934,7 +6007,7 @@ Aired 1992-05-30.
 
 - (9:11 PM Shooting Call) Officer Gene Hulley says they need clothes for the
   dirty patients who come in to the hospital and to donate any sex or size. His
-  partner is C.D. Hawkins. A black drug dealer goes to a house to collect money
+  partner is C. D. Hawkins. A black drug dealer goes to a house to collect money
   a woman owes him and when she doesn't haven't he shoots her in the ass. They
   go looking for him and find he has shot another woman. Her sister is in the
   yard screaming she saw him shoot her sister.
@@ -5976,7 +6049,7 @@ Aired 1992-03-07.
 
 - (7:01 PM Shooting Call) Officer Angel Calzadilla & Emilio Canciobello arrive
   at a crazy old man's house that is filled with rotting packs of dripping meat
-  and the windowsill is buried in dead flies. man is unable to care for himself
+  and the windowsill is buried in dead flies. Man is unable to care for himself
 - overturned truck.
 
 ## CP-429
@@ -6111,12 +6184,14 @@ Aired 1992-03-21.
 
 **Miami, FL 4**
 
-- (Weapons Inspection) Metro-Dade Police Department -- Corporal
-Ronald Dignazio is the inspector and tells the officers to line up, draw their
-weapons, eject their cartridges to the floor and present their weapons for
-inspection. Another officer checks them. Officer Federico Chacon says he
-doesn't take sides, make problems personal and just tries to make the best
-decision. (7:24 PM Street Patrol) A car chase; man assaults friend; drug bust.
+- (Weapons Inspection) Metro-Dade Police Department -- Corporal Ronald Dignazio
+  is the inspector and tells the officers to line up, draw their weapons, eject
+  their cartridges to the floor and present their weapons for inspection.
+  Another officer checks them. Officer Federico Chacon says he doesn't take
+  sides, make problems personal and just tries to make the best decision. (7:24
+  PM Street Patrol) A car chase
+- man assaults friend
+- drug bust.
 
 ## CP-433
 
@@ -6124,11 +6199,11 @@ Aired 1992-04-11.
 
 **South Florida 2**
 
-- (6:40 PM Narcotics Unit Briefing) Metro-Dade Department --
-Sgt. Fred Silber says Moe's CI from the 50K reverse drug buy was compromised
-when he owed $40,000 and Columbian leg breaker enforcers were hired to get his
-family. They'll wire Moe and if he is threatened they'll bust the Columbians.
-Suspects threaten informant and family; suspected drunken driver.
+- (6:40 PM Narcotics Unit Briefing) Metro-Dade Department -- Sgt. Fred Silber
+  says Moe's CI from the $50K reverse drug buy was compromised when he owed
+  $40,000 and Columbian leg breaker enforcers were hired to get his family.
+  They'll wire Moe and if he is threatened they'll bust the Columbians.
+  Suspects threaten informant and family; suspected drunken driver.
 
 ## CP-434
 
@@ -6136,23 +6211,23 @@ Aired 1992-05-30.
 
 **Miami, FL 5**
 
-- (8:22 PM) Ft. Lauderdale, Broward County -- Deputy Robert Lahiff
-is off to set up a checkpoint. As long as they stop either the first, second or
-third cars and remain consistent it'll work. He tries to stop a suspect, a
-black guy in a white shirt red shorts walking down the street. When he sees the
-cops he runs and tosses the dope he was carrying. He hides in an apartment and
-K9s are brought in to find him. The female apartment manager is brought in to
-unlock his door. The guy says cops didn't see him do anything. Next cops set up
-a fence operation and put the word out they are looking for heavy equipment. In
-the safe house they shows boats and cars they have bought. They have spent
-$61,000 to recover $1.8 million worth of stolen goods. Two brothers sell a
-grater, a 65 year old dancer runs a prostitution ring and dances on her head
-for the cops. A guy sells plastic explosives and comes in with Jack Daniels.
-(7:36 PM Briefing) They go and pick up all the people who sold them the stolen
-items from before. The explosives guy is barefoot. The 65 year old lives in a
-house so full of junk they can barely walk in it. Newspapers are stacked to the
-ceiling. They also return a stolen camera to a lady and a watch at the end of
-their 12 month sting.
+- (8:22 PM) Ft. Lauderdale, Broward County -- Deputy Robert Lahiff is off to
+  set up a checkpoint. As long as they stop either the first, second or third
+  cars and remain consistent it'll work. He tries to stop a suspect, a black
+  guy in a white shirt red shorts walking down the street. When he sees the
+  cops he runs and tosses the dope he was carrying. He hides in an apartment
+  and K9s are brought in to find him. The female apartment manager is brought
+  in to unlock his door. The guy says cops didn't see him do anything. Next
+  cops set up a fence operation and put the word out they are looking for heavy
+  equipment. In the safe house they shows boats and cars they have bought. They
+  have spent $61,000 to recover $1.8 million worth of stolen goods. Two
+  brothers sell a grater, a 65 year old dancer runs a prostitution ring and
+  dances on her head for the cops. A guy sells plastic explosives and comes in
+  with Jack Daniels.  (7:36 PM Briefing) They go and pick up all the people who
+  sold them the stolen items from before. The explosives guy is barefoot. The
+  65 year old lives in a house so full of junk they can barely walk in it.
+  Newspapers are stacked to the ceiling. They also return a stolen camera to a
+  lady and a watch at the end of their 12 month sting.
 
 ## CP-435
 
@@ -6170,9 +6245,9 @@ Aired 1992-05-02.
 
 **Miami, FL 7**
 
-- (5:17 PM Roll Call) Lt. Noel Rojas announces that Officer Emilo
-Cancibello is officer of the month. Capture of armed suspects; arrests for lewd
-behavior.
+- (5:17 PM Roll Call) Lt. Noel Rojas announces that Officer Emilio Canciobello
+  is officer of the month. Capture of armed suspects; arrests for lewd
+  behavior.
 
 ## CP-437
 
@@ -6180,12 +6255,12 @@ Aired 1992-06-13.
 
 **Miami, FL 8**
 
-- (1:26 AM Crime Suppression Unit) Beach Police Department --
-Officer Bill Guillem and his partner Officer Tony Sammarco says they work
-residential areas, hot spots where burglaries are and try to catch prowlers
-before they strike. They go to a business where the window was broken out and
-watch the area to make sure no one robs it until the emergency board up team
-arrives. A looter; car stuck on train tracks; drunken driver arrested.
+- (1:26 AM Crime Suppression Unit) Beach Police Department -- Officer Bill
+  Guillem and his partner Officer Tony Sammarco says they work residential
+  areas, hot spots where burglaries are and try to catch prowlers before they
+  strike. They go to a business where the window was broken out and watch the
+  area to make sure no one robs it until the emergency board up team arrives. A
+  looter; car stuck on train tracks; drunken driver arrested.
 
 ## CP-438
 
@@ -6193,30 +6268,31 @@ Aired 1992-05-09.
 
 **Miami, FL 9**
 
-- (7:05 PM Narcotics Unit Briefing) Metro-Dade Sgt. Fred Silber
-explains how undercover cops confiscated vases full of drugs from the runners
-who rolled over and were supposed to get $1000 each for them and now will meet
-the buyers to bust them. The must be done by 9pm. 7:32 -- they arrive at the
-meeting place a Win Dixie. Two men go over to the car with a shopping cart and
-take the boxes and are arrested by Lt. Robert Diers. They get consent from one
-of the men to search his house. 8:07 -- they arrive and find two people there
-who show them where another kilo of coke is hidden. Sgt. Michael Roy also finds
-$6000 in cash. Palm Beach (7:07 PM Communications Center) A man calls 911 about
-a deaf girl who wants to kill herself. Deputy Charles Hicks goes to the house
-where 15 year old Kathy cut her wrists. She doesn't want to go to the hospital
-and officers jump her and her dog so she can't get away. Deputy Kevin Clapp
-talks to her and she freaks out. Seven days earlier she cut herself and tried
-to stab a deputy. Her sister Cheryl can't believe they let her out and wants
-her put in jail. They say it's up to the psychiatrist and they need to talk to
-him. She keeps doing this over and over. Miami -- Sgt. Debra Dozier talks about
-a reward of $72,000 for a guy who killed a cop. (5:22 PM Disturbance Call) Cpl.
-Glenn Stolzenberg is called to a cock fighting ring. There are cages and cages
-of roosters, a ring and scales. Officer Carlos Garcia translated for the owner
-who says they are just training them. Glenn finds a half dead rooster in a
-garbage can and the worker pulls it out and cleans it up and gives it a shot.
-They say they train them humanely and don't harm them even though fights are
-every Thursday. The owner says animals killed the dead roosters, they didn't
-die during cock fights. He welcomes them to come back and check.
+- (7:05 PM Narcotics Unit Briefing) Metro-Dade Sgt. Fred Silber explains how
+  undercover cops confiscated vases full of drugs from the runners who rolled
+  over and were supposed to get $1000 each for them and now will meet the
+  buyers to bust them. The must be done by 9pm. 7:32 -- they arrive at the
+  meeting place a Win Dixie. Two men go over to the car with a shopping cart
+  and take the boxes and are arrested by Lt. Robert Diers. They get consent
+  from one of the men to search his house. 8:07 -- they arrive and find two
+  people there who show them where another kilo of coke is hidden. Sgt. Michael
+  Roy also finds $6000 in cash. Palm Beach (7:07 PM Communications Center) A
+  man calls 911 about a deaf girl who wants to kill herself. Deputy Charles
+  Hicks goes to the house where 15 year old Kathy cut her wrists. She doesn't
+  want to go to the hospital and officers jump her and her dog so she can't get
+  away. Deputy Kevin Clapp talks to her and she freaks out. Seven days earlier
+  she cut herself and tried to stab a deputy. Her sister Cheryl can't believe
+  they let her out and wants her put in jail. They say it's up to the
+  psychiatrist and they need to talk to him. She keeps doing this over and
+  over. Miami -- Sgt. Debra Dozier talks about a reward of $72,000 for a guy
+  who killed a cop. (5:22 PM Disturbance Call) Cpl.  Glenn Stolzenberg is
+  called to a cock fighting ring. There are cages and cages of roosters, a ring
+  and scales. Officer Carlos Garcia translated for the owner who says they are
+  just training them. Glenn finds a half dead rooster in a garbage can and the
+  worker pulls it out and cleans it up and gives it a shot.  They say they
+  train them humanely and don't harm them even though fights are every
+  Thursday. The owner says animals killed the dead roosters, they didn't die
+  during cock fights. He welcomes them to come back and check.
 
 ## CP-439
 
@@ -6224,9 +6300,9 @@ Aired 1992-05-16.
 
 **Miami, FL 10**
 
-- (11:47 PM Street Patrol) Sheriff's Office -- Deputy Charles
-Hicks spots car making a dope deal and hunts it down after losing sight of it.
-bank robbery arrest; public disturbance; hit and run.
+- (11:47 PM Street Patrol) Sheriff's Office -- Deputy Charles Hicks spots car
+  making a dope deal and hunts it down after losing sight of it.  bank robbery
+  arrest; public disturbance; hit and run.
 
 ## CP-440
 
@@ -6234,63 +6310,68 @@ Aired 1992-06-27.
 
 **Miami, FL 11**
 
-- (10:57 PM Narcotics Unit Operation) Miami Beach Metro Dade --
-Sgt. Fred Silber says they got a call from customs that there is a 50-100 pound
-package of pot, $100,000 worth, stuffed into fish on Air Jamaica Express from
-Kingston, Jamaica. He drives to general aviation and Special Agent Thomas
-Trotto from U.S. Customs is there to brief them. The plane is a DC-7, is 57
-years old and is the only one left. The people called to get the fish, so they
-are letting them come to pick it up and will bust them. (12:19 AM) They are
-loading it up the fish and the cops drive up and arrest him at gunpoint. The
-fish is frozen on the top and the pot is wrapped up underneath. There is one
-lone black illegal alien picking it up and Fred says he'll go to jail then get
-deported. He doesn't deny knowing what's going on, but won't cough up his boss.
-(7:39 PM) Palm Beach County Sheriff's Office -- Deputy Charles Hicks says s kid
-named Edwin called that a man with a knife is trying to get in his house. He
-arrives with Sgt. Louis Sessa, knocks on the door and the kid says he'll sick
-the dog on them. The police have him come out and give a description of the
-guy. The father comes up, doesn't speak much English, admits his son has mental
-problems and is on medication. Charles goes in and talks to Edwin. He wants to
-know if the story is a lie. The kid cries and says no one believes him and a
-guy tried to kidnap him before. No one believe him because he's in a stupid
-handicapped class. Charles says the neighbors were outside for 45 minutes and
-saw nothing so it sounds like Peter and the Wolf. The kid finally admits seeing
-things like devils & shadows and he has to pray to make them go away. He thinks
-if he kills himself it will make the demons go away. Charles says they have to
-take the kid to be mentally evaluated because he doesn't want it to come back
-and haunt him later. (2:42 AM Suspicious Vehicle) Ft. Lauderdale -- Broward
-County Sheriff's Dept -- Deputy Tincu Taranu says you see a lot of weird things
-out there like one time he saw a guy turn over a $30,000 car to score only $30
-worth of crack. He pulls a car over and the driver, Russ. says he picked up a
-guy hitch hiking. He was just giving him a ride to Victoria. Tincu pulls the
-young black kid called Shorty out of the car and he says the driver is a good
-friend of his mom's. Deputy Glenn Tchou and Officer Edward Jackson question him
-about lying. The driver is down from New York and says the kid had some pot and
-stuck it under the seat. They find a crack pipe and can charge him with a
-felony, but if he tells them where Shorty has the drugs they'll cut him loose.
-He says the kid has 6 rocks in a Nuprin bottle. They find the bottle on Shorty
-and he says he swears it's the drivers. Tincu says Russ has a drug problem and
-needs to get some help. Shorty is arrested, but why should he get a job when he
-make $100s dealing... it's amazing to see.
+- (10:57 PM Narcotics Unit Operation) Miami Beach Metro Dade -- Sgt. Fred
+  Silber says they got a call from customs that there is a 50-100 pound package
+  of pot, $100,000 worth, stuffed into fish on Air Jamaica Express from
+  Kingston, Jamaica. He drives to general aviation and Special Agent Thomas
+  Trotto from U.S. Customs is there to brief them. The plane is a DC-7, is 57
+  years old and is the only one left. The people called to get the fish, so
+  they are letting them come to pick it up and will bust them. (12:19 AM) They
+  are loading it up the fish and the cops drive up and arrest him at gunpoint.
+  The fish is frozen on the top and the pot is wrapped up underneath. There is
+  one lone black illegal alien picking it up and Fred says he'll go to jail
+  then get deported. He doesn't deny knowing what's going on, but won't cough
+  up his boss.
+- (7:39 PM) Palm Beach County Sheriff's Office -- Deputy Charles Hicks says s
+  kid named Edwin called that a man with a knife is trying to get in his house.
+  He arrives with Sgt. Louis Sessa, knocks on the door and the kid says he'll
+  sick the dog on them. The police have him come out and give a description of
+  the guy. The father comes up, doesn't speak much English, admits his son has
+  mental problems and is on medication. Charles goes in and talks to Edwin. He
+  wants to know if the story is a lie. The kid cries and says no one believes
+  him and a guy tried to kidnap him before. No one believe him because he's in
+  a stupid handicapped class. Charles says the neighbors were outside for 45
+  minutes and saw nothing so it sounds like Peter and the Wolf. The kid finally
+  admits seeing things like devils & shadows and he has to pray to make them go
+  away. He thinks if he kills himself it will make the demons go away. Charles
+  says they have to take the kid to be mentally evaluated because he doesn't
+  want it to come back and haunt him later.
+- (2:42 AM Suspicious Vehicle) Ft.  Lauderdale -- Broward County Sheriff's Dept
+  -- Deputy Tincu Taranu says you see a lot of weird things out there like one
+  time he saw a guy turn over a $30,000 car to score only $30 worth of crack.
+  He pulls a car over and the driver, Russ. says he picked up a guy hitch
+  hiking. He was just giving him a ride to Victoria. Tincu pulls the young
+  black kid called Shorty out of the car and he says the driver is a good
+  friend of his mom's. Deputy Glenn Tchou and Officer Edward Jackson question
+  him about lying. The driver is down from New York and says the kid had some
+  pot and stuck it under the seat. They find a crack pipe and can charge him
+  with a felony, but if he tells them where Shorty has the drugs they'll cut
+  him loose.  He says the kid has 6 rocks in a Nuprin bottle. They find the
+  bottle on Shorty and he says he swears it's the drivers. Tincu says Russ has
+  a drug problem and needs to get some help.  Shorty is arrested, but why
+  should he get a job when he make $100s dealing...  it's amazing to see.
 
 ## CP-441
 
 Aired 1992-08-01.
 
-**Washington State 1** (7:31 PM Person with a Weapon Call) King County Officer
-Sydney Jackson pulls over a blue car. confusing weapons call; teen threatens
-mother. AKA Seattle/Tacoma.
+**Washington State 1**
+
+- (7:31 PM Person with a Weapon Call) King County Officer Sydney Jackson pulls
+  over a blue car. confusing weapons call; teen threatens mother. AKA
+  Seattle/Tacoma.
 
 ## CP-442
 
 Aired 1992-12-12.
 
-**Washington State 2** (5:57 PM Felony Warrant Assistance) Pierce County
-Sheriff's Dept. -- Deputy Shawn McDonald likes working there because his dad
-worked there as a deputy for 30 years. There's lots of good people, sometimes
-you run into bad guys, nice place to work, a close knit group that's real fun
-to work with. Felony suspect is arrested; hysterical shoplifting suspect. King
-County
+**Washington State 2**
+
+- (5:57 PM Felony Warrant Assistance) Pierce County Sheriff's Dept. -- Deputy
+  Shawn McDonald likes working there because his dad worked there as a deputy
+  for 30 years. There's lots of good people, sometimes you run into bad guys,
+  nice place to work, a close knit group that's real fun to work with. Felony
+  suspect is arrested; hysterical shoplifting suspect. King County
 
 ## CP-443
 
@@ -6298,16 +6379,16 @@ Aired 1992-06-20.
 
 **Pierce County, WA 1**
 
-- (8:22 PM Domestic Disturbance Call) Cops arrive and the
-family points to the woods where the man has run after beating his wife. They
-chase him with a K9 through the neighborhood, catch him and hog tie him since
-he is insane. He has a cruelty to animals warrant and in the police bathroom
-goes insane, but is just kidding. (9:57 PM Fight Call) Ronald Morrison, a black
-man in a yellow shirt, attacks a man in a bar with a baseball bat and beats him
-25 times because 6 days earlier the guy shot at him 3 times. (10:42 PM 911
-Call) Christopher Jones, an 18 year old man assaults a woman and leaves with a
-shotgun and goes home. The police surround the home and call him out and he is
-only wearing small blue underwear.
+- (8:22 PM Domestic Disturbance Call) Deputy Mark Baird. Cops arrive and the
+  family points to the woods where the man has run after beating his wife. They
+  chase him with a K9 through the neighborhood, catch him and hog tie him since
+  he is insane. He has a cruelty to animals warrant and in the police bathroom
+  goes insane, but is just kidding. (9:57 PM Fight Call) Ronald Morrison, a
+  black man in a yellow shirt, attacks a man in a bar with a baseball bat and
+  beats him 25 times because 6 days earlier the guy shot at him 3 times. (10:42
+  PM 911 Call) Christopher Jones, an 18 year old man assaults a woman and
+  leaves with a shotgun and goes home. The police surround the home and call
+  him out and he is only wearing small blue underwear.
 
 ## CP-444
 
@@ -6315,7 +6396,7 @@ Aired 1992-08-08.
 
 **Pierce County, WA 2**
 
-- (12:24 AM 911 Call)
+- (12:24 AM 911 Call) Deputy Anthony Jensen.
 - (6:41 PM Structure Fire Call)
 - (6:37 PM Child Endangerment Call)
 
@@ -7015,8 +7096,8 @@ Aired 1993-05-29.
 - (San Diego, CA -- 3:40 PM) (CP-217 segment 2)
 - (Philadelphia, PA -- 11:04 PM Street Patrol) (CP-521 segment 1)
 - (Houston, TX -- 12:32 AM Traffic Stop) (CP-334 segment 1)
-- (Las Vegas, NV -- 7:45 PM Code Red -- Officer Emergency) (CP-311 segment 1)
-- (Las Vegas, NV -- 11:01 PM Communication Center) CP-318.
+- (Las Vegas, NV -- 7:45 PM Code Red -- Officer Emergency) (CP-318 segment 1)
+- (Las Vegas, NV -- 11:01 PM Communication Center) CP-??? [TODO].
 
 # Season 6
 
@@ -7638,7 +7719,9 @@ Aired 1994-11-05.
 
 Aired 1994-11-12.
 
-**New York City 4** (10:52 PM Street Patrol) N.Y.P.D. 46th Precinct. Sgt. Andy Fasulo. Suspects hide in neighborhood market's basement; cab thieves.
+**New York City 4**
+
+- (10:52 PM Street Patrol) N.Y.P.D. 46th Precinct. Sgt. Andy Fasulo. Suspects hide in neighborhood market's basement; cab thieves.
 
 ## BOC-003
 
@@ -11939,7 +12022,7 @@ to the bathroom and his girlfriend was sleeping with their baby. He tells
 Officer Bill Nelson he turned the fan off and she attacked him for trying to
 turn it off. He's lived in apartment 262 for three years and they talk to the
 girl and says they have a kid. She says she was drunk and she hit him. They
-give the baby to her sister to take to her moms' house. Riverside County CA –
+give the baby to her sister to take to her moms' house. Riverside County CA -
 Jurupa Valley Station -- Deputy Chris Barajas says it's the most funnest job
 playing cops and robbers for real. (9:27 PM Suspicious Vehicle) He saw a blue
 Chevy go off road through a dirt path, over hills and across a canyon. He
@@ -12229,7 +12312,7 @@ Aired 2005-01-22.
 
 **Got a Habit Special Edition**
 
-- (Fort Worth, TX -- 11:46 PM Car Pursuit) East Division Crime Response Team -–
+- (Fort Worth, TX -- 11:46 PM Car Pursuit) East Division Crime Response Team --
   Officer Jamey Pinkston has a lot of problems with DWIs, lots of bar, freeways
   and too many people drinking too much. He joins a pursuit where spike strips
   are thrown down the bad guy hits them. He is caught in a Diamond Shamrock gas
@@ -12252,7 +12335,7 @@ Aired 2005-01-22.
   him and a crack pipe smashed in his pocket.  He has 3 ID's on him. Officer
   Stacy Phillips was there first. Officer Chad Whitford questions him. He says
   he ran because he was scared.
-- Santa Ana, CA -– Officer Rosa Ponce De Leon enjoys being a cop there and it's
+- Santa Ana, CA -- Officer Rosa Ponce De Leon enjoys being a cop there and it's
   larger than where he used to work. There are lots of residences and things to
   do. (8:15 PM Street Patrol) He inspects an alley that has lots of graffiti
   and gang members. He stops a car who has no license and the car is his
@@ -12746,8 +12829,8 @@ Aired 2004-11-19.
   back, she slams her head, says her wrists are bleeding and is taken to jail.
 - Jacksonville, FL -- Zone 1 (2:26 AM Burglary in Progress) Officer Terrence
   Hightower says martial arts keeps him focused. He finds a black guy in the
-  street whose lady stabbed him in the arm. It turns out his lady is Travis – a
-  man who admits he has a penis. They were fighting, he's a stroller, not a
+  street whose lady stabbed him in the arm. It turns out his lady is Travis --
+  a man who admits he has a penis. They were fighting, he's a stroller, not a
   prostitute. He came home and they were doing coke, the guy went to the store,
   came back and Travis stabbed him. He has scars on his back and both of them
   are HIV+. The victim says they live together, he went outside to change a
@@ -14611,7 +14694,7 @@ Aired 2007-09-29.
 
 # Season 21
 
-2008–2009.
+2008-2009.
 
 ## CP-2101
 
@@ -15305,7 +15388,7 @@ TODO: Add times.
 
 # Season 22
 
-2009–2010. Contributed by `copsTvFan` instead of `thrawn`.
+2009-2010. Contributed by `copsTvFan` instead of `thrawn`.
 
 ## CP-2201
 ## S22E06
@@ -15635,13 +15718,13 @@ Aired 2009-12-12.
 
 # Season 23
 
-2010–2011.
+2010-2011.
 
 TODO
 
 # Season 24
 
-2011–2012.
+2011-2012.
 
 TODO
 
@@ -15655,37 +15738,37 @@ TODO
 
 # Season 25
 
-2012–2013.
+2012-2013.
 
 TODO
 
 # Season 26
 
-2013–2014.
+2013-2014.
 
 TODO
 
 # Season 27
 
-2014–2015.
+2014-2015.
 
 TODO
 
 # Season 28
 
-2015–2016.
+2015-2016.
 
 TODO
 
 # Season 29
 
-2016–2017.
+2016-2017.
 
 TODO
 
 # Season 30
 
-2017–2018.
+2017-2018.
 
 ## S30E01
 
@@ -16013,13 +16096,13 @@ Aired 2018-05-21.
 
 # Season 31
 
-2018–2019.
+2018-2019.
 
 TODO
 
 # Season 32
 
-2019–2020.
+2019-2020.
 
 TODO
 
