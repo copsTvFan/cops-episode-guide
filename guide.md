@@ -16059,9 +16059,14 @@ Aired 2007-02-17.
 
 **Tough Takedowns Special Edition**
 
-- (Las Vegas, NV -- 11:32 PM Suspicious Person) the midget from CP-1924 returns.
-- (Boise, ID -- 10:32 PM Domestic Violence Call) Officer Brian Lee handles a domestic-violence call.
-- (Chattanooga, TN -- 10:35 PM Traffic Stop) Officer Derrick Pendergrass deals with a suspect who swallowed crack in an attempt to hide it.
+- (Las Vegas, NV -- 11:32 PM Suspicious Person) the midget from CP-1924
+  returns, climbs a pole, and says "[I can break these
+  cuffs](https://knowyourmeme.com/memes/i-can-break-these-cuffs)". Officer Evan
+  Rosenthal.
+- (Boise, ID -- 10:32 PM Domestic Violence Call) Officer Brian Lee handles a
+  domestic-violence call.
+- (Chattanooga, TN -- 10:35 PM Traffic Stop) Officer Derrick Pendergrass deals
+  with a suspect who swallowed crack in an attempt to hide it.
 
 ## CP-1931
 
@@ -18116,6 +18121,10 @@ TODO
 - (Boynton Beach, FL -- 12:37 AM Murder For Hire Investigation) Sgt. Frank
   Ranzie, Detective Alex Moreno, Sgt. Paul Sheridan. This is the famous
   single-segment Dalia Dippolito episode.
+
+## S24E21
+
+Famous episode with failed taser and "I'll get you, bitch!" comment.
 
 # Season 25
 
