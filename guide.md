@@ -295,7 +295,7 @@ Aired 1989-04-08.
   the husband watches. She flags down cars and says she needs a ride or wants
   to party. Linda takes her back at the station. She says she didn't deal and
   has no money. She is 33 years old, been doing it all her life and was born in
-  1952. They are going to arrest her husband and the 2 other girls. Linda
+  1952\. They are going to arrest her husband and the 2 other girls. Linda
   wants her to sign a paper against her husband. She says she won't sign
   something she didn't do and loses anyway. She says her husband battered her,
   she has no money and can't get away. She says they are making her sign it and
