@@ -9234,7 +9234,9 @@ Aired 1996-12-21.
 
 **Providence, RI/Boston 2**
 
-- (10:47 PM Stabbing Call) Sgt. Walter Chin takes the call of a stabbing at a residence off Elmwood at Lake. stabbing incident; suicidal man; feuding neighbors; disturbance call.
+- (10:47 PM Stabbing Call) Sgt. Walter Chin takes the call of a stabbing at a
+  residence off Elmwood at Lake. stabbing incident; suicidal man; feuding
+  neighbors; disturbance call.
 
 ## CP-913
 
@@ -9312,7 +9314,9 @@ Aired 1997-01-11.
 
 **Pierce County, WA 12**
 
-- (4:39 PM Assistance Call) Lakewood District Sheriff's Dept -- Deputy Jeff Alwine says they can always count on other officers to help even if it isn't their district. Officer chases fugitive; bottle assault; stolen vehicle.
+- (4:39 PM Assistance Call) Lakewood District Sheriff's Dept -- Deputy Jeff
+  Alwine says they can always count on other officers to help even if it isn't
+  their district. Officer chases fugitive; bottle assault; stolen vehicle.
 
 ## CP-919
 
@@ -9320,7 +9324,9 @@ Aired 1997-02-22.
 
 **Pierce County, WA 13**
 
-- (1:43 AM Traffic Stop) Roy PD -- Police Camera footage. Driver ignores order to pull over; mother/daughter dispute; restraining order is violated; lottery-ticket theft.
+- (1:43 AM Traffic Stop) Roy PD -- Police Camera footage. Driver ignores order
+  to pull over; mother/daughter dispute; restraining order is violated;
+  lottery-ticket theft.
 
 ## CP-920
 
@@ -9437,9 +9443,9 @@ Aired 1997-03-29.
   man fled. A K-9 unit him as they track down a fleeing suspect wanted on an
   outstanding warrant. While on street patrol, Deputy Hathaway encounters a man
   who says that a man threatened him with a him with a shotgun after his dog
-  was struck by a car. Deputy Davis is dispatched to an accident scene where a
-  truck collided with a utility pole, and later, Davis removes trespassers from
-  private property.
+  was struck by a car.
+- Deputy Davis is dispatched to an accident scene where a truck collided with a
+  utility pole, and later, Davis removes trespassers from private property.
 
 ## CP-928
 
@@ -9471,9 +9477,10 @@ Aired 1997-04-19.
 
 - (5:45 PM Assistance Call) Area 1 -- A woman calls that her son is naked in
   the garage and on drugs and has a knife. Deputy Richard Coningsby heads
-  there. Sergeant Hollis and his team destroy several million dollars worth of
-  marijuana plants being cultivated in a remote area outside Fresno. A
-  drug-sniffing canine named Cowboy helps deputies locate hidden narcotics.
+  there.
+- Sergeant Hollis and his team destroy several million dollars worth of
+  marijuana plants being cultivated in a remote area outside Fresno.
+- A drug-sniffing canine named Cowboy helps deputies locate hidden narcotics.
 
 ## CP-930
 
@@ -9481,7 +9488,14 @@ Aired 1997-07-26.
 
 **Fresno, CA 4**
 
-- (10:15 PM Car Stop) Area 2 -- Sheriff's Dept -- Deputy Colleen Mestas says she doesn't want people to think they are bothering the police when they ask for help. Deputy Mestas detains a suspect after he is observed weaving erratically through traffic. Sergeants Stuart and Huerta search a vehicle driven by a suspect who fled from police, and in the second story, the Sergeants witness a hit-and-run accident. Deputy Bradshaw responds to a homicide in a rural vineyard.
+- (10:15 PM Car Stop) Area 2 -- Sheriff's Dept -- Deputy Colleen Mestas says
+  she doesn't want people to think they are bothering the police when they ask
+  for help. Deputy Mestas detains a suspect after he is observed weaving
+  erratically through traffic.
+- Sergeants Stuart and Huerta search a vehicle driven by a suspect who fled
+  from police, and in the second story, the Sergeants witness a hit-and-run
+  accident.
+- Deputy Bradshaw responds to a homicide in a rural vineyard.
 
 ## CP-931
 
