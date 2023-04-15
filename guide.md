@@ -7990,7 +7990,10 @@ Aired 1995-03-04.
 
 **Las Vegas, NV 11**
 
-- (11:51 PM Street Patrol) North East Area Command -- Officer Bryan Wade says it's an interesting area -- all kinds there from rural to bikers. Backup is always minutes away, unlike downtown where everything is located. Suspected bicycle thief flees; altercation; assault.
+- (11:51 PM Street Patrol) North East Area Command -- Officer Bryan Wade says
+  it's an interesting area -- all kinds there from rural to bikers. Backup is
+  always minutes away, unlike downtown where everything is located. Suspected
+  bicycle thief flees; altercation; assault.
 
 ## CP-719
 
@@ -11405,7 +11408,11 @@ Aired 2000-04-22.
 
 **Fort Worth, TX 28**
 
-- (12:48 AM Traffic Stop) East Sector -- Officer Sean Harris like dealing with kids. They look up to cops and hopefully they can shed light on their lives and help them onto the right path. driver speeds away from traffic stop; woman claims a man tried to rape her; suspect's cell phone rings during questioning.
+- (12:48 AM Traffic Stop) East Sector -- Officer Sean Harris like dealing with
+  kids. They look up to cops and hopefully they can shed light on their lives
+  and help them onto the right path. driver speeds away from traffic stop;
+  woman claims a man tried to rape her; suspect's cell phone rings during
+  questioning.
 
 ## CP-1225
 
