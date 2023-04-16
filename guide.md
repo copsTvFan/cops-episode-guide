@@ -15974,9 +15974,11 @@ Aired 2005-11-12.
 
 Aired 2005-11-19.
 
-**In Harms Way Special Edition**
+**In Harm's Way Special Edition**
 
-- (Anchorage, AK -- 7:21 PM Domestic Disturbance Call) Pennsylvania officers find a driver with heroin; a drunken and possibly suicidal man begs officers in Alaska to shoot him.
+- (Anchorage, AK -- 7:21 PM Domestic Disturbance Call) Pennsylvania officers
+  find a driver with heroin; a drunken and possibly suicidal man begs officers
+  in Alaska to shoot him.
 - Pittsburgh, PA
 - Spokane, WA
 
