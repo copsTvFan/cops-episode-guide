@@ -7779,7 +7779,7 @@ Aired 1994-07-30.
   May wants a nearby auto yard shut down and surrounded in case a second
   suspect is in there. Officer John Wilson fired three shots, but doesn't think
   he hit the suspect. The officer is OK after fire and rescue patches him up.
-  (11:45 PM Indecent Exposure Call) Lakewood Station Sheriff's Dept
+- (11:45 PM Indecent Exposure Call) Lakewood Station Sheriff's Dept
   Communications Center -- A man calls 911 saying a man is masturbating at a
   tennis court near his house and he wants to go after him with a shotgun. Sgt.
   David Halm goes in to find him and the guy who called shows where he is and
@@ -7788,15 +7788,16 @@ Aired 1994-07-30.
   helicopter found him hiding in some bushes. Deputy Chris Derry questions the
   man who says he was just changing to go in a Jacuzzi, he wasn't naked, wasn't
   masturbating, but doesn't live there either. The caller makes a citizen's
-  arrest. (8:27 PM Runaway Juvenile) Van Nuys Area -- Training Officer Janice
-  Mangen says there is pride in the LAPD name and you can do anything you want
-  within the department. It is so large that the opportunities are limitless.
+  arrest.
+- (8:27 PM Runaway Juvenile) Van Nuys Area -- Training Officer Janice Mangen
+  says there is pride in the LAPD name and you can do anything you want within
+  the department. It is so large that the opportunities are limitless.
   Officer Steven Davoren says a 15 year old kid pushed his mother injuring her
-  and ran away the night before. His brother Jason says he knows where he is so
-  the cops go to talk to him. They find him at someone's house and cuff him and
-  take him home. His mom Cathy says he is out of control and doesn't realize
-  the way he acts and she can't handle him anymore. He doesn't want to go back
-  to JV, but has no choice and cries and wails that he'll change.
+  and ran away the night before. His brother Jason says he knows where he is
+  so the cops go to talk to him. They find him at someone's house and cuff him
+  and take him home. His mom Cathy says he is out of control and doesn't
+  realize the way he acts and she can't handle him anymore. He doesn't want to
+  go back to JV, but has no choice and cries and wails that he'll change.
 
 ## CP-704
 
