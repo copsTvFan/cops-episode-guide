@@ -12258,9 +12258,9 @@ Aired 2001-09-15.
 
 **Coast to Coast 3**
 
-- (Des Moines, IA -- 8:18 PM Assistance Call) 3rd Watch -- Officer Joe Morgan has been there eleven years and likes the city because it is small, but not too small, there is still lots to do. An off duty cop is in a foot pursuit. Pursuit; domestic disturbance; car chase.
-- (Chattanooga, TN -- 4:13 PM Public Disorder Call) Officer Brian Miller likes to play golf.
-- (Atlanta, GA -- 5:05 AM Traffic Stop) Officer Tim Fenner.
+- (Des Moines, IA -- 8:18 PM Assistance Call) 3rd Watch -- Officer Joe Morgan has been there eleven years and likes the city because it is small, but not too small, there is still lots to do. An off duty cop is in a foot pursuit.
+- (Chattanooga, TN -- 4:13 PM Public Disorder Call) Officer Brian Miller likes to play golf. Officer Christopher Smith. Domestic disturbance.
+- (Atlanta, GA -- 5:05 AM Traffic Stop) Officer Tim Fenner, Officer DOrian Graham. Car chase.
 
 ## CP-1413
 
@@ -12279,8 +12279,8 @@ Aired 2001-09-29.
 **Coast to Coast 5**
 
 - (Chattanooga, TN -- 2:01 AM Man with a Gun) Fox Station -- Officer Jonathan Chambers says whatever happens at work stays at work. He talks to his wife briefly and gives her the highlights because she's interested in what happens and leaves it at that, otherwise it'll drive him crazy. He responds to a man-with-a-gun call, and later apprehends a suspect who attempted to sell stolen property.
-- In Des Moines, IA, Officers Morgan and Helle question two brothers who were involved in a fistfight.
-- In Atlanta, GA, Officer Cotter interviews a woman who claims that her boyfriend allegedly punched her in the mouth while she was walking down the street.
+- (Des Moines, IA -- 3:45 PM Fight Call) Officers Joe Morgan and Lorna Helle question two brothers who were involved in a fistfight.
+- (Atlanta, GA -- 1:35 AM Street Patrol) Officer Mark Cotter interviews a woman who claims that her boyfriend allegedly punched her in the mouth while she was walking down the street.
 
 ## CP-1415
 
@@ -12318,7 +12318,7 @@ Aired 2001-12-01.
 
 **Coast to Coast 9**
 
-- (Fort Worth, TX -- 10:48 PM Traffic Stop) East Division -- Officer Michael Martinez has worked in four departments in the zero tolerance units with good people. He questions two male suspects and a prostitute riding in the same car, and when the driver suddenly pulls away, Martinez gives chase and observes as the male suspects abandon the woman on a dangerous stretch of the interstate.
+- (Fort Worth, TX -- 10:48 PM Traffic Stop) East Division -- Officer Michael Martinez has worked in four departments in the zero tolerance units with good people. He questions two male suspects and a known prostitute riding in the same car, and when the driver suddenly pulls away, Martinez gives chase and observes as the male suspects abandon the woman on a dangerous stretch of the interstate.
 - (Chattanooga, TN -- 12:32 AM Suspicious Vehicle) Officer Michael Pendygraft stops and questions a suspect who claims he was on his way to a friend's house, but during a routine search, the officer uncovers a large quantity of marijuana crammed into the suspect's pants.
 - (Des Moines, IA -- 7:30 PM Dispute Call) Officer Chad Cornwell
 
@@ -12792,11 +12792,14 @@ Aired 2002-12-14.
 
 **Coast to Coast 25**
 
-- (Tampa, FL -- 2:12 PM Narcotics Sting) Explains about a citywide buy bust
-  operation. The visual signal is the tapping of the brakes. If they can't get
-  them, move on there are plenty of others. Officers nab reputed drug dealers
-  in a citywide sting; suspects steal car stereos at a dealership.
-- Hillsborough County FL
+- (Tampa, FL -- 2:12 PM Narcotics Sting) Sgt. Jill Ramsten explains about a
+  citywide buy bust operation. The visual signal is the tapping of the brakes.
+  If they can't get them, move on there are plenty of others. Officer Robert
+  Tungate, Officer Rich Mills, Officer Dwight Buchanan, Officer Jim Contento.
+  Officers nab reputed drug dealers in a citywide sting.
+- (Hillsborough County, FL -- 11:03 PM Car Pursuit) Deputy Scott Morrill.
+  Stolen car. Second call: (11:38 PM Burglary In Progress) suspects steal car
+  stereos at a dealership by cutting a hole in a fence.
 - (Fort Worth, TX -- 2:20 PM Suspicious Activity) Officer Ronnie McMullen goes
   to a call about two orphaned brothers, Jerry and Roland, huffing paint /
   sniffing paint.
@@ -12807,12 +12810,17 @@ Aired 2002-12-07.
 
 **Coast to Coast 26**
 
-- (North Las Vegas, NV -- 11:40 PM Traffic Accident) Has been an officer there
-  for six years. There are good people there, but with the population explosion
-  brings the criminal element. He hopes working graveyard can cure that. He
-  goes to the call of a man who ran his truck through a brick wall. an officer
-  finds a substance during a routine traffic stop. New Orleans/San Bernardino
-  CA
+- (North Las Vegas, NV -- 11:40 PM Traffic Accident) Officer Travis Snyder has
+  been an officer there for six years. There are good people there, but with
+  the population explosion brings the criminal element. He hopes working
+  graveyard can cure that. He goes to the call of a man who ran his truck
+  through a brick wall. Sgt. Duane Eamon, Officer Donald Collins.
+- (New Orleans, LA -- 11:40 PM Sting Briefing) Lt. Jim Bayard. Officer Michael
+  Montalbano, Detective Steve Williams, Detective Marcellus White. Prostitute
+  sting. Street fight. Detective Chinih Nguyen.  Then Michael is back to
+  picking up prostitutes. Officer Frank Young.
+- (San Bernardino, CA -- 3:03 PM Traffic Stop) Deputy Osvaldo Pelayes. An
+  officer finds a substance during a routine traffic stop.
 
 ## CP-1506
 
@@ -12930,10 +12938,12 @@ Aired 2003-03-22.
   Gerald K. Hege explains how a prostitution sting will work. The female
   officer will work a corner near a church and tell the Johns to pull around
   back where they'll bust them. Capt. Jody Shoa explains the problems of
-  prostitution. A deputy stops a man having trouble walking down a crowded
-  street; a deputy pulls over a driver who does not possess car keys.
+  prostitution.
 - Riverside County, CA
 - Pierce County, WA
+
+A deputy stops a man having trouble walking down a crowded street; a deputy
+pulls over a driver who does not possess car keys.
 
 ## CP-1515
 
@@ -12992,7 +13002,9 @@ Aired 2003-04-12.
 
 **Coast to Coast 36**
 
-- (Albuquerque, NM -- 10:35 PM Fight in Progress) Southeast Area Command -- Officer Paul Duran responds to a call of the sexual assault of a 14-year-old girl
+- (Albuquerque, NM -- 10:35 PM Fight in Progress) Southeast Area Command --
+  Officer Paul Duran responds to a call of the sexual assault of a 14-year-old
+  girl
 - Pierce County, WA -- a motorcyclist boasts he has ducked 27 traffic tickets
 - Forsyth County, NC -- a deputy serves a warrant to a hotel guest.
 
@@ -13004,9 +13016,12 @@ Aired 2003-04-19.
 
 - (Pierce County, WA -- 11:23 PM Officer Assistance Call) South Hill Precinct
   -- Officer Erik Clarkson rushes to join a pursuit of a suspect who tried to
-  force an off-duty deputy off the road it a bout of road rage. someone tries
-  to enter a man's home; a security guard restrains an inebriated man. Forsythe
-  County NC/Riverside County CA
+  force an off-duty deputy off the road it a bout of road rage.
+- Forsythe County, NC
+- Riverside County, CA
+
+Someone tries to enter a man's home; a security guard restrains an inebriated
+man.
 
 ## CP-1518
 
@@ -13082,7 +13097,7 @@ Aired 2002-09-28.
 
 AKA Kids in Danger.
 
-- (Riverside County CA -- 6:13 PM Officer Assistance Call) Sheriff's Dept --
+- (Riverside County, CA -- 6:13 PM Officer Assistance Call) Sheriff's Dept --
   Jurupa Valley Station -- Deputy Roman Pluimer says he takes a lot of things
   for granted when kissing his family goodbye. You don't think about it until
   things go sideways and you might not come home. He makes sure he means it
@@ -13250,10 +13265,16 @@ Aired 2002-11-23.
 
 **Bad Girls! 1 Special Edition**
 
-- (Indianapolis, IN -- 6:21 PM Prostitution Sting) Vice unit targets prostitutes; an officer finds drug paraphernalia and a loaded pistol in female suspect's car.
-- Bernalillo County, NM
-- Fort Worth, TX
-- Pierce County, WA
+- (Indianapolis, IN -- 6:21 PM Prostitution Sting) Vice unit targets
+  prostitutes on Washington Street. Detective Jeff Goodin picks up prostitute
+  Dana, aged 42. Detective Ernest Witten is following their car. (6:46 PM) Jeff
+  picks up Teresa.
+- (Bernalillo County, NM -- 7:32 PM Traffic Stop) Deputy Dan Royston. An
+  officer finds drug paraphernalia and a loaded pistol in female suspect's car.
+  (Fort Worth, TX -- 8:45 PM Stolen Vehicle Call) Officer Jim Grow arrests a
+  black female, while the other black female runs away. Officer Brian Clark.
+- (Pierce County, WA -- 1:11 AM Stolen Vehicle) Deputy Mark Eakes, Deputy David
+  Butts.
 
 ## CP-1528
 
@@ -18511,13 +18532,105 @@ Aired 2009-12-12.
 
 2010-2011.
 
-TODO
+## S23E01
+
+- (Boynton Beach, FL -- 10:49 PM Suspicious Vehicle) Officer Michael Arco
+
+## S23E02
+
+- (Rio Grande City, TX -- 1:40 PM Narcotics Operation) Supervisor Albert Diaz
+
+## S23E03
+
+- (Las Vegas, NV -- 4:05 PM Fight Call) Officer Blake Goddard
+
+## S23E04
+
+- (Amarillo, TX -- 3:04 AM Fight Call) Officer Caleb Finsterwald
+
+## S23E05
+
+- (Amarillo, TX -- 3:28 AM Shots Fired Call) Officer J.T. Hodges.
+
+## S23E06
+
+- (Atlanta, GA -- 10:57 AM Kidnapping) Inspector Wayne S. Warren II
+
+## S23E07
+
+- (Las Vegas, NV -- 4:58 PM Disturbance Call) Officer William Watt
+
+## S23E08
+
+- (Nye County, NV -- 9:44 PM Suspicious Vehicle) Deputy Greg Curtin
+
+## S23E09
+
+- (Pierce County, WA -- 11:50 PM Suicidal Person) Deputy Robert Carpenter
+
+## S23E10
+
+- (Amarillo, TX -- 10:17 PM Suspicious Activity) Corporal Craig Putram
+
+## S23E11
+
+- (Pierce County, WA -- 7:29 PM Disturbance Call) Deputy Tony Messineo
+
+## S23E12
+
+- (Sacramento County, CA -- 5:36 PM Vehicle Pursuit) Deputy Scott Puffer, Deputy Brant Santin
+
+## S23E13
+
+- (Sacramento County, CA -- 10:11 PM Suspicious Person) Deputy Corey Newman, Deputy Thomas Lynn
+
+## S23E14
+
+- (Sacramento County, CA -- 8:37 PM Suspicious Person) Deputy Orrlando Mayes, Deputy Ron Parsons
+
+## S23E15
+
+- (Pierce County, WA -- 5:16 PM Suicidal Threats) Deputy Tony Messineo
+
+## S23E16
+
+- (Sacramento County, CA -- 8:03 PM Traffic Stop) K-9 Deputy Shaun Hampton
+
+## S23E17
+
+- (Sacramento County, CA -- 10:07 PM Traffic Stop) Deputy Mike Robertson, Deputy Orrlando Mayes
+
+## S23E18
+
+- (Sacramento County, CA -- 9:42 PM Vehicle Pursuit In Progress) Deputy Mike Robertson, Deputy Michael Rogers
+
+## S23E19
+
+- (Sacramento County, CA -- 5:55 PM Suspicious Activity) Deputy Orrlando Mayes, Deputy Ron Parsons
+
+## S23E20
+
+- (Amarillo, TX -- 1:46 AM Street Patrol) Officer Wesley Brown
+
+## S23E21
+
+- (Pierce County, WA -- 3:46 PM Domestic Violence Call) Deputy Tony Messineo
+
+## S23E22
+
+- (Sacramento County, CA -- 7:36 PM Pursuit In Progress) Deputy Steve Fisher, Deputy John Mercurio
 
 # Season 24
 
 2011-2012.
 
-TODO
+## S24E01
+
+- (Las Vegas, NV -- 5:34 PM Narcotics Sting Briefing) Lt. Laz Chavez
+
+## S24E02
+
+- (Corpus Christi, TX -- 6:28 PM Pursuit In Progress) Senior Officer Mike Wertanen
 
 ## S24E03
 
@@ -18527,15 +18640,150 @@ TODO
   Ranzie, Detective Alex Moreno, Sgt. Paul Sheridan. This is the famous
   single-segment Dalia Dippolito episode.
 
+## S24E04
+
+- (Savannah, GA -- 10:18 AM Suspicious Person) Advance Patrol Officer Harold Moore
+
+## S24E05
+
+- (Hillsborough County, FL -- 9:36 PM Possible Shooting Suspect) Deputy Mike Roberts
+
+## S24E06
+
+- (Lafayette, LA -- 10:56 PM Disturbance Call) Corporal Ron Clark
+
+## S24E07
+
+- (Springfield, MO -- 11:57 PM Disturbance Call) Officer Travis Wilson
+
+## S24E08
+
+- (Springfield, MO -- 3:25 AM Traffic Stop) Officer Benjamin Lord
+
+## S24E09
+
+- (Des Moines, IA -- 4:26 PM Traffic Stop) Senior Officer Jon Dallman
+
+## S24E10
+
+- (Hillsborough County, FL -- 6:50 PM Assistance Call) Corporal Scott Sitton
+
+## S24E11
+
+- (Las Vegas, NV -- 7:58 PM Prostitution Sting) Lt. Karen Hughes
+
+## S24E12
+
+- (Spokane County, WA -- 9:21 PM Suspicious Person) Officer Juan Rodriguez, Officer Mark Brownell
+
+## S24E13
+
+- (Springfield, MO -- 10:41 PM Pursuit In Progress) Officer Benjamin Lord
+
+## S24E14
+
+- (Spokane County, WA -- 12:54 AM Vehicle Pursuit) Officer Juan Rodriguez
+
+## S24E15
+
+- (Des Moines, IA -- 11:36 PM Suspicious Persons) Senior Officer Danny White, Officer Benjamin Bonanno
+
+## S24E16
+
+- (Springfield, MO -- 2:16 AM Traffic Stop) Officer Benjamin Lord
+
+## S24E17
+
+- (North Las Vegas, NV -- 7:24 PM Traffic Stop) Officer Jason Olson
+
+## S24E18
+
+- (New Orleans, LA -- 9:25 PM Traffic Stop) Officer Jeffrey Yount, Officer Drew Deacon
+
+## S24E19
+
+- (Springfield, MO -- 7:56 PM Officer Assistance Call) Officer Eric Morgan
+
+## S24E20
+
+- (North Las Vegas, NV -- 10:40 PM Burglary In Progress) Officer Dave Brooks
+
 ## S24E21
 
-Famous episode with failed taser and "I'll get you, bitch!" comment.
+- (North Las Vegas, NV -- 8:18 PM Domestic Disturbance Call) Officer Dave
+  Brooks. Famous segment with failed taser and "I'll get you, bitch!" comment.
+
+## S24E22
+
+- (New Orleans, LA -- 5:25 PM Shots Fired Call) Officer David Aranda
 
 # Season 25
 
 2012-2013.
 
-TODO
+## S25E01
+
+- (Toleo, OH -- 3:39 AM Domestic Disturbance Call) Patrolman Ben Cousino, Patrolman Jason Wallace
+
+## S25E02
+
+- (Portland, OR -- 1:05 AM Suspicious Vehicle) Officer Scott Konczal, Officer Phil Maynard
+
+## S25E03
+
+- (Alameda County, CA -- 9:12 PM Suspicious Person) Deputy Chris Mears
+
+## S25E04
+
+- (Kansas City, MO -- 6:12 PM Possible Stolen Vehicle) Officer Todd Templeton, Officer Nick Cardona
+
+## S25E05
+
+- (Atlanta, GA -- 1:46 AM Officer Assistance Call) Senior Officer Andrew Fincher
+
+## S25E06
+
+- (Newport News, VA -- 8:21 PM Suspicious Person) Officer Frank Vito, Officer Clark Carter
+
+## S25E07
+
+- (Las Vegas, NV -- 10:55 AM Assistance Call) Sgt. Tom Stoll
+
+## S25E08
+
+- (Kansas City, MO -- 10:42 PM Vehicle Pursuit In Progress) Officer Ian Hobbs, Officer Dave Roberts
+
+## S25E09
+
+- (Portland, OR -- 12:35 AM Vehicle Pursuit) Officer Mike Strawn, Officer Phil Maynard
+
+## S25E10
+
+- (Sacramento, CA -- 8:42 PM Suspicious Person) Officer Matt Armstrong, Officer Darryl Bryan
+
+## S25E11
+
+- (Portland, OR -- 5:01 AM Vehicle Pursuit) Officer Erik Strohmeyer
+
+## S25E12
+
+- (Sacramento, CA -- 9:18 PM Suspicious Person) Officer Gerald Lanberg, Officer Robbie Young
+
+## S25E13
+
+- (Las Vegas, NV -- 1:49 AM Suspicious Person) Officer Travis Crumrine, Officer Boe Dennett
+
+## S25E14
+
+- (Newport News, VA -- 7:21 PM Pursuit In Progress) Officer Frank Vito, Officer Clark Carter
+
+## S25E15
+
+- (Las Vegas, NV -- 9:32 PM Officer Assistance Call) Officer Joey Smith, Officer Jeff Firestine
+
+## S25E16
+
+- (Las Vegas, NV -- 2:12 AM Suspicious Activity) Officer Ryan Pillard, Officer Scott Schaier, Officer Mark Belanger
 
 # Season 26
 
