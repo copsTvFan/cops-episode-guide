@@ -902,7 +902,7 @@ Aired 1989-06-10.
 
 Aired 1989-06-17.
 
-**Russia 1 Hour Special**
+**Russia 1 Hour Special** AKA Former Soviet Union.
 
 - The following program was taped over a 16 day period in Leningrad and Moscow
   by six camera teams -- three American, three Russian.  Soviet officials
@@ -1069,7 +1069,7 @@ Aired 1989-06-17.
   not drive fancy cars, but you can not get away from us. If you are thinking
   of committing a crime you better stay out of our way. If you are thinking of
   committing a crime you better stay out of our way." They keep singing as the
-  credits roll.  AKA Former Soviet Union.
+  credits roll.
 
 # Season 2
 
@@ -6381,11 +6381,12 @@ Aired 1992-06-27.
 
 Aired 1992-08-01.
 
-**Washington State 1**
+**Washington State 1** AKA Seattle/Tacoma.
 
 - (7:31 PM Person with a Weapon Call) King County Officer Sydney Jackson pulls
-  over a blue car. confusing weapons call; teen threatens mother. AKA
-  Seattle/Tacoma.
+  over a blue car.
+- confusing weapons call
+- teen threatens mother.
 
 ## CP-442
 
@@ -7581,13 +7582,12 @@ Aired 1994-02-26.
 
 Aired 1994-01-01.
 
-**New York City Subway Special**
+**New York City Subway Special** AKA Cops Underground or New York, New York: Underground
 
 - (2:33 PM Briefing) A train heads toward the the WTC. NY Transit Authority.
   Sgt. Harry Scott says Officer Fernando Velez is going undercover as a drunken
   tourist in the subway on Canal and 6th street. They go to evidence and pick
-  out jewelry and a camera to temp thieves. AKA Cops Underground or New York,
-  New York: Underground
+  out jewelry and a camera to temp thieves.
 
 ## CP-638
 
@@ -9867,14 +9867,14 @@ Aired 1998-03-14.
 
 Aired 1998-02-14.
 
-**Las Vegas Prostitution Special**
+**Las Vegas Prostitution Special** AKA Vice Squad Special Edition
 
 - (9:38 PM Escort Service Sting) Vice Station -- Lt. Carlos Cardeiro says they
   are targeting the outgoing entertainment services. Undercover Detectives
   Scott Kavon and Christine Payson pose as a husband and wife in a hotel room
   and call a service in the phone book. She doesn't know what kind of woman to
   pick, says she is for her husband and the blonde in the ad looks nice. They
-  say it's $150 and tips are appreciated. AKA Vice Squad Special Edition
+  say it's $150 and tips are appreciated.
 
 ## CP-1015
 
@@ -13605,7 +13605,7 @@ Aired 2004-02-21.
 
 Aired 2004-02-07.
 
-**War on Drugs 1 Special Edition**
+**War on Drugs 1 Special Edition** AKA Drug Busts 1.
 
 - (Passaic County, NJ -- 5:14 PM Officer Assistance Call) Sheriff's Department --
   Officer Jason DeGroat says it is a great place to live and goes on a call
@@ -13615,7 +13615,7 @@ Aired 2004-02-07.
   through a condo and the cop loses him and checks his car. Other cops catch
   him and take him back to jail.
 - Passaic, NJ (4:58 PM Suspicious Activity) White guy in a Rangers shirt buys
-  heroin and is sweating buckets, then taken to jail. AKA Drug Busts 1.
+  heroin and is sweating buckets, then taken to jail.
 
 ## CP-1617
 
@@ -13645,7 +13645,7 @@ Aired 2004-05-01.
 
 Aired 2003-11-03.
 
-**Jersey Cop Special Edition**
+**Jersey Cop Special Edition** AKA Riding With Corporal Damiano.
 
 - (Passaic County, NJ -- 10:06 PM Suspicious Activity) Cpl Anthony Damiano says
   the weather has broken up, supposed to be BBQ time, hopefully it break as now
@@ -13654,8 +13654,7 @@ Aired 2003-11-03.
 - (Passaic County, NJ -- 8:44 PM Suspicious Activity) Suspicious vehicle trading
   DVD player for drugs 
 - (Passaic County, NJ -- 5:04 PM Traffic Stop) man with 50 bags of dope (9:49 PM
-  Suspicious Vehicle) man with do rag drug stop. AKA Riding With Corporal
-  Damiano.
+  Suspicious Vehicle) man with do rag drug stop.
 
 ## CP-1619
 
@@ -13870,7 +13869,7 @@ Aired 2004-07-10.
 
 Aired 2004-02-28.
 
-**Armed & Dangerous Special Edition**
+**Armed & Dangerous Special Edition** AKA Weapons Drawn Special Edition.
 
 - (Jacksonville FL 8:47 PM Shots Fired Call) Zone 3 -- Officer Tom Hemsley has
   been there seven years. From Sept to Dec they have a beard growing contest
@@ -13883,7 +13882,7 @@ Aired 2004-02-28.
 - (Pierce County, WA -- 3:02 AM Traffic Stop) A green El Camino runs and shoots
   back at the cop and then tosses the gun. The lead unit tries a pit, but
   wrecks his car. The suspect goes into a trailer park and crashes into a fence
-  and runs. A K9 unit catches him. AKA Weapons Drawn Special Edition.
+  and runs. A K9 unit catches him.
 
 ## CP-1630
 
@@ -13974,7 +13973,7 @@ Aired 2004-07-31.
 
 Aired 2004-05-08.
 
-**Hide 'N Seek Special Edition**
+**Hide 'N Seek Special Edition** AKA Resisting Arrest 2.
 
 - (Jacksonville FL -- 1:23 AM Suspicious Activity) Zone 5 -- Officer Lance
   Whitaker became interested when he did a ride along with a buddy who was a
@@ -13999,7 +13998,6 @@ Aired 2004-05-08.
   in the sand and crashes. The man runs off as the cop hits the Kawasaki and
   loses sight of the guy, but finds him in a bush a few minutes later. A K9 is
   on standby and they find a crack pipe on him and that the bike was stolen.
-  AKA Resisting Arrest 2.
 
 ## CP-1634
 
@@ -14223,7 +14221,9 @@ Aired 2004-05-15.
 
 Aired 2004-09-11.
 
-**Coast to Coast 67**
+17th Season Opener.
+
+**Coast to Coast 67** AKA Funny Side of COPS Special Edition.
 
 - (New Orleans, LA -- 9:22 PM Disturbance Call) 8th District -- Officer Patrick
   Rose and Leon Benoit III say there is great camaraderie especially when
@@ -14254,14 +14254,13 @@ Aired 2004-09-11.
   drinking and Ray attacked her when she went to his house to get some weed. He
   then pulled her into the house by her hair, tried to give her speed and rape
   her. She hit him and ran out claiming doesn't do speed and has a three year
-  old son. Deputy Richard Birmingham arrests him.  17th Season Opener. AKA
-  Funny Side of COPS Special Edition.
+  old son. Deputy Richard Birmingham arrests him.
 
 ## CP-1704
 
 Aired 2004-09-11.
 
-**Coast to Coast 68**
+**Coast to Coast 68** AKA Damiano Buy/Bust
 
 - (Jacksonville, FL -- 3:18 PM Narcotic Sting Briefing) Narcotics Unit -- Sgt.
   Randy White talks about a buy/bust operation and they call up a dealer whom
@@ -14293,7 +14292,7 @@ Aired 2004-09-11.
   arrests the daughter, which causes her to cry and say she wasn't the first
   one to attack. Nicole says she pushed her down on the bed and wouldn't let
   her get up. Brett says her mom has the right to discipline her. Mom says
-  Nicole needs help. AKA Damiano Buy/Bust
+  Nicole needs help.
 
 ## CP-1705
 
