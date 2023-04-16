@@ -18953,7 +18953,13 @@ Aired 2022-10-07.
 
 ## S34E05
 
-TODO
+Aired 2022-10-14
+
+**Double Jeopardy**
+
+- (Hamilton County, TN -- 6:23 PM Warranted Felon) Hamilton County Sheriff's Office East Sector -- Deputy Jonathan Ray -- Deputy Ray patrols a BP gas station at the corner of Lee Highway and Bonny Oaks Drive in Chattanooga, TN in hopes of finding a suspect (Emery) who's wanted for multiple felony warrants including armed robbery and gun charges. He is a parole violator out of Georgia. He eventually sees Emery pumping gas and arrests him. Other deputies arrive to assist including Deputy Mady Hazen. Emery's girlfriend is in the car and is temporarily detained. She's told she cannot drive the car away because her license is suspended and the car doesn't come back registered to either of them. She says she's been with him for just a few days. They allow Emery to smoke a cigarette and exchange kisses with his girlfriend before taking him away.
+- (Colton, CA -- 10:11 PM Traffic Stop) Colton Police Department -- Sergeant Robert Vega -- Sergeant Vega is following a car eastbound on South La Cadena Drive just west of the train tracks. The car is doing 80 mph in a 50 mph zone. He stops the driver and his female passenger at the corner of South La Cadena Drive and South 7th Street. Officer Aaron Nastase arrives to assist. When Sergeant Vega runs his license, he learns that the driver had been arrested the previous day for transportation of drugs. After some pressing the driver admits to having a couple hundred Xanax pills in the car. While searching the car, Sergeant Vega finds 800 Xanax pills, 400 Oxycontin pills along with a half pound of cocaine. The driver is arrested and booked and the passenger is released.
+- (Lee County, FL -- 2:09 AM Suspicious Vehicle) Lee County Sheriff's Office Central District -- Deputy Dylan Weissinger -- 2:09 AM Suspicious Vehicle -- Deputy Weissinger arrives at an apartment complex at 4910 Silver Gate Lane in Fort Myers to assist Deputy Renet Louis, Deputy Christopher Lopez-Burnside, and others. A male suspect flees and is quickly apprehended. While searching his car and retracing his steps from the foot chase, they find marijuana, crystal meth, crack and heroin. While interviewing the suspect, he says that he just got out of prison and denies any involvement with the drugs. He is charged with resisting arrest, possession of cocaine with intent to sell, trafficking in heroin, possession of methamphetamine, and a driving offense due to the lack of a valid driver license.
 
 ## S34E06
 
