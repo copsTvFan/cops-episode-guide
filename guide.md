@@ -1653,7 +1653,7 @@ Aired 1989-11-18.
   leave and Harry goes to a call of a fight where someone is bloody.  John has
   a bloody face and is wearing a Van Halen 1980 ringer tour shirt. His wife
   says guys grabbed bats and sticks and beat him. His brother was there too, he
-  said they told him, "don't f--k with the Crips" Their car is destroyed, all
+  said they told him, "don't fuck with the Crips" Their car is destroyed, all
   the windows are smashed and there is blood on the roof. A group of kids got
   in front of him and when they stopped they were attacked. The older brother
   has bad bruises on his back. The one that got it the worst rode up on his
@@ -2169,7 +2169,7 @@ Aired 1990-01-20.
   bail. He'll get a chance to post it, but most likely won't be able to.
   (6:20 PM) A man says they picked him up at the YWCA and they tell him to be
   quiet and he'll get out in a few hours. He wants to know something.  They
-  tell them they don't know anything. He says they are the f--king police, they
+  tell them they don't know anything. He says they are the fucking police, they
   should know. He and his pregnant old lady have been all over the US with no
   problem. They say he should stay out of San Diego. They search a guy on
   crystal meth. They can get violent, paranoid and attack because they think
@@ -4535,11 +4535,12 @@ Aired 1991-02-09.
   make noise. They say to call if he sees them and go back to Daisy and her
   friends to see if he came back. She needs to go to 762 Montgomery St. on
   Monday to file a complaint unless they catch him first. He'll come back, he's
-  cocky. (Thursday, 9:40 PM Assault Call) They get a call of a female being
-  assaulted right where Daisy was last time. It turns out she is Daisy. A woman
-  says he tried to get her again, busted his eye open and he's out inn the back
-  yard. They go out there and it's totally dark. Ruben is down on the ground by
-  an underground door. He was trying to climb into a window to escape, fell and
+  cocky.
+- (Thursday, 9:40 PM Assault Call) They get a call of a female being assaulted
+  right where Daisy was last time. It turns out she is Daisy. A woman says he
+  tried to get her again, busted his eye open and he's out inn the back yard.
+  They go out there and it's totally dark. Ruben is down on the ground by an
+  underground door. He was trying to climb into a window to escape, fell and
   hit his head. He's Mexican, with a big dorag. He says, “I can't stand up, I'm
   dizzy yo.” Tom is going to cuff him and Ruben says he's tough, he'll show him
   how tough he is even when he's cuffed. Tom says he's tough too. Ruben says
@@ -4554,29 +4555,30 @@ Aired 1991-02-09.
   all over, that's why they can't find him. He's been locked up many times, has
   an extensive record, no girls like him and they reject him so he beats them
   up. She signed a complaint on him and the state has the toughest domestic
-  violence laws in the country. Orange, NJ (10:20 PM Street Patrol) Officer
-  Dennis Vega says most of the time he winds up doing what he's taught, not on
-  the job, but when you were younger, how to treat people and how to react in
-  different situations. If you get physical that doesn't solve things it
-  creates new problems. If you fight with everyone you are not going to make
-  it, this is not the job for it. A black guy flags him down and says his
-  cousin has a problem with his sister and his kids. He says there is going to
-  be a fight, but he can't explain it. He wants Dennis to go there, but he
-  won't until he understands. He says the cousin and his ex are fighting over
-  their kid and he'll ride down there on the hood if he wants. It started right
-  there and now they're by the ice cream parlor. He says he's a short bald
-  f--ker. The guy runs down there and Dennis meets him at the corner. A woman
-  says the guy is lying on Bell Street all beat up. A witness says a guy beat
-  him up and left him there.  The guy is on his back spread out and mumbling.
-  He indicates he can't breathe and can't move his leg. He starts crying and
-  screaming. Dennis calls an ambulance. The cousin holds him down. The guy
-  starts screaming and moving his legs because he wants him off him. He wants
-  him to shut up. He keeps trying to get up and T holds him down. EMS arrives
-  and T wants them to help, but the victim doesn't want their help, he can do
-  it his own way, so Dennis calls them off. They started fighting on Jefferson
-  St., he got bopped, is probably on the pipe and couldn't fight his way out of
-  a paper bag. There was nothing the police could do about it, just can't let
-  it get out of control and won't solve anything tonight.
+  violence laws in the country.
+- Orange, NJ (10:20 PM Street Patrol) Officer Dennis Vega says most of the time
+  he winds up doing what he's taught, not on the job, but when you were
+  younger, how to treat people and how to react in different situations. If you
+  get physical that doesn't solve things it creates new problems. If you fight
+  with everyone you are not going to make it, this is not the job for it. A
+  black guy flags him down and says his cousin has a problem with his sister
+  and his kids. He says there is going to be a fight, but he can't explain it.
+  He wants Dennis to go there, but he won't until he understands. He says the
+  cousin and his ex are fighting over their kid and he'll ride down there on
+  the hood if he wants. It started right there and now they're by the ice cream
+  parlor. He says he's a short bald fucker. The guy runs down there and Dennis
+  meets him at the corner. A woman says the guy is lying on Bell Street all
+  beat up. A witness says a guy beat him up and left him there.  The guy is on
+  his back spread out and mumbling.  He indicates he can't breathe and can't
+  move his leg. He starts crying and screaming. Dennis calls an ambulance. The
+  cousin holds him down. The guy starts screaming and moving his legs because
+  he wants him off him. He wants him to shut up. He keeps trying to get up and
+  T holds him down. EMS arrives and T wants them to help, but the victim
+  doesn't want their help, he can do it his own way, so Dennis calls them off.
+  They started fighting on Jefferson St., he got bopped, is probably on the
+  pipe and couldn't fight his way out of a paper bag. There was nothing the
+  police could do about it, just can't let it get out of control and won't
+  solve anything tonight.
 
 ## CP-321
 
@@ -7830,23 +7832,24 @@ Aired 1994-08-06.
   suspects. Training Officer Tonya Drummer caught one because he is all sweaty,
   but claims he is just a heroin addict meeting his dealer. Tammy ID's him as a
   passenger. Lt. Larry Manion says two people were shot at the Shell Station
-  and they were only 50 yards behind him when it happened. (North Hollywood
-  Area -- 7:37 PM Disturbance Call) Officer Stephen Egan takes the call of a
-  possible explosion and a crazy man named Jesse at a church. He says the
-  spiders are going to get him. He forces his way in looking for a syringe and
-  100cc of codeine and wrecked the place looking for it. He says he's dying and
-  screams he's not on anything. He's on speed, his hand is cut, he's homeless
-  and says spiders are hitting him webs. Officer Michael Patriquen says he
-  isn't on speed. Medics come in to clean the cuts. He can't remember if he's
-  been in a psychiatric hospital before and his pulse is 160. (Hollywood Area
-  -- 11:10 PM) On Santa Monica Blvd Officer Thomas Mason talks about looking
-  for prostitutes because there are lots of dark areas and no parking, lots of
-  activity goes on. He sees a John and a whore and goes around to surprise them
-  and find a black guy running and men chasing him. He snatched a purse from a
-  Russian woman who doesn't speak English so her friends chased him. Her friend
-  translates for her as the cop questions her. The purse is on the ground,
-  strap is broken and the contents are spilled out. He tells them all to follow
-  them back to the station so they can sort it all out.
+  and they were only 50 yards behind him when it happened.
+- (North Hollywood Area -- 7:37 PM Disturbance Call) Officer Stephen Egan takes
+  the call of a possible explosion and a crazy man named Jesse at a church. He
+  says the spiders are going to get him. He forces his way in looking for a
+  syringe and 100cc of codeine and wrecked the place looking for it. He says
+  he's dying and screams he's not on anything. He's on speed, his hand is cut,
+  he's homeless and says spiders are hitting him webs. Officer Michael
+  Patriquen says he isn't on speed. Medics come in to clean the cuts. He can't
+  remember if he's been in a psychiatric hospital before and his pulse is 160.
+- (Hollywood Area -- 11:10 PM) On Santa Monica Blvd Officer Thomas Mason talks
+  about looking for prostitutes because there are lots of dark areas and no
+  parking, lots of activity goes on. He sees a John and a whore and goes around
+  to surprise them and find a black guy running and men chasing him. He
+  snatched a purse from a Russian woman who doesn't speak English so her
+  friends chased him. Her friend translates for her as the cop questions her.
+  The purse is on the ground, strap is broken and the contents are spilled out.
+  He tells them all to follow them back to the station so they can sort it all
+  out.
 
 ## CP-706
 
@@ -8628,10 +8631,9 @@ Aired 1995-09-09.
 
 **Fort Worth, TX 13**
 
-- (4:12 PM Street Patrol) South Division -- Officer Dave Moran is parked on an overpass looking down for an approaching white van.
-- Traffic accidents.
+- (4:12 PM Street Patrol) South Division -- Officer Dave Moran is parked on an overpass looking down for an approaching white van. Traffic accidents.
 - Immigration-card ring.
-- False fire report.
+- (Fort Worth, TX -- 10:05 PM 911 Call) Officer Todd Plowman, Officer Chad Plowman, Officer K. W. Dean, Sgt. W. L. Norman. Fire.
 
 ## CP-817
 
@@ -15434,7 +15436,7 @@ Aired 2005-07-09.
   no shirt on, stab wounds and blood all over his face. His face is swollen and
   he's covered with bad jailhouse tattoos. He gets up and keeps mouthing off at
   the cops. They tell him to stay down and he asks them what are they going to
-  do and tells them all to f--k off. EMT arrives, they cuff him, load him on a
+  do and tells them all to fuck off. EMT arrives, they cuff him, load him on a
   stretcher and tie him down. Sgt. Eddie Barrios says she took the knife away
   from him. They go back to her and she says he was flailing the knife around
   at George and his son who hit him with a shovel to get it away from him.
