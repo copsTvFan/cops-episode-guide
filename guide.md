@@ -1,3 +1,7 @@
+# Cops Episode Guide
+
+For context, see the [parent page](/cops-episode-guide).
+
 # Season 1
 
 1989.
