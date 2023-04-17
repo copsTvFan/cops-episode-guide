@@ -18800,6 +18800,172 @@ TODO
 
 2015-2016.
 
+## S28E01
+
+- 8:26 PM Domestic Disturbance Call
+- 9:17 PM Fight In Progress
+- 7:40 PM Neighbor Dispute Call
+
+## S28E02
+
+- 9:35 PM Traffic Stop
+- 7:26 PM Shots Fired Call
+- 8:14 PM Suspicious Activity
+
+## S28E03
+
+- 9:58 PM Traffic Stop
+- 9:32 PM Traffic Stop
+- 1:42 AM Traffic Stop
+
+## S28E04
+
+- 10:37 AM Stolen Vehicle
+- 8:14 PM Domestic Dispute Call
+- 4:28 PM Stolen Vehicle Call
+
+## S28E05
+
+- 10:34 PM Disturbance Call
+- 12:19 AM Traffic  Stop
+- 10:03 PM Domestic Disturbance Call
+
+## S28E06
+
+- 9:45 PM  Stolen Vehicle
+- 11:53 PM Protection Order Violation
+- 10:15 PM Traffic Stop
+
+## S28E07
+
+- 5:11 PM Stolen Vehicle
+- 10:59 AM  Stolen Vehicle
+- 9:46 PM Traffic Stop
+
+## S28E08
+
+- 12:13 AM Suspicious Vehicles
+- 12:16 AM Suspicious Person Call
+- 7:02 PM Traffic Stop
+
+## S28E09
+
+- 1:27 PM Suspicious Activity
+- 3:42 PM Possible Drug Activity
+- 7:25 PM Disturbance Call
+
+## S28E10
+
+- 3:41 PM  Stolen Vehicle
+- 6:25 PM Suspected Drunk Driving
+- 11:22 PM Suspicious Vehicle
+
+## S28E11
+
+- 2:31 AM Suspicious Vehicle
+- 9:32 PM Traffic Stop
+- 5:48 PM Possible Drug Activity
+
+## S28E12
+
+- 8:47 PM Vehicle Pursuit
+- 12:56 AM Traffic Stop
+- 6:49 PM Assault Call
+
+## S28E13
+
+- 10:53 PM Reckless Driving
+- 11:15 PM Traffic Stop
+- 8:35 PM Traffic Stop
+
+## S28E14
+
+- 9:41 PM Vehicle Pursuit
+- 11:01 PM Traffic Stop
+- 12:06 AM Suspicious Person
+
+## S28E15
+
+- 2:32 AM Neighborhood Watch
+- 7:39 PM Suspicious Person With A Gun
+- 6:03 PM Disturbance Call
+
+## S28E16
+
+- 6:40 PM Vehicle Pursuit
+- 5:36 PM Erratic Driver
+- 8:12 PM Traffic Stop
+
+## S28E16
+
+TODO
+
+## S28E17
+
+TODO
+
+## S28E18
+
+TODO
+
+## S28E19
+
+TODO
+
+## S28E20
+
+TODO
+
+## S28E21
+
+TODO
+
+## S28E22
+
+TODO
+
+## S28E23
+
+TODO
+
+## S28E24
+
+TODO
+
+## S28E25
+
+TODO
+
+## S28E26
+
+TODO
+
+## S28E27
+
+TODO
+
+## S28E28
+
+TODO
+
+## S28E29
+
+TODO
+
+## S28E30
+
+TODO
+
+## S28E31
+
+TODO
+
+## S28E32
+
+TODO
+
+## S28E33
+
 TODO
 
 # Season 29
