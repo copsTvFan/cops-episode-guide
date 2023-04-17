@@ -12260,7 +12260,7 @@ Aired 2001-09-15.
 
 - (Des Moines, IA -- 8:18 PM Assistance Call) 3rd Watch -- Officer Joe Morgan has been there eleven years and likes the city because it is small, but not too small, there is still lots to do. An off duty cop is in a foot pursuit.
 - (Chattanooga, TN -- 4:13 PM Public Disorder Call) Officer Brian Miller likes to play golf. Officer Christopher Smith. Domestic disturbance.
-- (Atlanta, GA -- 5:05 AM Traffic Stop) Officer Tim Fenner, Officer DOrian Graham. Car chase.
+- (Atlanta, GA -- 5:05 AM Traffic Stop) Officer Tim Fenner, Officer Dorian Graham. Car chase.
 
 ## CP-1413
 
