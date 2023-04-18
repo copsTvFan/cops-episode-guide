@@ -18788,6 +18788,94 @@ Aired 2009-12-12.
 
 2013-2014.
 
+## S26E01
+
+- (Stockton, CA -- 5:12 PM Fight in Progress) Stockton Police Department  -- "Community Response Team" -- Officer Jeffrey Pope responds to a fight in progress, and while trying to detain a man potentially involved, the man runs away from the officer and foot pursuit ensues. The man is quickly captured, arrested, and narcotics were recovered inside the sweater he was wearing.
+- (Sarasota County, FL -- 10:26 PM Suspicious Activity) Sarasota Co. Sheriff's Office -- "Tactical Unit" -- Deputy Matt Tuggle is alerted by another deputy of the Tactical Unit that a vehicle was observed leaving a residence that is under surveillance for narcotics activity. Deputy Tuggle is dispatched to stop the vehicle. The vehicle is stopped, the front seat passenger continues to move his hands between the seat and console, despite numerous commands to stop. The passenger is uncooperative, and is forcibly removed from the vehicle. The passenger is brought to the ground, and placed in handcuffs. A search of the area in which the passenger was reaching yields suspected methamphetamine. The passenger and driver are questioned on scene by deputies regarding his presence at the residence.
+- (Amarillo, TX -- 12:14 AM Domestic Violence Call) Amarillo Police Department -- FTO Devin Cantwell arrives on scene and a man is handcuffed and surrounded by several police officers. FTO Cantwell is informed by the other officers they observed the man laying on the ground, and there was a small bag of marijuana beside the man. The officers questioned if the marijuana belonged to him, and he admitted it was his. In addition to the marijuana, the officers located a large sum of money on him. The officers speak to his wife, and she mentions the money is both of theirs. She informs the officers he uses other narcotics, and it explains his demeanor. The officers ask her if an argument took place earlier in the night, and she confirms there was an argument regarding a motorcycle. Afterwards, the officers advise the man the money is being returned to his wife, and he is being charged for the possession of marijuana.
+
+## S26E02
+
+TODO
+
+## S26E03
+
+TODO
+
+## S26E04
+
+TODO
+
+## S26E05
+
+TODO
+
+## S26E06
+
+TODO
+
+## S26E07
+
+TODO
+
+## S26E08
+
+TODO
+
+## S26E09
+
+TODO
+
+## S26E10
+
+TODO
+
+## S26E11
+
+TODO
+
+## S26E12
+
+TODO
+
+## S26E13
+
+TODO
+
+## S26E14
+
+TODO
+
+## S26E15
+
+TODO
+
+## S26E16
+
+TODO
+
+## S26E17
+
+TODO
+
+## S26E18
+
+TODO
+
+## S26E19
+
+TODO
+
+## S26E20
+
+TODO
+
+## S26E21
+
+TODO
+
+## S26E22
+
 TODO
 
 # Season 27
