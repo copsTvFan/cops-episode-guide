@@ -7172,12 +7172,14 @@ Aired 1993-07-17.
 
 **San Bernardino, CA 3**
 
-- (10:02 PM Street Patrol) Pomona -- Corporal Joe Waltman grew up on the East
-  Coast and always dreamed of going to California. I the courts they have all
-  the time they need to work things out, but on the streets it's split second
-  decisions. Officer pursues armed suspect
-- flood traps man
-- man on a sidewalk is armed.
+- (Pomona, CA -- 10:02 PM Street Patrol) Corporal Joe Waltman grew up on the
+  East Coast and always dreamed of going to California. I the courts they have
+  all the time they need to work things out, but on the streets it's split
+  second decisions. (10:16 PM Man With A Gun) Officer pursues armed suspect.
+- (San Bernardino County, CA -- 7:11 PM Search & Rescue Call) Deputy Hank
+  Valencia. Flood traps man.
+- (San Bernardino County, CA -- 1:17 AM Street Patrol) Deputy Rick Roelle. Man
+  on a sidewalk is armed.
 
 ## CP-544
 
@@ -7214,7 +7216,7 @@ Aired 1993-05-29.
 - (Philadelphia, PA -- 11:04 PM Street Patrol) (CP-521 segment 1)
 - (Houston, TX -- 12:32 AM Traffic Stop) (CP-334 segment 1)
 - (Las Vegas, NV -- 7:45 PM Code Red -- Officer Emergency) (CP-318 segment 1)
-- (Las Vegas, NV -- 11:01 PM Communication Center) CP-??? [TODO].
+- (Las Vegas, NV -- 11:01 PM Communication Center) CP-311.
 
 # Season 6
 
@@ -7890,7 +7892,14 @@ Aired 1994-10-15.
 
 **Los Angeles, CA 22**
 
-- (10:30 PM Stolen Car Call) Pomona Dept -- Sgt. Joe Waltman says there are obvious signs when looking for stolen cars like guys riding around in the rain with their window down because they broke it out. High-speed pursuit of reported stolen vehicle; domestic dispute.
+- (Pomona, CA -- 10:30 PM Stolen Car Call) Sgt. Joe Waltman says there are
+  obvious signs when looking for stolen cars like guys riding around in the
+  rain with their window down because they broke it out. High-speed pursuit of
+  reported stolen vehicle.
+- (Los Angeles, CA -- 6:54 PM Domestic Violence Call) Officer Rodney Peacock,
+  Officer David Nunn.
+- (Los Angeles, CA -- 7:15 PM Woman with a gun call) Officer Andrew Garcia,
+  Officer Daniel Pesqueira, Sgt. John Zamora, Officer Chantelle Koch.
 
 ## CP-710
 
@@ -9303,7 +9312,9 @@ Aired 1997-02-01.
 - (6:16 PM Suicidal Person Call) Sheriff's Dept. South Hill Precinct -- Deputy
   Bob Nilson says you never know what to expect. One minute it is calm, then
   the next it is complete chaos and you can barely keep up. Suicidal woman
-  struggles with police; robbers flee; suspects' children.
+  struggles with police
+- robbers flee
+- suspects' children.
 
 ## CP-917
 
@@ -12144,7 +12155,25 @@ Aired 2001-02-26.
 
 Aired 2001-05-??.
 
-**Greatest Moments 2 hours** -- 15. Cleveland, OH -- 2:07 AM Stolen Car Call -- CP-628.
+**Greatest Moments 2 hours**
+
+15 segments:
+
+- (Cleveland, OH -- 2:07 AM Stolen Car Call) CP-628
+- (Philadelphia, PA -- 11:04 PM Burglary In Progress)
+- (Pierce County, WA -- 6:16 PM Suicidal Person Call) CP-916
+- (Albuquerque, NM -- 10:47 PM Street Patrol) CP-1225
+- (Fort Worth, TX -- 4:12 PM Pursuit In Progress)
+- (Martin County, FL -- 10:33 PM Street Patrol) CP-1123, segment 1
+- (Fort Worth, TX -- 5:02 PM Traffic Stop) CP-1215
+- (Kansas City, MO -- 1:04 AM Pursuit In Progress)
+- (Lynn, MA -- 11:21 AM Assault With A Knife Call) CP-908, segment 1
+- (Kansas City, KS -- 5:43 PM Suspicious Activity)
+- (Albuquerque, NM -- 11:56 PM Assistance Call) CP-1230, segment 1
+- (Fort Worth, TX -- 10:44 PM Suspicious Activity)
+- (Los Angeles, CA -- 10:37 PM Assistance Call) CP-702
+- (Fort Worth, TX -- 10:05 PM House Fire Call) CP-816
+- (Pomona, CA -- 12:03 AM Pursuit In Progress)
 
 # Season 14
 
@@ -12711,7 +12740,7 @@ Aired 2002-04-27.
 - (Sacramento, CA -- 3:23 PM Suspicious Person) Officer Al Miller questions a transvestite
 - (Las Vegas, NV -- 11:30 PM Suspicious Activity) Officer Bob Kinch stops a transvestite ("Jennifer") buying drugs out of a red car.
 - (Fort Worth, TX -- 9:32 PM Man With a Knife) Officer Joseph Farah, Jr.
-- (Kodiak, AK -- 10:08 PM Disturbance Call) Sgt. John Palmer out of the Kodiak, AK Police Department arrests 2 females
+- (Kodiak, AK -- 10:08 PM Disturbance Call) Sgt. John Palmer out of the Kodiak, AK Police Department arrests 2 females. This is segment 2 of CP-309.
 - (San Bernardino, CA -- 8:05 PM Disturbance Call) Deputy Don Lupear
 
 ## CP-1436
@@ -14005,9 +14034,17 @@ Aired 2003-12-20.
 
 **Ho! Ho! Ho! 1 Special Edition**
 
-- (Wichita KS -- 2:40 PM Prostitution Sting Briefing) Sgt picks up a girl for a $20 BJ and an ugly drugged whore for $15 for sex + Black woman who discounts sex for $20/Black man tries to pick up a cop at a gas station + a Mexican man does the same in a red car
-- Palm Beach County FL -- Johns pick up female undercover cops
-- North Las Vegas NV -- Suspicious activity -- man in a pickup truck picks up a whore that turns out to be a man.
+- (Wichita KS -- 2:40 PM Prostitution Sting Briefing) Officer Bill Crowe, Sgt.
+  Bill Stevens, Officer Bill Stevens, Officer Katherine Gobel. Sgt picks up a
+  girl for a $20 BJ and an ugly drugged whore for $15 for sex + Black woman who
+  discounts sex for $20/Black man tries to pick up a cop at a gas station + a
+  Mexican man does the same in a red car.
+- (Palm Beach County, FL -- 9:02 PM Prostitution Sting) Deputy Lisa Whiddon,
+  Sgt. Rich Ragali, Deputy Leslie Barbalaco. Johns pick up female undercover
+  cops.
+- (North Las Vegas, NV -- 10:12 PM Suspicious Activity) Officer Justin Ryan,
+  Officer Justin Roberts. Man in a pickup truck picks up a whore that turns out
+  to be a man (Juanita / Juan).
 
 ## CP-1635
 
@@ -16576,33 +16613,34 @@ Aired 2007-09-15.
   down reveals a sawed-off shotgun down his pants leg -- exactly what a witness
   stated they saw. The suspect, a minor, is taken to the station where his
   stunned parents question him. His father is frustrated and disappointed in
-  his son's actions but tells him they will get through this together. Deputy
-  Thomas Gunter of the Brevard Co FL Sheriff's Office patrols an area known for
-  drug activity and spots a 'hand to hand' transaction in progress. The deputy
-  spots a male pushing a bicycle away and makes contact. The male suspect
-  quickly admits that he is busted and opens his hand to reveal a quantity of
-  crack cocaine. The suspect is taken into custody for possession and complains
-  that the deputy is picking on him and that he was set up. The suspect tells
-  the deputy that several men flagged him down and he 'succumbed' to pressure
-  to buy the drugs.  He refuses to believe that he has not been a victim of a
-  sting operation, although the deputies tell him that this arrest was not part
-  of sting. The suspect tells the deputies that he was lured into purchasing
-  the drugs and that he is not a drug user and only has a passing interest in
-  crack cocaine. The drugs are tested and come back positive and the man is
-  arrested for the felony.  Deputy Jennifer Torres of the Lee County FL
-  Sheriff's Office is dispatched to a verbal/physical fight at a local motel. A
-  female with visible injuries explains that her boyfriend became jealous when
-  she sang karaoke with another man at a birthday party earlier in the evening.
-  When she tried to hug her boyfriend, he pushed her to the ground. She claims
-  she ripped a necklace off of his neck but otherwise did not touch him. The
-  boyfriend tells Deputy Torres that they had both been drinking earlier and
-  she got angry with him and would not back down forcing him to flee the
-  residence to avoid any further escalation of violence.  Witnesses indicate
-  that the woman was the aggressor and the deputies arrest the female. She is
-  astonished that she is going to be arrested when she has injuries. The woman
-  becomes more irate and yells at the deputies that she should not be arrested
-  because of her obvious injury. The male 'victim' professes his love for his
-  girlfriend and asks why she has to be 'so mean'.
+  his son's actions but tells him they will get through this together.
+- Deputy Thomas Gunter of the Brevard Co FL Sheriff's Office patrols an area
+  known for drug activity and spots a 'hand to hand' transaction in progress.
+  The deputy spots a male pushing a bicycle away and makes contact. The male
+  suspect quickly admits that he is busted and opens his hand to reveal a
+  quantity of crack cocaine. The suspect is taken into custody for possession
+  and complains that the deputy is picking on him and that he was set up. The
+  suspect tells the deputy that several men flagged him down and he 'succumbed'
+  to pressure to buy the drugs.  He refuses to believe that he has not been a
+  victim of a sting operation, although the deputies tell him that this arrest
+  was not part of sting. The suspect tells the deputies that he was lured into
+  purchasing the drugs and that he is not a drug user and only has a passing
+  interest in crack cocaine. The drugs are tested and come back positive and
+  the man is arrested for the felony.
+- Deputy Jennifer Torres of the Lee County FL Sheriff's Office is dispatched to
+  a verbal/physical fight at a local motel. A female with visible injuries
+  explains that her boyfriend became jealous when she sang karaoke with another
+  man at a birthday party earlier in the evening.  When she tried to hug her
+  boyfriend, he pushed her to the ground. She claims she ripped a necklace off
+  of his neck but otherwise did not touch him. The boyfriend tells Deputy
+  Torres that they had both been drinking earlier and she got angry with him
+  and would not back down forcing him to flee the residence to avoid any
+  further escalation of violence.  Witnesses indicate that the woman was the
+  aggressor and the deputies arrest the female. She is astonished that she is
+  going to be arrested when she has injuries. The woman becomes more irate and
+  yells at the deputies that she should not be arrested because of her obvious
+  injury. The male 'victim' professes his love for his girlfriend and asks why
+  she has to be 'so mean'.
 
 ## CP-2002
 
@@ -16624,32 +16662,33 @@ Aired 2007-09-22.
   mentally retarded mother. The male suspect is interviewed by FTO Drinkwater
   and tells him that he had no intention of resisting arrest. Drinkwater
   explains the suspect's charges and allows the couple to say goodbye to each
-  other. Deputy Chris Nebel of the Lee County FL Sheriff's Office patrols an
-  area of North District and spots a golf cart being driven by a young man. The
-  golf cart is on a public road with no lights on. The young man explains that
-  he was trying to get home and just received the cart from his friend. The
-  young man is on probation for grand theft (of a go kart) and has a curfew,
-  which he is breaking by being out after midnight. The young man pleads with
-  the deputy to let him go home as he has school tomorrow. While the man
-  attempts to receive favorable treatment from the deputy, his record comes
-  back showing several arrests in the past year for burglary and battery. The
-  young man's mother shows up and tells the deputy a different story -- that
-  her son traded a bike for the golf cart today, not 4 months ago as he had
-  stated. The irate mother yells at her son and tells him she isn't going to
-  deal with him right now as she has her own problems to deal with. The deputy
-  takes the young man down to the detention center for breaking curfew and the
-  golf cart is impounded. Officer Robert Morales of the Rialto, CA Police
-  Department responds to an assault with a deadly weapon call that took place
-  at a convenience store. Another officer has pulled over a vehicle matching
-  the description of the 'getaway' truck. The officers remove the occupants
-  during the felony traffic stop. Officer Morales questions one of the
-  occupants of the vehicle about what transpired at the store. The man claims
-  it was just a 'beer run' gone wrong. Several of the clerks at the store
-  attempted to stop the young men from stealing the beer and the men attacked
-  them with a bat and golf club in front of the store. The surveillance video
-  is viewed by the officers that collaborates the story told by the clerks. One
-  of the young men's mothers comes to the station and tearfully confronts her
-  son about the assault.
+  other.
+- Deputy Chris Nebel of the Lee County FL Sheriff's Office patrols an area of
+  North District and spots a golf cart being driven by a young man. The golf
+  cart is on a public road with no lights on. The young man explains that he
+  was trying to get home and just received the cart from his friend. The young
+  man is on probation for grand theft (of a go kart) and has a curfew, which he
+  is breaking by being out after midnight. The young man pleads with the deputy
+  to let him go home as he has school tomorrow. While the man attempts to
+  receive favorable treatment from the deputy, his record comes back showing
+  several arrests in the past year for burglary and battery. The young man's
+  mother shows up and tells the deputy a different story -- that her son traded
+  a bike for the golf cart today, not 4 months ago as he had stated. The irate
+  mother yells at her son and tells him she isn't going to deal with him right
+  now as she has her own problems to deal with. The deputy takes the young man
+  down to the detention center for breaking curfew and the golf cart is
+  impounded.
+- Officer Robert Morales of the Rialto, CA Police Department responds to an
+  assault with a deadly weapon call that took place at a convenience store.
+  Another officer has pulled over a vehicle matching the description of the
+  'getaway' truck. The officers remove the occupants during the felony traffic
+  stop. Officer Morales questions one of the occupants of the vehicle about
+  what transpired at the store. The man claims it was just a 'beer run' gone
+  wrong. Several of the clerks at the store attempted to stop the young men
+  from stealing the beer and the men attacked them with a bat and golf club in
+  front of the store. The surveillance video is viewed by the officers that
+  collaborates the story told by the clerks. One of the young men's mothers
+  comes to the station and tearfully confronts her son about the assault.
 
 ## CP-2003
 
@@ -16672,22 +16711,23 @@ Aired 2007-10-06.
   about the circumstances of his friend's arrest and tells the deputies his
   friend is a jitterbug. The driver is given a warning for the equipment
   violation and is cut loose. The passenger that tried to run tells deputies he
-  feels dumb for trying to run. Riverside County CA Sheriff's Department --
-  Deputy Robert Wiggs responds to a domestic violence call. The male suspect
-  has been arrested before and is a known runner. The deputies arrive on scene
-  and begin to search the property in search of the man. He is eventually found
-  hiding underneath of a boat. In addition to the DV call, the man has a
-  warrant for child endangerment. The suspect tells deputies that if he had a
-  gun he could have easily shot them during the hunt. Deputies find a meth pipe
-  in the man's sock during the arrest. The suspect explains that the reason he
-  was at the property was that his ex-wife invited him over so that she could
-  have him arrested. Las Vegas, NV Metropolitan Police Department -- Officer
-  Cesar Garcia is dispatched to an RV park for a domestic disturbance call. The
-  female party is outside of the home and gladly shows off her bloodied lips to
-  officers as they arrive. Her boyfriend and the father of their 3 year
-  daughter steps from the RV with a bloody head wound and tells officers he
-  received the wounds when the female hit him in the head with a glass object.
-  The woman claims she was defending herself but her story in inconsistent.
+  feels dumb for trying to run.
+- Riverside County CA Sheriff's Department -- Deputy Robert Wiggs responds to a
+  domestic violence call. The male suspect has been arrested before and is a
+  known runner. The deputies arrive on scene and begin to search the property
+  in search of the man. He is eventually found hiding underneath of a boat. In
+  addition to the DV call, the man has a warrant for child endangerment. The
+  suspect tells deputies that if he had a gun he could have easily shot them
+  during the hunt. Deputies find a meth pipe in the man's sock during the
+  arrest. The suspect explains that the reason he was at the property was that
+  his ex-wife invited him over so that she could have him arrested.
+- Las Vegas, NV Metropolitan Police Department -- Officer Cesar Garcia is
+  dispatched to an RV park for a domestic disturbance call. The female party is
+  outside of the home and gladly shows off her bloodied lips to officers as
+  they arrive. Her boyfriend and the father of their 3 year daughter steps from
+  the RV with a bloody head wound and tells officers he received the wounds
+  when the female hit him in the head with a glass object.  The woman claims
+  she was defending herself but her story in inconsistent.
 
 ## CP-2004
 
@@ -16744,22 +16784,23 @@ Aired 2007-11-24.
   stolen. While he is being processed a witness alerts police to the presence
   of another man in someone's backyard. The officers detain the man and Det.
   Jones identifies him as the passenger. Officer Sergio Carerra Memorial
-  Information. Deputy Kelly Simpkins of the Brevard County FL Sheriff's Office
-  patrols an alleyway behind several businesses that has become a hangout for
-  drug addicts. A male is seen walking in the area and Deputy Simpkins makes
-  contact with the man. The male suspect tells the deputy he was headed home
-  and submits to a search of his person after the deputy learns he has priors
-  for drug arrests. When the man kicks off his shoe, a crack stem falls out and
-  he tries to push it under the car before anyone sees it. Not being fooled for
-  a minute, Deputy Simpkins recovers the stem and the man begins to make
-  excuses as to why it is in his possession. The deputy takes the man into
-  custody and the suspect begins to plead with Simpkins to let him go with a
-  ticket. Pittsburgh, PA Bureau of Police -- Detectives Gregory Woodhall and
-  Michael Hoffman patrol a local area common for drug trafficking. A male is
-  spotted and attempts to flee. Officers detained the suspects after tazing
-  him. A stack of money and bags of Heroin are found in his pockets. The
-  suspect is questioned and arrested. The officers counted 14 bags of Heroin
-  and over $700 in cash.
+  Information.
+- Deputy Kelly Simpkins of the Brevard County FL Sheriff's Office patrols an
+  alleyway behind several businesses that has become a hangout for drug
+  addicts. A male is seen walking in the area and Deputy Simpkins makes contact
+  with the man. The male suspect tells the deputy he was headed home and
+  submits to a search of his person after the deputy learns he has priors for
+  drug arrests. When the man kicks off his shoe, a crack stem falls out and he
+  tries to push it under the car before anyone sees it. Not being fooled for a
+  minute, Deputy Simpkins recovers the stem and the man begins to make excuses
+  as to why it is in his possession. The deputy takes the man into custody and
+  the suspect begins to plead with Simpkins to let him go with a ticket.
+- Pittsburgh, PA Bureau of Police -- Detectives Gregory Woodhall and Michael
+  Hoffman patrol a local area common for drug trafficking. A male is spotted
+  and attempts to flee. Officers detained the suspects after tazing him. A
+  stack of money and bags of Heroin are found in his pockets. The suspect is
+  questioned and arrested. The officers counted 14 bags of Heroin and over $700
+  in cash.
 
 ## CP-2006
 
@@ -16869,27 +16910,27 @@ Aired 2007-09-08.
   used in the gunfight is recovered. The young man is treated for his wounds as
   Officer Lenz talks to the K-9 Officer about the track. Lenz is given updated
   information that the wounded officer will be okay and is in good spirits.
-  Sgt. Jeremiah Marcotte of the Lee County Sheriff's Office is dispatched to a
+- Sgt. Jeremiah Marcotte of the Lee County Sheriff's Office is dispatched to a
   domestic violence call in which it was reported that the male half was
   choking the female half. The suspect was briefly questioned and was obviously
   under the influence of drugs. The female half and the father of the suspect
   were questioned as well.  Both stories were the same. The suspect was
-  detained and taken to jail after putting up quite a fight. Cpl. John Black of
-  the Rialto Police Department responds to a call of several males fleeing the
-  scene of a traffic accident.  He spots two men matching the descriptions
-  given by witnesses. The men also have obvious injuries from the crash. One of
-  the men denies any knowledge of the events even though he has a large piece
-  of windshield glass protruding from his forehead. The man has a history of
-  felony convictions and is currently on parole. He also smells as though he
-  has been drinking. The other male suspect cries and tearfully admits to
-  officers on scene that he was in the car and then there was a crash and he
-  was injured. At the scene, a witness gives officers a detailed report on what
-  transpired. The 4 male occupants fled the scene after the vehicle they were
-  traveling in ran a red light and collided with a truck and another vehicle.
-  He gave a detailed description of the men as well. The man that claimed not
-  to know anything about the collision is arrested and his parole is violated
-  by the officers.  The driver is arrested and taken to jail for felony drunk
-  driving.
+  detained and taken to jail after putting up quite a fight.
+- Cpl. John Black of the Rialto Police Department responds to a call of several
+  males fleeing the scene of a traffic accident.  He spots two men matching the
+  descriptions given by witnesses. The men also have obvious injuries from the
+  crash. One of the men denies any knowledge of the events even though he has a
+  large piece of windshield glass protruding from his forehead. The man has a
+  history of felony convictions and is currently on parole. He also smells as
+  though he has been drinking. The other male suspect cries and tearfully
+  admits to officers on scene that he was in the car and then there was a crash
+  and he was injured. At the scene, a witness gives officers a detailed report
+  on what transpired. The 4 male occupants fled the scene after the vehicle
+  they were traveling in ran a red light and collided with a truck and another
+  vehicle.  He gave a detailed description of the men as well. The man that
+  claimed not to know anything about the collision is arrested and his parole
+  is violated by the officers.  The driver is arrested and taken to jail for
+  felony drunk driving.
 
 ## CP-2010
 
@@ -16988,9 +17029,37 @@ Aired 2008-04-26.
 
 **Caught in the Act 3 Special Edition**
 
-- (Las Vegas, NV -- 3:01 AM Strong Arm Robbery Call) Metropolitan PD South Central Area Command -- Officer Branden Clarkson is dispatched to a strong arm robbery call. The officer spots a male that fits the description of the suspect in the case and 'prones out' the man at gunpoint. Near where the man was spotted in the bushes is a pile of credit cards, a cell phone and an identification card belonging to the female victim. A security guard states that the female victim told him she was robbed at gunpoint by the male suspect and the guard attempted to stop and question the man, who fled on foot. During the foot chase, the suspect fired a single shot at close range towards the security guard. The female victim explains that the man pointed his gun at her and stole her purse.
-- (Brevard County FL -- 6:15 PM Assistance Call) Sheriff's Office East Precinct -- Deputy Juan Vargas, Jr. is dispatched to assist in the apprehension of a suspect wanted in connection with a shoplifting incident at a local store. The man is quickly located and is detained until a witness from the store can be brought to the scene to identify him. When the loss prevention worker positively IDs the male, he is arrested for shoplifting several DVDs. The man begs not to be taken to jail and offers to buy the DVDs.
-- (Kansas City, MO -- 2:20 PM Street Patrol) PD East Patrol Division -- Officer Conrad Stumpenhaus & Officer Michael Sartain talk about some of the misconceptions of law enforcement officers and how they do their jobs. Sartain explains that they are going to swing by a known dope house to see if there is any new activity. The immediately spot a man that they know seated behind the wheel of a car talking to another male. The man gets out of the car and heads for the home but is detained. The other male drops a baggie of what is later determined to be meth. The suspect seen behind the wheel of the vehicle doesn't have license and will be arrested for that charge. The vehicle and the plate don't match up so the vehicle will be towed. The male suspect that dropped the meth is charged with possession. The other suspect becomes belligerent and complains loudly while being taken to the paddy wagon and starts yelling for a lawyer and a bondsman.
+- (Las Vegas, NV -- 3:01 AM Strong Arm Robbery Call) Metropolitan PD South
+  Central Area Command -- Officer Branden Clarkson is dispatched to a strong
+  arm robbery call. The officer spots a male that fits the description of the
+  suspect in the case and 'prones out' the man at gunpoint. Near where the man
+  was spotted in the bushes is a pile of credit cards, a cell phone and an
+  identification card belonging to the female victim. A security guard states
+  that the female victim told him she was robbed at gunpoint by the male
+  suspect and the guard attempted to stop and question the man, who fled on
+  foot. During the foot chase, the suspect fired a single shot at close range
+  towards the security guard. The female victim explains that the man pointed
+  his gun at her and stole her purse.
+- (Brevard County FL -- 6:15 PM Assistance Call) Sheriff's Office East Precinct
+  -- Deputy Juan Vargas, Jr. is dispatched to assist in the apprehension of a
+  suspect wanted in connection with a shoplifting incident at a local store.
+  The man is quickly located and is detained until a witness from the store can
+  be brought to the scene to identify him. When the loss prevention worker
+  positively IDs the male, he is arrested for shoplifting several DVDs. The man
+  begs not to be taken to jail and offers to buy the DVDs.
+- (Kansas City, MO -- 2:20 PM Street Patrol) PD East Patrol Division -- Officer
+  Conrad Stumpenhaus & Officer Michael Sartain talk about some of the
+  misconceptions of law enforcement officers and how they do their jobs.
+  Sartain explains that they are going to swing by a known dope house to see if
+  there is any new activity. The immediately spot a man that they know seated
+  behind the wheel of a car talking to another male. The man gets out of the
+  car and heads for the home but is detained. The other male drops a baggie of
+  what is later determined to be meth. The suspect seen behind the wheel of the
+  vehicle doesn't have license and will be arrested for that charge. The
+  vehicle and the plate don't match up so the vehicle will be towed. The male
+  suspect that dropped the meth is charged with possession. The other suspect
+  becomes belligerent and complains loudly while being taken to the paddy wagon
+  and starts yelling for a lawyer and a bondsman.
 
 ## CP-2013
 
@@ -16998,9 +17067,39 @@ Aired 2008-01-19.
 
 **Coast to Coast 136**
 
-- (Kansas City, MO -- 3:15 PM Street Patrol) PD East Patrol -- Officer Greg Williams patrols an area known for drug activity and spots a man standing in the middle of the road. The man and his friend speak to Williams briefly and begin to walk away. The friend is questioned about his drug activity after Williams notices his behavior is somewhat erratic. He pats the man down and questions the man about any criminal activity he may have pursued in the past and the man claims he only steals guns from people that 'ain't cops'. While the conversation is taking place the other male walks away to 'get his ID' and never comes back. A neighbor comes over and tells Officer Williams the men are a nuisance. Williams goes around the perimeter of the home in time to spot a male running into the woods. He pursues the man on foot and quickly detains the man.
-- Cpl. John Black of the Rialto Police Department heads to a location to back up an officer that was in a foot pursuit with a suspect that tossed a baggie of narcotics. The officers search a residence where the man has been known to hang out and find the man in an upstairs bedroom closet. The man is taken into custody without incident. He denies that it he has any involvement in the foot pursuit and claims he was hiding in the closet because he is in a bad neighborhood. The man denies that he tossed the recovered narcotics. As the officers test the drugs, they notice that there is meth in the baggie.
-- Officer Shawn Ford of the Las Vegas Metropolitan Police Department responds to a call of a male walking around in the fountain at the Mirage. Ford explains that people jump the fence to grab change from the lagoon. He spots wet footprints leading away from the scene and gets a description from a witness. The witness spots the man walking down the street and the officer stops him. The man admits to grabbing the coins but explains that he refuses to beg for money and this is his only alternative. Because the man doesn't have any warrants, Officer Ford gives him a break and after asking the man to toss the ill-gotten change back into the fountain, he cuts him loose. Another officer contacts Ford a short time later and states he has a suspect in custody that was caught stealing change from the same fountain. When Ford arrives it is the same man. The man claims that it was 'too hard to leave' and he hated to see his 'hard work' gone.
+- (Kansas City, MO -- 3:15 PM Street Patrol) PD East Patrol -- Officer Greg
+  Williams patrols an area known for drug activity and spots a man standing in
+  the middle of the road. The man and his friend speak to Williams briefly and
+  begin to walk away. The friend is questioned about his drug activity after
+  Williams notices his behavior is somewhat erratic. He pats the man down and
+  questions the man about any criminal activity he may have pursued in the past
+  and the man claims he only steals guns from people that 'ain't cops'. While
+  the conversation is taking place the other male walks away to 'get his ID'
+  and never comes back. A neighbor comes over and tells Officer Williams the
+  men are a nuisance. Williams goes around the perimeter of the home in time to
+  spot a male running into the woods. He pursues the man on foot and quickly
+  detains the man.
+- Cpl. John Black of the Rialto Police Department heads to a location to back
+  up an officer that was in a foot pursuit with a suspect that tossed a baggie
+  of narcotics. The officers search a residence where the man has been known to
+  hang out and find the man in an upstairs bedroom closet. The man is taken
+  into custody without incident. He denies that it he has any involvement in
+  the foot pursuit and claims he was hiding in the closet because he is in a
+  bad neighborhood. The man denies that he tossed the recovered narcotics. As
+  the officers test the drugs, they notice that there is meth in the baggie.
+- Officer Shawn Ford of the Las Vegas Metropolitan Police Department responds
+  to a call of a male walking around in the fountain at the Mirage. Ford
+  explains that people jump the fence to grab change from the lagoon. He spots
+  wet footprints leading away from the scene and gets a description from a
+  witness. The witness spots the man walking down the street and the officer
+  stops him. The man admits to grabbing the coins but explains that he refuses
+  to beg for money and this is his only alternative. Because the man doesn't
+  have any warrants, Officer Ford gives him a break and after asking the man to
+  toss the ill-gotten change back into the fountain, he cuts him loose. Another
+  officer contacts Ford a short time later and states he has a suspect in
+  custody that was caught stealing change from the same fountain. When Ford
+  arrives it is the same man. The man claims that it was 'too hard to leave'
+  and he hated to see his 'hard work' gone.
 
 ## CP-2014
 
@@ -17008,9 +17107,37 @@ Aired 2008-03-15.
 
 **Strange Behavior 1 Special Edition**
 
-- (Kansas City, MO -- 2:01 AM Pursuit in Progress) Police Department -- Officer Richard Hulme assists Independence Police Department with a pursuit of a suspect that has been involved in several hit-and-runs that has been chased into KCMO territory. Apparently the suspect's vehicle hit 'stop sticks' but has continued the pursuit. The suspect drives erratically, wheeling the car down the center turn lane of the highway. The male driver eventually pulls over when it becomes clear he cannot escape and he is taken into custody after a brief struggle. The 70 year old man is admonished for running from the officers and driving in a manner that may destroy property and harm citizens. The man is on probation and seems happy to be going back to jail.
-- Officer Travis Crumrine of the Las Vegas, NV Metropolitan Police Department responds to a local bar where several female impersonators are causing a disturbance and exposing themselves. Arriving on scene, the bartender and several independent witnesses point out three transvestites who are asked to come outside and speak with the officers. One of the girls claims the bartender is harassing her and that she didn't do anything and swears on her dead mother's grave. The bartender tells his side of the story and tells the officers that the girls said that they could do whatever they want, including expose themselves by wearing provocative clothing. The transvestite is arrested for disorderly conduct and she claims that she will be going back home.
-- Sgt. Nicholas Borchard of the Rialto, CA Police Department responds to a traffic accident scene. The vehicle involved in the collision is unoccupied but was just reported stolen by the owner. When officers contact the owner, she states that she knows the likely whereabouts of the suspect -- in her townhouse. When the officers locate an open door, they enter the home and find the suspect sleeping on a bed. After rousing the woman from her drunken slumber, they detain her for questioning. Initially, the woman vehemently denies taking the vehicle and calls her friend a 'fool' for putting her in this situation. Facing down her friend, she breaks down and admits to stealing the car, driving under the influence and wrecking the vehicle.
+- (Kansas City, MO -- 2:01 AM Pursuit in Progress) Police Department -- Officer
+  Richard Hulme assists Independence Police Department with a pursuit of a
+  suspect that has been involved in several hit-and-runs that has been chased
+  into KCMO territory. Apparently the suspect's vehicle hit 'stop sticks' but
+  has continued the pursuit. The suspect drives erratically, wheeling the car
+  down the center turn lane of the highway. The male driver eventually pulls
+  over when it becomes clear he cannot escape and he is taken into custody
+  after a brief struggle. The 70 year old man is admonished for running from
+  the officers and driving in a manner that may destroy property and harm
+  citizens. The man is on probation and seems happy to be going back to jail.
+- Officer Travis Crumrine of the Las Vegas, NV Metropolitan Police Department
+  responds to a local bar where several female impersonators are causing a
+  disturbance and exposing themselves. Arriving on scene, the bartender and
+  several independent witnesses point out three transvestites who are asked to
+  come outside and speak with the officers. One of the girls claims the
+  bartender is harassing her and that she didn't do anything and swears on her
+  dead mother's grave. The bartender tells his side of the story and tells the
+  officers that the girls said that they could do whatever they want, including
+  expose themselves by wearing provocative clothing. The transvestite is
+  arrested for disorderly conduct and she claims that she will be going back
+  home.
+- Sgt. Nicholas Borchard of the Rialto, CA Police Department responds to a
+  traffic accident scene. The vehicle involved in the collision is unoccupied
+  but was just reported stolen by the owner. When officers contact the owner,
+  she states that she knows the likely whereabouts of the suspect -- in her
+  townhouse. When the officers locate an open door, they enter the home and
+  find the suspect sleeping on a bed. After rousing the woman from her drunken
+  slumber, they detain her for questioning. Initially, the woman vehemently
+  denies taking the vehicle and calls her friend a 'fool' for putting her in
+  this situation. Facing down her friend, she breaks down and admits to
+  stealing the car, driving under the influence and wrecking the vehicle.
 
 ## CP-2015
 
@@ -17097,9 +17224,42 @@ Aired 2008-02-23.
 
 **War on Drugs 3 Special Edition**
 
-- (Las Vegas, NV -- 1:42 AM Street Patrol) Metropolitan PD Downtown Area Command -- Officer David Schummer patrols an area known for a high rate of drug activity. He spots a male seated in a truck in the alley -- suspicious behavior for 2 am. The man states that he is meeting a friend to discuss some work and that the man is up at odd hours because he works the graveyard shift. The officer asks him to exit the vehicle and asks to do a search of his person. The man agrees and is searched. His vehicle is search as well. The male seems to have something lodged in his upper inside lip and when the officer questions him about it, he 'shows' the officer that he has cottonmouth from a prescription. The eagle-eyed officer spots several crack rocks and the officers are forced to briefly wrestle with the man.
-- Officer Conrad Stumpenhaus and Sgt. Darrel Bergquist of the Kansas City, Missouri Police Department stop a green minivan that has a license plate that indicates the driver has a warrant. They initially spotted a sticker in the back window that indicated the vehicle's plates were stolen. The driver explains the van belongs to his Uncle Gene. He is detained during the investigation. The passenger is also detained. A search of the vehicle turns up a baggie of drugs in a baby wipes box. The driver tells the officers the wipes belong to his sister. The man is upset because he claims he is trying to stay straight. While placing the men into the paddywagon, the officers locate a baggie of coke in the older man's wallet. He denies that the drugs are his and the officers tell him he is living by the statement on his shirt -- “I Don't Look For Trouble, It Finds Me”
-- FTO Glen Anderson of the Rialto, CA Police Department assists SCAT after the team received information that a parolee has dope on his property. The officers move in and detain the male suspect. Soon after, they spot a baggie of dope just as the informant said. Detective Aaron Vigil admonishes the man for his behavior and talks to him about the length of time he has been making the same mistakes. The man's wife comes outside and is shown the drugs and becomes emotional when the officers tell her that there is no future in what her husband is caught up in and that she needs to protect herself and her children. The woman appreciates the kind words and tells FTO Anderson he is the first officer to ever speak to her so frankly. Detective Vigil searches the property and finds a loaded handgun in a refrigerator. When confronted with the gun, the male suspect denies knowledge of it but is told he is looking at life as this is his 'third strike' under California law.
+- (Las Vegas, NV -- 1:42 AM Street Patrol) Metropolitan PD Downtown Area
+  Command -- Officer David Schummer patrols an area known for a high rate of
+  drug activity. He spots a male seated in a truck in the alley -- suspicious
+  behavior for 2 am. The man states that he is meeting a friend to discuss some
+  work and that the man is up at odd hours because he works the graveyard
+  shift. The officer asks him to exit the vehicle and asks to do a search of
+  his person. The man agrees and is searched. His vehicle is search as well.
+  The male seems to have something lodged in his upper inside lip and when the
+  officer questions him about it, he 'shows' the officer that he has
+  cottonmouth from a prescription. The eagle-eyed officer spots several crack
+  rocks and the officers are forced to briefly wrestle with the man.
+- Officer Conrad Stumpenhaus and Sgt. Darrel Bergquist of the Kansas City,
+  Missouri Police Department stop a green minivan that has a license plate that
+  indicates the driver has a warrant. They initially spotted a sticker in the
+  back window that indicated the vehicle's plates were stolen. The driver
+  explains the van belongs to his Uncle Gene. He is detained during the
+  investigation. The passenger is also detained. A search of the vehicle turns
+  up a baggie of drugs in a baby wipes box. The driver tells the officers the
+  wipes belong to his sister. The man is upset because he claims he is trying
+  to stay straight. While placing the men into the paddywagon, the officers
+  locate a baggie of coke in the older man's wallet. He denies that the drugs
+  are his and the officers tell him he is living by the statement on his shirt
+  -- “I Don't Look For Trouble, It Finds Me”
+- FTO Glen Anderson of the Rialto, CA Police Department assists SCAT after the
+  team received information that a parolee has dope on his property. The
+  officers move in and detain the male suspect. Soon after, they spot a baggie
+  of dope just as the informant said. Detective Aaron Vigil admonishes the man
+  for his behavior and talks to him about the length of time he has been making
+  the same mistakes. The man's wife comes outside and is shown the drugs and
+  becomes emotional when the officers tell her that there is no future in what
+  her husband is caught up in and that she needs to protect herself and her
+  children. The woman appreciates the kind words and tells FTO Anderson he is
+  the first officer to ever speak to her so frankly. Detective Vigil searches
+  the property and finds a loaded handgun in a refrigerator. When confronted
+  with the gun, the male suspect denies knowledge of it but is told he is
+  looking at life as this is his 'third strike' under California law.
 
 ## CP-2018
 
@@ -17143,9 +17303,34 @@ Aired 2008-05-17.
 
 **Stupid Criminals 4 Special Edition**
 
-- (Portland, OR -- 7:14 PM Suspicious Vehicle) Police Bureau East Precinct CRU -- Officer Mark DeLong & Officer Anthony Passadore stop a vehicle for a traffic violation. The occupants are asked for identification and the front seat passenger accidentally reveals a large ziplock bag of ecstasy pills. The three men are taken into custody and questioned about the drugs. The front seat passenger claims he bought the 700 pills for $100 at a store when a stranger approached him. The driver claims that the pills were delivered to their home and he pitched in $250. Both men are charged for the crime.
-- (Las Vegas, NV -- 1:35 AM Stabbing Call) Metropolitan P.D. Downtown Area Command -- Sgt. Mark Perry responds to a stabbing call at a local apartment complex. Dispatch tells officers in route that the suspect is believed to be hiding in a laundry room. After Perry and several other officers arrive, they make their way to the small laundry room and make a cursory search and discover the young male suspect hiding in a dryer. The man is taken into custody without further incident. The emotional 18 year old suspect explains that tonight was the 'worst night of his life'.
-- (Sacramento, CA -- 9:19 PM Officer Assistance) Police Department -- K-9 Officer Ron Chesterman responds to a call of a car chase that has turned into a foot pursuit. The suspect apparently stole a vehicle earlier in the day. Chesterman hopes that he can assist with the apprehension of the suspect with his dog, Max. They arrive at the perimeter and talk to a female witness who states a white male came into her backyard and asked for help in eluding the cops. Her son told the man to leave and he did. Soon after, officers track the suspect to a rooftop where another K-9 has cornered the man. The suspect is cuffed so it takes several officers to get him off of the roof of the residence. As the man was bitten by the dog, medical is called to tend to the man's injuries. Chesterman indicates the man stole two vehicles. The owner of the second car identifies the man as the suspect.
+- (Portland, OR -- 7:14 PM Suspicious Vehicle) Police Bureau East Precinct CRU
+  -- Officer Mark DeLong & Officer Anthony Passadore stop a vehicle for a
+  traffic violation. The occupants are asked for identification and the front
+  seat passenger accidentally reveals a large ziplock bag of ecstasy pills. The
+  three men are taken into custody and questioned about the drugs. The front
+  seat passenger claims he bought the 700 pills for $100 at a store when a
+  stranger approached him. The driver claims that the pills were delivered to
+  their home and he pitched in $250. Both men are charged for the crime.
+- (Las Vegas, NV -- 1:35 AM Stabbing Call) Metropolitan P.D. Downtown Area
+  Command -- Sgt. Mark Perry responds to a stabbing call at a local apartment
+  complex. Dispatch tells officers in route that the suspect is believed to be
+  hiding in a laundry room. After Perry and several other officers arrive, they
+  make their way to the small laundry room and make a cursory search and
+  discover the young male suspect hiding in a dryer. The man is taken into
+  custody without further incident. The emotional 18 year old suspect explains
+  that tonight was the 'worst night of his life'.
+- (Sacramento, CA -- 9:19 PM Officer Assistance) Police Department -- K-9
+  Officer Ron Chesterman responds to a call of a car chase that has turned into
+  a foot pursuit. The suspect apparently stole a vehicle earlier in the day.
+  Chesterman hopes that he can assist with the apprehension of the suspect with
+  his dog, Max. They arrive at the perimeter and talk to a female witness who
+  states a white male came into her backyard and asked for help in eluding the
+  cops. Her son told the man to leave and he did. Soon after, officers track
+  the suspect to a rooftop where another K-9 has cornered the man. The suspect
+  is cuffed so it takes several officers to get him off of the roof of the
+  residence. As the man was bitten by the dog, medical is called to tend to the
+  man's injuries. Chesterman indicates the man stole two vehicles. The owner of
+  the second car identifies the man as the suspect.
 
 ## CP-2020
 
@@ -17153,7 +17338,31 @@ Aired 2008-03-08.
 
 **Coast to Coast 138**
 
-- (Portland, OR -- 5:50 PM Suspicious Activity) Police Bureau Central Precinct SCU -- Officer Brian Hubbard and Officer Jim McMurray of the Portland, OR Police Bureau survey a bench that has a reputation for drug transactions. As if on cue, an older man arrives and a transaction is conducted. The older man is arrested and drugs are found on his person. The dealer is arrested and he pleads with officers to give his money to his pregnant girlfriend. The man explains that as bad as it sounds, he was only trying to provide for his family. The woman is told by the officers that Portland has many social programs and she should sign up if not for herself than for her unborn child. Deputy Adam Wilkinson of the Leon County FL Sheriff's Office stops a vehicle that is seen driving erratically. The driver is taken out of the truck and the eagle eyed deputy notices that the driver seems to be intoxicated. He cuffs the man up and orders the passenger out of the truck. The driver tells the deputy he has a gun in the car and that he has been drinking. A search of the man's pockets turns up a weed pipe and the man breaks down and cries when he realizes the gravity of his situation. A DUI enforcement officer is called to the scene and the man fails a sobriety test. Officer Chuck Fink of the Cincinnati, OH Police Department responds to a fight in progress in a parking lot. At the scene, officers have several men detained and have recovered a handgun. The first male explains that he was visiting the mother of his children to purchase milk for his sons when the woman's current beau showed up and started a fight. His friend attempted to get him in the car to take him away, but several men jumped in and tried to pull him back out. The friend (who claims to have a CCW permit) pulled a gun. The current boyfriend tells Fink that the man is nothing but trouble.
+- (Portland, OR -- 5:50 PM Suspicious Activity) Police Bureau Central Precinct
+  SCU -- Officer Brian Hubbard and Officer Jim McMurray of the Portland, OR
+  Police Bureau survey a bench that has a reputation for drug transactions. As
+  if on cue, an older man arrives and a transaction is conducted. The older man
+  is arrested and drugs are found on his person. The dealer is arrested and he
+  pleads with officers to give his money to his pregnant girlfriend. The man
+  explains that as bad as it sounds, he was only trying to provide for his
+  family. The woman is told by the officers that Portland has many social
+  programs and she should sign up if not for herself than for her unborn child.
+- Deputy Adam Wilkinson of the Leon County FL Sheriff's Office stops a vehicle
+  that is seen driving erratically. The driver is taken out of the truck and
+  the eagle eyed deputy notices that the driver seems to be intoxicated. He
+  cuffs the man up and orders the passenger out of the truck. The driver tells
+  the deputy he has a gun in the car and that he has been drinking. A search of
+  the man's pockets turns up a weed pipe and the man breaks down and cries when
+  he realizes the gravity of his situation. A DUI enforcement officer is called
+  to the scene and the man fails a sobriety test.
+- Officer Chuck Fink of the Cincinnati, OH Police Department responds to a
+  fight in progress in a parking lot. At the scene, officers have several men
+  detained and have recovered a handgun. The first male explains that he was
+  visiting the mother of his children to purchase milk for his sons when the
+  woman's current beau showed up and started a fight. His friend attempted to
+  get him in the car to take him away, but several men jumped in and tried to
+  pull him back out. The friend (who claims to have a CCW permit) pulled a gun.
+  The current boyfriend tells Fink that the man is nothing but trouble.
 
 ## CP-2021
 
@@ -17161,7 +17370,33 @@ Aired 2008-05-07.
 
 **What Were They Thinking 1 Special Edition**
 
-- (Portland, OR -- 4:55 PM Hit and Run Call) Police Bureau East Precinct -- Officer Jennifer Hertzler is dispatched to the scene of a hit and run. After locating the abandoned vehicle of the suspect, officers search the area and with the help of a K-9 Unit are able to find the suspect hiding in a shed. He is quickly detained and questioned about the incident. Witnesses are questioned and the suspect is taken to jail. (Las Vegas, NV -- 1:34 AM Traffic Stop) Metropolitan P.D. South Central Area Command -- Officer Matt Ginnow stops a bicyclist. As he begins to question the man and a loud noise is heard down the street. The officer rushes around the corner and spots a truck that has somehow driven up onto the curb and slammed into a fire hydrant and some vegetation. The officer rushes to his patrol car and follows the vehicle down the street. The officer temporarily loses the truck, but finds it parked in a covered parking spot at an apartment complex. There is damage indicative of the incident the officer witnessed but no one is in or around the truck. As the officer drives away, he sees a female headed towards the truck. He asks the woman if she knows anything about the vehicle and she's claims she was not driving. She tells the officer her friend was behind the wheel and that her friend has left on foot. (Leon County FL -- 11:59 PM Traffic Stop) Sheriff's Office -- Deputy Mike Punausuia makes a traffic stop. The driver explains that he was looking for a friends house and was going to make a lane change when he spotted the deputy behind him. He questions the driver and asks if he may search the vehicle. The suspect reluctantly allows the search. A small amount of marijuana was found. After a further more in depth search of the trunk, a brick of marijuana, cocaine and ecstasy pills were found. He is arrested and taken to jail.
+- (Portland, OR -- 4:55 PM Hit and Run Call) Police Bureau East Precinct --
+  Officer Jennifer Hertzler is dispatched to the scene of a hit and run. After
+  locating the abandoned vehicle of the suspect, officers search the area and
+  with the help of a K-9 Unit are able to find the suspect hiding in a shed. He
+  is quickly detained and questioned about the incident. Witnesses are
+  questioned and the suspect is taken to jail.
+- (Las Vegas, NV -- 1:34 AM Traffic Stop) Metropolitan P.D. South Central Area
+  Command -- Officer Matt Ginnow stops a bicyclist. As he begins to question
+  the man and a loud noise is heard down the street. The officer rushes around
+  the corner and spots a truck that has somehow driven up onto the curb and
+  slammed into a fire hydrant and some vegetation. The officer rushes to his
+  patrol car and follows the vehicle down the street. The officer temporarily
+  loses the truck, but finds it parked in a covered parking spot at an
+  apartment complex. There is damage indicative of the incident the officer
+  witnessed but no one is in or around the truck. As the officer drives away,
+  he sees a female headed towards the truck. He asks the woman if she knows
+  anything about the vehicle and she's claims she was not driving. She tells
+  the officer her friend was behind the wheel and that her friend has left on
+  foot.
+- (Leon County FL -- 11:59 PM Traffic Stop) Sheriff's Office -- Deputy Mike
+  Punausuia makes a traffic stop. The driver explains that he was looking for a
+  friends house and was going to make a lane change when he spotted the deputy
+  behind him. He questions the driver and asks if he may search the vehicle.
+  The suspect reluctantly allows the search. A small amount of marijuana was
+  found. After a further more in depth search of the trunk, a brick of
+  marijuana, cocaine and ecstasy pills were found. He is arrested and taken to
+  jail.
 
 ## CP-2022
 
@@ -17169,7 +17404,33 @@ Aired 2007-12-15.
 
 **Family Feuds Special Edition**
 
-- (Portland, OR -- 11:36 PM Officer Assistance Call) Officer Mark DeLong and Officer Anthony Passadore of the Portland Police Bureau assist another officer that had stopped a stolen vehicle and had the driver bail on foot. Two female occupants are in custody when the officers arrive and a K-9 unit is on scene to help with the track. The dog picks up the scent and the male driver is located hiding on the ground next to a several dumpsters. The man is taken in to custody and questioned. He initially states he was in the area to smoke weed but finally admits to bailing from the vehicle during the stop. The suspect is on parole and cooperates with the officers, but is told he will be charged with alluding and being in possession of a stolen vehicle along with whatever his PO violates him with. Officer Curtis Lawrance of the Las Vegas Metropolitan Police Department arrives on scene to back up another officer involved in a foot chase with a DV suspect. The suspect is found by a K-9 hiding behind a wall and bushes and is taken into custody. The original responding officer tells other officers how he had to break the man's truck window to try and pull him out of the car during the call and the man squirmed out and ran away. Although the suspect was obviously attempting to elude officers, he claims he was not running and was trying to resolve the issue. Deputy Dan Roufa of the Leon County Sheriff's Office responds to a domestic violence call at an address that has been the subject of numerous prior visits by the authorities. A neighbor greets Roufa and explains that he called because the two combatants -- brothers -- were raising such a fuss he thought they were going to kill each other. Both brothers have visible injuries and are questioned. Neither brother wants to press charges and Doc, who has a bloody face tells Deputy Roufa that he is drunk and fell on the coffee table. (Aired at 8:30pm)
+- (Portland, OR -- 11:36 PM Officer Assistance Call) Officer Mark DeLong and
+  Officer Anthony Passadore of the Portland Police Bureau assist another
+  officer that had stopped a stolen vehicle and had the driver bail on foot.
+  Two female occupants are in custody when the officers arrive and a K-9 unit
+  is on scene to help with the track. The dog picks up the scent and the male
+  driver is located hiding on the ground next to a several dumpsters. The man
+  is taken in to custody and questioned. He initially states he was in the area
+  to smoke weed but finally admits to bailing from the vehicle during the stop.
+  The suspect is on parole and cooperates with the officers, but is told he
+  will be charged with alluding and being in possession of a stolen vehicle
+  along with whatever his PO violates him with.
+- Officer Curtis Lawrance of the Las Vegas Metropolitan Police Department
+  arrives on scene to back up another officer involved in a foot chase with a
+  DV suspect. The suspect is found by a K-9 hiding behind a wall and bushes and
+  is taken into custody. The original responding officer tells other officers
+  how he had to break the man's truck window to try and pull him out of the car
+  during the call and the man squirmed out and ran away. Although the suspect
+  was obviously attempting to elude officers, he claims he was not running and
+  was trying to resolve the issue.
+- Deputy Dan Roufa of the Leon County Sheriff's Office responds to a domestic
+  violence call at an address that has been the subject of numerous prior
+  visits by the authorities. A neighbor greets Roufa and explains that he
+  called because the two combatants -- brothers -- were raising such a fuss he
+  thought they were going to kill each other. Both brothers have visible
+  injuries and are questioned. Neither brother wants to press charges and Doc,
+  who has a bloody face tells Deputy Roufa that he is drunk and fell on the
+  coffee table. (Aired at 8:30pm)
 
 ## CP-2023
 
@@ -17177,7 +17438,41 @@ Aired 2008-04-19.
 
 **In Denial Special Edition**
 
-- (Portland, OR -- 7:20 PM Possible Drug Activity) Police Bureau East Precinct CRU -- Officer Rob Brown & Officer Anthony Passadore stop a vehicle that is wanted in connection with a drug operation taking place. A confidential informant told officers that the vehicle makes deliveries and should be full of drugs. When the car is pulled over and contact is made with the driver, officers immediately detect the odor of cocaine in the vehicle and pull the driver out to be detained subject to arrest. A drug sniffing dog is brought to the scene and hits on the center console. Officers begin removing panels and find a large quantity of cocaine and money. The officers explain that the man must be a runner for the drugs, taking the cocaine to buyers in whatever quantity he is told. Several cell phones, money and powder and rock cocaine is seized from the vehicle. The driver is arrested and the vehicle is towed. Kansas City, MO Police Department -- Officer Michael Sartain and Officer Conrad Stumpenhaus are dispatched to an alley in which a male is shooting off rounds from a firearm. A female witness tells the officers that the young man ran up the alley when they approached the area. The two officers spot a man matching the description standing in the alley. They detain the man and immediately spot the handgun as well locate marijuana on his person. The suspect tells the officers that a black male sold him the gun for twenty bucks just a few minutes ago and that he has never even fired the weapon. When questioned further about the seller, he has difficulty giving a description. The officers admonish the young man for his behavior and discuss their options for arrest. They have the female witness identify the man (which she does) and the officers explain that she will be subpoenaed to court to id the young man. The man is arrested for discharging the firearm as well as for drugs and paraphernalia. Las Vegas, NV Metropolitan Police Department -- Officer Peter Connell assists another officer on a flag down call. A male with obvious injuries told the officer that three men beat him up over the ownership of a bed. The three male suspects tell the officers that they were attempting to retrieve the bed when the victim started a fight and it was only when he began to lose the fight that he decided to call officers to settle the dispute. When the victim is told that he started the fight, he climbs from the ambulance and attempts to walk away. Officer Connell tells the man that he will write down everyone's story and that detectives would sort things out.
+- (Portland, OR -- 7:20 PM Possible Drug Activity) Police Bureau East Precinct
+  CRU -- Officer Rob Brown & Officer Anthony Passadore stop a vehicle that is
+  wanted in connection with a drug operation taking place. A confidential
+  informant told officers that the vehicle makes deliveries and should be full
+  of drugs. When the car is pulled over and contact is made with the driver,
+  officers immediately detect the odor of cocaine in the vehicle and pull the
+  driver out to be detained subject to arrest. A drug sniffing dog is brought
+  to the scene and hits on the center console. Officers begin removing panels
+  and find a large quantity of cocaine and money. The officers explain that the
+  man must be a runner for the drugs, taking the cocaine to buyers in whatever
+  quantity he is told. Several cell phones, money and powder and rock cocaine
+  is seized from the vehicle. The driver is arrested and the vehicle is towed.
+- Kansas City, MO Police Department -- Officer Michael Sartain and Officer
+  Conrad Stumpenhaus are dispatched to an alley in which a male is shooting off
+  rounds from a firearm. A female witness tells the officers that the young man
+  ran up the alley when they approached the area. The two officers spot a man
+  matching the description standing in the alley. They detain the man and
+  immediately spot the handgun as well locate marijuana on his person. The
+  suspect tells the officers that a black male sold him the gun for twenty
+  bucks just a few minutes ago and that he has never even fired the weapon.
+  When questioned further about the seller, he has difficulty giving a
+  description. The officers admonish the young man for his behavior and discuss
+  their options for arrest. They have the female witness identify the man
+  (which she does) and the officers explain that she will be subpoenaed to
+  court to id the young man. The man is arrested for discharging the firearm as
+  well as for drugs and paraphernalia.
+- Las Vegas, NV Metropolitan Police Department -- Officer Peter Connell assists
+  another officer on a flag down call. A male with obvious injuries told the
+  officer that three men beat him up over the ownership of a bed. The three
+  male suspects tell the officers that they were attempting to retrieve the bed
+  when the victim started a fight and it was only when he began to lose the
+  fight that he decided to call officers to settle the dispute. When the victim
+  is told that he started the fight, he climbs from the ambulance and attempts
+  to walk away. Officer Connell tells the man that he will write down
+  everyone's story and that detectives would sort things out.
 
 ## CP-2024
 
@@ -17185,7 +17480,36 @@ Aired 2008-02-16.
 
 **Chases and Takedowns Special Edition**
 
-- (Portland, OR -- 8:59 PM Suspicious Activity) Police Bureau Central Precinct -- Officer Bill Shaw and Officer Matt Delenikos spot a 'hand to hand' drug transaction taking pace. When the dealer (a man known to the officers) sees the police, he drinks water in an attempt swallow dope in his mouth. The man is taken to the ground and two baggies are recovered. The man claims he just got out and was just trying to make rent. Talking frankly with the officers, he claims that he has given up on life and decided that selling drugs was as good as it gets for him. The officers' council the man to get his life together and even go as far as giving the man their cards for further support. They encourage the man and tell him that life isn't over for him yet. Officer Alan Edwards of the Spokane, WA Police Department is dispatched to a possible 'prowler' call. A caller spotted a man slinking around the area. Officer Edwards spots the man that matches the neighbor's description and when he tries to stop the man, the male takes off on foot. Several neighbors assist the officer and take the suspect into custody. The man ran from another officer earlier. The suspect claims he went to the wrong address because he is intoxicated and that is why he was running from officers. Officer Edwards explains that the man has several warrants and questions why the man would run from the police. Edwards expresses his appreciation for the help he received in apprehending the suspect by the civilians in the area. Deputy Dan Roufa of the Leon County FL Sheriff's Office runs a tag that come back stolen. He follows the vehicle at a distance and watches as the driver bails out and runs into a wooded area. With the help of a K-9, he apprehends the young man. A search of the vehicle turns up a drug scale. The suspect has a large amount of cash on his person and tells the deputies that he was given the car by a friend. He refuses to give up his friend and tells the deputies he gave up because he didn't want to get bit by the dog. Deputies explain that by being vigilant and running tags, sometimes you find stolen cars. The suspect is arrested for grand theft auto.
+- (Portland, OR -- 8:59 PM Suspicious Activity) Police Bureau Central Precinct
+  -- Officer Bill Shaw and Officer Matt Delenikos spot a 'hand to hand' drug
+  transaction taking pace. When the dealer (a man known to the officers) sees
+  the police, he drinks water in an attempt swallow dope in his mouth. The man
+  is taken to the ground and two baggies are recovered. The man claims he just
+  got out and was just trying to make rent. Talking frankly with the officers,
+  he claims that he has given up on life and decided that selling drugs was as
+  good as it gets for him. The officers' council the man to get his life
+  together and even go as far as giving the man their cards for further
+  support. They encourage the man and tell him that life isn't over for him
+  yet.
+- Officer Alan Edwards of the Spokane, WA Police Department is dispatched to a
+  possible 'prowler' call. A caller spotted a man slinking around the area.
+  Officer Edwards spots the man that matches the neighbor's description and
+  when he tries to stop the man, the male takes off on foot. Several neighbors
+  assist the officer and take the suspect into custody. The man ran from
+  another officer earlier. The suspect claims he went to the wrong address
+  because he is intoxicated and that is why he was running from officers.
+  Officer Edwards explains that the man has several warrants and questions why
+  the man would run from the police. Edwards expresses his appreciation for the
+  help he received in apprehending the suspect by the civilians in the area.
+- Deputy Dan Roufa of the Leon County FL Sheriff's Office runs a tag that come
+  back stolen. He follows the vehicle at a distance and watches as the driver
+  bails out and runs into a wooded area. With the help of a K-9, he apprehends
+  the young man. A search of the vehicle turns up a drug scale. The suspect has
+  a large amount of cash on his person and tells the deputies that he was given
+  the car by a friend. He refuses to give up his friend and tells the deputies
+  he gave up because he didn't want to get bit by the dog. Deputies explain
+  that by being vigilant and running tags, sometimes you find stolen cars. The
+  suspect is arrested for grand theft auto.
 
 ## CP-2025
 
@@ -17193,7 +17517,30 @@ Aired 2008-03-22.
 
 **Coast to Coast 139**
 
-- (Las Vegas, NV -- 1:36 AM Shooting Call) Metropolitan PD South Central Area Command -- Officer Aaron Fink responds to a possible shooting at a local hotel's parking garage. A perimeter is setup and the suspect's white car is spotted, but he slips away and drives off with officers in pursuit. Several other officers further down the road block the vehicle and eventually the shooting suspect is taken into custody. The suspect tells officers he didn't realize they were cops and was running because he thought he was going to get shot. A loaded clip is found on the suspect during the patdown. Officer Jeff McCullough and Officer Tony Meyer of the Spokane, WA Police Department are dispatched to an assault call involving a baseball bat. At the scene, the officers spot several men with injuries and separate the parties to conduct an investigation. The agitated men scream at each other and the officers have to further calm them down. One of the men with two large bumps on his head and a bloody face states that he was attacked by the younger man. The younger man states that he was only trying to defend himself. The young man explains that he was surrounded by several men and was hit several times by the older man when he fought back. When he ran down the street to call 911 he was struck in the head by a blunt object causing injury to his head. Officer Anthony Passadore and Officer Mark DeLong of the Portland Police Bureau stop a vehicle that has been flagged by a confidential informant as a delivery vehicle. The officers conduct a traffic stop and question the three occupants. After a brief interview, DeLong asks if a drug sniffing K-9 can check the truck for drugs and contraband to which the driver says yes. The officers find a large, fist-sized bag of cocaine under the passenger seat.
+- (Las Vegas, NV -- 1:36 AM Shooting Call) Metropolitan PD South Central Area
+  Command -- Officer Aaron Fink responds to a possible shooting at a local
+  hotel's parking garage. A perimeter is setup and the suspect's white car is
+  spotted, but he slips away and drives off with officers in pursuit. Several
+  other officers further down the road block the vehicle and eventually the
+  shooting suspect is taken into custody. The suspect tells officers he didn't
+  realize they were cops and was running because he thought he was going to get
+  shot. A loaded clip is found on the suspect during the patdown.
+- Officer Jeff McCullough and Officer Tony Meyer of the Spokane, WA Police
+  Department are dispatched to an assault call involving a baseball bat. At the
+  scene, the officers spot several men with injuries and separate the parties
+  to conduct an investigation. The agitated men scream at each other and the
+  officers have to further calm them down. One of the men with two large bumps
+  on his head and a bloody face states that he was attacked by the younger man.
+  The younger man states that he was only trying to defend himself. The young
+  man explains that he was surrounded by several men and was hit several times
+  by the older man when he fought back. When he ran down the street to call 911
+  he was struck in the head by a blunt object causing injury to his head.
+- Officer Anthony Passadore and Officer Mark DeLong of the Portland Police
+  Bureau stop a vehicle that has been flagged by a confidential informant as a
+  delivery vehicle. The officers conduct a traffic stop and question the three
+  occupants. After a brief interview, DeLong asks if a drug sniffing K-9 can
+  check the truck for drugs and contraband to which the driver says yes. The
+  officers find a large, fist-sized bag of cocaine under the passenger seat.
 
 ## CP-2026
 
@@ -17201,7 +17548,38 @@ Aired 2008-03-29.
 
 **Coast to Coast 140**
 
-- (Las Vegas, NV -- 3:22 AM Stolen Vehicle Call) Metropolitan P.D. Northeast Area Command -- Officer Josh Costello assists officers engaged in the pursuit of a stolen vehicle by deploying spike strips in the path of the suspect vehicle headed in his direction. The strips are designed to let the air out the tires slowly so that the driver does not lose control of the vehicle, but the vehicle will be more difficult to maneuver, allowing law enforcement officers to put an end to a dangerous chase. Officer Costello spots the vehicle that has been abandoned and sees the occupants running through yards. He climbs a fence and spots two females behind a shed. Several officers take the two women into custody and the women explain that the two male occupants continued east. K-9 tracks the suspects with the help of an air unit and the two men are taken into custody. Deputy Anthony Geraldi of the Leon County FL Sheriff's Office patrols a neighborhood that has had a rash of burglaries in the past month. He spots an occupied vehicle stopped on the roadside and decide to question the occupants. The male and female occupants explain that they are just parked there and were not aware that the vehicle was parked incorrectly. The deputy notes a smell of marijuana and asks the couple if there are any drugs in the car. He spots a substance covering the man's shorts that appears to be pot and asks both the driver and passenger to exit the vehicle. He asks both if there is any drugs in the car -- the man says no, but the owner of the car -- the female passenger -- states there is a roach in the ashtray. The deputy finds the roach but also locates crack cocaine and takes both suspects into custody. Officer Walt Kim of the Lansing, MI Police Department responds for the second time to a home where a domestic disturbance has been reported. On scene, Kim interviews a woman who states that her minor children were assaulted by her sister's deaf boyfriend. The man is taken into custody and eventually charged with the assault when a neighbor confirms that she saw the marks on the children's necks. The man is upset and his girlfriend vows to bail him out of jail. The woman also tells cops that they were assaulted by the mother of the children when she attacked them with bat.
+- (Las Vegas, NV -- 3:22 AM Stolen Vehicle Call) Metropolitan P.D. Northeast
+  Area Command -- Officer Josh Costello assists officers engaged in the pursuit
+  of a stolen vehicle by deploying spike strips in the path of the suspect
+  vehicle headed in his direction. The strips are designed to let the air out
+  the tires slowly so that the driver does not lose control of the vehicle, but
+  the vehicle will be more difficult to maneuver, allowing law enforcement
+  officers to put an end to a dangerous chase. Officer Costello spots the
+  vehicle that has been abandoned and sees the occupants running through yards.
+  He climbs a fence and spots two females behind a shed. Several officers take
+  the two women into custody and the women explain that the two male occupants
+  continued east. K-9 tracks the suspects with the help of an air unit and the
+  two men are taken into custody.
+- Deputy Anthony Geraldi of the Leon County FL Sheriff's Office patrols a
+  neighborhood that has had a rash of burglaries in the past month. He spots an
+  occupied vehicle stopped on the roadside and decide to question the
+  occupants. The male and female occupants explain that they are just parked
+  there and were not aware that the vehicle was parked incorrectly. The deputy
+  notes a smell of marijuana and asks the couple if there are any drugs in the
+  car. He spots a substance covering the man's shorts that appears to be pot
+  and asks both the driver and passenger to exit the vehicle. He asks both if
+  there is any drugs in the car -- the man says no, but the owner of the car --
+  the female passenger -- states there is a roach in the ashtray. The deputy
+  finds the roach but also locates crack cocaine and takes both suspects into
+  custody.
+- Officer Walt Kim of the Lansing, MI Police Department responds for the second
+  time to a home where a domestic disturbance has been reported. On scene, Kim
+  interviews a woman who states that her minor children were assaulted by her
+  sister's deaf boyfriend. The man is taken into custody and eventually charged
+  with the assault when a neighbor confirms that she saw the marks on the
+  children's necks. The man is upset and his girlfriend vows to bail him out of
+  jail. The woman also tells cops that they were assaulted by the mother of the
+  children when she attacked them with bat.
 
 ## CP-2027
 
@@ -17209,7 +17587,35 @@ Aired 2008-02-02.
 
 **Stupid Behavior 1 Special Edition**
 
-- (Pomona, CA -- 10:42 PM Pursuit in Progress) Pomona Police Department -- Officer Shaun Diamond assists Chief Joe Romero in the pursuit of a 'g ride' (stolen vehicle) driven by a parolee at large. The pursuit winds through Pomona and ends abruptly when the van clips a taxi cab in an intersection, rolling the van on its side and literally wrapping the cab around a steel traffic pole. The suspect is taken into custody and the taxi driver is transported to a hospital for his injuries. The Chief explains that he picked up the pursuit after hearing of a neighboring agency losing the suspect in an early chase. Officer Wendy Osborn of the Lansing, MI Police Department patrols a park near several businesses that has a lot of foot traffic. She spots a vehicle parked in the area that is closed for business. There is a male and female in the truck that both claim not to know they aren't supposed to be in the park after hours. The male passenger doesn't have any ID and gives a strange spelling for his name and cannot remember his age. The female driver hands Osborn something with her name on it for verification. The passenger seems agitated at the inquiry and is taken into protective custody because he is unable to provide the officers any ID and gives several different birth dates. The driver claims she was headed to a chicken eatery and spotted her co-worker walking down the street and picked him up. The woman tells officers her husband would be very upset if he knew she was parked in the park. Officer Chris Kennedy of the Las Vegas, NV Metropolitan Police Department spots a male walking down the street and decides to talk to him. The man tells Kennedy that he has felony convictions for “gaming”. He explains that he used a quarter on a string to fool slot machines and gamble on them. When Kennedy asks to pat the man down, he shows his wallet and a wallet he claims he just found at the bus stop. The man talks at length about karma and how he believes strongly in that concept. The man admits he took the money out of the wallet but was planning on giving it to the police.
+- (Pomona, CA -- 10:42 PM Pursuit in Progress) Pomona Police Department --
+  Officer Shaun Diamond assists Chief Joe Romero in the pursuit of a 'g ride'
+  (stolen vehicle) driven by a parolee at large. The pursuit winds through
+  Pomona and ends abruptly when the van clips a taxi cab in an intersection,
+  rolling the van on its side and literally wrapping the cab around a steel
+  traffic pole. The suspect is taken into custody and the taxi driver is
+  transported to a hospital for his injuries. The Chief explains that he picked
+  up the pursuit after hearing of a neighboring agency losing the suspect in an
+  early chase.
+- Officer Wendy Osborn of the Lansing, MI Police Department patrols a park near
+  several businesses that has a lot of foot traffic. She spots a vehicle parked
+  in the area that is closed for business. There is a male and female in the
+  truck that both claim not to know they aren't supposed to be in the park
+  after hours. The male passenger doesn't have any ID and gives a strange
+  spelling for his name and cannot remember his age. The female driver hands
+  Osborn something with her name on it for verification. The passenger seems
+  agitated at the inquiry and is taken into protective custody because he is
+  unable to provide the officers any ID and gives several different birth
+  dates. The driver claims she was headed to a chicken eatery and spotted her
+  co-worker walking down the street and picked him up. The woman tells officers
+  her husband would be very upset if he knew she was parked in the park.
+- Officer Chris Kennedy of the Las Vegas, NV Metropolitan Police Department
+  spots a male walking down the street and decides to talk to him. The man
+  tells Kennedy that he has felony convictions for “gaming”. He explains that
+  he used a quarter on a string to fool slot machines and gamble on them. When
+  Kennedy asks to pat the man down, he shows his wallet and a wallet he claims
+  he just found at the bus stop. The man talks at length about karma and how he
+  believes strongly in that concept. The man admits he took the money out of
+  the wallet but was planning on giving it to the police.
 
 ## CP-2028
 
@@ -17217,7 +17623,41 @@ Aired 2008-05-31.
 
 **Coast to Coast 141**
 
-- (Portland, OR -- 4:30 PM Narcotics Activity) Officer Matt Miller, Officer Mark Friedman and Officer Chris Lindsey of the Portland Police Bureau survey a corner known for drug activity. The officers see a female making a deal for what appears to be crack cocaine. The officers move in and detain the female. The woman makes an attempt to swallow the drugs and after a brief struggle with officers, spits the crack onto the ground. The officers explain that they don't want her to swallow the drugs because it could make her sick or even die. The woman looses her contacts during the struggle. The woman explains that she is trying to make ends meet by selling drugs because she just broke up with her boyfriend. Deputy Travis Dykes of the Martin County FL Sheriff's Office conducts a traffic strop on vehicle with an improperly displayed tag. The owner comes back as being previously suspended and the Deputy questions her regarding her status. During the investigation, Sgt. Bill Dowdy spots materials that appear to be connected to a recent burglary of a business. The female driver quietly admits that her male passenger must have done the burglary as she witnessed him selling some of the goods the previous night. She, on the other hand, does not have any knowledge of the crime. The male suspect claims no knowledge of the burglary and another female passenger urges him to come clean about his accomplice in the heist. When the man continues to deny involvement, the deputies arrest him on suspicion of burglary and possession of stolen goods. Officer Joe Patton of the Las Vegas, NV Metropolitan Police Department is dispatched to a shooting call. On scene, the 24 year old victim exhibits a close range bullet wound. He states that he was at a tattoo parlor when he was approached by several Latin males wearing gang colors and apparel. After a scuffle, he claims one of the Latin males attempted to shoot him in the head. He deflected the gun and was wounded in the hand. Later, a witness claims the man was arguing with his brother and shot himself in the hand and then proceeded to make up the story in order to not get into trouble for his actions. The victim is told that he is in no danger of being arrested for his actions and confesses that he shot himself. His brother admits that this took place as well and claims his brother has a history of suicidal behavior. The officers tell the man's brother that hopefully the victim will receive help for his illness.
+- (Portland, OR -- 4:30 PM Narcotics Activity) Officer Matt Miller, Officer
+  Mark Friedman and Officer Chris Lindsey of the Portland Police Bureau survey
+  a corner known for drug activity. The officers see a female making a deal for
+  what appears to be crack cocaine. The officers move in and detain the female.
+  The woman makes an attempt to swallow the drugs and after a brief struggle
+  with officers, spits the crack onto the ground. The officers explain that
+  they don't want her to swallow the drugs because it could make her sick or
+  even die. The woman looses her contacts during the struggle. The woman
+  explains that she is trying to make ends meet by selling drugs because she
+  just broke up with her boyfriend.
+- Deputy Travis Dykes of the Martin County FL Sheriff's Office conducts a
+  traffic strop on vehicle with an improperly displayed tag. The owner comes
+  back as being previously suspended and the Deputy questions her regarding her
+  status. During the investigation, Sgt.  Bill Dowdy spots materials that
+  appear to be connected to a recent burglary of a business. The female driver
+  quietly admits that her male passenger must have done the burglary as she
+  witnessed him selling some of the goods the previous night. She, on the other
+  hand, does not have any knowledge of the crime. The male suspect claims no
+  knowledge of the burglary and another female passenger urges him to come
+  clean about his accomplice in the heist.  When the man continues to deny
+  involvement, the deputies arrest him on suspicion of burglary and possession
+  of stolen goods.
+- Officer Joe Patton of the Las Vegas, NV Metropolitan Police Department is
+  dispatched to a shooting call. On scene, the 24 year old victim exhibits a
+  close range bullet wound.  He states that he was at a tattoo parlor when he
+  was approached by several Latin males wearing gang colors and apparel. After
+  a scuffle, he claims one of the Latin males attempted to shoot him in the
+  head. He deflected the gun and was wounded in the hand. Later, a witness
+  claims the man was arguing with his brother and shot himself in the hand and
+  then proceeded to make up the story in order to not get into trouble for his
+  actions. The victim is told that he is in no danger of being arrested for his
+  actions and confesses that he shot himself. His brother admits that this took
+  place as well and claims his brother has a history of suicidal behavior. The
+  officers tell the man's brother that hopefully the victim will receive help
+  for his illness.
 
 ## CP-2029
 
@@ -17225,7 +17665,37 @@ Aired 2008-07-12.
 
 **Coast to Coast 142**
 
-- (Martin County FL -- 11:40 PM Street Patrol) Sheriff's Office -- Deputy Donovan Hepler patrols a flea market that has been burglarized multiple times in the preceding weeks. Deputy Hepler immediately spots two males running away from the flea market and calls for assistance. Other deputies surround the area and one of the two men is detained and taken into custody around the corner. The male in custody helps deputies by describing his friend's clothing and giving them his name. A k-9 unit finds the other suspect and helps to detain him subject to arrest. Deputy Hepler explains what happened to his sergeant and asks the suspect why he was at the flea market. The suspect explains that he and his friend were trying to vandalize vending machines to make a little money. The K-9 Deputy explains that he let the dog loose when the suspect did not stop running. Sgt. Raymond Reyes of the Las Vegas Metropolitan Police Department assists on a traffic stop initiated by Officer Evan Rosenthal on a vehicle that is being driven by an ex felon. The driver is patted down and a baggie of drugs is located in his crotch area. The baggie is taken out and the officers find a variety of drugs. Sgt. Reyes finds a 9MM Glock handgun under the front seat and the suspect is informed that he is looking at a federal case as he is a felon in possession of a loaded gun, drugs and lots of cash. Deputy Carlos Lisboa of the Palm Beach County FL Sheriff's Office stops a vehicle for a moving violation. The driver tells the deputy he has never been arrested, but a driver's license check returns that he was arrested for a drug violation a few months prior. The passenger doesn't have ID and is not wearing a seatbelt. Everyone is asked to exit the vehicle for a search after Deputy Lisboa smells marijuana in the car. A marijuana pipe is found near the car and although the deputies did not witness anyone drop it, it matches another pipe found bundled under the passenger seat along with a felony amount of marijuana. No one admits to possession, but the passenger 'takes the blame'. Eventually, he admits it is his and that he did drop the pipe as well. The driver is told that he should pick his friends a little better in the future.
+- (Martin County FL -- 11:40 PM Street Patrol) Sheriff's Office -- Deputy
+  Donovan Hepler patrols a flea market that has been burglarized multiple times
+  in the preceding weeks. Deputy Hepler immediately spots two males running
+  away from the flea market and calls for assistance. Other deputies surround
+  the area and one of the two men is detained and taken into custody around the
+  corner. The male in custody helps deputies by describing his friend's
+  clothing and giving them his name. A k-9 unit finds the other suspect and
+  helps to detain him subject to arrest. Deputy Hepler explains what happened
+  to his sergeant and asks the suspect why he was at the flea market. The
+  suspect explains that he and his friend were trying to vandalize vending
+  machines to make a little money. The K-9 Deputy explains that he let the dog
+  loose when the suspect did not stop running.
+- Sgt. Raymond Reyes of the Las Vegas Metropolitan Police Department assists on
+  a traffic stop initiated by Officer Evan Rosenthal on a vehicle that is being
+  driven by an ex felon. The driver is patted down and a baggie of drugs is
+  located in his crotch area.  The baggie is taken out and the officers find a
+  variety of drugs. Sgt. Reyes finds a 9MM Glock handgun under the front seat
+  and the suspect is informed that he is looking at a federal case as he is a
+  felon in possession of a loaded gun, drugs and lots of cash.
+- Deputy Carlos Lisboa of the Palm Beach County FL Sheriff's Office stops a
+  vehicle for a moving violation. The driver tells the deputy he has never been
+  arrested, but a driver's license check returns that he was arrested for a
+  drug violation a few months prior. The passenger doesn't have ID and is not
+  wearing a seatbelt. Everyone is asked to exit the vehicle for a search after
+  Deputy Lisboa smells marijuana in the car. A marijuana pipe is found near the
+  car and although the deputies did not witness anyone drop it, it matches
+  another pipe found bundled under the passenger seat along with a felony
+  amount of marijuana. No one admits to possession, but the passenger 'takes
+  the blame'. Eventually, he admits it is his and that he did drop the pipe as
+  well. The driver is told that he should pick his friends a little better in
+  the future.
 
 ## CP-2030
 
@@ -17233,7 +17703,39 @@ Aired 2008-06-14.
 
 **What Were They Thinking 2 Special Edition**
 
-- (Palm Beach County FL -- 9:52 PM Armed Robbery Call) Deputy Mark Lanier responds to assist on the capture of an armed robbery suspect that has bolted into the woods. A K-9 unit tracks the suspect into the woods and quickly finds the man hiding under some brush. The suspect is taken into custody with the assistance of the K-9 and is brought out to the highway to be identified by the victims in the crime. The suspect is taken to paramedics to be treated for his wounds and deputies explain his charges. The suspect continues to proclaim his innocence, but the deputies explain that they have enough evidence to arrest him for the armed robbery -- his clothing matches the description given by the victims and he was identified on scene by the victims. Officer Aaron Fink of the Las Vegas Metropolitan Police Department responds to a call of a home invasion. The suspect broke into a female's house and called her up and told her he was waiting for her with a shotgun. When the officers converge on the scene, the female victim explains that the man has left the premises after spotting the officers en route. While the officers are interviewing the victim, she receives several calls from the suspect in the break-in. The officers clear the residence and head over to the suspect's home to question the suspect. The man is home and is placed in custody for his warrant. The man admits to going inside his girlfriend's house and calling her. He denies that he said he had a shotgun, but claims he was angry at the woman. The man claims that he was told to go to the house by his girlfriend, but the woman had already told officers she didn't contact the man. While the man is not being charged for tonight's incident, he is being taken in to deal with his warrant. Detective Aaron Vigil of the Rialto Police Department responds to a call of a man selling drugs out of a truck in a residential neighborhood. The man identified by the called has priors for murder. Officer Vigil makes contact with the occupants of the truck and spots a weed pipe in the center console. The driver states that he is on parole for involuntary manslaughter. Because of the nature of his parole the officers search his vehicle and turn up meth and a scale along with the marijuana pipe. The suspect insists he was smoking the weed but knows nothing of the meth.
+- (Palm Beach County FL -- 9:52 PM Armed Robbery Call) Deputy Mark Lanier
+  responds to assist on the capture of an armed robbery suspect that has bolted
+  into the woods. A K-9 unit tracks the suspect into the woods and quickly
+  finds the man hiding under some brush. The suspect is taken into custody with
+  the assistance of the K-9 and is brought out to the highway to be identified
+  by the victims in the crime. The suspect is taken to paramedics to be treated
+  for his wounds and deputies explain his charges. The suspect continues to
+  proclaim his innocence, but the deputies explain that they have enough
+  evidence to arrest him for the armed robbery -- his clothing matches the
+  description given by the victims and he was identified on scene by the
+  victims.
+- Officer Aaron Fink of the Las Vegas Metropolitan Police Department responds
+  to a call of a home invasion. The suspect broke into a female's house and
+  called her up and told her he was waiting for her with a shotgun.  When the
+  officers converge on the scene, the female victim explains that the man has
+  left the premises after spotting the officers en route. While the officers
+  are interviewing the victim, she receives several calls from the suspect in
+  the break-in. The officers clear the residence and head over to the suspect's
+  home to question the suspect. The man is home and is placed in custody for
+  his warrant. The man admits to going inside his girlfriend's house and
+  calling her. He denies that he said he had a shotgun, but claims he was angry
+  at the woman. The man claims that he was told to go to the house by his
+  girlfriend, but the woman had already told officers she didn't contact the
+  man. While the man is not being charged for tonight's incident, he is being
+  taken in to deal with his warrant.
+- Detective Aaron Vigil of the Rialto Police Department responds to a call of a
+  man selling drugs out of a truck in a residential neighborhood. The man
+  identified by the called has priors for murder. Officer Vigil makes contact
+  with the occupants of the truck and spots a weed pipe in the center console.
+  The driver states that he is on parole for involuntary manslaughter. Because
+  of the nature of his parole the officers search his vehicle and turn up meth
+  and a scale along with the marijuana pipe. The suspect insists he was smoking
+  the weed but knows nothing of the meth.
 
 ## CP-2031
 
@@ -17241,7 +17743,39 @@ Aired 2008-06-21.
 
 **Stupid Behavior 2 Special Edition**
 
-- (Las Vegas, NV -- 5:38 PM Stolen Vehicle Call) Metropolitan P.D. Downtown Area Command -- Officer Eric Solano is dispatched to a call of a stolen truck. The victim and his brother are following the stolen vehicle and as the officer catches up with the chase, he sees that the two trucks have wrecked and the suspect is leading the victims on a foot pursuit. Officer Solano drives ahead of the suspect and detains him. The man admits to driving the truck and admits that it isn't his, but seems to think that the owner and his brother caused more problems by crashing into him. The owner explains that he watched the man steal his truck and had to get out of the way when the man almost ran him over. The officers tell the owner that he is lucky to have gotten his vehicle back, even though it is wrecked. The suspect states that he is sorry for causing problems but insists he was running from the victims not the cops. Deputy Sean McMichael of the Palm Beach County Sheriff's Office spots a vehicle with dark tint puling into a parking lot. When the deputies approach the vehicle the immediately smell the distinct odor of marijuana. Both the driver and passenger deny that they have anything in the car, but a quick search of the passenger turns up several baggies of marijuana. The driver is found to be carrying a large amount of cash and after a search of the vehicle; the deputies locate several baggies of cocaine. The two men are arrested for distribution and intent to sell, even though they try to claim that the drugs found are for personal use. Officer Casey Clarkson of the Las Vegas Metropolitan Police Department responds to a call where the details are vague. The call comes out that a HMA is on foot running after taking a man's vehicle. The officers arrive and are directed by witnesses towards the foot pursuit. They arrive as the owner of the vehicle has captured the suspect. The suspect tells the officers he was trying to play a 'yoke' on the car owner. The car owner states that he was walking his date to the door and turned around only to see his vehicle was gone. He called dispatch and as he was talking the suspect drives back up with his car. When he confronted the suspect, the man ran away and he gave chase. The officer tells the lucky owner that from now on he might think about locking his vehicle when he is away from it.
+- (Las Vegas, NV -- 5:38 PM Stolen Vehicle Call) Metropolitan P.D. Downtown
+  Area Command -- Officer Eric Solano is dispatched to a call of a stolen
+  truck. The victim and his brother are following the stolen vehicle and as the
+  officer catches up with the chase, he sees that the two trucks have wrecked
+  and the suspect is leading the victims on a foot pursuit. Officer Solano
+  drives ahead of the suspect and detains him. The man admits to driving the
+  truck and admits that it isn't his, but seems to think that the owner and his
+  brother caused more problems by crashing into him. The owner explains that he
+  watched the man steal his truck and had to get out of the way when the man
+  almost ran him over. The officers tell the owner that he is lucky to have
+  gotten his vehicle back, even though it is wrecked. The suspect states that
+  he is sorry for causing problems but insists he was running from the victims
+  not the cops.
+- Deputy Sean McMichael of the Palm Beach County Sheriff's Office spots a
+  vehicle with dark tint puling into a parking lot. When the deputies approach
+  the vehicle the immediately smell the distinct odor of marijuana.  Both the
+  driver and passenger deny that they have anything in the car, but a quick
+  search of the passenger turns up several baggies of marijuana. The driver is
+  found to be carrying a large amount of cash and after a search of the
+  vehicle; the deputies locate several baggies of cocaine. The two men are
+  arrested for distribution and intent to sell, even though they try to claim
+  that the drugs found are for personal use.
+- Officer Casey Clarkson of the Las Vegas Metropolitan Police Department
+  responds to a call where the details are vague. The call comes out that a HMA
+  is on foot running after taking a man's vehicle. The officers arrive and are
+  directed by witnesses towards the foot pursuit. They arrive as the owner of
+  the vehicle has captured the suspect.  The suspect tells the officers he was
+  trying to play a 'yoke' on the car owner. The car owner states that he was
+  walking his date to the door and turned around only to see his vehicle was
+  gone. He called dispatch and as he was talking the suspect drives back up
+  with his car. When he confronted the suspect, the man ran away and he gave
+  chase. The officer tells the lucky owner that from now on he might think
+  about locking his vehicle when he is away from it.
 
 ## CP-2032
 
