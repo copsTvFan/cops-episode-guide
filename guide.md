@@ -7496,7 +7496,12 @@ Aired 1994-09-10.
   3am, the high felony hours and it is past curfew for kids, so if he sees 3-4
   of them outside he knows they are up to something. When he sees broken
   windows and hi-beams on cars he knows they are stolen, that's his forte.
-  Officers chase suspect with crossbow;  convenience-store drug deal.
+  Officers chase suspect with crossbow. Officer Jim Goodard.
+- (Indianapolis, IN -- 10:32 PM Suspicious Activity) Officer Tom Shaffer. 3
+  black males are suspected of selling drugs at Bar-B-Q Heaven, but actually
+  they are selling macadamia nuts.
+- (Indianapolis, IN -- 6:46 PM Accident Call) Deputy Mark Myler, Sgt. Mike
+  Himmel. Kids have fallen off the back of a pickup truck.
 
 ## CP-628
 
