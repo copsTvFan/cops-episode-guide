@@ -19998,11 +19998,23 @@ Aired 2022-10-14
 
 ## S34E06
 
-TODO
+Aired 2022-10-21
+
+**Gloves Off**
+
+- (Alameda County, CA -- 11:08 AM Stolen Vehicle) Alameda County Sheriff's Office Eden Township Substation -- Detective Mathew Neill and Detective Matthew Campi -- While traveling northbound on Hesperian Blvd near Springlake Drive in San Leandro, Detectives Neill and Campi come up behind a truck that has been reported stolen. They follow the truck and pull it over on Bancroft Avenue between 140th Avenue and 139th Avenue. They order the driver out of the truck at gunpoint. Deputy M. Ahern and others arrive to assist. While Deputy Ahern is about to put the suspect in the back of his car, the suspect says that he stole the truck. A search of the truck yields two meth pipes. When asked how he got the keys to the truck, he said that he found them in a shopping cart at a Walmart in Union City and found the truck in the parking lot. He's charged with vehicle theft and violating his probation which was also for vehicle theft.
+- (Las Vegas, NV -- 4:24 Assault Call) Las Vegas Metropolitan Police Department South Central Area Command -- Sergeant Greg Everett -- Sergeant Everett is heading to a massage parlor at 1030 East Desert Inn road where an alleged assault occurred. They find a man lying in a room with a bloody mouth. His wife is there as well. A search of the massage parlor ensues but no one is found. The man explains that he and the man who assaulted him operate a business together and got into an argument. They find the alleged assailant in an adjacent apartment building where he lives and take him into custody.
+- (Escambia County, FL -- 1:50 PM Traffic Stop) Escambia County Sheriff's Office Precinct 3 -- Deputy Matthew Keebler -- Deputy Keebler pulls over a truck for possible window tint violation. The truck has a female driver and a male passenger. The license plate on the truck belongs to a different vehicle. The passenger is detained because he has a warrant. A search of the truck reveals a stolen gun with a loaded clip that's hidden inside a glove. Deputy Keebler finds fingerprints on the clip. He arrests the passenger (John) for his warrant but doesn't charge him with possession of the gun. He tells John that he will check the fingerprints and if they belong to him he will write another warrant for him. The license plate is confiscated, Deputy Keebler says he'll reach out to the owner of the truck, and the female driver is released.
 
 ## S34E07
 
-TODO
+Aired 2022-10-28
+
+**A Family Affair**
+
+- (Richmond County, Georgia -- 10:32 Bicycle Pursuit) Richmond County Sheriff's Office North Station -- Deputy Stefan Hegg -- While driving northwest on Barnes Road in Augusta, Deputy Hegg notices a man on a bicycle with no light or helmet. The suspect turns southwest onto Memory Drive and begins to flee. He then turns off the road and rides between the houses at 220 and 222 Memory Drive. Deputy Hegg stops his car and begins pursuing the suspect on foot into a thick, wooded area behind the row of houses. He finds the suspect and detains him. Deputy Cordero Foster and others arrive to assist. They retrace his steps and look for drugs he may have jettisoned, but find none. The suspect claims that he fled because he didn't think Deputy Hegg was a cop and he was scared.
+- (Alameda County, CA -- 10:53 AM Traffic Stop) Alameda County Sheriff's Office Eden Township Substation -- Deputy Joshua Saide -- Deputy Saide see a car run a red light Vermont Street and B Street in Hayward and pulls it over at 22766 Vermont Street just north of Hill Ave. There is only one man in the car. He purports to be on probation. Deputy Saide sees what he believes to be meth in the center console. K-9 Deputy M. Tilley arrives to assist. They find a bullet in the suspect's pocket which he is not allowed to have because he is a convicted felon. They also find meth in the vehicle along with many items that indicate that children often ride in the car. The man is arrested and says that he has two young children. Deputy Saide implores him to get help for the sake of his family. His significant other arrives with their children in tow to get the car. Deputy Saide informs her that she has a warrant and urges her to take care of it ASAP.
+- (Charleston, WV -- 11:06 PM Traffic Stop) Charleston Police Department Patrol Division -- Patrolman Zach Cyrus -- Patrolman Cyrus notices a car chasing another car. On 26th Street West, just south of WV-25, he tells the driver who is chasing the other car to stay where they are and they stop. The car being chased turns west at 6th Avenue and pulls over. The female passenger of the car being chased (woman #1) is the sister of the woman (woman #2) in the car pursuing theirs. Woman #2 thought that her sister had gone missing and was concerned when she saw her car and gave chase. Woman #1 was not responding to woman #2 because she had learned that woman #2 had been with her ex-boyfriend.
 
 ## S34E08
 
