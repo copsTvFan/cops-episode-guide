@@ -10183,9 +10183,14 @@ Aired 1998-07-25.
   he's been on the force for six years and the best thing is the kids who wave
   to him when he drives by. He is just finished having dinner at a restaurant
   when he hears shots outside. He happens upon a liquor-store robbery in
-  progress. A woman embroiled in a domestic dispute hands Officer Fehl her
-  identification and, inadvertently, a marijuana cigarette. Officer Day sorts
-  out a domestic dispute involving twin sisters.
+  progress.
+- (Pasadena, TX -- 4:58 PM Assault In Progress Call) Officer Toni Fehl, Officer
+  Chris MacGregor. A woman embroiled in a domestic dispute hands Officer Fehl
+  her identification and, inadvertently, a marijuana cigarette.
+- (Corpus Christi, TX -- Roll Call) Sr. Officer Steven "Ricky" Day, Lt. David
+  Cook. (12:12 AM Disturbance Call) Officer Day and Sr. Officer Shawn McCamey
+  sort out a domestic dispute involving twin sisters Linda (aka Sunny) and
+  Skye.
 
 ## CP-1031
 
