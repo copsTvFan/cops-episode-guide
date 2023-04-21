@@ -20033,13 +20033,7 @@ Aired 2022-10-28
 
 ## S34E08
 
-Aired 2022-11-04
-
-**Fury Road**
-
-- (Hamilton County, TN - 1:14 AM Vehicle Pursuit) Hamilton County Sheriff's Office East Sector -- Deputy Jonathan Ray -- Deputy joins a vehicle pursuit (due to a tag violation) at the corner of Jersey Pike and Bonny Oaks Drive in Chattanooga. They follow the minivan southbound and turn east on Shallowford Road where the Tennessee Highway Patrol had deployed spike strips which successfully damages the suspect's tires. They proceed south on Gunbarrel Road and east on Goodwin Road where the suspect's car finally stops with at least half a dozen law enforcement vehicles in tow including Deputy Chris Masterson. The male driver says he fled because he has warrants. He's apologetic to the officers. His girlfriend Connie also has warrants. The two are arrested and taken into custody.
-- (Spokane County, WA - 10:45 PM Traffic Stop) Spokane County Sheriff's Office District 12 -- FTO Garrett Spencer -- Officer Spencer pulls over a vehicle because the registered owner has a suspended driver license. When asked, the male driver admits to having the suspended license. Officer Spencer searches the driver, finds meth in his pocket, and places him under arrest. He interviews the female passenger (Cheryl) and then searches the vehicle where he finds more meth. The driver is taken into custody and Cheryl and a dog are told they're free to leave.
-- (Grand Prairie, TX - 7:49 PM Traffic Stop) Grand Prairie Police Department South Sector -- Officer William Walden -- Officer Walden pulls a vehicle over in the parking lot of 651 S Great SW Parkway, Grand Prairie for driving on the wrong side of the road. While talking to the male driver, he notices a strong marijuana smell. While waiting for another officer to arrive, the front passenger proclaims his hatred for police. While searching the rear  passenger they find a vape pen in his pocket which the passenger says has THC; he's arrested. The front passenger is arrested for warrants and for marijuana that's found in the glove box. The driver is arrested for "P&P" (probation and parole,) driving with no license, but isn't charged with possession. 
+TODO
 
 ## S34E09
 
