@@ -20043,7 +20043,13 @@ Aired 2022-11-04
 
 ## S34E09
 
-TODO
+Aired 2022-11-11
+
+**Fixin' to Stop**
+
+- (Riverside County, CA - 6:28 PM Vehicle Check) Riverside County Sheriff's Department Perris Station -- Corporal Frank Price -- Corporal Price finds a possibly stolen vehicle at a gas station at the corner of Case Road and Ethanac Road in Perris. The vehicle is unoccupied and parked in front of a gas pump. Corporal Price tracks the passenger down at a nearby grocery store and detains him. Deputy Anthony Nunez assists in tracking down the driver. They pull him over and detain him at the corner of Ethanac Road and Green Valley Parkway. Deputy Mark Buelna arrives to assist. The truck was not stolen but it was cold plated. The passenger is released with no charges. The driver gives a hard luck story and is let go with a citation.
+- (Spokane Valley, WA - 9:30 PM Traffic Stop) Spokane Valley Police Department -- Deputy Stephan Blaakman -- Deputy Blaakman stops a car at the corner of North Willow Road and Sprague Avenue for having no license plate and a nonfunctional third brake light. The female driver says that the car may have belonged to an incarcerated individual but had been abandoned at someone's property and that she traded a couple of boat motors for it. The driver is detained. She reports that her boyfriend uses meth, but that she's been clean for a week. K-9 Deputy Tyler Kullman arrives to assist and detain the passenger. An open can of beer along with meth residue and drug paraphernalia is found in the car. The man is arrested for a warrant. Deputy Blaakman could arrest the woman for driving on a suspended license, but decides to write her a ticket instead.
+- (Escambia County, FL - 9:24 PM Traffic Stop) Escambia County Sheriff's Office High Intensity Patrol Unit -- Deputy Larry Richardson and Deputy Gabrielle Macool -- While traveling eastbound on Clay Street near North Q Street in Pensacola, Deputies Richardson and Macool spot a yellow mustang and decide to pull it over for a window tint violation. The driver refuses to stop. They turn north on North Pace Avenue, then southwest on Loretta Street. An object is thrown from the car at North P Street where Loretta Street combines with Kelly Avenue. The car stops as Kelly Avenue turns north. The male passenger gets out and runs. The female driver (Nicole) remains in the car saying that she has just met him. Many deputies including Sergeant Jay Frydrychowicz arrive to assist and the passenger (DeAndre) is detained in and around the houses east of Kelly Avenue near Hill Drive. He's arrested for fleeing and warrants. Nicole is arrested for fleeing and marijuana possession.
 
 ## S34E10
 
