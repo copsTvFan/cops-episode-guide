@@ -20081,6 +20081,43 @@ TODO
 
 Aired 2023-04-07.
 
-- (NYE County, NV -- 12:53 AM Vehicle Pursuit) Deputy Deon Ford, Captain David Boruchowitz, Deputy Sedrick Sweet.
-- (Las Vegas, NV -- 4:22 PM Vehicle Burglary) PO II Tyler Aleiwe, PO II B. Samuelson, Detective Josh Haynes.
+**Gate Crusher Pursuit**
+
+- (NYE County, NV -- 12:53 AM Vehicle Pursuit) Deputy Deon Ford, Captain David
+  Boruchowitz, Deputy Sedrick Sweet.
+- (Las Vegas, NV -- 4:22 PM Vehicle Burglary) PO II Tyler Aleiwe, PO II B.
+  Samuelson, Detective Josh Haynes.
 - (Colton, CA -- 10:05 PM Traffic Stop) Detective Anthony Jaeger.
+
+## S35E02
+
+Aired 2023-04-14.
+
+**Stolen Cycle Slingshot**
+
+- (Las Vegas, NV -- 5:26 PM Robbery Call) PO II Preston Quirt, PO II Nick
+  Morelli are en route a robbery. Sgt. Robert Johnson. Edward gets arrested for
+  robbery, burglary, and his warrant.
+- (Riverside County, CA -- 4:08 PM Buy Bust Sting) Deputy Patrick Walls, Deputy
+  Brian Remington, Deputy Dorien Hardie, Sgt. Brandi Swan.
+- (Escambia County, FL -- 8:14 PM Suspicious Vehicle) Deputy Chris Cull used to
+  be a firefighter. Deputy Katie Touchstone tells off a pregnant woman for
+  using heroin. Eric, the driver, is let go, while the woman is arrested for
+  possession of fentanyl.
+
+## S35E03
+
+Aired 2023-04-21.
+
+**Senior Stroll**
+
+- (Escambia County, FL -- 4:00 PM Traffic Stop) Deputy Chris Cull pulls over a
+  car. The passenger, Larry from Ohio (white male, white t-shirt), isn't
+  wearing a seatbelt and decides to run.
+- (Riverside County, CA -- 11:12 PM Stolen Vehicle) Deputy Francisco Reyes,
+  Corporal Ryan Morgan, Deputy German Miramontes. Devon is let go, while the
+  other suspect is arrested.
+- (Las Vegas, NV -- 4:26 PM Suspicious Activity) FTO Mike Johnson stops a male
+  (Joseph) and a female (Kirsten) who jumped a cinder block wall. They are
+  homeless and use drugs.  Both end up being arrested for possession of
+  methamphetamine. FTO Josh Lynn and Officer Jesus Lule assist.
