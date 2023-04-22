@@ -19332,6 +19332,8 @@ Aired 2009-12-12.
 
 2013-2014.
 
+Network: Spike.
+
 ## S26E01
 
 - (Stockton, CA -- 5:12 PM Fight in Progress) Stockton Police Department  -- "Community Response Team" -- Officer Jeffrey Pope responds to a fight in progress, and while trying to detain a man potentially involved, the man runs away from the officer and foot pursuit ensues. The man is quickly captured, arrested, and narcotics were recovered inside the sweater he was wearing.
@@ -19431,11 +19433,173 @@ TODO
 
 2014-2015.
 
+Network: Spike.
+
+## S27E01
+
+- (Lafayette, LA -- 10:47 PM Shots Fired Call) Officer Edward Alleman, Officer Asher Reaux. Corporal Brittney Dugas, Officer Jameson Jordan. Sgt. Shawn Terro.
+- (Palm Springs, CA -- 8:39 PM Welfare Check) Officer John Mejia, Officer Tom Beckert. Guy with mohawk gets kicked out.
+- (Glendale, AR -- 3:36 PM Traffic Stop) Officer Brian Osborne, Officer Brandon Roemmich.
+
+## S27E02
+
+- (Hillsborough County, FL -- 6:31 PM Disturbance Call) Deputy Jeremy House, Deputy Dominick J. DeSiato.
+- (Palm Springs, CA -- 10:29 PM Suspicious Activity) Officer Miguel Torres, Officer Richard Salomon.
+- (Glendale, AR -- 6:09 PM Shoplifting Call) Officer Jonathan Clubb, Officer Tara Mitchell, Officer Nat Newport.
+
+## S27E03
+
+- (Lafayette, LA -- 11:35 PM Possible Stolen Vehicle) Corporal Jeremy Dupuis, Corporal Jonathon Sanchez, Corporal Ross Sonnier, Officer Karl Ratcliff, Corporal Michael Milazzo, Sgt. Shawn Arwood, Detective Drew LeBlanc.
+- (Glendale, AR -- 12:05 PM Suspicious Person) Officer Nicholas Lively, Sgt. Aaron Aldridge, Officer Mark Schilling, Officer Travor D. Goode.
+- (Glendale, AR -- 6:44 PM Welfare Check) Officer John Rebholz, Officer Rod Veneraction.
+
+## S27E04
+
+- (Glendale, AR -- 2:57 PM Shoplifting Call) Officer Mark Lindsey, Officer Paul Lopez. Tackle in front of Kohl's.
+- (Lafayette, LA -- 12:52 AM Armed Robbery In Progress) Officer Edward Alleman, Corporal Jonathon Sanchez, Corporal Michael Milazzo.
+- (Nye County, NV -- 10:33 AM Custody Transfer) Deputy Alex Cox, Deputy Wes Fancher.
+
+## S27E05
+
+- (Glendale, AR -- 7:53 PM Suspicious Activity Call) Officer Tara Mitchell, Officer Jonathan Clubb, K-9 Officer Bryan Anderson, Officer Cody Howard, Sgt. Jeff Daukus, Officer Nat Newport.
+- (Palm Beach County, CA -- 1:55 AM Stolen Vehicle Sting) Deputy Sheriff Osee Dumel, Sgt. Anthony Johnson.
+- (Alameda County, CA -- 8:20 PM Traffic Stop) Deputy Leo Basped.
+
+## S27E06
+
+- (San Jose, CA -- 7:06 PM Neighbourhood Patrol) Officer Aaron Offenberg, Officer Marc Beretta, Officer Rod Smith, Officer Roland Ramirez.
+- (Glendale, AR -- 10:12 AM Street Patrol) Officer Matt Schneider, Officer Jeff Pittman, Officer Kory Rafferty, Officer Rochelle Thomas, Sgt. Brian Shoop.
+- (Nye County, NV -- 2:35 PM Traffic Stop) Deputy Alex Cox, Deputy Cory Fowles.
+
+## S27E07
+
+- (Lafayette, LA -- 2:54 PM Suspicious Activity) Corporal Bart Ryder, Sgt. Kent Goolsby, Corporal Todd Reid.
+- (Nye County, NV -- 1:50 PM Attempted Suicide) Deputy Heather Trumble, K-9 Deputy James McRae, Det. Michael Eisenloffel, Detective Eric Murphy.
+- (Bernalillo County, NM -- 7:15 PM Domestic Violence Call) Deputy Johann Jareno, Dep. 1st Class Aaron Schwartz.
+
+## S27E08
+
+- (Lafayette, LA -- 11:49 PM Possible Stolen Vehicle) Corporal Jonathon Sanchez, Corporal Tyler Howerton.
+- (Springfield, MO -- 10:19 PM Disturbance Call) Officer Jim Cooney, Officer Ben Haines.
+- (Bernalillo County, NM -- 3:23 PM Possible Fight In Progress) Dep. 1st Class Daniel Portell, Sgt. Larry Harlan.
+
+## S27E09
+
+**Bryce Dion Tribute**
+
+- (Stockton, CA -- Stockton Police Department) Officer Jeffrey Pope.  Kansas
+  City, Officer Nick Cardona, Officer Todd Templeton.  Stockton, CA, Sgt.
+  Kathryn Nance.  Springfield, Officer Kevin Holle.
+- Stockton, CA -- Officer Kevin Knall.  Brevard County, FL -- Corporal Jim
+  Hudak, Deputy Brett Moore.
+- Indianapolis -- Patrolman Daniel Brezik. ...
+- Amarillo, TX -- Officer Billy Jensen, Corporal Joe Loftus.
+
+TODO: complete this.
+
+## S27E10
+
+- (Springfield, MO -- 2:14 AM Disturbance Call) Officer Jim Cooney, Lt. Scott Kamykowski, Officer Ben Haines, Officer Michael Ramsey. Transgender woman on a wheelchair gets attacked.
+- (North Las Vegas, NV -- 2:33 AM Domestic Disturbance Call) Officer Eric Leavitt, Officer Jeff Heitzenrater.
+- (Pahrump, Nye County, NV -- 12:26 PM Traffic Stop) Deputy Alex Cox, Deputy Cory Fowles, Deputy Crystal Barajas. Famous "Can you relax?" segment.
+
+## S27E11
+
+TODO
+
+## S27E12
+
+TODO
+
+## S27E13
+
+TODO
+
+## S27E14
+
+TODO
+
+## S27E15
+
+TODO
+
+## S27E16
+
+TODO
+
+## S27E17
+
+TODO
+
+## S27E18
+
+TODO
+
+## S27E19
+
+TODO
+
+## S27E20
+
+TODO
+
+## S27E21
+
+TODO
+
+## S27E22
+
+TODO
+
+## S27E23
+
+TODO
+
+## S27E24
+
+TODO
+
+## S27E25
+
+TODO
+
+## S27E26
+
+TODO
+
+## S27E27
+
+TODO
+
+## S27E28
+
+TODO
+
+## S27E29
+
+TODO
+
+## S27E30
+
+TODO
+
+## S27E31
+
+TODO
+
+## S27E32
+
+TODO
+
+## S27E33
+
 TODO
 
 # Season 28
 
 2015-2016.
+
+Network: Spike.
 
 ## S28E01
 
@@ -19609,11 +19773,15 @@ TODO
 
 2016-2017.
 
+Network: Spike.
+
 TODO
 
 # Season 30
 
 2017-2018.
+
+Networks: Spike, Paramount.
 
 ## S30E01
 
@@ -19943,11 +20111,15 @@ Aired 2018-05-21.
 
 2018-2019.
 
+Network: Paramount.
+
 TODO
 
 # Season 32
 
 2019-2020.
+
+Network: Paramount.
 
 TODO
 
@@ -19955,11 +20127,15 @@ TODO
 
 2021-2022.
 
+Network: Fox Nation.
+
 TODO
 
 # Season 34
 
 2022-2023.
+
+Network: Fox Nation.
 
 ## S34E01
 
@@ -20076,6 +20252,8 @@ TODO
 # Season 35
 
 2023.
+
+Network: Fox Nation.
 
 ## S35E01
 
