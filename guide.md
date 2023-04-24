@@ -20249,7 +20249,13 @@ Aired 2022-11-25
 
 ## S34E12
 
-TODO
+Aired 2022-12-02
+
+**Baby on the Way**
+
+- (Spokane Valley, WA -- 9:36 PM Vehicle Pursuit In Progress) Spokane Valley Police Department -- Deputy Stephan Blaakman -- Deputy Blaakman is called to assist Deputy V. McKenzie in a vehicle pursuit. Deputy Blaakman stops near the northwest corner of Sullivan Road and Sprague Avenue to deploy spike strips. The vehicle travels eastbound on Sprague Avenue and Deputy Blaakman successfully deploys the spike strips just west of Sullivan Road. The suspect drives as far as he can on his destroyed tires. Deputies including K-9 Deputy Amber Tyler find him in the driveway of 17404 East Coach Drive and take him into custody. He was driving his fiance's car and said he fled because "he thought he could get away." The man's fiance arrives and she speaks briefly with the suspect and chides him for being on probation, and doing this when they have a baby on the way. They charge him with felony eluding.
+- (Hazleton, PA -- 12:15 AM Officer Assistance Call) Hazleton Police Department Headquarters -- Patrolman Keith McAlarney -- Patrolman McAlarney is called to assist Chief Jerry Speziale with a traffic stop on a car that tried to avoid a DUI checkpoint. The car is at the southwest corner of North Laurel Street and West 21st Street. The car is occupied by a female driver, a male front passenger who claims to own the car (Craig,) and a male rear passenger (man #2.) Corporal Joseph Babvla arrives to assist. They search Craig and find Xanax which he claims he has a prescription for. When man #2 is searched, pills and syringes are found. The female driver had a flare gun by her feet which Craig says belongs to him. The two men are charged with possession of drug paraphernalia and the female is charged with driving without a license and for the flare gun.
+- (Las Vegas, NV -- 7:53 PM Disturbance Call) Las Vegas Metropolitan Police Department South Central Area Command -- Sergeant Greg Everett -- Sergeant Everett arrives at an apartment complex at the northwest corner of East Flamingo Road and South University Center Drive to assist other officers including Officer Katherine Benzine, PO II B. Samuelson, PO II Michael McCarthy, and Officer Michael Cooper. A man is screaming from his balcony disturbing other residents. He appears to be experiencing a psychotic episode. Because he's combative and uncooperative, they are forced to carry him down stairs. He swings between expressions of panic and calm and says that he's been up for four days. A search of the suspect yields two small baggies with what police presume is meth. After ascertaining that he has a warrant he is arrested.
 
 ## S34E13
 
