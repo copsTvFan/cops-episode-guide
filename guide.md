@@ -6139,7 +6139,7 @@ Aired 1992-02-22.
 
 **Miami, FL 3**
 
-- (2:47 PM) Broward County FL Sheriff's Department -- Sgt. Ralph Capone is on
+- (2:47 PM) Broward County, FL, Sheriff's Department -- Sgt. Ralph Capone is on
   his way to wire an undercover informant to buy an ounce of coke for $850. The
   signal is to put his hand through his hair and say "Bob's gonna love it." It
   should be quick, don't see any problems, but always ready. Dealers couldn't
@@ -12163,7 +12163,7 @@ Aired 2001-02-26.
 
 - (Kansas City, MO -- 8:45 PM Felony Warrant) CP-1015
 - (Albuquerque, NM -- 9:18 PM 911 Hang-Up Call) CP-1227
-- (Martin County FL -- 4:27 PM Assistance Call) CP-1127
+- (Martin County, FL -- 4:27 PM Assistance Call) CP-1127
 - (Las Vegas, NV -- 8:56 PM Street Patrol/Now Assistance Call) CP-716
 
 ## S-1301
@@ -12208,7 +12208,7 @@ Aired 2001-05-??.
 
 Aired 2001-12-01.
 
-**Palm Beach County FL 12**
+**Palm Beach County, FL 12**
 
 - (8:09 PM Traffic Stop) Tactical Unit -- Deputy Keith Burns says he's been with tactical for five years and being in an unmarked car you get to see more and assist other agencies. His partner Deputy Kevin Marks says they patrol all areas and there are 60 divisions they could work in so they'll never get bored. They go to pull over a car with it's hi-beams on. Deputies Burns and Marks terminate a pursuit when it becomes too dangerous, and moments later, the driver loses control of his vehicle and crashes. Deputy Tapia helps a woman who was battered by her husband. A drug dealer tries to give undercover officers the slip by running through a busy intersection.
 
@@ -12216,7 +12216,7 @@ Aired 2001-12-01.
 
 Aired 2001-12-15.
 
-**Palm Beach County FL 13**
+**Palm Beach County, FL 13**
 
 - (12:23 AM Domestic Disturbance) Deputy Lower responds to a report of a suspect kicking in the front door of a house, and when he arrives at the scene, Lower discovers the suspect holding a knife to another man's throat. Deputy Smith assists other officers pursuing a suspect who fled while being served a warrant. Deputy Lower helps apprehend a suspect who pulled off a robbery and fled with a multitude of construction tools.
 
@@ -12224,7 +12224,7 @@ Aired 2001-12-15.
 
 Aired 2002-01-05.
 
-**Palm Beach County FL 14**
+**Palm Beach County, FL 14**
 
 - (1:11 PM Briefing) Narcotics Unit -- Sgt. Marios Martinez says they bought from a guy the night before and if he is there tonight they'll bust him. They want to keep the CI out of it while buying 7oz of coke. The verbal sign is "It's party time" the signal is the hat out the window. Sheriff's Office Narcotics Unit uses a vehicle furnished with advanced surveillance equipment to assist with the apprehension of drug dealers. Officer Villiers assists a woman who claims her child's father threatened her with a knife when he discovered that they lost custody of their child. Deputy Villiers assists a victim who claims an estranged friend hit him with a shovel because he owed him twenty dollars.
 
@@ -12232,7 +12232,7 @@ Aired 2002-01-05.
 
 Aired 2002-03-06.
 
-**Palm Beach County FL 15**
+**Palm Beach County, FL 15**
 
 - (10:02 PM Street Patrol) Tactical Unit -- Deputy Kevin Marks says he has been on the force seven years and three years with another unit. His partner is Deputy Keith Burns and he says they are both on the same page. Keith wanted to be a cop since he was a kid. The pay is bad, but the satisfaction outweighs that.
 
@@ -12240,7 +12240,7 @@ Aired 2002-03-06.
 
 Aired 2002-03-23.
 
-**Palm Beach County FL 16**
+**Palm Beach County, FL 16**
 
 - (11:27 PM Man with a Knife Call) District 1 -- Deputy David Sims went up to New York expecting to get real NY pizza and his friend went and ordered Dominos so he was disappointed. Police chase a suspicious man who was loitering in a parking lot; domestic dispute at a mobile-home park.
 
@@ -12248,7 +12248,7 @@ Aired 2002-03-23.
 
 Aired 2002-04-13.
 
-**Palm Beach County FL 17**
+**Palm Beach County, FL 17**
 
 - (9:57 PM Suspicious Vehicle) Tactical Unit -- Deputy Keith Burns and Deputy Kevin Marks drive in an unmarked car and say it is better for catching criminals unaware. The windows are darkened and there is no lightbar. They are like ninjas and samurai in stealth mode. They attempt to stop a suspicious vehicle after determining that the owner has an extensive arrest record which includes assaulting a police officer. Deputy Lower stops a car when it is determined the occupants might be linked to a recent robbery. Deputy Fresneda questions a man who claims to have gotten into a fight with a second man after he threw a brick at his car.
 
@@ -12256,7 +12256,7 @@ Aired 2002-04-13.
 
 Aired 2002-04-20.
 
-**Palm Beach County FL 18**
+**Palm Beach County, FL 18**
 
 - (8:47 PM Man with a Knife) District 1 -- Corporal John Cogburn says with the Marine division they have a wide environment to cover from the city to the cane fields. A disturbance at a traffic stop. A suspect hides in foliage; prostitution sting; stolen vehicle.
 
@@ -12264,7 +12264,7 @@ Aired 2002-04-20.
 
 Aired 2001-09-01.
 
-**Palm Beach County FL 19**
+**Palm Beach County, FL 19**
 
 - (4:53 AM Burglary in Progress) District 1 -- 911 Communications Center -- A black woman calls saying she is watching two men breaking into cars and stealing the stereos at her apartment complex. Deputy Gerard Morency takes the call. An officer responds to a burglary in progress; a suspect refuses to present identification.
 
@@ -12877,7 +12877,8 @@ Aired 2003-01-18.
   John sting and uses a board to diagram it. An officer coordinates a sting in
   a neighborhood where residents complain about prostitution; an officer
   catches someone snorting cocaine in the men's room of a Las Vegas bar.
-  Broward County FL/Las Vegas NV
+- Broward County, FL
+- Las Vegas, NV
 
 ## CP-1507
 
@@ -12887,8 +12888,9 @@ Aired 2003-01-25.
 
 - (North Las Vegas, NV -- 9:18 PM Traffic Stop) Special Operations Division --
   Police officers find a loaded weapon in a suspect's pants; officers
-  investigate a complaint about loud music in the street. Palm Springs,
-  CA/Broward County FL
+  investigate a complaint about loud music in the street.
+- Palm Springs, CA
+- Broward County, FL
 
 ## CP-1508
 
@@ -12901,7 +12903,8 @@ Aired 2003-01-25.
   put out on Pennsylvania and Central to see who takes it. They even let the
   air out of the front tire so they can't ride away. Traditionally they jump
   off the bike and run, so expect a foot pursuit. Officer Nick Carter is in on
-  the sting. Broward County FL -- An officer questions three suspects about an
+  the sting.
+- Broward County, FL -- An officer questions three suspects about an
   attempted bicycle theft, but one says he is innocent because he has a wooden
   leg. An officer is forced to shoot a suspect in the leg; a suspect
   unknowingly picks up a transvestite in Las Vegas, NV.
@@ -12931,7 +12934,9 @@ Aired 2003-10-01.
   enjoys working with his team. Spots a car driving with no headlights and
   pulls him over. A suspect is apprehended for buying drugs and paraphernalia
   in his mother's backyard; an officer suspects a driver is intoxicated and
-  follows him to his home. Broward County FL/Indianapolis IN
+  follows him to his home.
+- Broward County, FL
+- Indianapolis, IN
 
 ## CP-1511
 
@@ -12943,7 +12948,7 @@ Aired 2002-11-23.
   the most exciting thing that ever happened to him on the job was delivering a
   baby. He then spots a stolen car and goes to pull it over. Officers find a
   suspect at his grandmother's house.
-- Broward County FL
+- Broward County, FL
 
 ## CP-1512
 
@@ -13488,7 +13493,7 @@ Aired 2004-01-03.
 
 - (Indio, CA -- 10:24 PM Suspicious Activity Call) Mexican prowler looking in
   windows is caught and beat up after returning
-- Palm Beach County FL -- Suspicious vehicle with 2 black guys in a Lincoln Town
+- Palm Beach County, FL -- Suspicious vehicle with 2 black guys in a Lincoln Town
   Car that have thousands of dollars and drugs
 - Palm Springs, CA -- Traffic stop -- bicycle rider who came from a burglary has
   drugs and bad friends.
@@ -13504,7 +13509,7 @@ Aired 2004-01-10.
   law and decided he likes this side better. When he was young cops where seen
   as heroes, how he looked at it. A man speeds on a motorcycle with a woman on
   the back who tries to get him to stop. He crashes and has warrants.
-- Palm Beach County FL (12:06 AM Domestic Disturbance Call) Kevin is drunk in a
+- Palm Beach County, FL (12:06 AM Domestic Disturbance Call) Kevin is drunk in a
   dirty vile trailer and he hits his girlfriend and pulls the phone out of the
   wall when she calls 911. He just wants his beer and leaves, but she won't
   press charges.
@@ -13518,7 +13523,7 @@ Aired 2004-01-17.
 
 **Coast to Coast 53**
 
-- (Palm Beach County FL -- 9:24 PM Fight in Progress) District 1 -- Deputy James
+- (Palm Beach County, FL -- 9:24 PM Fight in Progress) District 1 -- Deputy James
   Tacktikos does his best not to take his job home with him, though there are
   times he brings paperwork home, he doesn't want the stress of his job getting
   into his personal life. If people ask him about his work he'll gladly tell
@@ -13557,7 +13562,7 @@ Aired 2004-01-24.
 
 **Foolish Criminals Special Edition**
 
-- (Palm Beach County FL -- 8:42 PM Burglary in Progress) District 3 Sheriff's
+- (Palm Beach County, FL -- 8:42 PM Burglary in Progress) District 3 Sheriff's
   Dept. -- Deputy Nick Camene takes the call of a man seen jumping a fence into
   a problem area where many thefts occur. A black guy is caught stealing copper
   wire from a business
@@ -13625,7 +13630,7 @@ Aired 2004-01-31.
   he's a rookie at heart. He spots a stolen car and follows. Three black men in
   a Honda Civic ram police, try to flee and crash into a parked car and we see
   they are drunk and injured.
-- Palm Beach County FL (1:34 AM Stolen Vehicle) Single white male says it is
+- Palm Beach County, FL (1:34 AM Stolen Vehicle) Single white male says it is
   his mom's car and he is an undercover narcotics officer.
 - Jacksonville FL (8:15 PM Prostitution Sting) Debbie flashes the officer in
   the car/Black woman says she was molested/Antoine Shemale struggles.
@@ -13769,7 +13774,7 @@ Aired 2004-04-10.
 
 **Coast to Coast 59**
 
-- (Palm Beach County FL -- 11:43 PM Sting Operation) Sheriff's Office Organized
+- (Palm Beach County, FL -- 11:43 PM Sting Operation) Sheriff's Office Organized
   Crime Bureau -- An undercover cop tells two uniformed officers they need there
   help backing them up. They are delivering dope to a gas station and needs
   them to block the suspects in and they'll do the rest. A black guy gets
@@ -15816,7 +15821,7 @@ Aired 2005-10-01.
 
 **Coast to Coast 82**
 
-- (Lee County FL -- 1:15 AM Car Pursuit) When officers respond to a home invasion robbery, they question the victims, who describe how an unknown suspect kicked in their front door and then demanded to see his wife.
+- (Lee County, FL -- 1:15 AM Car Pursuit) When officers respond to a home invasion robbery, they question the victims, who describe how an unknown suspect kicked in their front door and then demanded to see his wife.
 - (Las Vegas, NV -- 11:01 PM Home Invasion Call) Officer Ryan Cook.
 - (Pierce County, WA -- 3:20 AM Officer Assistance Call) Deputy Frank Brown.
 
@@ -15826,7 +15831,7 @@ Aired 2005-12-03.
 
 **Coast to Coast 83**
 
-- (Lee County FL -- 8:53 PM Domestic Disturbance Call) Police respond to a domestic disturbance call and find a man who says he fears for his life because his wife is a belligerent, violent drunk.
+- (Lee County, FL -- 8:53 PM Domestic Disturbance Call) Police respond to a domestic disturbance call and find a man who says he fears for his life because his wife is a belligerent, violent drunk.
 - Las Vegas, NV
 - Fort Myers, FL
 
@@ -15837,7 +15842,7 @@ Aired 2005-12-10.
 **Coast to Coast 84**
 
 - (Las Vegas, NV -- 10:01 PM Suspicious Vehicle) An officer stops a vehicle for a missing tail light and quickly discovers the driver is hiding a jar of methamphetamine.
-- Lee County FL
+- Lee County, FL
 - Fort Worth, TX
 
 ## CP-1804
@@ -15857,7 +15862,7 @@ Aired 2006-01-07.
 **Coast to Coast 86**
 
 - (Las Vegas, NV -- 9:41 PM Assistance Call) When an officer investigates a distress call from a nearby apartment complex, he attempts to detain an uncooperative male.
-- Lee County FL
+- Lee County, FL
 
 ## CP-1806
 
@@ -15867,7 +15872,7 @@ Aired 2006-01-14.
 
 - (Fort Myers, FL -- 1:38 PM Man with a Gun/Should be AM) Corporal Jason Pate responds to a call involving a concerned citizen who says he was approached by an armed man claiming to have used his gun in an bank robbery.
 - Las Vegas, NV
-- Lee County FL
+- Lee County, FL
 
 ## CP-1807
 
@@ -16079,7 +16084,7 @@ Aired 2006-06-03.
 **Coast to Coast 102**
 
 - (Pittsburgh, PA -- 1:22 AM Street Patrol) police chase an armed suspect on foot
-- Martin County FL -- Florida police respond to a disturbance call involving an inebriated, incoherent woman.
+- Martin County, FL -- Florida police respond to a disturbance call involving an inebriated, incoherent woman.
 - Anchorage, AK
 
 ## CP-1827
@@ -16158,7 +16163,7 @@ Aired 2006-07-15.
 **Coast to Coast 107**
 
 - (Palm Springs, CA -- 9:45 PM Burglary in Progress)
-- Palm Beach County FL -- An extremely drunk driver in Palm Springs
+- Palm Beach County, FL -- An extremely drunk driver in Palm Springs
 - Pittsburgh, PA -- a routine stop reveals much in Pittsburgh
 
 ## CP-1835
@@ -16168,8 +16173,8 @@ Aired 2006-04-29.
 **Drug Arrests Special Edition**
 
 - (Palm Springs, CA -- 11:34 PM Suspicious Person) A California police officer detains an uncooperative man who has outstanding arrest warrants
-- Martin County FL -- a Florida sheriff's deputy pulls over a suspicious vehicle after the driver makes an illegal turn
-- Palm Beach County FL
+- Martin County, FL -- a Florida sheriff's deputy pulls over a suspicious vehicle after the driver makes an illegal turn
+- Palm Beach County, FL
 
 ## CP-1836
 
@@ -16179,7 +16184,7 @@ Aired 2006-07-22.
 
 - (Palm Beach County, FL -- 7:09 PM Domestic Disturbance Call)
 - Palm Springs, CA
-- Martin County FL
+- Martin County, FL
 
 # Season 19
 
@@ -16224,7 +16229,7 @@ Aired 2006-09-23.
 
 **Coast to Coast 111**
 
-- (Palm Beach County FL -- 12:03 AM Disturbance Call) Cameras capture the consequences when suspects resist arrest.
+- (Palm Beach County, FL -- 12:03 AM Disturbance Call) Cameras capture the consequences when suspects resist arrest.
 - Palm Springs, CA
 - Pittsburgh, PA
 
@@ -16244,7 +16249,7 @@ Aired 2006-11-11.
 
 **Florida Heat 1 Special Edition**
 
-- (Brevard County FL -- 3:09 AM Suspicious Activity) A Florida officer pursues a vehicle with three suspects inside, then the situation takes a turn for the worse when the suspects flee on foot.
+- (Brevard County, FL -- 3:09 AM Suspicious Activity) A Florida officer pursues a vehicle with three suspects inside, then the situation takes a turn for the worse when the suspects flee on foot.
 - West Palm Beach, FL
 - Palm Beach County, FL
 
@@ -16274,7 +16279,7 @@ Aired 2006-11-18.
 
 **Police Chases Special Edition**
 
-- (Brevard County FL -- 4:36 PM Possible Stolen Vehicle) A suspect ditches a stolen vehicle, forcing officers to chase him on foot; several police units take part in a high-speed chase in California.
+- (Brevard County, FL -- 4:36 PM Possible Stolen Vehicle) A suspect ditches a stolen vehicle, forcing officers to chase him on foot; several police units take part in a high-speed chase in California.
 - Spokane, WA
 - Palm Springs, CA
 
@@ -16309,7 +16314,7 @@ Aired 2007-04-28.
 **Police Pullovers 1 Special Edition**
 
 - (Fontana, CA -- 12:35 AM Vehicle Pursuit) Officer Brian Binks says has an uncle who is a cop there for 18 years. Officer confronts a suspect after a high-speed chase.
-- Brevard County FL -- driver attempts to eat pot after being stopped.
+- Brevard County, FL -- driver attempts to eat pot after being stopped.
 - Palm Springs, CA
 
 ## CP-1911
@@ -16339,7 +16344,7 @@ Aired 2006-12-09.
 **Coast to Coast 115**
 
 - (Wichita, KS -- 7:01 PM Assistance Call) officers assist a bondsman attempting to enter a home
-- a suspect tries to swallow a bag of marijuana while in the custody of a sheriff in Brevard County FL
+- A suspect tries to swallow a bag of marijuana while in the custody of a sheriff in Brevard County, FL
 - West Palm Beach, FL
 
 ## CP-1914
@@ -16369,7 +16374,7 @@ Aired 2007-02-24.
 **Liar Liar Special Edition**
 
 - (Cincinnati, OH -- 2:41 AM Traffic Stop) Officer Donny Meece of the Police Department, attempts to pull over a vehicle he observed leaving an area known for drug activity. When the driver stops, the passenger jumps out of the vehicle and a foot pursuit ensues. The brief chase ends when the officer uses a tazer to restrain the suspect. During a routine investigation, Officer Meece retrieves a loaded handgun the suspect discarded during the pursuit. The suspect will face several weapons charges. The driver took off in the vehicle during the foot pursuit. He evaded arrest.
-- Brevard County FL -- Deputy Jason West of the Sheriff's Office pulls over a vehicle occupied by a female driver and male passenger for playing loud music. During questioning the woman tells the officer that she never been arrested. Her clean record is quickly tarnished after the officer finds a large amount of pot in addition to prescription pills in the vehicle during a routine search. She's arrested and charged with felony possession of cannabis.
+- Brevard County, FL -- Deputy Jason West of the Sheriff's Office pulls over a vehicle occupied by a female driver and male passenger for playing loud music. During questioning the woman tells the officer that she never been arrested. Her clean record is quickly tarnished after the officer finds a large amount of pot in addition to prescription pills in the vehicle during a routine search. She's arrested and charged with felony possession of cannabis.
 - Palm Springs, CA -- Officer Anthony Pilutik of the Police Department responds to a disturbance call in an active area of the city. The officer arrives at the scene, as a male individual is being questioned and searched by a fellow officer. Suspicious of his behavior, the officers decide to give the man a routine field sobriety test. When he fails the test, the officers search his bag and discover a large amount of methamphetamine and drug paraphernalia. The man is arrested for being under the influence of a controlled substance and will face undisclosed drug charges.
 
 ## CP-1917
@@ -16379,7 +16384,7 @@ Aired 2007-01-07.
 **Coast to Coast 117**
 
 - (Wichita, KS -- 2:37 AM Assault Call) Patrol North -- Officer Tommy Nikkel engages in a high-speed pursuit,
-- Brevard County FL (11:15 PM Possible Drug Activity) sheriffs think a suspect has hidden drugs in his body.
+- Brevard County, FL (11:15 PM Possible Drug Activity) sheriffs think a suspect has hidden drugs in his body.
 - Hamilton County OH
 
 ## CP-1918
@@ -16499,7 +16504,7 @@ Aired 2007-07-14.
 
 - (Cincinnati, OH -- 11:43 PM Traffic Stop) District 4 -- Officer Mark Longworth of the Cincinnati Police Department stops a car for cutting over the double yellow lines and for having tinted windows, which is illegal in the state of Ohio. The vehicle rolls to a stop and the passenger jumps form the vehicle and bolts into the night. The officer gives chase and eventually catches up to the suspect who falls several times during the pursuit. The officer gives the man several warnings before deploying his Taser to end the foot chase. The annoyed suspect complains loudly that there was no reason to tase him while the officer attempts to explain that had he complied with commands none of this would have been necessary. Sgt. Davis arrives and learns that bullets were recovered from the suspect but no gun was found.
 - Las Vegas, NV -- Officer Evan Rosenthal of the Police Department assists on a fight call on the Las Vegas Strip. A melee broke out when several pedestrians began catcalling to a vehicle driving by and threw objects at the victim's car. The driver jumped out and punched one of the guys while a male and female passenger attacked another suspect. The two suspects are taken into custody after the investigation along with eyewitness testimony from a LVMPD officer determines that the occupants in the car did not start the fight. The two men become belligerent with officers and one of the men tries to flee while being cuffed. Both men are physically restrained and placed into a waiting paddy wagon. The suspects are taken to jail for participation in a fray and resisting arrest.
-- Hillsborough County FL -- Deputy J.T. Stahlschmidt of the Sheriff's Office pulls over a vehicle for speeding and running stop signs. The driver tells the deputy that he was trying to get to his apartment. The deputy becomes suspicious of the man's story because of the man's jittery and erratic behavior. When asked to get out of the truck the man begins sticking his hands into his pockets and pulls out a wadded tissue. The man tells the deputy it is for blowing his nose, and then mimes doing just that before shaking out crack cocaine rocks onto the ground. He is arrested and taken to jail for possession, possibly with intent to sell.
+- Hillsborough County, FL -- Deputy J.T. Stahlschmidt of the Sheriff's Office pulls over a vehicle for speeding and running stop signs. The driver tells the deputy that he was trying to get to his apartment. The deputy becomes suspicious of the man's story because of the man's jittery and erratic behavior. When asked to get out of the truck the man begins sticking his hands into his pockets and pulls out a wadded tissue. The man tells the deputy it is for blowing his nose, and then mimes doing just that before shaking out crack cocaine rocks onto the ground. He is arrested and taken to jail for possession, possibly with intent to sell.
 
 ## CP-1930
 
@@ -16522,8 +16527,8 @@ Aired 2006-11-25.
 
 **Bad Girls! 10 Special Edition**
 
-- (Brevard County FL -- 9:17 PM Traffic Stop) Deputy Todd Holland pulls over a speeding vehicle in an area known for drug activity. The young female driver is questioned and is subsequently arrested after the officer finds cocaine and marijuana in her car and on her person during a routine search. The female's mother arrives at the scene a short time later and chastises her daughter after learning about her illegal dealings. The female is taken to jail and will face felony drug charges. The mother is told that this is her wake up call to and that hopefully she can help her daughter change her life for the better.
-- Deputy Andrea Eagon of the Hillsborough County FL Sheriff's Office joins fellow Deputy James Ennis in a traffic stop. The individual behind the wheel tells deputies he is meeting a friend and yells "Pocahontas!" towards a person walking away. Deputy Eagon stops the person and learns that it is male cross dresser who met the suspect on a phone chat line and was meeting with the man for a date. The respectful deputy runs Pocahontas' info and learns that he has an outstanding warrant. The male suspect in the original traffic stop is also arrested after the vehicle he is driving is determined to be stolen. The deputies also inform him that his date is a man, a fact he did not know. The concerned deputies warn him to be careful of whom he meets on chat lines.
+- (Brevard County, FL -- 9:17 PM Traffic Stop) Deputy Todd Holland pulls over a speeding vehicle in an area known for drug activity. The young female driver is questioned and is subsequently arrested after the officer finds cocaine and marijuana in her car and on her person during a routine search. The female's mother arrives at the scene a short time later and chastises her daughter after learning about her illegal dealings. The female is taken to jail and will face felony drug charges. The mother is told that this is her wake up call to and that hopefully she can help her daughter change her life for the better.
+- Deputy Andrea Eagon of the Hillsborough County, FL Sheriff's Office joins fellow Deputy James Ennis in a traffic stop. The individual behind the wheel tells deputies he is meeting a friend and yells "Pocahontas!" towards a person walking away. Deputy Eagon stops the person and learns that it is male cross dresser who met the suspect on a phone chat line and was meeting with the man for a date. The respectful deputy runs Pocahontas' info and learns that he has an outstanding warrant. The male suspect in the original traffic stop is also arrested after the vehicle he is driving is determined to be stolen. The deputies also inform him that his date is a man, a fact he did not know. The concerned deputies warn him to be careful of whom he meets on chat lines.
 - Officer Norman Jahn assists Officer Evan Rosenthal of the Las Vegas Metropolitan Police Department during a traffic stop on the famous Las Vegas Strip. Officer Rosenthal informs Officer Jahn that the reason for the initial stop is for several flashing blue lights attached to parts of the vehicle -- an automotive decoration that is illegal in Nevada. Officer Jahn questions the female driver and learns that she was out to pick up her friend near a casino on the Strip. The officer informs her that her passenger is only 18 and has priors for prostitution; a fact the driver claims to have no knowledge of. The 18 year old passenger is told that she has been ordered off the Strip for prostitution activities by the Vice Unit. While neither woman admits that they are currently engaged in prostitution activities, the 18 year old tells Officer Rosenthal that her pimp has beaten and tased her in the past and she does not know how to get out of the lifestyle. She is taken to jail while the driver is released and admonished for potentially maintaining a vehicle for prostitution.
 
 ## CP-1932
@@ -16542,7 +16547,7 @@ Aired 2007-06-09.
 
 **Coast to Coast 126**
 
-- (Hillsborough County FL -- 1:08 AM Burglary in Progress) Sheriff's Office District 1 Deputy Andrea Eagon  assists two fellow deputies in a burglary that resulted in a foot pursuit. The suspect is in possession of several pieces of jewelry that are correctly identified by the kiosk owner at the scene. The victims, owners of a jewelry kiosk, were questioned and the kiosk searched for damage. The suspect was taken to jail for further questioning. Officer Damon Barringer of the Las Vegas Metropolitan Police Department responds to a local motel after receiving a call of a male complaining of chest pains after a drunken domestic squabble with his new bride. The two lovebirds had visited a dance club and the irate husband had become jealous after watching his younger bride dance provocatively. After arriving at home the two proceeded to argue, culminating in the woman attacking her husband in a fit of rage. The woman is taken into custody after admitting to the attack and the officers suggest that the two either get counseling or a divorce. Officer Marc Sullivan of the Boston Police Department and Massachusetts State Trooper Jesse Sweet stop a vehicle for failure to have a valid inspection sticker. The passenger was found to have an outstanding warrant and is arrested. The vehicle is searched to find a bag of marijuana and a BB gun. During questioning the driver, a minor car accident occurs. Officer Sullivan questions the man who hit the van to find that he is on probation and doesn't have a driver's license. He is held until he is finished handling the first incident. Sullivan returns to questioning the driver in the initial incident, gives him a ticket and releases him.
+- (Hillsborough County, FL -- 1:08 AM Burglary in Progress) Sheriff's Office District 1 Deputy Andrea Eagon  assists two fellow deputies in a burglary that resulted in a foot pursuit. The suspect is in possession of several pieces of jewelry that are correctly identified by the kiosk owner at the scene. The victims, owners of a jewelry kiosk, were questioned and the kiosk searched for damage. The suspect was taken to jail for further questioning. Officer Damon Barringer of the Las Vegas Metropolitan Police Department responds to a local motel after receiving a call of a male complaining of chest pains after a drunken domestic squabble with his new bride. The two lovebirds had visited a dance club and the irate husband had become jealous after watching his younger bride dance provocatively. After arriving at home the two proceeded to argue, culminating in the woman attacking her husband in a fit of rage. The woman is taken into custody after admitting to the attack and the officers suggest that the two either get counseling or a divorce. Officer Marc Sullivan of the Boston Police Department and Massachusetts State Trooper Jesse Sweet stop a vehicle for failure to have a valid inspection sticker. The passenger was found to have an outstanding warrant and is arrested. The vehicle is searched to find a bag of marijuana and a BB gun. During questioning the driver, a minor car accident occurs. Officer Sullivan questions the man who hit the van to find that he is on probation and doesn't have a driver's license. He is held until he is finished handling the first incident. Sullivan returns to questioning the driver in the initial incident, gives him a ticket and releases him.
 
 ## CP-1934
 
@@ -16550,7 +16555,9 @@ Aired 2007-06-16.
 
 **Coast to Coast 127**
 
-- (Las Vegas -- 3:04 AM Robbery Call) an officer investigates a stolen-vehicle report; a Hillsborough County, FL., deputy chases a suspect on foot. Okaloosa County FL -- a car stop with 3 women who have drugs
+- (Las Vegas -- 3:04 AM Robbery Call) an officer investigates a stolen-vehicle report
+- a Hillsborough County, FL., deputy chases a suspect on foot
+- Okaloosa County, FL -- a car stop with 3 women who have drugs
 
 ## CP-1935
 
@@ -16558,28 +16565,29 @@ Aired 2007-06-23.
 
 **Coast to Coast 128**
 
-- (Hillsborough County FL -- 10:22 PM Deputy Assistance Call) Street Crimes
+- (Hillsborough County, FL -- 10:22 PM Deputy Assistance Call) Street Crimes
   unit Sheriff's Office District 1 -- Deputy Bryan Schmick joins in the pursuit
   of a vehicle that refused to stop for deputies. The slow speed pursuit ends
   when the driver of the suspect drives his car into a ditch in a vain attempt
   to flee from deputies. The suspect bails on foot and is taken into custody
   after a brief struggle with deputies. The tag on the vehicle is not the tag
   that belongs on the vehicle and the suspect tells deputies that he has no
-  driver's license. Las Vegas, NV Metropolitan Police Department -- Officer
-  Peter Connell responds to a domestic violence call. The caller explains that
-  she was kicked in the stomach by her boyfriend. She has a 5 week old baby and
-  the hit was directly above her c-section. The boyfriend refuses to give the
-  mother the infant because she is intoxicated. After observing claw marks on
-  the calm, rational father Officer Connell interviews the mother who admits
-  she attacked her boyfriend. The officers take her to jail for the assault
-  while the father is allowed to continue taking care of the infant. Las Vegas,
-  NV Metropolitan Police Department -- Officer Chris Kennedy responds to a
-  domestic violence call in which the male half was reported chocking the
-  female half. When the officer arrived security informed him of the
-  outstanding warrant the male had. The inebriated female becomes belligerent
-  after the male suspect is taken into custody. When she is placed into custody
-  because of her boisterous behavior, she begins to bang her head against the
-  door and her boyfriend must calm her down.
+  driver's license.
+- Las Vegas, NV Metropolitan Police Department -- Officer Peter Connell
+  responds to a domestic violence call. The caller explains that she was kicked
+  in the stomach by her boyfriend. She has a 5 week old baby and the hit was
+  directly above her c-section. The boyfriend refuses to give the mother the
+  infant because she is intoxicated. After observing claw marks on the calm,
+  rational father Officer Connell interviews the mother who admits she attacked
+  her boyfriend. The officers take her to jail for the assault while the father
+  is allowed to continue taking care of the infant.
+- Las Vegas, NV Metropolitan Police Department -- Officer Chris Kennedy
+  responds to a domestic violence call in which the male half was reported
+  chocking the female half. When the officer arrived security informed him of
+  the outstanding warrant the male had. The inebriated female becomes
+  belligerent after the male suspect is taken into custody. When she is placed
+  into custody because of her boisterous behavior, she begins to bang her head
+  against the door and her boyfriend must calm her down.
 
 ## CP-1936
 
@@ -16589,8 +16597,8 @@ Aired 2007-07-28.
 
 - (Pittsburgh, PA -- 7:50 PM Pursuit in Progress) Bureau of Police Street
   Response Unit officers make a traffic stop and detect suspicious behavior;
-  Hillsborough County, FL, deputies answer a domestic-dispute call. Las Vegas,
-  NV -- 2:17 AM Stolen Vehicle
+- Hillsborough County, FL, deputies answer a domestic-dispute call
+- Las Vegas, NV -- 2:17 AM Stolen Vehicle
 
 # Season 20
 
@@ -16643,7 +16651,7 @@ Aired 2007-09-15.
   purchasing the drugs and that he is not a drug user and only has a passing
   interest in crack cocaine. The drugs are tested and come back positive and
   the man is arrested for the felony.
-- Deputy Jennifer Torres of the Lee County FL Sheriff's Office is dispatched to
+- Deputy Jennifer Torres of the Lee County, FL, Sheriff's Office is dispatched to
   a verbal/physical fight at a local motel. A female with visible injuries
   explains that her boyfriend became jealous when she sang karaoke with another
   man at a birthday party earlier in the evening.  When she tried to hug her
@@ -16664,7 +16672,7 @@ Aired 2007-09-22.
 
 **Coast to Coast 131**
 
-- (Brevard County FL -- 9:57 PM Deputy Assistance Call) Sheriff's Office East
+- (Brevard County, FL -- 9:57 PM Deputy Assistance Call) Sheriff's Office East
   Precinct -- FTO Jason Drinkwater responds to backup a deputy on a disturbance
   call. En route, the deputy learns that a male suspect is fighting with the
   deputies on scene. When they arrive, the male suspect makes a break for it
@@ -16679,7 +16687,7 @@ Aired 2007-09-22.
   and tells him that he had no intention of resisting arrest. Drinkwater
   explains the suspect's charges and allows the couple to say goodbye to each
   other.
-- Deputy Chris Nebel of the Lee County FL Sheriff's Office patrols an area of
+- Deputy Chris Nebel of the Lee County, FL Sheriff's Office patrols an area of
   North District and spots a golf cart being driven by a young man. The golf
   cart is on a public road with no lights on. The young man explains that he
   was trying to get home and just received the cart from his friend. The young
@@ -16712,7 +16720,7 @@ Aired 2007-10-06.
 
 **Coast to Coast 132**
 
-- (Brevard County FL -- 9:56 PM Suspicious Vehicle) Sheriff's Office -- Deputy
+- (Brevard County, FL -- 9:56 PM Suspicious Vehicle) Sheriff's Office -- Deputy
   Rick Lee patrols an apartment complex with a history of shots fired & drug
   calls. He quickly spots a vehicle driving across a grassy area that is not a
   designated road with his headlights off. The driver explains that he has a
@@ -16801,7 +16809,7 @@ Aired 2007-11-24.
   of another man in someone's backyard. The officers detain the man and Det.
   Jones identifies him as the passenger. Officer Sergio Carerra Memorial
   Information.
-- Deputy Kelly Simpkins of the Brevard County FL Sheriff's Office patrols an
+- Deputy Kelly Simpkins of the Brevard County, FL, Sheriff's Office patrols an
   alleyway behind several businesses that has become a hangout for drug
   addicts. A male is seen walking in the area and Deputy Simpkins makes contact
   with the man. The male suspect tells the deputy he was headed home and
@@ -16834,7 +16842,7 @@ Aired 2007-11-03.
   driver of the pickup truck is examined and he will require several stitches.
   All other victims are treated and the suspect is questioned. He claims that
   he is intoxicated and that is his excuse for driving erratically.
-- Hillsborough County FL -- Sheriff's Office -- Deputy Jeffery Grant attempts
+- Hillsborough County, FL -- Sheriff's Office -- Deputy Jeffery Grant attempts
   to stop a vehicle after the occupants were spotted buying drugs in a nearby
   area known to have drug related problems. The vehicle doesn't stop and after
   a short, low speed pursuit the driver pulls over and bails out of the vehicle
@@ -16860,7 +16868,7 @@ Aired 2007-09-08.
   detained. Fellow officers saw the suspect throw a gun while running. Four
   bags of narcotics were found where the suspect was detained. He was arrested
   for attempting to sell and was taken to the hospital and then to county jail.
-- FTO Mike Helms of the Brevard County FL Sheriff's Office stops a vehicle he
+- FTO Mike Helms of the Brevard County, FL, Sheriff's Office stops a vehicle he
   suspected was trying to evade him. Helms questions her. She admits to driving
   without a license. Her license was suspended ten years ago for a DUI. She
   finally admits to drinking prior to driving. While Helms is explaining the
@@ -16890,7 +16898,7 @@ Aired 2007-11-10.
   of the store nor the name of the person he purchased it from. More officers
   arrive and explain that the vehicle was just carjacked and the victims gave
   descriptions of the male occupants as the perpetrators.
-- Cpl Joe Petroske of the Brevard County FL Sheriff's Office spots a truck that
+- Cpl Joe Petroske of the Brevard County, FL, Sheriff's Office spots a truck that
   goes through an intersection at 70+ miles per hour and conducts a traffic
   stop. The driver claims he was only going 50 and mentions that his brother's
   gun is in the truck. Petroske recovers the unloaded weapon from the vehicle
@@ -16899,7 +16907,7 @@ Aired 2007-11-10.
   the man that being a convicted felon; he cannot have the firearm in his
   possession. Petroske reads the man's elaborate criminal history that includes
   burglary and possession charges.
-- Sgt. Pete Hedrick of the Lee County FL Sheriff's Office patrols a stretch of
+- Sgt. Pete Hedrick of the Lee County, FL Sheriff's Office patrols a stretch of
   highway in Lee County as part of a drug interdiction team. He pulls over a
   vehicle for a window tint inspection and observes an object being tossed from
   the passenger window. He recovers a brown sock containing crack cocaine and
@@ -16970,7 +16978,7 @@ Supposed to air 2007-10-20 at 9pm, but baseball erased it. Reaired 2007-12-01.
   claims he tried to run because he was scared and just got out of jail. While
   the young man proclaims his innocence, his record states otherwise as it
   includes pages of charges for larceny.
-- Lee County FL Sheriff's Office -- Deputy Robert Rizzi stops by a local
+- Lee County, FL, Sheriff's Office -- Deputy Robert Rizzi stops by a local
   hangout and finds a house full of people. The homeowner claims he has cleaned
   up as of late. One of his guests is driving a blue truck and deputies decide
   to search the vehicle. Rizzi finds a straw which the man claims he uses to
@@ -17026,7 +17034,7 @@ Aired 2007-12-08.
   the female for giving him the wrong directions. When told he is accountable
   for the open container regardless of who was drinking, he becomes more upset
   and states that it is his wish to see the female go to jail, too.
-- Brevard County FL Sheriff's Office -- Deputy Jimmy Adams responds to a call
+- Brevard County, FL, Sheriff's Office -- Deputy Jimmy Adams responds to a call
   received of a vehicle that is driving erratically. When Deputy Adams attempts
   to make contact with the driver, he is non-compliant -- talking on the cell
   phone, putting his coat on and reaching under the seat. The man eventually
@@ -17056,7 +17064,7 @@ Aired 2008-04-26.
   foot. During the foot chase, the suspect fired a single shot at close range
   towards the security guard. The female victim explains that the man pointed
   his gun at her and stole her purse.
-- (Brevard County FL -- 6:15 PM Assistance Call) Sheriff's Office East Precinct
+- (Brevard County, FL -- 6:15 PM Assistance Call) Sheriff's Office East Precinct
   -- Deputy Juan Vargas, Jr. is dispatched to assist in the apprehension of a
   suspect wanted in connection with a shoplifting incident at a local store.
   The man is quickly located and is detained until a witness from the store can
@@ -17363,7 +17371,7 @@ Aired 2008-03-08.
   explains that as bad as it sounds, he was only trying to provide for his
   family. The woman is told by the officers that Portland has many social
   programs and she should sign up if not for herself than for her unborn child.
-- Deputy Adam Wilkinson of the Leon County FL Sheriff's Office stops a vehicle
+- Deputy Adam Wilkinson of the Leon County, FL Sheriff's Office stops a vehicle
   that is seen driving erratically. The driver is taken out of the truck and
   the eagle eyed deputy notices that the driver seems to be intoxicated. He
   cuffs the man up and orders the passenger out of the truck. The driver tells
@@ -17405,7 +17413,7 @@ Aired 2008-05-07.
   anything about the vehicle and she's claims she was not driving. She tells
   the officer her friend was behind the wheel and that her friend has left on
   foot.
-- (Leon County FL -- 11:59 PM Traffic Stop) Sheriff's Office -- Deputy Mike
+- (Leon County, FL -- 11:59 PM Traffic Stop) Sheriff's Office -- Deputy Mike
   Punausuia makes a traffic stop. The driver explains that he was looking for a
   friends house and was going to make a lane change when he spotted the deputy
   behind him. He questions the driver and asks if he may search the vehicle.
@@ -17517,7 +17525,7 @@ Aired 2008-02-16.
   Officer Edwards explains that the man has several warrants and questions why
   the man would run from the police. Edwards expresses his appreciation for the
   help he received in apprehending the suspect by the civilians in the area.
-- Deputy Dan Roufa of the Leon County FL Sheriff's Office runs a tag that come
+- Deputy Dan Roufa of the Leon County, FL Sheriff's Office runs a tag that come
   back stolen. He follows the vehicle at a distance and watches as the driver
   bails out and runs into a wooded area. With the help of a K-9, he apprehends
   the young man. A search of the vehicle turns up a drug scale. The suspect has
@@ -17576,7 +17584,7 @@ Aired 2008-03-29.
   the two women into custody and the women explain that the two male occupants
   continued east. K-9 tracks the suspects with the help of an air unit and the
   two men are taken into custody.
-- Deputy Anthony Geraldi of the Leon County FL Sheriff's Office patrols a
+- Deputy Anthony Geraldi of the Leon County, FL Sheriff's Office patrols a
   neighborhood that has had a rash of burglaries in the past month. He spots an
   occupied vehicle stopped on the roadside and decide to question the
   occupants. The male and female occupants explain that they are just parked
@@ -17649,7 +17657,7 @@ Aired 2008-05-31.
   even die. The woman looses her contacts during the struggle. The woman
   explains that she is trying to make ends meet by selling drugs because she
   just broke up with her boyfriend.
-- Deputy Travis Dykes of the Martin County FL Sheriff's Office conducts a
+- Deputy Travis Dykes of the Martin County, FL Sheriff's Office conducts a
   traffic strop on vehicle with an improperly displayed tag. The owner comes
   back as being previously suspended and the Deputy questions her regarding her
   status. During the investigation, Sgt.  Bill Dowdy spots materials that
@@ -17681,7 +17689,7 @@ Aired 2008-07-12.
 
 **Coast to Coast 142**
 
-- (Martin County FL -- 11:40 PM Street Patrol) Sheriff's Office -- Deputy
+- (Martin County, FL -- 11:40 PM Street Patrol) Sheriff's Office -- Deputy
   Donovan Hepler patrols a flea market that has been burglarized multiple times
   in the preceding weeks. Deputy Hepler immediately spots two males running
   away from the flea market and calls for assistance. Other deputies surround
@@ -17700,7 +17708,7 @@ Aired 2008-07-12.
   variety of drugs. Sgt. Reyes finds a 9MM Glock handgun under the front seat
   and the suspect is informed that he is looking at a federal case as he is a
   felon in possession of a loaded gun, drugs and lots of cash.
-- Deputy Carlos Lisboa of the Palm Beach County FL Sheriff's Office stops a
+- Deputy Carlos Lisboa of the Palm Beach County, FL Sheriff's Office stops a
   vehicle for a moving violation. The driver tells the deputy he has never been
   arrested, but a driver's license check returns that he was arrested for a
   drug violation a few months prior. The passenger doesn't have ID and is not
@@ -17719,7 +17727,7 @@ Aired 2008-06-14.
 
 **What Were They Thinking 2 Special Edition**
 
-- (Palm Beach County FL -- 9:52 PM Armed Robbery Call) Deputy Mark Lanier
+- (Palm Beach County, FL -- 9:52 PM Armed Robbery Call) Deputy Mark Lanier
   responds to assist on the capture of an armed robbery suspect that has bolted
   into the woods. A K-9 unit tracks the suspect into the woods and quickly
   finds the man hiding under some brush. The suspect is taken into custody with
@@ -17799,7 +17807,7 @@ Aired 2008-08-02.
 
 **Police Pullovers 4 Special Edition**
 
-- (Palm Beach County FL -- 12:48 AM Traffic Stop) Sheriff's Office District 3
+- (Palm Beach County, FL -- 12:48 AM Traffic Stop) Sheriff's Office District 3
   Street Team -- Deputy Sean McMichael stops a vehicle for a vehicle code
   infraction. The driver gets upset when the deputy starts searching him. When
   the deputy asks him to slip his shoes off the man feints to the right and
@@ -17819,7 +17827,7 @@ Aired 2008-08-02.
   learn that the name he provided is correct. They explain the charges to the
   man, which include possession of a stolen vehicle and driving on a suspended
   license.
-- Deputy Angel Artola of the Palm Beach County FL Sheriff's Office conducts a
+- Deputy Angel Artola of the Palm Beach County, FL Sheriff's Office conducts a
   traffic stop on a vehicle where the passenger was observed possibly rolling
   up a marijuana cigarette. The deputy smells marijuana in the vehicle and
   decides to search the vehicle with that probable cause. The female driver
@@ -17852,7 +17860,7 @@ Aired 2008-07-19.
   investigation determines that the name of the person that supposedly worked
   at the taco stand is not an employee. Officers survey the damage and discuss
   the K-9's engagement with the suspect.
-- Deputy Andrew Porcelli of the Martin County FL Sheriff's Office conducts a
+- Deputy Andrew Porcelli of the Martin County, FL Sheriff's Office conducts a
   traffic stop a vehicle with a brake light out. The driver admits he doesn't
   have a license and is detained. The driver also admits that he has
   prescription pills in the glove box. The female passenger is 8 months
@@ -17867,7 +17875,7 @@ Aired 2008-07-19.
   pregnant passenger is allowed to take the vehicle so that she can get medical
   attention. The deputies admonish the pregnant female for her involvement in
   drugs and hopes that she gets help before she gives birth.
-- Sgt. Steven Strivelli and Sgt. Anthony Torella of the Palm Beach County FL
+- Sgt. Steven Strivelli and Sgt. Anthony Torella of the Palm Beach County, FL
   Sheriff's Office Vice Unit raid a suspected drug house, arresting several
   people in the home. The female homeowner is upset to learn that the woman she
   had tried to help out is selling crack out of her house and angrily tells her
@@ -17909,7 +17917,7 @@ Aired 2008-02-02.
   authorities. The man drives around a corner but quickly changes his mind and
   gives up without further incident. The other suspect is found by the air unit
   hiding in a ditch.
-- Deputy Sean McMichael of the Palm Beach County FL Sheriff's Office assist in
+- Deputy Sean McMichael of the Palm Beach County, FL Sheriff's Office assist in
   the tracking of a vehicle that was seen leaving the area of a burglary. The
   car exits the freeway directly in front of Deputy McMichael's patrol car. The
   driver veers off of the paved road to avoid the deputies and fails to stop.
@@ -17962,7 +17970,7 @@ Aired 2008-07-26.
 
 **Coast to Coast 144**
 
-- (Palm Beach County FL -- 6:14 PM Traffic Stop) Sheriff's Office District 1
+- (Palm Beach County, FL -- 6:14 PM Traffic Stop) Sheriff's Office District 1
   Street Team -- Deputy Keith Stokes stops a vehicle for running a stop sign.
   The passenger steps out of the car and begins to run away from the traffic
   stop. The deputy chases the suspect through several yards before the suspect
@@ -18062,7 +18070,7 @@ Aired 2008-09-06.
 
 **What a Sap Special Edition**
 
-- (Palm Beach County FL -- 8:46 PM Traffic Stop) Sheriff's Office District 3 --
+- (Palm Beach County, FL -- 8:46 PM Traffic Stop) Sheriff's Office District 3 --
   Cpl Matthew Ott spots a vehicle traveling at a higher than posted speed
   through a neighborhood known for drug activities. The Corporal stops the
   vehicle and the driver immediately opens his door and questions the reason
@@ -18110,7 +18118,7 @@ Aired 2008-09-13.
 
 **Stupid Behavior 3 Special Edition**
 
-- (Palm Beach County FL -- 1:55 PM Buy Bust Sting) Sheriff's Office Narcotics
+- (Palm Beach County, FL -- 1:55 PM Buy Bust Sting) Sheriff's Office Narcotics
   Division -- Sgt. Steven Strivelli and Sgt. Anthony Torella set up a sting
   operation to catch narcotics dealers. They use two undercover officers in a
   pickup truck posing as buyers. The first suspect flags down the deputies and
@@ -18131,7 +18139,7 @@ Aired 2008-09-13.
   doesn't want him arrested, but if he cannot pay arrest him. The man has
   several warrants for his arrest across the country including a DUI charge
   locally. The man is arrested for burglary & defrauding an innkeeper.
-- (Palm Beach County FL -- 12:48 AM Traffic Stop) Sheriff's Office District 3
+- (Palm Beach County, FL -- 12:48 AM Traffic Stop) Sheriff's Office District 3
   Street Team -- Deputy Mark Lanier stops a vehicle for a tint violation. The
   driver rolls down the window and a billowing yellow cloud of pungent
   marijuana smoke pours from the vehicle. The deputy decides to search the
@@ -18225,7 +18233,7 @@ Aired 2008-10-04.
 
 **Coast to Coast 145**
 
-- (Broward County FL -- 10:47 PM Possible Drug Activity) Sheriff's Office
+- (Broward County, FL -- 10:47 PM Possible Drug Activity) Sheriff's Office
   Special Investigations Unit -- Detective Anthony Costanzo and Deputy Henry
   Lopez are in the area tracking down a male suspect that was seen by an
   informant selling narcotics.
@@ -18260,7 +18268,7 @@ Aired 2008-09-06.
 
 **Back to Broward Special Edition**
 
-- (Broward County FL -- 12:57 AM Vehicle Pursuit) Sheriff's Office Special
+- (Broward County, FL -- 12:57 AM Vehicle Pursuit) Sheriff's Office Special
   Investigations Unit -- Detective Brann Redl and Detective Anthony Costanzo
   pick up the chase of a hit and run driver. The Detectives get right up next
   to the suspect vehicle and the driver hits their vehicle. After a prolonged
@@ -18332,7 +18340,7 @@ Aired 2008-11-15.
 
 **Liar Liar 2 Special Edition**
 
-- (Broward County FL -- 11:22 PM Traffic Stop) Sheriff's Office Selective
+- (Broward County, FL -- 11:22 PM Traffic Stop) Sheriff's Office Selective
   Enforcement Team -- Detective Tony Cuesta stops a vehicle for a minor traffic
   violation.
 - (North Las Vegas, NV -- 10:46 PM Fight Call) Police Department South Area
@@ -18348,13 +18356,13 @@ Aired 2008-11-22.
 
 **Evidence...What Evidence? 2 Special Edition**
 
-- (San Bernardino County CA -- 7:14 PM Deputy Assistance Call) Rancho Cucamonga
+- (San Bernardino County, CA -- 7:14 PM Deputy Assistance Call) Rancho Cucamonga
   Police Department -- Deputy Brian Lopez & Deputy Keith Nessel respond to a
   shoplifting call at a local mall.
 - (North Las Vegas, NV -- 4:48 AM Shots Fired Call) Police Dept. South Area
   Command -- Officer Brian Godkin is dispatched to the scene of multiple
   gunshots being fired at officers.
-- (Broward County FL -- 4:41 PM Traffic Stop) Sheriff's Office Selective
+- (Broward County, FL -- 4:41 PM Traffic Stop) Sheriff's Office Selective
   Enforcement Team -- Sgt. George Anthony pulls over a vehicle for aggressive
   driving.
 
@@ -18366,7 +18374,7 @@ Aired 2008-12-06.
 
 (First episode with the new TV ratings warning)
 
-- (Broward County FL -- 6:28 PM Deputy Assistance Call) Sheriff's Office
+- (Broward County, FL -- 6:28 PM Deputy Assistance Call) Sheriff's Office
   Regional Anti-Crime Squad -- Detective Bob Anderson and  Detective Ed
   MacDougall go to assist a narcotics detective in the takedown of an ecstasy
   dealer.
@@ -18520,7 +18528,7 @@ Aired 2009-03-14.
 
 - (Sacramento, CA -- 7:17 PM Carjacking Suspect) Police Department -- Officer
   Michael Harbison spots a vehicle taken in a carjacking the previous night.
-- (Hillsborough County FL -- 11:09 PM Flagged Down) Sheriff's Office District 2
+- (Hillsborough County, FL -- 11:09 PM Flagged Down) Sheriff's Office District 2
   -- Deputy Ryan Zacher is dispatched to a theft in progress.
 - (Houston, TX -- 3:18 PM Drug Sting) Police Department South Central Tactical
   Unit -- Sgt. Roy Haney assigned to the gang unit, reports that the gang unit
@@ -18534,9 +18542,9 @@ Aired 2009-03-21.
 
 - (Sacramento, CA -- 12:27 AM Traffic Stop) Police Department -- Officer Ben
   Spencer has to fight a felon trying to conceal crack.
-- (King County WA -- 9:05 PM Assistance Call) Sheriff's Office Air Support Unit
+- (King County, WA -- 9:05 PM Assistance Call) Sheriff's Office Air Support Unit
   -- Deputy Ken O'Neal coordinates the search for a man running from a bar.
-- (Hillsborough County FL -- 12:25 AM Theft in Progress Call) Sheriff's Office
+- (Hillsborough County, FL -- 12:25 AM Theft in Progress Call) Sheriff's Office
   District 2 -- Deputy Ryan Zacher catches a couple siphoning gas from a truck.
 
 ## CP-2123
