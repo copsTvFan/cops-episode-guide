@@ -7763,10 +7763,15 @@ Aired 1994-05-14.
 
 **Los Angeles, CA 14**
 
-- (8:31 PM Stolen Vehicle) North Hollywood Area -- Officer Stephen Egan says
-  there are 3.1 million people in the city, 18 sectors and lots of diversity.
-  They spot a stolen white van. Chase involves stolen van; composer is
-  arrested; domestic dispute.
+- (Los Angeles, CA -- 8:31 PM Stolen Vehicle) North Hollywood Area -- Officer
+  Stephen Egan says there are 3.1 million people in the city, 18 sectors and
+  lots of diversity.  They spot and chase a stolen white Toyota van with a
+  Kansas plate. Featuring Officer Fortunato Mariscal.
+- (Hollywood Area, Los Angeles, CA -- 12:15 AM Man with a Gun)Training Officer
+  John Mott and Officer Brian Barrett arrest Jack Nitzsche. Featuring Sgt.
+  Roger Dunning.
+- (Foothill Area, Los Angeles, CA -- 1:32 AM Assault in Progress) Training
+  Officer Jim Gavin, Officer Jeff Chang. Domestic dispute.
 
 ## CP-702
 
@@ -12378,13 +12383,14 @@ Aired 2002-02-02.
 
 **Coast to Coast 11**
 
-- (Fort Worth, TX -- 2:03 AM Traffic Stop) North Division -- Officer David Tate
-  says everyone in Baker district has a nickname, his is Tater because of his
-  last name. There are lots of crimes, but the ones he likes best are catching
-  car thieves and burglars -- it's rewarding. He sees a vehicle on 28th with a
-  head light out. It turns south on McHenry and runs a stop sign. He instructs
-  them pull off the road, but the suspect speeds off into a neighborhood and
-  eventually attempts a getaway on foot.
+- (Fort Worth, TX -- 2:03 AM Traffic Stop (renamed to 2:03 AM Vehicle Pursuit
+  in later releases)) North Division -- Officer David Tate says everyone in
+  Baker district has a nickname, his is Tater because of his last name. There
+  are lots of crimes, but the ones he likes best are catching car thieves and
+  burglars -- it's rewarding. He sees a vehicle on 28th with a head light out.
+  It turns south on McHenry and runs a stop sign. He instructs them pull off
+  the road, but the suspect speeds off into a neighborhood and eventually
+  attempts a getaway on foot.
 - (Chattanooga, TN -- 1:21 AM Suspicious Person Call) Officer Johnathon
   Chambers tracks down an intoxicated suspect who was ejected from a local bar
   for causing trouble, but after giving the man a warning and calling a cab,
