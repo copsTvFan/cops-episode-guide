@@ -9617,17 +9617,18 @@ Aired 1997-05-10.
 
 **Fort Myers, FL 4**
 
-- (11:18 PM Street Patrol) Lee County East District -- Deputy James Creghan
-  needs an out from police work so he races stock cars across Florida and in
-  Georgia too. When he races he forgets everything. He takes the call of a
-  suffocating infant on a breathing tube who is experiencing breathing
-  difficulties./Shoplifting call at a clothing with two black girls. Deputy
-  Miller arrests them since they were videotaped/Disturbance Call -- Deputy
-  Caivano questions a man and a woman at a restaurant who ordered an
-  all-you-can-eat meal then refused to pay their bill because the manager
-  denied them doggie bags. It doesn't matter that they are shown the sign that
-  reads no doggie bags and that they've tried to pull the same stunt there
-  before.
+- (Lee County, FL -- 11:18 PM Street Patrol) Lee County East District -- Deputy
+  James Creghan needs an out from police work so he races stock cars across
+  Florida and in Georgia too. When he races he forgets everything. He takes the
+  call of a suffocating infant on a breathing tube who is experiencing
+  breathing difficulties. Featuring Sgt. Agustin Malagon.
+- (Lee County, FL -- 8:32 PM Shoplifting Call) Deputy Mike Miller and Deputy
+  Pat Healey arrest two black girls since they were videotaped shoplifting.
+- (Lee County, FL -- 9:06 PM Disturbance Call) Deputy Stacey Caivano questions
+  a man and a woman at a restaurant who ordered an all-you-can-eat meal then
+  refused to pay their bill because the manager denied them doggie bags for
+  their leftovers. It doesn't matter that they are shown the sign that reads no
+  doggie bags and that they've tried to pull the same stunt there before.
 
 ## CP-935
 
@@ -14102,7 +14103,7 @@ Aired 2004-03-06.
 
 **Resisting Arrest 2 Special Edition**
 
-- (Cincinnati, OH -- 12:23 AM Accident call) Cincinnati Police Department 3rd
+- (Cincinnati, OH -- 12:23 AM Accident Call) Cincinnati Police Department 3rd
   district -- Officer Chris Manson, Officer Jeff Wieczorkowski
 - (Spokane, WA -- 9:26 PM Street Patrol) Spokane PD -- Sgt. Jason Hartman
 - (Harris County TX -- 8:03 PM Domestic Disturbance) District 3 -- Deputy C.J.
@@ -14288,13 +14289,13 @@ Aired 2004-09-11.
   backup is needed. God forbid a 108 officer down, comes in, but you'll see
   great support. They respond to the call of drunk, violent guy at a bar on
   Decatur St. A black guy is sitting at a table in a Bob Marley Exodus shirt
-  grooving to the music and being crazy. He won't listen to the police so they
-  spray him in the face with tons of mace to no avail. Officer Blake Munster
-  helps out and make the man drop his glass. He then goes into the bathroom and
-  does karate moves. They spray him again and again and he only gets crazier.
-  Six officers jump him and knock him into a wall, cutting his head open.
-  Officers are choking from the mace as they wash the suspect's face with
-  water, cuff him and take him to a charity hospital.
+  grooving to the music and being crazy, showing kung fu moves. He won't listen
+  to the police so they spray him in the face with tons of mace to no avail.
+  Officer Blake Munster helps out and make the man drop his glass. He then goes
+  into the bathroom and does karate moves. They spray him again and again and
+  he only gets crazier.  Six officers jump him and knock him into a wall,
+  cutting his head open.  Officers are choking from the mace as they wash the
+  suspect's face with water, cuff him and take him to a charity hospital.
 - Jacksonville -- Zone 5 -- Officer Jaime Eason thrives on chasing people,
   never knows what's next and because of that loves coming to work. (9:32 PM
   Assistance Call) A guy is driving with his girlfriend and her mom Becky. Mom
@@ -14903,7 +14904,8 @@ expand outward.
   says they aren't stolen, he just has a fetish for women's clothes. He picked
   up Tom for jaywalking yesterday and arrested him last week too. He is
   sweating as they find a 16 oz bottle of Bud in his sock. He also has one
-  stuffed in his crotch that's freezing him.
+  stuffed in his crotch that's freezing him. This is the famous "Top of the
+  line" / "Watch the brand" / "I'm the loneliest man in Las Vegas" segment.
 - (Homicide Investigation) Shelia found out the killers are hustlers and took
   advantage of the older man at the bar.
 - (Warrant Search) they go to the apartment and find a bloody tank top, the
