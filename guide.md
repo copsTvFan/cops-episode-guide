@@ -14481,37 +14481,39 @@ Aired 2005-01-08.
 
 **Maui Wowie Special Edition**
 
-- (Las Vegas, NV -- 7:27 PM Stolen Vehicle)
-Southeast Area Command -- Officer Larry Symonette is heading to a domestic
-looking for a white Camry the air unit is following. They spot the car and give
-chase through a residential neighborhood. The female passenger, Kim, is tossed
-out on a turn, the white driver reaches for something, goes into an apartment
-complex, bails out and is caught. Officer Rolondo Pro is driving and catches
-him. He threw Kim out because the car was stolen and she didn't know. He took
-it a few days ago from a friend -- one key fits all. Kim is brought back
-limping. He picked her up, they fought and she jumped out to get away from him
-and cries when she is caught lying. She didn't know why he threw her out. He
-just said, "Get out, bitch!" She wants to get back to her son. It turns out
-he's stolen 3 or 4 cars in the last week. Jacksonville, FL (12:35 AM Vehicle
-Pursuit) Zone 5 -- Officer Matthew Bolan says it's always active. He follows a
-big black guy in a white car that ran some stop signs. They try stop sticks and
-he almost hits a cop, points out the window, pulls into a driveway, gets out
-and surrenders. He just wanted to get the car home and didn't stop because he
-had to use the restroom. His license is suspended for not paying tickets. They
-find some weed in the car and some roaches. He has a warrant for not paying
-child support -- all misdemeanors. He wants them to tell his wife what happened.
-She says they are married and have kids, so why would he pay child support?
-Sgt. Gary Cross asks why he ran. He says his daughter needed the car to get to
-work tomorrow. They would've let him take the car home, but now it's a felony.
-She says it could've been worse and thanks god. He says when he saw them he
-waved out the window. Maui, HI (2:13 PM Operation Green Harvest) Sgt. John
-Kaupalolo has prior info on marijuana patches and they are heading out to the
-fields in the east and west to look for pot. Officer Mike Victorine is the
-pilot and they spot a patch of land where water is fed to the plants. Officer
-Howard Rodrigues is dropped in to tie the plants and carry them back up. They
-go over to the east side and drop down to find 2 patches that are marked with
-lines and camouflaged by foliage. Big plants, big money, they do it all day to
-ruin other people's days.
+- (Las Vegas, NV -- 7:27 PM Stolen Vehicle) Southeast Area Command -- Officer
+  Larry Symonette is heading to a domestic looking for a white Camry the air
+  unit is following. They spot the car and give chase through a residential
+  neighborhood. The female passenger, Kim, is tossed out on a turn, the white
+  driver reaches for something, goes into an apartment complex, bails out and
+  is caught. Officer Rolondo Pro is driving and catches him. He threw Kim out
+  because the car was stolen and she didn't know. He took it a few days ago
+  from a friend -- one key fits all. Kim is brought back limping. He picked her
+  up, they fought and she jumped out to get away from him and cries when she is
+  caught lying. She didn't know why he threw her out. He just said, "Get out,
+  bitch!" She wants to get back to her son. It turns out he's stolen 3 or 4
+  cars in the last week.
+- Jacksonville, FL (12:35 AM Vehicle Pursuit) Zone 5 -- Officer Matthew Bolan
+  says it's always active. He follows a big black guy in a white car that ran
+  some stop signs. They try stop sticks and he almost hits a cop, points out
+  the window, pulls into a driveway, gets out and surrenders. He just wanted to
+  get the car home and didn't stop because he had to use the restroom. His
+  license is suspended for not paying tickets. They find some weed in the car
+  and some roaches. He has a warrant for not paying child support -- all
+  misdemeanors. He wants them to tell his wife what happened.  She says they
+  are married and have kids, so why would he pay child support?  Sgt. Gary
+  Cross asks why he ran. He says his daughter needed the car to get to work
+  tomorrow. They would've let him take the car home, but now it's a felony.
+  She says it could've been worse and thanks god. He says when he saw them he
+  waved out the window.
+- Maui, HI (2:13 PM Operation Green Harvest) Sgt. John Kaupalolo has prior info
+  on marijuana patches and they are heading out to the fields in the east and
+  west to look for pot. Officer Mike Victorine is the pilot and they spot a
+  patch of land where water is fed to the plants. Officer Howard Rodrigues is
+  dropped in to tie the plants and carry them back up. They go over to the east
+  side and drop down to find 2 patches that are marked with lines and
+  camouflaged by foliage. Big plants, big money, they do it all day to ruin
+  other people's days.
 
 ## CP-1709
 
@@ -15369,48 +15371,50 @@ Aired 2005-04-30.
 
 **Coast to Coast 77**
 
-- (Hamilton County, OH -- 3:55 PM Hit and Run Call)
-Sheriff's Office -- Corporal Pete Enderle says it's satisfying to help someone
-with a particular problem. They thank you, it's genuine from the heart and
-makes it all worth while. That's why you do it -- for the thanks, not for the
-glory. He knows the black male driver Lawrence, has dealt with him before and
-drives by his house. He spots the car, gets out and sees the suspect run
-inside. He runs out the back, Pete chases him and gets tasered. Lawrence has
-Coolio hair and asks what did he do. It's because he hit someone on Niagara and
-is mirandized. He jumped out the window because he saw all the cops and doesn't
-have time for all this. He says a kid ran right into his car, thought he was OK
-and left because they said they were going to mess him up. It turns out he
-didn't have a license or a cell phone and didn't know if the police were
-coming. He didn't think anything was wrong and he really needed a cigarette,
-that's why he climbed out the window, but would've come back. He would've only
-gotten a ticket if he stuck around, now he gets resisting and driving while
-suspended. Even worse is he wasn't at fault for the accident, but he's still
-going to jail. Fresno, CA (9:01 PM Suspicious Activity) Southwest Policing
-District CST -- Officer Paul Cervantes says they are doubled up working with the
-suppression team on the hotel area looking for prostitutes and drugs. His
-partner Officer David Miramontes spots a car with a prostitute and they pull
-them over. Charlene is really a he. Arthur the driver says he saw the woman on
-the bridge, picked her up and gave her a ride to her sisters'. Charlene is a
-manly Mexican guy with heavy makeup. Arthur insists he didn't ask for sex, but
-thought he could've been a prostitute. They arrest Charlene and the driver says
-he has a joint in the car. They find a tub with pot, a pipe and rolling papers.
-Sgt. Mike Doyle backs them up. Charlene has a steak knife in his purse.
-Recently someone was killed when they thought they picked up a woman and it was
-man so David asks Arthur if he would've gotten violent if he learned it was a
-guy. He says no. David says not to come back and hopes he learned his lesson.
-Pierce Co, WA (10:35 PM Traffic Stop) Officer Mike Phipps has been working
-Lakewood Graveyard for 5 couple years. Officer Matt Brown has worked every
-shift and graveyard is the best -- good fun, camaraderie, partnership and lots
-of joking. Mike spots a motorcycle speeding he stops him a parking lot and when
-they get out he takes off. He blows a stop light at 100th and then hits a truck
-that pulling out of a 7-11. The bike skids down the street in a sea of sparks
-and he is thrown. The truck's front bumper is ripped off, the fender and
-smashed and the tire is destroyed. Officer Monti Minion and Officer Andrew
-O'Neill back them up. The biker isn't breathing, but EMS arrives and is able to
-revive him. The motorcycle is wrecked from the 100mph crash, his helmet is
-cracked in half and he skidded and wrapped his leg around himself. Officer
-Jason Smith says he has three traffic warrants and the hospital is only 5
-blocks away.
+- (Hamilton County, OH -- 3:55 PM Hit and Run Call) Sheriff's Office --
+  Corporal Pete Enderle says it's satisfying to help someone with a particular
+  problem. They thank you, it's genuine from the heart and makes it all worth
+  while. That's why you do it -- for the thanks, not for the glory. He knows
+  the black male driver Lawrence, has dealt with him before and drives by his
+  house. He spots the car, gets out and sees the suspect run inside. He runs
+  out the back, Pete chases him and gets tasered. Lawrence has Coolio hair and
+  asks what did he do. It's because he hit someone on Niagara and is
+  mirandized. He jumped out the window because he saw all the cops and doesn't
+  have time for all this. He says a kid ran right into his car, thought he was
+  OK and left because they said they were going to mess him up. It turns out he
+  didn't have a license or a cell phone and didn't know if the police were
+  coming. He didn't think anything was wrong and he really needed a cigarette,
+  that's why he climbed out the window, but would've come back. He would've
+  only gotten a ticket if he stuck around, now he gets resisting and driving
+  while suspended. Even worse is he wasn't at fault for the accident, but he's
+  still going to jail.
+- Fresno, CA (9:01 PM Suspicious Activity) Southwest Policing District CST --
+  Officer Paul Cervantes says they are doubled up working with the suppression
+  team on the hotel area looking for prostitutes and drugs. His partner Officer
+  David Miramontes spots a car with a prostitute and they pull them over.
+  Charlene is really a he. Arthur the driver says he saw the woman on the
+  bridge, picked her up and gave her a ride to her sisters'. Charlene is a
+  manly Mexican guy with heavy makeup. Arthur insists he didn't ask for sex,
+  but thought he could've been a prostitute. They arrest Charlene and the
+  driver says he has a joint in the car. They find a tub with pot, a pipe and
+  rolling papers.  Sgt. Mike Doyle backs them up. Charlene has a steak knife in
+  his purse.  Recently someone was killed when they thought they picked up a
+  woman and it was man so David asks Arthur if he would've gotten violent if he
+  learned it was a guy. He says no. David says not to come back and hopes he
+  learned his lesson.
+- Pierce Co, WA (10:35 PM Traffic Stop) Officer Mike Phipps has been working
+  Lakewood Graveyard for 5 couple years. Officer Matt Brown has worked every
+  shift and graveyard is the best -- good fun, camaraderie, partnership and
+  lots of joking. Mike spots a motorcycle speeding he stops him a parking lot
+  and when they get out he takes off. He blows a stop light at 100th and then
+  hits a truck that pulling out of a 7-11. The bike skids down the street in a
+  sea of sparks and he is thrown. The truck's front bumper is ripped off, the
+  fender and smashed and the tire is destroyed. Officer Monti Minion and
+  Officer Andrew O'Neill back them up. The biker isn't breathing, but EMS
+  arrives and is able to revive him. The motorcycle is wrecked from the 100mph
+  crash, his helmet is cracked in half and he skidded and wrapped his leg
+  around himself. Officer Jason Smith says he has three traffic warrants and
+  the hospital is only 5 blocks away.
 
 ## CP-1729
 
