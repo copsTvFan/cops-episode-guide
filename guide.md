@@ -7526,7 +7526,7 @@ Aired 1993-11-20.
 **Cleveland, OH 2**
 
 - (8:28 PM Disturbance Call) Man assaults girlfriend
-- nude suspect breaks into school.
+- Nude black male on PCP breaks into school and keeps shouting "Rodney King!"
 
 ## CP-631
 
@@ -16302,7 +16302,9 @@ Aired 2006-09-09.
 
 - (Riverside County, CA -- 4:49 PM Traffic Stop) A routine traffic-stop turns into a major accident involving a bicyclist and another motorist; an embarrassing domestic-violence call.
 - Palm Beach County, FL
-- Martin County, FL
+- (Martin County, FL -- 8:57 PM Possible Drug Activity) Detective Chris Conrad
+  and Detective Danny Cunningham arrest Jose, the Candy Cane / Cocaine Candy
+  man.
 
 ## CP-1905
 
