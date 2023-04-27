@@ -11881,9 +11881,31 @@ Aired 2001-03-24.
 
 **Pierce County, WA 30**
 
-- (2:26 AM Traffic Stop) South Hill Precinct -- Deputy Robert Fishe prefers graveyard, it's a great shift. It starts busy, slows down and you get to be proactive trying to stop crimes. He spots a motorcycle with expired tags and it slowly runs away, then floors it going north on 173rd, goes down an alley, crashes and bails while the bike is still running. K-9 Deputy Greg Premo goes after him and catches him hiding in a lake. James is an older white guy who is out of breath and cuffed. James ran because he was scared and asks him if he's high since he seems wasted.
-- (1:28 AM Traffic Stop) South Hill Precinct -- Deputy Jeff Reigle says graveyard is his favorite shift, it's busy and he works west side, lots of fun, great guys. He spots a body shop with their garage door open. He goes to investigate, then calls a K-9 in. No alarm went off and James is sitting in the back of a black Corvette and comes out. He works there for Tony doing brakes. K-9 Deputy John Munson arrives. He fell asleep in the car because he's meeting Tony there at 6am. He has keys for the place and goes to get them to show he can unlock the front door. Sonya is Tony's wife and laughs about how he will explain it. James was drinking and smoking weed there, has no place to stay, has a warrant, but they don't arrest him.
-- (10:49 PM Pursuit in Progress) South Hill Precinct -- Deputy Jeff Regle joins and the guy crashes his SUV and bails out. Deputy Jeff Galloway chased him and lost him. K-9 is brought in and he is caught. The dog bites him. Sgt. Paul Schneider comes in and the suspect says he was in a brown Toyota Seleca that belongs to a friend. K-9 says he took out a fence. EMT looks at him and the 2000 model car was stolen off a lot two days ago.
+- (Pierce County, WA -- 2:26 AM Traffic Stop) South Hill Precinct -- Deputy
+  Robert Fishe prefers graveyard, it's a great shift. It starts busy, slows
+  down and you get to be proactive trying to stop crimes. He spots a motorcycle
+  with expired tags and it slowly runs away, then floors it going north on
+  173rd, goes down an alley, crashes and bails while the bike is still running.
+  K-9 Deputy Greg Premo goes after him and catches him hiding in a lake. James
+  is an older white guy who is out of breath and cuffed. James ran because he
+  was scared and asks him if he's high since he seems wasted.
+- (Pierce County, WA -- 1:25 AM Street Patrol) South Hill Precinct -- Deputy
+  Jeff Reigle says graveyard is his favorite shift, it's busy and he works west
+  side, lots of fun, great guys. He spots a body shop with their garage door
+  open. He goes to investigate, then calls a K-9 in. No alarm went off and
+  James is sitting in the back of a black Corvette and comes out. He works
+  there for Tony doing brakes. K-9 Deputy John Munson arrives. He fell asleep
+  in the car because he's meeting Tony there at 6am. He has keys for the place
+  and goes to get them to show he can unlock the front door. Sonya is Tony's
+  wife and laughs about how he will explain it. James was drinking and smoking
+  weed there, has no place to stay, has a warrant, but they don't arrest him.
+- (Pierce County, WA -- 10:49 PM Pursuit in Progress) South Hill Precinct --
+  Deputy Jeff Regle joins and the guy crashes his SUV and bails out. Deputy
+  Jeff Galloway chased him and lost him. K-9 is brought in and he is caught.
+  The dog bites him. Sgt. Paul Schneider comes in and the suspect says he was
+  in a brown Toyota Seleca that belongs to a friend. K-9 says he took out a
+  fence. EMT looks at him and the 2000 model car was stolen off a lot two days
+  ago.
 
 ## CP-1322
 
