@@ -13247,7 +13247,7 @@ Aired 2002-09-14.
   and isn't happy about this. Deputy Elizabeth Linot chased him last night and
   the girl was there. She waved and toyed with them. She is 23, only knew him a
   couple of days and the airbags hit her.
-- (12:28 AM Stolen Vehicle) Deputy Theron Hardesty always wanted to be a cop.
+- (12:38 AM Stolen Vehicle) Deputy Theron Hardesty always wanted to be a cop.
   He tries to stop a car that runs down dirt and gravel roads, south on
   Meridian, hits stop sticks doing 70mph, takes a couple of turns then suddenly
   stops and gives up. There is a knife and 2 kids in the car. His girlfriend
