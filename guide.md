@@ -8706,35 +8706,36 @@ Aired 1996-05-11.
   stuff down and said, “why you messing with my people?” He got up in his face
   and pushed and punched the guy. The black guy pulled a knife to defend
   himself, he pulled out cassettes and said he was going to shoot him. If he
-  gave him $60 he would go away. (3:05 PM Disturbance Call) S.E. Division --
-  Officer Mike Witzgall is going to the 3200 block where a man drove animal
-  control off the road. The animal control man took an old mans' bird and says
-  it might be put to sleep. The old man was upset and went after him by cutting
-  him off the road. He says the bird is city property and wrote him a ticket
-  for interfering with a public official. It is a pigeon, a rat with wings, the
-  guy found it injured on the road, called them and was upset that it might be
-  put to sleep. The man asks for Mike's badge number and he says 5873 and tells
-  the man there is nothing he can do in this dispute. The law is if the bird is
-  wounded he has to pick it up and a vet will take care of it. The old man says
-  if he knew animal control would take the bird he never would've called. He
-  has a bird sanctuary and would take care of it, but he said he it was his.
-  The old man is all shaken up and says the man was a smart Alec to him. Then
-  they look at the bird, which looks OK. (11:15 PM Street Patrol) N.W. Division
-  -- Officer Greg Stonewall says his hobby is bodybuilding because when you
-  fight with someone even for 30 seconds it can wear you out. They get a fight
-  call and go to an apartment complex. Officer Rick Waller grabs one suspect.
-  They are shirtless and fighting right in the street. One gets punched in the
-  face and has a bloody nose when they stop it. One guy says they are brothers
-  and are just playing. Greg says they should play in the dirt then. They claim
-  they are just wrestling. The cops laugh and let them go and say to play
-  soccer instead. (12:17 AM Shooting Call) They go to the apartments on Valley
-  Meadow. An ambulance is on the scene, there is a bloody man shot on the
-  ground with his shoes off. A black man says a 4 door white car drove by with
-  2 black guys who shot the guy. They were just standing there talking and the
-  shooters thought they were Bloods or Crips. Officer Rhonda Baker closes the
-  scene. Greg says they see this all the time, can't let it bother them and
-  have to go on to the next call. They only talk about it for a few minutes
-  then forget about it.
+  gave him $60 he would go away.
+- (3:05 PM Disturbance Call) S.E. Division -- Officer Mike Witzgall is going to
+  the 3200 block where a man drove animal control off the road. The animal
+  control man took an old mans' bird and says it might be put to sleep. The old
+  man was upset and went after him by cutting him off the road. He says the
+  bird is city property and wrote him a ticket for interfering with a public
+  official. It is a pigeon, a rat with wings, the guy found it injured on the
+  road, called them and was upset that it might be put to sleep. The man asks
+  for Mike's badge number and he says 5873 and tells the man there is nothing
+  he can do in this dispute. The law is if the bird is wounded he has to pick
+  it up and a vet will take care of it. The old man says if he knew animal
+  control would take the bird he never would've called. He has a bird sanctuary
+  and would take care of it, but he said he it was his.  The old man is all
+  shaken up and says the man was a smart Alec to him. Then they look at the
+  bird, which looks OK.
+- (11:15 PM Street Patrol) N.W. Division -- Officer Greg Stonewall says his
+  hobby is bodybuilding because when you fight with someone even for 30 seconds
+  it can wear you out. They get a fight call and go to an apartment complex.
+  Officer Rick Waller grabs one suspect.  They are shirtless and fighting right
+  in the street. One gets punched in the face and has a bloody nose when they
+  stop it. One guy says they are brothers and are just playing. Greg says they
+  should play in the dirt then. They claim they are just wrestling. The cops
+  laugh and let them go and say to play soccer instead. (12:17 AM Shooting
+  Call) They go to the apartments on Valley Meadow.  An ambulance is on the
+  scene, there is a bloody man shot on the ground with his shoes off. A black
+  man says a 4 door white car drove by with 2 black guys who shot the guy. They
+  were just standing there talking and the shooters thought they were Bloods or
+  Crips. Officer Rhonda Baker closes the scene.  Greg says they see this all
+  the time, can't let it bother them and have to go on to the next call. They
+  only talk about it for a few minutes then forget about it.
 
 ## CP-820
 
@@ -8962,26 +8963,28 @@ Aired 1996-06-29.
   a man who pulls up in the rear who says he's just there to give a trumpet
   lesson. He actually has a trumpet, but there is meth in there. They ask if
   it's stolen and to prove it's his. So he plays a little bit and they let him
-  go. Gabe is charged with trafficking. (4:02 PM Assistance Call) Albuquerque
-  Valley Area Command -- Officer Gene Marquez says they do make a difference,
-  have helped quite a bit. When they feel they've hit a dead end they talk to
-  the neighbors who appreciate them. A woman went in a gas station asking for
-  help. A car is backing out that is damaged and held together with string in
-  the back. Gene stops them and suddenly Gerard pops up from the front seat. He
-  says he was looking for something. He is wearing a blue doorag is taken out
-  and cuffed. Officer Scott Grommes searches the car. Gene asks Mary the driver
-  what he's hiding, she says he dropped a cigarette. She lives in the south
-  valley, but has no license. She doesn't know what he was doing. They pour out
-  liquor, Gerard says he's not lying because that would be stupid and ignorant.
-  They find a credit card with the name Yolanda that doesn't belong to them.
-  Mary doesn't know anything. The cashier says Gerard tried to use Yolanda's
-  card there to buy beer. He also used the card yesterday. Sgt. Earl Holmes got
-  his name and admits he got the card from a guy and knew it was stolen. Gerard
-  says she didn't know anything. He's used it a few times since yesterday. Gene
-  says he was looking for a male subject with a gun and because he was acting
+  go. Gabe is charged with trafficking.
+- (4:02 PM Assistance Call) Albuquerque Valley Area Command -- Officer Gene
+  Marquez says they do make a difference, have helped quite a bit. When they
+  feel they've hit a dead end they talk to the neighbors who appreciate them. A
+  woman went in a gas station asking for help. A car is backing out that is
+  damaged and held together with string in the back. Gene stops them and
+  suddenly Gerard pops up from the front seat. He says he was looking for
+  something. He is wearing a blue doorag is taken out and cuffed. Officer Scott
+  Grommes searches the car. Gene asks Mary the driver what he's hiding, she
+  says he dropped a cigarette. She lives in the south valley, but has no
+  license. She doesn't know what he was doing. They pour out liquor, Gerard
+  says he's not lying because that would be stupid and ignorant.  They find a
+  credit card with the name Yolanda that doesn't belong to them.  Mary doesn't
+  know anything. The cashier says Gerard tried to use Yolanda's card there to
+  buy beer. He also used the card yesterday. Sgt. Earl Holmes got his name and
+  admits he got the card from a guy and knew it was stolen. Gerard says she
+  didn't know anything. He's used it a few times since yesterday. Gene says he
+  was looking for a male subject with a gun and because he was acting
   suspicious he stopped him. If he was acting normal he never would've noticed
-  him. (9:12 PM Traffic Stop) South Valley Sub-Station -- Deputy Ruben Barela
-  is from NM, born in the Albuquerque south valley, the streets he patrols now.
+  him.
+- (9:12 PM Traffic Stop) South Valley Sub-Station -- Deputy Ruben Barela is
+  from NM, born in the Albuquerque south valley, the streets he patrols now.
   He's known since he was a child he wanted to be a cop, you've probably heard
   it a 100 times. This is the area he always wanted to work. He stops a red
   T-bird with Iowa plates in a parking lot. The driver says a friend of his
@@ -9696,7 +9699,14 @@ Aired 1997-10-04.
 
 **Las Vegas, NV 18**
 
-- (5:23 PM Burglary Call) North West Area Command -- Officer Alan Klein says most of the citizens he deals with are great people and come from all over the world. When he got there the population was only 50-60,000 and now it is around 1.2 million. The have big city problems when it grows and expands like that so rapidly. His partner Officer Joede Vanek takes a call of someone who came home to find three juveniles burglarizing their house. In Las Vegas; burglary call; marijuana possession; impounded bikes stolen from police; stolen-vehicle call.
+- (5:23 PM Burglary Call) North West Area Command -- Officer Alan Klein says
+  most of the citizens he deals with are great people and come from all over
+  the world. When he got there the population was only 50-60,000 and now it is
+  around 1.2 million. The have big city problems when it grows and expands like
+  that so rapidly. His partner Officer Joede Vanek takes a call of someone who
+  came home to find three juveniles burglarizing their house. In Las Vegas;
+  burglary call; marijuana possession; impounded bikes stolen from police;
+  stolen-vehicle call.
 
 ## CP-1004
 
@@ -10239,17 +10249,18 @@ Aired 1998-02-14.
   had to be stopped. They have a new baby inside. They go to put him in the car
   and he flips out again and he has to be forced in. They weren't going to
   arrest him and told him that. She says he didn't know and she'll use the rent
-  money to get him out of jail. Corpus Christi -- Downtown District -- Sr.
-  Officer David Blackmon says he's a cop 10 hours a day and when he goes home
-  that's it -- it goes off. Officer Sergio Delgado spots Jose, a Mexican
-  criminal he knows, and he runs so he chases him on foot and catches him. He
-  says 'I'm not doing nothing' and ran because he was doing spray, but he
-  doesn't know where. He's a known paint huffer who's been arrested 6 times.
-  They retrieve a paint can he threw over a fence since he was too slow to get
-  away. He is Jose, but says his identical twin brother Juan got away. He brags
-  he can run, but never could. He's been huffing paint since he was 11, he's 33
-  now. Silver and gold are his favorites. They've been arresting him for 9
-  years. (Weapons Inspection) Sr. Officer Weldon Weber says maintaining their
+  money to get him out of jail.
+- Corpus Christi -- Downtown District -- Sr.  Officer David Blackmon says he's
+  a cop 10 hours a day and when he goes home that's it -- it goes off. Officer
+  Sergio Delgado spots Jose, a Mexican criminal he knows, and he runs so he
+  chases him on foot and catches him. He says 'I'm not doing nothing' and ran
+  because he was doing spray, but he doesn't know where. He's a known paint
+  huffer who's been arrested 6 times.  They retrieve a paint can he threw over
+  a fence since he was too slow to get away. He is Jose, but says his identical
+  twin brother Juan got away. He brags he can run, but never could. He's been
+  huffing paint since he was 11, he's 33 now. Silver and gold are his
+  favorites. They've been arresting him for 9 years.
+- (Weapons Inspection) Sr.  Officer Weldon Weber says maintaining their
   equipment, face and uniform is a priority. (1:34 AM Fight Call) It's between
   a male and 2 females. The man says his dad hit him in the mouth, head butted
   him and ran out the back. They go around and find the drunk dad who struggles
@@ -11432,7 +11443,9 @@ Aired 2000-03-25.
 
 **Fort Worth, TX 26**
 
-- (6:17 PM Assistance Call) South Sector -- Officer Jorjana Wanzor wanted to become a cop because her mother was one. She went to court reporter school but decided she'd rather be in the field.
+- (6:17 PM Assistance Call) South Sector -- Officer Jorjana Wanzor wanted to
+  become a cop because her mother was one. She went to court reporter school
+  but decided she'd rather be in the field.
 - An officer in a foot pursuit calls for help
 - A suspect bails out of car
 - runaway teen
@@ -11444,7 +11457,10 @@ Aired 2000-04-08.
 
 **Fort Worth, TX 27**
 
-- (3:12 PM Traffic Stop) South Sector -- Officer John Ost says there are lots of gang members, drug dealers, a little bit of everything in the area. A driver owes $2000 tickets; father and son fight older man; marijuana found in cereal box.
+- (3:12 PM Traffic Stop) South Sector -- Officer John Ost says there are lots
+  of gang members, drug dealers, a little bit of everything in the area. A
+  driver owes $2000 tickets; father and son fight older man; marijuana found in
+  cereal box.
 
 ## CP-1224
 
@@ -11659,7 +11675,12 @@ Aired 2000-07-15.
 
 **Albuquerque, NM 19**
 
-- (10:36 PM Assistance Call) Police arrest four suspects connected with drug activity inside a hotel room, and get a lucky break when one of the suspects is named by the others as the main supplier. A woman riding in a suspicious vehicle informs sheriff's deputies that her companion hid crack cocaine in a soda cup inside the car. An undercover detective posing as an interested john helps the Albuquerque Vice Unit snare a prostitute.
+- (10:36 PM Assistance Call) Police arrest four suspects connected with drug
+  activity inside a hotel room, and get a lucky break when one of the suspects
+  is named by the others as the main supplier. A woman riding in a suspicious
+  vehicle informs sheriff's deputies that her companion hid crack cocaine in a
+  soda cup inside the car. An undercover detective posing as an interested john
+  helps the Albuquerque Vice Unit snare a prostitute.
 
 ## CP-1235
 
@@ -11667,7 +11688,14 @@ Aired 2000-07-22.
 
 **Albuquerque, NM 20**
 
-- (10:31 AM Prostitution Sting Briefing) Sgt. Clarence G. Davis wants to hit the track since there are more Johns than girls and tells Detective Tom Hernandez to make sure they have buy money. An undercover sting operation targeting ladies of the evening arrests a john who picked up a male prostitute. Police officers catch two burglars red-handed as they attempt to make off with valuables stolen from a residence. While on patrol, Officer Garcia encounters two male suspects involved in an argument, one of whom punches the other in the nose.
+- (10:31 AM Prostitution Sting Briefing) Sgt. Clarence G. Davis wants to hit
+  the track since there are more Johns than girls and tells Detective Tom
+  Hernandez to make sure they have buy money. An undercover sting operation
+  targeting ladies of the evening arrests a john who picked up a male
+  prostitute. Police officers catch two burglars red-handed as they attempt to
+  make off with valuables stolen from a residence. While on patrol, Officer
+  Garcia encounters two male suspects involved in an argument, one of whom
+  punches the other in the nose.
 
 ## CP-1236
 
@@ -11701,7 +11729,8 @@ Aired 2000-05-20.
 
 This special has John Walsh travel with officers throughout the episode.
 
-- (12:49 AM Searching for Robbery Suspect) Zone 1 -- Officer Russell Johnson takes the call of a man sighted at a closed business.
+- (12:49 AM Searching for Robbery Suspect) Zone 1 -- Officer Russell Johnson
+  takes the call of a man sighted at a closed business.
 
 ## CP-1302
 
@@ -11719,7 +11748,15 @@ Aired 2000-08-26.
 
 **Jacksonville, FL 3**
 
-- (9:48 PM Assistance Call) Officer George Daunhauer says he wife is also a cop which is good. He sees two men fighting and goes over. One man hits his cousins car with a brick three times before the cop can stop him. It turns out he owes him $5 and is holding his cell phone for ransom until he pays up. The man jumps out and they both fight. Police arrest a suspect after they observe him pushing his girlfriend and, later, the victim begs officers not to take her beloved to jail. Officers interview a taxicab driver who was shot in the neck and back several times during an armed robbery, yet miraculously survived.
+- (9:48 PM Assistance Call) Officer George Daunhauer says he wife is also a cop
+  which is good. He sees two men fighting and goes over. One man hits his
+  cousins car with a brick three times before the cop can stop him. It turns
+  out he owes him $5 and is holding his cell phone for ransom until he pays up.
+  The man jumps out and they both fight. Police arrest a suspect after they
+  observe him pushing his girlfriend and, later, the victim begs officers not
+  to take her beloved to jail. Officers interview a taxicab driver who was shot
+  in the neck and back several times during an armed robbery, yet miraculously
+  survived.
 
 ## CP-1304
 
@@ -11727,7 +11764,14 @@ Aired 2000-08-19.
 
 **Jacksonville, FL 4**
 
-- (11:58 PM Robbery in Progress) Officer Linda Morgan talks about meeting her husband who was a bike cop on the force and how great it is to be married to another cop. She aids in the arrest of a robber who attacked his intended victim with a pipe and tried to choke him. Officer Dobscha responds to a report of a six-foot alligator discovered on a homeowner's back porch. While participating in an undercover sting operation targeting car thieves, Officer McNeil observes a group of individuals attempting to burglarize a decoy vehicle.
+- (11:58 PM Robbery in Progress) Officer Linda Morgan talks about meeting her
+  husband who was a bike cop on the force and how great it is to be married to
+  another cop. She aids in the arrest of a robber who attacked his intended
+  victim with a pipe and tried to choke him. Officer Dobscha responds to a
+  report of a six-foot alligator discovered on a homeowner's back porch. While
+  participating in an undercover sting operation targeting car thieves, Officer
+  McNeil observes a group of individuals attempting to burglarize a decoy
+  vehicle.
 
 ## CP-1305
 
@@ -11735,7 +11779,15 @@ Aired 2000-09-09.
 
 **Jacksonville, FL 5**
 
-- (1:49 AM Burglary in Progress) Officer Robert Adams races to the scene where an officer responded to a burglar alarm and found three men on the scene and has one at gunpoint. Officer Adams questions a witness whose vehicle was rammed by two robbery suspects whom police believe may be responsible for a string of storage unit break-ins. Officer McNeil aids in the pursuit of a suspect linked to a series of armed robberies who is apprehended after a witness says that she saw the man change his clothes in the lobby of her apartment building. Officer McNeil investigates a report of a disabled man selling counterfeit jewelry to unsuspecting customers.
+- (1:49 AM Burglary in Progress) Officer Robert Adams races to the scene where
+  an officer responded to a burglar alarm and found three men on the scene and
+  has one at gunpoint. Officer Adams questions a witness whose vehicle was
+  rammed by two robbery suspects whom police believe may be responsible for a
+  string of storage unit break-ins. Officer McNeil aids in the pursuit of a
+  suspect linked to a series of armed robberies who is apprehended after a
+  witness says that she saw the man change his clothes in the lobby of her
+  apartment building. Officer McNeil investigates a report of a disabled man
+  selling counterfeit jewelry to unsuspecting customers.
 
 ## CP-1306
 
@@ -11743,7 +11795,14 @@ Aired 2000-10-14.
 
 **Jacksonville, FL 6**
 
-- (3:31 PM Sting Operation Briefing) Sgt. Charles Wall reads a list of which officers will be in which vehicles for the busts. The Vice Unit targets drug activity in a problem area of the city, leading to the arrest of several suspects, one of whom possesses marked currency given to him by an undercover officer. Officers Mitaly and Cullen assist a homeowner who reported finding hissing raccoons in her chimney and, later, volunteers to help remove a mother raccoon and her three adorable babies from the residence. Officer Johnson investigates after he witnesses a driver pick up a female.
+- (3:31 PM Sting Operation Briefing) Sgt. Charles Wall reads a list of which
+  officers will be in which vehicles for the busts. The Vice Unit targets drug
+  activity in a problem area of the city, leading to the arrest of several
+  suspects, one of whom possesses marked currency given to him by an undercover
+  officer. Officers Mitaly and Cullen assist a homeowner who reported finding
+  hissing raccoons in her chimney and, later, volunteers to help remove a
+  mother raccoon and her three adorable babies from the residence. Officer
+  Johnson investigates after he witnesses a driver pick up a female.
 
 ## CP-1307
 
@@ -11751,7 +11810,14 @@ Aired 2000-12-02.
 
 **Jacksonville, FL 7**
 
-- (7:52 PM Drug Sting) Organized Crime Unit -- Sgt. Robert Phelps talks about taking over a female drug dealer's trailer and selling out of it on a Friday night. The Vice Unit arrests a drug dealer inside her trailer, and later, undercover officers posing as dealers use the trailer to attract several unwitting buyers. Sheriff Lederman arrests a driver and his two female passengers after it is determined they are riding in a vehicle that had been reported stolen earlier that day. Sheriff Meyer aids in the arrest of three suspects who burglarized a change machine at a coin-operated car wash.
+- (7:52 PM Drug Sting) Organized Crime Unit -- Sgt. Robert Phelps talks about
+  taking over a female drug dealer's trailer and selling out of it on a Friday
+  night. The Vice Unit arrests a drug dealer inside her trailer, and later,
+  undercover officers posing as dealers use the trailer to attract several
+  unwitting buyers. Sheriff Lederman arrests a driver and his two female
+  passengers after it is determined they are riding in a vehicle that had been
+  reported stolen earlier that day. Sheriff Meyer aids in the arrest of three
+  suspects who burglarized a change machine at a coin-operated car wash.
 
 ## CP-1308
 
@@ -11759,7 +11825,10 @@ Aired 2000-12-16.
 
 **Jacksonville, FL 8**
 
-- (3:27 PM John Sting Briefing) Sheriff's Office Vice Unit -- Sgt. John Britt discusses with officers about doing a prostitution decoy sting and not jeopardizing the officer's safety. A neighborhood resident complains of male prostitution; officers remove a snake from a woman's home.
+- (3:27 PM John Sting Briefing) Sheriff's Office Vice Unit -- Sgt. John Britt
+  discusses with officers about doing a prostitution decoy sting and not
+  jeopardizing the officer's safety. A neighborhood resident complains of male
+  prostitution; officers remove a snake from a woman's home.
 
 ## CP-1309
 
@@ -11767,7 +11836,10 @@ Aired 2001-01-06.
 
 **Jacksonville, FL 9**
 
-- (1:45 PM Drug Sting) Organized Crime Unit -- Sgt. Tony R. Davis says sometimes by doing this reverse stings they catch people wanted for different crimes. Officers search for missing marijuana; a man says his girlfriend's father damaged his belongings; a man denies assaulting a woman.
+- (1:45 PM Drug Sting) Organized Crime Unit -- Sgt. Tony R. Davis says
+  sometimes by doing this reverse stings they catch people wanted for different
+  crimes. Officers search for missing marijuana; a man says his girlfriend's
+  father damaged his belongings; a man denies assaulting a woman.
 
 ## CP-1310
 
@@ -11775,7 +11847,14 @@ Aired 2001-01-13.
 
 **Jacksonville, FL 10**
 
-- (6:04 PM Suspicious Vehicle) Zone 1 -- Officer Russell Johnson says they took a call of a woman shot on the corner and when they got their they never her because she was in trouble with the law before. She thought they wouldn't help her because of that and was surprised that they did, not realizing she was a victim and they haven't seen her since. They spot a car trying to avoid them and go after it. Police try to link a gun to a suspect; a man says his uncle stabbed him; a man says his daughter skipped school and smoked marijuana.
+- (6:04 PM Suspicious Vehicle) Zone 1 -- Officer Russell Johnson says they took
+  a call of a woman shot on the corner and when they got their they never her
+  because she was in trouble with the law before. She thought they wouldn't
+  help her because of that and was surprised that they did, not realizing she
+  was a victim and they haven't seen her since. They spot a car trying to avoid
+  them and go after it. Police try to link a gun to a suspect; a man says his
+  uncle stabbed him; a man says his daughter skipped school and smoked
+  marijuana.
 
 ## CP-1311
 
@@ -11783,7 +11862,14 @@ Aired 2001-01-20.
 
 **Jacksonville: AMW Crossover Follow-Up**
 
-- (10:09 PM Possible Murder Suspect) 911 Communications Center -- A man who works at a homeless shelter calls in that he saw one of the guys there on America's Most Wanted wanted on attempted murder and armed robbery charges. Zone 1 -- Sgt. Michelle Cook takes the call. Officer Johnson gets some unexpected cooperation from a suspect who admits he has a gun in his car, but when police search the vehicle, they also turn up crack cocaine. As members of the Organized Crime Unit serve a drug warrant inside an apartment, they discover signs of drug manufacturing and the remnants of crack cocaine.
+- (10:09 PM Possible Murder Suspect) 911 Communications Center -- A man who
+  works at a homeless shelter calls in that he saw one of the guys there on
+  America's Most Wanted wanted on attempted murder and armed robbery charges.
+  Zone 1 -- Sgt. Michelle Cook takes the call. Officer Johnson gets some
+  unexpected cooperation from a suspect who admits he has a gun in his car, but
+  when police search the vehicle, they also turn up crack cocaine. As members
+  of the Organized Crime Unit serve a drug warrant inside an apartment, they
+  discover signs of drug manufacturing and the remnants of crack cocaine.
 
 ## CP-1312
 
@@ -11883,7 +11969,7 @@ Aired 2000-11-04.
 - (1:45 AM Vehicle Pursuit) AMW Special with John Walsh. He says there is lots of water, great seafood, but a big meth problem. South Hill Precinct Sheriff's Dept -- Deputy Eric Carlson chases a known meth cooker through a residential area. He has a shaved head and a ponytail, bails out, throws a bag of meth under a car and is caught and cuffed. Deputy Jason LaLiberte and Sgt. James Heishman caught him. Deputy Chad Reinbo explains to Walsh with rolling meth labs like this one. The store it and a toxicologist comes and disposes of it since it's very dangerous and the smell is overwhelming. They strip the suspect naked and hose him down in the street because he is contaminated. He has full containers of meth in the car.
 - (2:45 AM Street Patrol) Sgt. Paul Schnieder rides with Walsh. They go to a property owned by a restaurant owner who is looking for his son Duane who drives a BronCounty They find the Bronco, but it is empty. K-9 Deputy Greg is there and they find Duane who has warrant. Duane says he doesn't have any and went to court with his attorney and he's out on bail. He doesn't know what the foil is in the back of the truck and the girl he's with is a friend. His license is suspended and so is the girl's. He bought it to sell it and the guy in the back was smoking crack. He says it's hard not to be around drug user since they are everywhere. They have to cut him loose and can't believe he's clean, but there is crack in the car.
 - (3:21 AM Pursuit in Progress) South Hill Precinct -- Sgt. Paul Schnieder chases a motorcycle and when K-9 arrives the suspect Robert is caught. Robert is wired, has been arrested several times, the bike has no ignition, it's painted black, but the wheels are still purple. There's no plates, he's wearing sunglasses, his helmet has 100s of little holes in it. Rob says he just did 5 months of probation. Deputy Chad Carr asks him about the bike. Rob says it belongs to a friend who is in jail and doesn't know his name. Walsh used to race motorcross and can't believe this guy.
-- (4:12 AM Assistance Call) He stops a car with a lab. Deputy Les Bunton and Deputy Chris Larson caught him. The guy cooked it in the woods, loaded the car with a mask, tubes, funnel, pitchers and jars. It smells powerful and the guy says he learned how to cook it on the Internet.
+- (4:12 AM Assistance Call) He stops a car with a lab. Deputy Les Bunton and Deputy Ryan Larson (TODO: was this originally Chris Larson?) caught him. The guy cooked it in the woods, loaded the car with a mask, tubes, funnel, pitchers and jars. It smells powerful and the guy says he learned how to cook it on the Internet.
 
 ## CP-1321
 
@@ -12270,7 +12356,16 @@ Aired 2001-12-01.
 
 **Palm Beach County, FL 12**
 
-- (8:09 PM Traffic Stop) Tactical Unit -- Deputy Keith Burns says he's been with tactical for five years and being in an unmarked car you get to see more and assist other agencies. His partner Deputy Kevin Marks says they patrol all areas and there are 60 divisions they could work in so they'll never get bored. They go to pull over a car with it's hi-beams on. Deputies Burns and Marks terminate a pursuit when it becomes too dangerous, and moments later, the driver loses control of his vehicle and crashes. Deputy Tapia helps a woman who was battered by her husband. A drug dealer tries to give undercover officers the slip by running through a busy intersection.
+- (8:09 PM Traffic Stop) Tactical Unit -- Deputy Keith Burns says he's been
+  with tactical for five years and being in an unmarked car you get to see more
+  and assist other agencies. His partner Deputy Kevin Marks says they patrol
+  all areas and there are 60 divisions they could work in so they'll never get
+  bored. They go to pull over a car with it's hi-beams on.
+- Deputies Burns and Marks terminate a pursuit when it becomes too dangerous,
+  and moments later, the driver loses control of his vehicle and crashes.
+- Deputy Tapia helps a woman who was battered by her husband. A drug dealer
+  tries to give undercover officers the slip by running through a busy
+  intersection.
 
 ## CP-1402
 
