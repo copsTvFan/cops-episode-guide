@@ -19588,79 +19588,79 @@ Network: Spike.
 
 ## S26E04
 
-TODO
+- (Stockton, CA -- 9:12 PM Traffic Stop) Officer Julio Morales, Officer Kevin Knall, ...
 
 ## S26E05
 
-TODO
+- (Amarillo, TX -- 5:52 PM Traffic Stop) FTO Jeremiah Hopper, ...
 
 ## S26E06
 
-TODO
+- (Amarillo, TX -- 12:12 AM Shots Fired Call) Corporal Troy Roberson, FTO Devin Cantwell, ...
 
 ## S26E07
 
-TODO
+- (Stockton, CA -- 9:12 PM Domestic Disturbance Call) Officer Tom Heslin, ...
 
 ## S26E08
 
-TODO
+- (Sarasota County, FL -- 10:34 PM Traffic Stop) Deputy James Dilling, ...
 
 ## S26E09
 
-TODO
+- (Indianapolis, IN -- 11:49 PM Vehicle Pursuit) Patrolman Andrew McKalips, ...
 
 ## S26E10
 
-TODO
+- (Stockton, CA -- 10:41 PM Man With a Gun Call) Sgt. Kathryn Nance, ...
 
 ## S26E11
 
-TODO
+- (Spokane County, WA -- 2:02 AM Vehicle Pursuit In Progress) Deputy Tyler Kullman, ...
 
 ## S26E12
 
-TODO
+- (Indianapolis, IN -- 8:23 PM Suspicious Motorcycle) Patrolman Daniel Brezik, ...
 
 ## S26E13
 
-TODO
+- (Sacramento, CA -- 8:57 PM Traffic Stop) Officer Nic Fox, Officer Ken Collier, ...
 
 ## S26E14
 
-TODO
+- (Gwinnett County, GA -- 4:50 PM Suspicious Activity) Senior Officer Kyle McDonald, ...
 
 ## S26E15
 
-TODO
+- (Indianapolis, IN -- 2:24 AM Vehicle Pursuit In Progress) Patrolman Mike Martin, ...
 
 ## S26E16
 
-TODO
+- (Indianapolis, IN -- 4:06 PM Officer Assistance Call) Patrolman Molly Mason, ...
 
 ## S26E17
 
-TODO
+- (Sacramento, CA -- 5:26 PM Domestic Violence Call) Officer Jacob Casella, Officer Traci Trapani, ...
 
 ## S26E18
 
-TODO
+- (Richmond County, GA -- 4:54 PM Area Check) Deputy Mike Swint, ...
 
 ## S26E19
 
-TODO
+- (Sacramento, CA -- 4:32 PM Traffic Stop) Officer Dan Wiseman, ...
 
 ## S26E20
 
-TODO
+- (Richmond County, GA -- 7:52 PM Traffic Stop) Deputy Mike Swint, ...
 
 ## S26E21
 
-TODO
+- (Richmond County, GA -- 1:43 AM Stolen Vehicle) Deputy Chris Tucker, ...
 
 ## S26E22
 
-TODO
+- (Richmond County, GA -- 12:10 AM Traffic Stop) Deputy Shea Yates, ...
 
 # Season 27
 
