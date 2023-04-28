@@ -16405,8 +16405,10 @@ Aired 2006-09-09.
 
 **Coast to Coast 112**
 
-- (Riverside County, CA -- 4:49 PM Traffic Stop) A routine traffic-stop turns into a major accident involving a bicyclist and another motorist; an embarrassing domestic-violence call.
-- Palm Beach County, FL
+- (Riverside County, CA -- 4:49 PM Traffic Stop) A routine traffic-stop turns
+  into a major accident involving a bicyclist (Tony, 36) and another motorist
+  (car hits cyclist).
+- Palm Beach County, FL --  an embarrassing domestic-violence call.
 - (Martin County, FL -- 8:57 PM Possible Drug Activity) Detective Chris Conrad
   and Detective Danny Cunningham arrest Jose, the Candy Cane / Cocaine Candy
   man.
@@ -18178,13 +18180,13 @@ Aired 2008-07-26.
   deputies thank the men for their quick thinking and tell the suspect that
   they will make sure he get help to deal with his depression.
 
-## CP-2037 / CP-2038
+## CP-2037
 
 Aired 2007-09-29.
 
-**20 Years Caught on Tape** -- Full intro with clips from all seasons. Chases:
+**20 Years Caught on Tape, Part 1** -- Full intro with clips from all seasons.
 
-- Fort Worth, TX -- Officer Dave Moran chases a white van that t-bones a car in an intersection. CP-816.
+- Chases: Fort Worth, TX -- Officer Dave Moran chases a white van that t-bones a car in an intersection. CP-816.
 - Broward County, FL -- Deputy Jerry Wurms has a guy run on him and says, "stop or I'll shoot you in the back" as he chases him. CP-101.
 - Passaic, NJ -- Detective Derrick Catli chases a Honda Civic that rams his car and crashes into a parked car. CP-1614.
 - Pomona, CA -- Sgt. Jay Stuart chases a hit & run that loses tire then hits a car under a bridge and jeeps going. CP-930.
@@ -18200,6 +18202,11 @@ Aired 2007-09-29.
 - Pierce County, WA -- Officer Erik Clarkson chases a red truck that flips into a ditch. CP-1517.
 - Fresno, CA -- Deputy Keith Gray finds a joint behind a mans' ear at a traffic stop. CP-928.
 - Portland, OR -- Sgt. John Bunnell busts a pot house, takes the guys Corvette and leaves a message on his machine. CP-209.
+
+## CP-2038
+
+**20 Years Caught on Tape, Part 2**
+
 - Resisting Arrest: Broward County, FL -- at the airport a man's bag is found loaded with drugs. CP-101.
 - Riverside, CA -- Deputy Roman Pluimer helps catch a prisoner who escaped from a police car and fights, bloodying a cops' nose. CP-1521.
 - Buffalo, NY -- Officer Phil Tisdale helps remove a boa from the attic of a house. CP-820.
@@ -19092,7 +19099,8 @@ Aired 2010-01-16.
 
 **Coast to Coast #160**
 
-- Tulsa County, OK -- 7:46 PM Suspicious Vehicle -- Deputy Ryan Ayers
+- (Tulsa County, OK -- 7:46 PM Suspicious Vehicle) Deputy Ryan Ayers, ...
+- (San Bernandino County, CA -- 9:00 PM Suspicious Person) Deputy Eddie Bachman, ...
 
 ## CP-2214
 ## S22E10
