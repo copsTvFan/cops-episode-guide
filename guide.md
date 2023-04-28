@@ -5518,8 +5518,9 @@ Aired 1991-07-06.
 
 1991-1992.
 
-- Kansas City MO&KS
-- King County WA
+- Kansas City, MO
+- Kansas City, KS
+- King County, WA
 - Pittsburgh, PA
 - U.S. Marshals
 - Boston, MA
@@ -11141,7 +11142,9 @@ Aired 1999-12-18.
 
 **Indianapolis, IN 13**
 
-- (9:26 PM Assistance Call) East District -- Officer Frederick Hamer says he thought the job would be all fun and games at first just catching bad guy. In reality the streets are blah, not a lot of excitement, lots of paperwork with hot calls only once in a while. Fleeing suspect leaves marijuana in the car; driver crashes into a telephone pole; foul-mouthed suspect quarrels with landlord and harasses his tenant.
+- (9:26 PM Assistance Call) East District -- Officer Frederick Hamer says he thought the job would be all fun and games at first just catching bad guy. In reality the streets are blah, not a lot of excitement, lots of paperwork with hot calls only once in a while. Fleeing suspect leaves marijuana in the car;
+- driver crashes into a telephone pole;
+- foul-mouthed suspect quarrels with landlord and harasses his tenant.
 
 ## CP-1208
 
@@ -11149,7 +11152,10 @@ Aired 2000-01-15.
 
 **Indianapolis, IN 14**
 
-- (5:07 PM Prostitution Sting Briefing) East District -- Sgt. Ron Hicks says safety first, no arrest is worth getting hurt over. prostitution sting; man leaves a 3-year-old unattended; reckless motorcyclist; irate woman assaults an officer.
+- (5:07 PM Prostitution Sting Briefing) East District -- Sgt. Ron Hicks says safety first, no arrest is worth getting hurt over. prostitution sting;
+- man leaves a 3-year-old unattended
+- reckless motorcyclist
+- irate woman assaults an officer.
 
 ## CP-1209
 
@@ -11157,7 +11163,9 @@ Aired 1999-10-02.
 
 **Indianapolis, IN 15**
 
-- (5:27 PM Assistance Call) West District -- Officer John Reichle has been with the department eight years. He says there is no routine run. He keeps a pin on the roof of an officer who didn't wear his vest one night and was shot and killed to remind him to always wear his vest. He assists undercover narcotics officers with the arrest of a suspect who crashed his car and then dropped a packet of rock cocaine as he attempted to flee the scene on foot. Officer Faulk questions a motorist who accidentally drove her SUV through the wall of an apartment tenant's living room as she was attending to her crying child. Indianapolis police officers respond to a report about a man brandishing a gun, only to observe a scale and a small bag of marijuana in his possession.
+- (5:27 PM Assistance Call) West District -- Officer John Reichle has been with the department eight years. He says there is no routine run. He keeps a pin on the roof of an officer who didn't wear his vest one night and was shot and killed to remind him to always wear his vest. He assists undercover narcotics officers with the arrest of a suspect who crashed his car and then dropped a packet of rock cocaine as he attempted to flee the scene on foot.
+- Officer Faulk questions a motorist who accidentally drove her SUV through the wall of an apartment tenant's living room as she was attending to her crying child.
+- Indianapolis police officers respond to a report about a man brandishing a gun, only to observe a scale and a small bag of marijuana in his possession.
 
 ## CP-1210
 
@@ -11165,7 +11173,9 @@ Aired 1999-11-06.
 
 **Indianapolis, IN 16**
 
-- (2:45 PM Assistance Call) South District -- Officer Tobi Cobian lived there his whole live and grew up in the south side, almost the same area he patrols. He is very familiar with a lot of the people in the neighborhood, the type of people and has a good relationship with the majority of people he works with. He takes the call to assist a homicide detective making a felony stop of a wanted Hispanic man for two counts of homicide in Boston; car sale goes awry; woman claims her husband assaulted her, and she fears retribution.
+- (2:45 PM Assistance Call) South District -- Officer Tobi Cobian lived there his whole live and grew up in the south side, almost the same area he patrols. He is very familiar with a lot of the people in the neighborhood, the type of people and has a good relationship with the majority of people he works with. He takes the call to assist a homicide detective making a felony stop of a wanted Hispanic man for two counts of homicide in Boston;
+- car sale goes awry;
+- woman claims her husband assaulted her, and she fears retribution.
 
 ## CP-1211
 
@@ -13173,7 +13183,7 @@ Aired 2002-11-09.
   drives across a lawn during pursuit; deputy finds loaded gun in car's
   passenger seat.
 - Multnomah County, OR
-- Davidson Co, NC
+- Davidson County, NC
 
 ## CP-1520
 
@@ -13659,7 +13669,7 @@ Aired 2004-03-06.
 - (Wichita, KS -- 4:24 PM Suspicious Vehicle) A gross white woman and a gay black
   guy are in a car in front of a house where they shouldn't be with no ID, no
   clue, she has 6 warrants and he is an alcoholic and on parole.
-- (Palm Beach Co, FL -- 9:27 PM Domestic Disturbance Call) Sheriff's Office
+- (Palm Beach County, FL -- 9:27 PM Domestic Disturbance Call) Sheriff's Office
   District 1 Martin and his wife are drunk and fight over the keys to the
   truck. She rips his shirt and he cuts her arm.
 
@@ -14229,20 +14239,20 @@ Aired 2004-05-01.
   and they drag race even with him behind them. He gets them both to pull over
   even though the Camero in second place looks like it U turned. Alvin the
   winner is 39 and the guy in the Camero is 25.
-- King County WA (6:05 PM Officer Assistance) A girl may have been abducted and
+- King County, WA (6:05 PM Officer Assistance) A girl may have been abducted and
   they are going to where they think she is. They've been there before -- it
   looks like a trailer park that was hit by a nuclear bomb. They find a guy
   there and he resists them. A woman who owns the place says the guy is a
   burglar. Another guy there is also arrested and they have 10 warrants between
   them.
-- Philadelphia PA (5:43 PM Assistance Call) A guy driving a stolen smashed blue
+- Philadelphia, PA (5:43 PM Assistance Call) A guy driving a stolen smashed blue
   Monte Carlo crashes into a car in front of police. He is high and hits three
   other guys cars. The owner left the keys inside and he took it.
 - Albuquerque, NM (11:07 AM John Sting) Undercover female cops bring Johns back
   to a hotel room and bust them. An old guy wants some hokie pokie for $10.
   Mexican Mike wants a BJ for $20. They cuff him and take him out to the car,
   but he runs away.
-- Kansas City MO (9:07 PM Shoplifting Call) Two guys stole four cartons of
+- Kansas City, MO (9:07 PM Shoplifting Call) Two guys stole four cartons of
   cigarettes. One guy puts them in a cart and brings them over to a second guy
   who shoves them down his pants. The first guy watches while pushing his cart
   up and down the aisle. The cops watch it all on the store security tape and
@@ -14257,7 +14267,7 @@ Aired 2004-05-01.
   selling some. John picks him up in his truck and he throws his bike in the
   back. He takes him to his mom's house to score some rocks. They bust him and
   mom comes out all upset.
-- Harris County TX (10:50 PM Traffic Stop) A female cops stops a red truck and
+- Harris County, TX (10:50 PM Traffic Stop) A female cops stops a red truck and
   a drunk crashes into her police car. He says he wasn't drinking though. The
   police car was pushed into the truck. They give the drunk a sobriety test and
   he fails.
@@ -14273,7 +14283,7 @@ Aired 2004-05-01.
 - Covington, KY
 - Fort Worth, TX
 - Fresno, CA
-- Hamilton Co, OH
+- Hamilton County, OH
 - Jacksonville, FL
 - Mardi Gras 2004
 - New Orleans, LA
@@ -15085,7 +15095,7 @@ Aired 2005-04-30.
   hasn't seen that. Cameras capture a fleeing suspect; domestic disturbance; a
   family disturbance that threatens to separate children from their father.
 - Covington, KY
-- Hamilton Co, OH.
+- Hamilton County, OH.
 
 ## CP-1721
 
@@ -15269,7 +15279,7 @@ Aired 2005-04-09.
 
 **High Times**
 
-- (Pierce Co, WA -- 12:07 AM Pursuit in Progress) Lakewood PD -- Officer Matt
+- (Pierce County, WA -- 12:07 AM Pursuit in Progress) Lakewood PD -- Officer Matt
   Brown is going to assist in a pursuit of a stolen white Honda SR-V heading
   their way in the rain. Officer Mike Phipps is driving. The suspect blows a
   light at Tyler and they get permission to PIT. He blows a light turning
@@ -15345,7 +15355,7 @@ Aired 2005-03-19.
   didn't know the SUV was stolen. Curtis was passed out and doesn't know
   nothing. Bobby says he wasn't driving, Casper the ghost was. The tag was
   stolen from another stolen car, so it's two counts of theft.
-- Hamilton Co, OH (11:46 PM Disturbance Call) Sheriff's Office -- Cpl Greg
+- Hamilton County, OH (11:46 PM Disturbance Call) Sheriff's Office -- Cpl Greg
   Raubanus & Deputy Steve Sabers teach at the police academy. Because they see
   the same things over and over they get lackadaisical.  They get a call to a
   hotel where a man backed his pickup over a wall. The manager says owner has
@@ -15451,7 +15461,7 @@ Aired 2005-04-30.
   woman and it was man so David asks Arthur if he would've gotten violent if he
   learned it was a guy. He says no. David says not to come back and hopes he
   learned his lesson.
-- Pierce Co, WA (10:35 PM Traffic Stop) Officer Mike Phipps has been working
+- Pierce County, WA (10:35 PM Traffic Stop) Officer Mike Phipps has been working
   Lakewood Graveyard for 5 couple years. Officer Matt Brown has worked every
   shift and graveyard is the best -- good fun, camaraderie, partnership and
   lots of joking. Mike spots a motorcycle speeding he stops him a parking lot
@@ -15604,7 +15614,7 @@ Aired 2005-07-09.
   domestic violence 4th degree and they search him. Mario explains that they
   need to get a restraining order if they want to keep him away. Bobby cries
   and thanks Mario.
-- Hamilton Co, OH (8:48 PM Assistance Call) Sheriff's Office District 1 -- Cpl
+- Hamilton County, OH (8:48 PM Assistance Call) Sheriff's Office District 1 -- Cpl
   Peter Enderle gets the call of a man in a gorilla suit who locked himself out
   of his car. Kyle is wearing the suit when they pull up. He was Halloween
   shopping, wanted to surprise his friends and was in such a hurry he locked
@@ -15954,7 +15964,7 @@ Aired 2005-09-10.
 - (Pittsburgh, PA -- 12:22 AM Narcotics Surveillance) Narcotics Impact Squad --
   Sgt. Jason Snyder says his unit is a Vice task force doing street level
   narcotics intervention, looking for open air transactions.
-- (Travis Co, TX -- 12:02 AM Deputy Assistance Call) Deputy Marc Taub and
+- (Travis County, TX -- 12:02 AM Deputy Assistance Call) Deputy Marc Taub and
   Deputy Joseph Ensminger. A robbery call turns out to be a disturbance with a
   two guys high on weed. "That's a really incredible synopsis".
 - (Gwinnett County, GA -- 4:36 PM Traffic Accident) Corporal Bev Genevish. A
@@ -16059,7 +16069,7 @@ Aired 2006-02-04.
 
 - (Atlanta, GA -- 2:29 AM Disturbance Call) When officers apprehend suspects in an area known for heroin dealing, the officers locate a bundle of drugs in a backpack.
 - Pittsburgh, PA
-- Travis Co, TX
+- Travis County, TX
 
 ## CP-1819
 
@@ -16672,12 +16682,12 @@ Aired 2007-07-28.
 - Fresno, CA
 - Indio, CA
 - Kansas City, MO
-- Hillsborough County,FL
+- Hillsborough County, FL
 - Lansing, MI
 - Las Vegas, NV
 - Lee County, FL
 - Leon County, FL
-- Martin Co, FL
+- Martin County, FL
 - Pittsburgh, PA
 - Portland, OR
 - Rialto, CA
@@ -18639,7 +18649,7 @@ Aired 2009-03-28.
 
 **Dazed and Confused Special Edition**
 
-- (King County WA -- 6:19 PM Disturbance Call) Sheriff's Office Precinct 4 --
+- (King County, WA -- 6:19 PM Disturbance Call) Sheriff's Office Precinct 4 --
   Deputy Jeff Hancock responds to a disturbance call at a local eatery.
 - (Minneapolis, MN -- 5:48 PM Assault in Progress) Police Department Third
   Precinct -- Officer Steve Lecy & Officer Terry Nutter respond to a call of an
@@ -18660,7 +18670,7 @@ Aired 2009-03-28.
 - (Harris County TX -- 10:47 PM Domestic Disturbance Call) Sheriff's Office
   District 3 -- Deputy Rex Evans is dispatched to a family disturbance call of a
   man 'tearing up a trailer' and possibly armed with scissors.
-- (King County WA -- 5:02 PM Deputy Assistance) Sheriff's Office Precinct 4 --
+- (King County, WA -- 5:02 PM Deputy Assistance) Sheriff's Office Precinct 4 --
   Deputy Gerald Meyer rolls to assist a deputy with a traffic stop.
 
 ## CP-2125
@@ -19567,36 +19577,36 @@ Network: Spike.
 
 - (Lafayette, LA -- 10:47 PM Shots Fired Call) Officer Edward Alleman, Officer Asher Reaux. Corporal Brittney Dugas, Officer Jameson Jordan. Sgt. Shawn Terro.
 - (Palm Springs, CA -- 8:39 PM Welfare Check) Officer John Mejia, Officer Tom Beckert. Guy with mohawk gets kicked out.
-- (Glendale, AR -- 3:36 PM Traffic Stop) Officer Brian Osborne, Officer Brandon Roemmich.
+- (Glendale, AZ -- 3:36 PM Traffic Stop) Officer Brian Osborne, Officer Brandon Roemmich.
 
 ## S27E02
 
 - (Hillsborough County, FL -- 6:31 PM Disturbance Call) Deputy Jeremy House, Deputy Dominick J. DeSiato.
 - (Palm Springs, CA -- 10:29 PM Suspicious Activity) Officer Miguel Torres, Officer Richard Salomon.
-- (Glendale, AR -- 6:09 PM Shoplifting Call) Officer Jonathan Clubb, Officer Tara Mitchell, Officer Nat Newport.
+- (Glendale, AZ -- 6:09 PM Shoplifting Call) Officer Jonathan Clubb, Officer Tara Mitchell, Officer Nat Newport.
 
 ## S27E03
 
 - (Lafayette, LA -- 11:35 PM Possible Stolen Vehicle) Corporal Jeremy Dupuis, Corporal Jonathon Sanchez, Corporal Ross Sonnier, Officer Karl Ratcliff, Corporal Michael Milazzo, Sgt. Shawn Arwood, Detective Drew LeBlanc.
-- (Glendale, AR -- 12:05 PM Suspicious Person) Officer Nicholas Lively, Sgt. Aaron Aldridge, Officer Mark Schilling, Officer Travor D. Goode.
-- (Glendale, AR -- 6:44 PM Welfare Check) Officer John Rebholz, Officer Rod Veneraction.
+- (Glendale, AZ -- 12:05 PM Suspicious Person) Officer Nicholas Lively, Sgt. Aaron Aldridge, Officer Mark Schilling, Officer Travor D. Goode.
+- (Glendale, AZ -- 6:44 PM Welfare Check) Officer John Rebholz, Officer Rod Veneraction.
 
 ## S27E04
 
-- (Glendale, AR -- 2:57 PM Shoplifting Call) Officer Mark Lindsey, Officer Paul Lopez. Tackle in front of Kohl's.
+- (Glendale, AZ -- 2:57 PM Shoplifting Call) Officer Mark Lindsey, Officer Paul Lopez. Tackle in front of Kohl's.
 - (Lafayette, LA -- 12:52 AM Armed Robbery In Progress) Officer Edward Alleman, Corporal Jonathon Sanchez, Corporal Michael Milazzo.
 - (Nye County, NV -- 10:33 AM Custody Transfer) Deputy Alex Cox, Deputy Wes Fancher.
 
 ## S27E05
 
-- (Glendale, AR -- 7:53 PM Suspicious Activity Call) Officer Tara Mitchell, Officer Jonathan Clubb, K-9 Officer Bryan Anderson, Officer Cody Howard, Sgt. Jeff Daukus, Officer Nat Newport.
+- (Glendale, AZ -- 7:53 PM Suspicious Activity Call) Officer Tara Mitchell, Officer Jonathan Clubb, K-9 Officer Bryan Anderson, Officer Cody Howard, Sgt. Jeff Daukus, Officer Nat Newport.
 - (Palm Beach County, CA -- 1:55 AM Stolen Vehicle Sting) Deputy Sheriff Osee Dumel, Sgt. Anthony Johnson.
 - (Alameda County, CA -- 8:20 PM Traffic Stop) Deputy Leo Basped.
 
 ## S27E06
 
 - (San Jose, CA -- 7:06 PM Neighbourhood Patrol) Officer Aaron Offenberg, Officer Marc Beretta, Officer Rod Smith, Officer Roland Ramirez.
-- (Glendale, AR -- 10:12 AM Street Patrol) Officer Matt Schneider, Officer Jeff Pittman, Officer Kory Rafferty, Officer Rochelle Thomas, Sgt. Brian Shoop.
+- (Glendale, AZ -- 10:12 AM Street Patrol) Officer Matt Schneider, Officer Jeff Pittman, Officer Kory Rafferty, Officer Rochelle Thomas, Sgt. Brian Shoop.
 - (Nye County, NV -- 2:35 PM Traffic Stop) Deputy Alex Cox, Deputy Cory Fowles.
 
 ## S27E07
@@ -19611,7 +19621,7 @@ Network: Spike.
 - (Springfield, MO -- 10:19 PM Disturbance Call) Officer Jim Cooney, Officer Ben Haines.
 - (Bernalillo County, NM -- 3:23 PM Possible Fight In Progress) Dep. 1st Class Daniel Portell, Sgt. Larry Harlan.
 
-## S27E09
+## S-2701
 
 **Bryce Dion Tribute**
 
@@ -19620,108 +19630,114 @@ Network: Spike.
   Kathryn Nance.  Springfield, Officer Kevin Holle.
 - Stockton, CA -- Officer Kevin Knall.  Brevard County, FL -- Corporal Jim
   Hudak, Deputy Brett Moore.
-- Indianapolis -- Patrolman Daniel Brezik. ...
+- Indianapolis, IN -- Patrolman Daniel Brezik. ...
 - Amarillo, TX -- Officer Billy Jensen, Corporal Joe Loftus.
 
 TODO: complete this.
 
-## S27E10
+## S27E09
 
 - (Springfield, MO -- 2:14 AM Disturbance Call) Officer Jim Cooney, Lt. Scott Kamykowski, Officer Ben Haines, Officer Michael Ramsey. Transgender woman on a wheelchair gets attacked.
 - (North Las Vegas, NV -- 2:33 AM Domestic Disturbance Call) Officer Eric Leavitt, Officer Jeff Heitzenrater.
 - (Pahrump, Nye County, NV -- 12:26 PM Traffic Stop) Deputy Alex Cox, Deputy Cory Fowles, Deputy Crystal Barajas. Famous "Can you relax?" segment.
 
+## S27E10
+
+- (Independence, MO -- 6:32 PM Traffic Stop) Officer Mark Showman, Officer Kirsten Baker, Officer Christopher Kimmel.
+- (Homestead, FL -- 10:11 AM Officer Assistance Call) Patrolman Anthony Green, Det. Christopher Grady, Detective David Mata.
+- (Glendale, AZ -- 12:53 PM Suspicious Person) Officer Matt Schneider, Officer Jeff Pittman.
+
 ## S27E11
 
-TODO
+- (Springfield, MO -- 10:02 PM Theft Call) Officer Aaron Pearson, ...
 
 ## S27E12
 
-TODO
+- (Richmond County, GA -- 7:39 PM Suspicious Vehicle) Deputy William Hultman, ...
 
 ## S27E13
 
-TODO
+- (Prichard, AL -- 3:34 PM Narcotics Sting Briefing) Chief Jerry Speziale, Officer Matt Lunceford, ...
 
 ## S27E14
 
-TODO
+- (Omaha, NE -- 7:33 PM Suicide Attempt) Officer Jackie Liebe, Officer Anthony Nguyen, ...
 
 ## S27E15
 
-TODO
+- (Independence, MO -- 6:10 PM Stolen Vehicle) Officer Kyle Parris, ...
 
 ## S27E16
 
-TODO
+- (Omaha, NE -- 5:44 PM Armed Carjacking Call) Officer Nick Yarpe, Officer Jordan Brandt, ...
 
 ## S27E17
 
-TODO
+- (Des Moines, IA -- 3:41 PM Possible Drunk Driver) Senior Officer Ryan Mann, ...
 
 ## S27E18
 
-TODO
+- (Wichita, KS -- 11:45 PM Traffic Stop) Officer Skyler Boatright, ...
 
 ## S27E19
 
-TODO
+- (Des Moines, IA -- 1:32 PM Disturbance Call) Senior Officer Ryan Mann, ...
 
 ## S27E20
 
-TODO
+- (Savannah, GA -- 1:56 PM Suspicious Vehicle) Advanced Patrol Officer Nathan Jentzen, ...
 
 ## S27E21
 
-TODO
+- (Des Moines, IA -- 1:55 PM Motorcycle Pursuit) Senior Officer Tim Nading, ...
 
 ## S27E22
 
-TODO
+- (Mobile, AL -- 10:05 PM Street Patrol) Officer Jermaine Rogers, ...
 
 ## S27E23
 
-TODO
+- (Wichita, KS -- 9:06 PM Suspicious Vehicle) Officer Rob Thatcher, Officer Justin Rapp, ...
 
 ## S27E24
 
-TODO
+- (Wichita, KS -- 7:39 PM Traffic Stop) Officer Jonathan Estrada, ...
 
 ## S27E25
 
-TODO
+- (Wichita, KS -- 6:36 PM Officer Assistance Call) Officer Justin Rapp, Officer Rob Thatcher, ...
 
 ## S27E26
 
-TODO
+- (Mobile, AL -- 7:14 PM Suspicious Person) Officer Jermaine Rogers, ...
 
 ## S27E27
 
-TODO
+- (Wichita, KS -- 2:14 AM Traffic Stop) Officer Rob Thatcher, Officer Justin Rapp, ...
 
 ## S27E28
 
-TODO
+- (Escambia County, FL -- 7:23 PM Suspicious Person) Deputy Brandt Kessinger, ...
 
 ## S27E29
 
-TODO
+- (Wichita, KS -- 9:13 PM Burglary Call) Officer Rob Thatcher, Officer Justin Rapp, ...
 
 ## S27E30
 
-TODO
+- (Springfield, MO -- 7:40 PM Officer Assistance Call) Officer Brandon Keene, ...
 
 ## S27E31
 
-TODO
+- (Escambia County, FL -- 5:05 PM Bicycle Stop) Deputy Kerem Suhi, ...
 
 ## S27E32
 
-TODO
+- (Independence, MO -- 9:44 PM Traffic Stop) Officer Chad Stetzler, Officer Gabe Coale, ...
 
 ## S27E33
 
-TODO
+- (Wichita, KS -- 11:11 PM Officer Assistance Call) Officer Kevin McKenna, ...
 
 # Season 28
 
@@ -19738,7 +19754,7 @@ Network: Spike.
 ## S28E02
 
 - (Fort Myers, FL -- 9:35 PM Traffic Stop) Fort Myers Police Department River District -- Officer Cassie McHale
-- (Maricopa County, AR -- 7:26 PM Shots Fired Call) Maricopa County Sheriff's Office District 3 -- Deputy Charles Gulikers
+- (Maricopa County, AZ -- 7:26 PM Shots Fired Call) Maricopa County Sheriff's Office District 3 -- Deputy Charles Gulikers
 - (Pasco County, FL -- 8:14 PM Suspicious Activity) Pasco Sheriff's Office District 1 -- Deputy Nick Carmack
 
 ## S28E03
