@@ -1383,7 +1383,7 @@ Aired 1989-10-21.
 
 **Portland, OR 5**
 
-- (Bureau of Police) Officer Harry Jackson is #578 and patrols an area with
+- (Bureau of Police) Officer Harry Jackson is \#578 and patrols an area with
   prostitutes. He stops to talk to two of them on Stafford and Union. The young
   girl says she is 18, Harry says no. She says her birthday is 8/26 and that he
   knows her. The older woman tells her to shut up and answer the questions and
@@ -1761,7 +1761,7 @@ Aired 1989-11-25.
 - (Armed Robbery Warrant) Columbia Villa District -- Deputy Mark Romanaggi has
   information that a wanted felon is inside one of these apartments. Officer
   Craig Major knows his grandmother and they are going to search her house
-  #8627 first. (7:30 PM) She answers the door with a baby in her arms. She
+  \#8627 first. (7:30 PM) She answers the door with a baby in her arms. She
   hasn't seen Bill since the last time they were there. She doesn't want them
   to let him go if they catch him, but she doesn't want him to get killed.
   (4:45 PM Sister's Apartment) She says there is no one else there, but there
@@ -4622,7 +4622,7 @@ Aired 1991-02-16.
   whacking a cop again. Jersey City (Narcotics Unit Briefing) Sgt. Brian
   McDonough says they caught a girl with cocaine and she told them there was a
   house with two Spanish chicks selling cocaine out of there. They have a
-  warrant and it's the top apartment #129. Sgt. Edwin Gillen says she's an old
+  warrant and it's the top apartment \#129. Sgt. Edwin Gillen says she's an old
   heavy woman, over 50, maybe 45. Brian explains how they will go up and batter
   the door, it's the weekend, don't get hurt for it. Det. Dennis DeSefano says
   they are Medellin and laughs. (11:45 PM Service of Warrant) He says when they
@@ -5482,13 +5482,18 @@ Aired 1991-08-16.
 
 **Las Vegas, NV 8**
 
-- (5:45 PM Suspicious Activity) Metropolitan PD Northeast Area Command --
-  Officers Thomas Fletcher says every car that metro has, B/W, have a computer
-  terminal MCTs, they are a tremendous help. By running a plate at random they
-  can determine if the car is stolen from anywhere in the US, if the person has
-  warrants or if the plate is expired. Officer Andrew Legrow.
-- (7:30 PM Disturbance Call) / (7:46 PM Disturbance Call) [in later episodes]
-  Officer Joseph Lombardo (Joe Lombardo) and the Polite Vampire lady.
+- (Las Vegas, NV -- 5:45 PM Suspicious Activity) Metropolitan PD Northeast Area
+  Command -- Officer Thomas Fletcher says every car that metro has, B/W, have a
+  computer terminal MCTs, they are a tremendous help. By running a plate at
+  random they can determine if the car is stolen from anywhere in the US, if
+  the person has warrants or if the plate is expired. Officer Andrew Legrow.
+  The first 2 segments feature one call, that of a father (Larry) pimping out
+  his underage daughter (Danielle) to feed his drug habit. They are caught in
+  the act at a hotel.
+- (Las Vegas, NV -- 7:30 PM Disturbance Call) Officer Joseph Lombardo (Joe
+  Lombardo) and the Polite Vampire lady.  This segment was recycled and
+  shortened years later in `CP-1435`, but with a "(7:46 PM Disturbance Call)"
+  description.
 
 ## BOC-001
 
@@ -7209,11 +7214,16 @@ Aired 1993-07-31.
 
 Aired 1993-05-29.
 
-**United States Hour Special** AKA Cops Classics
+**United States Hour Special** AKA **Cops Classics**
+
+Part 1:
 
 - (Pittsburgh, PA -- 11:40 PM 911 Call) (CP-323 segment 3)
 - (Pittsburgh, PA -- 11:26 PM Narcotics Task Force Team One) (CP-409 segment 1)
 - (San Diego, CA -- 3:40 PM) (CP-217 segment 2)
+
+Part 2:
+
 - (Philadelphia, PA -- 11:04 PM Street Patrol) (CP-521 segment 1)
 - (Houston, TX -- 12:32 AM Traffic Stop) (CP-334 segment 1)
 - (Las Vegas, NV -- 7:45 PM Code Red -- Officer Emergency) (CP-318 segment 1)
@@ -9958,7 +9968,7 @@ Aired 1997-11-22.
   find his clothes in the yard. Turns out he is a mental patient not taking his
   meds. They don't know who he is, just that he assaulted himself.
 - MO (9:33 PM Disturbance Call) Officer Brent Parsons always wanted to be a
-  cop, it's everything you want and more. He goes to #5019 where two old, gay,
+  cop, it's everything you want and more. He goes to \#5019 where two old, gay,
   black men had a fight over the young boyfriend smoking crack and tearing up
   the place including ripping up the couch. Officer Selock assists. The old guy
   wants him out and is gonna call his aunt to get him fixed. He says his pants
@@ -10402,7 +10412,7 @@ Aired 1998-10-03.
 
 **Atlanta, GA 3**
 
-- (4:12 PM Search Warrant) Zone 1 -- Sgt. Carrie Mills is #2198 rolling on a
+- (4:12 PM Search Warrant) Zone 1 -- Sgt. Carrie Mills is \#2198 rolling on a
   paper 25, search warrant for marijuana. She talks about the drug house the
   are going to and no weapons are involved and will have to take the door off.
   They supply a lot kids in the area because it is near a high school and a
@@ -12920,7 +12930,19 @@ Aired 2002-09-14.
 
 **Extreme Cops**
 
-- (Houston, TX -- 12:32 AM Car Pursuit) Police officers face life-threatening situations; dangerous car chases; officers detonate grenades during a drug raid.
+- (Houston, TX -- 12:32 AM Car Pursuit) Sgt. Robert Jackson. Red pickup chase.
+- (Fort Worth, TX -- 1:08 AM Officer Assistance Call) Officer Mike Humphreys,
+  Officer D. S. Meza.
+- (New York, NY -- 9:47 PM Warrant Served) Lt. Bob Sobocienski, Officer Peter
+  Conlin, Officer Bill Lutz. Officers shoot and kill a pitbull and detonate flashbangs
+  during a raid.
+- (Little Rock, AR -- 1:13 AM Stolen Vehicle) Officer Steve Woodall. Car chase.
+- (Pittsburgh, PA -- 10:18 PM Disturbance Call) Officer Michelle McCants.
+- (Philadelphia, PA -- 12:48 AM Shooting Call) Sgt. James Boone.
+- (Fort Worth, TX -- 12:41 AM Stolen Vehicle) Corporal Jim Burnett. Car chase.
+- (Fort Worth, TX -- 7:36 PM Traffic Stop) Officer John Ost, Officer Jerry Dalton.
+- (Bernalillo County, NM -- 1:34 AM Car Pursuit) Deputy Leonard Armijo, Deputy
+  Casey Ireland. Car chase.
 
 # Season 15
 
@@ -13042,10 +13064,10 @@ Aired 2003-01-25.
 **Coast to Coast 28**
 
 - (North Las Vegas, NV -- 9:18 PM Traffic Stop) Special Operations Division --
-  Police officers find a loaded weapon in a suspect's pants; officers
-  investigate a complaint about loud music in the street.
-- Palm Springs, CA
-- Broward County, FL
+  Officer Justin Roberts and Officer Justin Ryan find a loaded weapon in a suspect's pants
+- (Palm Springs, CA -- 8:59 PM Disturbance Call) Officer Erik Larson, Officer
+  Dan Clary. A complaint about loud music in the street.
+- (Broward County, FL -- 8:02 PM Officer Assistance Call) Deputy Gary Hauter.
 
 ## CP-1508
 
@@ -13089,9 +13111,13 @@ Aired 2003-10-01.
   enjoys working with his team. Spots a car driving with no headlights and
   pulls him over. A suspect is apprehended for buying drugs and paraphernalia
   in his mother's backyard; an officer suspects a driver is intoxicated and
-  follows him to his home.
-- Broward County, FL
-- Indianapolis, IN
+  follows him to his home. Featuring Officer Karen Borders.
+- (Broward County, FL -- 3:22 PM Assistance Call) Deputy Gary Hauter, Detective
+  Jason Gertler.
+- Original segment 3 (banned): (Indianapolis, IN -- ???) A female officer
+  posing as a prostitute told a John to expose himself to prove he wasn't a
+  cop. Police can't tell someone to commit a crime.
+- New segment 3: (Jacksonville, FL -- 1:48 PM Sting Briefing) Sgt. Mike Johnson.
 
 ## CP-1511
 
@@ -13289,10 +13315,13 @@ Aired 2002-11-02.
 - (Palm Springs, CA -- 10:25 PM Home Invasion Call) 911 Communications Center
   -- A man calls in that a Mexican man pulled a gun on a him, tied him up and
   stole his car. Officer Nelson Figueroa takes the call. An officer chases an
-  armed suspect; a man in a wheelchair fires on officers; a suspect refuses to
-  drop his weapon.
-- Albuquerque, NM
-- Lynn, MA
+  armed suspect Featuring Officer Steve Douglas, Sgt. Don Crager, Officer Erik
+  Larson.
+- (Albuquerque, NM -- 8:57 PM Shots Fired Call) Officer Heather Hindi, Officer
+  Cory Snyder. A man in a wheelchair fires on officers.
+- (Lynn, MA -- 11:21 AM Assault Call) Officer Michael Hanlon, Officer Gregory
+  McCarthy. A suspect refuses to drop his knife and gets shot. This is segment
+  1 of CP-908.
 
 ## CP-1521
 
@@ -13517,9 +13546,12 @@ Aired 2003-02-22.
 
 **Stun Gun Special Edition**
 
-- (Pierce County, WA -- 10:02 PM Street Patrol) An officer uses a stun gun when a drunken driver picks a fight; an officer disarms a suspect.
-- Miami, FL
-- Pomona, CA
+- (Pierce County, WA -- 10:02 PM Street Patrol) Deputy Andrew Guerrero. An
+  officer uses a stun gun when a drunken driver picks a fight.
+- (Miami, FL -- 9:03 PM Roll Call) Lt. Chip Landrau, Officer Ruben Lameira.
+  (9:34 PM Man With a Knife Call).
+- (Pomona, CA -- 10:16 PM Man With a Gun Call) Corporal Joe Waltman, Lt. Larry
+  Todd, K-9 Officer Mark Shannon.
 
 ## CP-1532
 
@@ -14467,7 +14499,7 @@ Aired 2004-09-11.
   his daughter. Ray says some guy came into his yard and tried to slug him so
   he hit him hard. Chris checks him for weapons and puts him in his car. Mom
   says Ray attacked her daughter and her neighbor Robin called it in. She is at
-  house #4254 and they go to see her 20 year old daughter. She says she was
+  house \#4254 and they go to see her 20 year old daughter. She says she was
   drinking and Ray attacked her when she went to his house to get some weed. He
   then pulled her into the house by her hair, tried to give her speed and rape
   her. She hit him and ran out claiming doesn't do speed and has a three year
