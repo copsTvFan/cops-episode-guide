@@ -6918,12 +6918,12 @@ Aired 1993-02-27.
 
 **Fort Worth, TX 4**
 
-- (3:51 PM Man with a Gun Call) West Sector -- Sgt. Tim Ellis has been a cop for
-  13 years and has been in law enforcement since he was 19 working at a jail
-  before he was eligible to be a cop. His dad was the chief of police in the
-  town he grew up in so it's in the family.
-- Stolen vehicle
-- possible burglary.
+- (Fort Worth, TX -- 3:51 PM Man with a Gun Call) West Sector -- Sgt. Tim Ellis
+  has been a cop for 13 years and has been in law enforcement since he was 19
+  working at a jail before he was eligible to be a cop. His dad was the chief
+  of police in the town he grew up in so it's in the family.
+- (Fort Worth, TX -- 2:37 AM Suspicious Vehicle) Officer Matt Smith. Stolen vehicle
+- (Fort Worth, TX -- 8:56 PM Burglary In Progress Call) South Sector. Officer Rick Benson.
 
 ## CP-530
 
@@ -7747,7 +7747,12 @@ Aired 1994-09-24.
 
 **Indianapolis, IN 6**
 
-- (5:17 PM Traffic Stop) Belligerent old biker tries to conceal marijuana; stabbing.
+- (5:17 PM Traffic Stop) Belligerent old biker tries to conceal marijuana
+- (Indianapolis, IN -- 6:02 PM Domestic Disturbance) Communications Center.
+  Officer Rob Cook, Officer Robert Hipple, Officer Jeffrey Goodin. East
+  District.
+- (Marion County -- 6:49 PM Stabbing Call) Sgt. Mike Himmel, Deputy Eugene
+  Patrick.
 
 ## CP-646
 
