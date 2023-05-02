@@ -19258,6 +19258,8 @@ Aired 2010-05-15.
 **Resisting Arrest #5**
 
 - (Boynton Beach, FL -- 9:08 PM Armed Robbery Call) Officer Drew Murphy.
+- (Amarillo, TX -- 7:11 PM Harassment Call) Officer Devin Cantwell, FTO Troy Roberson.
+- (Portland, OR -- 11:20 PM Suspicious Person) Officer Ryan Derry, Officer Jason Harris.
 
 ## CP-2227
 ## S22E26
