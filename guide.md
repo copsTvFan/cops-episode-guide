@@ -14035,18 +14035,19 @@ Aired 2004-05-22.
   even bit the cop all over trying to steal a 12 pack of Keystone Beer. She
   tried to steal stuff from them the week before and bit the cashier Chris. In
   the end she said her boyfriend told her to do it.
-- Jacksonville, FL (1:58 AM Suspicious Activity) Officer James Easson stops a
-  van with two young girls inside. Rachel says she drank, but didn't smoke
-  crack. Candy says she won't go down for her friend. They find coke on
-  Rachel's side and she gets arrested. Candy doesn't know what to say because
-  she doesn't want to get in trouble.
-- Philadelphia, PA (10:12 PM Disturbance in Progress) An ignorant black woman
-  is waiting outside and says she was attacked by her friend who robbed a
-  Laundromat. The other woman says the first woman's son is the problem. He is
-  a drug addict and was shot 14 times and she can't get rid of them. She says
-  she cut herself breaking the table. The second one broke the first one's TV
-  and dishes. The first one says it was from her dad's funeral. The second
-  woman is arrested for domestic and possibly cut the first one with a knife.
+- (Jacksonville, FL -- 1:58 AM Suspicious Activity) Officer Jaime Eason and
+  Officer Terry Jones stop a van with two young girls inside. Rachel says she
+  drank, but didn't smoke crack. Candy says she won't go down for her friend.
+  They find coke on Rachel's side and she gets arrested. Candy doesn't know
+  what to say because she doesn't want to get in trouble.
+- (Philadelphia, PA -- 10:12 PM Disturbance in Progress) Officer William
+  Toughill, Officer Chris Parkinson. An ignorant black woman is waiting outside
+  and says she was attacked by her friend who robbed a Laundromat. The other
+  woman says the first woman's son is the problem. He is a drug addict and was
+  shot 14 times and she can't get rid of them. She says she cut herself
+  breaking the table. The second one broke the first one's TV and dishes. The
+  first one says it was from her dad's funeral. The second woman is arrested
+  for domestic and possibly cut the first one with a knife.
 
 ## CP-1626
 
