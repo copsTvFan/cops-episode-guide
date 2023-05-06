@@ -20556,7 +20556,13 @@ Aired 2023-03-03
 
 ## S34E14
 
-TODO
+Aired 2023-03-10
+
+**Out-of-Towner**
+
+- (Riverside, CA -- 12:50 AM Stolen Vehicle) Riverside County Sheriff's Department Perris Station -- Deputy Nicholas Ramirez -- On Wilson Avenue south of East Rider Street in Perris, Deputy Ramirez spots a Volkswagen Jetta that's been reported stolen. Deputy Johnathan Gingras and Corporal John Adams arrive to assist. A man (Michael) is about to enter the vehicle when deputies order him to the ground at gunpoint. As they're cuffing the suspect, he reports that he can't move his left arm because of an earlier injury in which he had been shot. A search of the suspect yields a Smith & Wesson revolver. Michael reports that he purchased the car through OfferUp just a couple of hours prior. They find a meth pipe in the car. He's arrested and charged with possession of a loaded firearm without a concealed weapon permit and possession of a stolen vehicle.
+- (Alameda County, CA -- 7:18 PM Carjacking) Alameda County Sheriff's Office Transit Crimes Unit -- Detectives Vince Hall and Aaron Bjork -- Detectives Hall and Bjork investigate a LoJack activation on a reported carjacking. They spot the Honda sedan traveling northeast on 35th Avenue at Davis Street in Oakland. The suspects turn southeast on Allendale Ave and northeast on Octavia Street and begin to flee. They turn southeast on Penniman Avenue and southwest on Abbey Street which they follow to a dead end where they flee on foot. Two passengers are quickly apprehended but the driver and another passenger elude capture. Deputy Dillon Fike and Sergeant Stephen Light arrive to assist. Deputy Bjork swabs the steering wheel in the hopes that later DNA analysis may reveal the identity of the driver. The vehicle owner arrives at the scene and is upset that valuable items are missing from his car.
+- (Las Vegas, NV -- 8:46 PM Shots Fired Call) Las Vegas Metropolitan Police Department South Central Area Command -- Sergeant Greg Everett -- Sergeant Everett arrives at an apartment complex on the north side of East Karen Avenue east of Maryland Parkway to investigate reports of someone firing a gun. They find a man on a balcony. They order him to keep his hands visible and to have his girlfriend (Capricia) open the door for officers. Officer J. Headley, Officer Liovany Garcia, and Sergeant Devin Chard arrive to assist. Officers find a gun and ten spent shotgun shells while searching the apartment. The suspect said he fired the gun in the air because he was upset. He is arrested and charged with unlawful discharge of a firearm.
 
 ## S34E15
 
