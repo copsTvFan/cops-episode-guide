@@ -20546,7 +20546,13 @@ Aired 2022-12-02
 
 ## S34E13
 
-TODO
+Aired 2023-03-03
+
+**Carside Confessions**
+
+- (Sedgwick County, KS -- 8:30 PM Stolen Vehicle) Sedgwick County Sheriff's Office Patrol Division -- Deputy Scott McCall -- While travelling southbound on Eisenhower Airport Parkway between Taft Street and West Kellogg Drive in Wichita,  Deputy McCall spots a stolen Ford Mustang. As the suspect turns north from Calvert Street onto South Knight Street, he begins to flee. As he turns east on West 31st Street South, he collides with a black pickup truck, stops, and four people flee the vehicle on foot. Deputy Chris Hehemann and K-9 Deputy Clayton Blackwood arrive to assist. According to one of the suspects, his friend had stolen the car the previous night and allowed him to drive it. He and the other passengers went to a mall and stole clothing from a store. The driver is charged with possession of stolen property, felony flee and elude, and criminal damage to property. A passenger is charged with obstruction, and another passenger who was on probation is charged with obstruction and minor in possession of alcohol. The owners of the Mustang arrive and assess the damage to their vehicle.
+- (Riverside County, CA -- 11:50 PM Traffic Stop) Riverside County Sheriff's Department Moreno Valley Station -- Deputy Joseph Smith -- Deputy Smith arrives to assist Deputy Kevin Mahoney who has stopped a man in a Volkswagen Jetta for a window tint violation on Olive Wood Plaza Drive just north of Sunnymead Blvd in Moreno Valley. The 32 year old male driver has several warrants. They find a bag of meth in the center console. Deputy Smith interviews the suspect about his meth use, explains to him that his mother died from meth, and offers to help get him into a treatment program. The man is ticketed and released.
+- (Riverside County, CA -- 5:34 PM Stolen Vehicle) Riverside County Sheriff's Department Moreno Valley Station -- Deputies Joseph Smith and Jeff Andrews -- Deputies Smith and Andrews stop a man in blue Nissan Sentra who's parked in a stall at a self-service car wash on the corner of Heacock Street and Webster Avenue in Moreno Valley. The driver is on probation for stolen vehicle. A vehicle search yields a meth pipe, a knife, an identification card and credit card that don't belong to him, an Airsoft gun, and a hatchet. These items are a violation of the suspect's probation. Deputy Andrews interviews the suspect about how he came to be in possession of the car. The suspect explained that he had purchased the car five days earlier and used an app on his phone to check the car's VIN and verified that it was not stolen. Deputy Smith checks the VIN and it shows that the car is stolen out of Temecula, CA. The suspect had been arrested for possession of a stolen vehicle only two weeks earlier and had several open cases for stolen vehicles. He is charged with possession of a stolen vehicle.
 
 ## S34E14
 
