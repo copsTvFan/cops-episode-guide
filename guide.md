@@ -7555,9 +7555,9 @@ Aired 1993-12-04.
 
 **Cleveland, OH 4**
 
-- (8:32 PM Stolen Car Pursuit) stolen vehicles
-- gang fight
-- bar disturbance.
+- (Cleveland, OH -- 8:32 PM Stolen Car Pursuit) Officer Bob Rose, Officer Lou Knowles, Officer John Hupka.
+- (Cleveland, OH -- 9:28 PM Fight Call) Officer Nate Oliver, Officer George Kirby, Sgt. Andy Gonzalez.
+- (Cleveland, OH -- 5:28 PM Stolen Car) Officer George Seroka, Officer Dale Mullins. (6:17 PM Disturbance Call) Bar disturbance.
 
 ## CP-633
 
@@ -9934,12 +9934,15 @@ Aired 1998-02-14.
 
 **Las Vegas Prostitution Special** AKA Vice Squad Special Edition
 
-- (9:38 PM Escort Service Sting) Vice Station -- Lt. Carlos Cardeiro says they
+- (9:38 PM Escort Service Sting) Vice Station -- Lt. Carlos Cordeiro says they
   are targeting the outgoing entertainment services. Undercover Detectives
   Scott Kavon and Christine Payson pose as a husband and wife in a hotel room
   and call a service in the phone book. She doesn't know what kind of woman to
   pick, says she is for her husband and the blonde in the ad looks nice. They
   say it's $150 and tips are appreciated.
+- (Las Vegas, NV -- 10:02 PM Street Prostitution Sting) Officer Terri Pocernik,
+  Lt. Carlos Cordeiro.
+- (Las Vegas, NV -- 11:12 PM Prostitution Sting) Lt. Carlos Cordeiro.
 
 ## CP-1015
 
@@ -10374,14 +10377,18 @@ Aired 1998-10-24.
 
 **Atlanta, GA 1**
 
-- (3:37 AM Traffic Stop) Zone 3 -- Officer Greg Dabney says it's a good city
-  overall and has been good to him. He feels safe walking down the street.
-  Other people feel the same because the city is growing -- welcome to Atlanta.
-  He spots a car turning around in the middle of the street and pulls it over.
-  Officer Dabney gives chase when a man naked from the waist down flees a
-  routine traffic stop. Officer Guzley questions a man wearing women's
-  clothing. Officer Woody arrests two transvestites who attempted to make a
-  purchase purchase using a stolen credit card.
+- (Atlanta, GA -- 3:37 AM Traffic Stop) Zone 3 -- Officer Greg Dabney says it's
+  a good city overall and has been good to him. He feels safe walking down the
+  street. Other people feel the same because the city is growing -- welcome to
+  Atlanta. He spots a car turning around in the middle of the street and pulls
+  it over. Officer Dabney gives chase when a man naked from the waist down
+  flees a routine traffic stop. Featuring Officer Holly Buchanan, Officer Jeff
+  Crenshaw, Officer Rick Lewis, Sgt. Rudy Preston.
+- (Atlanta, GA -- 7:50 PM Suspicious Person) Officer Nick Guzley and Officer
+  Danny Agan, Jr. question a man wearing women's underwear.
+- (Atlanta, GA -- 9:15 PM Suspicious Activity) Officer R. D. Woody arrests two
+  transvestites who attempted to make a purchase purchase using a stolen credit
+  card. Featuring Officer M. A. Carter and Sgt. W. T. Stallings.
 
 ## CP-1102
 
@@ -12926,11 +12933,29 @@ Aired 2002-04-27.
 
 **Naked Cops 1 Special Edition**
 
-- (Atlanta, GA -- 3:37 AM Car Pursuit) Zone 3 -- Officer Greg Dabny spots a car with no tail light and goes to pull him over and he runs. Turns out the black male driver with no pants on abducted a young black woman in a short silver dress off the street at gunpoint and forced her into his car to give him a blow job. Cops chase him and he flips the car over a fence and she falls out and has bloody knees. An officer chases a half-naked driver; a nude man breaks into a school; a nude runs through a residential neighborhood; officers order nude sunbathers to cover up; nudity at a Mardi Gras party.
-- Cleveland, OH
-- Las Vegas, NV
-- Kansas City, KS
-- Jackson Co
+- (Atlanta, GA -- 3:37 AM Car Pursuit) Zone 3 -- Officer Greg Dabney spots a
+  car with no tail light and goes to pull him over and he runs. Turns out the
+  black male driver with no pants on abducted a young black woman in a short
+  silver dress off the street at gunpoint and forced her into his car to give
+  him a blow job. Cops chase him and he flips the car over a fence and she
+  falls out and has bloody knees. Featuring Officer Holly Buchanan, Officer
+  Jeff Crenshaw, Officer Rick Lewis, Sgt. Rudy Preston. (This is segment 1 of
+  CP-1101)
+- (Cleveland, OH -- 11:03 PM Burglary In Progress) Sgt. Jeff Zappala. A nude
+  man breaks into a school. (This is from CP-630)
+- (Las Vegas, NV -- 9:38 PM Escort Sting) Lt. Carlos Cordeiro, Detective Scott
+  Kavon, Detective Christine Payson. (This is segment 1 of CP-1014)
+- (Cleveland, OH -- 5:31 PM Disturbance Call) Officer Dale Mullins, Officer
+  George Seroka. "I've been captured by the Germans". (This is segment 3 of
+  CP-632)
+- (Kansas City, KS -- 1:31 AM Disturbance Call) Officer John Cosgrove. (New
+  segment?)
+- (Jackson County, MO -- 11:16 PM Assistance Call) Deputy Sidney Anderson,
+  Deputy Cathy Ballman. (This is segment 2 of CP-1016)
+- (Los Angeles, CA) Officer Cory Palka, Officer Paul Williams. Officers order
+  nude sunbathers to cover up. (New segment?)
+- (New Orleans) Officer David Morel, Officer Desiree Gaudet. Nudity at Mardi
+  Gras. (This is from CP-232)
 
 ## CP-1435
 
