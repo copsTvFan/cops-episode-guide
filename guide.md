@@ -9555,8 +9555,11 @@ Aired 1997-06-14.
 
 - (10:32 PM Shooting Call) North District -- Officer Brian Phillips talks about
   how he directed traffic in Michigan in 40 below weather and decided to go to
-  some place warm. Gun discharged; robbery call may involve solicitation;
-  stranded vandals.
+  some place warm. Featuring Sgt. Jeri Evenson. Gun discharged.
+- (Lee County, FL -- 9:03 PM Vandalism Call) Deputy Tim Short, Sgt. Greg Dekle,
+  Captain Mark Durling, Deputy Ian Pickins. Stranded vandals.
+- (Fort Myers, FL -- 10:29 PM Armed Robbery Call) Officer Jen Gaytan. Robbery
+  call may involve solicitation.
 
 ## CP-932
 
@@ -9564,10 +9567,14 @@ Aired 1997-04-26.
 
 **Fort Myers, FL 2**
 
-- (9:58 PM Aggravated Stalking Warrant) Lee County North District -- Deputy
-  Felix Romano is told by another officer about the guy they are going to get
-  who has a stalking warrant. They are five miles outside of town. Felon living
-  in a bus is captured; pregnant attacker.
+- (Lee County, FL -- 9:58 PM Aggravated Stalking Warrant) Lee County North
+  District -- Deputy Felix Romano is told by another officer about the guy they
+  are going to get who has a stalking warrant. They are five miles outside of
+  town. Deputy Jim Biddle. Felon living in a bus is captured.
+- (Fort Myers, FL -- 4:32 PM Disturbance Call) Officer Enrico Doro, Officer Ken
+  Winters. Pregnant attacker.
+- (Fort Myers, FL -- 8:17 PM Assistance Call) Officer Brian Phillips, Officer
+  Greg Hemberger.
 
 ## CP-933
 
@@ -9575,25 +9582,26 @@ Aired 1997-06-21.
 
 **Fort Myers, FL 3**
 
-- (10:21 PM Robbery Call) Lee County Sheriff's Office West District -- Deputy
-  Mike Miller moved to the area in 1972 with his family. He's married, has 2
-  kids and doesn't plan on going anywhere. It's a great community and is
-  growing. A black man robbed a convenience store and fled behind the building
-  and they are setting up a perimeter. Deputy Dave Murphy is on the scene and
-  says it happened 10-15 minutes ago. Deputy Kurt Willenbacher has a K-9 and
-  leads him behind the building into a wooden area. They go to a house with a
-  brown Camero in the driveway with the back door is open and a large amount of
-  marijuana plants growing in the backyard. They yell into the house again and
-  again to come out or they'll release the dog. There is a dog inside and a
-  room full of pot growing under florescent lights. The bad guy got out, so
-  they call a drug task force unit to the house. They go back when the
-  detectives arrive with a search warrant. The fridge has bags of plants and
-  seeds. In the bathroom there are plants drying and 10 bags ready to go. They
-  also find cocaine and a scale. The owner says it belongs to Doug and he
-  forgot it was there. They also find 3 assault rifles and 6 rifles and ask him
-  why he has so many guns. The owner says it isn't that many guns and all this
-  pot is for his own use. Mike says it's nice to nip it in the bud.
-- Sarasota County, FL (12:15 AM Domestic Disturbance Call) Sheriff's Dept
+- (Lee County, FL -- 10:21 PM Robbery Call) Lee County Sheriff's Office West
+  District -- Deputy Mike Miller moved to the area in 1972 with his family.
+  He's married, has 2 kids and doesn't plan on going anywhere. It's a great
+  community and is growing. A black man robbed a convenience store and fled
+  behind the building and they are setting up a perimeter. Deputy Dave Murphy
+  is on the scene and says it happened 10-15 minutes ago. Deputy Kurt
+  Willenbacher has a K-9 and leads him behind the building into a wooden area.
+  They go to a house with a brown Camero in the driveway with the back door is
+  open and a large amount of marijuana plants growing in the backyard. They
+  yell into the house again and again to come out or they'll release the dog.
+  There is a dog inside and a room full of pot growing under florescent lights.
+  The bad guy got out, so they call a drug task force unit to the house. They
+  go back when the detectives arrive with a search warrant. The fridge has bags
+  of plants and seeds. In the bathroom there are plants drying and 10 bags
+  ready to go. They also find cocaine and a scale. The owner says it belongs to
+  Doug and he forgot it was there. They also find 3 assault rifles and 6 rifles
+  and ask him why he has so many guns. The owner says it isn't that many guns
+  and all this pot is for his own use. Mike says it's nice to nip it in the
+  bud.
+- (Sarasota County, FL -- 12:15 AM Domestic Disturbance Call) Sheriff's Dept
   District 1 -- Sgt. Steve Burns has been a Sgt for 8 years, has 5-10 deputies
   under him, does less hands on work, but does more paperwork. He goes to a
   house and a shirtless man named Damon is outside with a Pepsi. He says he
@@ -9613,7 +9621,7 @@ Aired 1997-06-21.
   hers and she said it was in the shed, but it was behind the shed and he gave
   permission to search the shed only. He has to sign an affidavit and
   apologizes for sounding indifferent. They say no problem.
-- Fort Myers, FL (10:54 PM Traffic Stop) North District -- Officer Greg
+- (Fort Myers, FL -- 10:54 PM Traffic Stop) North District -- Officer Greg
   Hemberger moved down there from New York 7 years ago. When you think you've
   seen it all, something different occurs, it's fun and busy. He spots a light
   green Buick parked in a drug area. He drives off and Greg pulls him over. He
@@ -9655,11 +9663,17 @@ Aired 1997-07-12.
 
 **Fort Myers, FL 5**
 
-- (5:58 PM Disturbance Call) South District -- Officer Jen Gayton takes a call
-  of a man who broke a window with his hand and escaped from a mental home. She
-  arrives and they are outside having spotted him. Deputy Miller and an animal
-  control officer help free an owl trapped inside a fireplace, and later,
-  Miller arrests a woman who assaulted her ex-boyfriend.
+- (Fort Myers, FL -- 5:58 PM Disturbance Call) South District -- Officer Jen
+  Gaytan takes a call of a man who broke a window with his hand and escaped
+  from a mental home. She arrives and they are outside having spotted him.
+  Featuring Sgt. Dave Strasbaugh.
+- (Lee County, FL -- 7:09 PM Public Assistance Call) Deputy Mike Miller and
+  Officer Howard Fritcher (Animal Control) help free an owl trapped inside a
+  fireplace. (7:34 PM Domestic Disturbance Call) Deputy Mike Miller, Deputy
+  Scott Kiphart, and Deputy David Murphy arrest a woman who assaulted her
+  ex-boyfriend.
+- (Sarasota County, FL -- 11:43 PM Traffic Accident Call) Deputy John Walsh,
+  Deputy Joe Giasone.
 
 ## CP-936
 
@@ -9667,12 +9681,15 @@ Aired 1997-07-12.
 
 **Fort Myers, FL 6**
 
-- (7:03 PM Assistance Call) Lee County Sheriff's Dept West District -- Deputy
-  Pete Hendrick assists another officer who pulled over a car with stolen
-  plates. He also has a suspended license, causing his young daughter to break
-  into tears. Deputy Miller questions a man who claims the marijuana in his
-  possession is used for medicinal purposes. Deputy Short arrests a man for
-  beating his girlfriend.
+- (Lee County, FL -- 7:03 PM Assistance Call) Lee County Sheriff's Dept West
+  District -- Deputy Pete Hedrick assists Deputy Jeff Trusal who pulled over a
+  car with stolen plates. He also has a suspended license, causing his young
+  daughter to break into tears.
+- (Lee County, FL -- 1:46 AM Assistance Call) Deputy Mike Miller, Deputy Gina
+  Dye, Deputy Pete Hedrick, A man claims the marijuana in his possession is
+  used for medicinal purposes.
+- (Lee County, FL -- 6:39 PM Domestic Violence Call) Deputy Tim Short arrests a
+  man for beating his girlfriend. Featuring Deputy Mike Weis.
 
 # Season 10
 
