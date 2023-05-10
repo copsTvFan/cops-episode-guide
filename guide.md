@@ -16107,8 +16107,15 @@ Aired 2006-01-07.
 
 **Coast to Coast 86**
 
-- (Las Vegas, NV -- 9:41 PM Assistance Call) When an officer investigates a distress call from a nearby apartment complex, he attempts to detain an uncooperative male.
-- Lee County, FL
+- (Las Vegas, NV -- 9:41 PM Assistance Call) When Officer John Smaistrla
+  investigates a distress call from a nearby apartment complex, he attempts to
+  detain an uncooperative male. Featuring Officer Anthony Garbutt and Officer
+  Darris Garner.
+- (Lee County, FL -- 10:52 PM Traffic Stop) Corporal Pete Hedrick, Sgt. Fred
+  Janke, Corporal Ed Ahlquist.
+- (Lee County, FL -- 7:20 PM Complaint Call) Deputy Robert Smith. An old lady
+  is complaining about juveniles playing basketball near her house. Deputy
+  Smith ends up playing basketball with the kids.
 
 ## CP-1806
 
