@@ -9,8 +9,8 @@ For context, see the [parent page](/cops-episode-guide).
 - Broward County, FL
 - Russia
 
-## S01E01
 ## CP-100
+## S01E01
 
 Aired 1989-03-11.
 
@@ -99,8 +99,8 @@ Aired 1989-03-11.
   screaming woman is arrested. Then Richard watches the 10 O'clock news of
   the days coverage and Vicki talks about finding kids at drug busts.
 
-## S01E02
 ## CP-101
+## S01E02
 
 Aired 1989-03-18.
 
@@ -154,8 +154,8 @@ Aired 1989-03-18.
   likely he'll be back tomorrow since he is the breadwinner and she is scared
   to be alone in the bad neighborhood and the girl will want him out again.
 
-## S01E03
 ## CP-102
+## S01E03
 
 Aired 1989-03-25.
 
@@ -206,8 +206,8 @@ Aired 1989-03-25.
   medicine cabinet. He doesn't want her kids to pick up a crack rock, eat it
   and die. She cries that she is taking care of him.
 
-## S01E04
 ## CP-103
+## S01E04
 
 Aired 1989-04-01.
 
@@ -268,8 +268,8 @@ Aired 1989-04-01.
   Deak about wearing the pants in his family. He says he's the boss, then his
   wife comes up and surprises him.
 
-## S01E05
 ## CP-104
+## S01E05
 
 Aired 1989-04-08.
 
@@ -327,8 +327,8 @@ Aired 1989-04-08.
   says someone saw him go into his jacket. Mike brings a pastor over to talk to
   him. No one knows him and they were just checking.
 
-## S01E06
 ## CP-105
+## S01E06
 
 Aired 1989-04-15.
 
@@ -392,8 +392,8 @@ Aired 1989-04-15.
   If they cut him loose, they know he'll come back. After Mike is watching the
   49ers and Bengals play on a TV in his car.
 
-## S01E07
 ## CP-106
+## S01E07
 
 Aired 1989-04-22.
 
@@ -465,8 +465,8 @@ Aired 1989-04-22.
   when he tells parents their kid was killed in a DWI, but now he works on
   stopping them before they kill.
 
-## S01E08
 ## CP-107
+## S01E08
 
 Aired 1989-04-29.
 
@@ -520,8 +520,8 @@ Aired 1989-04-29.
   happened in front of the kids, they don't realize and never will that daddy
   is a scumbag.
 
-## S01E09
 ## CP-108
+## S01E09
 
 Aired 1989-05-06.
 
@@ -616,8 +616,8 @@ Aired 1989-05-06.
   man was killed from the accident. It's the end result of many accidents, it's
   really a shame.
 
-## S01E10
 ## CP-109
+## S01E10
 
 Aired 1989-05-13.
 
@@ -671,8 +671,8 @@ Aired 1989-05-13.
   shots were fired. Cops hear multiple shots fired from two people, but it
   wasn't them.
 
-## S01E11
 ## CP-110
+## S01E11
 
 Aired 1989-05-20.
 
@@ -714,8 +714,8 @@ Aired 1989-05-20.
   and wrecked it -- now in two pieces. He says he only had a little to drink,
   but his BAC level is .20.
 
-## S01E12
 ## CP-111
+## S01E12
 
 Aired 1989-05-27.
 
@@ -775,8 +775,8 @@ Aired 1989-05-27.
   catch them, teamwork. He says his partner gets the rookie of the year award
   for the catch.
 
-## S01E13
 ## CP-112
+## S01E13
 
 Aired 1989-06-03.
 
@@ -840,8 +840,8 @@ Aired 1989-06-03.
   were just there. Someone finally reports him missing.  His sister has been
   looking for him, wants to know where he was. She is thankful they found him.
 
-## S01E14
 ## CP-113
+## S01E14
 
 Aired 1989-06-10.
 
@@ -897,8 +897,8 @@ Aired 1989-06-10.
   unusual, they've never seen one like it. It turns out two buddies got into a
   fight and one killed the other, then another buddy also was killed.
 
-## S01E15
 ## CP-114
+## S01E15
 
 Aired 1989-06-17.
 
@@ -1081,8 +1081,8 @@ Aired 1989-06-17.
 - Los Angeles, CA
 - Mardi Gras 1990
 
-## S02E01
 ## CP-201
+## S02E01
 
 Aired 1989-09-23.
 
@@ -7099,8 +7099,8 @@ Aired 1993-05-16.
   arrest him.
 - Women assault each other; man jumps out window.
 
-## S05E39
 ## CP-538
+## S05E39
 
 Aired 1993-06-05.
 
@@ -7118,8 +7118,8 @@ Aired 1993-06-05.
 - Officer Matthew Knowles responds to a disturbance at a motel where a juvenile
   male smashed a window.
 
-## S05E34
 ## CP-539
+## S05E34
 
 Aired 1993-05-08.
 
@@ -7132,8 +7132,8 @@ Aired 1993-05-08.
 - Officer Kevin Hannah assists in the investigation of the shooting of a
   16-year-old male.
 
-## S05E33
 ## CP-540
+## S05E33
 
 Aired 1993-05-01.
 
@@ -7147,8 +7147,8 @@ Aired 1993-05-01.
   disturbance call, and arrests a combative husband for abusing his spouse.
 - Officer John Collins investigates an attempted kidnapping.
 
-## S05E40
 ## CP-541
+## S05E40
 
 Aired 1993-06-26.
 
@@ -7515,12 +7515,18 @@ Aired 1994-09-10.
   Himmel. Kids have fallen off the back of a pickup truck.
 
 ## CP-628
+## S06E12
 
 Aired 1993-11-06.
 
 **In Hot Pursuit**
 
-- (Cleveland, OH -- 2:07 AM Stolen Car Call)
+- (Cleveland, OH -- 2:07 AM Stolen Car Call) Officer Gary Mullins, Officer Mel
+  Gonzalez. "Get on it, Mel!" segment.
+- (Cleveland, OH -- 5:07 PM Domestic Disturbance) Officer George Peters,
+  Officer Richard Russell.
+- (Cleveland, OH -- 12:17 AM Vehicle Pursuit) Officer Robert Dunn, Officer Nate
+  Oliver, Officer James Simone.
 
 ## CP-629
 
