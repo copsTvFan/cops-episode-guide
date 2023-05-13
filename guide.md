@@ -20621,17 +20621,33 @@ Aired 2023-03-10
 
 ## S34E15
 
-TODO
+Aired 2023-03-17
+
+**PIT Stop**
+
+- (Riverside County, CA -- 10:22 PM Traffic Stop) Riverside County Sheriff's Department Perris Station -- Deputy Carri Carrico -- Deputy Carrico stops the driver of a Lexus LS400 because one of the car's lights is out. She finds a male driver and a female passenger, neither of whom have I.D. Deputy Carrico searches the car and finds meth and pipes. Both the driver and passenger have warrants. Because both were cooperative, she tickets and releases them.
+- (Richmond County, GA -- 6:18 PM Traffic Stop) Richmond County Sheriff's Office Crime Suppression Team -- Deputy James McQuaig -- Deputy McQuaig stops the driver of a Hyundai Sonata at the southwest corner of Watkins Street and Tuttle Street in Augusta for failure to maintain lanes. The driver stops momentarily but then flees north on Tuttle Street, weaving his way around the neighborhood, eventually traveling east on Broad Street, and south on Greene Street where Deputy McQuaig performs a successful pit maneuver and stops the car. A swarm of officers extract the male suspect from the car and put him in cuffs. With the help of Deputy Tyler Wilcher, a search of the vehicle yields baggies containing various drugs and a gun.
+- (Riverside County, CA -- 7:54 PM Stolen Vehicle) Riverside County Sheriff's Department Perris Station -- Deputy Nicholas Ramirez -- Using a license plate scanning camera, Deputy Ramirez finds a stolen late 90's Honda Accord in a strip mall parking lot on the north side of West 4th Street just west of Park Avenue in Perris. He detains the driver (Manuel) at gunpoint. Manuel has a shaved head which is covered with tattoos and he is wearing a "Good Vibes Only" t-shirt. Deputy Ramirez finds a shaved key that was used to start the car. He charges Manuel with felony possession of stolen property.
 
 ## S34E16
 
-TODO
+Aired 2023-03-24
+
+**No Good, Very Bad Day**
+
+- (Riverside County, CA -- 7:50 PM Suspicious Person) Riverside County Sheriff's Department Jurupa Valley Station -- Deputy Alex Guerrero -- While in the parking lot of a self-service car wash on the north side of Limonite Avenue between Pedley Road and Eucalyptus Street in Riverside, Deputy Guerrero sees an individual whom he recognizes as being on parole and probation. The suspect (William) is with another man (Alberto). Deputy Guerrero frisks William and finds a pipe, confirms that he is on probation, and puts him in cuffs. The vehicle, which belongs to Alberto, has an expired registation. Deputy Sotero Rivers, Deputy Isaias Morales, and Sergeant Frank Lodes arrive to assist. A search of the vehicle yields a loaded 9mm gun and hundreds of Oxycontin pills. Alberto is arrested for his felony no-bail warrant, possession of a controlled substance with intent to sell, and felony possession of a gun.
+- (Riverside County, CA -- 7:16 Traffic Stop) Riverside County Sheriff's Department Moreno Valley Station -- Deputy Joseph Smith -- Deputy Smith stops the driver of a black GMC Sierra pickup at the southwest corner of Indian Street and Dracaea Avenue in Moreno Valley for not wearing a seatbelt. The driver (Jessica) is on probation and admits to using heroin earlier in the day and having heroin residue in the truck. Deputy Smith asks her if she has anything illegal on her person and she denies. He requests a female officer to assist. CSO Samantha Hephner arrives and searches Jessica. Deputy Smith and finds the heroin residue in the truck. He offers to help get her into a recovery program and lets her go because she was cooperative.
+- (Las Vegas, NV -- 7:59 AM Suspicious Vehicle) Las Vegas Metropolitan Police Department Downtown Area Command -- PO II Dustin Osborne -- Officer Osborne arrives to assist PO II E. Espejo, PO II Ryan Levy, and PO II Colton Hafen with a stop of a cold-plated vehicle on West Bob Stupak Avenue between Fairfield Avenue and South Las Vegas Blvd in Las Vegas. As he arrives, the passenger is following Officer Espejo's instructions. The driver starts to run but only makes it a few feet before he is tackled and apprehended. The passenger is arrested for paraphernalia possession. Officer Osborne chides the driver for being 46 years old and trying to run from police. They decide not to charge the driver with fleeing, and arrest him for a warrant.
 
 ## S34E17
 
-- (Richmond County, GA -- 5:27 PM Suspicious Vehicle) Deputy Anthony Martinez
-- (Boise, ID -- 7:59 PM Traffic Stop) Officer Joe Martinez, Corporal Kevin Holtry
-- (Las Vegas, NV -- 9:08 PM Traffic Stop) PO II LaRon Cooke, Officer E. Sanchez
+Aired 2023-03-31
+
+**Palms are Sweaty**
+
+- (Richmond County, GA -- 5:27 PM Suspicious Vehicle) Richmond County Sheriff's Office South Station -- Deputy Anthony Martinez -- While patrolling Bayvale Park on Milledgeville Road in Augusta, Deputy Martinez finds a man working on the engine of a Jeep Cherokee with a woman sitting in the front passenger's seat. He frisks the man and explains to him that if he tells him about any drugs he may have and allows him to search the vehicle, he will ticket him, but if he doesn't and a K-9 unit finds drugs, he'll be arrested. The man admits to having meth in the vehicle. Deputy Martinez searches the vehicle and finds the meth and explains to both subjects that there are services available to help with their addiction. Both are released.
+- (Boise, ID -- 7:59 PM Traffic Stop) Boise Police Department City Hall West -- Officer Joe Martinez -- Officer Martinez stops the driver of a black Dodge Durango at the north corner of River Street and North Capitol Blvd in Boise because the license plate is registered to a driver with a revoked license. He confirms that the driver is the man with the revoked license and pats him down for weapons. Corporal Kevin Holtry arrives to assist. The driver refuses to allow his car to be searched. A K-9 unit arrives and finds meth in the vehicle. Neither the driver nor the passenger take responsibility for the meth. They both get charged with possession.
+- (Las Vegas, NV -- 9:08 PM Traffic Stop) Las Vegas Metropolitan Police Department Downtown Area Command -- PO II LaRon Cooke  -- Officer Cooke stops the driver of a Camaro for invalid license plates in front of Gold and Silver Pawn Shop, the pawn shop featured in the reality TV series Pawn Stars. There are three passengers in the car. Officer E. Sanchez arrives to assist. The subjects are uncooperative when asked to show I.D. or give  identifying information. The driver is notified that his car will be towed due to not having a driver license or registration for the car. The front passenger is arrested for obstruction because he gave a false name to the officer.
 
 # Season 35
 
