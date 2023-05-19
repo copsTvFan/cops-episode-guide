@@ -2580,7 +2580,7 @@ Aired 1990-03-03.
   to a multiple murder shooting of three people at Direct Liquor. A witness
   says four people got shot. He just waited on the victims, they are dead face
   down in the street. He's been working there since 1965 and this is the worst
-  thing he's ever seen. Sgt. Rey Verdguo arrives and Deputy Dana Villander
+  thing he's ever seen. Sgt. Rey Verdguo arrives and Deputy Dana Vilander
   explains what happened. Two kids came up, words were exchanged and the
   shooting started. A guy and a girl went down outside and were DOA. All the
   shots were fired outside. Two Mexicans were hit inside, probably dead, now
@@ -4619,58 +4619,59 @@ Aired 1991-02-16.
   not know he was a cop, he was in full uniform. It wasn't like he was wearing
   a Good Humor uniform. He was blind drunk. He'll get a summons, be home in an
   hour, should spend a weekend in county jail, maybe he'll think twice before
-  whacking a cop again. Jersey City (Narcotics Unit Briefing) Sgt. Brian
-  McDonough says they caught a girl with cocaine and she told them there was a
-  house with two Spanish chicks selling cocaine out of there. They have a
-  warrant and it's the top apartment \#129. Sgt. Edwin Gillen says she's an old
-  heavy woman, over 50, maybe 45. Brian explains how they will go up and batter
-  the door, it's the weekend, don't get hurt for it. Det. Dennis DeSefano says
-  they are Medellin and laughs. (11:45 PM Service of Warrant) He says when they
-  see the last man go in, Mike, go down the block and cover the sides of the
-  building in case something comes out the window. They go up, knock, say
-  'Policia', then ram the door. A woman can be heard. Inside there are babies
-  crying, they grab the woman and make her sit, they find an older woman, a man
-  and three babies they secure. Dennis grabs wads of cash that are in a purse.
-  They also find a welfare bundle of cash. The government is good to them. She
-  laughs. They search her and make the family speak to her in Spanish and tell
-  her to turn over any drugs or weapons. They also find a room of stolen
-  clothes, all still have tags on them, enough for a 100 people. It's like
-  doing inventory for JC Penney. One has a tag for $50. They rob stores and
-  trade them for drugs.  Six suitcases full of kids shoes, a $75 David Benjamin
-  dress, his wife doesn't wear those and $60 pants. The woman in yellow says
-  she likes it, she uses it.  Good country, eh? The kids all scream and now
-  they are worried about the kids when they are taking them out for locking up
-  the grandmother. He's worried about the kids while they deal. They see that
-  and hate the cops, he would too if he was a kid. Brian says the grandmother
-  was hiding in the closet with a couple grams of coke, she was the one in
-  charge. They have a little bit of drugs and a lot of money, a lot of jewelry
-  too. The daughter is in the cage yelling. They find an Irish good luck ring
-  are any of them Irish? Did you go to St. Michael's High School in 1972? It's
-  not the families jewelry it's someone else's. Jersey City (11:50 PM) Officer
-  Thomas Porter gets out of his car at a park that overlooks the NYC skyline
-  with the World Trade Center. They park everywhere, but there's a fire pump
-  they block. He has to chase them away to get them to park somewhere else.
-  (12:21 AM Stolen Car Call) He gets in his car and they give chase on the
-  Pulasky Skyway into Newark. Officer Robert Falconetti drives. A cop tells
-  them they are 'crazy Marty.' They stop on a bridge, get out and run. Sirens
-  are heard down the road. They are supposed to be around somewhere. They look
-  over the bridge thinking he went over, but he didn't jump, he was hanging
-  over the side. They ask the guy they caught where do your friends live. On
-  High St. in Jersey City. They go down and look up.  They were chased down the
-  ramp and one of the guys is hiding in the weeds somewhere. There was an
-  accident the police were handling and they were trapped with nowhere to go so
-  one guy jumped off the ramp, but who knows. (Street Patrol) Cops go to a lot
-  where kids robbed a truck full of candy. Kids are dumping candy in a lot. The
-  people say there wasn't much before, then they saw them come around and dump
-  some more. They ask what kind of truck it was. They are from the factory back
-  there, it's a white truck. It's a candy caper. Thomas jokes for them to be
-  under arrest and they all do and laugh. They doubt the thief will come back
-  and the kids are having a ball with it, the candy is probably bad, but
-  they'll let them have fun with it. (1:47 AM) They find a car turned on its
-  side. They parked it in front of a gate that reads, “No No No parking
-  Anytime” in white spray paint. They got mad at them so the cops help out and
-  turn the car back over. Over the credits is the mother daughter drug team at
-  the station.
+  whacking a cop again.
+- Jersey City (Narcotics Unit Briefing) Sgt. Brian McDonough says they caught a
+  girl with cocaine and she told them there was a house with two Spanish chicks
+  selling cocaine out of there. They have a warrant and it's the top apartment
+  \#129. Sgt. Edwin Gillen says she's an old heavy woman, over 50, maybe 45.
+  Brian explains how they will go up and batter the door, it's the weekend,
+  don't get hurt for it. Det. Dennis DeSefano says they are Medellin and
+  laughs. (11:45 PM Service of Warrant) He says when they see the last man go
+  in, Mike, go down the block and cover the sides of the building in case
+  something comes out the window. They go up, knock, say 'Policia', then ram
+  the door. A woman can be heard. Inside there are babies crying, they grab the
+  woman and make her sit, they find an older woman, a man and three babies they
+  secure. Dennis grabs wads of cash that are in a purse.  They also find a
+  welfare bundle of cash. The government is good to them. She laughs. They
+  search her and make the family speak to her in Spanish and tell her to turn
+  over any drugs or weapons. They also find a room of stolen clothes, all still
+  have tags on them, enough for a 100 people. It's like doing inventory for JC
+  Penney. One has a tag for $50. They rob stores and trade them for drugs.  Six
+  suitcases full of kids shoes, a $75 David Benjamin dress, his wife doesn't
+  wear those and $60 pants. The woman in yellow says she likes it, she uses it.
+  Good country, eh? The kids all scream and now they are worried about the kids
+  when they are taking them out for locking up the grandmother. He's worried
+  about the kids while they deal. They see that and hate the cops, he would too
+  if he was a kid. Brian says the grandmother was hiding in the closet with a
+  couple grams of coke, she was the one in charge. They have a little bit of
+  drugs and a lot of money, a lot of jewelry too. The daughter is in the cage
+  yelling. They find an Irish good luck ring are any of them Irish? Did you go
+  to St. Michael's High School in 1972? It's not the families jewelry it's
+  someone else's.
+- Jersey City (11:50 PM) Officer Thomas Porter gets out of his car at a park
+  that overlooks the NYC skyline with the World Trade Center.  They park
+  everywhere, but there's a fire pump they block. He has to chase them away to
+  get them to park somewhere else.  (12:21 AM Stolen Car Call) He gets in his
+  car and they give chase on the Pulasky Skyway into Newark.  Officer Robert
+  Falconetti drives. A cop tells them they are 'crazy Marty.' They stop on a
+  bridge, get out and run. Sirens are heard down the road. They are supposed to
+  be around somewhere. They look over the bridge thinking he went over, but he
+  didn't jump, he was hanging over the side. They ask the guy they caught where
+  do your friends live. On High St. in Jersey City. They go down and look up.
+  They were chased down the ramp and one of the guys is hiding in the weeds
+  somewhere. There was an accident the police were handling and they were
+  trapped with nowhere to go so one guy jumped off the ramp, but who knows.
+  (Street Patrol) Cops go to a lot where kids robbed a truck full of candy.
+  Kids are dumping candy in a lot. The people say there wasn't much before,
+  then they saw them come around and dump some more. They ask what kind of
+  truck it was. They are from the factory back there, it's a white truck.  It's
+  a candy caper. Thomas jokes for them to be under arrest and they all do and
+  laugh. They doubt the thief will come back and the kids are having a ball
+  with it, the candy is probably bad, but they'll let them have fun with it.
+  (1:47 AM) They find a car turned on its side. They parked it in front of a
+  gate that reads, “No No No parking Anytime” in white spray paint. They got
+  mad at them so the cops help out and turn the car back over. Over the credits
+  is the mother daughter drug team at the station.
 
 ## CP-322
 
@@ -15434,13 +15435,13 @@ Aired 2004-11-19.
 - Jacksonville, FL -- Zone 1 (2:26 AM Burglary in Progress) Officer Terrence
   Hightower says martial arts keeps him focused. He finds a black guy in the
   street whose lady stabbed him in the arm. It turns out his lady is Travis --
-  a man who admits he has a penis. They were fighting, he's a stroller, not a
-  prostitute. He came home and they were doing coke, the guy went to the store,
-  came back and Travis stabbed him. He has scars on his back and both of them
-  are HIV+. The victim says they live together, he went outside to change a
-  tire and keep it real. He then rambles incoherently. He came home at 2am and
-  Travis said he wasn't going to take it any more and stabbed him. He's charged
-  with battery.
+  a man who admits he has a penis. They were fighting, he's a "stroll girl",
+  not a prostitute. He came home and they were doing coke, the guy went to the
+  store, came back and Travis stabbed him. He has scars on his back and both of
+  them are HIV+. The victim says they live together, he went outside to change
+  a tire and keep it real. He then rambles incoherently. He came home at 2am
+  and Travis said he wasn't going to take it any more and stabbed him. He's
+  charged with battery.
 - Pierce County, WA (1:41 AM Traffic Stop) South Hill Precinct -- Deputy Theron
   Hardesty loves graveyard because he gets to be proactive. He stops a car with
   no lights on, asks the woman for her license and she says she doesn't have
