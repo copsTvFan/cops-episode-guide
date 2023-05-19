@@ -5612,8 +5612,11 @@ Aired 1991-10-19.
   talks about 3 warrants, only having one van and not the surveillance van
   since it sticks out, where to park when they get there, seeing the 3 houses
   overlook each other. There are 2 rammers and he is one of them.  Officer Mark
-  Neiman is the sacrificial lamb. Officer serves warrant for drug dealing; dog
+  Neiman is the sacrificial lamb.
+- (Kansas City, MO -- Tuesday, 5:03 PM Disturbance Call) Officer Mike Cook. Dog
   is stolen.
+- (Kansas City, MO -- South Patrol) Officer Scott Caron runs out of gas. (9:06
+  PM Warrant Process).
 
 ## CP-407
 
