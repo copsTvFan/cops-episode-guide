@@ -4648,30 +4648,31 @@ Aired 1991-02-16.
   yelling. They find an Irish good luck ring are any of them Irish? Did you go
   to St. Michael's High School in 1972? It's not the families jewelry it's
   someone else's.
-- Jersey City (11:50 PM) Officer Thomas Porter gets out of his car at a park
-  that overlooks the NYC skyline with the World Trade Center.  They park
-  everywhere, but there's a fire pump they block. He has to chase them away to
-  get them to park somewhere else.  (12:21 AM Stolen Car Call) He gets in his
-  car and they give chase on the Pulasky Skyway into Newark.  Officer Robert
-  Falconetti drives. A cop tells them they are 'crazy Marty.' They stop on a
-  bridge, get out and run. Sirens are heard down the road. They are supposed to
-  be around somewhere. They look over the bridge thinking he went over, but he
-  didn't jump, he was hanging over the side. They ask the guy they caught where
-  do your friends live. On High St. in Jersey City. They go down and look up.
-  They were chased down the ramp and one of the guys is hiding in the weeds
-  somewhere. There was an accident the police were handling and they were
-  trapped with nowhere to go so one guy jumped off the ramp, but who knows.
-  (Street Patrol) Cops go to a lot where kids robbed a truck full of candy.
-  Kids are dumping candy in a lot. The people say there wasn't much before,
-  then they saw them come around and dump some more. They ask what kind of
-  truck it was. They are from the factory back there, it's a white truck.  It's
-  a candy caper. Thomas jokes for them to be under arrest and they all do and
-  laugh. They doubt the thief will come back and the kids are having a ball
-  with it, the candy is probably bad, but they'll let them have fun with it.
-  (1:47 AM) They find a car turned on its side. They parked it in front of a
-  gate that reads, “No No No parking Anytime” in white spray paint. They got
-  mad at them so the cops help out and turn the car back over. Over the credits
-  is the mother daughter drug team at the station.
+- Original (uncensored) segment 3: With a taxi cab driver.
+- New (censored segment 3): Jersey City (11:50 PM) Officer Thomas Porter gets
+  out of his car at a park that overlooks the NYC skyline with the World Trade
+  Center.  They park everywhere, but there's a fire pump they block. He has to
+  chase them away to get them to park somewhere else.  (12:21 AM Stolen Car
+  Call) He gets in his car and they give chase on the Pulasky Skyway into
+  Newark.  Officer Robert Falconetti drives. A cop tells them they are 'crazy
+  Marty.' They stop on a bridge, get out and run. Sirens are heard down the
+  road. They are supposed to be around somewhere. They look over the bridge
+  thinking he went over, but he didn't jump, he was hanging over the side. They
+  ask the guy they caught where do your friends live. On High St. in Jersey
+  City. They go down and look up.  They were chased down the ramp and one of
+  the guys is hiding in the weeds somewhere. There was an accident the police
+  were handling and they were trapped with nowhere to go so one guy jumped off
+  the ramp, but who knows.  (Street Patrol) Cops go to a lot where kids robbed
+  a truck full of candy.  Kids are dumping candy in a lot. The people say there
+  wasn't much before, then they saw them come around and dump some more. They
+  ask what kind of truck it was. They are from the factory back there, it's a
+  white truck.  It's a candy caper. Thomas jokes for them to be under arrest
+  and they all do and laugh. They doubt the thief will come back and the kids
+  are having a ball with it, the candy is probably bad, but they'll let them
+  have fun with it.  (1:47 AM) They find a car turned on its side. They parked
+  it in front of a gate that reads, “No No No parking Anytime” in white spray
+  paint. They got mad at them so the cops help out and turn the car back over.
+  Over the credits is the mother daughter drug team at the station.
 
 ## CP-322
 
@@ -18311,7 +18312,7 @@ Aired 2007-09-29.
 - Spokane, WA -- Officer Rob Boothe tasers a man in a parking lot who says it hurt. CP-1620.
 - Crimes of Passion: Pierce County, WA -- Deputy Bob Nielson gets hit by a van and tackles a suicidal woman who falls down on her knife. CP-916.
 - Harris County TX -- a woman slaps her man in front of Deputy Michael Sieck. CP-331.
-- Kansas City, MO -- Officer Scott Caron goes to a food fight on Food Lane. CP-402.
+- Kansas City, MO -- Officer Scott Caron goes to a food fight on Food Lane. CP-403.
 - Virginia Beach, VA -- MPO Kevin Murphy goes to an assault call where the man's wife's boyfriend beat him. She wants them both since they love her. CP-1114.
 - Broward County, FL -- Deputy Mike Hoffman arrests Danny and while he's in the back of the police car he bangs his head against the window 32 times in a row. CP-111.
 - Palm Beach County, FL -- Deputy Aaron Vanyi talks to a guy with a bloody ear wants a man to leave since he's sleeping with his wife. CP-1904.
