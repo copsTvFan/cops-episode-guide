@@ -5542,12 +5542,15 @@ Aired 1991-08-10.
 
 **Kansas City 1**
 
-- (MO -- East Patrol) Officer Kevin Tempel describes the Crime Tips program.
-  Kids come up to them and they give them baseball cards with Royals players on
-  the front and crime tips on the back. They stopped it, but kids still asked
-  so they reinstituted the program. He stops three kids and has them show their
-  muscles and gives them some baseball. A drive-by shooting, suspected
-  shoplifter, domestic call.
+- (Kansas City, MO -- East Patrol) Officer Kevin Tempel describes the Crime
+  Tips program.  Kids come up to them and they give them baseball cards with
+  Royals players on the front and crime tips on the back. They stopped it, but
+  kids still asked so they reinstituted the program. He stops three kids and
+  has them show their muscles and gives them some baseball. (10:42 PM Dispatch
+  Call) A drive-by shooting performed by 5 females in a Malibu with a shotgun.
+- (Kansas City, MO -- 9:07 PM Shoplifting Call) South Patrol. Officer Scott Caron.
+- (Kansas City, KS -- 1:42 AM Domestic Disturbance) Officer Zane Schuberger.
+  Man on a roof.
 
 ## CP-402
 
@@ -5555,10 +5558,15 @@ Aired 1991-08-17.
 
 **Kansas City 2**
 
-- (KS -- 2:33 AM Assistance Call) Officer Zane Schuberger says
-it is a good town and the north end where he works is the place to be if you
-want to catch the bad guys -- it has the most crime in the city. Truck theft;
-DUI arrest of retired officer; drug bust.
+- (Kansas City, KS -- 2:33 AM Assistance Call) Officer Zane Schuberger says it
+  is a good town and the north end where he works is the place to be if you
+  want to catch the bad guys -- it has the most crime in the city. Vehicle
+  pursuit of a stolen truck. Featuring Officer John Cosgrove.
+- (Kansas City, MO -- 7:55 PM Assistance Call) South Patrol. Officer Scott
+  Caron. DUI arrest of retired officer. Featuring Officer Jim Wagner of the
+  Grandview PD.
+- (Kansas City, KS -- 8:15 PM Narcotics Unit Briefing) Drug buy/bust. Detective
+  David Payne, Lt. Ronald Miller.
 
 ## CP-403
 
@@ -5573,7 +5581,8 @@ Aired 1991-08-24.
   drink down and take him out in the hall and search him. When they go to cuff
   him he fights and goes down on a couch and growls.
 - (Kansas City, MO -- 8:43 PM Domestic Disturbance) South Patrol. Officer Scott
-  Caron. Domestic disturbance turns into food fight.
+  Caron. Domestic disturbance turns into food fight ("Food Fight on Food
+  Lane"). (9:52 PM) Second call for the same address.
 - (Kansas City, KS -- 6:15 PM Burglary In Progress) Officer Richard Keith is
   flying an RC airplane.
 
@@ -5583,12 +5592,16 @@ Aired 1991-12-07.
 
 **Kansas City 4**
 
-- (KS -- 10:52 PM Street Patrol) Officer Bob Lane pulls up on five guys trying
-  to start a truck with a stuck valve on the main street that are making a huge
-  smoke cloud. Officer Bob Lane probes the shooting of an intruder.
-- Off. Mike Cook answers a disturbance call, which results in convicted felon's
-  capture.
-- Off. Gale Hall tries to keep a man from attacking his sister's boyfriend.
+- (Kansas City, KS -- 10:52 PM Street Patrol) Officer Bob Lane pulls up on five
+  guys trying to start a truck with a stuck valve on the main street that are
+  making a huge smoke cloud. (11:12 PM Shooting Call) Officer Bob Lane probes
+  the shooting of an intruder.
+- (Kansas City, MO -- 9:15 PM) Officer Mike Cook answers a disturbance call,
+  which results in convicted felon's capture. Featuring Officer Scott Caron.
+- (11:12 PM Roll Call) Officer Gale Hall, Sergeant Thomas Schultz. (12:23 AM)
+  Officer Hall tries to keep a man from attacking his sister's boyfriend.
+  Featuring Officer Letha Voss. "That's my sister and ain't nobody gonna hit my
+  sister if they not married to her".
 
 ## CP-405
 
@@ -5596,11 +5609,16 @@ Aired 1991-09-13.
 
 **Kansas City 5**
 
-- (MO -- 9:13 PM Domestic Disturbance) South Patrol -- Officer Mike Cook says
-  neighbors want to help each other especially during robberies. They are there
-  for victims and families and Midwest people are like that.
-- husband wields knife
-- woman accidentally shoots brother
+- (Kansas City, MO -- 9:13 PM Domestic Disturbance) South Patrol -- Officer
+  Mike Cook says neighbors want to help each other especially during robberies.
+  They are there for victims and families and Midwest people are like that.
+  Featuring Officer Scott Caron. (10:24 PM Second Disturbance Call) husband
+  wields knife.
+- (Kansas City, MO -- 10:53 PM Stabbing Call) Sergeant John Leiker, Officer
+  Karen Lewis, Officer Craig Schultz.
+- (Kansas City, KS -- 9:53 PM Shooting Call) A police car is on fire. Officer
+  Bob Lane. Woman was trying to shoot her boyfriend, but accidentally shot her
+  brother. Featuring Detective Bernie Smith.
 
 ## CP-406
 
@@ -5608,13 +5626,14 @@ Aired 1991-10-19.
 
 **Kansas City 6**
 
-- (MO -- 6:14 PM Warrant Briefing) Metro Tactical Unit -- Sgt.  Steve Majors
-  talks about 3 warrants, only having one van and not the surveillance van
-  since it sticks out, where to park when they get there, seeing the 3 houses
-  overlook each other. There are 2 rammers and he is one of them.  Officer Mark
-  Neiman is the sacrificial lamb.
+- (Kansas City, MO -- 6:14 PM Warrant Briefing) Metro Tactical Unit -- Sgt.
+  Steve Majors talks about 3 warrants, only having one van and not the
+  surveillance van since it sticks out, where to park when they get there,
+  seeing the 3 houses overlook each other. There are 2 rammers and he is one of
+  them. Officer Mark Neiman is the sacrificial lamb. (7:21 PM Warrant Served).
 - (Kansas City, MO -- Tuesday, 5:03 PM Disturbance Call) Officer Mike Cook. Dog
-  is stolen.
+  is stolen. (11:10 PM) (Wednesday, 2:08 PM) (4:15 PM) The Dog is reunited with
+  its owner(s).
 - (Kansas City, MO -- South Patrol) Officer Scott Caron runs out of gas. (9:06
   PM Warrant Process).
 
@@ -5624,8 +5643,11 @@ Aired 1991-10-12.
 
 **Kansas City 7**
 
-- (KS -- 2:29 AM Officer Down Call) Officer Zane Schuberger races to the scene
-  of a 1060. Officer knifed
+- (Kansas City, KS -- 2:29 AM Officer Down Call) Officer Zane Schuberger races
+  to the scene of a 1060 (officer down). Officer Jim Brinkley has been stabbed
+  in the stomach and arm. The suspect has fled the area and can't be found.
+  (4:36 AM Disturbance Call). A woman wants her boyfriend removed from the
+  house. Officer Schuberger tells the man to drop the chair he is holding.
 - (Kansas City, KS -- 6:05 PM Street Patrol) Officer Richard Keith, Officer D.
   J. Woolley. Trespassing. (8:03 PM) woman ties up drunken husband.
 - (Kansas City, MO -- 7:45 PM Suspicious Car Call) Officer Scott Caron, Officer
@@ -5637,10 +5659,19 @@ Aired 1991-10-05.
 
 **Kansas City 8**
 
-- (MO -- 4:12 PM Roll Call) Sgt. Gary Schmidt hands out stop smoking class
-  forms are put out because cops aren't allowed to smoke after 9/1 then turns
-  it over to Cpt. Tom Daily. Officers fight with burglary suspect and brothers;
-  crack-house sweep.
+- (Kansas City, MO -- 4:12 PM Roll Call) Sgt. Gary Schmidt hands out stop
+  smoking class forms are put out because cops aren't allowed to smoke after
+  9/1 then turns it over to Captain Tom Daily. Featuring Officer Julie Van
+  Doren and Officer Kevin Tempel who are planning to arrest "Raymond", who
+  lives with his mother. (5:28 PM) Officers fight with burglary suspect and
+  brothers. (8:48 PM) Raymond says he won't hesitate to use his Uzi on
+  officers.
+- (Kansas City, KS -- 8:01 PM Disturbance Call) Officer Jackie Green is loading
+  her shotgun. A woman has named her parrot "Hitler" and her cats "Rockefeller"
+  and "Churchill".
+- (Kansas City, KS -- 9:15 PM Score Unit Briefing) Lt. Ronald Miller talks
+  about a crack-house sweep. (11:35 PM Second Warrant Service) Officer Terry
+  Mast, Officer Patrick Greeno.
 
 ## CP-409
 
@@ -8141,11 +8172,21 @@ Aired 1994-11-19.
 
 **Kansas City 9**
 
-- (MO -- 1:04 AM Car Chase) East Patrol Division -- Officer John Wagner is
-  called into a pursuit of a car running on three wheels and only going 35 mph.
-  The axle is creating a shower of sparks.
-- Police chase motorist who tried to ram police car
-- felony suspect bails out of vehicle.
+- (Kansas City, MO -- 1:04 AM Car Chase) East Patrol Division -- Officer John
+  Wagner is called into a pursuit of a car running on three wheels and only
+  going 35 mph. The axle is creating a shower of sparks. Featuring Officer
+  Kevin Brandon, Officer Jose Viera, Officer Charles Huth, Officer Michael
+  Verhoff, and Detective John Cosgrove.
+- (Kansas City, KS -- 11:25 PM Assistance Call) Officer Kevin Brandon and
+  Officer Jose Viera of the Neighborhood Crime Unit head to assist an officer
+  in the projects who spotted a guy (Drac) with a felony warrant. He has a
+  tattoo on his forehead that's why they call him Drac.  Vehicle pursuit. The
+  driver jumps out of the running vehicle, leaving the passenger in the
+  driver-less car which crashes.
+- (Kansas City, MO -- 3:07 AM Stolen Vehicle) East Patrol Division. Officer
+  Bill Warren and Officer Karl Oakman are in a vehicle pursuit of a black, male
+  motorist. A helicopter is assisting. The suspect might have been part of an
+  armed robbery.
 
 ## CP-724
 
@@ -8153,7 +8194,10 @@ Aired 1995-03-11.
 
 **Kansas City 10**
 
-- (MO -- 7:26 PM Briefing) East Patrol -- Sgt. Mark Johnson talks about an area known for drive bys.
+- (MO -- 7:26 PM Briefing) East Patrol -- Sgt. Mark Johnson talks about an area
+  known for drive-bys.
+- TODO: add segment 2
+- TODO: add segment 3
 
 ## CP-725
 
@@ -8161,9 +8205,15 @@ Aired 1995-02-04.
 
 **Kansas City 11**
 
-- (MO -- 7:24 PM Roll Call) Sgt. Ronald Hayes talks about gypsies that robbed
-  $5,000 and the security tape from a 7-11. Officer Joseph McHale and Brad
-  Chirnside are there. Hit-and-run; teen chased by police tosses gun in woods.
+- (Kansas City, MO -- 7:24 PM Roll Call) Sgt. Ronald Hayes talks about gypsies
+  that robbed $5,000 and the security tape from a 7-11 store. Officer Joseph
+  McHale and Brad Chirnside are there. (11:35 PM Hit & Run) Featuring Officer
+  Charles Huth.
+- (Kansas City, MO -- 11:20 PM Domestic Dispute) East Patrol Division. Officer
+  Steve Wilhoit, Officer Jeff Barnett. Warrant for violation of probation.
+- (Kansas City, MO -- 10:21 PM Disturbance Call) East Patrol Division. Officer
+  Bill Warren and Officer Karl Oakman. Teen chased by police tosses gun in
+  bushes.
 
 ## CP-726
 
@@ -8171,9 +8221,17 @@ Aired 1995-03-18.
 
 **Kansas City 12**
 
-- (MO -- 11:31 PM Assistance Call) Central Patrol Division -- Officer Brad
-  Chirnsdale and Joseph McHale respond to a foot chase. Suspect runs from
-  police; trailer-park brawl; domestic dispute.
+- (Kansas City, MO -- 11:31 PM Assistance Call) Central Patrol Division --
+  Officers Brad Chirnside and Joseph McHale respond to a foot chase. Featuring
+  Officer Scott Newhouse. (12:07 AM Shooting Call).
+- (Kansas City, KS -- 9:35 PM Assault Call) Neighborhood Crime Unit. Officers
+  Kevin Brandon and Jose Viera respond to a trailer-park brawl. Ex-boyfriend
+  and his friends smashes car windows beat up new boyfriend (John) with a
+  baseball bat and chains.  Featuring Deputy Sheriff James R. Hiles (who is a
+  neighbor).
+- (Kansas City, MO -- 9:44 PM Domestic Disturbance) Metro Patrol Division.
+  Officers Brian Crader and Daniel Meyer. Husband shoves wife and wrestles her
+  on the lawn. Featuring Sgt. Ron Podraza.
 
 ## CP-727
 
@@ -8181,13 +8239,16 @@ Aired 1995-04-01.
 
 **Kansas City 13**
 
-- (MO -- 9:18 PM Vandalism Call) East Patrol Division -- Officer Eric
+- (Kansas City, MO -- 9:18 PM Vandalism Call) East Patrol Division -- Officer Eric
   Dillenkoffer patrols an area loaded with drug disturbances and gang activity,
   it's going all the time, likes the action and always being busy, like the
-  drug cases a lot. Officers respond to a shooting incident; help an
-  animal-control officer capture a snake in a storage garage; arrest a man
-  suspected of breaking into rental trucks. Man is suspected of breaking into
-  rental trucks; snake in garage.
+  drug cases a lot. A black male shames the window of a parked U-Haul truck and
+  hides in bushes. Featuring Officer Anthony White.
+- (Kansas City, MO -- 11:50 PM Street Patrol) South Patrol Division. Officer
+  Laura Huggins. Officer Darrin Walton. A snake is stuck on top of a storage
+  garage door. There's another one in the garage as well.
+- (Kansas City, MO -- 11:27 PM Shots Fired) Officers Charles Huth and Michael
+  Verhoff find a shot black male. Featuring Officer Jim Pott.
 
 ## CP-728
 
@@ -8195,9 +8256,21 @@ Aired 1995-04-08.
 
 **Kansas City 14**
 
-- (MO -- 9:47 PM Domestic Violence) East Patrol Division -- Officer Bill Warren
-  and Karl Oakman respond to the call. Outstanding-warrant arrest;
-  love-triangle dispute; narcotics warrant.
+- (Kansas City, MO -- 9:47 PM Domestic Violence) East Patrol Division --
+  Officer Bill Warren and Karl Oakman respond to the call and find a crying
+  woman. A male is arrested. (11:38 PM Arrest Warrant) A guy with 3 warrants
+  who likes to fight the police and is usually is high on PCP flees the police.
+- (Kansas City, MO -- 12:01 AM Assistance Call) East Patrol Division. Officer
+  John Wagner assists Officer Brian Bell who tried to stop a car for having
+  plates belonging to a different car, but the driver doesn't stop because of a
+  love-triangle dispute. (2:04 AM Domestic Disturbance) The same suspects again
+  would like to evict Gale from their house because she's smoking crack.
+  Featuring Officers Byron Liverpool and Michael Merino. The male ends up being
+  arrested for assault.
+- (Kansas City, KS -- 8:29 PM Briefing) S.C.O.R.E. Unit. Search warrant
+  briefing led by Sgt. Jerry Campbell, featuring Officers Jose Viera and Kevin
+  Brandon. (10:15 PM Warrant Served) Featuring Detective Ron Kaminski and
+  Officer Michael Hughes.
 
 ## CP-729
 
@@ -13137,12 +13210,18 @@ Aired 2003-01-25.
   Sgt. Jeff Ferner explains about the $3000 Mercedes mountain bicycle they'll
   put out on Pennsylvania and Central to see who takes it. They even let the
   air out of the front tire so they can't ride away. Traditionally they jump
-  off the bike and run, so expect a foot pursuit. Officer Nick Carter is in on
-  the sting.
-- Broward County, FL -- An officer questions three suspects about an
-  attempted bicycle theft, but one says he is innocent because he has a wooden
-  leg. An officer is forced to shoot a suspect in the leg; a suspect
-  unknowingly picks up a transvestite in Las Vegas, NV.
+  off the bike and run, so expect a foot pursuit. Officer Nick Carter and
+  Officer Mike Hill are in on the sting. (11:41 PM) (12:05 AM).
+- (Broward County, FL -- 9:10 PM Suspicious Vehicle) Sgt. Kypps Poliard
+- (North Las Vegas, NV -- 10:12 PM Suspicious Activity) Officer Justin Ryan and
+  Officer Justin Roberts. A suspect unknowingly picks up a transvestite (Juan /
+  Juanita).
+
+Censored segment or a guide error? "An officer questions three suspects about
+an attempted bicycle theft, but one says he is innocent because he has a wooden
+leg".
+
+Censored segment or a guide error? "An officer is forced to shoot a suspect in the leg".
 
 ## CP-1509
 
