@@ -8278,9 +8278,16 @@ Aired 1995-04-29.
 
 **Kansas City 15**
 
-- (MO -- 12:41 AM Street Patrol) East Patrol Division -- Officer Chris Ruark
-  talks about loving to catch the man and shootings. Drug arrest; woman
-  assaults beau; teen claims uncle assaulted her.
+- (Kansas City, MO -- 12:41 AM Street Patrol) East Patrol Division. Officer
+  Chris Ruark talks about loving to catch the man and shootings. 2 black males
+  are standing on a corner, possibly selling narcotics. Foot pursuit. Featuring
+  Officer Stacey Gareis, Officer Randy Evans, Officer James Pearce.
+- (Kansas City, MO -- 10:14 PM Domestic Disturbance) Central Patrol Division.
+  Officers Kent Brase and Bruce Anderson. Dispute between black male and asian
+  female. The barefoot female gets arrested.
+- (Kaksas City, MO -- 10:50 PM Disturbance Call) Officers Bobbie Irvin and
+  James Knueppel. Teen claims her uncle assaulted her. The uncle has a warrant,
+  but he wants to talk to his mama, who isn't all too happy with him.
 
 ## CP-730
 
@@ -8288,8 +8295,14 @@ Aired 1995-04-22.
 
 **Kansas City 16**
 
-- (KS -- 1:25 AM Car Pursuit) Neighborhood Crime Unit -- Officer Jose Viera in
-  the Neighborhood Crime unit joins the pursuit.
+- (Kansas City, KS -- 1:25 AM Car Pursuit) Neighborhood Crime Unit. Officer
+  Jose Viera joins the pursuit.
+- (Kansas City, MO -- 11:28 PM Shots Fired) East Patrol Division. Officers Jeff
+  Barnett and Steve Wilhoit. Featuring Sgt. Mark Johnson. A woman discharges a
+  firearm.
+- (Kansas City, MO -- 1:11 AM Disturbance Call) Metro Patrol Division. Officers
+  Mike Walls and Gary Cooley are partners. A black male says his two brothers
+  pulled knives on him. The aunt shows up.
 
 ## CP-731
 
