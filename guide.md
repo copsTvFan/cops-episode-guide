@@ -20796,3 +20796,30 @@ Aired 2023-04-21.
   (Joseph) and a female (Kirsten) who jumped a cinder block wall. They are
   homeless and use drugs.  Both end up being arrested for possession of
   methamphetamine. FTO Josh Lynn and Officer Jesus Lule assist.
+
+## S35E04
+
+TODO
+
+## S35E05
+
+TODO
+
+## S35E06
+
+TODO
+
+## S35E07
+
+- (Las Vegas, NV -- 9:15 PM Man With a Knife Call) Bolden Area Command. PO II
+  Garrett Roof and PO II Joseph Bringhurst. A guy threatened an employee with
+  a knife/saw. Featuring PO II N. Grazioso and PO II Raymond Hunter. Navid says
+  "I take my, I've had my meds, my psych meds, I take 'em. There's nothing
+  wrong with me, man. New crazy people everyday comes here to Vegas."
+- (Riverside County, CA -- 9:22 PM Stolen Vehicle) San Jacinto Station. Deputy
+  Marcus Murray. A 30 year old male (Jamel) is having a relationship with a 67
+  year old female (Irma), who is his sugarmama, but she's insecure about "other
+  bitches". Featuring Deputy Dennis Postle and Deputy Walter Chavez.
+- (Colton, CA -- 1:01 AM Traffic Stop) Officer Marisa Martinez stops an SUV.
+  The suspect's dog is called Chiquita, while Officer Brian Jipp's dog is
+  called Chiquito.
