@@ -12932,7 +12932,7 @@ Aired 2002-03-16.
 **Coast to Coast 20**
 
 - (Tampa, FL -- 11:14 PM Man with a gun call) 911 Communication Center -- A call comes in to 911 by a black woman screaming that a man is after her with a gun and hangs up. District 2 -- Officer Jason Tkach takes the call to the 1600 block at River Cove. Before she can say where she is the phone goes dead. Tire thieves; a car contains crack cocaine; liquor-store incident.
-- Fort. Worth, TX
+- Fort Worth, TX
 - Tampa, FL
 
 ## CP-1430
@@ -12960,11 +12960,11 @@ Aired 2002-04-06.
   says her shoulder is injured, she is scared and hasn't ever been cuffed
   before. They find crack and he is getting arrested and she cries, pleads and
   says it is hers.
-- San Bernardino -- Two men drive a stolen car to a liquor store. The fat guy
-  wants a discount on half a pint of Vodka because it is his birthday. He says
-  he knows the owner Charlie, but he isn't there. The cashier won't do it and
-  he gets belligerent. The cops talk to him and find out he is on parole and
-  now he can go back to jail for Christmas.
+- San Bernardino, CA -- Two men drive a stolen car to a liquor store. The fat
+  guy wants a discount on half a pint of Vodka because it is his birthday. He
+  says he knows the owner Charlie, but he isn't there. The cashier won't do it
+  and he gets belligerent. The cops talk to him and find out he is on parole
+  and now he can go back to jail for Christmas.
 
 ## CP-1431
 
@@ -13281,8 +13281,9 @@ Aired 2002-11-16.
   sister, father and uncle were in the LV police, it runs in the family. He
   goes to pull over a car that ran a stop sign on Stoker & Webb. An officer
   unsuccessfully uses mace to stop a suspect; birds invade a woman's home;
-  Tampa police impound the new car of a suspected drug dealer. Palm
-  Springs/Tampa FL
+  Tampa police impound the new car of a suspected drug dealer.
+- Palm Springs, CA
+- Tampa FL
 
 ## CP-1510
 
@@ -13312,9 +13313,15 @@ Aired 2002-11-23.
 
 - (North Las Vegas, NV -- 10:28 PM Stolen Vehicle) Officer Donald Collins says
   the most exciting thing that ever happened to him on the job was delivering a
-  baby. He then spots a stolen car and goes to pull it over. Officers find a
-  suspect at his grandmother's house.
-- Broward County, FL
+  baby. He then spots a stolen car and goes to pull it over. Foot pursuit
+  follows. Featuring Officer Travis Snyder.
+- (Broward County, FL -- 6:03 PM Suspicious Vehicle) Deputy Henry Lopez, Deputy
+  John Vicino.
+- (Riverside County, CA -- 5:10 PM Shoplifting Call) Jurupa Valley Station.
+  Deputy Michael Judes, Deputy Nathane Padilla.
+
+Guide error or a censored segment? "Officers find a suspect at his
+grandmother's house".
 
 ## CP-1512
 
@@ -13326,7 +13333,7 @@ Aired 2003-03-08.
   Detective Michael A. Thompson started in the rural mountains of NC and always
   dreamed of working in the big city. He loves it, like no other job in the
   world. An officer breaks up a fight in an apartment complex.
-- N Las Vegas, NV
+- North Las Vegas, NV
 - Albuquerque, NM
 
 ## CP-1513
@@ -13460,25 +13467,26 @@ Aired 2002-09-14.
   and isn't happy about this. Deputy Elizabeth Linot chased him last night and
   the girl was there. She waved and toyed with them. She is 23, only knew him a
   couple of days and the airbags hit her.
-- (12:38 AM Stolen Vehicle) Deputy Theron Hardesty always wanted to be a cop.
-  He tries to stop a car that runs down dirt and gravel roads, south on
-  Meridian, hits stop sticks doing 70mph, takes a couple of turns then suddenly
-  stops and gives up. There is a knife and 2 kids in the car. His girlfriend
-  says she knew he wasn't going to stop and knew the police didn't know her
-  kids were there and was afraid they would get PITed and hurt the kids. Sgt.
-  Paul Schneider lets her sit with the kids.  He ran because he has warrants
-  and didn't want to go to jail. The truck is his friends and the key is in the
-  ignition, except there is no key. He thought it was stolen, but wanted to go
-  to his parents.
-- (12:57 AM Stolen Vehicle) Deputy Kris Nordstrom takes the call of a car taken
-  at gunpoint from a junkyard and follows them. Stephanie is the white driver.
-  Deputy Frank Brown leads her back and cuffs her. The fat female passenger is
-  called out with MP's as backup. Steph says she bought the car from New York
-  Dave whom she dates, two days ago for $200. It broke down, had no gas and
-  just got it back today. They find a bag of meth under the front console and a
-  drug kit with a pipe. The car has no ignition and the passenger met Steph in
-  jail and she swore it wasn't stolen, but she thought it might be. Steph was
-  going to take chicken to a sick friend. The car is towed away.
+- (Pierce County, WA -- 12:38 AM Stolen Vehicle) South Hill Precinct. Deputy
+  Theron Hardesty always wanted to be a cop.  He tries to stop a car that runs
+  down dirt and gravel roads, south on Meridian, hits stop sticks doing 70mph,
+  takes a couple of turns then suddenly stops and gives up. There is a knife
+  and 2 kids in the car. His girlfriend says she knew he wasn't going to stop
+  and knew the police didn't know her kids were there and was afraid they would
+  get PITed and hurt the kids. Sgt.  Paul Schneider lets her sit with the kids.
+  He ran because he has warrants and didn't want to go to jail. The truck is
+  his friends and the key is in the ignition, except there is no key. He
+  thought it was stolen, but wanted to go to his parents.
+- (Pierce County, WA -- 12:57 AM Stolen Vehicle) South Hill Precinct. Deputy
+  Kris Nordstrom takes the call of a car taken at gunpoint from a junkyard and
+  follows them.  Stephanie is the white driver.  Deputy Frank Brown leads her
+  back and cuffs her. The fat female passenger is called out with MP's as
+  backup. Steph says she bought the car from New York Dave whom she dates, two
+  days ago for $200.  It broke down, had no gas and just got it back today.
+  They find a bag of meth under the front console and a drug kit with a pipe.
+  The car has no ignition and the passenger met Steph in jail and she swore it
+  wasn't stolen, but she thought it might be. Steph was going to take chicken
+  to a sick friend. The car is towed away.
 
 ## CP-1519
 
