@@ -12498,9 +12498,9 @@ Aired 2001-05-??.
 - (Fort Worth, TX -- 4:12 PM Pursuit In Progress)
 - (Martin County, FL -- 10:33 PM Street Patrol) CP-1123, segment 1
 - (Fort Worth, TX -- 5:02 PM Traffic Stop) CP-1215
-- (Kansas City, MO -- 1:04 AM Pursuit In Progress)
+- (Kansas City, MO -- 1:04 AM Pursuit In Progress) CP-723, segment 1
 - (Lynn, MA -- 11:21 AM Assault With A Knife Call) CP-908, segment 1
-- (Kansas City, KS -- 5:43 PM Suspicious Activity)
+- (Kansas City, KS -- 5:43 PM Suspicious Activity), CP-1017, segment 3
 - (Albuquerque, NM -- 11:56 PM Assistance Call) CP-1230, segment 1
 - (Fort Worth, TX -- 10:44 PM Suspicious Activity)
 - (Los Angeles, CA -- 10:37 PM Assistance Call) CP-702
@@ -13080,8 +13080,8 @@ Aired 2002-04-27.
 - (Cleveland, OH -- 5:31 PM Disturbance Call) Officer Dale Mullins, Officer
   George Seroka. "I've been captured by the Germans". (This is segment 3 of
   CP-632)
-- (Kansas City, KS -- 1:31 AM Disturbance Call) Officer John Cosgrove. (New
-  segment?)
+- (Kansas City, KS -- 1:31 AM Disturbance Call) Officer John Cosgrove. This is
+  a new segment.
 - (Jackson County, MO -- 11:16 PM Assistance Call) Deputy Sidney Anderson,
   Deputy Cathy Ballman. (This is segment 2 of CP-1016)
 - (Los Angeles, CA) Officer Cory Palka, Officer Paul Williams. Officers order
@@ -14516,7 +14516,8 @@ Aired 2004-02-14.
 - Virginia Beach, VA (12:31 AM Domestic Disturbance Call) A man comes home to find his wife locked in the bedroom and he breaks in to find out what is going on.
 - Sarasota County, FL (12:15 AM Officer Assistance Call) A man comes home from drinking and his woman smacks him and they find pot out back.
 - Lee County, FL (6:39 PM Disturbance Call) A man knocks a woman's teeth out and gives her a big black eye then he runs off to another trailer.
-- Kansas City, KS (5:12 PM Domestic Disturbance Call) A man wants to get his clothes and leave, but his wife won't let him.
+- Kansas City, KS (5:12 PM Domestic Disturbance Call) A man wants to get his
+  clothes and leave, but his wife won't let him. (This is segment 2 of CP-1024)
 - Mesa, AZ (11:13 PM Domestic Disturbance Call) A man visits his kids and beats his ex and there is blood all over the walls and the woman says she is to blame.
 - Los Angeles, CA (4:33 PM Assault Call) A man and woman fight in the street and both get bloody and Tami turns blue.
 - Providence, RI (10:03 PM Possible Stabbing Call) A man's wife is having sex with his mom and the mom stabs her son for trying to break it up.
@@ -14567,12 +14568,12 @@ Aired 2004-05-01.
   to a hotel room and bust them. An old guy wants some hokie pokie for $10.
   Mexican Mike wants a BJ for $20. They cuff him and take him out to the car,
   but he runs away.
-- Kansas City, MO (9:07 PM Shoplifting Call) Two guys stole four cartons of
+- (Kansas City, MO -- 9:07 PM Shoplifting Call) Two guys stole four cartons of
   cigarettes. One guy puts them in a cart and brings them over to a second guy
   who shoves them down his pants. The first guy watches while pushing his cart
   up and down the aisle. The cops watch it all on the store security tape and
   laugh. The first guy says he just put the cigarettes on the shelf because he
-  couldn't afford them.
+  couldn't afford them. (This is segment 2 of CP-401)
 - Fort Worth, TX (10:03 PM Suspicious Activity) A black guy was buying crack
   and when the cops show up he drives off and turns the corner and crashes into
   one of the tenement houses. They catch him and the dealer runs into a house
