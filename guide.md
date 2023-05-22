@@ -8451,12 +8451,12 @@ Aired 1995-06-17.
 
 **Best of Cops 5**
 
-- (Kansas City -- 7:57 PM Shots Fired) East Patrol Division -- Officer Kevin
-  Temple emphasizes the importance of staying in shape. You need to be able to
-  keep up with criminals and help other cops when they need assistance. He's
-  into lifting weights. Cops go to a house with two kids in the yard and a big
-  black lady who tells them no shots were fired. They ask who the man was who
-  ran inside and she says no one did. It turns out the guy is hiding in the
+- (Kansas City, MO -- 7:57 PM Shots Fired) East Patrol Division -- Officer
+  Kevin Temple emphasizes the importance of staying in shape. You need to be
+  able to keep up with criminals and help other cops when they need assistance.
+  He's into lifting weights. Cops go to a house with two kids in the yard and a
+  big black lady who tells them no shots were fired. They ask who the man was
+  who ran inside and she says no one did. It turns out the guy is hiding in the
   closet and has shoved 10 bags of coke under the mattress leaving an obvious
   lump. They find it and take him to jail.
 - (Dallas TX -- 5:47 PM Street Patrol) Cops drive by a drug deal and jump out
@@ -8477,14 +8477,15 @@ Aired 1995-06-24.
 
 **Best of Cops 6**
 
-- (Kansas City -- 2:19 AM Street Patrol) East Patrol Division -- Officer Kevin
-  Kilkenny says he had a neighbor who was a cop he respected and looked up to
-  and thought he could do it and be a help. He's on a 10 member team, lots of
-  camaraderie, a real team feeling. Cops are notified of a stabbing. A man was
-  stabbed by his wife because he wanted her to stop drinking and he bled all
-  over the apartment. Blood is on the walls, the hallway and down the stairs.
-  The knife is in the sink and their six month old child is sleeping nearby.
-  She is arrested.
+- (Kansas City, MO -- 2:19 AM Street Patrol) East Patrol Division -- Officer
+  Kevin Kilkenny says he had a neighbor who was a cop he respected and looked
+  up to and thought he could do it and be a help. He's on a 10 member team,
+  lots of camaraderie, a real team feeling. Cops are notified of a stabbing. A
+  man was stabbed by his wife because he wanted her to stop drinking and he
+  bled all over the apartment.  Blood is on the walls, the hallway and down the
+  stairs. The knife is in the sink and their six month old child is sleeping
+  nearby. She is arrested.  Featuring Officer William McElhiney and Officer
+  Jeff Jennings.
 - (Denver, CO -- 8:15 PM Domestic Dispute) Cops look for a woman at a house and
   can't find her. They come back and she was in the closet the whole time. She
   has a black eye, was beaten, dragged, is bloody and is bruised all over. The
@@ -10054,7 +10055,8 @@ Aired 1997-11-08.
 - (Kansas City, KS -- 6:08 PM Car Stop) Central Patrol -- Officer Mike Bowman
   says catching criminals makes him feel real good. Altered temporary tags
   leads to foot pursuit gives chase when one of three suspects detained
-  attempts to escape from a stolen car full of guns.
+  attempts to escape from a stolen car full of guns. Featuring Officer Dave
+  Kearney, Officer Kinard Hylton, and Parole Officer Otis Laskey.
 - (Kansas City, MO -- 8:45 PM Felony Warrant) Officer Mark Hockemeier, Officer
   Tony White. While attempting to serve a felony warrant, officers encounter a
   free-roaming, pot-bellied pig that has terrorized a neighborhood.
@@ -10068,40 +10070,41 @@ Aired 1997-11-22.
 
 **Kansas City 18**
 
-- (MO -- 10:24 PM Shooting Call) East Patrol Division -- Officer Jason Crump
-  has been there 2 years. He's part of the rapid response specialized unit that
-  handles priority calls -- shootings and cuttings. He joined 8 months ago,
-  really enjoys the work, it's exciting at times. Sometimes you see things that
-  aren't so good, but it's nice to help people. His partner is Officer Tony
-  White. The are going to a shooting on 13th street, the victim is in a blue
-  car and the sgt., fire and ambulance are coming. They find a woman waving
-  them down and her 12 year old kid is in the back and is shot. She doesn't
-  know who did it, his 18 year old sister says they were 2 white guys in a
-  Monte Carlo just out of prison. They drove there to see someone they knew and
-  use the phone. Both had guns and she starts crying. They need her to ID them
-  if they catch them. Sgt. Eric Winebrenner arrives and says the bullet is
-  sticking out of the kids arm, it went through the license plate, trunk, seat
-  and then his arm. There's an ongoing feud between gang members there.
-- Jackson County MO Sheriff's Dept (11:17 PM Assistance Call) Deputy Sidney
-  Anderson says there is lots of commotion and back up is needed. Kenneth is
-  naked in the street. Officer Kathy Ballman gives him a foil blanket to put
-  around his waist. They ask if he's on meds and he just keeps saying "You can
-  do it now!" They put the blanket on the seat of the police car and put him on
-  it. It was a fight in progress call. Now the man yells "Cut it off!" and
-  claims he lives with Deputy Anderson. They find an open door at the house
-  across the street and find the place is a mess and there's no one home. They
-  find his clothes in the yard. Turns out he is a mental patient not taking his
-  meds. They don't know who he is, just that he assaulted himself.
-- MO (9:33 PM Disturbance Call) Officer Brent Parsons always wanted to be a
-  cop, it's everything you want and more. He goes to \#5019 where two old, gay,
-  black men had a fight over the young boyfriend smoking crack and tearing up
-  the place including ripping up the couch. Officer Selock assists. The old guy
-  wants him out and is gonna call his aunt to get him fixed. He says his pants
-  are wet because it's hot.  The old guy doesn't want his friends coming around
-  either.  He is cuffed, yells and stamps his feet that he has to press
-  charges. It's the 10th time they've been there because the old guy won't
-  evict him. They let the young guy go and tells him to go to his mom's house
-  and not to come back.
+- (Kansas City, MO -- 10:24 PM Shooting Call) East Patrol Division -- Officer
+  Jason Crump has been there 2 years. He's part of the rapid response
+  specialized unit that handles priority calls -- shootings and cuttings. He
+  joined 8 months ago, really enjoys the work, it's exciting at times.
+  Sometimes you see things that aren't so good, but it's nice to help people.
+  His partner is Officer Tony White. The are going to a shooting on 13th
+  street, the victim is in a blue car and the sgt., fire and ambulance are
+  coming. They find a woman waving them down and her 12 year old kid is in the
+  back and is shot. She doesn't know who did it, his 18 year old sister says
+  they were 2 white guys in a Monte Carlo just out of prison. They drove there
+  to see someone they knew and use the phone. Both had guns and she starts
+  crying. They need her to ID them if they catch them. Sgt. Eric Winebrenner
+  arrives and says the bullet is sticking out of the kids arm, it went through
+  the license plate, trunk, seat and then his arm. There's an ongoing feud
+  between gang members there.
+- (Jackson County, MO -- 11:17 PM Assistance Call) Deputy Sidney Anderson says
+  there is lots of commotion and back up is needed. Kenneth is naked in the
+  street. Officer Kathy Ballman gives him a foil blanket to put around his
+  waist. They ask if he's on meds and he just keeps saying "You can do it now!"
+  They put the blanket on the seat of the police car and put him on it. It was
+  a fight in progress call. Now the man yells "Cut it off!" and claims he lives
+  with Deputy Anderson. They find an open door at the house across the street
+  and find the place is a mess and there's no one home. They find his clothes
+  in the yard. Turns out he is a mental patient not taking his meds. They don't
+  know who he is, just that he assaulted himself.
+- (Kansas City, MO -- 9:33 PM Disturbance Call) Metro Patrol Division. Officer
+  Brent Parsons always wanted to be a cop, it's everything you want and more.
+  He goes to \#5019 where two old, gay, black men had a fight over the young
+  boyfriend smoking crack and tearing up the place including ripping up the
+  couch. Officer Scott Selock assists. The old guy wants him out and is gonna
+  call his aunt to get him fixed. He says his pants are wet because it's hot.
+  The old guy doesn't want his friends coming around either.  He is cuffed,
+  yells and stamps his feet that he has to press charges. It's the 10th time
+  they've been there because the old guy won't evict him. They let the young
+  guy go and tells him to go to his mom's house and not to come back.
 
 ## CP-1017
 
@@ -10109,21 +10112,24 @@ Aired 1998-01-10.
 
 **Kansas City 19**
 
-- (KS -- 5:32 PM Street Patrol) Central Patrol Division -- Officer Mike Bowman
-  says he comes from a large law enforcement family. His dad and his dad's five
-  brothers and two cousins were all Kansas City officers -- 4 on the KS side
-  and 3 on the MO side. He knew as a toddler what he was going to be when he
-  saw his dad coming home in uniform. He was fortunate enough to have been
-  hired, like his job and his family supports him. He instructs a man driving
-  without license plate to pull over which leads to a chase, crash and foot
-  pursuit.
-- Officers Hockemeier and White take a disturbance call of a man who tried to
+- (Kansas City, KS -- 5:32 PM Street Patrol) Central Patrol Division -- Officer
+  Mike Bowman says he comes from a large law enforcement family. His dad and
+  his dad's five brothers and two cousins were all Kansas City officers -- 4 on
+  the KS side and 3 on the MO side. He knew as a toddler what he was going to
+  be when he saw his dad coming home in uniform. He was fortunate enough to
+  have been hired, like his job and his family supports him. He instructs a man
+  driving without license plate to pull over which leads to a chase, crash and
+  foot pursuit.
+- (Kansas City, MO -- 11:44 PM Disturbance Call) East Patrol Division. Officers
+  Mark Hockemeier and Tony White take a disturbance call of a man who tried to
   beat another man's ass with a chain, gets beat, gets caught after he banged
   on the front door of a home and demanded to see his ex-girlfriend.
-- Officer Akins investigates a suspicious activity when he notices a van parked
-  in a remote area of town and finds an old man having sex with a whore in his
-  van. He was supposed to be doing the banking for his business and is forced
-  to call his wife to come and pick up the money. She hangs up on him.
+- (Kansas City, KS -- 5:43 PM Suspicious Activity) Central Patrol Division.
+  Officer Dick Atkins investigates a suspicious activity when he notices a van
+  parked in a remote area of town and finds an old man having unprotected sex
+  with a whore (Gina, who is also married) in his van. He was supposed to be
+  doing the banking for his business and is forced to call his wife to come and
+  pick up the money.  She hangs up on him. Featuring Officer Dustin Dungan.
 
 ## CP-1018
 
@@ -10131,19 +10137,21 @@ Aired 1998-01-17.
 
 **Kansas City 20**
 
-- (MO -- 11:03 PM Assistance Call) East Patrol Division -- Officer Jim
-  Dickerson says they don't have a district to patrol, they are a rapid
+- (Kansas City, MO -- 11:03 PM Assistance Call) East Patrol Division -- Officer
+  Jim Dickerson says they don't have a district to patrol, they are a rapid
   response unit who cover the whole east. There are areas that are poor &
   wealthy, it's a large area which can get small disturbances to homicide -- it
   runs the gamut. His partner Officer Bryan Jones is driving and says on a
   summer night they can get 25 calls in an 8 hour shift, 1 after the other.
-  They chase with a car armed robbery suspects in red car that crashes
-- (Kansas City, KS -- 5:07 PM Disturbance Call) Officer Victor Walles, Officer
-  Kinard Hylton. Father says his daughter is threatening to beat up his wife
-  over checks.
-- (Kansas City, MO -- 9:14 PM Assistance Call) Officer Jim Dickerson, Officer
-  Tony White. Foot chase of a black man who bailed out of a car and hides in a
-  stack of tires with his pants down.
+  They chase with a car armed robbery suspects in red car that crashes.
+  Featuring Sgt. Eric Winebrenner.
+- (Kansas City, KS -- 5:07 PM Disturbance Call) Central Patrol Division.
+  Officer Victor Walles, Officer Kinard Hylton. Father says his daughter is
+  threatening to beat up his wife over checks.
+- (Kansas City, MO -- 9:14 PM Assistance Call) East patrol Division. Officer
+  Jim Dickerson, Officer Tony White. Foot chase of a black man who bailed out
+  of a car and hides in a stack of tires with his pants down. Featuring Officer
+  Mark Hockemeier.
 
 ## CP-1019
 
@@ -10151,16 +10159,21 @@ Aired 1998-01-31.
 
 **Kansas City 21**
 
-- (KS -- 9:36 PM Disturbance Call) Central Patrol Division -- Officer Dick
+- (Kansas City, KS -- 9:36 PM Disturbance Call) Central Patrol Division -- Officer Dick
   Atkins says there are frustrating things about law enforcement like dealing
   with the same people, repeat offenders, seeing the same faces constantly. You
   think you do a good job, put the bad guy in jail and 2 days later he's
   walking down the street. Return to a scene man tries to rape a blind girl and
-  the mom comes after him with a pipe which leads to a foot pursuit/Domestic
-  disturbance call with a man from TN who has warrants hitting a woman and is
-  passed out when they arrive/Disturbance call is a fight between a drunk man
-  and a woman with no pants in the street. Suspect accused of forcing sex;
-  domestic disputes.
+  the mom comes after him with a pipe which leads to a foot pursuit. Featuring
+  Officer Mark Palmerin.
+- (Kansas City, KS -- 1:36 AM Domestic Disturbance Call) Central Patrol
+  Division. Officer Jim Bauer. "Jerry" or "Jared" is asleep. Featuring Officer
+  Paul Paulakovich. Domestic disturbance call with a man (Jerry) from TN who is
+  hitting on his girlfriend and is passed out when they arrive.
+- (Kansas City, MO -- 2:34 AM Disturbance Call) East Patrol Division. Officer
+  Jason Crump and Officer Tony White. Disturbance call about a fight between a
+  drunk man (Clifford) and a woman (Tammy). They are first cousins, but are
+  sexually involved.
 
 ## CP-1020
 
@@ -10168,15 +10181,19 @@ Aired 1998-02-28.
 
 **Kansas City 22**
 
-- (MO -- 9:12 PM Car Pursuit) Metro Patrol Division -- Officer Jeff Wiever and
-  Cress get in a pursuit. A long haired guy in a white Chevy was speeding,
-  caught and taken back to the station for a drunk test/2 AM Street patrol
-  Officers White and Crump question a black guy who just stole a hot water
+- (Kansas City, MO -- 9:12 PM Car Pursuit) Metro Patrol Division -- Officer
+  Jeff Weiler and Officer John Cress get in a pursuit. A long haired guy in a
+  white Chevy was speeding, caught and taken back to the station for a drunk
+  test
+- (Kansas City, MO -- 2:31 AM Street Patrol) East Patrol Division. Officer Tony
+  White and Officer Jason Crump question a black guy who just stole a hot water
   heater, but says he found it. It was thrown out, he saw it, went back for his
   cart and picked it up. Even though the pipes are cut and it is leaking hot
-  water right back to the spot in the building he took it from/Domestic
-  disturbance call with Officers Koberlein and Hylton and a Spanish man locked
-  in the attic after beating a woman.
+  water right back to the spot in the building he took it from.
+- (Kansas City, KS -- 9:11 PM Domestic Disturbance Call) Central Patrol
+  Division. Officer Darren Koberlein arrests a Spanish man who was locked in
+  the attic after beating a woman. Featuring Officer Kinard Hylton
+  (uncredited).
 
 ## CP-1021
 
@@ -10184,12 +10201,15 @@ Aired 1998-03-07.
 
 **Kansas City 23**
 
-- (MO -10:55 PM Shooting Call) East Patrol -- Officer Jason Crump talks about
-  treating people with respect. A black man shot in the back in an apartment
-  passed out on the floor
-- Disturbance call by a woman who says a kid stole a lighter from her purse
-- Domestic violence call with a white woman who has been cut on her leg by a
-  black man.
+- (Kansas City, MO -- 10:55 PM Shooting Call) East Patrol Division. Officer
+  Jason Crump talks about treating people with respect. Featuring Officer Tony
+  White. A black man shot in the back in an apartment passed out on the floor.
+- (Kansas City, MO -- 7:03 PM Disturbance Call) Central Patrol Division.
+  Officer Keith Ericsson. Disturbance call by a woman who says a kid stole a
+  lighter from her purse.
+- (Kansas City, KS -- 9:28 PM Domestic Violence Call) Central Patrol Division.
+  Officer Dick Atkins, Sgt. John Griffin. Domestic violence call with a white
+  woman who has been cut on her leg by a black man.
 
 ## CP-1022
 
@@ -10197,18 +10217,21 @@ Aired 1998-05-02.
 
 **Kansas City 24**
 
-- (KS -- 5:50 PM Disturbance Call) Central Patrol Division -- Officer Dustin
-  Dungan says it's a brotherhood. When they hang out it is always with other
-  cops. Only someone in blue can be counted on in the streets. His partner is
-  Officer Burgtorg. Cops return to a man who cut his wrists and is causing a
+- (Kansas City, KS -- 5:50 PM Disturbance Call) Central Patrol Division.
+  Officer Dustin Dungan says it's a brotherhood. When they hang out it is
+  always with other cops. Only someone in blue can be counted on in the
+  streets. Cops return to a man who cut his wrists and is causing a
   disturbance, threatened his family, is wearing a blue Tasmanian Devil shirt
-  and EMT takes him away
-- Officer Wilt goes to a Traffic accident with Officer Mike who was on a
-  motorcycle and is down in the middle of the street
-- 911 Hang-up call by a black woman who wants to go to her mom's house and the
-  guy won't let her and then she passes out in the bathroom. Officer Martin
-  finds out a domestic dispute that erupted when a man tried to prevent a crack
-  addict from leaving their house to obtain more drugs.
+  and EMT takes him away. Featuring Officer Tiffany Burgtorf, Sgt. Mike Kobe.
+- (Kansas City, KS -- 3:17 PM Traffic Accident) South Patrol Division. Officer
+  J. J. Wilt goes to a Traffic accident with Officer Mike Howell (KCKPD/Traffic
+  Division) who was on a motorcycle and is down in the middle of the street
+- (Kansas City, KS -- 8:42 PM 911 Hang-Up Call) Central Patrol Division.
+  Officer Mike Martin. Featuring Officer Dustin Dungan. A black woman who wants
+  to go to her mom's house but the guy won't let her and then she passes out in
+  the bathroom. The male says he took her keys and that she's addicted to
+  crack and he was trying to help her by preventing her from leaving the house
+  to buy more drugs.
 
 ## CP-1023
 
@@ -10216,28 +10239,30 @@ Aired 1998-05-16.
 
 **Kansas City 25**
 
-- (KS -- 1:52 AM Street Patrol) Central Patrol Division -- Officer Robert Angell
-  says the best thing about the job is the radio. He spots a suspicious man in
-  a car who runs when he pulls up and tosses a gun out the window. A few blocks
-  later he stops and runs. Robert pulls out the passenger and arrests him as
-  others catch the driver. A man says the driver hit him with a chain and is
-  brought to the scene to ID him. The driver took off his shirt when he ran to
-  disguise himself.
-- (2:36 AM Car Pursuit) Maurice is driving his carjacked vehicle slowly because
-  he has a flat tire. He bails out and runs and is caught. He fell over a wall
-  and cut his face open and yells he is going to be in the river in the morning
-  and the cops are going to steal his money. South Patrol -- Officer J.J. Wilt
-  says all kinds of ethnic groups live in the area.
-- (3:02 PM Domestic Disturbance) A man says his son JR is in the house next
+- (Kansas City, KS -- 1:52 AM Street Patrol) Central Patrol Division. Officer
+  Robert Angell says the best thing about the job is the radio. He spots a
+  suspicious man in a car who runs when he pulls up and tosses a gun out the
+  window. A few blocks later he stops and runs. Robert pulls out the passenger
+  and arrests him as others catch the driver. A man says the driver hit him
+  with a chain and is brought to the scene to ID him. The driver took off his
+  shirt when he ran to disguise himself. (2:36 AM Car Pursuit Call) Maurice is
+  driving his carjacked vehicle slowly because he has a flat tire. He bails out
+  and runs and is caught. He fell over a wall and cut his face open and yells
+  he is going to be in the river in the morning and the cops are going to steal
+  his money.
+- (Kansas City, KS -- 3:02 PM Domestic Disturbance) South Patrol Division.
+  Officer J.J. Wilt says all kinds of ethnic groups live in the area. His
+  partner is Officer Jeff Miskec.  A man says his son JR is in the house next
   door and has missed six days of school and stole $90 from him. Cops go over
   and find a young girl downstairs who says the boys are upstairs. They find
   three boys hiding in a closet in the attic and pull them out. The two other
   kids were hiding JR, one is JVC and the other skips school too. They bring JR
   back home and he has no answers for anything and doesn't have all the money.
   The dad wants the police to take him away and they do.
-- KS MO (9:00 PM Roll Call) One cop is goofed on for having an ugly red car.
-- (1:48 AM Assistance Call) Officer Rita Olson and her partner come up on a car
-  and take the female driver out and cuff her because the car was reported
+- (Kansas City, MO -- 9:00 PM Roll Call) One cop is goofed on for having an
+  ugly red car by Officer Wendy Johnson. South Patrol Division. (11:48 PM
+  Suspicious Car Call) Officer Rita Olson-Stawicki and her partner come up on a
+  car and take the female driver out and cuff her because the car was reported
   stolen. The victim is also there because the thief was sitting in her
   driveway and she followed her there. The suspect says she bought the car for
   $200 and just left a bar and thought the people from the bar and her
@@ -10249,18 +10274,22 @@ Aired 1998-08-01.
 
 **Kansas City 26**
 
-- (MO -- 4:02 AM Assistance Call) East Patrol Division -- Officer Mark
-  Huckemeier says their division covers Northeast a wide range of the
+- (Kansas City, MO -- 4:02 AM Assistance Call) East Patrol Division. Officer
+  Mark Hockemeier says their division covers Northeast a wide range of the
   population -- different levels and lifestyles, the whole gamut. His partner
   Officer Tony White says a chase has been going on for 20 minutes. He is a
   drunk driver in a pickup truck who has a warrant and destroys a truck winding
-  chase through the streets/Domestic disturbance call to fist fight between a
-  married couple when the man returned for his clothes
-- Suspicious Person Call -- Officers Bowman and Martin question Leo walking up
-  and down the street, an estranged husband who claims his wife Robin assaulted
-  him when he returned home to retrieve some of his possessions.
-- Officer Lee responds to a disturbance in a parking lot and a Shooting call
-  with a gay in a van shot in the back twice.
+  chase through the streets. Featuring Officer Chris Majors.
+- (Kansas City, KS -- 5:12 PM Domestic Disturbance Call) Central Patrol
+  Division. Officers Mike Bowman and Mike Martin question Leo walking up and
+  down the street, an estranged husband who claims his wife Robin assaulted him
+  when he returned home to retrieve some of his possessions. The woman is
+  arrested.
+- (Kansas City, KS -- 1:43 AM Suspicious Person Call) Central Patrol Division.
+  Officer Anthony Lee responds to a disturbance in a parking lot and talks to
+  Robyn, formerly Robert, and her blood brother Leo. (2:18 AM Shooting Call) A
+  Shooting call with a guy in a van shot in the back twice. Featuring Officer
+  Richard Hammon.
 
 ## CP-1025
 
@@ -10432,17 +10461,20 @@ Aired 1998-07-18.
 
 **Kansas City 27**
 
-- (7:46 PM Car Pursuit) MO Metro Patrol Division -- Officer Cameron Arthur
-  talks about the Community Action Team and his partner and Mike Miller talk
-  about not having to answer 911 calls and working in the same area which
-  allows them to get to know the community. A driver pulls out of a parking lot
-  at a high rate of speed. The unlegal white Trans-Am wipes out with two guys
-  inside with one in an Offspring shirt who went for a test drive that gets
-  cuffed in the grass
-- Wanted person at a hotel who may be armed in room 159 with a gun/Officers
-  James and Crump subdue and handcuff a man wanted on outstanding warrants
-- Suspicious activity. Officers Olsen-Stawicki and Johnson respond when a
-  police helicopter spots two men attempting to extricate their truck from a
+- (Kansas City, MO -- 7:46 PM Car Pursuit) Metro Patrol Division. Officer
+  Cameron Arthur talks about the Community Action Team and his partner and Mike
+  Miller talk about not having to answer 911 calls and working in the same area
+  which allows them to get to know the community. A driver pulls out of a
+  parking lot at a high rate of speed. The "unlegal" white Trans-Am wipes out
+  with two guys inside with one in an Offspring shirt who went for a test drive
+  that gets cuffed in the grass
+- (Kansas City, MO -- 10:04 PM Wanted Person) East Patrol Division. Officer
+  Bryan Jones and Officer Jason Crump. Wanted person at a hotel who may be
+  armed in room 159. Richard has a gun and multiple warrants.
+- (Kansas City, MO -- Roll Call) South Patrol Division. Sgt. Daniel Abernathy
+  says they were one of the first in the nation to have computers. (5:12 PM
+  Suspicious Activity) Officers Wendy Johnson and Rita Olson-Stawicki.
+  A police helicopter spots two men attempting to extricate their truck from a
   small ravine. Two drunks who went four wheeling in the woods and crashed
   their van over a cliff and cops get stuck on the way out.
 
