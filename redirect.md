@@ -1,8 +1,5 @@
 ---
-layout: page
-title: "Cops Episode Guide by Thrawn and copsTvFan: Old page"
-permalink: /guide
+redirect_to: "/cops-episode-guide/"
 ---
 
-Moved to [/](..).
-
+Moved to the [parent page](/cops-episode-guide/).

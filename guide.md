@@ -4,7 +4,7 @@ title: "Cops Episode Guide by Thrawn and copsTvFan"
 permalink: /
 ---
 
-# {{ site.title }}
+# Cops Episode Guide by Thrawn and copsTvFan
 
 For context, see [/context](context).
 

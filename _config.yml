@@ -1,0 +1,7 @@
+lsi: false
+safe: true
+source: .
+incremental: false
+markdown: kramdown
+gems:
+  - jekyll-redirect-from
