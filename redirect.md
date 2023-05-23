@@ -1,4 +1,5 @@
 ---
+permalink: /guide
 redirect_to: "/cops-episode-guide/"
 ---
 
