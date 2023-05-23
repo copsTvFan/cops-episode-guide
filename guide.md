@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Cops Episode Guide by Thrawn and copsTvFan"
+permalink: /guide
 ---
 
 For context, see the [parent page](/cops-episode-guide).

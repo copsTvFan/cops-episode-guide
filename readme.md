@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Cops Episode Guide by Thrawn and copsTvFan: Overview"
+permalink: /
 ---
 
 # Context
