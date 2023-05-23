@@ -8,6 +8,10 @@ permalink: /
 
 For context, see [/context](context).
 
+The `CP-***` episode numbers are production numbers, while the `S**E**` numbers
+are airing numbers. `CP-xxx` are unambiguous, so I recommend using them over
+`S**E**` when discussing episodes online.
+
 # Season 1
 
 1989.

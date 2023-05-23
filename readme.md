@@ -28,10 +28,6 @@ using the GitHub website (not git knowledge is required). Emails are also
 welcome (`copsTvFan` *at* `protonmail.com`), especially if you have VHS tapes
 of the show -- I am missing several episodes.
 
-# Guide
-
-Kept as a [separate page](https://copstvfan.github.io/cops-episode-guide/guide).
-
 # External Guides
 
 - [thrawn's original guide](https://copstvfan.github.io/geocities-copsonfox-archive/) (unmaintained since 2009-08-15)
