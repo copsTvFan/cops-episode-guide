@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Cops Episode Guide by Thrawn and copsTvFan: Overview"
-permalink: /
+title: "Cops Episode Guide by Thrawn and copsTvFan: Context"
+permalink: /context
 ---
 
 # Context

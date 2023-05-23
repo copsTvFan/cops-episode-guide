@@ -1,10 +1,12 @@
 ---
 layout: page
 title: "Cops Episode Guide by Thrawn and copsTvFan"
-permalink: /guide
+permalink: /
 ---
 
-For context, see the [parent page](/cops-episode-guide).
+# {{ site.title }}
+
+For context, see [/context](context).
 
 # Season 1
 
