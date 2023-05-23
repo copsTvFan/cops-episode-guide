@@ -1,21 +1,34 @@
-# Cops Episode Guide
-
-* [Detailed guide](https://copstvfan.github.io/cops-episode-guide/guide)
-* [Brief guide](https://copstvfan.github.io/cops-episode-guide/brief.txt)
+---
+title: "Cops Episode Guide by Thrawn and copsTvFan: Overview"
+---
 
 # Context
 
-This is a fork of William "Thrawn" Wolf III's original ["Cops on Fox"
+This is a derivative of William "Thrawn" Wolf III's original ["Cops on Fox"
 guide](https://copstvfan.github.io/geocities-copsonfox-archive/). Sadly William
 [passed away in
 2010](https://www.damianofuneralhome.com/obituary/William-WolfIII-1).
 
-This version contains fixes, allows text selection and copying, has better
-design and hosting, and will eventually also cover seasons 22 through 34.
+Improvements over Thrawn's guide:
 
-Note that this is still a work in progress. You can edit this page via [pull
-requests](https://github.com/copsTvFan/cops-episode-guide/pulls). Emails
-are also welcome (`copsTvFan` *at* `protonmail.com`).
+- contains multiple corrections (especially officer names)
+- contains all new episodes
+- allows text selection and copying
+- has no ads
+- has better design and hosting (free CDN)
+- can be collaboratively edited (feel free to contribute!)
+- can be cloned using a single command (`git clone`) for easy archival
+
+This is still a work in progress. I would like to add all segments for all
+episodes, as well as all officer names. You can edit this guide via [pull
+requests](https://github.com/copsTvFan/cops-episode-guide/pulls) or by just
+using the GitHub website (not git knowledge is required). Emails are also
+welcome (`copsTvFan` *at* `protonmail.com`), especially if you have VHS tapes
+of the show -- I am missing several episodes.
+
+# Guide
+
+Kept as a [separate page](https://copstvfan.github.io/cops-episode-guide/guide).
 
 # External Guides
 

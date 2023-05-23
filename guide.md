@@ -1,6 +1,10 @@
-# Cops Episode Guide
+---
+title: "Cops Episode Guide by Thrawn and copsTvFan"
+---
 
 For context, see the [parent page](/cops-episode-guide).
+
+Generated at {{ page.date }}.
 
 # Season 1
 
@@ -11816,13 +11820,21 @@ Aired 2000-05-13.
 
 **Albuquerque, NM 17**
 
-- (11:07 AM John Sting Briefing) Vice Unit -- Detective Tod Babcock says they
-  are going to do a John Op. The girls will walk up and down Central soliciting
-  Johns for sex for money. They'll get them to park at a nearby hotel, lead
-  them to a room where they will be waiting. Officer Nicole Boone and Officer
-  Mariann Wallace are the girls. Tod says the Johns are hard up by the lack of
-  prostitutes and are so hard up they're even picking up Isabelle. prostitution
-  sting; officers find narcotics; grandmother's car stolen.
+- (Albuquerque, NM -- 11:07 AM John Sting Briefing) Vice Unit -- Detective Tod
+  Babcock says they are going to do a John Op. The girls will walk up and down
+  Central soliciting Johns for sex for money. They'll get them to park at a
+  nearby hotel, lead them to a room where they will be waiting. Officer Nicole
+  Boone and Officer Mariann Wallace are the girls. Tod says the Johns are hard
+  up by the lack of prostitutes and are so hard up they're even picking up
+  Isabelle. Featuring Detective Paul J. Montoya, Sgt. Clarence G. Davis,
+  Detective John McKenna. A john wants "hokie pokie". (12:57 PM) Mike gets
+  arrested, but decides to flee while cuffed and gets caught.
+- (Albuquerque, NM -- 4:59 PM Burglary In Progress) Valley Area Command.
+  Officer Tim Gonterman, Officer Elmer O. Guevara, Officer Joseph Mosel,
+  Officer Franklin Mock. Officers find narcotics.
+- (Albuquerque, NM -- 11:38 PM Stolen Vehicle) Southeast Area Command. Officer
+  Charles Gravis, Officer Shane Rodgers, Officer Briane Dennison. Grandmother's
+  car stolen.
 
 ## CP-1233
 
@@ -14536,12 +14548,12 @@ Aired 2004-05-01.
 
 **Caught Red Handed -- 15 Greatest Takedowns**
 
-- (Sacramento, CA -- 10:42 PM Disturbance Call) CP-606
+- (Sacramento, CA -- 10:42 PM Disturbance Call) Likely segment 1 of CP-606.
 - (Indianapolis, IN -- 5:17 PM Traffic Stop) A cop pulls over a dirtbag biker
   whose license is conditional because of a DWI. He smells of pot, just came
   from the Burger King and doesn't really want to be searched. The cops find a
   box of pot and the biker throws it hoping his woman on the other bike would
-  grab it and take off.
+  grab it and take off. Likely segment 1 of CP-645.
 - New Orleans (Mardi Gras 12:20 AM) A fight on a balcony turns into a near riot
   with drunks smashing windows of a bar. Cops try to break it up and a bottle
   is thrown at him. Horses are brought in to clear the area and some idiots are
@@ -14549,7 +14561,8 @@ Aired 2004-05-01.
 - NYC (2:33 PM Briefing) After a quick WTC shot Freddy goes undercover as a
   drunk tourist in the subway to catch pick pockets. A black man in camouflage
   is a good Samaritan and tires to help. An illegal 19 year old Spanish guy
-  steals his watch, chain and beeper and takes off. He is caught below.
+  steals his watch, chain and beeper and takes off. He is caught below. Likely
+  segment  1 of CP-637.
 - Albuquerque, NM (11:33 PM Suspicious Activity) Two guys are arguing and Mark
   punches the other guy in the face in front of a cop who jumps out of his car
   and cuffs him. The victim says Mark is his brother and roommate and won't
@@ -14562,7 +14575,7 @@ Aired 2004-05-01.
 - Fort Worth, TX (12:02 AM Suspicious Activity) A cop pulls up behind two cars
   and they drag race even with him behind them. He gets them both to pull over
   even though the Camero in second place looks like it U turned. Alvin the
-  winner is 39 and the guy in the Camero is 25.
+  winner is 39 and the guy in the Camero is 25. Likely segment 3 of CP-1428.
 - King County, WA (6:05 PM Officer Assistance) A girl may have been abducted and
   they are going to where they think she is. They've been there before -- it
   looks like a trailer park that was hit by a nuclear bomb. They find a guy
@@ -14571,11 +14584,12 @@ Aired 2004-05-01.
   them.
 - Philadelphia, PA (5:43 PM Assistance Call) A guy driving a stolen smashed blue
   Monte Carlo crashes into a car in front of police. He is high and hits three
-  other guys cars. The owner left the keys inside and he took it.
+  other guys cars. The owner left the keys inside and he took it. Likely
+  segment 2 of CP-521.
 - Albuquerque, NM (11:07 AM John Sting) Undercover female cops bring Johns back
   to a hotel room and bust them. An old guy wants some hokie pokie for $10.
   Mexican Mike wants a BJ for $20. They cuff him and take him out to the car,
-  but he runs away.
+  but he runs away. This is segment 1 of CP-1232.
 - (Kansas City, MO -- 9:07 PM Shoplifting Call) Two guys stole four cartons of
   cigarettes. One guy puts them in a cart and brings them over to a second guy
   who shoves them down his pants. The first guy watches while pushing his cart
@@ -14585,12 +14599,12 @@ Aired 2004-05-01.
 - Fort Worth, TX (10:03 PM Suspicious Activity) A black guy was buying crack
   and when the cops show up he drives off and turns the corner and crashes into
   one of the tenement houses. They catch him and the dealer runs into a house
-  that isn't his and dumps crack in the woman's spaghetti. From CP-1212
-  (segment 1).
-- Albuquerque, NM (2:21 PM A Mexican guy is seen smoking crack on a bicycle and
-  selling some. John picks him up in his truck and he throws his bike in the
-  back. He takes him to his mom's house to score some rocks. They bust him and
-  mom comes out all upset.
+  that isn't his and dumps crack in the woman's spaghetti. Likely segment 1 of
+  CP-1212.
+- Albuquerque, NM (2:21 PM ??? FIXME ???) A Mexican guy is seen smoking crack
+  on a bicycle and selling some. John picks him up in his truck and he throws
+  his bike in the back. He takes him to his mom's house to score some rocks.
+  They bust him and mom comes out all upset.
 - Harris County, TX (10:50 PM Traffic Stop) A female cops stops a red truck and
   a drunk crashes into her police car. He says he wasn't drinking though. The
   police car was pushed into the truck. They give the drunk a sobriety test and
