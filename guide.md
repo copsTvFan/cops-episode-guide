@@ -6,8 +6,6 @@ permalink: /guide
 
 For context, see the [parent page](/cops-episode-guide).
 
-Generated at {{ page.date }}.
-
 # Season 1
 
 1989.
