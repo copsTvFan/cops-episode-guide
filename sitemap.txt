@@ -1,4 +1,3 @@
 https://copstvfan.github.io/cops-episode-guide/
-https://copstvfan.github.io/cops-episode-guide/guide
-https://copstvfan.github.io/cops-episode-guide/brief.txt
+https://copstvfan.github.io/cops-episode-guide/context
 https://copstvfan.github.io/cops-episode-guide/guides-comparison.csv
