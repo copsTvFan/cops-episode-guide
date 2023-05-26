@@ -12,15 +12,15 @@ The `CP-***` episode numbers are production numbers, while the `S**E**` numbers
 are airing numbers. `CP-xxx` are unambiguous, so I recommend using them over
 `S**E**` when discussing episodes online.
 
-# Season 1
+## Season 1
 
 1989.
 
 - Broward County, FL
 - Russia
 
-## CP-100
-## S01E01
+### CP-100
+### S01E01
 
 Aired 1989-03-11.
 
@@ -109,8 +109,8 @@ Aired 1989-03-11.
   screaming woman is arrested. Then Richard watches the 10 O'clock news of
   the days coverage and Vicki talks about finding kids at drug busts.
 
-## CP-101
-## S01E02
+### CP-101
+### S01E02
 
 Aired 1989-03-18.
 
@@ -164,8 +164,8 @@ Aired 1989-03-18.
   likely he'll be back tomorrow since he is the breadwinner and she is scared
   to be alone in the bad neighborhood and the girl will want him out again.
 
-## CP-102
-## S01E03
+### CP-102
+### S01E03
 
 Aired 1989-03-25.
 
@@ -216,8 +216,8 @@ Aired 1989-03-25.
   medicine cabinet. He doesn't want her kids to pick up a crack rock, eat it
   and die. She cries that she is taking care of him.
 
-## CP-103
-## S01E04
+### CP-103
+### S01E04
 
 Aired 1989-04-01.
 
@@ -278,8 +278,8 @@ Aired 1989-04-01.
   Deak about wearing the pants in his family. He says he's the boss, then his
   wife comes up and surprises him.
 
-## CP-104
-## S01E05
+### CP-104
+### S01E05
 
 Aired 1989-04-08.
 
@@ -337,8 +337,8 @@ Aired 1989-04-08.
   says someone saw him go into his jacket. Mike brings a pastor over to talk to
   him. No one knows him and they were just checking.
 
-## CP-105
-## S01E06
+### CP-105
+### S01E06
 
 Aired 1989-04-15.
 
@@ -402,8 +402,8 @@ Aired 1989-04-15.
   If they cut him loose, they know he'll come back. After Mike is watching the
   49ers and Bengals play on a TV in his car.
 
-## CP-106
-## S01E07
+### CP-106
+### S01E07
 
 Aired 1989-04-22.
 
@@ -475,8 +475,8 @@ Aired 1989-04-22.
   when he tells parents their kid was killed in a DWI, but now he works on
   stopping them before they kill.
 
-## CP-107
-## S01E08
+### CP-107
+### S01E08
 
 Aired 1989-04-29.
 
@@ -530,8 +530,8 @@ Aired 1989-04-29.
   happened in front of the kids, they don't realize and never will that daddy
   is a scumbag.
 
-## CP-108
-## S01E09
+### CP-108
+### S01E09
 
 Aired 1989-05-06.
 
@@ -626,8 +626,8 @@ Aired 1989-05-06.
   man was killed from the accident. It's the end result of many accidents, it's
   really a shame.
 
-## CP-109
-## S01E10
+### CP-109
+### S01E10
 
 Aired 1989-05-13.
 
@@ -681,8 +681,8 @@ Aired 1989-05-13.
   shots were fired. Cops hear multiple shots fired from two people, but it
   wasn't them.
 
-## CP-110
-## S01E11
+### CP-110
+### S01E11
 
 Aired 1989-05-20.
 
@@ -724,8 +724,8 @@ Aired 1989-05-20.
   and wrecked it -- now in two pieces. He says he only had a little to drink,
   but his BAC level is .20.
 
-## CP-111
-## S01E12
+### CP-111
+### S01E12
 
 Aired 1989-05-27.
 
@@ -785,8 +785,8 @@ Aired 1989-05-27.
   catch them, teamwork. He says his partner gets the rookie of the year award
   for the catch.
 
-## CP-112
-## S01E13
+### CP-112
+### S01E13
 
 Aired 1989-06-03.
 
@@ -850,8 +850,8 @@ Aired 1989-06-03.
   were just there. Someone finally reports him missing.  His sister has been
   looking for him, wants to know where he was. She is thankful they found him.
 
-## CP-113
-## S01E14
+### CP-113
+### S01E14
 
 Aired 1989-06-10.
 
@@ -907,8 +907,8 @@ Aired 1989-06-10.
   unusual, they've never seen one like it. It turns out two buddies got into a
   fight and one killed the other, then another buddy also was killed.
 
-## CP-114
-## S01E15
+### CP-114
+### S01E15
 
 Aired 1989-06-17.
 
@@ -1081,7 +1081,7 @@ Aired 1989-06-17.
   committing a crime you better stay out of our way." They keep singing as the
   credits roll.
 
-# Season 2
+## Season 2
 
 1989-1990.
 
@@ -1091,8 +1091,8 @@ Aired 1989-06-17.
 - Los Angeles, CA
 - Mardi Gras 1990
 
-## CP-201
-## S02E01
+### CP-201
+### S02E01
 
 Aired 1989-09-23.
 
@@ -1161,7 +1161,7 @@ Aired 1989-09-23.
   dope is his and has a notebook with phone numbers and Mike is in it. They
   charge him with drugs, dealing and call immigration.
 
-## CP-202
+### CP-202
 
 Aired 1989-09-30.
 
@@ -1225,7 +1225,7 @@ Aired 1989-09-30.
   mouths off in the back of the paddy wagon and they pull them out and cuff him
   and he screams and bang the walls.
 
-## CP-203
+### CP-203
 
 Aired 1989-10-07.
 
@@ -1312,7 +1312,7 @@ Aired 1989-10-07.
   him pull his pants down so he lets them go, next time if he sees it he'll
   arrest him. It's a hard life, nobody says it would be easy.
 
-## CP-204
+### CP-204
 
 Aired 1989-10-14.
 
@@ -1387,7 +1387,7 @@ Aired 1989-10-14.
   paperwork is on it's way. She takes him home and if it works, that's one less
   7 year old off the street.
 
-## CP-205
+### CP-205
 
 Aired 1989-10-21.
 
@@ -1463,7 +1463,7 @@ Aired 1989-10-21.
   instant. To encourage the use of seatbelts the husband allowed the footage in
   the segment to be shown.
 
-## CP-206
+### CP-206
 
 Aired 1989-10-28.
 
@@ -1533,7 +1533,7 @@ Aired 1989-10-28.
   He's the one who hurt her and they all got hurt in the long run. She says the
   kid is only 14, that's teenagers these days.
 
-## CP-207
+### CP-207
 
 Aired 1989-11-04.
 
@@ -1564,7 +1564,7 @@ Aired 1989-11-04.
   knife and he kicked her in the chest.  Paramedics load her into an ambulance
   and see no wounds on her. She was pronounced dead at the hospital.
 
-## CP-208
+### CP-208
 
 Aired 1989-11-11.
 
@@ -1655,7 +1655,7 @@ Aired 1989-11-11.
   on June 25. It was Gene Wilbur of 2041 NW Everett. They were sitting outside
   when both were shot by a man who lived in their apartment.
 
-## CP-209
+### CP-209
 
 Aired 1989-11-18.
 
@@ -1728,7 +1728,7 @@ Aired 1989-11-18.
   him an hour ago. He's upset because he just found out his brother died of a
   heroin overdose. Lon says he will die of a lead overdose.
 
-## CP-210
+### CP-210
 
 Aired 1989-11-25.
 
@@ -1789,7 +1789,7 @@ Aired 1989-11-25.
   bullets. He is wearing a Summer Olympics 84 shirt and says his friend loaned
   him the gun. They say to save it until he's mirandized.
 
-## CP-211
+### CP-211
 
 Aired 1989-12-02.
 
@@ -1854,7 +1854,7 @@ Aired 1989-12-02.
   they'll hold him in a federal prison, then ship him back to Cuba. John asks,
   "Jesus, does it ever end?"
 
-## CP-212
+### CP-212
 
 Aired 1989-12-09.
 
@@ -1883,7 +1883,7 @@ Aired 1989-12-09.
   There is nothing they can do, so they leave. Three weeks later he kills
   himself.
 
-## CP-213
+### CP-213
 
 Aired 1989-12-16.
 
@@ -1955,7 +1955,7 @@ Aired 1989-12-16.
   off the streets. He says he better not catch her outside, she says she knows
   she was a hard head, thanks him and gives him a hug and a kiss.
 
-## CP-214
+### CP-214
 
 Aired 1989-12-23.
 
@@ -2030,7 +2030,7 @@ Aired 1989-12-23.
   is covered with blood and they find the knife there totally cleaned off, but
   broken.
 
-## CP-215
+### CP-215
 
 Aired 1990-01-06.
 
@@ -2067,7 +2067,7 @@ Aired 1990-01-06.
   says the pizza is the same size no matter how he cuts it. He winds up
   refunding her money to get rid of her.
 
-## CP-216
+### CP-216
 
 Aired 1990-01-13.
 
@@ -2150,7 +2150,7 @@ Aired 1990-01-13.
   mom says thanks, Bill suggests a major change in friends. The owner says it's
   disappointing and tires to salvage what he can.
 
-## CP-217
+### CP-217
 
 Aired 1990-01-20.
 
@@ -2221,7 +2221,7 @@ Aired 1990-01-20.
   drunks are so funny. They say goodbye to Eddie and they'll see him next week.
   Welcome to County jail gentlemen, step on inside.
 
-## CP-218
+### CP-218
 
 Aired 1990-01-27.
 
@@ -2274,7 +2274,7 @@ Aired 1990-01-27.
   he runs. They follow him through yards, around in a circle and K-9 gets him
   until police arrive. It might be an off duty cop the dog belonged to.
 
-## CP-219
+### CP-219
 
 Aired 1990-02-03.
 
@@ -2343,7 +2343,7 @@ Aired 1990-02-03.
 
 Dedicated to the memory of Deputy Jack Miller 1954-1988.
 
-## CP-220
+### CP-220
 
 Aired 1990-02-10.
 
@@ -2427,7 +2427,7 @@ Aired 1990-02-10.
   prostitution. The case was later dismissed by a superior court on a
   technicality.
 
-## CP-221
+### CP-221
 
 Aired 1990-02-17.
 
@@ -2497,7 +2497,7 @@ Aired 1990-02-17.
   The little girl is cold and Ann checks her for bruises. She says they all
   need counseling or they can go to jail.
 
-## CP-222
+### CP-222
 
 Aired 1990-02-24.
 
@@ -2580,7 +2580,7 @@ Aired 1990-02-24.
   right before they came in a car. There's nothing they can do now, call us
   again if you see them.
 
-## CP-223
+### CP-223
 
 Aired 1990-03-03.
 
@@ -2646,7 +2646,7 @@ Aired 1990-03-03.
   taken in and bail is $100,000. In memory of Officer Anthony J. Gardner
   1970-1989
 
-## CP-224
+### CP-224
 
 Aired 1990-03-10.
 
@@ -2729,7 +2729,7 @@ Aired 1990-03-10.
   think they are getting ripped off, it's a couple hours pay to them. To us
   it's not big deal.
 
-## CP-225
+### CP-225
 
 Aired 1990-03-17.
 
@@ -2799,7 +2799,7 @@ Aired 1990-03-17.
   Sgt. Cole Hughes arrives. He's not a gang member, not involved in drugs, it's
   just a freak thing, he's a lucky man to survive.
 
-## CP-226
+### CP-226
 
 Aired 1990-03-24.
 
@@ -2860,7 +2860,7 @@ Aired 1990-03-24.
   fought.  He held him down and they victim tried to kick and punch him and the
   other guys. He hit him and didn't see anyone kick him. So he is arrested too.
 
-## CP-227
+### CP-227
 
 Aired 1990-04-07.
 
@@ -2929,7 +2929,7 @@ Aired 1990-04-07.
   are. It's ironic that up on the wall is a Crimestoppers security alarms sign.
   They install them in cars, but not on their own door.
 
-## CP-228
+### CP-228
 
 Aired 1990-04-14.
 
@@ -2969,7 +2969,7 @@ Aired 1990-04-14.
   guys plus two women. Cops find a .357 that belongs to Glover and Tyson. They
   called their friends to bring the guns so they could kill the manager.
 
-## CP-229
+### CP-229
 
 Aired 1990-04-21.
 
@@ -3048,7 +3048,7 @@ Aired 1990-04-21.
   pulled up. There are three kids getting into guns and drugs and gangs already
   -- two lives lost.
 
-## CP-230
+### CP-230
 
 Aired 1990-04-28.
 
@@ -3120,7 +3120,7 @@ Aired 1990-04-28.
   was the one blasting the radio in front of him.  They just did an excavation
   site and scared the crap out of them. They let them go.
 
-## CP-231 / CP-232
+### CP-231 / CP-232
 
 Aired 1990-05-05.
 
@@ -3137,7 +3137,7 @@ Aired 1990-05-05.
 - A skinhead is arrested for shoplifting.
 - A disorderly celebrant strikes an officer.
 
-# Season 3
+## Season 3
 
 1990-1991.
 
@@ -3153,7 +3153,7 @@ Aired 1990-05-05.
 - London, England
 - Best of 1&2
 
-## CP-301
+### CP-301
 
 Aired 1990-09-15.
 
@@ -3251,7 +3251,7 @@ Aired 1990-09-15.
   was charges with second degree assault and released on bail the following
   day.
 
-## CP-302
+### CP-302
 
 Aired 1990-09-22.
 
@@ -3329,7 +3329,7 @@ Aired 1990-09-22.
   average people, good and bad. Arresting a felon, helping an old lady back
   home, it's part of the job.
 
-## CP-303
+### CP-303
 
 Aired 1990-09-29.
 
@@ -3395,7 +3395,7 @@ Aired 1990-09-29.
   girl there, but he says she was. He wants his pills back, she says to talk to
   the doctor. He wants to take a leak, she says only if he wants to go to jail.
 
-## CP-304
+### CP-304
 
 Aired 1990-10-06.
 
@@ -3480,7 +3480,7 @@ Aired 1990-10-06.
   shoved the crack in there, he's seen it before. A cop can't expect he can
   change the world, but he can make it a little better.
 
-## CP-305
+### CP-305
 
 Aired 1990-10-13.
 
@@ -3546,7 +3546,7 @@ Aired 1990-10-13.
   holds a bloody rag and throws it at the suspect. She says, "You hurt my boy,
   he loved you all this time. He is Indian, American."
 
-## CP-306
+### CP-306
 
 Aired 1990-10-20.
 
@@ -3624,7 +3624,7 @@ Aired 1990-10-20.
   jerk, but there is no law allowing them to pull him out of his house and
   taking him to detox.
 
-## CP-307
+### CP-307
 
 Aired 1990-10-27.
 
@@ -3693,7 +3693,7 @@ Aired 1990-10-27.
   funeral home where is wife is. He hopes that returning her will put it to
   rest in his mind.
 
-## CP-308
+### CP-308
 
 Aired 1990-11-03.
 
@@ -3756,7 +3756,7 @@ Aired 1990-11-03.
   when he started crying, that's when you know you've made the point. Over the
   credits is footage with the body bag from the first segment.
 
-## CP-309
+### CP-309
 
 Aired 1990-11-10.
 
@@ -3782,7 +3782,7 @@ Aired 1990-11-10.
   said she didn't realize she was going so fast since she isn't used to the
   car. He makes her raise her hand and swear she won't do it again.
 
-## CP-310
+### CP-310
 
 Aired 1990-11-10.
 
@@ -3820,7 +3820,7 @@ Aired 1990-11-10.
   to API, but they won't take him.  Marc says he'll help and drives him to API
   himself.
 
-## CP-311
+### CP-311
 
 Aired 1990-11-17.
 
@@ -3920,7 +3920,7 @@ Aired 1990-11-17.
   have it all the way in, got out and left it running, it hit the trailer and
   went around in circles. He doesn't know how it happened, but nobody got hurt.
 
-## CP-312
+### CP-312
 
 Aired 1990-12-01.
 
@@ -3990,7 +3990,7 @@ Aired 1990-12-01.
   lawyer. They were sitting on top of the bench and saw the knife, he's an
   ex-felon from Florida, been there three months.
 
-## CP-313
+### CP-313
 
 Aired 1990-12-08.
 
@@ -4085,7 +4085,7 @@ Aired 1990-12-08.
   has he spent on dope in his life. He can't tell him, maybe $30-40,000 and
   it's not cheap.
 
-## CP-314
+### CP-314
 
 Aired 1990-12-15.
 
@@ -4150,7 +4150,7 @@ Aired 1990-12-15.
   and wants her purse. They'll get it. She says it's the most humiliating,
   disturbing thing.
 
-## CP-315
+### CP-315
 
 Aired 1990-12-22.
 
@@ -4231,7 +4231,7 @@ Aired 1990-12-22.
   have to file a report. They've heard, "I know the sheriff, the governor, I
   pay your salary." She wants to ask them for a raise then.
 
-## CP-316
+### CP-316
 
 Aired 1991-01-12.
 
@@ -4308,7 +4308,7 @@ Aired 1991-01-12.
   denies he was there only 30 minutes. Dom sympathizes with them, but they have
   to play the game and wait, other people have problems too.
 
-## CP-317
+### CP-317
 
 Aired 1991-01-26.
 
@@ -4376,7 +4376,7 @@ Aired 1991-01-26.
   right. These kind of situations can be explosive. The job has lots of
   judgment calls. Over the credits the WTC is seen from a distance.
 
-## CP-318
+### CP-318
 
 Aired 1991-01-19.
 
@@ -4454,7 +4454,7 @@ Aired 1991-01-19.
   a ticket and tell her if he shows up again tonight and tries to force her to
   do anything to tell the front desk and they'll come as fast as they can.
 
-## CP-319
+### CP-319
 
 Aired 1991-02-02.
 
@@ -4524,7 +4524,7 @@ Aired 1991-02-02.
   He was waiting for the rain to let up. He was there since 11 PM. Special
   thanks to Chief Richard J.  Harrison.
 
-## CP-320
+### CP-320
 
 Aired 1991-02-09.
 
@@ -4594,7 +4594,7 @@ Aired 1991-02-09.
   police could do about it, just can't let it get out of control and won't
   solve anything tonight.
 
-## CP-321
+### CP-321
 
 Aired 1991-02-16.
 
@@ -4684,7 +4684,7 @@ Aired 1991-02-16.
   paint. They got mad at them so the cops help out and turn the car back over.
   Over the credits is the mother daughter drug team at the station.
 
-## CP-322
+### CP-322
 
 Aired 1991-02-23.
 
@@ -4721,7 +4721,7 @@ Aired 1991-02-23.
   on the corner in a blue shirt, hat and brown jacket.  They go and grab him
   and lock him up for 2 counts of burglary and theft.
 
-## CP-323
+### CP-323
 
 Aired 1991-03-02.
 
@@ -4784,7 +4784,7 @@ Aired 1991-03-02.
   didn't want the fire ladder. She hopes the next time she sees him he'll be
   happy like he used to be.
 
-## CP-324
+### CP-324
 
 Aired 1991-03-09.
 
@@ -4863,7 +4863,7 @@ Aired 1991-03-09.
   says she isn't getting it. She says if the kid fell why come she not bruised.
   Tom says she fell out twice, god was watching them.
 
-## CP-325
+### CP-325
 
 Aired 1991-03-16.
 
@@ -4930,7 +4930,7 @@ Aired 1991-03-16.
   takes her stuff and leaves.  She says it's a chance for him to be a standup
   boyfriend to come back and get her out of jail.
 
-## CP-326
+### CP-326
 
 Aired 1991-04-06.
 
@@ -5001,7 +5001,7 @@ Aired 1991-04-06.
   he appreciates it. John thanks him. He says he was a real nice guy and it
   makes him feel bad to put him in jail, but nice guys can still kill people.
 
-## CP-327
+### CP-327
 
 Aired 1991-04-13.
 
@@ -5056,7 +5056,7 @@ Aired 1991-04-13.
   the academy they were told people usually hide in the obvious places and
   there he was.  She was glad she got him before the dog, it feels good.
 
-## CP-328
+### CP-328
 
 Aired 1991-04-20.
 
@@ -5134,7 +5134,7 @@ Aired 1991-04-20.
   has no electricity, so he was holding it for ransom until he got the $16 back
   he owed him.
 
-## CP-329
+### CP-329
 
 Aired 1991-04-27.
 
@@ -5210,7 +5210,7 @@ Aired 1991-04-27.
   intercourse with a minor. He's not thinking about being with an underage girl
   drinking, getting drunk and having sex.
 
-## CP-330
+### CP-330
 
 Aired 1991-05-04.
 
@@ -5228,7 +5228,7 @@ Aired 1991-05-04.
 - (10:58 PM Officer Assitance Call) Deputy Keith McKay, Officer Rick Hougland.
   DUI suspect.
 
-## CP-331
+### CP-331
 
 Aired 1991-05-11.
 
@@ -5243,7 +5243,7 @@ Aired 1991-05-11.
 - (Harris County Sheriff's Department) Deputy Michael Sieck brings donuts.
   (11:46 PM Domestic Disturbance)
 
-## CP-332
+### CP-332
 
 Aired 1991-05-18.
 
@@ -5320,7 +5320,7 @@ Aired 1991-05-18.
   He says it's a figure of speech, she's in front of him. She says she didn't
   like him because he had no front teeth and was ugly looking.
 
-## CP-333
+### CP-333
 
 Aired 1991-05-25.
 
@@ -5341,7 +5341,7 @@ Aired 1991-05-25.
   to clean their guns. (11:28 PM Traffic Stop) Deputy Monty Herron arrests a
   driver.
 
-## CP-334
+### CP-334
 
 Aired 1991-06-01.
 
@@ -5356,7 +5356,7 @@ Aired 1991-06-01.
 - (3:05 PM) Deputy Robert Merchant. Sgt. Mark Walker. Detective Frank Pratt. A
   man is found hanging in a garage (suspected suicide).
 
-## CP-335
+### CP-335
 
 Aired 1991-06-08.
 
@@ -5402,7 +5402,7 @@ originally aired:
 - Dep. Michael Sieck catches two men accused of not paying for gasoline
 - Sgt. Robert Jackson counsels a woman who was assaulted by her husband
 
-## CP-336
+### CP-336
 
 Aired 1991-06-15.
 
@@ -5413,7 +5413,7 @@ Aired 1991-06-15.
 
 A body was found in the burned car in a foggy area and a tow truck is en route.
 
-## CP-337
+### CP-337
 
 Aired 1991-08-31.
 
@@ -5426,7 +5426,7 @@ Aired 1991-08-31.
 - (12:03 AM Attempted Suicide Call) Deputy Bubba Hunton.
 - (1:23 AM Stolen Vehicle Call) Deputy Richard King.
 
-## CP-338
+### CP-338
 
 Aired 1991-08-09.
 
@@ -5477,7 +5477,7 @@ Aired 1991-08-09.
   in the car and find there was a path he ran down while they floundered
   through the deep sticks in the back.
 
-## CP-339
+### CP-339
 
 Aired 1991-06-22.
 
@@ -5488,7 +5488,7 @@ Aired 1991-06-22.
   metro police, it was formed in 1829 by Sir Robert Peel, SY has traditionally
   been it's HQ.
 
-## CP-340
+### CP-340
 
 Aired 1991-08-16.
 
@@ -5507,7 +5507,7 @@ Aired 1991-08-16.
   shortened years later in `CP-1435`, but with a "(7:46 PM Disturbance Call)"
   description.
 
-## BOC-001
+### BOC-001
 
 Aired 1991-06-29.
 
@@ -5519,7 +5519,7 @@ Aired 1991-06-29.
 - (Portland, OR) Sgt. Loren Caddy goes to an accident where a mother dies from
   not wearing a seatbelt from CP-205 (segment 3).
 
-## BOC-002
+### BOC-002
 
 Aired 1991-07-06.
 
@@ -5531,7 +5531,7 @@ Aired 1991-07-06.
   to a call of Nancy and her daughter who want her boyfriend not to come back
   from CP-101 (segment 3).
 
-# Season 4
+## Season 4
 
 1991-1992.
 
@@ -5546,7 +5546,7 @@ Aired 1991-07-06.
 - South Florida
 - Pierce County, WA
 
-## CP-401
+### CP-401
 
 Aired 1991-08-10.
 
@@ -5562,7 +5562,7 @@ Aired 1991-08-10.
 - (Kansas City, KS -- 1:42 AM Domestic Disturbance) Officer Zane Schuberger.
   Man on a roof.
 
-## CP-402
+### CP-402
 
 Aired 1991-08-17.
 
@@ -5578,7 +5578,7 @@ Aired 1991-08-17.
 - (Kansas City, KS -- 8:15 PM Narcotics Unit Briefing) Drug buy/bust. Detective
   David Payne, Lt. Ronald Miller.
 
-## CP-403
+### CP-403
 
 Aired 1991-08-24.
 
@@ -5596,7 +5596,7 @@ Aired 1991-08-24.
 - (Kansas City, KS -- 6:15 PM Burglary In Progress) Officer Richard Keith is
   flying an RC airplane.
 
-## CP-404
+### CP-404
 
 Aired 1991-12-07.
 
@@ -5613,7 +5613,7 @@ Aired 1991-12-07.
   Featuring Officer Letha Voss. "That's my sister and ain't nobody gonna hit my
   sister if they not married to her".
 
-## CP-405
+### CP-405
 
 Aired 1991-09-13.
 
@@ -5630,7 +5630,7 @@ Aired 1991-09-13.
   Bob Lane. Woman was trying to shoot her boyfriend, but accidentally shot her
   brother. Featuring Detective Bernie Smith.
 
-## CP-406
+### CP-406
 
 Aired 1991-10-19.
 
@@ -5647,7 +5647,7 @@ Aired 1991-10-19.
 - (Kansas City, MO -- South Patrol) Officer Scott Caron runs out of gas. (9:06
   PM Warrant Process).
 
-## CP-407
+### CP-407
 
 Aired 1991-10-12.
 
@@ -5663,7 +5663,7 @@ Aired 1991-10-12.
 - (Kansas City, MO -- 7:45 PM Suspicious Car Call) Officer Scott Caron, Officer
   Phillip Brown. Jealous husband.
 
-## CP-408
+### CP-408
 
 Aired 1991-10-05.
 
@@ -5683,7 +5683,7 @@ Aired 1991-10-05.
   about a crack-house sweep. (11:35 PM Second Warrant Service) Officer Terry
   Mast, Officer Patrick Greeno.
 
-## CP-409
+### CP-409
 
 Aired 1991-09-28.
 
@@ -5697,7 +5697,7 @@ Aired 1991-09-28.
 - Officers injured while pursuing drug dealers.
 - suspected car thief.
 
-## CP-410
+### CP-410
 
 Aired 1991-10-26.
 
@@ -5709,7 +5709,7 @@ Aired 1991-10-26.
   chin. If the man is still inside an arrest must be made. Bar patrons
   arrested; burglary suspects in abandoned funeral home.
 
-## CP-411
+### CP-411
 
 Aired 1991-12-21.
 
@@ -5720,7 +5720,7 @@ Aired 1991-12-21.
   Damien Wiles says the guy they are looking for is Erwin Earl in he lives in
   an apartment at the bottom.
 
-## CP-412
+### CP-412
 
 Aired 1991-11-02.
 
@@ -5735,7 +5735,7 @@ Aired 1991-11-02.
 - drive-by shooting foiled
 - hit-and-run suspect apprehended.
 
-## CP-413
+### CP-413
 
 Aired 1992-01-04.
 
@@ -5746,7 +5746,7 @@ Aired 1992-01-04.
   shot of drugs. Rival drugs dealers on the edge of town.  Suspect with
   "cop-killing" bullets in gun; officers help confused senior.
 
-## CP-414
+### CP-414
 
 Aired 1992-02-07.
 
@@ -5756,7 +5756,7 @@ Aired 1992-02-07.
   Sunrise is located in 5 cities -- Miami, Atlanta, Baltimore-Washington, New
   York, and Boston.
 
-## CP-415
+### CP-415
 
 Aired 1991-11-16.
 
@@ -5816,7 +5816,7 @@ Aired 1991-11-16.
   (8:12 PM) Chuck helps Johnny into the back of his car and he can barely get
   in because he's 70 years old.
 
-## CP-416
+### CP-416
 
 Aired 1991-11-09.
 
@@ -5834,7 +5834,7 @@ Aired 1991-11-09.
   head to a (11:32 PM Assistance Call). Man gets stabbed. Officer John Dailey.
   (12:22 AM).
 
-## CP-417
+### CP-417
 
 Aired 1991-11-23.
 
@@ -5897,7 +5897,7 @@ Aired 1991-11-23.
   will kill him and the guy is a liar. John says usually they don't catch the
   guy because they flee, but this time they got him and he's going to jail.
 
-## CP-418
+### CP-418
 
 Aired 1992-03-21.
 
@@ -5912,7 +5912,7 @@ Aired 1992-03-21.
   Shinnick. (9:47 PM Fire Call). Sgt. Ralph Sirois. (11:12 PM) Arson suspect
   Gary in station.
 
-## CP-419
+### CP-419
 
 Aired 1991-12-07.
 
@@ -5925,7 +5925,7 @@ Aired 1991-12-07.
 - (10:26 PM Drug Surveillance Briefing) Officer Tito Whittington, officer
   Robert Rogers.
 
-## CP-420
+### CP-420
 
 Aired 1991-12-14.
 
@@ -5978,7 +5978,7 @@ Aired 1991-12-14.
   the money under the door for coke, but got nothing back. She says she smokes,
   not snorts and only spends $40 a day so it's not a bad habit.
 
-## CP-421
+### CP-421
 
 Aired 1992-04-04.
 
@@ -5995,7 +5995,7 @@ Aired 1992-04-04.
 - (6:06 PM Shooting Call) Shooting by armed gang with Officer Tom Boyle,
   Detective William Kennedy, Officer Mike O'Hara, (9:15 PM) Booking of suspect.
 
-## CP-422
+### CP-422
 
 Aired 1992-01-11.
 
@@ -6012,7 +6012,7 @@ Aired 1992-01-11.
 - (9:42 AM Interdiction Team Briefing) Deputy Nick Hazlerig, Deputy Marty
   Tartera, Deputy Mickey McCune.
 
-## CP-423
+### CP-423
 
 Aired 1992-01-18.
 
@@ -6043,7 +6043,7 @@ Aired 1992-01-18.
   got caught. She calls him an ass and can't believe he did this on the way to
   his father's funeral. They make him dump all the pot out and cut him loose.
 
-## CP-424
+### CP-424
 
 Aired 1992-01-25.
 
@@ -6059,7 +6059,7 @@ Aired 1992-01-25.
 - (7:37 AM) / (7:37 AM Traffic Stop) Deputy Mark Kellerhall, Sgt. David
   Ducrest, Captain Richard Swain
 
-## CP-425
+### CP-425
 
 Aired 1992-02-15.
 
@@ -6077,7 +6077,7 @@ Aired 1992-02-15.
 Potentially a censored segment: officer's wife barricades herself in bathroom
 against intruder.
 
-## CP-426
+### CP-426
 
 Aired 1992-05-30.
 
@@ -6092,7 +6092,7 @@ Aired 1992-05-30.
 - domestic disturbance
 - child endangerment
 
-## CP-427
+### CP-427
 
 Aired 1992-02-01.
 
@@ -6119,7 +6119,7 @@ Aired 1992-02-01.
   and says he disciplined his son like what was done to him. They arrest him
   because he hit him Tim in the face and was drinking.
 
-## CP-428
+### CP-428
 
 Aired 1992-03-07.
 
@@ -6130,7 +6130,7 @@ Aired 1992-03-07.
   and the windowsill is buried in dead flies. Man is unable to care for himself
 - overturned truck.
 
-## CP-429
+### CP-429
 
 Aired 1992-02-22.
 
@@ -6185,7 +6185,7 @@ Aired 1992-02-22.
   boat and pool out back. They board up the door and have a table of money and
   guns with silencers. He was a major player taken off the street.
 
-## CP-430
+### CP-430
 
 Aired 1992-02-22.
 
@@ -6240,7 +6240,7 @@ Aired 1992-02-22.
   time. This is why they are so critical when it comes to DUI. When you are
   impaired, tragedy can occur.
 
-## CP-431
+### CP-431
 
 Aired 1992-03-14.
 
@@ -6256,7 +6256,7 @@ Aired 1992-03-14.
 - (11:29 PM Larceny in Progress) Officer George Clifton, Officer Federico
   Chacon, Cpl. Ron Dignazio.
 
-## CP-432
+### CP-432
 
 Aired 1992-03-21.
 
@@ -6271,7 +6271,7 @@ Aired 1992-03-21.
 - man assaults friend
 - drug bust.
 
-## CP-433
+### CP-433
 
 Aired 1992-04-11.
 
@@ -6283,7 +6283,7 @@ Aired 1992-04-11.
   They'll wire Moe and if he is threatened they'll bust the Columbians.
   Suspects threaten informant and family; suspected drunken driver.
 
-## CP-434
+### CP-434
 
 Aired 1992-05-30.
 
@@ -6307,7 +6307,7 @@ Aired 1992-05-30.
   Newspapers are stacked to the ceiling. They also return a stolen camera to a
   lady and a watch at the end of their 12 month sting.
 
-## CP-435
+### CP-435
 
 Aired 1992-04-25.
 
@@ -6317,7 +6317,7 @@ Aired 1992-04-25.
 - suspect motorist
 - prostitution sweep
 
-## CP-436
+### CP-436
 
 Aired 1992-05-02.
 
@@ -6327,7 +6327,7 @@ Aired 1992-05-02.
   is officer of the month. Capture of armed suspects; arrests for lewd
   behavior.
 
-## CP-437
+### CP-437
 
 Aired 1992-06-13.
 
@@ -6340,7 +6340,7 @@ Aired 1992-06-13.
   area to make sure no one robs it until the emergency board up team arrives. A
   looter; car stuck on train tracks; drunken driver arrested.
 
-## CP-438
+### CP-438
 
 Aired 1992-05-09.
 
@@ -6372,7 +6372,7 @@ Aired 1992-05-09.
   Thursday. The owner says animals killed the dead roosters, they didn't die
   during cock fights. He welcomes them to come back and check.
 
-## CP-439
+### CP-439
 
 Aired 1992-05-16.
 
@@ -6382,7 +6382,7 @@ Aired 1992-05-16.
   making a dope deal and hunts it down after losing sight of it.  bank robbery
   arrest; public disturbance; hit and run.
 
-## CP-440
+### CP-440
 
 Aired 1992-06-27.
 
@@ -6429,7 +6429,7 @@ Aired 1992-06-27.
   a drug problem and needs to get some help.  Shorty is arrested, but why
   should he get a job when he make $100s dealing...  it's amazing to see.
 
-## CP-441
+### CP-441
 
 Aired 1992-08-01.
 
@@ -6440,7 +6440,7 @@ Aired 1992-08-01.
 - confusing weapons call
 - teen threatens mother.
 
-## CP-442
+### CP-442
 
 Aired 1992-12-12.
 
@@ -6452,7 +6452,7 @@ Aired 1992-12-12.
   nice place to work, a close knit group that's real fun to work with. Felony
   suspect is arrested; hysterical shoplifting suspect. King County
 
-## CP-443
+### CP-443
 
 Aired 1992-06-20.
 
@@ -6469,7 +6469,7 @@ Aired 1992-06-20.
   leaves with a shotgun and goes home. The police surround the home and call
   him out and he is only wearing small blue underwear.
 
-## CP-444
+### CP-444
 
 Aired 1992-08-08.
 
@@ -6481,7 +6481,7 @@ Aired 1992-08-08.
 
 Cops buy groceries for a man and his kids living in a hotel room.
 
-## CP-445
+### CP-445
 
 Aired 1992-08-15.
 
@@ -6502,7 +6502,7 @@ Aired 1992-08-15.
   was DUI and charged with two counts of vehicular assault. The girl is only 15
   and had to have a leg amputated.
 
-# Season 5
+## Season 5
 
 1992-1993.
 
@@ -6516,7 +6516,7 @@ Aired 1992-08-15.
 - Phoenix, AZ
 - United States Special
 
-## CP-501
+### CP-501
 
 Aired 1992-10-03.
 
@@ -6528,7 +6528,7 @@ Aired 1992-10-03.
   which had a lot of success and excitement, but always knew one day he'd have
   to be a cop. Arrest of a suspected thief; witness to a battery theft.
 
-## CP-502
+### CP-502
 
 Aired 1992-09-19.
 
@@ -6539,7 +6539,7 @@ Aired 1992-09-19.
   Disturbance Call) Suspected gang member shoots man; pregnant woman fears
   drunken boyfriend.
 
-## CP-503
+### CP-503
 
 Aired 1992-09-26.
 
@@ -6567,7 +6567,7 @@ Aired 1992-09-26.
   for hitting her and she is pregnant by him, but he's married to someone else.
   She is arrested for vandalism.
 
-## CP-504
+### CP-504
 
 Aired 1992-12-05.
 
@@ -6599,7 +6599,7 @@ Aired 1992-12-05.
   all antiques. They arrest him for public intoxication and take him to detox
   for the night. His friend comes over to take the guns.
 
-## CP-505
+### CP-505
 
 Aired 1992-12-19.
 
@@ -6614,7 +6614,7 @@ Aired 1992-12-19.
   Served) Domestic disturbance; officers serve warrant to armed-robbery
   suspect.
 
-## CP-506
+### CP-506
 
 Aired 1993-01-02.
 
@@ -6624,7 +6624,7 @@ Aired 1993-01-02.
   drives around 130 miles a night. Convenience-store holdup; attempted suicide;
   bootleg liquor operation.
 
-## CP-507
+### CP-507
 
 Aired 1992-11-07.
 
@@ -6635,7 +6635,7 @@ Aired 1992-11-07.
   are hiding. Sgt. Ray Verdugo talks about seeing an autopsy and how it gets
   you up close with violence.
 
-## CP-508
+### CP-508
 
 Aired 1992-10-31.
 
@@ -6648,7 +6648,7 @@ Aired 1992-10-31.
 - suicide call
 - drug bust.
 
-## CP-509
+### CP-509
 
 Aired 1992-11-14.
 
@@ -6661,7 +6661,7 @@ Aired 1992-11-14.
 - Offs. Manny Mauri and Mike Pettinger counsel a drug user; assault on a
   cocktail waitress; domestic disturbance; drive-by shooting.
 
-## CP-510
+### CP-510
 
 Aired 1992-11-21.
 
@@ -6669,7 +6669,7 @@ Aired 1992-11-21.
 
 - (11:12 PM Shooting Call)
 
-## CP-511
+### CP-511
 
 Aired 1993-01-09.
 
@@ -6688,7 +6688,7 @@ Aired 1993-01-09.
   that overweighed it 10 times. Burglary call bags two; officer is injured
   during routine traffic stop.
 
-## CP-512
+### CP-512
 
 Aired 1993-01-16.
 
@@ -6700,7 +6700,7 @@ Aired 1993-01-16.
   phone, air condition and is mobile. Drive-by shooting suspects are captured;
   hit-and-run; man with a knife.
 
-## CP-513
+### CP-513
 
 Aired 1993-01-23.
 
@@ -6711,7 +6711,7 @@ Aired 1993-01-23.
   kind of person to be able to deal with that and keep their sanity when they
   go home at night. robbery; child with gun; assault call.
 
-## CP-514
+### CP-514
 
 Aired 1993-01-30.
 
@@ -6725,7 +6725,7 @@ Aired 1993-01-30.
 - Family disturbance call to a drunk black woman who locked herself and a
   friend in her apartment -- hello there.
 
-## CP-515
+### CP-515
 
 Aired 1993-03-06.
 
@@ -6735,7 +6735,7 @@ Aired 1993-03-06.
   do the best he can and every day is another challenge. Man hides in
   neighbor's house after threatening girlfriend with knife.
 
-## CP-516
+### CP-516
 
 Aired 1993-04-10.
 
@@ -6745,7 +6745,7 @@ Aired 1993-04-10.
   wallet; arrest two domestic-violence suspects; assist an elderly man who's
   complaining about his neighbors.
 
-## CP-517
+### CP-517
 
 Aired 1993-07-03.
 
@@ -6755,7 +6755,7 @@ Aired 1993-07-03.
 clips from many DEA busts. Then goes to DC to hear from the DEA director Robert
 C. Bonner.
 
-## CP-518
+### CP-518
 
 Aired 1993-09-04.
 
@@ -6768,7 +6768,7 @@ Aired 1993-09-04.
   loads it and goes off to work. high-speed chase; prostitution sting;
   restaurant shooting.
 
-## CP-519
+### CP-519
 
 Aired 1992-08-22.
 
@@ -6776,7 +6776,7 @@ Aired 1992-08-22.
 
 - (6:32 PM Burglary in Progress)
 
-## CP-520
+### CP-520
 
 Aired 1992-08-29.
 
@@ -6794,7 +6794,7 @@ Aired 1992-08-29.
 - drugs and stolen car
 - elderly women have leaky ceiling.
 
-## CP-521
+### CP-521
 
 Aired 1992-08-15.
 
@@ -6875,7 +6875,7 @@ Aired 1992-08-15.
   history. Someone slipped PCP into his food, he was trying to get help and he
   went crazy. On the way to the station his heart exploded and he died.
 
-## CP-522
+### CP-522
 
 Aired 1992-09-05.
 
@@ -6888,7 +6888,7 @@ Aired 1992-09-05.
 - convenience-store shootings
 - car theft.
 
-## CP-523
+### CP-523
 
 Aired 1992-09-12.
 
@@ -6898,7 +6898,7 @@ Aired 1992-09-12.
 - (4:02 PM Accident Call)
 - (5:52 PM Stabbing Call)
 
-## CP-524
+### CP-524
 
 Aired 1992-10-10.
 
@@ -6912,7 +6912,7 @@ Aired 1992-10-10.
 - arrest a stabbing suspect and interview witnesses
 - serve a warrant on suspected drug traffickers.
 
-## CP-525
+### CP-525
 
 Aired 1992-10-24.
 
@@ -6924,7 +6924,7 @@ Aired 1992-10-24.
 - Back-to-back burglary calls.
 - Purse-snatching.
 
-## CP-526
+### CP-526
 
 Aired 1993-02-06.
 
@@ -6934,7 +6934,7 @@ Aired 1993-02-06.
   white Cutlass with two occupants and calls in air support.
 - Officers chase stolen auto in car and helicopter.
 
-## CP-527
+### CP-527
 
 Aired 1993-02-13
 
@@ -6944,7 +6944,7 @@ Aired 1993-02-13
 - (3:26 PM Domestic Disturbance Call) Officer J.R. Jacoby
 - (11:06 PM Assistance Call) Officer Rick Benson
 
-## CP-528
+### CP-528
 
 Aired 1993-02-20.
 
@@ -6958,7 +6958,7 @@ Aired 1993-02-20.
   party. There are many bikers, lots of fights and trouble.
 - Officers break up fight between party goer and policewoman.
 
-## CP-529
+### CP-529
 
 Aired 1993-02-27.
 
@@ -6971,7 +6971,7 @@ Aired 1993-02-27.
 - (Fort Worth, TX -- 2:37 AM Suspicious Vehicle) Officer Matt Smith. Stolen vehicle
 - (Fort Worth, TX -- 8:56 PM Burglary In Progress Call) South Sector. Officer Rick Benson.
 
-## CP-530
+### CP-530
 
 Aired 1993-03-20.
 
@@ -6980,7 +6980,7 @@ Aired 1993-03-20.
 - (3:02 AM Accident Call) Officer Russell Johnson goes to a fatal car accident
 - men hide in suspicious vehicle's trunk.
 
-## CP-531
+### CP-531
 
 Aired 1993-03-27.
 
@@ -6996,7 +6996,7 @@ Aired 1993-03-27.
 - Officers respond to a child-abandonment call; stop a car that was reported
   stolen.
 
-## CP-532
+### CP-532
 
 Aired 1993-04-03.
 
@@ -7004,7 +7004,7 @@ Aired 1993-04-03.
 
 - (7:14 PM Shoplifting Call) Fort Worth, TX, West Sector -- Communications Center
 
-## CP-533
+### CP-533
 
 Aired 1993-04-17.
 
@@ -7015,7 +7015,7 @@ Aired 1993-04-17.
 - (8:32 PM Disturbance Call) Sgt. Tim Ellis
 - (11:49 PM Shots Fired) Officer Matt Smith.
 
-## CP-534
+### CP-534
 
 Aired 1993-04-24.
 
@@ -7030,7 +7030,7 @@ Aired 1993-04-24.
 - domestic violence;
 - murder and attempted suicide.
 
-## CP-535
+### CP-535
 
 Aired 1993-05-15.
 
@@ -7082,7 +7082,7 @@ Aired 1993-05-15.
   gone. Bill says it's really strange that the guy was only stealing food,
   snacks, soda and change from the soda machine.
 
-## CP-536
+### CP-536
 
 Aired 1993-05-22.
 
@@ -7131,7 +7131,7 @@ Aired 1993-05-22.
   Officer D.L. Flores went back there with Levy to check the area on foot and
   found him. Officer Bryan Newell was also there.
 
-## CP-537
+### CP-537
 
 Aired 1993-05-16.
 
@@ -7145,8 +7145,8 @@ Aired 1993-05-16.
   arrest him.
 - Women assault each other; man jumps out window.
 
-## CP-538
-## S05E39
+### CP-538
+### S05E39
 
 Aired 1993-06-05.
 
@@ -7164,8 +7164,8 @@ Aired 1993-06-05.
 - Officer Matthew Knowles responds to a disturbance at a motel where a juvenile
   male smashed a window.
 
-## CP-539
-## S05E34
+### CP-539
+### S05E34
 
 Aired 1993-05-08.
 
@@ -7178,8 +7178,8 @@ Aired 1993-05-08.
 - Officer Kevin Hannah assists in the investigation of the shooting of a
   16-year-old male.
 
-## CP-540
-## S05E33
+### CP-540
+### S05E33
 
 Aired 1993-05-01.
 
@@ -7193,8 +7193,8 @@ Aired 1993-05-01.
   disturbance call, and arrests a combative husband for abusing his spouse.
 - Officer John Collins investigates an attempted kidnapping.
 
-## CP-541
-## S05E40
+### CP-541
+### S05E40
 
 Aired 1993-06-26.
 
@@ -7208,7 +7208,7 @@ Aired 1993-06-26.
 - Officer Michael McElroy investigates a report of shots fired, and later
   locates several firearms and narcotics.
 
-## CP-542
+### CP-542
 
 Aired 1993-07-10.
 
@@ -7218,7 +7218,7 @@ Aired 1993-07-10.
 - Sgt. Sam Pollock briefs a narcotics team;
 - Dep. Hank Valencia assists when an officer is assaulted at a domestic-dispute call.
 
-## CP-543
+### CP-543
 
 Aired 1993-07-17.
 
@@ -7233,7 +7233,7 @@ Aired 1993-07-17.
 - (San Bernardino County, CA -- 1:17 AM Street Patrol) Deputy Rick Roelle. Man
   on a sidewalk is armed.
 
-## CP-544
+### CP-544
 
 Aired 1993-07-24.
 
@@ -7243,7 +7243,7 @@ Aired 1993-07-24.
   takes a call for a strong arm 211 involving a van. K-9 unit pursues robbery
   suspect; briefing on drug warrants; shooting in a car.
 
-## CP-545
+### CP-545
 
 Aired 1993-07-31.
 
@@ -7256,7 +7256,7 @@ Aired 1993-07-31.
   undercover First up is a black guy in a white pickup truck. Drug sting; armed
   motorist; drive-by shooting.
 
-## CP-546
+### CP-546
 
 Aired 1993-05-29.
 
@@ -7275,7 +7275,7 @@ Part 2:
 - (Las Vegas, NV -- 7:45 PM Code Red -- Officer Emergency) (CP-318 segment 1)
 - (Las Vegas, NV -- 11:01 PM Communication Center) CP-311.
 
-# Season 6
+## Season 6
 
 1993-1994.
 
@@ -7288,7 +7288,7 @@ Part 2:
 - Indianapolis, IN
 - Hong Kong
 
-## CP-601
+### CP-601
 
 Aired 1994-01-15.
 
@@ -7298,7 +7298,7 @@ Aired 1994-01-15.
   is following a car pulling into a business on Livingston and 50th, license
   plate 766 VHV. Suspect flees search; car-jacking; domestic dispute.
 
-## CP-602
+### CP-602
 
 Aired 1993-11-09.
 
@@ -7309,7 +7309,7 @@ Aired 1993-11-09.
   Greenwood yells at him to put his hands up.
 - Man claims brother stabbed him
 
-## CP-603
+### CP-603
 
 Aired 1993-10-16.
 
@@ -7322,7 +7322,7 @@ Aired 1993-10-16.
 - Car thief is captured
 - man attacks brother with knife.
 
-## CP-604
+### CP-604
 
 Aired 1993-10-23.
 
@@ -7330,7 +7330,7 @@ Aired 1993-10-23.
 
 - (11:03 PM Pursuit Call) Speeding motorcyclist won't stop; neighborhood argument.
 
-## CP-605
+### CP-605
 
 Aired 1993-10-30.
 
@@ -7340,7 +7340,7 @@ Aired 1993-10-30.
   Deputy Mark Freeman. Driver of stolen car flees on foot.
 - trailer-park brawl
 
-## CP-606
+### CP-606
 
 Aired 1994-01-29.
 
@@ -7350,7 +7350,7 @@ Aired 1994-01-29.
   on the streets 8 years which is not a long time. Fight between two men;
   burglary suspect hides in tree.
 
-## CP-607
+### CP-607
 
 Aired 1994-03-26.
 
@@ -7358,7 +7358,7 @@ Aired 1994-03-26.
 
 - (3:06 PM Stabbing Call) Should be listed as AM. Man attacked by his wife claims a stranger stabbed him.
 
-## CP-608
+### CP-608
 
 Aired 1994-04-09.
 
@@ -7367,7 +7367,7 @@ Aired 1994-04-09.
 - (6:23 PM Traffic Stop) Officer Bret Satchwell. Officers serve restraining
   order; parole violation.
 
-## CP-609
+### CP-609
 
 Aired 1994-04-23.
 
@@ -7375,7 +7375,7 @@ Aired 1994-04-23.
 
 - (1:02 AM Suspicious Activity) A man claims to be the son of Jesus; concealed-weapon suspect.
 
-## CP-610
+### CP-610
 
 Aired 1993-08-07.
 
@@ -7385,7 +7385,7 @@ Aired 1993-08-07.
   Central. There are lots of drugs and shootings. He knows the area real well
   and believes in strong backup.
 
-## CP-611
+### CP-611
 
 Aired 1993-08-14.
 
@@ -7395,7 +7395,7 @@ Aired 1993-08-14.
   joins a pursuit. Female officers pose as prostitutes; suspect sleeping in
   stolen van.
 
-## CP-612
+### CP-612
 
 Aired 1993-08-21.
 
@@ -7407,7 +7407,7 @@ Aired 1993-08-21.
   never work a day in your life. Armed robbery suspect turns violent; domestic
   dispute involves baby.
 
-## CP-613
+### CP-613
 
 Aired 1993-08-28.
 
@@ -7417,7 +7417,7 @@ Aired 1993-08-28.
   a cop for 7 years, following in his dads footsteps. Officers control crowd in
   wake of fight; domestic dispute.
 
-## CP-614
+### CP-614
 
 Aired 1993-09-11.
 
@@ -7427,7 +7427,7 @@ Aired 1993-09-11.
   after a four door with expired tags. Car stolen from deaf man; family dispute
   turns into reunion; armed father.
 
-## CP-615
+### CP-615
 
 Aired 1993-09-15.
 
@@ -7439,7 +7439,7 @@ Aired 1993-09-15.
   thought he'd would. Father/son altercation; man with a gun call; barroom
   stabbing.
 
-## CP-616
+### CP-616
 
 Aired 1993-09-25.
 
@@ -7448,7 +7448,7 @@ Aired 1993-09-25.
 - (5:27 PM Stolen Vehicle Call) Man claims stepson stole his truck; man in
   seizure cuts himself.
 
-## CP-617
+### CP-617
 
 Aired 1994-06-04.
 
@@ -7456,7 +7456,7 @@ Aired 1994-06-04.
 
 - (3:43 PM Domestic Disturbance) high-speed chase with DWI suspect.
 
-## CP-618
+### CP-618
 
 Aired 1993-11-02.
 
@@ -7464,7 +7464,7 @@ Aired 1993-11-02.
 
 - (11:48 PM Stabbing Call) Girl is prime suspect in stabbing; weapons in pickup.
 
-## CP-619
+### CP-619
 
 Aired 1994-12-17.
 
@@ -7476,7 +7476,7 @@ Aired 1994-12-17.
   to deal with, lots to do. shooting at Mexico border; body is discovered near
   graveyard.
 
-## CP-620
+### CP-620
 
 Aired 1993-12-18.
 
@@ -7486,7 +7486,7 @@ Aired 1993-12-18.
   working his first night and because it is a Tuesday he doesn't expect to see
   much except drunks. drunken brawl; drug raid on van; pedestrian accident.
 
-## CP-621
+### CP-621
 
 Aired 1994-01-08.
 
@@ -7494,7 +7494,7 @@ Aired 1994-01-08.
 
 - (1:46 AM Suicide Threat) Suicidal man threatens to swallow razor blade; assault arrests.
 
-## CP-622
+### CP-622
 
 Aired 1994-02-19.
 
@@ -7502,7 +7502,7 @@ Aired 1994-02-19.
 
 - (8:09 PM Street Patrol) Suicidal man with shotgun; knife fight outside bar.
 
-## CP-623
+### CP-623
 
 Aired 1994-03-05.
 
@@ -7512,7 +7512,7 @@ Aired 1994-03-05.
 - neighbor dispute
 - landlord/tenant fight.
 
-## CP-624
+### CP-624
 
 Aired 1994-03-19.
 
@@ -7520,7 +7520,7 @@ Aired 1994-03-19.
 
 - (1:57 AM Assault in Progress) Border shooting; suspected car thief tries to flee on foot.
 
-## CP-625
+### CP-625
 
 Aired 1994-04-02.
 
@@ -7530,7 +7530,7 @@ Aired 1994-04-02.
 - gang-related shooting
 - domestic dispute
 
-## CP-626
+### CP-626
 
 Aired 1994-09-03.
 
@@ -7543,7 +7543,7 @@ Aired 1994-09-03.
   what he's going to do, not the officer. Suspect flees; couple steals from
   charity collection box.
 
-## CP-627
+### CP-627
 
 Aired 1994-09-10.
 
@@ -7560,8 +7560,8 @@ Aired 1994-09-10.
 - (Indianapolis, IN -- 6:46 PM Accident Call) Deputy Mark Myler, Sgt. Mike
   Himmel. Kids have fallen off the back of a pickup truck.
 
-## CP-628
-## S06E12
+### CP-628
+### S06E12
 
 Aired 1993-11-06.
 
@@ -7574,7 +7574,7 @@ Aired 1993-11-06.
 - (Cleveland, OH -- 12:17 AM Vehicle Pursuit) Officer Robert Dunn, Officer Nate
   Oliver, Officer James Simone.
 
-## CP-629
+### CP-629
 
 Aired 1993-11-13.
 
@@ -7582,7 +7582,7 @@ Aired 1993-11-13.
 
 - (12:42 AM Stolen Car Call) Driver throws out a gun as he is fleeing.
 
-## CP-630
+### CP-630
 
 Aired 1993-11-20.
 
@@ -7591,7 +7591,7 @@ Aired 1993-11-20.
 - (8:28 PM Disturbance Call) Man assaults girlfriend
 - Nude black male on PCP breaks into school and keeps shouting "Rodney King!"
 
-## CP-631
+### CP-631
 
 Aired 1993-11-27.
 
@@ -7601,7 +7601,7 @@ Aired 1993-11-27.
 - drug warrant
 - domestic assault.
 
-## CP-632
+### CP-632
 
 Aired 1993-12-04.
 
@@ -7611,7 +7611,7 @@ Aired 1993-12-04.
 - (Cleveland, OH -- 9:28 PM Fight Call) Officer Nate Oliver, Officer George Kirby, Sgt. Andy Gonzalez.
 - (Cleveland, OH -- 5:28 PM Stolen Car) Officer George Seroka, Officer Dale Mullins. (6:17 PM Disturbance Call) Bar disturbance.
 
-## CP-633
+### CP-633
 
 Aired 1993-12-18.
 
@@ -7621,7 +7621,7 @@ Aired 1993-12-18.
 - (1:16 AM Domestic Disturbance) Officer Tim Brown and Officer Jim Luby. Domestic with fat black guy screaming "Rochelle" and a tech-9.
 - (4:26 PM Domestic Violence) Officer George Seroka and Officer Mark Tescar. Domestic with old couple in a country trailer.
 
-## CP-634
+### CP-634
 
 Aired 1993-12-11.
 
@@ -7629,7 +7629,7 @@ Aired 1993-12-11.
 
 - (9:57 PM Street Patrol)
 
-## CP-635
+### CP-635
 
 Aired 1993-12-25.
 
@@ -7637,7 +7637,7 @@ Aired 1993-12-25.
 
 - (1:41 AM Sexual Assault)
 
-## CP-636
+### CP-636
 
 Aired 1994-02-26.
 
@@ -7648,7 +7648,7 @@ Aired 1994-02-26.
 - man reportedly assaults wife
 - neighbor threatened.
 
-## CP-637
+### CP-637
 
 Aired 1994-01-01.
 
@@ -7659,7 +7659,7 @@ Aired 1994-01-01.
   tourist in the subway on Canal and 6th street. They go to evidence and pick
   out jewelry and a camera to temp thieves.
 
-## CP-638
+### CP-638
 
 Aired 1994-07-09.
 
@@ -7669,7 +7669,7 @@ Aired 1994-07-09.
 - Hit-and-run involves stolen vehicle
 - dispute between neighbors.
 
-## CP-639
+### CP-639
 
 Aired 1994-02-07.
 
@@ -7677,7 +7677,7 @@ Aired 1994-02-07.
 
 - (12:04 AM Stolen Car) Officer Steve Woodall -- Chase involves stolen vehicle; drunken domestic dispute.
 
-## CP-640
+### CP-640
 
 Aired 1994-04-16.
 
@@ -7692,7 +7692,7 @@ Aired 1994-04-16.
   questions a woman who made threats to shoot her ex-boyfriend. Officer Jim
   Scott investigates a bloody fight between two men.
 
-## CP-641
+### CP-641
 
 Aired 1994-07-16.
 
@@ -7710,7 +7710,7 @@ Aired 1994-07-16.
   Rock.
 - Officer Crystal Kindervater investigates a shooting incident.
 
-## CP-642
+### CP-642
 
 Aired 1994-04-30.
 
@@ -7726,7 +7726,7 @@ Aired 1994-04-30.
   back trailer/Domestic in a car. Officer admonishes clerk who sold alcohol to
   minor; DWI-related accident.
 
-## CP-643
+### CP-643
 
 Aired 1994-09-17.
 
@@ -7737,7 +7737,7 @@ Aired 1994-09-17.
   thing about the job. Suspected stolen vehicle; woman attempts to cash stolen
   check.
 
-## CP-644
+### CP-644
 
 Aired 1994-05-07.
 
@@ -7793,7 +7793,7 @@ Aired 1994-05-07.
   around. They go out to the garage and find 6-7 empty cans of toluene and the
   whole place is burned up from fire.
 
-## CP-645
+### CP-645
 
 Aired 1994-09-24.
 
@@ -7806,7 +7806,7 @@ Aired 1994-09-24.
 - (Marion County -- 6:49 PM Stabbing Call) Sgt. Mike Himmel, Deputy Eugene
   Patrick.
 
-## CP-646
+### CP-646
 
 Aired 1994-06-18.
 
@@ -7815,7 +7815,7 @@ Aired 1994-06-18.
 - (Royal Hong Kong Police Force Bagpipe March) A boat chase with drug
   smugglers; prostitution sting.
 
-# Season 7
+## Season 7
 
 1994-1995.
 
@@ -7825,7 +7825,7 @@ Aired 1994-06-18.
 - New York City
 - Best of
 
-## CP-701
+### CP-701
 
 Aired 1994-05-14.
 
@@ -7841,7 +7841,7 @@ Aired 1994-05-14.
 - (Foothill Area, Los Angeles, CA -- 1:32 AM Assault in Progress) Training
   Officer Jim Gavin, Officer Jeff Chang. Domestic dispute.
 
-## CP-702
+### CP-702
 
 Aired 1994-05-21.
 
@@ -7853,7 +7853,7 @@ Aired 1994-05-21.
   disturbances and it is pretty busy. Suspect shoots himself during struggle
   with police; nude suspect.
 
-## CP-703
+### CP-703
 
 Aired 1994-07-30.
 
@@ -7885,7 +7885,7 @@ Aired 1994-07-30.
   realize the way he acts and she can't handle him anymore. He doesn't want to
   go back to JV, but has no choice and cries and wails that he'll change.
 
-## CP-704
+### CP-704
 
 Aired 1994-08-20.
 
@@ -7901,7 +7901,7 @@ Aired 1994-08-20.
 - (Los Angeles, CA -- 9:45 PM Neighbor's Dispute) Deputy Chris Hicks.
   Dog-owners' dispute.
 
-## CP-705
+### CP-705
 
 Aired 1994-08-06.
 
@@ -7935,7 +7935,7 @@ Aired 1994-08-06.
   He tells them all to follow them back to the station so they can sort it all
   out.
 
-## CP-706
+### CP-706
 
 Aired 1994-08-13.
 
@@ -7948,7 +7948,7 @@ Aired 1994-08-13.
   way. Police use pepper spray on uncooperative assault suspect; threatened
   suicide.
 
-## CP-707
+### CP-707
 
 Aired 1994-10-01.
 
@@ -7956,7 +7956,7 @@ Aired 1994-10-01.
 
 - (6:01 PM Roll Call) 77th Area C.R.A.S.H. Unit -- Shooting call leads to further violence; gang members' arrests.
 
-## CP-708
+### CP-708
 
 Aired 1994-10-08.
 
@@ -7964,7 +7964,7 @@ Aired 1994-10-08.
 
 - (7:49 PM Pedestrian in Traffic) L.A. County Sheriff's Dept -- Lakewood Station. Communications Center. Freeway foot-chase; public intoxication; knife threat.
 
-## CP-709
+### CP-709
 
 Aired 1994-10-15.
 
@@ -7979,7 +7979,7 @@ Aired 1994-10-15.
 - (Los Angeles, CA -- 7:15 PM Woman with a gun call) Officer Andrew Garcia,
   Officer Daniel Pesqueira, Sgt. John Zamora, Officer Chantelle Koch.
 
-## CP-710
+### CP-710
 
 Aired 1994-10-22.
 
@@ -7992,7 +7992,7 @@ Aired 1994-10-22.
   leave and become a cop. Domestic disturbance; suspect with drug
   paraphernalia.
 
-## CP-711
+### CP-711
 
 Aired 1995-01-07.
 
@@ -8001,7 +8001,7 @@ Aired 1995-01-07.
 - (11:42 PM Street Patrol) Sgt. Dale La Fleur -- Car-jacking; suspected thieves
   hide in police tow-yard; stabbing.
 
-## CP-712
+### CP-712
 
 Aired 1994-10-29.
 
@@ -8011,7 +8011,7 @@ Aired 1994-10-29.
   via helicopter; pursue a hit-and-run suspect; investigate an altercation
   between a man and a woman.
 
-## CP-713
+### CP-713
 
 Aired 1994-12-03.
 
@@ -8020,7 +8020,7 @@ Aired 1994-12-03.
 - (1:57 AM Street Patrol) Cops are seen having dinner. Stolen Vehicle Call,
   suspected truck theft; suspect allegedly fires at officer.
 
-## CP-714
+### CP-714
 
 Aired 1994-12-10.
 
@@ -8028,7 +8028,7 @@ Aired 1994-12-10.
 
 - (11:02 PM Domestic Disturbance) LAPD 77th Area -- suspect apparently on PCP; man is suspected of robbing a jewelry store.
 
-## CP-715
+### CP-715
 
 Aired 1995-01-21.
 
@@ -8055,7 +8055,7 @@ Aired 1995-01-21.
   and the clerk shoots him twice in head with a .38 and the guy dies standing
   up with his face on the counter.
 
-## CP-716
+### CP-716
 
 Aired 1995-02-11.
 
@@ -8067,7 +8067,7 @@ Aired 1995-02-11.
   the area, especially in this secluded alley. Officers make a stolen-vehicle
   arrest and capture a wandering python.
 
-## CP-717
+### CP-717
 
 Aired 1995-02-18.
 
@@ -8079,7 +8079,7 @@ Aired 1995-02-18.
   Staging Area) tip leads to alleged drug traffickers; domestic violence call
   nets stolen credit cards; man under the influence of drugs.
 
-## CP-718
+### CP-718
 
 Aired 1995-03-04.
 
@@ -8090,7 +8090,7 @@ Aired 1995-03-04.
   always minutes away, unlike downtown where everything is located. Suspected
   bicycle thief flees; altercation; assault.
 
-## CP-719
+### CP-719
 
 Aired 1995-04-15.
 
@@ -8101,7 +8101,7 @@ Aired 1995-04-15.
   dealers and buyers and replace them with cops. Undercover officer decoys drug
   buyers; public nudity; domestic violence.
 
-## CP-720
+### CP-720
 
 Aired 1995-05-06.
 
@@ -8110,7 +8110,7 @@ Aired 1995-05-06.
 - (1:51 AM Shooting Call) Alleged shooter; cousins fistfight; alleged
   drug-abusers may lose children.
 
-## CP-721
+### CP-721
 
 Aired 1995-07-08.
 
@@ -8167,7 +8167,7 @@ Aired 1995-07-08.
   an anger problem.  The reason they cuffed him is it's a domestic situation
   and they don't come off until the situation is under control.
 
-## CP-722
+### CP-722
 
 Aired 1995-07-22.
 
@@ -8176,7 +8176,7 @@ Aired 1995-07-22.
 - (10:31 PM Man with a Gun) Shooting incident; marital dispute; alleged
   stalker.
 
-## CP-723
+### CP-723
 
 Aired 1994-11-19.
 
@@ -8198,7 +8198,7 @@ Aired 1994-11-19.
   motorist. A helicopter is assisting. The suspect might have been part of an
   armed robbery.
 
-## CP-724
+### CP-724
 
 Aired 1995-03-11.
 
@@ -8209,7 +8209,7 @@ Aired 1995-03-11.
 - TODO: add segment 2
 - TODO: add segment 3
 
-## CP-725
+### CP-725
 
 Aired 1995-02-04.
 
@@ -8225,7 +8225,7 @@ Aired 1995-02-04.
   Bill Warren and Officer Karl Oakman. Teen chased by police tosses gun in
   bushes.
 
-## CP-726
+### CP-726
 
 Aired 1995-03-18.
 
@@ -8243,7 +8243,7 @@ Aired 1995-03-18.
   Officers Brian Crader and Daniel Meyer. Husband shoves wife and wrestles her
   on the lawn. Featuring Sgt. Ron Podraza.
 
-## CP-727
+### CP-727
 
 Aired 1995-04-01.
 
@@ -8260,7 +8260,7 @@ Aired 1995-04-01.
 - (Kansas City, MO -- 11:27 PM Shots Fired) Officers Charles Huth and Michael
   Verhoff find a shot black male. Featuring Officer Jim Pott.
 
-## CP-728
+### CP-728
 
 Aired 1995-04-08.
 
@@ -8282,7 +8282,7 @@ Aired 1995-04-08.
   Brandon. (10:15 PM Warrant Served) Featuring Detective Ron Kaminski and
   Officer Michael Hughes.
 
-## CP-729
+### CP-729
 
 Aired 1995-04-29.
 
@@ -8299,7 +8299,7 @@ Aired 1995-04-29.
   James Knueppel. Teen claims her uncle assaulted her. The uncle has a warrant,
   but he wants to talk to his mama, who isn't all too happy with him.
 
-## CP-730
+### CP-730
 
 Aired 1995-04-22.
 
@@ -8314,7 +8314,7 @@ Aired 1995-04-22.
   Mike Walls and Gary Cooley are partners. A black male says his two brothers
   pulled knives on him. The aunt shows up.
 
-## CP-731
+### CP-731
 
 Aired 1995-05-20.
 
@@ -8323,7 +8323,7 @@ Aired 1995-05-20.
 - (7:31 PM Traffic Stop) LAPD Foothill Area rescue training. Officer Frank
   Orlando. Drug arrests; restraining-order violation; traffic infraction.
 
-## CP-732
+### CP-732
 
 Aired 1995-07-15.
 
@@ -8331,7 +8331,7 @@ Aired 1995-07-15.
 
 - (8:40 PM Assistance Call) convenience store robbery; domestic disturbance; stolen car.
 
-## CP-733
+### CP-733
 
 Aired 1994-10-20.
 
@@ -8367,7 +8367,7 @@ Aired 1994-10-20.
   thrown for a roof. (9:45 PM Boat in Distress) Near Coney Island they use a
   thermal imaging unit to find the boat.
 
-## CP-734
+### CP-734
 
 Aired 1994-10-20.
 
@@ -8377,7 +8377,7 @@ Aired 1994-10-20.
   WTC. Some of the undercover guys look like criminals wearing gangster shirts.
   raid on reported drug house; menacing rodents; overturned vehicle.
 
-## CP-735
+### CP-735
 
 Aired 1994-11-05.
 
@@ -8385,7 +8385,7 @@ Aired 1994-11-05.
 
 - (9:11 AM Officer Down) pursuit of drug suspect; attempted suicide.
 
-## CP-736
+### CP-736
 
 Aired 1994-11-12.
 
@@ -8394,7 +8394,7 @@ Aired 1994-11-12.
 - (10:52 PM Street Patrol) N.Y.P.D. 46th Precinct. Sgt. Andy Fasulo. Suspects
   hide in neighborhood market's basement; cab thieves.
 
-## BOC-003
+### BOC-003
 
 Aired 1995-06-03.
 
@@ -8428,7 +8428,7 @@ Aired 1995-06-03.
 Interesting fact: In 2009 [Deputy Mark Kessell was sentenced for possessing
 CP](https://archives.fbi.gov/archives/sacramento/press-releases/2009/sc102009b.htm).
 
-## BOC-004
+### BOC-004
 
 Aired 1995-06-10.
 
@@ -8455,7 +8455,7 @@ Aired 1995-06-10.
   she just had a third kid and says she isn't scared of him and is fixin to
   leave anyway.
 
-## BOC-005
+### BOC-005
 
 Aired 1995-06-17.
 
@@ -8481,7 +8481,7 @@ Aired 1995-06-17.
   There is a chicken in the truck which jumps out and escapes. The cops try to
   catch it, but can't. They also find a large turtle in his backseat.
 
-## BOC-006
+### BOC-006
 
 Aired 1995-06-24.
 
@@ -8508,7 +8508,7 @@ Aired 1995-06-24.
   marks on her neck because she is sick. It is a traditional Vietnamese healing
   technique. The man is arrested.
 
-## BOC-007
+### BOC-007
 
 Aired 1995-07-01.
 
@@ -8525,7 +8525,7 @@ Aired 1995-07-01.
 - Fort Worth, TX -- Assistance call at a Fina gas station with an insane man
   who thinks he's Elvis' son in law.
 
-# Season 8
+## Season 8
 
 1995-1996.
 
@@ -8539,7 +8539,7 @@ Aired 1995-07-01.
 - Orange County, CA
 - Best of
 
-## CP-801
+### CP-801
 
 Aired 1996-02-24.
 
@@ -8552,7 +8552,7 @@ Aired 1996-02-24.
 
 Special Thanks to Richard Pennington -- Superintendent.
 
-## CP-802
+### CP-802
 
 Aired 1996-02-17.
 
@@ -8580,7 +8580,7 @@ Aired 1996-02-17.
   and find the man who did it. He is drunk and says she is lying, but they
   arrest him and his two friends.
 
-## CP-803
+### CP-803
 
 Aired 1995-12-16.
 
@@ -8613,7 +8613,7 @@ Aired 1995-12-16.
   nuts and wants her out and says her black eye is from drinking and she admits
   it probably is.
 
-## CP-804
+### CP-804
 
 Aired 1995-09-30.
 
@@ -8629,7 +8629,7 @@ Aired 1995-09-30.
   and drives away. She goes to a Boston Chicken and agrees to talk if the one
   deputy isn't there and they go and arrest her.
 
-## CP-805
+### CP-805
 
 Aired 1995-10-14.
 
@@ -8639,7 +8639,7 @@ Aired 1995-10-14.
   of a man walking a dog down the street and kicking it as hard as he can and
   sending it airborne.
 
-## CP-806
+### CP-806
 
 Aired 1995-11-25.
 
@@ -8650,7 +8650,7 @@ Aired 1995-11-25.
   someone gets away. A shooting or robbery gives the most rush. robbery suspect
   pursued; homeless man arrested; suspected car thief.
 
-## CP-807
+### CP-807
 
 Aired 1995-07-29.
 
@@ -8663,7 +8663,7 @@ Aired 1995-07-29.
   the middle of a major street. Deputy Miller attends to a suicidal man, then
   questions the driver of a vehicle who fired a gun at a crowd of people.
 
-## CP-808
+### CP-808
 
 Aired 1995-11-18.
 
@@ -8678,7 +8678,7 @@ Aired 1995-11-18.
   in on suspected car thieves who dumped stolen vehicles into a river used as
   the city's main water supply.
 
-## CP-809
+### CP-809
 
 Aired 1996-03-02.
 
@@ -8695,7 +8695,7 @@ Aired 1996-03-02.
   Morris and Adkinson investigate when a man claims his roommate is a crack
   cocaine user.
 
-## CP-810
+### CP-810
 
 Aired 1996-03-16.
 
@@ -8709,7 +8709,7 @@ Aired 1996-03-16.
   escaped convicts. Sheriff's Deputies Morris and Baxter corral two cows
   sleeping in a graveyard, then sort out a domestic dispute.
 
-## CP-811
+### CP-811
 
 Aired 1996-03-23.
 
@@ -8726,7 +8726,7 @@ Aired 1996-03-23.
   they find a Tech-9 inside. Domestic dispute; rape victim locates her
   attacker.
 
-## CP-812
+### CP-812
 
 Aired 1995-09-16.
 
@@ -8739,7 +8739,7 @@ Aired 1995-09-16.
   Sting flushes drug dealers; unconscious motorist
 - gunfire targets officers Kevin Howell and Mike Vigil.
 
-## CP-813
+### CP-813
 
 Aired 1995-10-28.
 
@@ -8755,7 +8755,7 @@ Aired 1995-10-28.
   takes a call of an unknown male trying to break down the door of a ladies
   apartment. Officers question two men in Halloween costumes.
 
-## CP-814
+### CP-814
 
 Aired 1995-09-23.
 
@@ -8766,7 +8766,7 @@ Aired 1995-09-23.
   Noel Carrasco doesn't get a chance to say why he likes being a cop. A pursuit
   of stolen vehicle's passengers; drivers under the influence; abuse call.
 
-## CP-815
+### CP-815
 
 Aired 1995-11-11.
 
@@ -8775,7 +8775,7 @@ Aired 1995-11-11.
 - (9:42 PM Street Patrol) SW Division -- Officer D.T. Long takes a stolen car
   call; woman claims a crack dealer attacked her; disgruntled customer.
 
-## CP-816
+### CP-816
 
 Aired 1995-09-09.
 
@@ -8785,7 +8785,7 @@ Aired 1995-09-09.
 - Immigration-card ring.
 - (Fort Worth, TX -- 10:05 PM 911 Call) Officer Todd Plowman, Officer Chad Plowman, Officer K. W. Dean, Sgt. W. L. Norman. Fire.
 
-## CP-817
+### CP-817
 
 Aired 1995-12-02.
 
@@ -8800,7 +8800,7 @@ Aired 1995-12-02.
 - A child-protective case.
 - A noise complaint.
 
-## CP-818
+### CP-818
 
 Aired 1996-03-30.
 
@@ -8811,7 +8811,7 @@ Aired 1996-03-30.
 - junkyard dispute
 - car accident triggers shooting.
 
-## CP-819
+### CP-819
 
 Aired 1996-05-11.
 
@@ -8863,7 +8863,7 @@ Aired 1996-05-11.
   the time, can't let it bother them and have to go on to the next call. They
   only talk about it for a few minutes then forget about it.
 
-## CP-820
+### CP-820
 
 Aired 1995-10-07.
 
@@ -8878,7 +8878,7 @@ Aired 1995-10-07.
   much. Armed robber spotted; burglary suspect caught; drug raid; corpse found;
   loose boa.
 
-## CP-821
+### CP-821
 
 Aired 1995-10-21.
 
@@ -8887,7 +8887,7 @@ Aired 1995-10-21.
 - (8:44 PM Burglary in Progress) Burglary suspect sighted; floating corpses;
   high-speed chase of unlicensed driver.
 
-## CP-822
+### CP-822
 
 Aired 1995-12-09.
 
@@ -8901,7 +8901,7 @@ Aired 1995-12-09.
   Bowen and Walters respond to a burglary in which several men stole some
   liquor.
 
-## CP-823
+### CP-823
 
 Aired 1995-12-23.
 
@@ -8915,7 +8915,7 @@ Aired 1995-12-23.
   domestic dispute with his girlfriend, then respond to a burglary at a vacant
   home.
 
-## CP-824
+### CP-824
 
 Aired 1996-01-06.
 
@@ -8931,7 +8931,7 @@ Aired 1996-01-06.
   fight between brothers. Officers Gambino and Rieman meet with a man who
   claims his neighbor threw old phonograph records at his Cadillac.
 
-## CP-825
+### CP-825
 
 Aired 1996-01-13.
 
@@ -8945,7 +8945,7 @@ Aired 1996-01-13.
   Monteforte and Genovese are tipped to a robbery in progress and detain two
   teenagers in possession of a stolen jewelry case.
 
-## CP-826
+### CP-826
 
 Aired 1996-01-27.
 
@@ -8960,7 +8960,7 @@ Aired 1996-01-27.
   see the same first initial and old ladies like it so much the ask for a kiss
   on the cheek. Domestic disturbances; man revived; juveniles detained.
 
-## CP-827
+### CP-827
 
 Aired 1996-02-03.
 
@@ -8976,7 +8976,7 @@ Aired 1996-02-03.
   Barela apprehends a convicted felon driving with a sawed-off shotgun and a
   clown mask.
 
-## CP-828
+### CP-828
 
 Aired 1996-02-10.
 
@@ -8993,7 +8993,7 @@ Aired 1996-02-10.
   on medication and is a Bi-polar Manic Depressant, then fights with the
   officers when they try to get her into the car. Drunken driver.
 
-## CP-829
+### CP-829
 
 Aired 1996-04-06.
 
@@ -9006,7 +9006,7 @@ Aired 1996-04-06.
   officers. SWAT team arrests murder suspect; motorist ejects syringe from car;
   mother-son reunion.
 
-## CP-830
+### CP-830
 
 Aired 1996-04-13.
 
@@ -9015,7 +9015,7 @@ Aired 1996-04-13.
 - (5:15 PM Drug Activity) drug arrests; pregnant woman assaulted; paint sniffer
   arrested; accidental shooting.
 
-## CP-831
+### CP-831
 
 Aired 1996-05-04.
 
@@ -9029,7 +9029,7 @@ Aired 1996-05-04.
   him up, then offers to give Deputy Ruben Barela money and buy him coffee.
   Ruben transports both of them downtown, but no arrest.
 
-## CP-832
+### CP-832
 
 Aired 1996-05-25.
 
@@ -9041,7 +9041,7 @@ Aired 1996-05-25.
   Marriage counselors and priests. Drug-related incidents include a car without
   plates.
 
-## CP-833
+### CP-833
 
 Aired 1996-05-18.
 
@@ -9055,7 +9055,7 @@ Aired 1996-05-18.
   they tackle the husband and arrest both the husband and take the wife away
   for attempted suicide. vehicular pursuit; domestic dispute; suicide attempt.
 
-## CP-834
+### CP-834
 
 Aired 1996-06-22.
 
@@ -9068,7 +9068,7 @@ Aired 1996-06-22.
   the residence and at the end of the episode they ended up not taking him to
   jail. Women brawl; robbery suspect; unconscious man.
 
-## CP-835
+### CP-835
 
 Aired 1996-06-29.
 
@@ -9127,7 +9127,7 @@ Aired 1996-06-29.
   brings any drugs to a jail it's a felony. Ruben tells the guy Gonzalez can't
   help her.
 
-## CP-836
+### CP-836
 
 Aired 1996-04-27.
 
@@ -9139,7 +9139,7 @@ Aired 1996-04-27.
   way for an officer to learn. Communication Center gets a call from a man who
   tried to commit suicide; officer pursues gang member; purse stolen.
 
-## CP-837
+### CP-837
 
 Aired 1996-07-06.
 
@@ -9151,7 +9151,7 @@ Aired 1996-07-06.
   John shoots him. He says a live fire simulator will be better. 6:30 PM
   Carjacking call. drug arrests; burglary; assault; molestation attempt.
 
-## CP-838
+### CP-838
 
 Aired 1996-07-13.
 
@@ -9161,7 +9161,7 @@ Aired 1996-07-13.
   instructed by an undercover officer that they are going to buy an ounce of
   speed. car-jacking; suspect behind a bookcase; drug sting.
 
-## S-901
+### S-901
 
 Aired 1996-02-05.
 
@@ -9171,7 +9171,7 @@ Aired 1996-02-05.
 - (Cleveland, OH -- 2:07 AM Stolen Car Call) CP-628
 - (Fort Worth, TX -- 12:41 AM Suspicious Vehicle) CP-526
 
-## S-902
+### S-902
 
 Aired 1996-02-06.
 
@@ -9181,7 +9181,7 @@ Aired 1996-02-06.
 - (Philadelphia, PA -- 12:48 AM Shooting Call) CP-523
 - (Denver, CO -- 12:07 AM 911 Call) CP-509
 
-## S-903
+### S-903
 
 Aired 1996-02-07.
 
@@ -9191,7 +9191,7 @@ Aired 1996-02-07.
 - (Las Vegas, NV -- 8:38 PM Narcotics Unit Briefing) (Alternatively (8:38 PM Briefing)) from CP-717
 - (Denver, CO -- 1:30 PM Narcotics Unit Briefing) from CP-508
 
-## S-904
+### S-904
 
 Aired 1996-02-08.
 
@@ -9201,7 +9201,7 @@ Aired 1996-02-08.
 - (Las Vegas, NV -- LSP Unit Southeast Area Command) CP-312
 - (Jersey City, NJ -- Truck Sting Operation Briefing) CP-319
 
-## S-905
+### S-905
 
 Aired 1996-02-09.
 
@@ -9211,7 +9211,7 @@ Aired 1996-02-09.
 - (Los Angeles, CA -- 9:46 PM "911" Call Hang Up) from CP-704 (segment 2).
 - (Kansas City, KS -- 6:05 PM Street Patrol) from CP-407 (segment 2).
 
-# Season 9
+## Season 9
 
 1996-1997.
 
@@ -9223,7 +9223,7 @@ Aired 1996-02-09.
 - Fresno, CA
 - Fort Myers, FL
 
-## CP-901
+### CP-901
 
 Aired 1996-08-31.
 
@@ -9237,7 +9237,7 @@ Aired 1996-08-31.
   Miami Police Officer Grant questions a woman whose boyfriend shot himself in
   the head.
 
-## CP-902
+### CP-902
 
 Aired 1996-09-07.
 
@@ -9254,7 +9254,7 @@ Aired 1996-09-07.
   search for a man who assaulted a police officer, then responds to a call
   involving an alleged automobile break-in.
 
-## CP-903
+### CP-903
 
 Aired 1996-09-21.
 
@@ -9270,7 +9270,7 @@ Aired 1996-09-21.
   police by providing several aliases. Metro Dade Police Officer Sullivan
   investigates a call involving juvenile drug dealers.
 
-## CP-904
+### CP-904
 
 Aired 1996-09-28.
 
@@ -9286,7 +9286,7 @@ Aired 1996-09-28.
   Homestead Police Officer Grant questions a group of inebriated residents,
   then shuts down a gambling house.
 
-## CP-905
+### CP-905
 
 Aired 1996-10-05.
 
@@ -9299,7 +9299,7 @@ Aired 1996-10-05.
   after she ran a stop sign, then arrest a suicidal man who tossed bricks at a
   fast food restaurant.
 
-## CP-906
+### CP-906
 
 Aired 1996-10-12.
 
@@ -9319,7 +9319,7 @@ Aired 1996-10-12.
   prostitutes. Metro-Dade Police Officer Sullivan responds to an automobile
   accident in which a young woman has been seriously injured.
 
-## CP-907
+### CP-907
 
 Aired 1996-11-02.
 
@@ -9331,7 +9331,7 @@ Aired 1996-11-02.
   dealers. Miami Police Officer Ruiz joins other officers chasing a fleeing
   vehicle, then discovers an automobile engulfed in flames.
 
-## CP-908
+### CP-908
 
 Aired 1996-11-02.
 
@@ -9345,7 +9345,7 @@ Aired 1996-11-02.
 - kids steal car and drive by sitting on phone book
 - two people go in water.
 
-## CP-909
+### CP-909
 
 Aired 1996-11-09.
 
@@ -9360,7 +9360,7 @@ Aired 1996-11-09.
 - Lynn Police Officers Kelter and White apprehend a black guy who broke into a
   house under construction.
 
-## CP-910
+### CP-910
 
 Aired 1996-11-16.
 
@@ -9371,7 +9371,7 @@ Aired 1996-11-16.
   to do is when the next thing pops up right in front of you, react quickly,
   use common sense and good judgment.
 
-## CP-911
+### CP-911
 
 Aired 1996-09-23.
 
@@ -9387,7 +9387,7 @@ Aired 1996-09-23.
   about a stolen automobile involving the same teenager who was earlier accused
   of stealing lawn furniture.
 
-## CP-912
+### CP-912
 
 Aired 1996-12-21.
 
@@ -9397,7 +9397,7 @@ Aired 1996-12-21.
   residence off Elmwood at Lake. stabbing incident; suicidal man; feuding
   neighbors; disturbance call.
 
-## CP-913
+### CP-913
 
 Aired 1996-11-30.
 
@@ -9411,7 +9411,7 @@ Aired 1996-11-30.
   stops several juveniles riding in a stolen automobile.
 - Deputy Fox investigates a possible suicide on the shore of a lake.
 
-## CP-914
+### CP-914
 
 Aired 1996-12-07.
 
@@ -9424,7 +9424,7 @@ Aired 1996-12-07.
   since they serves warrants and make sure they are getting the right people.
   airline crash rescue operation; bicyclist's pipe; auto accident.
 
-## CP-915
+### CP-915
 
 Aired 1997-01-04.
 
@@ -9443,7 +9443,7 @@ Aired 1997-01-04.
 
 He could die tomorrow and be happy since he accomplished his goal.
 
-## CP-916
+### CP-916
 
 Aired 1997-02-01.
 
@@ -9456,7 +9456,7 @@ Aired 1997-02-01.
 - robbers flee
 - suspects' children.
 
-## CP-917
+### CP-917
 
 Aired 1997-02-08.
 
@@ -9469,7 +9469,7 @@ Aired 1997-02-08.
   Boyfriend is threatening girlfriend with a baseball bat.
 - (Pierce County, WA -- 9:03 PM Domestic Dispute Call) Deputy Win Sargent.
 
-## CP-918
+### CP-918
 
 Aired 1997-01-11.
 
@@ -9479,7 +9479,7 @@ Aired 1997-01-11.
   Alwine says they can always count on other officers to help even if it isn't
   their district. Officer chases fugitive; bottle assault; stolen vehicle.
 
-## CP-919
+### CP-919
 
 Aired 1997-02-22.
 
@@ -9489,7 +9489,7 @@ Aired 1997-02-22.
   to pull over; mother/daughter dispute; restraining order is violated;
   lottery-ticket theft.
 
-## CP-920
+### CP-920
 
 Aired 1997-02-15.
 
@@ -9515,7 +9515,7 @@ Aired 1997-02-15.
   to a return domestic call at a problem Motel. The woman says she has no
   peripheral vision and that Timothy assaulted her from behind.
 
-## CP-921
+### CP-921
 
 Aired 1997-01-25.
 
@@ -9526,7 +9526,7 @@ Aired 1997-01-25.
   can start clear, then the next minute be pouring rain. Flares stop a fleeing
   suspect; neighbors fight over a boat; an ex-wife claims assault.
 
-## CP-922
+### CP-922
 
 Aired 1997-03-08.
 
@@ -9538,7 +9538,7 @@ Aired 1997-03-08.
   he knew he wanted to be a cop, got better grades and went to college. He
   could die tomorrow and be happy since he accomplished his goal.
 
-## CP-923
+### CP-923
 
 Aired 1997-05-03.
 
@@ -9550,7 +9550,7 @@ Aired 1997-05-03.
   medication started firing shots outside, went in and back out and his wife
   locked him out so he couldn't get back in. Domestic disputes.
 
-## CP-924
+### CP-924
 
 Aired 1997-03-22.
 
@@ -9560,7 +9560,7 @@ Aired 1997-03-22.
   Thomas "Tad" Davis takes the call of a woman robbed at a 7-11. Drug sale;
   handgun possession; medical marijuana.
 
-## CP-925
+### CP-925
 
 Aired 1997-05-17.
 
@@ -9573,7 +9573,7 @@ Aired 1997-05-17.
   daughter down the street who ran away. They find him and he says he wants
   their help. Missing teen; child bites mother; child-abuse complaint.
 
-## CP-926
+### CP-926
 
 Aired 1997-03-01.
 
@@ -9590,7 +9590,7 @@ Aired 1997-03-01.
   floor during a domestic dispute. Officer Masters investigates a robbery, and
   afterward, Masters is dispatched to investigate a car accident.
 
-## CP-927
+### CP-927
 
 Aired 1997-03-29.
 
@@ -9608,7 +9608,7 @@ Aired 1997-03-29.
 - Deputy Davis is dispatched to an accident scene where a truck collided with a
   utility pole, and later, Davis removes trespassers from private property.
 
-## CP-928
+### CP-928
 
 Aired 1997-04-12.
 
@@ -9630,7 +9630,7 @@ Aired 1997-04-12.
 - Deputy Rien stops a driver operating a vehicle at night with its lights
   turned off, then discovers a syringe near the driver's seat.
 
-## CP-929
+### CP-929
 
 Aired 1997-04-19.
 
@@ -9643,7 +9643,7 @@ Aired 1997-04-19.
   marijuana plants being cultivated in a remote area outside Fresno.
 - A drug-sniffing canine named Cowboy helps deputies locate hidden narcotics.
 
-## CP-930
+### CP-930
 
 Aired 1997-07-26.
 
@@ -9658,7 +9658,7 @@ Aired 1997-07-26.
   accident.
 - Deputy Bradshaw responds to a homicide in a rural vineyard.
 
-## CP-931
+### CP-931
 
 Aired 1997-06-14.
 
@@ -9672,7 +9672,7 @@ Aired 1997-06-14.
 - (Fort Myers, FL -- 10:29 PM Armed Robbery Call) Officer Jen Gaytan. Robbery
   call may involve solicitation.
 
-## CP-932
+### CP-932
 
 Aired 1997-04-26.
 
@@ -9687,7 +9687,7 @@ Aired 1997-04-26.
 - (Fort Myers, FL -- 8:17 PM Assistance Call) Officer Brian Phillips, Officer
   Greg Hemberger.
 
-## CP-933
+### CP-933
 
 Aired 1997-06-21.
 
@@ -9749,7 +9749,7 @@ Aired 1997-06-21.
   roaches are wire connectors and has 1000s of them at work. Brain says there's
   no way the black guy threw drugs in his ashtray so he's going to jail.
 
-## CP-934
+### CP-934
 
 Aired 1997-05-10.
 
@@ -9768,7 +9768,7 @@ Aired 1997-05-10.
   their leftovers. It doesn't matter that they are shown the sign that reads no
   doggie bags and that they've tried to pull the same stunt there before.
 
-## CP-935
+### CP-935
 
 Aired 1997-07-12.
 
@@ -9786,7 +9786,7 @@ Aired 1997-07-12.
 - (Sarasota County, FL -- 11:43 PM Traffic Accident Call) Deputy John Walsh,
   Deputy Joe Giasone.
 
-## CP-936
+### CP-936
 
 Aired 1997-07-12.
 
@@ -9802,7 +9802,7 @@ Aired 1997-07-12.
 - (Lee County, FL -- 6:39 PM Domestic Violence Call) Deputy Tim Short arrests a
   man for beating his girlfriend. Featuring Deputy Mike Weis.
 
-# Season 10
+## Season 10
 
 1997-1998.
 
@@ -9812,7 +9812,7 @@ Aired 1997-07-12.
 - Texas
 - Sturgis Biker Rally 1997
 
-## CP-1001
+### CP-1001
 
 Aired 1997-10-25.
 
@@ -9825,7 +9825,7 @@ Aired 1997-10-25.
   gets a call for backup. Stolen van; methamphetamine bust; suspicious suspects
   questioned.
 
-## CP-1002
+### CP-1002
 
 Aired 1997-09-13.
 
@@ -9836,7 +9836,7 @@ Aired 1997-09-13.
   Warren.
 - shoplifters; stolen license plates; accidental shooting.
 
-## CP-1003
+### CP-1003
 
 Aired 1997-10-04.
 
@@ -9851,7 +9851,7 @@ Aired 1997-10-04.
   burglary call; marijuana possession; impounded bikes stolen from police;
   stolen-vehicle call.
 
-## CP-1004
+### CP-1004
 
 Aired 1997-09-27.
 
@@ -9862,7 +9862,7 @@ Aired 1997-09-27.
   diversity. He responds to a reported battery at a convenience store. Drug
   abuser refuses to come down from a roof; stolen vehicle.
 
-## CP-1005
+### CP-1005
 
 Aired 1997-09-20.
 
@@ -9872,7 +9872,7 @@ Aired 1997-09-20.
   hit her mom over the head with a bat. (10:29 PM Battery Call) South East Area
   Command -- Officer Leonard Marshall
 
-## CP-1006
+### CP-1006
 
 Aired 1997-09-06.
 
@@ -9884,7 +9884,7 @@ Aired 1997-09-06.
   catch cheating gamblers. Casino security systems; shooting incident; domestic
   dispute involves elderly couple.
 
-## CP-1007
+### CP-1007
 
 Aired 1997-10-11.
 
@@ -9920,7 +9920,7 @@ Aired 1997-10-11.
   people's shower. The owner came home to find him there. Officer Dan Ewing
   takes him away charging him with burglary.
 
-## CP-1008
+### CP-1008
 
 Aired 1997-11-01.
 
@@ -9940,7 +9940,7 @@ Aired 1997-11-01.
 
 350th Episode.
 
-## CP-1009
+### CP-1009
 
 Aired 1997-11-15.
 
@@ -9955,7 +9955,7 @@ Aired 1997-11-15.
   dispute between two neighbors that arose after a dog did his business in a
   yard. Lieutenant Larotonda investigates an apparent suicide in the desert.
 
-## CP-1010
+### CP-1010
 
 Aired 1997-12-06.
 
@@ -9998,7 +9998,7 @@ Aired 1997-12-06.
   thieves and have to go to the station to make a statement.
 - Dedicated to Officer Russell Peterson.
 
-## CP-1011
+### CP-1011
 
 Aired 1997-12-13.
 
@@ -10012,7 +10012,7 @@ Aired 1997-12-13.
 - (5:03 PM Assistance Call) Officers Mike Rodrigues and Mike Myers respond to a
   report of drug use in a North Las Vegas park.
 
-## CP-1012
+### CP-1012
 
 Aired 1998-01-24.
 
@@ -10029,7 +10029,7 @@ Aired 1998-01-24.
 - (Las Vegas, NV -- 5:17 PM Assistance Call) Officer Bill Oettinger joins the
   search for a suspect who fled a traffic stop. Ft. officer Don Evans.
 
-## CP-1013
+### CP-1013
 
 Aired 1998-03-14.
 
@@ -10040,7 +10040,7 @@ Aired 1998-03-14.
   arrive. Domestic dispute; security guard possesses drug paraphernalia;
   vehicle search yields loaded gun.
 
-## CP-1014
+### CP-1014
 
 Aired 1998-02-14.
 
@@ -10056,7 +10056,7 @@ Aired 1998-02-14.
   Lt. Carlos Cordeiro.
 - (Las Vegas, NV -- 11:12 PM Prostitution Sting) Lt. Carlos Cordeiro.
 
-## CP-1015
+### CP-1015
 
 Aired 1997-11-08.
 
@@ -10074,7 +10074,7 @@ Aired 1997-11-08.
   McNichols happens upon a silver Camero in a park vehicle containing three
   sleeping occupants.
 
-## CP-1016
+### CP-1016
 
 Aired 1997-11-22.
 
@@ -10116,7 +10116,7 @@ Aired 1997-11-22.
   they've been there because the old guy won't evict him. They let the young
   guy go and tells him to go to his mom's house and not to come back.
 
-## CP-1017
+### CP-1017
 
 Aired 1998-01-10.
 
@@ -10141,7 +10141,7 @@ Aired 1998-01-10.
   doing the banking for his business and is forced to call his wife to come and
   pick up the money.  She hangs up on him. Featuring Officer Dustin Dungan.
 
-## CP-1018
+### CP-1018
 
 Aired 1998-01-17.
 
@@ -10163,7 +10163,7 @@ Aired 1998-01-17.
   of a car and hides in a stack of tires with his pants down. Featuring Officer
   Mark Hockemeier.
 
-## CP-1019
+### CP-1019
 
 Aired 1998-01-31.
 
@@ -10185,7 +10185,7 @@ Aired 1998-01-31.
   drunk man (Clifford) and a woman (Tammy). They are first cousins, but are
   sexually involved.
 
-## CP-1020
+### CP-1020
 
 Aired 1998-02-28.
 
@@ -10205,7 +10205,7 @@ Aired 1998-02-28.
   the attic after beating a woman. Featuring Officer Kinard Hylton
   (uncredited).
 
-## CP-1021
+### CP-1021
 
 Aired 1998-03-07.
 
@@ -10221,7 +10221,7 @@ Aired 1998-03-07.
   Officer Dick Atkins, Sgt. John Griffin. Domestic violence call with a white
   woman who has been cut on her leg by a black man.
 
-## CP-1022
+### CP-1022
 
 Aired 1998-05-02.
 
@@ -10243,7 +10243,7 @@ Aired 1998-05-02.
   crack and he was trying to help her by preventing her from leaving the house
   to buy more drugs.
 
-## CP-1023
+### CP-1023
 
 Aired 1998-05-16.
 
@@ -10278,7 +10278,7 @@ Aired 1998-05-16.
   $200 and just left a bar and thought the people from the bar and her
   boyfriend were following her. She is drunk and is taken to the station.
 
-## CP-1024
+### CP-1024
 
 Aired 1998-08-01.
 
@@ -10301,7 +10301,7 @@ Aired 1998-08-01.
   Shooting call with a guy in a van shot in the back twice. Featuring Officer
   Richard Hammon.
 
-## CP-1025
+### CP-1025
 
 Aired 1998-04-04.
 
@@ -10314,7 +10314,7 @@ Aired 1998-04-04.
 - Skirt-clad flasher
 - suspected crack house.
 
-## CP-1026
+### CP-1026
 
 Aired 1998-06-20.
 
@@ -10324,7 +10324,7 @@ Aired 1998-06-20.
   car hit another and ran after leaving a bar which means it is probably a DUI.
   Hit-and-run chase; stolen vehicle; cat ownership; traffic dispute.
 
-## CP-1027
+### CP-1027
 
 Aired 1998-06-27.
 
@@ -10337,7 +10337,7 @@ Aired 1998-06-27.
   sort out a domestic dispute. A prostitute is found hiding beneath a bed in a
   motel room. A domestic dispute is settled.
 
-## CP-1028
+### CP-1028
 
 Aired 1998-02-07.
 
@@ -10355,7 +10355,7 @@ Aired 1998-02-07.
   to the police station to turn over some bags of marijuana they had just
   found.
 
-## CP-1029
+### CP-1029
 
 Aired 1998-04-18.
 
@@ -10369,7 +10369,7 @@ Aired 1998-04-18.
   Officer Jaramillo stops a suspect who aimed a realistic-looking toy gun at
   another youth.
 
-## CP-1030
+### CP-1030
 
 Aired 1998-07-25.
 
@@ -10388,7 +10388,7 @@ Aired 1998-07-25.
   sort out a domestic dispute involving twin sisters Linda (aka Sunny) and
   Skye.
 
-## CP-1031
+### CP-1031
 
 Aired 1998-03-21.
 
@@ -10404,7 +10404,7 @@ Aired 1998-03-21.
   takes control of the situation. Shooting incident; stabbing victim won't
   identify his attacker; suicidal suspect.
 
-## CP-1032
+### CP-1032
 
 Aired 1998-02-14.
 
@@ -10442,7 +10442,7 @@ Aired 1998-02-14.
   too drunk to hop a second fence. He lives with his son who takes care of him.
   He was upset he had to walk home from the bar to apartment 2.
 
-## CP-1033
+### CP-1033
 
 Aired 1998-04-25.
 
@@ -10455,7 +10455,7 @@ Aired 1998-04-25.
   knife; a woman claims her boyfriend beat her while she was holding her young
   child.
 
-## CP-1034
+### CP-1034
 
 Aired 1998-05-09.
 
@@ -10465,7 +10465,7 @@ Aired 1998-05-09.
   talks about the weather and getting used to it. Pit-bull attack; domestic
   dispute; fleeing suspects.
 
-## CP-1035
+### CP-1035
 
 Aired 1998-07-18.
 
@@ -10488,7 +10488,7 @@ Aired 1998-07-18.
   small ravine. Two drunks who went four wheeling in the woods and crashed
   their van over a cliff and cops get stuck on the way out.
 
-## CP-1036
+### CP-1036
 
 Aired 1998-02-07.
 
@@ -10504,7 +10504,7 @@ Aired 1998-02-07.
   Most of the officers are having a good time and there to have fun. Cpt. Doug
   Feltman -- Mitchell PD -- They only get to see these people once a year.
 
-# Season 11
+## Season 11
 
 1998-1999.
 
@@ -10513,7 +10513,7 @@ Aired 1998-02-07.
 - Palm Beach, FL
 - Arizona
 
-## CP-1101
+### CP-1101
 
 Aired 1998-10-24.
 
@@ -10532,7 +10532,7 @@ Aired 1998-10-24.
   transvestites who attempted to make a purchase purchase using a stolen credit
   card. Featuring Officer M. A. Carter and Sgt. W. T. Stallings.
 
-## CP-1102
+### CP-1102
 
 Aired 1998-09-12.
 
@@ -10577,7 +10577,7 @@ Aired 1998-09-12.
   Minter says the bullet went right through the head and they'll turn it over
   to homicide.
 
-## CP-1103
+### CP-1103
 
 Aired 1998-10-03.
 
@@ -10595,7 +10595,7 @@ Aired 1998-10-03.
   Carstaffin, Jr. apprehends a suspect who was badly injured after he leapt
   over the side of a bridge.
 
-## CP-1104
+### CP-1104
 
 Aired 1998-09-19.
 
@@ -10636,7 +10636,7 @@ Aired 1998-09-19.
   were going to beat him up and cries crocodile tears and then changes to
   defiance two seconds later.
 
-## CP-1105
+### CP-1105
 
 Aired 1998-09-26.
 
@@ -10651,7 +10651,7 @@ Aired 1998-09-26.
   he entered a vacant dwelling to protect the contents from intruders. Officer
   Price chases down two men riding in a stolen vehicle.
 
-## CP-1106
+### CP-1106
 
 Aired 1998-10-24.
 
@@ -10664,7 +10664,7 @@ Aired 1998-10-24.
 - Officers Cooper and Blakely arrest three men who had who attempted to elude
   police in a speeding car.
 
-## CP-1107
+### CP-1107
 
 Aired 1998-10-10.
 
@@ -10703,7 +10703,7 @@ Aired 1998-10-10.
   the men will come back, but they have nowhere to go. Grandma is bleeding, but
   says she's not in pain and the ambulance takes her away.
 
-## CP-1108
+### CP-1108
 
 Aired 1998-12-05.
 
@@ -10716,7 +10716,7 @@ Aired 1998-12-05.
   trailer park. Officers Lewis and Crenshaw uncover guns, drugs and handcuffs
   during a routine traffic stop.
 
-## CP-1109
+### CP-1109
 
 Aired 1998-12-19.
 
@@ -10731,7 +10731,7 @@ Aired 1998-12-19.
 - Officer Dakin discovers a car thief sleeping inside the vehicle he is
   suspected of having stolen.
 
-## CP-1110
+### CP-1110
 
 Aired 1999-01-09.
 
@@ -10744,7 +10744,7 @@ Aired 1999-01-09.
   three males bail out of a car he was chasing. car-jacking suspect; minivan
   catches fire; robber poses as parking-lot attendant.
 
-## CP-1111
+### CP-1111
 
 Aired 1999-01-16.
 
@@ -10755,7 +10755,7 @@ Aired 1999-01-16.
   partner is Officer Andrew T. Griffin. Chase through a park; stolen vehicle;
   ditched loaded weapon.
 
-## CP-1112
+### CP-1112
 
 Aired 1999-01-23.
 
@@ -10766,7 +10766,7 @@ Aired 1999-01-23.
   is bad like when children are involved. Officer is hurt in scuffle; assault
   case; arsonist; drug seizure.
 
-## CP-1113
+### CP-1113
 
 Aired 1999-03-06.
 
@@ -10784,7 +10784,7 @@ Aired 1999-03-06.
 - A suspect who vandalized and destroyed property in a property in a
   residential neighborhood is discovered perched on a rooftop.
 
-## CP-1114
+### CP-1114
 
 Aired 1998-10-31.
 
@@ -10800,7 +10800,7 @@ Aired 1998-10-31.
 - Officer Murphy attempts to sort out a domestic dispute involving a woman, her
   husband and her lover.
 
-## CP-1115
+### CP-1115
 
 Aired 1998-11-07.
 
@@ -10816,7 +10816,7 @@ Aired 1998-11-07.
 - Officer Miller assists an off-duty police officer who discovered an intruder
   breaking into his mother's home.
 
-## CP-1116
+### CP-1116
 
 Aired 1999-03-13.
 
@@ -10830,7 +10830,7 @@ Aired 1999-03-13.
 - Officers Bracey and McGuire sort out a domestic dispute at an apartment
   complex.
 
-## CP-1117
+### CP-1117
 
 Aired 1998-11-14.
 
@@ -10845,7 +10845,7 @@ Aired 1998-11-14.
   entered a trailer with a loaded pistol and informed the occupants that it was
   time to die.
 
-## CP-1118
+### CP-1118
 
 Aired 1998-11-21.
 
@@ -10864,7 +10864,7 @@ Aired 1998-11-21.
   Beach police officers question a man who claims a female suspect attacked and
   bit him as he attempted to remove some sausage from a refrigerator.
 
-## CP-1119
+### CP-1119
 
 Aired 1999-04-03.
 
@@ -10876,7 +10876,7 @@ Aired 1999-04-03.
   home. Officer Cooke assists several distressed residents as a hurricane bears
   down on the Virginia coast.
 
-## CP-1120
+### CP-1120
 
 Aired 1999-01-30.
 
@@ -10890,7 +10890,7 @@ Aired 1999-01-30.
   Hoffman lectures a married man and a prostitute about the health risks
   associated with sex-for-hire.
 
-## CP-1121
+### CP-1121
 
 Aired 1999-02-06.
 
@@ -10903,7 +10903,7 @@ Aired 1999-02-06.
   and prostitution ring that uses the Internet to solicit clients. Sgt. Ragali
   joins other officers in the investigation of an apparent suicide.
 
-## CP-1122
+### CP-1122
 
 Aired 1999-06-12.
 
@@ -10920,7 +10920,7 @@ Aired 1999-06-12.
 - Riviera Beach police officers investigate when two men throw a Molotov
   cocktail into a woman's bedroom window.
 
-## CP-1123
+### CP-1123
 
 Aired 1999-06-26.
 
@@ -10934,7 +10934,7 @@ Aired 1999-06-26.
   straighten her life out. Deputy Murray stops a self-professed sex addict
   addict who says he is looking for a prostitute.
 
-## CP-1124
+### CP-1124
 
 Aired 1999-09-04.
 
@@ -10948,7 +10948,7 @@ Aired 1999-09-04.
   help from a police dog named Joker, Deputy Yingling tracks down a suspect
   hiding in the bushes after fleeing the scene of a routine traffic stop.
 
-## CP-1125
+### CP-1125
 
 Aired 1999-02-20.
 
@@ -10961,7 +10961,7 @@ Aired 1999-02-20.
   investigates a claim that a landlord is attempting to extort sexual favors
   from a female tenant in exchange for her late rent payments.
 
-## CP-1126
+### CP-1126
 
 Aired 1999-06-19.
 
@@ -10975,7 +10975,7 @@ Aired 1999-06-19.
   man relieving himself in a residential neighborhood and discovers bags of
   marijuana in his possession.
 
-## CP-1127
+### CP-1127
 
 Aired 1999-02-13.
 
@@ -10989,7 +10989,7 @@ Aired 1999-02-13.
   flashing a mother and daughter as they waited in line at a fast food
   drive-thru window.
 
-## CP-1128
+### CP-1128
 
 Aired 1999-03-27.
 
@@ -11009,7 +11009,7 @@ Aired 1999-03-27.
   Palm Beach County Sheriff's Deputies Voiret and Glogowski question a woman
   who claims she threw a knife at her husband in an attempt to kill him.
 
-## CP-1129
+### CP-1129
 
 Aired 1999-04-10.
 
@@ -11026,7 +11026,7 @@ Aired 1999-04-10.
 - Deputy Voiret finds himself the target of a profanity-laced tirade when he
   attempts to arrest a suspect.
 
-## CP-1130
+### CP-1130
 
 Aired 1999-04-24.
 
@@ -11043,7 +11043,7 @@ Aired 1999-04-24.
   are riding in is stolen. Deputies praise a young girl for calling 911 to
   report an altercation between her mother and her knife-wielding boyfriend.
 
-## CP-1131
+### CP-1131
 
 Aired 1999-05-08.
 
@@ -11057,7 +11057,7 @@ Aired 1999-05-08.
   County become suspicious when a suspect has trouble spelling his own last
   name.
 
-## CP-1132
+### CP-1132
 
 Aired 1999-07-31.
 
@@ -11070,7 +11070,7 @@ Aired 1999-07-31.
   Police Officers pursue a stolen vehicle and observe the occupants tossing
   credit cards out the window.
 
-## CP-1133
+### CP-1133
 
 Aired 1999-05-01.
 
@@ -11085,7 +11085,7 @@ Aired 1999-05-01.
   woman who attempted to steal a bicycle during a sting operation. 400th
   episode.
 
-## CP-1134
+### CP-1134
 
 Aired 1999-05-15.
 
@@ -11100,7 +11100,7 @@ Aired 1999-05-15.
   Robertson assists a mini-mart clerk who says two suspects stole a case of
   beer from the store.
 
-## CP-1135
+### CP-1135
 
 Aired 1999-05-22.
 
@@ -11118,7 +11118,7 @@ Aired 1999-05-22.
   ends in a fired weapon; automobile accident; woman is injured during an
   argument.
 
-## CP-1136
+### CP-1136
 
 Aired 1999-09-18.
 
@@ -11134,7 +11134,7 @@ Aired 1999-09-18.
   arrest a man throwing things off a balcony; a man says his girlfriend ran
   into a field intending to commit suicide.
 
-# Season 12
+## Season 12
 
 1999-2000.
 
@@ -11142,7 +11142,7 @@ Aired 1999-09-18.
 - Fort Worth, TX
 - Albuquerque, NM
 
-## CP-1201
+### CP-1201
 
 Aired 1999-09-11.
 
@@ -11205,7 +11205,7 @@ Aired 1999-09-11.
   hit him, he deserved it. Then he says he could overpower them all with a kung
   fu jujitsu flip. They ask what that is and he says not to worry about it.
 
-## CP-1202
+### CP-1202
 
 Aired 2000-01-15.
 
@@ -11268,7 +11268,7 @@ Aired 2000-01-15.
   that call. She says she's going to make his dad fix the window. Mark says
   Friday night in Indianapolis, all he's got to say.
 
-## CP-1203
+### CP-1203
 
 Aired 1999-09-25.
 
@@ -11283,7 +11283,7 @@ Aired 1999-09-25.
   her. The Department organizes a reverse sting operation targeting Johns out
   to pick up prostitutes.
 
-## CP-1204
+### CP-1204
 
 Aired 1999-10-09.
 
@@ -11300,7 +11300,7 @@ Aired 1999-10-09.
   Speedway Police Officers come to the aid of two very young children who were
   locked out.
 
-## CP-1205
+### CP-1205
 
 Aired 1999-10-30.
 
@@ -11317,7 +11317,7 @@ Aired 1999-10-30.
   store security guard who observed two female suspects shoplifting clothing
   from the store.
 
-## CP-1206
+### CP-1206
 
 Aired 1999-12-11.
 
@@ -11328,7 +11328,7 @@ Aired 1999-12-11.
 - a teen overdoses on pain medication
 - a drug raid yields cocaine.
 
-## CP-1207
+### CP-1207
 
 Aired 1999-12-18.
 
@@ -11338,7 +11338,7 @@ Aired 1999-12-18.
 - driver crashes into a telephone pole;
 - foul-mouthed suspect quarrels with landlord and harasses his tenant.
 
-## CP-1208
+### CP-1208
 
 Aired 2000-01-15.
 
@@ -11349,7 +11349,7 @@ Aired 2000-01-15.
 - reckless motorcyclist
 - irate woman assaults an officer.
 
-## CP-1209
+### CP-1209
 
 Aired 1999-10-02.
 
@@ -11359,7 +11359,7 @@ Aired 1999-10-02.
 - Officer Faulk questions a motorist who accidentally drove her SUV through the wall of an apartment tenant's living room as she was attending to her crying child.
 - Indianapolis police officers respond to a report about a man brandishing a gun, only to observe a scale and a small bag of marijuana in his possession.
 
-## CP-1210
+### CP-1210
 
 Aired 1999-11-06.
 
@@ -11369,7 +11369,7 @@ Aired 1999-11-06.
 - car sale goes awry;
 - woman claims her husband assaulted her, and she fears retribution.
 
-## CP-1211
+### CP-1211
 
 Aired 1999-11-06.
 
@@ -11386,7 +11386,7 @@ Aired 1999-11-06.
 - Officer Watkins spots a partially-clad female dancing in a provocative manner
   on the hood of a parked car.
 
-## CP-1212
+### CP-1212
 
 Aired 1999-11-20.
 
@@ -11402,7 +11402,7 @@ Aired 1999-11-20.
 - woman facing multiple warrants begs not to be sent to jail
 - suspect tries hiding pot in a Bible.
 
-## CP-1213
+### CP-1213
 
 Aired 1999-11-27.
 
@@ -11442,7 +11442,7 @@ Aired 1999-11-27.
   heroin or "Boy & Girl" -- $1000 worth. Fred tells him the drugs have got to
   stop.
 
-## CP-1214
+### CP-1214
 
 Aired 1999-12-04.
 
@@ -11457,7 +11457,7 @@ Aired 1999-12-04.
   her husband's car. Officers arrest a profane young woman who manages to slip
   out of her handcuffs after being placed in the back of a patrol car.
 
-## CP-1215
+### CP-1215
 
 Aired 1999-11-13.
 
@@ -11468,7 +11468,7 @@ Aired 1999-11-13.
   weakest link.
 - Officers pursue drivers who refuse to stop.
 
-## CP-1216
+### CP-1216
 
 Aired 2000-01-08.
 
@@ -11489,7 +11489,7 @@ Aired 2000-01-08.
   some unusual help when a suspect detained during a routine traffic stop
   reveals that his companion is in possession of marijuana.
 
-## CP-1217
+### CP-1217
 
 Aired 2000-01-22.
 
@@ -11505,7 +11505,7 @@ Aired 2000-01-22.
 - Fort Worth, TX Police Officers hunt down two male suspects with some help
   from a helicopter equipped with infrared technology.
 
-## CP-1218
+### CP-1218
 
 Aired 2000-01-29.
 
@@ -11522,7 +11522,7 @@ Aired 2000-01-29.
 - Officer Maldonado questions a driver and his female passenger after they
   drive away from a house known for narcotics activity.
 
-## CP-1219
+### CP-1219
 
 Aired 2000-02-19.
 
@@ -11560,7 +11560,7 @@ Aired 2000-02-19.
   and spilled grease all over the floor then grabbed pliers. They put an EPO on
   him so he can't come back.
 
-## CP-1220
+### CP-1220
 
 Aired 2000-03-04.
 
@@ -11600,7 +11600,7 @@ Aired 2000-03-04.
   is going to Ramsey. Officer Sean Kenjura takes her info and both are cited
   for prostitution.
 
-## CP-1221
+### CP-1221
 
 Aired 2000-03-18.
 
@@ -11618,7 +11618,7 @@ Aired 2000-03-18.
   encounter a female victim with visible signs of injury who does not want to
   press charges.
 
-## CP-1222
+### CP-1222
 
 Aired 2000-03-25.
 
@@ -11632,7 +11632,7 @@ Aired 2000-03-25.
 - runaway teen
 - driver stopped multiple times.
 
-## CP-1223
+### CP-1223
 
 Aired 2000-04-08.
 
@@ -11643,7 +11643,7 @@ Aired 2000-04-08.
   driver owes $2000 tickets; father and son fight older man; marijuana found in
   cereal box.
 
-## CP-1224
+### CP-1224
 
 Aired 2000-04-22.
 
@@ -11655,7 +11655,7 @@ Aired 2000-04-22.
   woman claims a man tried to rape her; suspect's cell phone rings during
   questioning.
 
-## CP-1225
+### CP-1225
 
 Aired 2000-02-05.
 
@@ -11735,7 +11735,7 @@ Aired 2000-02-05.
   happened at the apartment. He didn't do anything with Charles. He keeps
   repeating everything. The Sgt. arrives and his car has two flat tires.
 
-## CP-1226
+### CP-1226
 
 Aired 2000-02-12.
 
@@ -11750,7 +11750,7 @@ Aired 2000-02-12.
 - Police question a female suspect who brandished a knife during an altercation
   with a motel security guard.
 
-## CP-1227
+### CP-1227
 
 Aired 2000-02-19.
 
@@ -11763,7 +11763,7 @@ Aired 2000-02-19.
   bird attacks an officer; man found with drugs; woman contemplates
   prostitution.
 
-## CP-1228
+### CP-1228
 
 Aired 2000-02-26.
 
@@ -11777,7 +11777,7 @@ Aired 2000-02-26.
   to the deputies about what happened. A dangerous high-speed pursuit; officer
   deals with a depressed woman; domestic dispute.
 
-## CP-1229
+### CP-1229
 
 Aired 2000-04-15.
 
@@ -11793,7 +11793,7 @@ Aired 2000-04-15.
   which a fight between neighbors led to a birthday cake being shoved into a
   woman's face.
 
-## CP-1230
+### CP-1230
 
 Aired 2000-04-29.
 
@@ -11809,7 +11809,7 @@ Aired 2000-04-29.
   males who attempted to pass a counterfeit twenty-dollar bill at a convenience
   store.
 
-## CP-1231
+### CP-1231
 
 Aired 2000-05-06.
 
@@ -11820,7 +11820,7 @@ Aired 2000-05-06.
   knife. They called the police. Suspects possess a gun and marijuana;
   prostitution sting.
 
-## CP-1232
+### CP-1232
 
 Aired 2000-05-13.
 
@@ -11842,7 +11842,7 @@ Aired 2000-05-13.
   Charles Gravis, Officer Shane Rodgers, Officer Briane Dennison. Grandmother's
   car stolen.
 
-## CP-1233
+### CP-1233
 
 Aired 2000-05-20.
 
@@ -11858,7 +11858,7 @@ Aired 2000-05-20.
 - road rage
 - uncooperative suspect
 
-## CP-1234
+### CP-1234
 
 Aired 2000-07-15.
 
@@ -11871,7 +11871,7 @@ Aired 2000-07-15.
   soda cup inside the car. An undercover detective posing as an interested john
   helps the Albuquerque Vice Unit snare a prostitute.
 
-## CP-1235
+### CP-1235
 
 Aired 2000-07-22.
 
@@ -11886,7 +11886,7 @@ Aired 2000-07-22.
   Garcia encounters two male suspects involved in an argument, one of whom
   punches the other in the nose.
 
-## CP-1236
+### CP-1236
 
 Aired 2000-07-29.
 
@@ -11900,7 +11900,7 @@ Aired 2000-07-29.
 - heroin possession
 - false report
 
-# Season 13
+## Season 13
 
 2000-2001.
 
@@ -11910,7 +11910,7 @@ Aired 2000-07-29.
 - Mesa, AZ
 - Best of
 
-## CP-1301
+### CP-1301
 
 Aired 2000-05-20.
 
@@ -11921,7 +11921,7 @@ This special has John Walsh travel with officers throughout the episode.
 - (12:49 AM Searching for Robbery Suspect) Zone 1 -- Officer Russell Johnson
   takes the call of a man sighted at a closed business.
 
-## CP-1302
+### CP-1302
 
 Aired 2000-09-02.
 
@@ -11931,7 +11931,7 @@ Aired 2000-09-02.
 - marijuana sale leads to foot chase
 - elderly woman falls asleep in bank restroom.
 
-## CP-1303
+### CP-1303
 
 Aired 2000-08-26.
 
@@ -11947,7 +11947,7 @@ Aired 2000-08-26.
   in the neck and back several times during an armed robbery, yet miraculously
   survived.
 
-## CP-1304
+### CP-1304
 
 Aired 2000-08-19.
 
@@ -11962,7 +11962,7 @@ Aired 2000-08-19.
   McNeil observes a group of individuals attempting to burglarize a decoy
   vehicle.
 
-## CP-1305
+### CP-1305
 
 Aired 2000-09-09.
 
@@ -11978,7 +11978,7 @@ Aired 2000-09-09.
   apartment building. Officer McNeil investigates a report of a disabled man
   selling counterfeit jewelry to unsuspecting customers.
 
-## CP-1306
+### CP-1306
 
 Aired 2000-10-14.
 
@@ -11993,7 +11993,7 @@ Aired 2000-10-14.
   mother raccoon and her three adorable babies from the residence. Officer
   Johnson investigates after he witnesses a driver pick up a female.
 
-## CP-1307
+### CP-1307
 
 Aired 2000-12-02.
 
@@ -12008,7 +12008,7 @@ Aired 2000-12-02.
   reported stolen earlier that day. Sheriff Meyer aids in the arrest of three
   suspects who burglarized a change machine at a coin-operated car wash.
 
-## CP-1308
+### CP-1308
 
 Aired 2000-12-16.
 
@@ -12019,7 +12019,7 @@ Aired 2000-12-16.
   jeopardizing the officer's safety. A neighborhood resident complains of male
   prostitution; officers remove a snake from a woman's home.
 
-## CP-1309
+### CP-1309
 
 Aired 2001-01-06.
 
@@ -12030,7 +12030,7 @@ Aired 2001-01-06.
   crimes. Officers search for missing marijuana; a man says his girlfriend's
   father damaged his belongings; a man denies assaulting a woman.
 
-## CP-1310
+### CP-1310
 
 Aired 2001-01-13.
 
@@ -12045,7 +12045,7 @@ Aired 2001-01-13.
   uncle stabbed him; a man says his daughter skipped school and smoked
   marijuana.
 
-## CP-1311
+### CP-1311
 
 Aired 2001-01-20.
 
@@ -12060,7 +12060,7 @@ Aired 2001-01-20.
   of the Organized Crime Unit serve a drug warrant inside an apartment, they
   discover signs of drug manufacturing and the remnants of crack cocaine.
 
-## CP-1312
+### CP-1312
 
 Aired 2001-01-27.
 
@@ -12070,7 +12070,7 @@ Aired 2001-01-27.
 - Lakewood PD -- Deputy Dan Wulick is on the way to a treat call and he's been there before. (1:03 AM Traffic Stop) He spots car with a broken windshield and pulls the woman over. The male passenger Ryan and her 5 year old daughter are in the back. She has no license, the passenger has no ID and just got out of jail on the 29th for heroin. He uses his booking sheet as ID where he has a beard which he has since shaved off. He has warrants, but says he didn't know. The kid cries and Deputy Dave Butts back him up. The woman says she has no drugs they know of. The car has a layer of garbage on the floor and in it they find a meth kit belonging to her husband. He just bought it today, but won't say where. The kid wants to know why.
 - Lakewood PD -- Deputy Joe Kolp says there are lots of mom and pop ships for soldiers in the area. (10:42 PM Domestic Disturbance Call) When he arrives a window is broken out, the woman says he called her a liar, drove 50 miles in his truck, he denied it and punched her, kicked her stuff and ran out. K-9 Deputy Greg Premo is brought in to look for him and they go down the train tracks north on the 4400 block, down in the woods and find him there. He's cuffed, has a $200 warrant and a police scanner. Deputy John Delgado frisks him.
 
-## CP-1313
+### CP-1313
 
 Aired 2000-11-04.
 
@@ -12090,7 +12090,7 @@ Aired 2000-11-04.
 - Lakewood PD -- Deputy Dan Wulick likes to stop in a convenience store to see Radar. He asks him if he has any new tricks and he shows him one with 2 clown noses and that there's been no problems lately. (11:21 PM Noise Complaint) He goes to a juvenile's party, but spots a fire on the way. People are trying to put out this huge fire with small fire extinguishers. He tries to get them to stop, then tries to clear out all the apartments, but people keep running back inside to grab stuff. One man thinks his daughter is still inside, but turns out she isn't. A woman runs back inside looking for her cat. She leaves and goes back in. Firefighters arriver and Officer John Giron from Dupont says the woman ran back inside again. Dan goes in the smoke filled apartment, grabs the car and throws him out, but gets a bad scratch in the process and bleeds down his hand.
 - Lakewood PD -- Deputy Joe Kolp likes hockey, plays all the time, works out, goes to movies, anything to get away from work. (2:23 AM Fight in Progress) Someone was hit by a 1989 Dodge Caravan. Deputy Monti Minion asks the victim for a description of the van and the driver. The man came barreling through a yard, the victim came out and told him to stop. The guy says to get his dog away, backed up and hit him, his fence and his furniture which are destroyed. Deputy Karin Lofling finds the van's license plate in the rubble -- 218 -- ? The catch the driver and go to ID him. Deputy Heath Page reads Anthony his rights. Deputy Les Bunton backs them up. Anthony is a loud mouth wise ass who doesn't understand his rights. The victims ID him and he doesn't know why he's being arrested, says to prove it since they are wrong. He admits he was there, but wasn't driving.
 
-## CP-1314
+### CP-1314
 
 Aired 2000-11-11.
 
@@ -12100,7 +12100,7 @@ Aired 2000-11-11.
 - Lakewood (11:05 PM Disturbance Call) Deputy Russ Martin goes to an apartment. Anna answers the door and says there's nothing going on. Alice wanted pork chops and she wanted cheeseburgers, so they fought. Anna's hand and face are bloody, but she says she ran into the bathroom wall, Alice stole $1000 from her and if Anna leaves she'll kill her outside. They go inside and talk to Alice and she says she didn't hit her or take the money. Alice then goes and gets the money, which she says is in her purse. Deputy Bill Pebley asks what's going to happen when they leave. Anna says she'll bury her and wants the cops to call her a cab so she doesn't run into another wall though there isn't any blood on the wall now.
 - Deputy Eric Carlson says his wife does a great job running the house to allow him to work graveyard, which he loves. (10:34 PM Traffic Stop) He spots a speeding white truck that might be stolen. When he catches up to the truck it is abandoned. Witnesses saw a short, stubby white guy in a t-shirt running through a yard. K-9 Deputy Greg Premo and Max are brought in. The woman at 1407 says he tried to get into her house. He took the keys to the truck and ran out of his shoes. The K-9 tracks him 2 blocks away by a chain link fence. He is an older guy and says he wasn't running, just sleeping in the weeds. He is covered in sweat, has no shoes and says he left them at the bar. His name is Dave, but he has no ID and was lying there 2 hours. He is asked if he knows what obstruction is. He admits he has 2 DWI's. An old black guy comes over to ID him. He wears a size 9 shoe and the sandals they found fit him perfectly. Eric wears a size 12 and says to Dave "liar, liar pants on fire."
 
-## CP-1315
+### CP-1315
 
 Aired 2000-11-18.
 
@@ -12110,7 +12110,7 @@ Aired 2000-11-18.
 - South Hill Precinct (5:49 PM Suspicious Person Call) Officer Matt Goulds goes to the 2200 block and stops a man, John, walking down the street. He admits he doesn't live there, is homeless and used to stay with his parents. He lives on 46 near the trees. His DOB is 10/16/66 and he lost his license for not paying his tickets. He is searched for weapons and finds his pockets full of junk. He has needles in a case so Matt stops and put gloves on. He has a warrant for a suspended license and unpaid tickets since 1988. His knapsack is full of rocks because he collects them since he has nothing else to do and some are pretty cool. He's trying to quit meth, but didn't want to toss the needles, he has no dope, he's the only dope here. He's inspiring to be a professional rock collector someday. Matt cuts him loose, but has to leave the area.
 - Lakewood -- Deputy Dan Wulick runs into a lot of people he used to go to school with. (1:51 AM Theft Call) Lakewood -- Deputy Dan Wulick says he grew up in the Tacoma area and runs into a lot of people he grew up with. He rode his bike there and went to the movies, it's good to protect your neighborhood. A gray mini van with thee women in it fled from the scene and he goes to look for them. He spots a van on West Thorn and Union behind the Yellow restaurant. They are parked with the door open. He has the driver who is wearing a long stocking cap get out. She has no weapons, no ID. She asks what she did. He says she's being detained for theft. She says she didn't do anything. They said it was the girl with the green hair, she has green hair and not many people have green hair. She says the truth is she didn't do it; it was Kristen, the girl with the burgundy hair. She told Melissa to wait and she jumped out and grabbed a CD case. Kris gets out and CDs fall on the ground. He tells her not to pick them up. She asks what she's being arrested for. She has a pierced nose and lip and 5 or more in each ear. She says they weren't in his truck, they were next to his truck and she picked them up. He went to use the phone and he left the CDs behind and she grabbed them. The victim arrives and says all the ones in the case are his. Officer Mike Yamada says there is no way they fell out. There is Kiss, Metallica and Kid Rock. He went back to the truck and a woman saw them take them. Kris cries when she's charged with second degree burglary, since the value is over $250, it's a felony. The other girls are let loose for being honest. She wants to go get her cigarettes. 450th Episode.
 
-## CP-1316
+### CP-1316
 
 Aired 2000-11-25.
 
@@ -12120,7 +12120,7 @@ Aired 2000-11-25.
 - (10:21 PM Narcotics Sting) Deputy Russ Martin talks to undercover cops about a white van that comes to sell drugs. Russ races off to catch the van and pulls it over in a Chevron gas station. The white female driver is called out and cuffed, then a black male passenger. Detective Chris Grant finds a bag of coke she dropped and $300 in rocks in a Tylenol container. Detective Curt Beaupree counts $362 in cash, but they don't sell any dope. Curt says they have him on video. He is on probation and she didn't know what was going on, the guy threw drugs at her.
 - (2:02 AM Traffic Stop) Deputy Dan Wulick says summer is extremely busy, winter is cold so it's quieter, more domestics. He pulls over a car for a cracked windshield and it takes a while for them to stop. The black driver's license is expired, suspended in the third degree, but he's working on it. He has to climb through the window to get out because the door is stuck. When he hops out they see a loaded gun in his waistband. The white passenger is smoking out the window. The driver has no gun permit, was repairing the car and found a meth pipe and put it in his pocket. It's not his and the gun was given to him by a kid, so he was trying to figure out what to do with it. He has 3 charges, but is cooperative. He didn't want to reach for the gun or hide it. The passenger's license is suspended, so the car is towed.
 
-## CP-1317
+### CP-1317
 
 Aired 2001-03-03.
 
@@ -12130,7 +12130,7 @@ Aired 2001-03-03.
 - Lakewood PD -- Deputy Steve Parr doesn't get to deal with people who want to see him, they seem him because they have to. (12:03 AM Robbery Call) at a motel. Deputy William Melhoff meets him there. They go to a room and talk to a guy. He says it was room 4 and has a half-inch ash on his cigarette. He says a woman ripped him off for the $20 he paid her to get groceries, even though he's never seen her before. He has $1,750 dollars cash on him, but won't say how he got it. He pulled the money out of his pocket and she grabbed it all and took off. He says she came to the door to get him groceries. Then she was walking by and it was a nice, sunny day, but it took him 13 hours to call the police. There are no stores around. Steve says there are some 5 minutes away. He finally admits he was trying to buy $25 worth of crack. Steve explains he's not going to get his money back since it was a drug deal gone bad.
 - (12:54 AM Hit & Run) Deputy Lincoln Hales gets a call that neighbors are chasing a guy in a Lincoln Continental who crashed into some cars. He hit a bunch of cars and people ran outside and jumped him when he came back. He's drunk, had more than he needed and wants a cigarette. Lincoln asks him if he has a license. He says he does, just lost his marbles. A witness says he heard him doing doughnuts, drove up a yard, through a fence, into a van, reversed, hit a white car, slammed into a pickup, came back, hits a car, then a pickup. They give chase and the guy jumps into his truck and they block him in. He took out 40 feet of his own fence, knocked out his window and still has a 6 pack of Busch on the seat. Deputy Ryan Larson questions other witnesses.
 
-## CP-1318
+### CP-1318
 
 Aired 2001-03-10.
 
@@ -12139,7 +12139,7 @@ Aired 2001-03-10.
 - (12:56 AM Traffic Stop) South Hill Precinct Sheriff's Dept -- Deputy Robert Fishe got out of the army and worked at the Pierce County jail for 8 years. He's been on the streets for 2 years now and it's exciting ever since. He runs an Oklahoma plate on a blue car that comes back expired and goes to pull the car over with 3 males inside. They drive west on 92nd into the apartments and drive around and around and bail out. They run to the Southhampton Apts and the K-9 is brought in. One gives up to Deputy Dan Wulick, the second one is caught by Deputy Jeff Reigle who says he caught one of these guys last week. Deputy Lincoln Hales turned him over to his mom last week. She was mad, said it was his first time stealing. They caught the driver and the passenger had warrants. Deputy Jason LaLiberte goes to a domestic dispute where the man, Donald, says the woman got mad because she wants a cigarette. He goes upstairs to talk to her and there is a sign that reads 'No visitors -- go away' on the door. She says she gets no respect and hit her with a lampshade. He goes back down and Don took off. Don is later caught and says he didn't do anything, won't talk to nobody, he didn't run, he just walked away and had nothing to do with anything. She bumped the lamp and it shattered. He was asleep and she woke him up, she's on the rag, cheats on him, yells and screams at him. He went to jail in January for DWLS & Malicious mischief.
 - (10:42 PM Traffic Stop) Deputy Eric Carlson says it's a lot of fun to help out the community. He goes to pull over a car that won't stop and rolls along at 10mph, then speeds off, then stops and bails out. The Mexican is caught, resists and is cuffed. He is taken back to the car and Deputy Jerry Tiffany checks him. The guy says he doesn't speak English. They go back to find a bag of coke he tossed.
 
-## CP-1319
+### CP-1319
 
 Aired 2001-03-17.
 
@@ -12149,7 +12149,7 @@ Aired 2001-03-17.
 - (8:31 PM Hit and Run) South Hill Precinct -- Deputy Jeff Galloway says someone called it in on a cellphone. He chases the older lady after she hit a car and two cars followed her. She hit a ditch and has no headlights. Deputy Michael Hilden busts her for DUI, but she refused the test, has a warrant and no license. They go back to the victims, 2 girls in a Suzuki Samurai Sidekick. Deputy Carmela Buchannon comes up to the disabled car.
 - (1:51 AM Suspicious Vehicle) Lakewood PD -- Deputy Kevin Roberts finds lots of stolen cars. Three people are working on a car in the street with the hood up. Deter says he just bought the car and keeps working on it after he's told to stop. He walks by Kevin and gets in the car. Deputy Karin Lofing-Newman backs him up. Mike is calm, but Peter has a warrant he didn't know about. There is a crack pipe in the other car. Deputy William Melhloff busts Mike because he has dope in a pack of Marlboros and meth that is tested and comes up blue. Abigail says the pipe isn't hers, doesn't know about the drugs, but has a warrant.
 
-## CP-1320
+### CP-1320
 
 Aired 2000-11-04.
 
@@ -12160,7 +12160,7 @@ Aired 2000-11-04.
 - (3:21 AM Pursuit in Progress) South Hill Precinct -- Sgt. Paul Schnieder chases a motorcycle and when K-9 arrives the suspect Robert is caught. Robert is wired, has been arrested several times, the bike has no ignition, it's painted black, but the wheels are still purple. There's no plates, he's wearing sunglasses, his helmet has 100s of little holes in it. Rob says he just did 5 months of probation. Deputy Chad Carr asks him about the bike. Rob says it belongs to a friend who is in jail and doesn't know his name. Walsh used to race motorcross and can't believe this guy.
 - (4:12 AM Assistance Call) He stops a car with a lab. Deputy Les Bunton and Deputy Ryan Larson (TODO: was this originally Chris Larson?) caught him. The guy cooked it in the woods, loaded the car with a mask, tubes, funnel, pitchers and jars. It smells powerful and the guy says he learned how to cook it on the Internet.
 
-## CP-1321
+### CP-1321
 
 Aired 2001-03-24.
 
@@ -12192,7 +12192,7 @@ Aired 2001-03-24.
   fence. EMT looks at him and the 2000 model car was stolen off a lot two days
   ago.
 
-## CP-1322
+### CP-1322
 
 Aired 2001-04-07.
 
@@ -12202,7 +12202,7 @@ Aired 2001-04-07.
 - (12:32 AM Stabbing Call) Sgt. John Solheim went to get a new ID because they forced him to and that's why he looks so unhappy on it. He arrives on the scene and the fat, white woman says she was cutting onions and didn't mean to stab him, cries and slapped him while Deputy Joe Kolp was there. The knife is in the sink and he left to apartment 24. Deputy Monti Minion talked to the black victim who just got back from serving in the military overseas. She hit him 15 times and gave him a bloody lip. He slapped her and she went and grabbed the knife and stabbed him in the side and now his shirt is all bloody. He stopped her by blocking her blows which made her mad. He couldn't ID the butcher knife and says it was in the sink.
 - (12:47 AM Suspicious Activity) Deputy Dan Wulick played drums in an alternative band for 2 years, but made no money, got old and lived in a small apartment only eating mac & cheese. He needed a real job. He goes to a meth lab at a hotel, room 18. He knocks and the guy yells "who is it?" He is told, says no problem, won't fight. There are 2 shirtless guys on a bed and a girl there. One has a briefcase, the other is drinking and wants to put his shoes on. The guy with the case is cuffed and backup arrives, cuffs the others and leads them outside. The case holds a drug lab, there is a bong under the bed, paraphernalia on the dresser, a cooler full of chemicals and acetone. The bathroom has mason jars inside. Deputy Jason Harms talks to them. Rob is out on bail for firearms and a plea bargain for drugs. The special lab unit is then brought in.
 
-## CP-1323
+### CP-1323
 
 Aired 2000-04-14.
 
@@ -12212,7 +12212,7 @@ Aired 2000-04-14.
 - While investigating a claim that a husband choked his wife, Deputy Kolp determines that the squalid condition of the couple's residence poses a threat to the health of the woman's newborn child.
 - Deputies Hibben and Bunton investigate when the body of an armed robber is discovered in a yard.
 
-## CP-1324
+### CP-1324
 
 Aired 2001-04-28.
 
@@ -12249,7 +12249,7 @@ Aired 2001-04-28.
   number is scraped off. They also find bags of Sudafed and other meth lab
   equipment. The truck is stolen and he is arrested on 3-4 felonies.
 
-## CP-1325
+### CP-1325
 
 Aired 2001-05-05.
 
@@ -12276,7 +12276,7 @@ Aired 2001-05-05.
   K9 which finds him behind the dumpster wedged in. He has to be pulled out
   after the dog bit him. He has no license and warrants.
 
-## CP-1326
+### CP-1326
 
 Aired 2001-05-12.
 
@@ -12294,7 +12294,7 @@ Aired 2001-05-12.
   house and receives some unexpected help when the woman claims her boyfriend
   has crack cocaine.
 
-## CP-1327
+### CP-1327
 
 Aired 2001-02-03.
 
@@ -12304,7 +12304,7 @@ Aired 2001-02-03.
 - Officers Garrison and Gonzalez help rescue a warehouse security guard who was forced into the back of a truck and stripped down to his underwear after encountering five intruders.
 - Officers McCormick and Ramos help an injured little girl who was struck by a car after her brother chased her out into the street.
 
-## CP-1328
+### CP-1328
 
 Aired 2001-02-10.
 
@@ -12314,7 +12314,7 @@ Aired 2001-02-10.
 - With the help of a Lojack anti-theft tracking device, Sergeant Cruz and Detective Kearns pinpoint an expensive piece of stolen construction equipment in a man's garage.
 - Officers Scanlon and Santiago apprehend a suspected purse snatcher.
 
-## CP-1329
+### CP-1329
 
 Aired 2001-02-17.
 
@@ -12332,7 +12332,7 @@ Aired 2001-02-17.
 - Officers Mike and Ron Babiak help rescue a woman being held at knifepoint
   inside a suspect's apartment.
 
-## CP-1330
+### CP-1330
 
 Aired 2001-02-24.
 
@@ -12350,7 +12350,7 @@ Aired 2001-02-24.
 - Officers Santana and Ferrari arrest a man who broke into a building in an
   attempt to steal copper.
 
-## CP-1331
+### CP-1331
 
 Aired 2001-04-28.
 
@@ -12363,7 +12363,7 @@ Aired 2001-04-28.
 - An officer pursues a stolen motorcycle
 - a man assaults his family.
 
-## CP-1332
+### CP-1332
 
 Aired 2001-05-05.
 
@@ -12394,7 +12394,7 @@ Aired 2001-05-05.
   himself. The white guy applied there for a job and because he didn't get it
   he came back and robbed them.
 
-## CP-1333
+### CP-1333
 
 Aired 2001-05-12.
 
@@ -12407,7 +12407,7 @@ Aired 2001-05-12.
 - burglary
 - stolen vehicle.
 
-## CP-1334
+### CP-1334
 
 Aired 2001-05-19.
 
@@ -12419,7 +12419,7 @@ Aired 2001-05-19.
 - Officers question a man who says his girlfriend was destroying his house
 - A woman says her ex-boyfriend beat her.
 
-## CP-1335
+### CP-1335
 
 Aired 2001-05-19.
 
@@ -12441,7 +12441,7 @@ Aired 2001-05-19.
   victims who were wounded when an unknown assailant opened fire on their car
   and then fled the scene.
 
-## CP-1336
+### CP-1336
 
 Aired 2001-07-07.
 
@@ -12457,7 +12457,7 @@ Aired 2001-07-07.
 - While performing a routine vehicle stop, Officer Walker discovers a concealed
   weapon and drug paraphernalia.
 
-## CP-1337
+### CP-1337
 
 Aired 2001-02-21.
 
@@ -12467,7 +12467,7 @@ Aired 2001-02-21.
 - (Pierce County, WA -- 9:04 PM Shoplifting Call) CP-919
 - (Las Vegas, NV -- 8:03 PM Briefing) CP-1002
 
-## CP-1338
+### CP-1338
 
 Aired 2001-02-24.
 
@@ -12479,7 +12479,7 @@ Aired 2001-02-24.
 - (Fresno, CA -- 9:37 PM Car Stop) CP-928
 - (Fort Worth, TX -- 3:31 PM Street Patrol) CP-1216
 
-## CP-1339
+### CP-1339
 
 Aired 2001-02-25.
 
@@ -12490,7 +12490,7 @@ Aired 2001-02-25.
 - (Sacramento, CA -- 6:23 PM Traffic Stop) CP-608
 - (Atlanta, GA -- 3:37 AM Traffic Stop) CP-1101
 
-## CP-1340
+### CP-1340
 
 Aired 2001-02-26.
 
@@ -12501,7 +12501,7 @@ Aired 2001-02-26.
 - (Martin County, FL -- 4:27 PM Assistance Call) CP-1127
 - (Las Vegas, NV -- 8:56 PM Street Patrol/Now Assistance Call) CP-716
 
-## S-1301
+### S-1301
 
 Aired 2001-05-??.
 
@@ -12525,7 +12525,7 @@ Aired 2001-05-??.
 - (Fort Worth, TX -- 10:05 PM House Fire Call) CP-816
 - (Pomona, CA -- 12:03 AM Pursuit In Progress)
 
-# Season 14
+## Season 14
 
 2001-2002.
 
@@ -12539,7 +12539,7 @@ Aired 2001-05-??.
 - San Bernardino, CA
 - Best of
 
-## CP-1401
+### CP-1401
 
 Aired 2001-12-01.
 
@@ -12556,7 +12556,7 @@ Aired 2001-12-01.
   tries to give undercover officers the slip by running through a busy
   intersection.
 
-## CP-1402
+### CP-1402
 
 Aired 2001-12-15.
 
@@ -12564,7 +12564,7 @@ Aired 2001-12-15.
 
 - (12:23 AM Domestic Disturbance) Deputy Lower responds to a report of a suspect kicking in the front door of a house, and when he arrives at the scene, Lower discovers the suspect holding a knife to another man's throat. Deputy Smith assists other officers pursuing a suspect who fled while being served a warrant. Deputy Lower helps apprehend a suspect who pulled off a robbery and fled with a multitude of construction tools.
 
-## CP-1403
+### CP-1403
 
 Aired 2002-01-05.
 
@@ -12572,7 +12572,7 @@ Aired 2002-01-05.
 
 - (1:11 PM Briefing) Narcotics Unit -- Sgt. Marios Martinez says they bought from a guy the night before and if he is there tonight they'll bust him. They want to keep the CI out of it while buying 7oz of coke. The verbal sign is "It's party time" the signal is the hat out the window. Sheriff's Office Narcotics Unit uses a vehicle furnished with advanced surveillance equipment to assist with the apprehension of drug dealers. Officer Villiers assists a woman who claims her child's father threatened her with a knife when he discovered that they lost custody of their child. Deputy Villiers assists a victim who claims an estranged friend hit him with a shovel because he owed him twenty dollars.
 
-## CP-1404
+### CP-1404
 
 Aired 2002-03-06.
 
@@ -12580,7 +12580,7 @@ Aired 2002-03-06.
 
 - (10:02 PM Street Patrol) Tactical Unit -- Deputy Kevin Marks says he has been on the force seven years and three years with another unit. His partner is Deputy Keith Burns and he says they are both on the same page. Keith wanted to be a cop since he was a kid. The pay is bad, but the satisfaction outweighs that.
 
-## CP-1405
+### CP-1405
 
 Aired 2002-03-23.
 
@@ -12588,7 +12588,7 @@ Aired 2002-03-23.
 
 - (11:27 PM Man with a Knife Call) District 1 -- Deputy David Sims went up to New York expecting to get real NY pizza and his friend went and ordered Dominos so he was disappointed. Police chase a suspicious man who was loitering in a parking lot; domestic dispute at a mobile-home park.
 
-## CP-1406
+### CP-1406
 
 Aired 2002-04-13.
 
@@ -12596,7 +12596,7 @@ Aired 2002-04-13.
 
 - (9:57 PM Suspicious Vehicle) Tactical Unit -- Deputy Keith Burns and Deputy Kevin Marks drive in an unmarked car and say it is better for catching criminals unaware. The windows are darkened and there is no lightbar. They are like ninjas and samurai in stealth mode. They attempt to stop a suspicious vehicle after determining that the owner has an extensive arrest record which includes assaulting a police officer. Deputy Lower stops a car when it is determined the occupants might be linked to a recent robbery. Deputy Fresneda questions a man who claims to have gotten into a fight with a second man after he threw a brick at his car.
 
-## CP-1407
+### CP-1407
 
 Aired 2002-04-20.
 
@@ -12604,7 +12604,7 @@ Aired 2002-04-20.
 
 - (8:47 PM Man with a Knife) District 1 -- Corporal John Cogburn says with the Marine division they have a wide environment to cover from the city to the cane fields. A disturbance at a traffic stop. A suspect hides in foliage; prostitution sting; stolen vehicle.
 
-## CP-1408
+### CP-1408
 
 Aired 2001-09-01.
 
@@ -12612,7 +12612,7 @@ Aired 2001-09-01.
 
 - (4:53 AM Burglary in Progress) District 1 -- 911 Communications Center -- A black woman calls saying she is watching two men breaking into cars and stealing the stereos at her apartment complex. Deputy Gerard Morency takes the call. An officer responds to a burglary in progress; a suspect refuses to present identification.
 
-## CP-1409
+### CP-1409
 
 Aired 2001-09-01.
 
@@ -12620,7 +12620,7 @@ Aired 2001-09-01.
 
 - (7:17 PM Man with a Gun Call) Zone 3 -- Officer Mike Griffin talks about the history of the city through the civil war to Martin Luther King, Jr. He questions a mother who claims she confronted an armed man who attempted to pick up her daughter. While patrolling a restaurant where there have been several complaints of prostitution and drug activity, Officer Stegner spots a man and woman emerging suspiciously from behind a dirt hill. Officers Watson and Cooper pursue an armed and dangerous robbery suspect who collides with another vehicle in the middle of a busy intersection and flees on foot.
 
-## CP-1410
+### CP-1410
 
 Aired 2001-09-08.
 
@@ -12630,7 +12630,7 @@ Aired 2001-09-08.
 - Atlanta, GA
 - (Chattanooga, TN -- 2:54 AM Street Patrol) Officer Brian Russell
 
-## CP-1411
+### CP-1411
 
 Aired 2001-11-10.
 
@@ -12640,7 +12640,7 @@ Aired 2001-11-10.
 - (Chattanooga, TN -- 2:12 AM Suspicious Person Call) Fox Station -- Officer Brian Russell says he never discussed with his wife about being a cop. He then goes a gas station where a U Haul is parked and they open it to find a dirty old hippie couple sleeping naked inside with their dog. The guy has no ID because it got burned in a fire, but later says he had permission to be there. They just got back from Arkansas and had nowhere to stay.
 - (Atlanta, GA -- 5:30 AM Traffic Stop) Zone 1 -- Officer Frank Huff stops a car for having no license plate lights. He stops and when the cop gets out he drives off across town. He pulls off into a neighborhood and runs into the woods and is caught. He crashed into three cars along the way and had no license.
 
-## CP-1412
+### CP-1412
 
 Aired 2001-09-15.
 
@@ -12650,7 +12650,7 @@ Aired 2001-09-15.
 - (Chattanooga, TN -- 4:13 PM Public Disorder Call) Officer Brian Miller likes to play golf. Officer Christopher Smith. Domestic disturbance.
 - (Atlanta, GA -- 5:05 AM Traffic Stop) Officer Tim Fenner, Officer Dorian Graham. Car chase.
 
-## CP-1413
+### CP-1413
 
 Aired 2001-09-22.
 
@@ -12660,7 +12660,7 @@ Aired 2001-09-22.
 - (Chattanooga, TN -- 2:51 AM Domestic Disturbance) Officer Kevin Willoughby. Domestic dispute.
 - (Des Moines, IA -- 10:25 PM Suspicious Vehicle) Officer Mike Moody and Officer Raymond Gallardo. Suspicious vehicle.
 
-## CP-1414
+### CP-1414
 
 Aired 2001-09-29.
 
@@ -12670,7 +12670,7 @@ Aired 2001-09-29.
 - (Des Moines, IA -- 3:45 PM Fight Call) Officers Joe Morgan and Lorna Helle question two brothers who were involved in a fistfight.
 - (Atlanta, GA -- 1:35 AM Street Patrol) Officer Mark Cotter interviews a woman who claims that her boyfriend allegedly punched her in the mouth while she was walking down the street.
 
-## CP-1415
+### CP-1415
 
 Aired 2001-10-06.
 
@@ -12680,7 +12680,7 @@ Aired 2001-10-06.
 - In Des Moines, IA -- Officers Wilson and Matalone are called to a residence to investigate a domestic dispute and after finding broken glass and drops of blood at the front door, their attention shifts to the unsanitary conditions of the kitchen area.
 - In Atlanta, GA, Officers Huff and Strickland assist an undercover unit after a suspicious vehicle is discovered.
 
-## CP-1416
+### CP-1416
 
 Aired 2001-11-17.
 
@@ -12690,7 +12690,7 @@ Aired 2001-11-17.
 - In Fort Worth, TX, Officer Eddleman happens upon a fire at a local motel, a blaze later determined to be the work of an arsonist.
 - In Des Moines, IA, Officer Cornwell gives chase when a speeding motorcyclist ditches his vehicle and flees on foot.
 
-## CP-1417
+### CP-1417
 
 Aired 2001-11-24.
 
@@ -12700,7 +12700,7 @@ Aired 2001-11-24.
 - (Chattanooga, TN -- 12:43 AM Domestic Disturbance Call) Officer Kevin Willoughby questions a woman with a large plug of hair missing from the back of her head, which she she claims was the result of being assaulted by a man she met at an AA meeting.
 - (Des Moines, IA -- 2:15 AM Suspicious Vehicle) Officer Chris Curtis loses sight of a fleeing suspect, and with the help of a witness, discovers the man relieving himself in a public port-a-potty.
 
-## CP-1418
+### CP-1418
 
 Aired 2001-12-01.
 
@@ -12710,7 +12710,7 @@ Aired 2001-12-01.
 - (Chattanooga, TN -- 12:32 AM Suspicious Vehicle) Officer Michael Pendygraft stops and questions a suspect who claims he was on his way to a friend's house, but during a routine search, the officer uncovers a large quantity of marijuana crammed into the suspect's pants.
 - (Des Moines, IA -- 7:30 PM Dispute Call) Officer Chad Cornwell
 
-## CP-1419
+### CP-1419
 
 Aired 2002-01-19.
 
@@ -12721,7 +12721,7 @@ Aired 2002-01-19.
 - In Des Moines, IA -- Officer Morgan assists a father whose five-year-old son
   suddenly ran out of the house and disappeared into the neighborhood.
 
-## CP-1420
+### CP-1420
 
 Aired 2002-02-02.
 
@@ -12742,7 +12742,7 @@ Aired 2002-02-02.
 - (Des Moines, IA -- 4:47 PM Assistance Call) Officer Kenneth Brown, Officer
   John Poplawski.
 
-## CP-1421
+### CP-1421
 
 Aired 2002-01-12.
 
@@ -12763,7 +12763,7 @@ Aired 2002-01-12.
   a high school history teacher and responds to an attempted robbery at a local
   residence.
 
-## CP-1422
+### CP-1422
 
 Aired 2002-01-26.
 
@@ -12786,7 +12786,7 @@ Aired 2002-01-26.
 - (Chattanooga, TN -- 10:03 PM Disturbance Call) Officers Christopher Smith and
   Brian Miller.
 
-## CP-1423
+### CP-1423
 
 Aired 2002-02-09.
 
@@ -12807,7 +12807,7 @@ Aired 2002-02-09.
   Street Crimes Unit arrests several suspected drug dealers during a buy-bust
   operation.
 
-## CP-1424
+### CP-1424
 
 Aired 2002-02-16.
 
@@ -12827,7 +12827,7 @@ Aired 2002-02-16.
 - In Fort Worth, TX Officers Mendoza and Nolan search a driver's vehicle after
   observing the occupants leaving a house used for drug dealing.
 
-## CP-1425
+### CP-1425
 
 Aired 2002-02-23.
 
@@ -12852,7 +12852,7 @@ Aired 2002-02-23.
 - (Chattanooga, TN -- 12:22 AM Traffic Stop) Officer Kevin Willoughby
   apprehends a driver who ignored instructions to pull over.
 
-## CP-1426
+### CP-1426
 
 Aired 2002-03-02.
 
@@ -12867,7 +12867,7 @@ Aired 2002-03-02.
   the suspect's description is spotted running across a nearby river.
 - Tampa, FL -- Officer Dennison searches.
 
-## CP-1427
+### CP-1427
 
 Aired 2002-02-23.
 
@@ -12885,7 +12885,7 @@ Aired 2002-02-23.
   with an expired registration and, upon searching the vehicle discover a
   shotgun, drugs and more.
 
-## CP-1428
+### CP-1428
 
 Aired 2002-03-09.
 
@@ -12943,7 +12943,7 @@ Aired 2002-03-09.
   can take it to. They should've looked in their rearview at least before they
   do something stupid.
 
-## CP-1429
+### CP-1429
 
 Aired 2002-03-16.
 
@@ -12953,7 +12953,7 @@ Aired 2002-03-16.
 - Fort Worth, TX
 - Tampa, FL
 
-## CP-1430
+### CP-1430
 
 Aired 2002-04-06.
 
@@ -12984,7 +12984,7 @@ Aired 2002-04-06.
   and he gets belligerent. The cops talk to him and find out he is on parole
   and now he can go back to jail for Christmas.
 
-## CP-1431
+### CP-1431
 
 Aired 2002-04-27, after CP-1432.
 
@@ -13004,7 +13004,7 @@ Aired 2002-04-27, after CP-1432.
   Peterson used to work in construction.
 - (Fort Worth, TX -- 7:52 PM Domestic Disturbance Call) Officer W. E. Spakes
 
-## CP-1432
+### CP-1432
 
 Aired 2002-04-27, before CP-1431.
 
@@ -13016,7 +13016,7 @@ Aired 2002-04-27, before CP-1431.
 - (Hillsborough County, FL -- 12:03 AM Suspicious Vehicle) Deputy Richard Fitzpatrick.
 - (Fort Worth, TX -- 12:49 AM Suspicious Activity) Officer Paul Ufkes. A suspect drives a car backward down a one-way street.
 
-## CP-1433
+### CP-1433
 
 Aired 2002-09-21.
 
@@ -13077,7 +13077,7 @@ Aired 2002-09-21.
   clothes since they aren't hers. They can't prove she stole the truck, so
   she'll get trespassing.
 
-## CP-1434
+### CP-1434
 
 Aired 2002-04-27.
 
@@ -13107,7 +13107,7 @@ Aired 2002-04-27.
 - (New Orleans) Officer David Morel, Officer Desiree Gaudet. Nudity at Mardi
   Gras. (This is from CP-232)
 
-## CP-1435
+### CP-1435
 
 Aired 2002-04-27.
 
@@ -13121,7 +13121,7 @@ Aired 2002-04-27.
 - (Kodiak, AK -- 10:08 PM Disturbance Call) Sgt. John Palmer out of the Kodiak, AK Police Department arrests 2 females. This is segment 2 of CP-309.
 - (San Bernardino, CA -- 8:05 PM Disturbance Call) Deputy Don Lupear
 
-## CP-1436
+### CP-1436
 
 Aired 2002-09-14.
 
@@ -13141,7 +13141,7 @@ Aired 2002-09-14.
 - (Bernalillo County, NM -- 1:34 AM Car Pursuit) Deputy Leonard Armijo, Deputy
   Casey Ireland. Car chase.
 
-# Season 15
+## Season 15
 
 2002-2003.
 
@@ -13171,7 +13171,7 @@ Aired 2002-09-14.
 - San Bernardino, CA
 - Tampa, FL
 
-## CP-1501
+### CP-1501
 
 Aired 2002-05-04.
 
@@ -13181,7 +13181,7 @@ Aired 2002-05-04.
 - (Chattanooga, TN -- 11:43 AM Sting Briefing) Vice Unit. Officer Elicia Jenkins, officer Gerald Dossett.
 - (Tampa, FL -- Hidden Camera) Sgt. Marc Hamlin, Officer Tim Pasley. Undercover clown.
 
-## CP-1502
+### CP-1502
 
 Aired 2002-05-18.
 
@@ -13196,7 +13196,7 @@ Aired 2002-05-18.
   spot a girl on the balcony showing her breasts. When she drops her pants to
   flash her vagina, cops go up and arrest her.
 
-## CP-1503
+### CP-1503
 
 Aired 2002-05-18.
 
@@ -13205,7 +13205,7 @@ Aired 2002-05-18.
 - (12:43 AM Street Patrol) 8th District -- Officer Scott Monaco says it's the
   French quarter and continues for 3 blocks. It's 2 weekends, not 1 day.
 
-## CP-1504
+### CP-1504
 
 Aired 2002-12-14.
 
@@ -13223,7 +13223,7 @@ Aired 2002-12-14.
   to a call about two orphaned brothers, Jerry and Roland, huffing paint /
   sniffing paint.
 
-## CP-1505
+### CP-1505
 
 Aired 2002-12-07.
 
@@ -13241,7 +13241,7 @@ Aired 2002-12-07.
 - (San Bernardino, CA -- 3:03 PM Traffic Stop) Deputy Osvaldo Pelayes. An
   officer finds a substance during a routine traffic stop.
 
-## CP-1506
+### CP-1506
 
 Aired 2003-01-18.
 
@@ -13254,7 +13254,7 @@ Aired 2003-01-18.
 - Broward County, FL
 - Las Vegas, NV
 
-## CP-1507
+### CP-1507
 
 Aired 2003-01-25.
 
@@ -13266,7 +13266,7 @@ Aired 2003-01-25.
   Dan Clary. A complaint about loud music in the street.
 - (Broward County, FL -- 8:02 PM Officer Assistance Call) Deputy Gary Hauter.
 
-## CP-1508
+### CP-1508
 
 Aired 2003-01-25.
 
@@ -13289,7 +13289,7 @@ leg".
 
 Censored segment or a guide error? "An officer is forced to shoot a suspect in the leg".
 
-## CP-1509
+### CP-1509
 
 Aired 2002-11-16.
 
@@ -13303,7 +13303,7 @@ Aired 2002-11-16.
 - Palm Springs, CA
 - Tampa FL
 
-## CP-1510
+### CP-1510
 
 Aired 2003-10-01.
 
@@ -13323,7 +13323,7 @@ Aired 2003-10-01.
   cop. Police can't tell someone to commit a crime.
 - New segment 3: (Jacksonville, FL -- 1:48 PM Sting Briefing) Sgt. Mike Johnson.
 
-## CP-1511
+### CP-1511
 
 Aired 2002-11-23.
 
@@ -13341,7 +13341,7 @@ Aired 2002-11-23.
 Guide error or a censored segment? "Officers find a suspect at his
 grandmother's house".
 
-## CP-1512
+### CP-1512
 
 Aired 2003-03-08.
 
@@ -13354,7 +13354,7 @@ Aired 2003-03-08.
 - North Las Vegas, NV
 - Albuquerque, NM
 
-## CP-1513
+### CP-1513
 
 Aired 2003-03-15.
 
@@ -13369,7 +13369,7 @@ Aired 2003-03-15.
   girlfriend.
 - Davidson County, NC
 
-## CP-1514
+### CP-1514
 
 Aired 2003-03-22.
 
@@ -13386,7 +13386,7 @@ Aired 2003-03-22.
 A deputy stops a man having trouble walking down a crowded street; a deputy
 pulls over a driver who does not possess car keys.
 
-## CP-1515
+### CP-1515
 
 Aired 2003-02-15.
 
@@ -13437,7 +13437,7 @@ Aired 2003-02-15.
   her. She didn't use drugs before today and wants to make up with Jim, but he
   doesn't want her. Jason tells her to clean up and get walking.
 
-## CP-1516
+### CP-1516
 
 Aired 2003-04-12.
 
@@ -13451,7 +13451,7 @@ Aired 2003-04-12.
   Deputy Van Loveland serve a warrant to Mike, a hotel guest, who says "I'm
   gonna have dookie on myself".
 
-## CP-1517
+### CP-1517
 
 Aired 2003-04-19.
 
@@ -13466,7 +13466,7 @@ Aired 2003-04-19.
 Someone tries to enter a man's home; a security guard restrains an inebriated
 man.
 
-## CP-1518
+### CP-1518
 
 Aired 2002-09-14.
 
@@ -13506,7 +13506,7 @@ Aired 2002-09-14.
   wasn't stolen, but she thought it might be. Steph was going to take chicken
   to a sick friend. The car is towed away.
 
-## CP-1519
+### CP-1519
 
 Aired 2002-11-09.
 
@@ -13519,7 +13519,7 @@ Aired 2002-11-09.
 - Multnomah County, OR
 - Davidson County, NC
 
-## CP-1520
+### CP-1520
 
 Aired 2002-11-02.
 
@@ -13536,7 +13536,7 @@ Aired 2002-11-02.
   McCarthy. A suspect refuses to drop his knife and gets shot. This is segment
   1 of CP-908.
 
-## CP-1521
+### CP-1521
 
 Aired 2002-09-28.
 
@@ -13575,7 +13575,7 @@ AKA Kids in Danger.
   eventually he turns up hiding behind a dumpster around the corner. Wally puts
   him in his car and brings him to the crying mother.
 
-## CP-1522
+### CP-1522
 
 Aired 2003-04-19.
 
@@ -13591,7 +13591,7 @@ Aired 2003-04-19.
 - Forsyth County, NC
 - Pierce County, WA
 
-## CP-1523
+### CP-1523
 
 Aired 2003-04-26.
 
@@ -13660,7 +13660,7 @@ Aired 2003-04-26.
 Special Thanks to Sheriff Paul A. Taylor & Detective Ed Troyer, Pierce County;
 Chief Gilbert G. Gallegos Albuquerque, Chief Jerry L. Barker Indianapolis.
 
-## CP-1524
+### CP-1524
 
 Aired 2003-05-03.
 
@@ -13676,7 +13676,7 @@ Aired 2003-05-03.
 - Albuquerque, NM
 - Davidson County, NC
 
-## CP-1525
+### CP-1525
 
 Aired 2003-07-12.
 
@@ -13696,7 +13696,7 @@ Aired 2003-07-12.
 - (Indianapolis, IN -- 4:58 PM John Sting) Detective Laura Russell, Sgt. Mike
   Schenkenfelder, Officer Brent Miller, Officer Richard Riddle.
 
-## CP-1526
+### CP-1526
 
 Aired 2003-05-03.
 
@@ -13706,7 +13706,7 @@ Aired 2003-05-03.
 - Indianapolis, IN (8:06 PM Domestic Disturbance Call). When they arrive the door is open, the 28 year old son Christopher is drunk on the floor, the place is trashed and his mom is trying to find his false leg. Chris asks if he's going to jail, he flips out and is cuffed. He says his mom is a bitch. She says he had to buy $5 rotgut vodka, didn't know he had money, is usually a good person, but can't candle drinking and cops were there 15 minutes earlier. Chris says he hates his mom and is going to beat her. They take him outside and he won't stand up, so they put him in a chair. Mom brings his leg out and it has duct tape on it and he spits at her. They put him on the ground and charge him with battery by bodily waste. He is put on a stretched and EMT takes him away. Officer Paul Humphrey assists.
 - Pierce County, WA (3:39 AM Traffic Stop) Deputy Gavin Foster tries to pull over a red Chevy pickup truck with expired tags. The guy keeps going, then pulls into his driveway. Gavin asks him what the address is of his house and the suspect says, "that's a good question. I have a PO box, my girlfriend lives there and I know the red and blue lights mean stop, but I didn't." He has no license, the female passenger Rene Lucille has no license either. The plates are stolen, the truck is stolen, but he has a bill of sale in the house. He has $9, a bag of MSA and bullets on him. Deputy Theron Hardesty checks Rene who says he hid a gun under the seat and they locate it. He says he traded for the truck 6-7 months ago, not sure where the paperwork is as he's in the middle of moving. He got it from a Mexican guy in Tacoma somewhere, doesn't remember where, a bowling alley maybe. They find a second gun and both are loaded.
 
-## CP-1527
+### CP-1527
 
 Aired 2002-11-23.
 
@@ -13723,7 +13723,7 @@ Aired 2002-11-23.
 - (Pierce County, WA -- 1:11 AM Stolen Vehicle) Deputy Mark Eakes, Deputy David
   Butts.
 
-## CP-1528
+### CP-1528
 
 Aired 2003-07-19.
 
@@ -13733,7 +13733,7 @@ Aired 2003-07-19.
 - (Albuquerque, NM -- 10:35 PM Officer Assistance Call) Southeast Area Command -- Officer Heather Hindi has been working there for three years, before that she met her husband who wasn't fond of female officers which was their first argument. Now that they are married he won't start that and she'll always win. There is a traffic stop at a hotel. The driver is Scott who is very manly, but is dressed as a woman in a blond wig and a glove missing fingers. Officer Chris George questions him. She pulls out Adam the Mexican passenger who says she was going to take him home, but he didn't know her. Scott drops stuff and is taken out for a drunk test, standing on one foot then goes back in the car. Adam says he's known her for three months, but doesn't know her name. He doesn't know Scott is a man. They don't believe his story and know they just met. They show him Scott's license listing him as a male. He says, "Oh wow!" They ask if he wants a cab because he could've gotten robbed or worse, but he wants to ride with Scott. Scott gets a failure to yield ticket for $53. He lives out of state and they will pick him up because of the way he's dressed. They've seen it before where a guy pretending to be a woman takes someone home and there are fights and stabbings.
 - (Miami, FL -- 9:35 PM Street Patrol) North District -- Officer Rick Martinez started going to college to be a lawyer then decided he wanted to be on the other side catching the guys. He applied and that was 12 years ago. An area called Edison is a high drug area and it's hard to catch dealers because of the narrow alleys they run in and hide. He spots a big black guy, Jerome, in an American flag doorag and gives chase. They corner him so he gives up. They cuff him, arrest him. And find crack cocaine nearby. He's got a Jamaican accent and says he ran because he was scared and the drugs aren't his. A guy was fighting with his girlfriend and she put his clothes in the garbage can. He says the drugs aren't his, but he's been arrested for possession before. Rick asks what's up with him tossing the drugs like a football right in front of him. Jerome wants to know what he's being charged with. His story doesn't make sense, if he's in a fight why is he running toward her. He says he ran because he thought his girlfriend called the cops. If you have more than three bags on you it's possession with intent to sell and he has 15 bags on him. He keeps saying it's not his. He knows the game and will probably be back on the streets tomorrow doing the same thing.
 
-## CP-1529
+### CP-1529
 
 Aired 2003-07-26.
 
@@ -13743,7 +13743,7 @@ Aired 2003-07-26.
 - Miami, FL
 - Albuquerque, NM
 
-## CP-1530
+### CP-1530
 
 Aired 2003-08-02.
 
@@ -13753,7 +13753,7 @@ Aired 2003-08-02.
 - Pierce County, WA
 - Maricopa County, AZ
 
-## CP-1531
+### CP-1531
 
 Aired 2003-02-22.
 
@@ -13766,7 +13766,7 @@ Aired 2003-02-22.
 - (Pomona, CA -- 10:16 PM Man With a Gun Call) Corporal Joe Waltman, Lt. Larry
   Todd, K-9 Officer Mark Shannon.
 
-## CP-1532
+### CP-1532
 
 Aired 2003-09-20.
 
@@ -13776,7 +13776,7 @@ Aired 2003-09-20.
 - Miami, FL -- A police sergeant coordinates a sting operation designed to nab drug suspects.
 - Albuquerque, NM -- a security guard identifies a suspected shoplifter.
 
-## CP-1533
+### CP-1533
 
 Aired 2003-09-27.
 
@@ -13786,7 +13786,7 @@ Aired 2003-09-27.
 - Riverside County, CA
 - Pierce County, WA
 
-## CP-1534
+### CP-1534
 
 Aired 2003-05-17.
 
@@ -13799,7 +13799,7 @@ Aired 2003-05-17.
   backup needed at a fight where one person has a gun.
 - Homestead, FL
 
-## CP-1535
+### CP-1535
 
 Aired 2003-05-17.
 
@@ -13809,7 +13809,7 @@ Aired 2003-05-17.
 - Albuquerque, NM
 - Palm Beach County, FL
 
-## CP-1536
+### CP-1536
 
 Aired 2003-02-01.
 
@@ -13820,7 +13820,7 @@ Aired 2003-02-01.
 - A truck driver says two women broke into his truck and stole his wallet.
 - Nashville, TN
 
-# Season 16
+## Season 16
 
 2003-2004.
 
@@ -13837,7 +13837,7 @@ Aired 2003-02-01.
 - San Bernardino, CA
 - Wichita, KS
 
-## CP-1601
+### CP-1601
 
 Aired 2003-05-10.
 
@@ -13846,7 +13846,7 @@ Aired 2003-05-10.
 - (8:15 PM Briefing) Women misbehave during New Orleans festivities; officers
   arrest female suspects involved in a physical altercation.
 
-## CP-1602
+### CP-1602
 
 Aired 2003-04-26.
 
@@ -13854,7 +13854,7 @@ Aired 2003-04-26.
 
 - (11:31 PM Fight in Progress) 8th District
 
-## CP-1603
+### CP-1603
 
 Aired 2003-12-06.
 
@@ -13864,7 +13864,7 @@ Aired 2003-12-06.
 - Wichita, KS -- Smell of pot leads to a brawl
 - Indio, CA -- Domestic violence call about lesbians fighting over the bills.
 
-## CP-1604
+### CP-1604
 
 Aired 2003-11-22.
 
@@ -13879,7 +13879,7 @@ Aired 2003-11-22.
 - Wichita, KS
 - San Bernardino, CA -- Deputy Osvaldo Pelayes
 
-## CP-1605
+### CP-1605
 
 Aired 2003-12-13.
 
@@ -13889,7 +13889,7 @@ Aired 2003-12-13.
 - Palm Beach County, FL -- Domestic violence call for a man who punched a woman at a convenience store
 - Forsyth County, NC -- Shots fired call from a previous domestic call by a shirtless man.
 
-## CP-1606
+### CP-1606
 
 Aired 2004-01-03.
 
@@ -13902,7 +13902,7 @@ Aired 2004-01-03.
 - Palm Springs, CA -- Traffic stop -- bicycle rider who came from a burglary has
   drugs and bad friends.
 
-## CP-1607
+### CP-1607
 
 Aired 2004-01-10.
 
@@ -13921,7 +13921,7 @@ Aired 2004-01-10.
   building so the cops stop him. He says he has a 22 rifle in the backseat and
   gets arrested because the gun is loaded and unregistered.
 
-## CP-1608
+### CP-1608
 
 Aired 2004-01-17.
 
@@ -13947,7 +13947,7 @@ Some versions has this as segment 2:
 
 Censored segment?
 
-## CP-1609
+### CP-1609
 
 Aired 2003-11-03.
 
@@ -13960,7 +13960,7 @@ Aired 2003-11-03.
 - (Spokane, WA -- 9:26 PM Street Patrol) Spokane PD
 - (Harris County, TX -- 8:03 PM Domestic Disturbance) Sheriff's Dept. District 3
 
-## CP-1610
+### CP-1610
 
 Aired 2004-01-24.
 
@@ -13978,7 +13978,7 @@ Aired 2004-01-24.
   A witness helps apprehend a burglar; at a traffic stop, a man says his ailing
   wife put illegal tags on his car.
 
-## CP-1611
+### CP-1611
 
 Aired 2003-09-13.
 
@@ -13996,7 +13996,7 @@ Aired 2003-09-13.
 - (New York City, NY -- 6:15 PM Car Accident) from CP-734.
 - (Pierce County, WA -- 11:21 PM Noise Complaint) from CP-1313.
 
-## CP-1612
+### CP-1612
 
 Aired 2004-03-06.
 
@@ -14013,7 +14013,7 @@ Aired 2004-03-06.
   District 1 Martin and his wife are drunk and fight over the keys to the
   truck. She rips his shirt and he cuts her arm.
 
-## CP-1613
+### CP-1613
 
 Aired 2003-09-13.
 
@@ -14024,7 +14024,7 @@ Aired 2003-09-13.
 - (Maricopa County, AZ -- 2:18 AM Flagged Down) Sheriff's Office District 1
 - (San Bernardino County, CA -- 7:11 PM Search & Rescue Call) from CP-543
 
-## CP-1614
+### CP-1614
 
 Aired 2004-01-31.
 
@@ -14039,7 +14039,7 @@ Aired 2004-01-31.
 - Jacksonville, FL (8:15 PM Prostitution Sting) Debbie flashes the officer in
   the car/Black woman says she was molested/Antoine Shemale struggles.
 
-## CP-1615
+### CP-1615
 
 Aired 2004-02-21.
 
@@ -14055,7 +14055,7 @@ Aired 2004-02-21.
   takes off and gets caught hiding in a shed after riding past the bike owners
   house.  Officer Justin McCluskey.
 
-## CP-1616
+### CP-1616
 
 Aired 2004-02-07.
 
@@ -14071,7 +14071,7 @@ Aired 2004-02-07.
 - (Passaic, NJ -- 4:58 PM Suspicious Activity) White guy in a Rangers shirt
   buys heroin and is sweating buckets, then taken to jail.
 
-## CP-1617
+### CP-1617
 
 Aired 2004-05-01.
 
@@ -14095,7 +14095,7 @@ Aired 2004-05-01.
   crack in his mouth and the cop pulls it out. He then goes back in the car and
   finds the crack pipe.
 
-## CP-1618
+### CP-1618
 
 Aired 2003-11-03.
 
@@ -14110,7 +14110,7 @@ Aired 2003-11-03.
 - (Passaic County, NJ -- 5:04 PM Traffic Stop) man with 50 bags of dope (9:49 PM
   Suspicious Vehicle) man with do rag drug stop.
 
-## CP-1619
+### CP-1619
 
 Aired 2004-03-13.
 
@@ -14130,7 +14130,7 @@ Aired 2004-03-13.
   his girlfriend. The find he has meth and a butterfly knife and then dumps
   more meth in the backseat of the police car.
 
-## CP-1620
+### CP-1620
 
 Aired 2004-03-20.
 
@@ -14151,7 +14151,7 @@ Aired 2004-03-20.
   hung up. Everyone in the family gets crazy, but in the end there is nothing
   the police can do.
 
-## CP-1621
+### CP-1621
 
 Aired 2004-04-03.
 
@@ -14172,7 +14172,7 @@ Aired 2004-04-03.
   the scene and hides behind a dumpster. He is drunk and hit his girl and
   punched the closet.
 
-## CP-1622
+### CP-1622
 
 Aired 2004-04-10.
 
@@ -14190,7 +14190,7 @@ Aired 2004-04-10.
   railroad track and the cop blows a tire and gets struck while trains are
   coming from both directions.
 
-## CP-1623
+### CP-1623
 
 Aired 2004-04-17.
 
@@ -14218,7 +14218,7 @@ Aired 2004-04-17.
   place. They try to get the son to go somewhere else, but no one wants him. It
   turns out he has a warrant, so he goes to jail.
 
-## CP-1624
+### CP-1624
 
 Aired 2003-11-01.
 
@@ -14229,7 +14229,7 @@ Aired 2003-11-01.
   neighborhood, they find their suspect wearing pink underwear.
 - Des Moines, IA
 
-## CP-1625
+### CP-1625
 
 Aired 2004-05-22.
 
@@ -14257,7 +14257,7 @@ Aired 2004-05-22.
   first one says it was from her dad's funeral. The second woman is arrested
   for domestic and possibly cut the first one with a knife.
 
-## CP-1626
+### CP-1626
 
 Aired 2004-04-24.
 
@@ -14275,7 +14275,7 @@ Aired 2004-04-24.
   where a white girl and black guy are fighting. Jacquelyn is packing up to
   leave and is on heroin. Her mom is coming to pick her up.
 
-## CP-1627
+### CP-1627
 
 Aired 2004-02-07.
 
@@ -14291,7 +14291,7 @@ Aired 2004-02-07.
   and says he'll let them get poked with an AIDS filled needle if they search
   him.
 
-## CP-1628
+### CP-1628
 
 Aired 2004-07-10.
 
@@ -14320,7 +14320,7 @@ Aired 2004-07-10.
   massive pipe that cost him and his two friends $400. The cop calls Joe's mom
   Lorraine to pick the car up so he won't have to get impounded and ticketed.
 
-## CP-1629
+### CP-1629
 
 Aired 2004-02-28.
 
@@ -14339,7 +14339,7 @@ Aired 2004-02-28.
   wrecks his car. The suspect goes into a trailer park and crashes into a fence
   and runs. A K9 unit catches him.
 
-## CP-1630
+### CP-1630
 
 Aired 2004-07-17.
 
@@ -14367,7 +14367,7 @@ Aired 2004-07-17.
   missing. He then goes and ID's the shoes and stuff as his. Then cops talk to
   the neighbors who called it in.
 
-## CP-1631
+### CP-1631
 
 Aired 2004-07-24.
 
@@ -14395,7 +14395,7 @@ Aired 2004-07-24.
   without him knowing it. The female driver says it is her mom's car and she
   was just hanging out since she works nearby.
 
-## CP-1632
+### CP-1632
 
 Aired 2004-07-31.
 
@@ -14424,7 +14424,7 @@ Aired 2004-07-31.
   crystal meth pipe. A drug sniffing K-9 is brought in and sniffs her backpack
   and it comes up positive so she is arrested.
 
-## CP-1633
+### CP-1633
 
 Aired 2004-05-08.
 
@@ -14454,7 +14454,7 @@ Aired 2004-05-08.
   loses sight of the guy, but finds him in a bush a few minutes later. A K9 is
   on standby and they find a crack pipe on him and that the bike was stolen.
 
-## CP-1634
+### CP-1634
 
 Aired 2003-12-20.
 
@@ -14472,7 +14472,7 @@ Aired 2003-12-20.
   Officer Justin Roberts. Man in a pickup truck picks up a whore that turns out
   to be a man (Juanita / Juan).
 
-## CP-1635
+### CP-1635
 
 Aired 2004-10-02.
 
@@ -14482,7 +14482,7 @@ Aired 2004-10-02.
 - Des Moines, IA -- Officer Mike Moody has spent 15 years on the job. To relieve stress he stays with his family and rides motorcycles. He stops a woman driving who says she is looking for her loose dog and an 80 year old man called Hillbilly Elvin kicked her 12 year old son in the face. He lives in his car and thought the kid was breaking in when he knocked on his door. He isn't home when they go back and they find him in a nearby bar. He was sleeping in his car and when the kid knocked on his door he woke up suddenly, kicked the door open and it hit the kid who was trying to ask him if he'd seen his dog. The bartender is friends with Elvin and says the kid shouldn't be in Racing Corner Tap parking lot at 10pm in the first place and the dog is loose all the time.
 - (Jacksonville, FL Zone 4 -- 10:03 PM Shooting Call) Officer Joe Crotty takes the call of a black man named Cedric who was shot in the head. Renee called Cedric for a ride because she was fighting with Richard, throwing her shoes at him. He sees all this and goes back in his car and the guy came out and shot through the windshield and the bullet hit him and lodged in his skull. Richard is caught and says he didn't shoot him and was just drinking. Renee says it was all over crack. Richard gave her $7 to buy crack and she didn't want to do it and is freaking out over all this. Richard thinks Cedric took the $7 and shot him and a second shot went into the woods. She is talky, nutty and thought the gun was fake.
 
-## CP-1636
+### CP-1636
 
 Aired 2004-02-28.
 
@@ -14501,7 +14501,7 @@ Aired 2004-02-28.
   then the cop goes running to the next house to stop a guy from attacking a
   man with a shovel who came to his house looking for drugs.
 
-## CP-1637
+### CP-1637
 
 Aired 2004-03-06.
 
@@ -14525,7 +14525,7 @@ Aired 2004-03-06.
   going to arrest him and told him that. She says he didn't know and she'll use
   the rent money to get him out of jail. from CP-1032.
 
-## CP-1638 / CP-1639
+### CP-1638 / CP-1639
 
 Aired 2004-02-14.
 
@@ -14548,7 +14548,7 @@ Aired 2004-02-14.
 - Los Angeles, CA (4:33 PM Assault Call) A man and woman fight in the street and both get bloody and Tami turns blue.
 - Providence, RI (10:03 PM Possible Stabbing Call) A man's wife is having sex with his mom and the mom stabs her son for trying to break it up.
 
-## CP-1640 / CP-1641
+### CP-1640 / CP-1641
 
 Aired 2004-05-01.
 
@@ -14620,7 +14620,7 @@ Aired 2004-05-01.
   in the shed. They come back with a search warrant and raid the house and it
   is full of growing pit and there are tons of guns.
 
-# Season 17
+## Season 17
 
 2004-2005.
 
@@ -14636,7 +14636,7 @@ Aired 2004-05-01.
 - Riverside County, CA
 - San Bernardino County, CA
 
-## CP-1701
+### CP-1701
 
 Aired 2004-05-15.
 
@@ -14658,7 +14658,7 @@ Aired 2004-05-15.
 - (12:09 AM) A Mexican man with blinking earrings is arrested for peeing in the
   street. He says he knows his rights. His friend is busted too.
 
-## CP-1702
+### CP-1702
 
 Aired 2004-05-15.
 
@@ -14683,7 +14683,7 @@ Aired 2004-05-15.
   spitting in cops faces after being thrown out of a bar and banks his head
   against the walls. (12:01 AM) The crew of blue cleans the streets.
 
-## CP-1703
+### CP-1703
 
 Aired 2004-09-11.
 
@@ -14722,7 +14722,7 @@ Aired 2004-09-11.
   her. She hit him and ran out claiming doesn't do speed and has a three year
   old son. Deputy Richard Birmingham arrests him.
 
-## CP-1704
+### CP-1704
 
 Aired 2004-09-11.
 
@@ -14760,7 +14760,7 @@ Aired 2004-09-11.
   her get up. Brett says her mom has the right to discipline her. Mom says
   Nicole needs help.
 
-## CP-1705
+### CP-1705
 
 Aired 2004-09-18.
 
@@ -14794,7 +14794,7 @@ Aired 2004-09-18.
   crying because he's been fighting with his wife and that is why he's out
   there.
 
-## CP-1706
+### CP-1706
 
 Aired 2004-09-25.
 
@@ -14834,7 +14834,7 @@ Aired 2004-09-25.
   long. The guy he was meeting is his best friend, the other guy he doesn't
   know.
 
-## CP-1707
+### CP-1707
 
 Aired 2004-12-04.
 
@@ -14878,7 +14878,7 @@ call and finds a transgender stabbing victim who had been working as a 'stroll
 girl.' Even in reruns it's listed, but this episode always plays instead, so
 Trannys doesn't exist.
 
-## CP-1708
+### CP-1708
 
 Aired 2005-01-08.
 
@@ -14918,7 +14918,7 @@ Aired 2005-01-08.
   camouflaged by foliage. Big plants, big money, they do it all day to ruin
   other people's days.
 
-## CP-1709
+### CP-1709
 
 Aired 2005-03-05.
 
@@ -14978,7 +14978,7 @@ Aired 2005-03-05.
   sitting there and if he knew it was somebody's he wouldn't have messed with
   it.
 
-## CP-1710
+### CP-1710
 
 Aired 2004-11-06.
 
@@ -15019,7 +15019,7 @@ Aired 2004-11-06.
   claims he isn't a violent person. Carrying a loaded gun is a felony with a
   minimum 5 year jail sentence.
 
-## CP-1711
+### CP-1711
 
 Aired 2005-08-06.
 
@@ -15029,7 +15029,7 @@ Aired 2005-08-06.
 - Las Vegas, NV
 - Fort Worth, TX
 
-## CP-1712
+### CP-1712
 
 Aired 2004-12-11.
 
@@ -15072,7 +15072,7 @@ Aired 2004-12-11.
   used to be a whore, but isn't any more. He's on probation and claims he's
   trying to get her off heroin.
 
-## CP-1713
+### CP-1713
 
 Aired 2005-01-22.
 
@@ -15114,7 +15114,7 @@ Aired 2005-01-22.
   support his habit, he stole the drugs, didn't buy them and he's a hardcore
   thug.
 
-## CP-1714
+### CP-1714
 
 Aired 2005-05-21.
 
@@ -15169,7 +15169,7 @@ Aired 2005-05-21.
   $1,000 and he came to collect. They are both charged with assault with a
   deadly weapon.
 
-## CP-1715
+### CP-1715
 
 Aired 2005-01-29.
 
@@ -15213,7 +15213,7 @@ Aired 2005-01-29.
   now he's 22. He got out of jail when he was 20 and says coke doesn't affect
   him. He is booked and goes to jail.
 
-## CP-1716 / CP-1717
+### CP-1716 / CP-1717
 
 Aired 2005-02-19.
 
@@ -15331,7 +15331,7 @@ expand outward.
 
 Originally to air 2004-11-19 and be called Las Vegas Metro '04 CP-1709.
 
-## CP-1718
+### CP-1718
 
 Aired 2005-02-05.
 
@@ -15372,7 +15372,7 @@ Aired 2005-02-05.
   go to jail for lying. Javier is on felony probation for assault so he is
   going back to jail.
 
-## CP-1719
+### CP-1719
 
 Aired 2005-03-05.
 
@@ -15428,7 +15428,7 @@ Aired 2005-03-05.
 
 Was supposed to be CP-1711, but that episode never aired.
 
-## CP-1720
+### CP-1720
 
 Aired 2005-04-30.
 
@@ -15441,7 +15441,7 @@ Aired 2005-04-30.
 - Covington, KY
 - Hamilton County, OH.
 
-## CP-1721
+### CP-1721
 
 Aired 2004-11-13.
 
@@ -15488,7 +15488,7 @@ Aired 2004-11-13.
   owner is brought to the scene to ID the guy, but doesn't know him and will
   gladly testify against him in court.
 
-## CP-1722
+### CP-1722
 
 Aired 2005-05-14.
 
@@ -15532,7 +15532,7 @@ Aired 2005-05-14.
   why he was busted before for this. He says he's on work release with the
   owner and he does exist.
 
-## CP-1723
+### CP-1723
 
 Aired 2005-04-16.
 
@@ -15578,7 +15578,7 @@ Aired 2005-04-16.
   last week, has a kid, his head's up his ass, needs a way to pay the bills.
   He's arrested for pot, warrant and fake coke.
 
-## CP-1724
+### CP-1724
 
 Aired 2004-11-19.
 
@@ -15617,7 +15617,7 @@ Aired 2004-11-19.
   stays with her sister in a nearby trailer park and they can check. (Aired
   instead of CP-1709. Fox Mistakenly Lists this as Bad Girls 3)
 
-## CP-1725
+### CP-1725
 
 Aired 2005-04-09.
 
@@ -15668,7 +15668,7 @@ Aired 2005-04-09.
   story in the station. He is put in a cell until the paperwork is done then
   he'll be taken to the justice center. He had $1200 on him.
 
-## CP-1726
+### CP-1726
 
 Aired 2005-03-19.
 
@@ -15716,7 +15716,7 @@ Aired 2005-03-19.
   because the manager wants him out. Russell says he's not an idiot. Greg tells
   him if he sees or hears from again tonight he's going to jail.
 
-## CP-1727
+### CP-1727
 
 Aired 2005-04-30.
 
@@ -15768,7 +15768,7 @@ Aired 2005-04-30.
   back, but they got him first. He still is arrested for possession, but they
   are glad he was honest.
 
-## CP-1728
+### CP-1728
 
 Aired 2005-04-30.
 
@@ -15819,7 +15819,7 @@ Aired 2005-04-30.
   around himself. Officer Jason Smith says he has three traffic warrants and
   the hospital is only 5 blocks away.
 
-## CP-1729
+### CP-1729
 
 Aired 2005-07-02.
 
@@ -15871,7 +15871,7 @@ Aired 2005-07-02.
   other guy rolled the 4th tire behind a house as insurance. They go back and
   find it.
 
-## CP-1730
+### CP-1730
 
 Aired 2005-02-05.
 
@@ -15917,7 +15917,7 @@ Aired 2005-02-05.
   back to his car and spent 30 minutes looking for it. His keys he couldn't
   find were on the roof the whole time.
 
-## CP-1731
+### CP-1731
 
 Aired 2005-07-09.
 
@@ -15978,7 +15978,7 @@ Aired 2005-07-09.
   says the gun is Tobias's. He will be cited and has to appear in juvenile
   court.
 
-## CP-1732
+### CP-1732
 
 Aired 2005-07-16.
 
@@ -16040,7 +16040,7 @@ Aired 2005-07-16.
   high from meth and has to use a whole pack to do it. Jen says if the meth
   went away the county would lose 70% of their crime.
 
-## CP-1733
+### CP-1733
 
 Aired 2005-04-30.
 
@@ -16090,7 +16090,7 @@ Aired 2005-04-30.
   in and attack him. Two employees fight back and then a third man comes and
   fights. They left blood on the ice cream cabinet, it's an open and shut case.
 
-## CP-1734
+### CP-1734
 
 Aired 2005-05-21.
 
@@ -16138,7 +16138,7 @@ Aired 2005-05-21.
   pictures and says there are ones of him and her and he threw the camera away.
   She admits sort of going to his room for drugs.
 
-## CP-1735
+### CP-1735
 
 Aired 2005-02-26.
 
@@ -16194,7 +16194,7 @@ Aired 2005-02-26.
   tells her this stuff will destroy her and she seems like a nice person. She
   cries. (Fox Mistakenly Lists this as Bad Girls! 4)
 
-## CP-1736
+### CP-1736
 
 Aired 2005-07-23.
 
@@ -16207,7 +16207,7 @@ Aired 2005-07-23.
 - Fresno, CA
 - San Bernardino County, CA
 
-# Season 18
+## Season 18
 
 2005-2006.
 
@@ -16230,7 +16230,7 @@ Aired 2005-07-23.
 - Spokane, WA
 - Travis County, TX
 
-## CP-1801
+### CP-1801
 
 Aired 2005-10-01.
 
@@ -16240,7 +16240,7 @@ Aired 2005-10-01.
 - (Las Vegas, NV -- 11:01 PM Home Invasion Call) Officer Ryan Cook.
 - (Pierce County, WA -- 3:20 AM Officer Assistance Call) Deputy Frank Brown.
 
-## CP-1802
+### CP-1802
 
 Aired 2005-12-03.
 
@@ -16250,7 +16250,7 @@ Aired 2005-12-03.
 - Las Vegas, NV
 - Fort Myers, FL
 
-## CP-1803
+### CP-1803
 
 Aired 2005-12-10.
 
@@ -16260,7 +16260,7 @@ Aired 2005-12-10.
 - Lee County, FL
 - Fort Worth, TX
 
-## CP-1804
+### CP-1804
 
 Aired 2005-11-05.
 
@@ -16270,7 +16270,7 @@ Aired 2005-11-05.
 - (Maricopa County, AZ -- 8:02 PM Traffic Stop) Deputy Jared Griffith. A suspect pulled over for a traffic violation has felony warrants and tries to flee.
 - (Las Vegas, NV -- 3:16 PM Fugitive Recovery Briefing) Sgt. Dan Flaherty.
 
-## CP-1805
+### CP-1805
 
 Aired 2006-01-07.
 
@@ -16286,7 +16286,7 @@ Aired 2006-01-07.
   is complaining about juveniles playing basketball near her house. Deputy
   Smith ends up playing basketball with the kids.
 
-## CP-1806
+### CP-1806
 
 Aired 2006-01-14.
 
@@ -16296,7 +16296,7 @@ Aired 2006-01-14.
 - Las Vegas, NV
 - Lee County, FL
 
-## CP-1807
+### CP-1807
 
 Aired 2005-09-17.
 
@@ -16306,7 +16306,7 @@ Aired 2005-09-17.
 - (Las Vegas, NV -- 8:17 PM Man With A Knife Call) Officer Jeff Harper.
 - (Maricopa County, AZ -- 12:19 AM Unknown Trouble Call) Deputy David Jones.
 
-## CP-1808
+### CP-1808
 
 Aired 2005-09-10.
 
@@ -16321,7 +16321,7 @@ Aired 2005-09-10.
 - (Gwinnett County, GA -- 4:36 PM Traffic Accident) Corporal Bev Genevish. A
   man riding a bike is hit by a car and knocked into the woods.
 
-## CP-1809
+### CP-1809
 
 Aired 2005-09-24.
 
@@ -16331,7 +16331,7 @@ Aired 2005-09-24.
 - (Lee County, FL -- 11:31 PM Traffic Stop) Deputy Robert Elwell.
 - (Las Vegas, NV -- 3:51 PM Traffic Stop) Officer Christopher Curtis.
 
-## CP-1810
+### CP-1810
 
 Aired 2006-01-21.
 
@@ -16341,7 +16341,7 @@ Aired 2006-01-21.
 - Las Vegas, NV
 - Fresno, CA
 
-## CP-1811
+### CP-1811
 
 Aired 2006-01-28.
 
@@ -16351,7 +16351,7 @@ Aired 2006-01-28.
 - Travis County TX
 - Atlanta, GA
 
-## CP-1812
+### CP-1812
 
 Aired 2006-03-04.
 
@@ -16364,7 +16364,7 @@ Aired 2006-03-04.
 - (Gwinnett County, GA -- 10:27 PM Street Patrol) Officer Roger Bell
 - (Las Vegas, NV -- 5:39 PM Suspicious Activity) Officer Ryan Cook.
 
-## CP-1813
+### CP-1813
 
 Aired 2005-11-26.
 
@@ -16372,7 +16372,7 @@ Aired 2005-11-26.
 
 - (8:59 PM Fight Call) Two male college students try to steal a flamingo from a hotel; a routine traffic stop turns into a prostitution arrest.
 
-## CP-1814
+### CP-1814
 
 Aired 2006-02-11.
 
@@ -16382,7 +16382,7 @@ Aired 2006-02-11.
 - (Las Vegas, NV -- 10:51 PM Suspicious Activity) Officer Ryan Cook stops a car with a couple.
 - (Las Vegas, NV -- 911 Communications Center, 6:49 PM Homicide Investigation) Detective Dean O'Kelley, Detective Rob Wilson, Sgt. Rocky Alba.
 
-## CP-1815
+### CP-1815
 
 Aired 2006-02-25.
 
@@ -16392,7 +16392,7 @@ Aired 2006-02-25.
 - Las Vegas, NV
 - Travis County TX
 
-## CP-1816
+### CP-1816
 
 Aired 2006-02-04.
 
@@ -16402,7 +16402,7 @@ Aired 2006-02-04.
 - Las Vegas, NV
 - Travis County TX
 
-## CP-1817
+### CP-1817
 
 Aired 2005-09-10.
 
@@ -16412,7 +16412,7 @@ Aired 2005-09-10.
 - Santa Ana, CA -- cops spot a drug deal going down in a jeep.
 - Las Vegas, NV -- a woman called 911 that her boyfriend was kicking the door in and the line went dead.
 
-## CP-1818
+### CP-1818
 
 Aired 2006-02-04.
 
@@ -16422,7 +16422,7 @@ Aired 2006-02-04.
 - Pittsburgh, PA
 - Travis County, TX
 
-## CP-1819
+### CP-1819
 
 Aired 2006-03-11.
 
@@ -16432,7 +16432,7 @@ Aired 2006-03-11.
 - (Chattanooga, TN -- 11:35 PM Traffic Stop) Officer Derrick Pendergrass, Officer Zach Fuller.
 - (Travis County, TX -- 8:21 PM Family Disturbance Call) Deputy Belinda Mangum.
 
-## CP-1820
+### CP-1820
 
 Aired 2006-05-20.
 
@@ -16447,7 +16447,7 @@ Aired 2006-05-20.
 - Spokane, WA -- police respond to a burglary and find the suspect in a bubble
   bath
 
-## CP-1821
+### CP-1821
 
 Aired 2006-03-25.
 
@@ -16457,7 +16457,7 @@ Aired 2006-03-25.
 - (Spokane, WA -- 10:04 PM Assistance Call) Officer Alan Edwards.
 - (Chattanooga, TN -- 7:15 PM Possible Narcotics Activity) Officer Michael Joiner.
 
-## CP-1822
+### CP-1822
 
 Aired 2006-04-08.
 
@@ -16467,7 +16467,7 @@ Aired 2006-04-08.
 - Spokane, WA
 - Anchorage, AK
 
-## CP-1823
+### CP-1823
 
 Aired 2005-11-12.
 
@@ -16477,7 +16477,7 @@ Aired 2005-11-12.
 - Anchorage, AK
 - Las Vegas, NV
 
-## CP-1824
+### CP-1824
 
 Aired 2005-11-19.
 
@@ -16489,7 +16489,7 @@ Aired 2005-11-19.
 - Pittsburgh, PA
 - Spokane, WA
 
-## CP-1825
+### CP-1825
 
 Aired 2006-04-15.
 
@@ -16499,7 +16499,7 @@ Aired 2006-04-15.
 - Pittsburgh, PA
 - Anchorage, AK
 
-## CP-1826
+### CP-1826
 
 Aired 2006-06-03.
 
@@ -16509,7 +16509,7 @@ Aired 2006-06-03.
 - Martin County, FL -- Florida police respond to a disturbance call involving an inebriated, incoherent woman.
 - Anchorage, AK
 
-## CP-1827
+### CP-1827
 
 Aired 2006-06-10.
 
@@ -16519,7 +16519,7 @@ Aired 2006-06-10.
 - /Spokane, WA -- a nude female victim in Spokane.
 - Palm Springs, CA
 
-## CP-1828
+### CP-1828
 
 Aired 2005-12-17.
 
@@ -16529,7 +16529,7 @@ Aired 2005-12-17.
 - Las Vegas, NV
 - Spokane, WA
 
-## CP-1829
+### CP-1829
 
 Aired 2006-06-17.
 
@@ -16539,7 +16539,7 @@ Aired 2006-06-17.
 - A drug transaction behind a high school in Pittsburgh, PA
 - burglary in Spokane, WA.
 
-## CP-1830
+### CP-1830
 
 Aired 2006-05-06.
 
@@ -16549,7 +16549,7 @@ Aired 2006-05-06.
 - Spokane, WA -- An intoxicated woman tries to bite an officer
 - Martin County, FL -- a woman gets creative concealing a crack pipe.
 
-## CP-1831
+### CP-1831
 
 Aired 2006-03-18.
 
@@ -16559,7 +16559,7 @@ Aired 2006-03-18.
 - West Palm Beach, FL -- Florida police locate a truck that has been reported stolen
 - Palm Springs, CA -- officers deal with an erratic driver.
 
-## CP-1832
+### CP-1832
 
 Aired 2006-07-08.
 
@@ -16569,7 +16569,7 @@ Aired 2006-07-08.
 - Palm Springs, CA -- Traffic stops lead to drug busts
 - Palm Beach County, FL
 
-## CP-1833
+### CP-1833
 
 Aired 2006-05-20.
 
@@ -16578,7 +16578,7 @@ Aired 2006-05-20.
 - (9:28 PM Vehicle Pursuit) A nude driver engages the cops in a high-speed chase
 - a suspicious kind of smoke comes out of a parked car.
 
-## CP-1834
+### CP-1834
 
 Aired 2006-07-15.
 
@@ -16588,7 +16588,7 @@ Aired 2006-07-15.
 - Palm Beach County, FL -- An extremely drunk driver in Palm Springs
 - Pittsburgh, PA -- a routine stop reveals much in Pittsburgh
 
-## CP-1835
+### CP-1835
 
 Aired 2006-04-29.
 
@@ -16598,7 +16598,7 @@ Aired 2006-04-29.
 - Martin County, FL -- a Florida sheriff's deputy pulls over a suspicious vehicle after the driver makes an illegal turn
 - Palm Beach County, FL
 
-## CP-1836
+### CP-1836
 
 Aired 2006-07-22.
 
@@ -16608,7 +16608,7 @@ Aired 2006-07-22.
 - Palm Springs, CA
 - Martin County, FL
 
-# Season 19
+## Season 19
 
 2006-2007.
 
@@ -16625,7 +16625,7 @@ Aired 2006-07-22.
 - Riverside County, CA
 - Wichita, KS
 
-## CP-1901
+### CP-1901
 
 Aired 2006-09-09.
 
@@ -16635,7 +16635,7 @@ Aired 2006-09-09.
 - (Palm Springs, CA -- 1:47 AM Traffic Stop) Officer Anthony Pilutik.
 - (Chattanooga, TN -- 9:40 PM Felony Warrant) Officer Aaron Williams.
 
-## CP-1902
+### CP-1902
 
 Aired 2006-09-16.
 
@@ -16645,7 +16645,7 @@ Aired 2006-09-16.
 - (Chattanooga, TN -- 6:17 PM Possible Drug Activity) Officer Derrick Pendergrass.
 - (Palm Springs, CA -- 1:05 AM Street Patrol) Officer Anthony Pilutik.
 
-## CP-1903
+### CP-1903
 
 Aired 2006-09-23.
 
@@ -16655,7 +16655,7 @@ Aired 2006-09-23.
 - Palm Springs, CA
 - Pittsburgh, PA
 
-## CP-1904
+### CP-1904
 
 Aired 2006-09-09.
 
@@ -16669,7 +16669,7 @@ Aired 2006-09-09.
   and Detective Danny Cunningham arrest Jose, the Candy Cane / Cocaine Candy
   man.
 
-## CP-1905
+### CP-1905
 
 Aired 2006-11-11.
 
@@ -16679,7 +16679,7 @@ Aired 2006-11-11.
 - West Palm Beach, FL
 - Palm Beach County, FL
 
-## CP-1906
+### CP-1906
 
 Aired 2006-11-04.
 
@@ -16689,7 +16689,7 @@ Aired 2006-11-04.
 - Atlanta, GA
 - Okaloosa County, FL
 
-## CP-1907
+### CP-1907
 
 Aired 2006-09-30.
 
@@ -16699,7 +16699,7 @@ Aired 2006-09-30.
 - (Palm Beach County, FL -- 7:51 PM Domestic Disturbance Call) Deputy Iris Reyes responds to a call where a man demands that police arrest his intoxicated daughter.
 - (Riverside County, CA -- 10:35 PM Suspicious Activity) Deputy Mike Portillo.
 
-## CP-1908
+### CP-1908
 
 Aired 2006-11-18.
 
@@ -16709,7 +16709,7 @@ Aired 2006-11-18.
 - Spokane, WA
 - Palm Springs, CA
 
-## CP-1909
+### CP-1909
 
 Aired 2007-02-03.
 
@@ -16733,7 +16733,7 @@ Aired 2007-02-03.
   that she gave the officer her sister's information. She's arrested for giving
   a false name and driving under suspension.
 
-## CP-1910
+### CP-1910
 
 Aired 2007-04-28.
 
@@ -16743,7 +16743,7 @@ Aired 2007-04-28.
 - Palm Springs, CA
 - Brevard County, FL -- driver attempts to eat pot after being stopped.
 
-## CP-1911
+### CP-1911
 
 Aired 2006-12-02.
 
@@ -16753,7 +16753,7 @@ Aired 2006-12-02.
 - Palm Beach County, FL
 - Palm Springs, CA
 
-## CP-1912
+### CP-1912
 
 Aired 2007-05-19.
 
@@ -16763,7 +16763,7 @@ Aired 2007-05-19.
 - A Brevard County, FL sheriff questions two females in possession of drugs
 - A Palm Springs, CA officer sniffs out a drug deal at a motel.
 
-## CP-1913
+### CP-1913
 
 Aired 2006-12-09.
 
@@ -16773,7 +16773,7 @@ Aired 2006-12-09.
 - A suspect tries to swallow a bag of marijuana while in the custody of a sheriff in Brevard County, FL
 - West Palm Beach, FL
 
-## CP-1914
+### CP-1914
 
 Aired 2007-07-21.
 
@@ -16783,7 +16783,7 @@ Aired 2007-07-21.
 - Lowell, MA Police Department -- Officer Brian Kinney attempts to stop a motorcyclist for traffic violations. The suspect driving the bike flees from the scene and the officer gives chase. As the department is able to track the owner of the bike, the pursuit is terminated for safety reasons. The officer makes his way to the suspect's home and learns that several other officers have the man detained at the home. An officer tells Kinney that he witnessed the suspect roll up on the bike and drive it to the back of the house where it is still located. The female on the back of bike denies any knowledge of the event as does the owner/suspect. The man is arrested for evading and the bike is towed. The suspect tells officers he plans to sell the bike soon.
 - Las Vegas, NV Metropolitan Police Department -- Officers Dean Hennesy and Bert Hughes respond to a domestic violence call involving an intoxicated man who reportedly hit and choked a female victim. At the scene, the officers take an infuriated male suspect into custody after his female acquaintance accuses him of physically assaulting her during an argument. When the suspect finally calms down he admits to the assault and cheerfully informs the officers that the female has two warrants. The officers verify the suspect's statement and eventually arrest the female for the outstanding warrants and the suspect for domestic battery.
 
-## CP-1915
+### CP-1915
 
 Aired 2006-12-23.
 
@@ -16793,7 +16793,7 @@ Aired 2006-12-23.
 - a Brevard County, FL, sheriff detects marijuana use during a traffic stop.
 - Hamilton County OH
 
-## CP-1916
+### CP-1916
 
 Aired 2007-02-24.
 
@@ -16803,7 +16803,7 @@ Aired 2007-02-24.
 - Brevard County, FL -- Deputy Jason West of the Sheriff's Office pulls over a vehicle occupied by a female driver and male passenger for playing loud music. During questioning the woman tells the officer that she never been arrested. Her clean record is quickly tarnished after the officer finds a large amount of pot in addition to prescription pills in the vehicle during a routine search. She's arrested and charged with felony possession of cannabis.
 - Palm Springs, CA -- Officer Anthony Pilutik of the Police Department responds to a disturbance call in an active area of the city. The officer arrives at the scene, as a male individual is being questioned and searched by a fellow officer. Suspicious of his behavior, the officers decide to give the man a routine field sobriety test. When he fails the test, the officers search his bag and discover a large amount of methamphetamine and drug paraphernalia. The man is arrested for being under the influence of a controlled substance and will face undisclosed drug charges.
 
-## CP-1917
+### CP-1917
 
 Aired 2007-01-07.
 
@@ -16813,7 +16813,7 @@ Aired 2007-01-07.
 - Brevard County, FL (11:15 PM Possible Drug Activity) sheriffs think a suspect has hidden drugs in his body.
 - Hamilton County OH
 
-## CP-1918
+### CP-1918
 
 Aired 2007-05-19.
 
@@ -16821,7 +16821,7 @@ Aired 2007-05-19.
 
 - (Cincinnati, OH -- 1:12 AM Traffic Stop) District 4 -- Officer Mike Harper follows engages in a vehicle pursuit of a vehicle he saw swerving on the road after leaving a bar parking lot. The male driver bails out of the car at a dead end and the pursuit proceeds on foot. Officer Harper tasers the suspect when he resists handcuffs. During the commotion, the suspect discards something from his shoe. Police retrieve the discarded material, a baggy containing individually sealed packets of crack cocaine. The suspect is charged for the pursuit, trafficking crack cocaine, possession and tampering with evidence. Corporal David Hill of the Hamilton County Sheriff's Office responds to a domestic disturbance call. Corporal Hill meets a female at the door, she informs him that she and her husband have been arguing and that she wants him to leave. Corporal Hill enters the dwelling and the couple proceeds to inform on one another as to illegal drug possession. The husband pulls marijuana from out of the entertainment center. Corporal Hill issues both parties a citation for possession of marijuana and suggests that the couple seek a divorce. Officer Brian Baker and Sergeant Tom Fallon of the Norwood Police Division respond to a call from the Drug Unit. While investigating a drug operation, authorities witness a male suspect purchase crack cocaine and depart in a black car. Police stop the suspect riding as a passenger of a black car being driven by a female. The police find crack cocaine in the passenger seat. The both driver and passenger deny ownership and knowledge of the drugs, however, surveillance video shows the male suspect making the purchase just moments earlier. The suspect is charged with possession of crack cocaine and the driver is charged with complicity to felony drug possession.
 
-## CP-1919
+### CP-1919
 
 Aired 2007-01-20.
 
@@ -16831,7 +16831,7 @@ Aired 2007-01-20.
 - a Riverside County, CA, sheriff handles a domestic assault situation.
 - Cincinnati, OH
 
-## CP-1920
+### CP-1920
 
 Aired 2007-04-28.
 
@@ -16841,7 +16841,7 @@ Aired 2007-04-28.
 - Officer Chris Wessman of the Fontana Police Department questions the occupants of a vehicle that is parked on a desolate road. The couple claim that they were headed to a racetrack. The driver (the male occupant) is taken into custody after the officer learns that he has outstanding warrants. During a routine search of the vehicle the officer discovers methamphetamine and drug paraphernalia. When the driver refuses to take the blame for the contraband found in the female passenger's purse, she's arrested as well.
 - Officer Ryan Cook of the Las Vegas Metropolitan Police Department pulls over a vehicle with a busted tail light. The female driver is questioned and claims that she was involved in a hit and run and did not have the financial resources to have the vehicle repaired. Officer Cook runs her identification and is forced to impound the vehicle after he learns that she's driving on a suspended license. The driver and her girlfriend take a few personal items before walking away.
 
-## CP-1921
+### CP-1921
 
 Aired 2007-01-27.
 
@@ -16852,7 +16852,7 @@ Aired 2007-01-27.
 - Wichita, KS
 - Covington, KY
 
-## CP-1922
+### CP-1922
 
 Aired 2007-03-03.
 
@@ -16862,7 +16862,7 @@ Aired 2007-03-03.
 - Boise, ID road rage,
 - a Palm Springs, CA officer organizes a sting to snare an online predator.
 
-## CP-1923
+### CP-1923
 
 Aired 2006-12-16.
 
@@ -16872,7 +16872,7 @@ Aired 2006-12-16.
 - (Las Vegas, NV -- 10:40 PM Street Patrol) Officer Ryan Cook arrests a transgender prostitute.
 - (Chattanooga, TN -- 10:02 PM Suspicious Person) Officer Derrick Pendergrass questions a known prostitute he spotted in front of a known crack house. The 21-year-old mother of two is released after the officer warns her to leave the area. A short time later the officer assists another unit on a traffic stop. To his surprise, the same woman he had shown leniency to earlier is in the vehicle. Although the driver insists that she flagged him down and asked for a ride to the store, Officer Pendergrass does not buy his explanation. When the officers learn that the driver has a revoked license for a DUI, he's placed under arrest. The desperate female is given another stern warning and is released once more.
 
-## CP-1924
+### CP-1924
 
 Aired 2007-03-10.
 
@@ -16882,7 +16882,7 @@ Aired 2007-03-10.
 - Fontana, CA -- stolen rims,
 - Boise, ID officer discovers a lost boy lying in the road.
 
-## CP-1925
+### CP-1925
 
 Aired 2007-07-07.
 
@@ -16892,7 +16892,7 @@ Aired 2007-07-07.
 - A Covington, KY officer makes a traffic stop and questions the driver about a suspicious smell coming from the vehicle.
 - Boise, ID -- Traffic Stop
 
-## CP-1926
+### CP-1926
 
 Aired 2007-03-17.
 
@@ -16902,7 +16902,7 @@ Aired 2007-03-17.
 - Las Vegas, NV officers question a couple after a domestic disturbance is reported.
 - Boise, ID officer spots a suspicious car at Hardy and Edward.
 
-## CP-1927
+### CP-1927
 
 Aired 2007-03-24.
 
@@ -16912,7 +16912,7 @@ Aired 2007-03-24.
 - A Boise, ID officer discovers a suspect in a park who has been beaten.
 - Las Vegas, NV domestic violence call.
 
-## CP-1928
+### CP-1928
 
 Aired 2007-04-07.
 
@@ -16922,7 +16922,7 @@ Aired 2007-04-07.
 - Lowell, MA officer deals with a disturbance call.
 - Palm Springs, CA officers arrest a suspect attempting to meet an underage girl.
 
-## CP-1929
+### CP-1929
 
 Aired 2007-07-14.
 
@@ -16932,7 +16932,7 @@ Aired 2007-07-14.
 - Las Vegas, NV -- Officer Evan Rosenthal of the Police Department assists on a fight call on the Las Vegas Strip. A melee broke out when several pedestrians began catcalling to a vehicle driving by and threw objects at the victim's car. The driver jumped out and punched one of the guys while a male and female passenger attacked another suspect. The two suspects are taken into custody after the investigation along with eyewitness testimony from a LVMPD officer determines that the occupants in the car did not start the fight. The two men become belligerent with officers and one of the men tries to flee while being cuffed. Both men are physically restrained and placed into a waiting paddy wagon. The suspects are taken to jail for participation in a fray and resisting arrest.
 - Hillsborough County, FL -- Deputy J.T. Stahlschmidt of the Sheriff's Office pulls over a vehicle for speeding and running stop signs. The driver tells the deputy that he was trying to get to his apartment. The deputy becomes suspicious of the man's story because of the man's jittery and erratic behavior. When asked to get out of the truck the man begins sticking his hands into his pockets and pulls out a wadded tissue. The man tells the deputy it is for blowing his nose, and then mimes doing just that before shaking out crack cocaine rocks onto the ground. He is arrested and taken to jail for possession, possibly with intent to sell.
 
-## CP-1930
+### CP-1930
 
 Aired 2007-02-17.
 
@@ -16947,7 +16947,7 @@ Aired 2007-02-17.
 - (Chattanooga, TN -- 10:35 PM Traffic Stop) Officer Derrick Pendergrass deals
   with a suspect who swallowed crack in an attempt to hide it.
 
-## CP-1931
+### CP-1931
 
 Aired 2006-11-25.
 
@@ -16957,7 +16957,7 @@ Aired 2006-11-25.
 - Deputy Andrea Eagon of the Hillsborough County, FL Sheriff's Office joins fellow Deputy James Ennis in a traffic stop. The individual behind the wheel tells deputies he is meeting a friend and yells "Pocahontas!" towards a person walking away. Deputy Eagon stops the person and learns that it is male cross dresser who met the suspect on a phone chat line and was meeting with the man for a date. The respectful deputy runs Pocahontas' info and learns that he has an outstanding warrant. The male suspect in the original traffic stop is also arrested after the vehicle he is driving is determined to be stolen. The deputies also inform him that his date is a man, a fact he did not know. The concerned deputies warn him to be careful of whom he meets on chat lines.
 - Officer Norman Jahn assists Officer Evan Rosenthal of the Las Vegas Metropolitan Police Department during a traffic stop on the famous Las Vegas Strip. Officer Rosenthal informs Officer Jahn that the reason for the initial stop is for several flashing blue lights attached to parts of the vehicle -- an automotive decoration that is illegal in Nevada. Officer Jahn questions the female driver and learns that she was out to pick up her friend near a casino on the Strip. The officer informs her that her passenger is only 18 and has priors for prostitution; a fact the driver claims to have no knowledge of. The 18 year old passenger is told that she has been ordered off the Strip for prostitution activities by the Vice Unit. While neither woman admits that they are currently engaged in prostitution activities, the 18 year old tells Officer Rosenthal that her pimp has beaten and tased her in the past and she does not know how to get out of the lifestyle. She is taken to jail while the driver is released and admonished for potentially maintaining a vehicle for prostitution.
 
-## CP-1932
+### CP-1932
 
 Aired 2007-06-02.
 
@@ -16967,7 +16967,7 @@ Aired 2007-06-02.
 - FTO John Mathis of the Boise Police Department is dispatched to an apartment complex to investigate a charge of stalking. A divorced woman tells Officer Mathis that her ex-husband has been threatening her life, the life of their children and the life of her new boyfriend and has been lurking about despite a restraining order. He makes contact with the ex-husband who claims that he has done nothing wrong and only wants to be allowed to see his children. The officers take him in to custody after questioning the suspect further and determining that his actions do constitute stalking.
 - Corporal Brian Adams of the Brevard County Sheriff's Office assists FTO Brad Bellflower on a traffic stop after observing a vehicle leaving a known drug area. The driver tells the deputies that he was visiting a friend and was on his way home. The deputies do a pat down of the man a find a capped needle and dope in his pocket. The female passenger denies any knowledge of illegal activities but a search of the vehicle turns up a scale and a pipe in her purse. She then changes her story and tells the deputies that the driver asked her to place the items in her purse as they were being pulled over. The deputies admonish the young lady and tell her she should pick her friends more wisely.
 
-## CP-1933
+### CP-1933
 
 Aired 2007-06-09.
 
@@ -16975,7 +16975,7 @@ Aired 2007-06-09.
 
 - (Hillsborough County, FL -- 1:08 AM Burglary in Progress) Sheriff's Office District 1 Deputy Andrea Eagon assists two fellow deputies in a burglary that resulted in a foot pursuit. The suspect is in possession of several pieces of jewelry that are correctly identified by the kiosk owner at the scene. The victims, owners of a jewelry kiosk, were questioned and the kiosk searched for damage. The suspect was taken to jail for further questioning. Officer Damon Barringer of the Las Vegas Metropolitan Police Department responds to a local motel after receiving a call of a male complaining of chest pains after a drunken domestic squabble with his new bride. The two lovebirds had visited a dance club and the irate husband had become jealous after watching his younger bride dance provocatively. After arriving at home the two proceeded to argue, culminating in the woman attacking her husband in a fit of rage. The woman is taken into custody after admitting to the attack and the officers suggest that the two either get counseling or a divorce. Officer Marc Sullivan of the Boston Police Department and Massachusetts State Trooper Jesse Sweet stop a vehicle for failure to have a valid inspection sticker. The passenger was found to have an outstanding warrant and is arrested. The vehicle is searched to find a bag of marijuana and a BB gun. During questioning the driver, a minor car accident occurs. Officer Sullivan questions the man who hit the van to find that he is on probation and doesn't have a driver's license. He is held until he is finished handling the first incident. Sullivan returns to questioning the driver in the initial incident, gives him a ticket and releases him.
 
-## CP-1934
+### CP-1934
 
 Aired 2007-06-16.
 
@@ -16985,7 +16985,7 @@ Aired 2007-06-16.
 - a Hillsborough County, FL., deputy chases a suspect on foot
 - Okaloosa County, FL -- a car stop with 3 women who have drugs
 
-## CP-1935
+### CP-1935
 
 Aired 2007-06-23.
 
@@ -17015,7 +17015,7 @@ Aired 2007-06-23.
   into custody because of her boisterous behavior, she begins to bang her head
   against the door and her boyfriend must calm her down.
 
-## CP-1936
+### CP-1936
 
 Aired 2007-07-28.
 
@@ -17026,7 +17026,7 @@ Aired 2007-07-28.
 - Hillsborough County, FL, deputies answer a domestic-dispute call
 - Las Vegas, NV -- 2:17 AM Stolen Vehicle
 
-# Season 20
+## Season 20
 
 2007-2008.
 
@@ -17049,7 +17049,7 @@ Aired 2007-07-28.
 - Spokane, WA
 - Wichita, KS
 
-## CP-2001
+### CP-2001
 
 Aired 2007-09-15.
 
@@ -17092,7 +17092,7 @@ Aired 2007-09-15.
   injury. The male 'victim' professes his love for his girlfriend and asks why
   she has to be 'so mean'.
 
-## CP-2002
+### CP-2002
 
 Aired 2007-09-22.
 
@@ -17140,7 +17140,7 @@ Aired 2007-09-22.
   collaborates the story told by the clerks. One of the young men's mothers
   comes to the station and tearfully confronts her son about the assault.
 
-## CP-2003
+### CP-2003
 
 Aired 2007-10-06.
 
@@ -17179,7 +17179,7 @@ Aired 2007-10-06.
   when the female hit him in the head with a glass object.  The woman claims
   she was defending herself but her story in inconsistent.
 
-## CP-2004
+### CP-2004
 
 Aired 2007-11-17.
 
@@ -17218,7 +17218,7 @@ Aired 2007-11-17.
   The woman and her son argue playfully as the vehicles are towed and the other
   driver is attended to.
 
-## CP-2005
+### CP-2005
 
 Aired 2007-11-24.
 
@@ -17252,7 +17252,7 @@ Aired 2007-11-24.
   questioned and arrested. The officers counted 14 bags of Heroin and over $700
   in cash.
 
-## CP-2006
+### CP-2006
 
 Aired 2007-11-03.
 
@@ -17282,7 +17282,7 @@ Aired 2007-11-03.
   residence, the two suspects exit the home and are taken into custody without
   incident.
 
-## CP-2007
+### CP-2007
 
 Aired 2007-09-08.
 
@@ -17310,7 +17310,7 @@ Aired 2007-09-08.
   states the suspect's shoe matches that of a print found on the counter at the
   scene of the crime.
 
-## CP-2008
+### CP-2008
 
 Aired 2007-11-10.
 
@@ -17341,7 +17341,7 @@ Aired 2007-11-10.
   and both men point the finger at the other as the culprit. Has a special new
   intro.
 
-## CP-2009
+### CP-2009
 
 Aired 2007-09-08.
 
@@ -17382,7 +17382,7 @@ Aired 2007-09-08.
   is violated by the officers.  The driver is arrested and taken to jail for
   felony drunk driving.
 
-## CP-2010
+### CP-2010
 
 Aired 2007-10-20.
 
@@ -17429,7 +17429,7 @@ Supposed to air 2007-10-20 at 9pm, but baseball erased it. Reaired 2007-12-01.
   officers he doesn't want to go back to jail as he has gotten his life
   together in the last 3 years.
 
-## CP-2011
+### CP-2011
 
 Aired 2007-12-08.
 
@@ -17473,7 +17473,7 @@ Aired 2007-12-08.
   home. Deputy Adams tells the man that he did what he had to do to protect
   himself and ensure that he goes home to his family.
 
-## CP-2012
+### CP-2012
 
 Aired 2008-04-26.
 
@@ -17511,7 +17511,7 @@ Aired 2008-04-26.
   becomes belligerent and complains loudly while being taken to the paddy wagon
   and starts yelling for a lawyer and a bondsman.
 
-## CP-2013
+### CP-2013
 
 Aired 2008-01-19.
 
@@ -17551,7 +17551,7 @@ Aired 2008-01-19.
   arrives it is the same man. The man claims that it was 'too hard to leave'
   and he hated to see his 'hard work' gone.
 
-## CP-2014
+### CP-2014
 
 Aired 2008-03-15.
 
@@ -17589,7 +17589,7 @@ Aired 2008-03-15.
   this situation. Facing down her friend, she breaks down and admits to
   stealing the car, driving under the influence and wrecking the vehicle.
 
-## CP-2015
+### CP-2015
 
 Aired 2008-02-23.
 
@@ -17629,7 +17629,7 @@ Aired 2008-02-23.
   freely admits he made a mistake by not stopping quicker and states he drank a
   little that evening.
 
-## CP-2016
+### CP-2016
 
 Aired 2008-01-26.
 
@@ -17668,7 +17668,7 @@ Aired 2008-01-26.
   seems happy when he is told he will be looking at a few years. He says he
   will study law in prison because he knows how to live in prison.
 
-## CP-2017
+### CP-2017
 
 Aired 2008-02-23.
 
@@ -17711,7 +17711,7 @@ Aired 2008-02-23.
   with the gun, the male suspect denies knowledge of it but is told he is
   looking at life as this is his 'third strike' under California law.
 
-## CP-2018
+### CP-2018
 
 Aired 2008-03-01.
 
@@ -17747,7 +17747,7 @@ Aired 2008-03-01.
   so her very young son gave the Officer details. The son did, in fact, punch
   his mother and she scratched her son.
 
-## CP-2019
+### CP-2019
 
 Aired 2008-05-17.
 
@@ -17782,7 +17782,7 @@ Aired 2008-05-17.
   man's injuries. Chesterman indicates the man stole two vehicles. The owner of
   the second car identifies the man as the suspect.
 
-## CP-2020
+### CP-2020
 
 Aired 2008-03-08.
 
@@ -17814,7 +17814,7 @@ Aired 2008-03-08.
   pull him back out. The friend (who claims to have a CCW permit) pulled a gun.
   The current boyfriend tells Fink that the man is nothing but trouble.
 
-## CP-2021
+### CP-2021
 
 Aired 2008-05-07.
 
@@ -17848,7 +17848,7 @@ Aired 2008-05-07.
   marijuana, cocaine and ecstasy pills were found. He is arrested and taken to
   jail.
 
-## CP-2022
+### CP-2022
 
 Aired 2007-12-15.
 
@@ -17882,7 +17882,7 @@ Aired 2007-12-15.
   who has a bloody face tells Deputy Roufa that he is drunk and fell on the
   coffee table. (Aired at 8:30pm)
 
-## CP-2023
+### CP-2023
 
 Aired 2008-04-19.
 
@@ -17924,7 +17924,7 @@ Aired 2008-04-19.
   to walk away. Officer Connell tells the man that he will write down
   everyone's story and that detectives would sort things out.
 
-## CP-2024
+### CP-2024
 
 Aired 2008-02-16.
 
@@ -17961,7 +17961,7 @@ Aired 2008-02-16.
   that by being vigilant and running tags, sometimes you find stolen cars. The
   suspect is arrested for grand theft auto.
 
-## CP-2025
+### CP-2025
 
 Aired 2008-03-22.
 
@@ -17992,7 +17992,7 @@ Aired 2008-03-22.
   check the truck for drugs and contraband to which the driver says yes. The
   officers find a large, fist-sized bag of cocaine under the passenger seat.
 
-## CP-2026
+### CP-2026
 
 Aired 2008-03-29.
 
@@ -18031,7 +18031,7 @@ Aired 2008-03-29.
   jail. The woman also tells cops that they were assaulted by the mother of the
   children when she attacked them with bat.
 
-## CP-2027
+### CP-2027
 
 Aired 2008-02-02.
 
@@ -18067,7 +18067,7 @@ Aired 2008-02-02.
   believes strongly in that concept. The man admits he took the money out of
   the wallet but was planning on giving it to the police.
 
-## CP-2028
+### CP-2028
 
 Aired 2008-05-31.
 
@@ -18109,7 +18109,7 @@ Aired 2008-05-31.
   officers tell the man's brother that hopefully the victim will receive help
   for his illness.
 
-## CP-2029
+### CP-2029
 
 Aired 2008-07-12.
 
@@ -18147,7 +18147,7 @@ Aired 2008-07-12.
   well. The driver is told that he should pick his friends a little better in
   the future.
 
-## CP-2030
+### CP-2030
 
 Aired 2008-06-14.
 
@@ -18187,7 +18187,7 @@ Aired 2008-06-14.
   and a scale along with the marijuana pipe. The suspect insists he was smoking
   the weed but knows nothing of the meth.
 
-## CP-2031
+### CP-2031
 
 Aired 2008-06-21.
 
@@ -18227,7 +18227,7 @@ Aired 2008-06-21.
   chase. The officer tells the lucky owner that from now on he might think
   about locking his vehicle when he is away from it.
 
-## CP-2032
+### CP-2032
 
 Aired 2008-08-02.
 
@@ -18269,7 +18269,7 @@ Aired 2008-08-02.
   occupants of the vehicle to claim ownership of the pill bottle, but his
   friends tell him he needs to get help for his addiction.
 
-## CP-2033
+### CP-2033
 
 Aired 2008-07-19.
 
@@ -18316,7 +18316,7 @@ Aired 2008-07-19.
   be charged with child abuse as well. Another courier arrives with more drugs
   and they too are arrested for possession with intent to distribute.
 
-## CP-2034
+### CP-2034
 
 Aired 2008-02-02.
 
@@ -18351,7 +18351,7 @@ Aired 2008-02-02.
   and the vehicle's tires deflate, causing him to lose control and crash into
   another vehicle. The man is taken into custody without incident.
 
-## CP-2035
+### CP-2035
 
 Aired 2008-02-16.
 
@@ -18390,7 +18390,7 @@ Aired 2008-02-16.
   question the suspect further and learn the man has a warrant as well as
   priors for burglary.
 
-## CP-2036
+### CP-2036
 
 Aired 2008-07-26.
 
@@ -18436,7 +18436,7 @@ Aired 2008-07-26.
   deputies thank the men for their quick thinking and tell the suspect that
   they will make sure he get help to deal with his depression.
 
-## CP-2037
+### CP-2037
 
 Aired 2007-09-29.
 
@@ -18459,7 +18459,7 @@ Aired 2007-09-29.
 - Fresno, CA -- Deputy Keith Gray finds a joint behind a mans' ear at a traffic stop. CP-928.
 - Portland, OR -- Sgt. John Bunnell busts a pot house, takes the guys Corvette and leaves a message on his machine. CP-209.
 
-## CP-2038
+### CP-2038
 
 **20 Years Caught on Tape, Part 2**
 
@@ -18491,12 +18491,12 @@ Aired 2007-09-29.
 - Las Vegas, NV -- Officer Evan Rosenthal deals with a black dwarf who illegally performs on the streets for the second time. CP-1930.
 - Las Vegas, NV -- Officer Dennis Magill jumps into a car that goes in circles with no one driving it to stop it. CP-311.
 
-# Season 21
+## Season 21
 
 2008-2009.
 
-## CP-2101
-## S21E02
+### CP-2101
+### S21E02
 
 Aired 2008-09-06.
 
@@ -18544,8 +18544,8 @@ Aired 2008-09-06.
   his story and states the dope and the money are the driver's possessions and
   he was trying to protect his co-worker.
 
-## CP-2102
-## S21E03
+### CP-2102
+### S21E03
 
 Aired 2008-09-13.
 
@@ -18582,8 +18582,8 @@ Aired 2008-09-13.
   vehicle is impounded and the crack tests positive. Lanier comments that he is
   happy to have taken another drug dealer off the streets of Palm Beach County.
 
-## CP-2103
-## S21E04
+### CP-2103
+### S21E04
 
 Aired 2008-09-20.
 
@@ -18619,8 +18619,8 @@ Aired 2008-09-20.
   admitted to a deputy that he did meth. Both men are arrested from sales,
   transport and fleeing.
 
-## CP-2104
-## S21E05
+### CP-2104
+### S21E05
 
 Aired 2008-09-27.
 
@@ -18662,8 +18662,8 @@ Aired 2008-09-27.
   feels she did nothing wrong. Eventually, her father shakes hands with the
   victim and tells him he will get the window replaced.
 
-## CP-2105
-## S21E06
+### CP-2105
+### S21E06
 
 Aired 2008-10-04.
 
@@ -18679,8 +18679,8 @@ Aired 2008-10-04.
   Lemon Grove Station -- Corporal Christie Licudine makes contact with a female
   complainant that has called 911 to have her boyfriend arrested.
 
-## CP-2106
-## S21E07
+### CP-2106
+### S21E07
 
 Aired 2008-10-11.
 
@@ -18699,8 +18699,8 @@ Aired 2008-10-11.
   violation but the information given by the driver doesn't match what
   Communications returned.
 
-## CP-2107
-## S21E01
+### CP-2107
+### S21E01
 
 Aired 2008-09-06.
 
@@ -18740,8 +18740,8 @@ Aired 2008-09-06.
   located in the vehicle. The man claims that the large quantity is for
   personal use, but the Deputies think otherwise.
 
-## CP-2108
-## S21E08
+### CP-2108
+### S21E08
 
 Aired 2008-11-01.
 
@@ -18756,8 +18756,8 @@ Aired 2008-11-01.
   Vista Station -- Deputy Jason Phillips responds to a code cover assistance
   call.
 
-## CP-2109
-## S21E09
+### CP-2109
+### S21E09
 
 Aired 2008-11-08.
 
@@ -18774,8 +18774,8 @@ Aired 2008-11-08.
 - (North Las Vegas, NV -- 1:11 AM Disturbance Call) Police Department South Area
   Command -- Officer Peter Delalis rolls to a disturbance call.
 
-## CP-2110
-## S21E10
+### CP-2110
+### S21E10
 
 Aired 2008-11-15.
 
@@ -18791,8 +18791,8 @@ Aired 2008-11-15.
   Station -- Deputy Darren Perata of the initiates a traffic stop of a vehicle
   with an expired registration.
 
-## CP-2111
-## S21E11
+### CP-2111
+### S21E11
 
 Aired 2008-11-22.
 
@@ -18808,8 +18808,8 @@ Aired 2008-11-22.
   Enforcement Team -- Sgt. George Anthony pulls over a vehicle for aggressive
   driving.
 
-## CP-2112
-## S21E12
+### CP-2112
+### S21E12
 
 Aired 2008-12-06.
 
@@ -18826,8 +18826,8 @@ Aired 2008-12-06.
 - (North Las Vegas, NV -- 9:58 PM Disturbance Call) Police Department South Area
   Command -- Officer Sean Bryan is dispatched to a disturbance at a bus stop.
 
-## CP-2113
-## S21E14
+### CP-2113
+### S21E14
 
 Aired 2009-01-17.
 
@@ -18842,8 +18842,8 @@ Aired 2009-01-17.
   Department -- Deputy John Wilson & Deputy William Reece stop two younger males
   walking across a parking lot.
 
-## CP-2114
-## S21E15
+### CP-2114
+### S21E15
 
 Aired 2009-01-24.
 
@@ -18859,8 +18859,8 @@ Aired 2009-01-24.
   patrol when he sees the aftermath of a serious traffic collision involving a
   semi truck and a SUV.
 
-## CP-2115
-## S21E16
+### CP-2115
+### S21E16
 
 Aired 2009-01-31.
 
@@ -18876,8 +18876,8 @@ Aired 2009-01-31.
   Police Dept. -- Deputy Brad Bonnet and Deputy Jeremy Dean stop to check out
   the activities of a man parked in a neighborhood.
 
-## CP-2116
-## S21E17
+### CP-2116
+### S21E17
 
 Aired 2008-02-06.
 
@@ -18895,8 +18895,8 @@ Aired 2008-02-06.
   Officer Peter Delalis responds to a theft in progress at a Blockbuster video
   rental store.
 
-## CP-2117
-## S21E18
+### CP-2117
+### S21E18
 
 Aired 2008-02-14.
 
@@ -18915,8 +18915,8 @@ Aired 2008-02-14.
   few subjects went into a supermarket, to the bakery section, ordered a cake
   and concealed and ran out of the store.
 
-## CP-2118
-## S21E19
+### CP-2118
+### S21E19
 
 Aired 2009-02-21.
 
@@ -18935,8 +18935,8 @@ Aired 2009-02-21.
   get out of the town, go to the beach, SCUBA dive, boating, surfing, anything
   outdoors to get his head out of work.
 
-## CP-2119
-## S21E20
+### CP-2119
+### S21E20
 
 Aired 2009-02-28.
 
@@ -18955,8 +18955,8 @@ Aired 2009-02-28.
   domestics. You go into their environment, no idea if they have weapons, no
   idea who the aggressor is, have to separate them.
 
-## CP-2120
-## S21E21
+### CP-2120
+### S21E21
 
 Aired 2009-03-07.
 
@@ -18971,8 +18971,8 @@ Aired 2009-03-07.
 - (Sacramento, CA -- 4:30 PM Traffic Stop) Police Department -- Officer Michael
   Harbison stops a suspicious pedestrian and questions the man.
 
-## CP-2121
-## S21E22
+### CP-2121
+### S21E22
 
 Aired 2009-03-14.
 
@@ -18986,8 +18986,8 @@ Aired 2009-03-14.
   Unit -- Sgt. Roy Haney assigned to the gang unit, reports that the gang unit
   and the narcotics unit have teamed up to do a drug sweep in the area.
 
-## CP-2122
-## S21E23
+### CP-2122
+### S21E23
 
 Aired 2009-03-21.
 
@@ -19000,8 +19000,8 @@ Aired 2009-03-21.
 - (Hillsborough County, FL -- 12:25 AM Theft in Progress Call) Sheriff's Office
   District 2 -- Deputy Ryan Zacher catches a couple siphoning gas from a truck.
 
-## CP-2123
-## S21E25
+### CP-2123
+### S21E25
 
 Aired 2009-03-28.
 
@@ -19015,8 +19015,8 @@ Aired 2009-03-28.
 - (North Las Vegas, NV -- 5:39 PM Battery Call) Police Department South Area
   Command -- Officer Alex Ochoa is dispatched to a battery on a female call.
 
-## CP-2124
-## S21E26
+### CP-2124
+### S21E26
 
 Aired 2009-03-28.
 
@@ -19031,8 +19031,8 @@ Aired 2009-03-28.
 - (King County, WA -- 5:02 PM Deputy Assistance) Sheriff's Office Precinct 4 --
   Deputy Gerald Meyer rolls to assist a deputy with a traffic stop.
 
-## CP-2125
-## S21E29
+### CP-2125
+### S21E29
 
 Aired 2009-04-25.
 
@@ -19049,8 +19049,8 @@ Aired 2009-04-25.
   District 3 -- Officer Kevin Coleman and Officer Bruce Garner assist in the
   pursuit of a vehicle.
 
-## CP-2126
-## S21E13
+### CP-2126
+### S21E13
 
 Aired 2008-12-13.
 
@@ -19066,8 +19066,8 @@ Aired 2008-12-13.
   Precinct -- Deputy Martin Zelaya is dispatched to a call of an assault at a
   local pub.
 
-## CP-2127
-## S21E27
+### CP-2127
+### S21E27
 
 Aired 2009-04-11.
 
@@ -19085,8 +19085,8 @@ Aired 2009-04-11.
   -- Officer Aaron Morrison & Officer Carl Blad are called to a scene where
   four men are taking target practice with a BB gun.
 
-## CP-2128
-## S21E24
+### CP-2128
+### S21E24
 
 Aired 2009-03-21.
 
@@ -19101,8 +19101,8 @@ Aired 2009-03-21.
   Third Precinct -- Officer Brian Grahme breaks up a fight started by an angry
   jilted lesbian.
 
-## CP-2129
-## S21E28
+### CP-2129
+### S21E28
 
 Aired 2009-04-25.
 
@@ -19117,8 +19117,8 @@ Aired 2009-04-25.
 - (King County, WA -- 9:53 PM Suspicious Activity) Det. Todd Miller stops a
   vehicle seen leaving an area with a high rate of drug activity.
 
-## CP-2130
-## S21E32
+### CP-2130
+### S21E32
 
 Aired 2009-05-30.
 
@@ -19133,8 +19133,8 @@ Aired 2009-05-30.
 - (Las Vegas, NV -- 7:37 PM Animal Complaint Call) FTO Tullio Pandullo responds
   to a call about a dog bite.
 
-## CP-2131
-## S21E33
+### CP-2131
+### S21E33
 
 Aired 2009-06-06.
 
@@ -19149,8 +19149,8 @@ Aired 2009-06-06.
 - (Sacramento, CA -- 5:28 PM Domestic Violence Call) Officer Todd Bevins,
   Officer Matt Armstrong, Officer Dustin Smith.
 
-## CP-2132
-## S21E31
+### CP-2132
+### S21E31
 
 Aired 2009-05-16.
 
@@ -19165,8 +19165,8 @@ Aired 2009-05-16.
   Vegas Metropolitan Police Department responds to assist another unit on a 911
   call.
 
-## CP-2133
-## S21E34
+### CP-2133
+### S21E34
 
 Aired 2009-07-11.
 
@@ -19183,8 +19183,8 @@ Aired 2009-07-11.
   Area Command -- FTO William Matchko says they are doing a follow up on a
   possible kidnapping that occurred.
 
-## CP-2134
-## S21E35
+### CP-2134
+### S21E35
 
 Aired 2009-07-18.
 
@@ -19204,8 +19204,8 @@ Aired 2009-07-18.
   strength to feed of each other using their individual strengths for each
   call.
 
-## CP-2135
-## S21E30
+### CP-2135
+### S21E30
 
 Aired 2009-05-16.
 
@@ -19220,8 +19220,8 @@ Aired 2009-05-16.
 - (Sacramento, CA -- 6:40 PM Stolen Vehicle) Officer Rob Zeiger assists in a
   felony traffic stop of an occupied stolen vehicle out of Nevada.
 
-## CP-2136
-## S21E36
+### CP-2136
+### S21E36
 
 Aired 2009-07-25.
 
@@ -19234,12 +19234,12 @@ Aired 2009-07-25.
 - (Las Vegas, NV -- 7:36 PM Officer Assistance Call) Officer Anthony Bongiovani
   gets called in as back-up for a bloody brawl.
 
-# Season 22
+## Season 22
 
 2009-2010. Contributed by `copsTvFan` instead of `thrawn`.
 
-## CP-2201
-## S22E06
+### CP-2201
+### S22E06
 
 Aired 2009-10-10.
 
@@ -19247,8 +19247,8 @@ Aired 2009-10-10.
 
 - Brevard County, FL -- 3:16 PM Warrant Call -- Deputy Brett Moore
 
-## CP-2202
-## S22E07
+### CP-2202
+### S22E07
 
 **Aired 2009-10-24.**
 
@@ -19256,8 +19256,8 @@ In Denial #3
 
 - Las Vegas, NV -- 5:25 PM Suspicious Vehicle -- Officer Kirk Guevara
 
-## CP-2203
-## S22E05
+### CP-2203
+### S22E05
 
 Aired 2009-10-03.
 
@@ -19265,8 +19265,8 @@ Aired 2009-10-03.
 
 - Las Vegas, NV -- 6:08 PM Jaywalking -- Officer Scott Nastase
 
-## CP-2204
-## S22E04
+### CP-2204
+### S22E04
 
 Aired 2009-09-26.
 
@@ -19274,8 +19274,8 @@ Aired 2009-09-26.
 
 - Las Vegas, NV -- 6:14 PM Disturbance Call -- Officer Matthew Eschker
 
-## CP-2205
-## S22E03
+### CP-2205
+### S22E03
 
 Aired 2009-09-19.
 
@@ -19283,8 +19283,8 @@ Aired 2009-09-19.
 
 - San Bernandino Co., CA -- 5:20 PM Burglary in Progress -- Deputy Jason Whitsell
 
-## CP-2206
-## S22E02
+### CP-2206
+### S22E02
 
 Aired 2009-09-12.
 
@@ -19292,8 +19292,8 @@ Aired 2009-09-12.
 
 - San Bernandino Co., CA -- 9:15 PM Pursuit in Progress -- Deputy Lisa Guerra
 
-## CP-2207
-## S22E01
+### CP-2207
+### S22E01
 
 Aired 2009-09-12.
 
@@ -19303,8 +19303,8 @@ Aired 2009-09-12.
 - Palm Beach County, FL -- 8:49 PM Disturbance call -- Sean McMichael
 - San Bernandino Co., CA -- 1:20 AM Suspicious Vehicle -- Deputy Vanessa Duardo
 
-## CP-2208
-## S22E11
+### CP-2208
+### S22E11
 
 Aired 2009-11-28.
 
@@ -19312,8 +19312,8 @@ Aired 2009-11-28.
 
 - San Bernandino Co., CA -- 9:50 PM Fight in Progress -- Deputy Vanessa Duardo
 
-## CP-2209
-## S22E08
+### CP-2209
+### S22E08
 
 Aired 2009-11-07.
 
@@ -19321,8 +19321,8 @@ Aired 2009-11-07.
 
 - Las Vegas, NV -- 6:56 PM Pursuit in Progress -- Officer Jason Vallad
 
-## CP-2210
-## S22E12
+### CP-2210
+### S22E12
 
 Aired 2009-12-05.
 
@@ -19330,8 +19330,8 @@ Aired 2009-12-05.
 
 - Las Vegas, NV -- 4:21 PM Unknown Trouble Call -- FTO Dave Howard
 
-## CP-2211
-## S22E14
+### CP-2211
+### S22E14
 
 Aired 2010-01-09.
 
@@ -19339,8 +19339,8 @@ Aired 2010-01-09.
 
 - San Bernandino Co., CA -- 8:57 PM Domestic Disturbance Call -- Deputy Jason Whitsell
 
-## CP-2212
-## S22E09
+### CP-2212
+### S22E09
 
 Aired 2009-11-14.
 
@@ -19348,8 +19348,8 @@ Aired 2009-11-14.
 
 - Kern County, CA -- 4:54 PM Criminal Investigation -- Senior Deputy Robert Stevenson
 
-## CP-2213
-## S22E15
+### CP-2213
+### S22E15
 
 Aired 2010-01-16.
 
@@ -19358,8 +19358,8 @@ Aired 2010-01-16.
 - (Tulsa County, OK -- 7:46 PM Suspicious Vehicle) Deputy Ryan Ayers, ...
 - (San Bernandino County, CA -- 9:00 PM Suspicious Person) Deputy Eddie Bachman, ...
 
-## CP-2214
-## S22E10
+### CP-2214
+### S22E10
 
 Aired 2009-11-21.
 
@@ -19367,8 +19367,8 @@ Aired 2009-11-21.
 
 - Tulsa County, OK -- 8:56 PM Carjacking -- Deputy Ryan Ayers
 
-## CP-2215
-## S22E16
+### CP-2215
+### S22E16
 
 Aired 2010-01-23.
 
@@ -19376,8 +19376,8 @@ Aired 2010-01-23.
 
 - Tulsa County, OK -- 8:59 PM Traffic Stop -- Sgt. Shane Rhames
 
-## CP-2216
-## S22E17
+### CP-2216
+### S22E17
 
 Aired 2010-01-30.
 
@@ -19385,8 +19385,8 @@ Aired 2010-01-30.
 
 - Tulsa County, OK -- 7:50 PM Pursuit in Progress -- Deputy Scott Dean
 
-## CP-2217
-## S22E21
+### CP-2217
+### S22E21
 
 Aired 2010-03-06.
 
@@ -19396,8 +19396,8 @@ Aired 2010-03-06.
 - (San Bernardino County, CA -- 12:58 AM Suspicious Vehicle) Deputy Paul Gallant
 - (Fort Myers, FL -- 10:35 PM Man With A Gun Call) Sgt. Victor Medico
 
-## CP-2218
-## S22E22
+### CP-2218
+### S22E22
 
 Aired 2010-03-13.
 
@@ -19405,8 +19405,8 @@ Aired 2010-03-13.
 
 - Fort Myers, FL -- 6:42 PM Pursuit in Progress -- Officer Wolfgang Daniel
 
-## CP-2219
-## S22E23
+### CP-2219
+### S22E23
 
 Aired 2010-03-20.
 
@@ -19414,8 +19414,8 @@ Aired 2010-03-20.
 
 - Amarillo, TX -- 1:12 AM Fight Call -- Officer Billy Jensen
 
-## CP-2220
-## S22E18
+### CP-2220
+### S22E18
 
 Aired 2010-02-13.
 
@@ -19423,8 +19423,8 @@ Aired 2010-02-13.
 
 - Houston, TX -- 7:53 PM Traffic Stop -- Sgt. Matt Richard
 
-## CP-2221
-## S22E19
+### CP-2221
+### S22E19
 
 Aired 2010-02-20.
 
@@ -19432,8 +19432,8 @@ Aired 2010-02-20.
 
 - Houston, TX -- 9:00 PM Narcotics Operation -- Officer L.V. Powell
 
-## CP-2222
-## S22E20
+### CP-2222
+### S22E20
 
 Aired 2010-02-27.
 
@@ -19441,8 +19441,8 @@ Aired 2010-02-27.
 
 - Houston, TX -- 2:13 PM Traffic Stop -- Officer Hans Wagner and Sgt. Mark Bailey
 
-## CP-2223
-## S22E24
+### CP-2223
+### S22E24
 
 Aired 2010-03-27.
 
@@ -19450,8 +19450,8 @@ Aired 2010-03-27.
 
 - Houston, TX -- 5:20 PM Robbery Call --  Senior Officer Karl Pederson
 
-## CP-2224
-## S22E27
+### CP-2224
+### S22E27
 
 Aired 2010-05-15.
 
@@ -19459,8 +19459,8 @@ Aired 2010-05-15.
 
 - Amarillo, TX -- 8:10 PM Fight Call -- Officer Billy Jensen
 
-## CP-2225
-## S22E25
+### CP-2225
+### S22E25
 
 Aired 2010-04-17 (tvmaze, wiki) or 2010-04-03 (thetvdb).
 
@@ -19468,8 +19468,8 @@ Aired 2010-04-17 (tvmaze, wiki) or 2010-04-03 (thetvdb).
 
 - (Houston, TX -- 9:03 PM Pursuit in Progress) Senior Officer Karl Pederson
 
-## CP-2226
-## S22E28
+### CP-2226
+### S22E28
 
 Aired 2010-05-15.
 
@@ -19479,8 +19479,8 @@ Aired 2010-05-15.
 - (Amarillo, TX -- 7:11 PM Harassment Call) Officer Devin Cantwell, FTO Troy Roberson.
 - (Portland, OR -- 11:20 PM Suspicious Person) Officer Ryan Derry, Officer Jason Harris.
 
-## CP-2227
-## S22E26
+### CP-2227
+### S22E26
 
 Aired 2010-04-24 (tvmaze, wiki) or 2010-04-17 (thetvdb).
 
@@ -19489,8 +19489,8 @@ Aired 2010-04-24 (tvmaze, wiki) or 2010-04-17 (thetvdb).
 - (Portland, OR -- 11:10 PM Suspicious Activity) Officer Ryan Reagan and
   Officer Tony Hill.
 
-## CP-2228
-## S22E29
+### CP-2228
+### S22E29
 
 Aired 2010-06-05 (tvmaze, wiki) or 2010-06-12 (thetvdb).
 
@@ -19498,8 +19498,8 @@ Aired 2010-06-05 (tvmaze, wiki) or 2010-06-12 (thetvdb).
 
 - Maricopa County, AZ -- 10:30 PM Vehicle Pursuit in Progress -- Deputy Patrick Arend
 
-## CP-2229
-## S22E33
+### CP-2229
+### S22E33
 
 Aired 2010-07-10.
 
@@ -19507,8 +19507,8 @@ Aired 2010-07-10.
 
 - Portland, OR -- 7:53 PM Fight Call -- Officer Andy Polas and Officer Ty Garrison
 
-## CP-2230
-## S22E30
+### CP-2230
+### S22E30
 
 Aired 2010-06-12.
 
@@ -19516,8 +19516,8 @@ Aired 2010-06-12.
 
 - Amarillo, TX -- 8:22 PM Suspicious Activity -- Officer Johnny Bermea
 
-## CP-2231
-## S22E31
+### CP-2231
+### S22E31
 
 Aired 2010-06-19.
 
@@ -19525,8 +19525,8 @@ Aired 2010-06-19.
 
 - Houston, TX -- 5:44 PM Possible Drug Activity -- Sgt. Larry Mikel
 
-## CP-2232
-## S22E32
+### CP-2232
+### S22E32
 
 Aired 2010-07-03.
 
@@ -19534,8 +19534,8 @@ Aired 2010-07-03.
 
 - Amarillo, TX -- 9:49 PM Possible Burglary in Progress -- Officer James Blandford
 
-## CP-2233
-## S22E34
+### CP-2233
+### S22E34
 
 Aired 2010-07-17.
 
@@ -19543,8 +19543,8 @@ Aired 2010-07-17.
 
 - Boynton Beach, FL -- 9:16 PM Pursuit in Progress -- Officer Charles Turco
 
-## CP-2234
-## S22E35
+### CP-2234
+### S22E35
 
 Aired 2010-07-24.
 
@@ -19552,8 +19552,8 @@ Aired 2010-07-24.
 
 - San Diago County, CA -- Surveillance Camera -- 7:27 AM Possible Immigration Violation -- Officer Edward Chavoya, Officer Alfredo Loperena
 
-## CP-2235
-## S22E36
+### CP-2235
+### S22E36
 
 Aired 2010-07-31.
 
@@ -19561,8 +19561,8 @@ Aired 2010-07-31.
 
 - Houston, TX -- 11:07 PM Suspicious Vehicle -- Senior Officer Eduardo Medrano, Sgt. Matt Richard, Officer Reece Hardy.
 
-## CP-2236
-## S22E13
+### CP-2236
+### S22E13
 
 Aired 2009-12-12.
 
@@ -19570,111 +19570,111 @@ Aired 2009-12-12.
 
 - Portland, OR -- 8:35 PM Vice Call -- Officer Josh Howery and Officer Erica Hurley
 
-# Season 23
+## Season 23
 
 2010-2011.
 
-## S23E01
+### S23E01
 
 - (Boynton Beach, FL -- 10:49 PM Suspicious Vehicle) Officer Michael Arco
 
-## S23E02
+### S23E02
 
 - (Rio Grande City, TX -- 1:40 PM Narcotics Operation) Supervisor Albert Diaz
 
-## S23E03
+### S23E03
 
 - (Las Vegas, NV -- 4:05 PM Fight Call) Officer Blake Goddard
 
-## S23E04
+### S23E04
 
 - (Amarillo, TX -- 3:04 AM Fight Call) Officer Caleb Finsterwald
 
-## S23E05
+### S23E05
 
 - (Amarillo, TX -- 3:28 AM Shots Fired Call) Officer J.T. Hodges.
 
-## S23E06
+### S23E06
 
 - (Atlanta, GA -- 10:57 AM Kidnapping) Inspector Wayne S. Warren II
 
-## S23E07
+### S23E07
 
 - (Las Vegas, NV -- 4:58 PM Disturbance Call) Officer William Watt
 
-## S23E08
+### S23E08
 
 - (Nye County, NV -- 9:44 PM Suspicious Vehicle) Deputy Greg Curtin
 
-## S23E09
+### S23E09
 
 - (Pierce County, WA -- 11:50 PM Suicidal Person) Deputy Robert Carpenter
 
-## S23E10
+### S23E10
 
 - (Amarillo, TX -- 10:17 PM Suspicious Activity) Corporal Craig Putram
 
-## S23E11
+### S23E11
 
 - (Pierce County, WA -- 7:29 PM Disturbance Call) Deputy Tony Messineo
 
-## S23E12
+### S23E12
 
 - (Sacramento County, CA -- 5:36 PM Vehicle Pursuit) Deputy Scott Puffer, Deputy Brant Santin
 
-## S23E13
+### S23E13
 
 - (Sacramento County, CA -- 10:11 PM Suspicious Person) Deputy Corey Newman, Deputy Thomas Lynn
 
-## S23E14
+### S23E14
 
 - (Sacramento County, CA -- 8:37 PM Suspicious Person) Deputy Orrlando Mayes, Deputy Ron Parsons
 
-## S23E15
+### S23E15
 
 - (Pierce County, WA -- 5:16 PM Suicidal Threats) Deputy Tony Messineo
 
-## S23E16
+### S23E16
 
 - (Sacramento County, CA -- 8:03 PM Traffic Stop) K-9 Deputy Shaun Hampton
 
-## S23E17
+### S23E17
 
 - (Sacramento County, CA -- 10:07 PM Traffic Stop) Deputy Mike Robertson, Deputy Orrlando Mayes
 
-## S23E18
+### S23E18
 
 - (Sacramento County, CA -- 9:42 PM Vehicle Pursuit In Progress) Deputy Mike Robertson, Deputy Michael Rogers
 
-## S23E19
+### S23E19
 
 - (Sacramento County, CA -- 5:55 PM Suspicious Activity) Deputy Orrlando Mayes, Deputy Ron Parsons
 
-## S23E20
+### S23E20
 
 - (Amarillo, TX -- 1:46 AM Street Patrol) Officer Wesley Brown
 
-## S23E21
+### S23E21
 
 - (Pierce County, WA -- 3:46 PM Domestic Violence Call) Deputy Tony Messineo
 
-## S23E22
+### S23E22
 
 - (Sacramento County, CA -- 7:36 PM Pursuit In Progress) Deputy Steve Fisher, Deputy John Mercurio
 
-# Season 24
+## Season 24
 
 2011-2012.
 
-## S24E01
+### S24E01
 
 - (Las Vegas, NV -- 5:34 PM Narcotics Sting Briefing) Lt. Laz Chavez
 
-## S24E02
+### S24E02
 
 - (Corpus Christi, TX -- 6:28 PM Pursuit In Progress) Senior Officer Mike Wertanen
 
-## S24E03
+### S24E03
 
 **Smooth Criminal**
 
@@ -19682,307 +19682,307 @@ Aired 2009-12-12.
   Ranzie, Detective Alex Moreno, Sgt. Paul Sheridan. This is the famous
   single-segment Dalia Dippolito episode.
 
-## S24E04
+### S24E04
 
 - (Savannah, GA -- 10:18 AM Suspicious Person) Advance Patrol Officer Harold Moore
 
-## S24E05
+### S24E05
 
 - (Hillsborough County, FL -- 9:36 PM Possible Shooting Suspect) Deputy Mike Roberts
 
-## S24E06
+### S24E06
 
 - (Lafayette, LA -- 10:56 PM Disturbance Call) Corporal Ron Clark
 
-## S24E07
+### S24E07
 
 - (Springfield, MO -- 11:57 PM Disturbance Call) Officer Travis Wilson
 
-## S24E08
+### S24E08
 
 - (Springfield, MO -- 3:25 AM Traffic Stop) Officer Benjamin Lord
 
-## S24E09
+### S24E09
 
 - (Des Moines, IA -- 4:26 PM Traffic Stop) Senior Officer Jon Dallman
 
-## S24E10
+### S24E10
 
 - (Hillsborough County, FL -- 6:50 PM Assistance Call) Corporal Scott Sitton
 
-## S24E11
+### S24E11
 
 - (Las Vegas, NV -- 7:58 PM Prostitution Sting) Lt. Karen Hughes
 
-## S24E12
+### S24E12
 
 - (Spokane County, WA -- 9:21 PM Suspicious Person) Officer Juan Rodriguez, Officer Mark Brownell
 
-## S24E13
+### S24E13
 
 - (Springfield, MO -- 10:41 PM Pursuit In Progress) Officer Benjamin Lord
 
-## S24E14
+### S24E14
 
 - (Spokane County, WA -- 12:54 AM Vehicle Pursuit) Officer Juan Rodriguez
 
-## S24E15
+### S24E15
 
 - (Des Moines, IA -- 11:36 PM Suspicious Persons) Senior Officer Danny White, Officer Benjamin Bonanno
 
-## S24E16
+### S24E16
 
 - (Springfield, MO -- 2:16 AM Traffic Stop) Officer Benjamin Lord
 
-## S24E17
+### S24E17
 
 - (North Las Vegas, NV -- 7:24 PM Traffic Stop) Officer Jason Olson
 
-## S24E18
+### S24E18
 
 - (New Orleans, LA -- 9:25 PM Traffic Stop) Officer Jeffrey Yount, Officer Drew Deacon
 
-## S24E19
+### S24E19
 
 - (Springfield, MO -- 7:56 PM Officer Assistance Call) Officer Eric Morgan
 
-## S24E20
+### S24E20
 
 - (North Las Vegas, NV -- 10:40 PM Burglary In Progress) Officer Dave Brooks
 
-## S24E21
+### S24E21
 
 - (North Las Vegas, NV -- 8:18 PM Domestic Disturbance Call) Officer Dave
   Brooks. Famous segment with failed taser and "I'll get you, bitch!" comment.
 
-## S24E22
+### S24E22
 
 - (New Orleans, LA -- 5:25 PM Shots Fired Call) Officer David Aranda
 
-# Season 25
+## Season 25
 
 2012-2013.
 
-## S25E01
+### S25E01
 
 - (Toleo, OH -- 3:39 AM Domestic Disturbance Call) Patrolman Ben Cousino, Patrolman Jason Wallace
 
-## S25E02
+### S25E02
 
 - (Portland, OR -- 1:05 AM Suspicious Vehicle) Officer Scott Konczal, Officer Phil Maynard
 
-## S25E03
+### S25E03
 
 - (Alameda County, CA -- 9:12 PM Suspicious Person) Deputy Chris Mears
 
-## S25E04
+### S25E04
 
 - (Kansas City, MO -- 6:12 PM Possible Stolen Vehicle) Officer Todd Templeton, Officer Nick Cardona
 
-## S25E05
+### S25E05
 
 - (Atlanta, GA -- 1:46 AM Officer Assistance Call) Senior Officer Andrew Fincher
 
-## S25E06
+### S25E06
 
 - (Newport News, VA -- 8:21 PM Suspicious Person) Officer Frank Vito, Officer Clark Carter
 
-## S25E07
+### S25E07
 
 - (Las Vegas, NV -- 10:55 AM Assistance Call) Sgt. Tom Stoll
 
-## S25E08
+### S25E08
 
 - (Kansas City, MO -- 10:42 PM Vehicle Pursuit In Progress) Officer Ian Hobbs, Officer Dave Roberts
 
-## S25E09
+### S25E09
 
 - (Portland, OR -- 12:35 AM Vehicle Pursuit) Officer Mike Strawn, Officer Phil Maynard
 
-## S25E10
+### S25E10
 
 - (Sacramento, CA -- 8:42 PM Suspicious Person) Officer Matt Armstrong, Officer Darryl Bryan
 
-## S25E11
+### S25E11
 
 - (Portland, OR -- 5:01 AM Vehicle Pursuit) Officer Erik Strohmeyer
 
-## S25E12
+### S25E12
 
 - (Sacramento, CA -- 9:18 PM Suspicious Person) Officer Gerald Lanberg, Officer Robbie Young
 
-## S25E13
+### S25E13
 
 - (Las Vegas, NV -- 1:49 AM Suspicious Person) Officer Travis Crumrine, Officer Boe Dennett
 
-## S25E14
+### S25E14
 
 - (Newport News, VA -- 7:21 PM Pursuit In Progress) Officer Frank Vito, Officer Clark Carter
 
-## S25E15
+### S25E15
 
 - (Las Vegas, NV -- 9:32 PM Officer Assistance Call) Officer Joey Smith, Officer Jeff Firestine
 
-## S25E16
+### S25E16
 
 - (Las Vegas, NV -- 2:12 AM Suspicious Activity) Officer Ryan Pillard, Officer Scott Schaier, Officer Mark Belanger
 
-# Season 26
+## Season 26
 
 2013-2014.
 
 Network: Spike.
 
-## S26E01
+### S26E01
 
 - (Stockton, CA -- 5:12 PM Fight in Progress) Stockton Police Department  -- "Community Response Team" -- Officer Jeffrey Pope responds to a fight in progress, and while trying to detain a man potentially involved, the man runs away from the officer and foot pursuit ensues. The man is quickly captured, arrested, and narcotics were recovered inside the sweater he was wearing.
 - (Sarasota County, FL -- 10:26 PM Suspicious Activity) Sarasota Co. Sheriff's Office -- "Tactical Unit" -- Deputy Matt Tuggle is alerted by another deputy of the Tactical Unit that a vehicle was observed leaving a residence that is under surveillance for narcotics activity. Deputy Tuggle is dispatched to stop the vehicle. The vehicle is stopped, the front seat passenger continues to move his hands between the seat and console, despite numerous commands to stop. The passenger is uncooperative, and is forcibly removed from the vehicle. The passenger is brought to the ground, and placed in handcuffs. A search of the area in which the passenger was reaching yields suspected methamphetamine. The passenger and driver are questioned on scene by deputies regarding his presence at the residence.
 - (Amarillo, TX -- 12:14 AM Domestic Violence Call) Amarillo Police Department -- FTO Devin Cantwell arrives on scene and a man is handcuffed and surrounded by several police officers. FTO Cantwell is informed by the other officers they observed the man laying on the ground, and there was a small bag of marijuana beside the man. The officers questioned if the marijuana belonged to him, and he admitted it was his. In addition to the marijuana, the officers located a large sum of money on him. The officers speak to his wife, and she mentions the money is both of theirs. She informs the officers he uses other narcotics, and it explains his demeanor. The officers ask her if an argument took place earlier in the night, and she confirms there was an argument regarding a motorcycle. Afterwards, the officers advise the man the money is being returned to his wife, and he is being charged for the possession of marijuana.
 
-## S26E02
+### S26E02
 
 
 - (Stockton, CA -- 6:39 PM Burglary in Progress) Stockton Police Department -- "911 Communications Center" -- Officer Eric Morrison assists other officers at a scene where a resident sees a man in their backyard, and believes the man entered the home prior. The officers establish a perimeter around the residence before entering the backyard. Upon entering the backyard, they locate an individual fitting the description hiding up in a tree. The man is non-compliant, and a K-9 is sent to retrieve the man from the tree. The K-9 retrieves the man, and as the officers handcuff him, they notice the man is in possession of a knife that is tucked in his waistband. The man is apprehended without incident, and the knife is recovered. The man is injured as a result of the K-9 deployment, and is treated by emergency medical technicians on scene. Due to the extent of the injuries, he is transported to a hospital.
 - (Stockton, CA -- 5:26 PM Suspicious Person) Stockton Police Department -- "Community Response Team" -- While on patrol, Officer Christopher Martin recognizes a man in a residential area that is currently on parole. The man is on a bicycle, and as Officer Martin drives his vehicle closer to the man, the man rides away from the officer. The man drops the bicycle and runs away from Officer Martin. Officer Martin approaches a residence, and demands the occupants to open the door. The residents are not responding to Officer Martin's commands, and he opens the door himself. Officer Martin enters the residence and locates the man hiding inside a bedroom. The man is arrested without incident. Officer Martin interviews an occupant of the resident, and the resident claims to not have any knowledge of the man being inside the residence. Officer Martin reveals the man is violating parole, and that was why he was chased by police. One of the occupants is defensive of the man, and another occupant wants to have the man charged for entering her home without her permission.
 - (Sarasota County, FL -- 9:30 PM Suspicious Activity) Sarasota County Sheriff's Office -- "Tactical Unit" -- Deputy Adam Shaw is dispatched to stop a vehicle that was observed leaving a residence known for methamphetamine distribution. The residence is actively under surveillance by other deputies of the Tactical Unit. Deputy Shaw approaches the vehicle in question, which is a motorized scooter. The scooter is occupied by one man. Deputy Shaw checks the man's drivers license, and determines the license is suspended, and the man claims to not have known that. The man is released from the stop, and is told he cannot ride it away from the scene due to his license status. Shortly afterwards, Deputy Shaw observes the same man operating the scooter. Deputy Shaw stops the scooter, the man stops, and is quickly placed under arrest. Methamphetamine is located on the man in a search incident to arrest
 
-## S26E03
+### S26E03
 
 - (Las Vegas, NV -- 6:57 PM Fight in Progress) Las Vegas Metropolitan Police Department -- "Bolden Area Command" -- Officer Jacoby Burns responds to a fight at a liquor store. Officers arrive on scene and attempt to separate the involved individuals. The women involved are hysterical, shouting, and preventing the officers from obtaining statements. After the officers successfully remove the women from the store, Officer Burns is shown closed circuit camera footage of the fight by an employee. The camera footage shows the women confronted the employees, and started assaulting the employees before an employee does anything. One of the women then takes a soda can, and throws it at an employee. Following, the woman kicks an employee. The women are treated by emergency medical technicians outside. Officer Burns informs the women of his observations from the camera footage. Officer Burns argues with one of the women, and informs her she will be issued summonses. The woman leaves the scene in an ambulance en route to a hospital.
 - (Stockton, CA -- 9:32 PM Domestic Violence Call) Stockton Police Department -- Officer Travis Weber assists officers with a dispute between a boyfriend and girlfriend. The woman claims an argument concerning alcohol and cigarettes commenced. During the argument the woman's boyfriend spit in her eyes, and pulled her hair. In return, the woman smacked him. During the argument, the boyfriend threatened to flush the woman's deceased husband's remains down the toilet. The officers speak with the boyfriend. The man alleges the woman attempted to commit suicide. The officers immediately place the man in handcuffs. The man is informed he's under arrest for domestic violence. The man explains his side of the story, and he informs the officers he was assaulted by her, and he never laid a hand on her. Officer Antoinette Laffranchini informs Officer Weber she observed puncture wounds on the woman's arm. The woman later tells Officer Weber she's depressed, and does not deny that she tried to cause self harm. The woman is placed in handcuffs, and transported to a mental health center. The man complains of a health condition, and informs the officers he needs medical treatment. Officer Weber states he will be taken to a hospital for treatment.
 - (Amarillo, TX -- 10:34 PM Disorderly Conduct Call) Amarillo Police Department -- Patrolman Neil Jensen responds to a report of two men fighting. Patrolman Jensen locates one of the men in front of a gun shop. The man is shirtless, with his torso covered in tattoos. The man demands Patrolman Jensen to identify himself, as Patrolman Jensen commands him to stop while holding him at gunpoint. Patrolman Jensen orders the man to get out of the street, and to go down to his knees. The man moves to the sidewalk, but refuses to get to his knees. As another officer approaches, the man complies, and he's brought to the ground and placed in handcuffs. The man is now compliant, informed he's detained, and placed in the back of a police car. Patrolman Jensen interviews the other individuals involved for a statement. A woman informs Patrolman Jensen the man was belligerent and rude towards the woman. The woman's brother intervenes and tells the man to stop. The woman's brother, and the man start to fight. The woman tries to intervene, and she's struck by the man. The man retreats, retrieves a knife, and waves it towards the woman and her brother, threatening them with it. The woman shows the officer where the knife was discarded by the man. The officers return to the police car to get the man's side of the story. The man is belligerent and does not provide a statement.
 
-## S26E04
+### S26E04
 
 - (Stockton, CA -- 9:12 PM Traffic Stop) Officer Julio Morales, Officer Kevin Knall, ...
 
-## S26E05
+### S26E05
 
 - (Amarillo, TX -- 5:52 PM Traffic Stop) FTO Jeremiah Hopper, ...
 
-## S26E06
+### S26E06
 
 - (Amarillo, TX -- 12:12 AM Shots Fired Call) Corporal Troy Roberson, FTO Devin Cantwell, ...
 
-## S26E07
+### S26E07
 
 - (Stockton, CA -- 9:12 PM Domestic Disturbance Call) Officer Tom Heslin, ...
 
-## S26E08
+### S26E08
 
 - (Sarasota County, FL -- 10:34 PM Traffic Stop) Deputy James Dilling, ...
 
-## S26E09
+### S26E09
 
 - (Indianapolis, IN -- 11:49 PM Vehicle Pursuit) Patrolman Andrew McKalips, ...
 
-## S26E10
+### S26E10
 
 - (Stockton, CA -- 10:41 PM Man With a Gun Call) Sgt. Kathryn Nance, ...
 
-## S26E11
+### S26E11
 
 - (Spokane County, WA -- 2:02 AM Vehicle Pursuit In Progress) Deputy Tyler Kullman, ...
 
-## S26E12
+### S26E12
 
 - (Indianapolis, IN -- 8:23 PM Suspicious Motorcycle) Patrolman Daniel Brezik, ...
 
-## S26E13
+### S26E13
 
 - (Sacramento, CA -- 8:57 PM Traffic Stop) Officer Nic Fox, Officer Ken Collier, ...
 
-## S26E14
+### S26E14
 
 - (Gwinnett County, GA -- 4:50 PM Suspicious Activity) Senior Officer Kyle McDonald, ...
 
-## S26E15
+### S26E15
 
 - (Indianapolis, IN -- 2:24 AM Vehicle Pursuit In Progress) Patrolman Mike Martin, ...
 
-## S26E16
+### S26E16
 
 - (Indianapolis, IN -- 4:06 PM Officer Assistance Call) Patrolman Molly Mason, ...
 
-## S26E17
+### S26E17
 
 - (Sacramento, CA -- 5:26 PM Domestic Violence Call) Officer Jacob Casella, Officer Traci Trapani, ...
 
-## S26E18
+### S26E18
 
 - (Richmond County, GA -- 4:54 PM Area Check) Deputy Mike Swint, ...
 
-## S26E19
+### S26E19
 
 - (Sacramento, CA -- 4:32 PM Traffic Stop) Officer Dan Wiseman, ...
 
-## S26E20
+### S26E20
 
 - (Richmond County, GA -- 7:52 PM Traffic Stop) Deputy Mike Swint, ...
 
-## S26E21
+### S26E21
 
 - (Richmond County, GA -- 1:43 AM Stolen Vehicle) Deputy Chris Tucker, ...
 
-## S26E22
+### S26E22
 
 - (Richmond County, GA -- 12:10 AM Traffic Stop) Deputy Shea Yates, ...
 
-# Season 27
+## Season 27
 
 2014-2015.
 
 Network: Spike.
 
-## S27E01
+### S27E01
 
 - (Lafayette, LA -- 10:47 PM Shots Fired Call) Officer Edward Alleman, Officer Asher Reaux. Corporal Brittney Dugas, Officer Jameson Jordan. Sgt. Shawn Terro.
 - (Palm Springs, CA -- 8:39 PM Welfare Check) Officer John Mejia, Officer Tom Beckert. Guy with mohawk gets kicked out.
 - (Glendale, AZ -- 3:36 PM Traffic Stop) Officer Brian Osborne, Officer Brandon Roemmich.
 
-## S27E02
+### S27E02
 
 - (Hillsborough County, FL -- 6:31 PM Disturbance Call) Deputy Jeremy House, Deputy Dominick J. DeSiato.
 - (Palm Springs, CA -- 10:29 PM Suspicious Activity) Officer Miguel Torres, Officer Richard Salomon.
 - (Glendale, AZ -- 6:09 PM Shoplifting Call) Officer Jonathan Clubb, Officer Tara Mitchell, Officer Nat Newport.
 
-## S27E03
+### S27E03
 
 - (Lafayette, LA -- 11:35 PM Possible Stolen Vehicle) Corporal Jeremy Dupuis, Corporal Jonathon Sanchez, Corporal Ross Sonnier, Officer Karl Ratcliff, Corporal Michael Milazzo, Sgt. Shawn Arwood, Detective Drew LeBlanc.
 - (Glendale, AZ -- 12:05 PM Suspicious Person) Officer Nicholas Lively, Sgt. Aaron Aldridge, Officer Mark Schilling, Officer Travor D. Goode.
 - (Glendale, AZ -- 6:44 PM Welfare Check) Officer John Rebholz, Officer Rod Veneraction.
 
-## S27E04
+### S27E04
 
 - (Glendale, AZ -- 2:57 PM Shoplifting Call) Officer Mark Lindsey, Officer Paul Lopez. Tackle in front of Kohl's.
 - (Lafayette, LA -- 12:52 AM Armed Robbery In Progress) Officer Edward Alleman, Corporal Jonathon Sanchez, Corporal Michael Milazzo.
 - (Nye County, NV -- 10:33 AM Custody Transfer) Deputy Alex Cox, Deputy Wes Fancher.
 
-## S27E05
+### S27E05
 
 - (Glendale, AZ -- 7:53 PM Suspicious Activity Call) Officer Tara Mitchell, Officer Jonathan Clubb, K-9 Officer Bryan Anderson, Officer Cody Howard, Sgt. Jeff Daukus, Officer Nat Newport.
 - (Palm Beach County, CA -- 1:55 AM Stolen Vehicle Sting) Deputy Sheriff Osee Dumel, Sgt. Anthony Johnson.
 - (Alameda County, CA -- 8:20 PM Traffic Stop) Deputy Leo Basped.
 
-## S27E06
+### S27E06
 
 - (San Jose, CA -- 7:06 PM Neighbourhood Patrol) Officer Aaron Offenberg, Officer Marc Beretta, Officer Rod Smith, Officer Roland Ramirez.
 - (Glendale, AZ -- 10:12 AM Street Patrol) Officer Matt Schneider, Officer Jeff Pittman, Officer Kory Rafferty, Officer Rochelle Thomas, Sgt. Brian Shoop.
 - (Nye County, NV -- 2:35 PM Traffic Stop) Deputy Alex Cox, Deputy Cory Fowles.
 
-## S27E07
+### S27E07
 
 - (Lafayette, LA -- 2:54 PM Suspicious Activity) Corporal Bart Ryder, Sgt. Kent Goolsby, Corporal Todd Reid.
 - (Nye County, NV -- 1:50 PM Attempted Suicide) Deputy Heather Trumble, K-9 Deputy James McRae, Det. Michael Eisenloffel, Detective Eric Murphy.
 - (Bernalillo County, NM -- 7:15 PM Domestic Violence Call) Deputy Johann Jareno, Dep. 1st Class Aaron Schwartz.
 
-## S27E08
+### S27E08
 
 - (Lafayette, LA -- 11:49 PM Possible Stolen Vehicle) Corporal Jonathon Sanchez, Corporal Tyler Howerton.
 - (Springfield, MO -- 10:19 PM Disturbance Call) Officer Jim Cooney, Officer Ben Haines.
 - (Bernalillo County, NM -- 3:23 PM Possible Fight In Progress) Dep. 1st Class Daniel Portell, Sgt. Larry Harlan.
 
-## S-2701
+### S-2701
 
 **Bryce Dion Tribute**
 
@@ -19996,285 +19996,285 @@ Network: Spike.
 
 TODO: complete this.
 
-## S27E09
+### S27E09
 
 - (Springfield, MO -- 2:14 AM Disturbance Call) Officer Jim Cooney, Lt. Scott Kamykowski, Officer Ben Haines, Officer Michael Ramsey. Transgender woman on a wheelchair gets attacked.
 - (North Las Vegas, NV -- 2:33 AM Domestic Disturbance Call) Officer Eric Leavitt, Officer Jeff Heitzenrater.
 - (Pahrump, Nye County, NV -- 12:26 PM Traffic Stop) Deputy Alex Cox, Deputy Cory Fowles, Deputy Crystal Barajas. Famous "Can you relax?" segment.
 
-## S27E10
+### S27E10
 
 - (Independence, MO -- 6:32 PM Traffic Stop) Officer Mark Showman, Officer Kirsten Baker, Officer Christopher Kimmel.
 - (Homestead, FL -- 10:11 AM Officer Assistance Call) Patrolman Anthony Green, Det. Christopher Grady, Detective David Mata.
 - (Glendale, AZ -- 12:53 PM Suspicious Person) Officer Matt Schneider, Officer Jeff Pittman.
 
-## S27E11
+### S27E11
 
 - (Springfield, MO -- 10:02 PM Theft Call) Officer Aaron Pearson, ...
 
-## S27E12
+### S27E12
 
 - (Richmond County, GA -- 7:39 PM Suspicious Vehicle) Deputy William Hultman, ...
 
-## S27E13
+### S27E13
 
 - (Prichard, AL -- 3:34 PM Narcotics Sting Briefing) Chief Jerry Speziale, Officer Matt Lunceford, ...
 
-## S27E14
+### S27E14
 
 - (Omaha, NE -- 7:33 PM Suicide Attempt) Officer Jackie Liebe, Officer Anthony Nguyen, ...
 
-## S27E15
+### S27E15
 
 - (Independence, MO -- 6:10 PM Stolen Vehicle) Officer Kyle Parris, ...
 
-## S27E16
+### S27E16
 
 - (Omaha, NE -- 5:44 PM Armed Carjacking Call) Officer Nick Yarpe, Officer Jordan Brandt, ...
 
-## S27E17
+### S27E17
 
 - (Des Moines, IA -- 3:41 PM Possible Drunk Driver) Senior Officer Ryan Mann, ...
 
-## S27E18
+### S27E18
 
 - (Wichita, KS -- 11:45 PM Traffic Stop) Officer Skyler Boatright, ...
 
-## S27E19
+### S27E19
 
 - (Des Moines, IA -- 1:32 PM Disturbance Call) Senior Officer Ryan Mann, ...
 
-## S27E20
+### S27E20
 
 - (Savannah, GA -- 1:56 PM Suspicious Vehicle) Advanced Patrol Officer Nathan Jentzen, ...
 
-## S27E21
+### S27E21
 
 - (Des Moines, IA -- 1:55 PM Motorcycle Pursuit) Senior Officer Tim Nading, ...
 
-## S27E22
+### S27E22
 
 - (Mobile, AL -- 10:05 PM Street Patrol) Officer Jermaine Rogers, ...
 
-## S27E23
+### S27E23
 
 - (Wichita, KS -- 9:06 PM Suspicious Vehicle) Officer Rob Thatcher, Officer Justin Rapp, ...
 
-## S27E24
+### S27E24
 
 - (Wichita, KS -- 7:39 PM Traffic Stop) Officer Jonathan Estrada, ...
 
-## S27E25
+### S27E25
 
 - (Wichita, KS -- 6:36 PM Officer Assistance Call) Officer Justin Rapp, Officer Rob Thatcher, ...
 
-## S27E26
+### S27E26
 
 - (Mobile, AL -- 7:14 PM Suspicious Person) Officer Jermaine Rogers, ...
 
-## S27E27
+### S27E27
 
 - (Wichita, KS -- 2:14 AM Traffic Stop) Officer Rob Thatcher, Officer Justin Rapp, ...
 
-## S27E28
+### S27E28
 
 - (Escambia County, FL -- 7:23 PM Suspicious Person) Deputy Brandt Kessinger, ...
 
-## S27E29
+### S27E29
 
 - (Wichita, KS -- 9:13 PM Burglary Call) Officer Rob Thatcher, Officer Justin Rapp, ...
 
-## S27E30
+### S27E30
 
 - (Springfield, MO -- 7:40 PM Officer Assistance Call) Officer Brandon Keene, ...
 
-## S27E31
+### S27E31
 
 - (Escambia County, FL -- 5:05 PM Bicycle Stop) Deputy Kerem Suhi, ...
 
-## S27E32
+### S27E32
 
 - (Independence, MO -- 9:44 PM Traffic Stop) Officer Chad Stetzler, Officer Gabe Coale, ...
 
-## S27E33
+### S27E33
 
 - (Wichita, KS -- 11:11 PM Officer Assistance Call) Officer Kevin McKenna, ...
 
-# Season 28
+## Season 28
 
 2015-2016.
 
 Network: Spike.
 
-## S28E01
+### S28E01
 
 - (Sacramento, CA -- 8:26 PM Domestic Disturbance Call) Sheriff's Dept -- Deputy Brian Templeton has a call come in that has screaming and yelling on the line where the female can be heard saying don't hit me. Deputies arrive to find the female outside. She mentions that the suspect  has a restraining order against him. Deputies go to the apartment and find the suspect Adam is barricaded in the apartment, and worried about his dog. They argue back and forth while Adam holds the dog. Adam goes to hand over the dog, and gets taken into custody.
 - (Pasco County, FL -- 9:17 PM Fight In Progress) Sheriff's Office -- Corporal Royce Rodgers talks about how he has been with the department for five years, is eligible for the Sargent test, and that he will be taking it. He hopes to be a Sargent before the year is up. A call comes in as a fight with a possible stabbing or shooting. Rodgers arrives on scene to a group of people. One female is on the ground and another is standing with blood running down her leg. The female suspect talks about being under the influence of cocaine and slashed the female victim's leg with a razor blade.
 - (Pasco County, FL -- 7:40 PM Neighbor Dispute Call) Sheriff's Office -- Corporal Royce Rodgers talks about how humid it is on the job because they are so close to the Gulf of Mexico. Between seasons it's really nice out so he likes to take the time to make contacts in the community. A caller is upset about a neighbor's kittens running all around their yard. Rodgers arrives on scene to find to find the kitten's owner. She's be home all day minding her own business while the kittens are playing outside. Then the neighbors come over to tell her what she should and shouldn't do. After watching the kittens for a moment Rogers goes over to talk to the neighbors who called. The neighbors were worried about the kittens getting hit by a car. Rodgers says that the lady isn't breaking  any laws and it's best to just stay away from her.
 
-## S28E02
+### S28E02
 
 - (Fort Myers, FL -- 9:35 PM Traffic Stop) Fort Myers Police Department River District -- Officer Cassie McHale
 - (Maricopa County, AZ -- 7:26 PM Shots Fired Call) Maricopa County Sheriff's Office District 3 -- Deputy Charles Gulikers
 - (Pasco County, FL -- 8:14 PM Suspicious Activity) Pasco Sheriff's Office District 1 -- Deputy Nick Carmack
 
-## S28E03
+### S28E03
 
 - (Fort Myers, FL -- 9:58 PM Traffic Stop) Fort Myers Police Department Public Housing Patrol -- Officer Charles Ciulla and Officer Nick Ursitti
 - (Lee County, FL -- 9:32 PM Traffic Stop) Lee County Sheriff's Office North District -- Deputy Katherine McCann
 - (Lee County, FL -- 1:42 AM Traffic Stop) Lee County Sheriff's Office North District -- Deputy Chase Bubley
 
-## S28E04
+### S28E04
 
 - (Sacramento County, CA -- 10:37 AM Stolen Vehicle) Sacramento Sheriff's Dept Auto Crimes Enforcement Detail -- Detective Thomas Lynn and Detective Marlan Meggers
 - (Lee County, FL -- 8:14 PM Domestic Dispute Call) Lee County Sheriff's Office East District -- Deputy Mickey Rosado
 - (Sacramento County, CA -- 4:28 PM Stolen Vehicle Call) Sacramento Sheriff's Dept North Division -- Deputy Matt Silvey and Deputy Ken Gouveia
 
-## S28E05
+### S28E05
 
 - 10:34 PM Disturbance Call
 - 12:19 AM Traffic  Stop
 - 10:03 PM Domestic Disturbance Call
 
-## S28E06
+### S28E06
 
 - 9:45 PM  Stolen Vehicle
 - 11:53 PM Protection Order Violation
 - 10:15 PM Traffic Stop
 
-## S28E07
+### S28E07
 
 - 5:11 PM Stolen Vehicle
 - 10:59 AM  Stolen Vehicle
 - 9:46 PM Traffic Stop
 
-## S28E08
+### S28E08
 
 - 12:13 AM Suspicious Vehicles
 - 12:16 AM Suspicious Person Call
 - 7:02 PM Traffic Stop
 
-## S28E09
+### S28E09
 
 - 1:27 PM Suspicious Activity
 - 3:42 PM Possible Drug Activity
 - 7:25 PM Disturbance Call
 
-## S28E10
+### S28E10
 
 - 3:41 PM  Stolen Vehicle
 - 6:25 PM Suspected Drunk Driving
 - 11:22 PM Suspicious Vehicle
 
-## S28E11
+### S28E11
 
 - 2:31 AM Suspicious Vehicle
 - 9:32 PM Traffic Stop
 - 5:48 PM Possible Drug Activity
 
-## S28E12
+### S28E12
 
 - 8:47 PM Vehicle Pursuit
 - 12:56 AM Traffic Stop
 - 6:49 PM Assault Call
 
-## S28E13
+### S28E13
 
 - 10:53 PM Reckless Driving
 - 11:15 PM Traffic Stop
 - 8:35 PM Traffic Stop
 
-## S28E14
+### S28E14
 
 - 9:41 PM Vehicle Pursuit
 - 11:01 PM Traffic Stop
 - 12:06 AM Suspicious Person
 
-## S28E15
+### S28E15
 
 - 2:32 AM Neighborhood Watch
 - 7:39 PM Suspicious Person With A Gun
 - 6:03 PM Disturbance Call
 
-## S28E16
+### S28E16
 
 - 6:40 PM Vehicle Pursuit
 - 5:36 PM Erratic Driver
 - 8:12 PM Traffic Stop
 
-## S28E16
+### S28E16
 
 TODO
 
-## S28E17
+### S28E17
 
 TODO
 
-## S28E18
+### S28E18
 
 TODO
 
-## S28E19
+### S28E19
 
 TODO
 
-## S28E20
+### S28E20
 
 TODO
 
-## S28E21
+### S28E21
 
 TODO
 
-## S28E22
+### S28E22
 
 TODO
 
-## S28E23
+### S28E23
 
 TODO
 
-## S28E24
+### S28E24
 
 TODO
 
-## S28E25
+### S28E25
 
 TODO
 
-## S28E26
+### S28E26
 
 TODO
 
-## S28E27
+### S28E27
 
 TODO
 
-## S28E28
+### S28E28
 
 TODO
 
-## S28E29
+### S28E29
 
 TODO
 
-## S28E30
+### S28E30
 
 TODO
 
-## S28E31
+### S28E31
 
 TODO
 
-## S28E32
+### S28E32
 
 TODO
 
-## S28E33
+### S28E33
 
 TODO
 
-# Season 29
+## Season 29
 
 2016-2017.
 
@@ -20282,13 +20282,13 @@ Network: Spike.
 
 TODO
 
-# Season 30
+## Season 30
 
 2017-2018.
 
 Networks: Spike, Paramount.
 
-## S30E01
+### S30E01
 
 Aired 2017-06-17.
 
@@ -20298,7 +20298,7 @@ Aired 2017-06-17.
 - An overprotective girlfriend questions the cops and finds herself in cuffs.
 - A jealous man loses more than his girlfriend after he picks a fight with her son.
 
-## S30E02
+### S30E02
 
 Aired 2017-06-24.
 
@@ -20308,7 +20308,7 @@ Aired 2017-06-24.
 - A deputy schools a couple of teens after he discovers them in a parked car.
 - A woman is shocked when deputies reveal her brother's secret.
 
-## S30E03
+### S30E03
 
 Aired 2017-06-24.
 
@@ -20318,7 +20318,7 @@ Aired 2017-06-24.
 - A pastor calls the cops when a suspicious car parks behind his church.
 - An officer gives valuable advice to a young mother with a troubled past.
 
-## S30E04
+### S30E04
 
 Aired 2017-07-08.
 
@@ -20328,7 +20328,7 @@ Aired 2017-07-08.
 - A motorist calls the cops when a pedestrian loses his cool.
 - A relationship is jeopardized when a man resorts to old habits.
 
-## S30E05
+### S30E05
 
 Aired 2017-07-15.
 
@@ -20338,7 +20338,7 @@ Aired 2017-07-15.
 - Police are shocked when a fleeing driver calls his wife in the middle of a pursuit.
 - Deputies catch a man lying and give him a test to prove his innocence.
 
-## S30E06
+### S30E06
 
 Aired 2017-07-22.
 
@@ -20348,7 +20348,7 @@ Aired 2017-07-22.
 - A tearful woman calls deputies to help apprehend her hostile husband.
 - During a traffic stop, one passenger tries to outrun the police and his past.
 
-## S30E07
+### S30E07
 
 Aired 2017-07-29.
 
@@ -20358,7 +20358,7 @@ Aired 2017-07-29.
 - A defiant woman reveals her misdeeds and puts her marriage at risk.
 - Deputies investigate a suspicious female, but it's her friend that ends up in cuffs.
 
-## S30E08
+### S30E08
 
 Aired 2017-08-05.
 
@@ -20368,7 +20368,7 @@ Aired 2017-08-05.
 - Tempers flare between roommates after a woman feeds eggs to her dog.
 - A deputy acts swiftly when he spots a dangerous object in the backseat of a vehicle.
 
-## S30E09
+### S30E09
 
 Aired 2017-08-12.
 
@@ -20378,7 +20378,7 @@ Aired 2017-08-12.
 - A quarreling couple attracts their neighbors' attention, and police are called to intervene.
 - A disoriented driver blames his freak accident on bad weather.
 
-## S30E10
+### S30E10
 
 Aired 2017-08-21.
 
@@ -20388,7 +20388,7 @@ Aired 2017-08-21.
 - A lawbreaker tries to convince detectives they didn't just see him commit a crime.
 - An officer is called to supervise a ridiculous business transaction.
 
-## S30E11
+### S30E11
 
 Aired 2017-08-21.
 
@@ -20398,7 +20398,7 @@ Aired 2017-08-21.
 - Nothing adds up when an evasive driver tells police that he's the victim of a crime.
 - A deputy encourages a troubled young woman to turn her life around.
 
-## S30E12
+### S30E12
 
 Aired 2017-08-28.
 
@@ -20408,7 +20408,7 @@ Aired 2017-08-28.
 - A sleepy driver asks deputies to hide the truth from his angry wife.
 - Police hear everyone's story when a trespassing call becomes a neighborhood-wide ordeal.
 
-## S30E13
+### S30E13
 
 Aired 2017-09-11.
 
@@ -20418,7 +20418,7 @@ Aired 2017-09-11.
 - Two teens are slow to stop a bike thief, so police are called to assist.
 - Tensions rise after a questionable roommate situation takes a dark turn.
 
-## S30E14
+### S30E14
 
 Aired 2017-09-18.
 
@@ -20428,7 +20428,7 @@ Aired 2017-09-18.
 - Witnesses call the cops when a well-dressed driver plows through multiple barricades.
 - Even deputies are surprised when a domestic call takes an unexpected turn.
 
-## S30E15
+### S30E15
 
 Aired 2017-09-23.
 
@@ -20438,7 +20438,7 @@ Aired 2017-09-23.
 - A man bosses officers around after he's caught with some unsavory items.
 - Detectives catch a man in a sting, but he still won't admit to his crime.
 
-## S30E16
+### S30E16
 
 Aired 2017-10-02.
 
@@ -20448,7 +20448,7 @@ Aired 2017-10-02.
 - Police arrive at a hectic scene and a witness sets the record straight.
 - A confrontational cyclist blames his bad behavior on anime.
 
-## S30E17
+### S30E17
 
 "Loaded Up and Trucking"
 
@@ -20456,7 +20456,7 @@ Aired 2017-10-02.
 - Officers catch a PTA dad setting a bad example.
 - A woman with a checkered past has a hard time turning over a new leaf.
 
-## S30E18
+### S30E18
 
 Aired 2017-10-16.
 
@@ -20466,7 +20466,7 @@ Aired 2017-10-16.
 - Emotions run high after a man's mistress starts problems with his wife.
 - Officers have trouble getting a straight answer from a suspicious duo.
 
-## S30E19
+### S30E19
 
 Aired 2017-10-23.
 
@@ -20476,7 +20476,7 @@ Aired 2017-10-23.
 - Police find themselves in a vehicle pursuit when a driver's fears get the better of him.
 - A traffic stop exposes a car full of people who have a lot to hide.
 
-## S30E20
+### S30E20
 
 Aired 2017-10-30.
 
@@ -20486,7 +20486,7 @@ Aired 2017-10-30.
 - A father-to-be quickly learns that running only makes things worse.
 - An aspiring rapper treats officers to a song after he ends up in cuffs.
 
-## S30E21
+### S30E21
 
 Aired 2017-11-06.
 
@@ -20496,7 +20496,7 @@ Aired 2017-11-06.
 - A birthday celebration quickly goes south when guns get involved.
 - Deputies help break up a volatile domestic situation.
 
-## S30E22
+### S30E22
 
 Aired 2017-11-13.
 
@@ -20506,7 +20506,7 @@ Aired 2017-11-13.
 - A man down on his luck tries to hide his guilt by ditching some clothes.
 - Fists go flying when a shopkeeper confronts a man who ripped him off.
 
-## S30E23
+### S30E23
 
 Aired 2018-01-22.
 
@@ -20516,7 +20516,7 @@ Aired 2018-01-22.
 - An armed driver tells officers a far-fetched story to justify his weapon.
 - A heated back and forth ends with a call to animal control.
 
-## S30E24
+### S30E24
 
 Aired 2018-01-29.
 
@@ -20526,7 +20526,7 @@ Aired 2018-01-29.
 - A driver burns bridges with a new friend after he steals her truck.
 - Deputies urge a young man to be a better role model for his brother.
 
-## S30E25
+### S30E25
 
 Aired 2018-02-05.
 
@@ -20536,7 +20536,7 @@ Aired 2018-02-05.
 - A tense passenger starts mouthing off before deputies can get a word in.
 - Police search for a teen's stolen bike and find a man at the end of his rope.
 
-## S30E26
+### S30E26
 
 Aired 2018-02-12.
 
@@ -20546,7 +20546,7 @@ Aired 2018-02-12.
 - A suspicious man makes a series of wrong moves in front of his girlfriend.
 - Things get weird when police find a woman hiding in a cupboard.
 
-## S30E27
+### S30E27
 
 "Whose Gun Is It Anyways?"
 
@@ -20554,7 +20554,7 @@ Aired 2018-02-12.
 - a man with big dreams has a hard time telling officers why his fingerprints appear on a gun
 - a trip to buy dog food turns into a run-in with the police.
 
-## S30E28
+### S30E28
 
 Aired 2018-04-16.
 
@@ -20564,7 +20564,7 @@ Aired 2018-04-16.
 - A chicken breeder has a shady explanation for the items discovered in his car.
 - A trigger-happy man has trouble owning up to his mistakes.
 
-## S30E29
+### S30E29
 
 Aired 2018-04-23.
 
@@ -20574,7 +20574,7 @@ Aired 2018-04-23.
 - A squabbling couple brings each other down once police start asking questions.
 - Cops pull over a man who's convinced his passenger set him up.
 
-## S30E30
+### S30E30
 
 "Change of Heart"
 
@@ -20582,7 +20582,7 @@ Aired 2018-04-23.
 - a wanted suspect is convinced police told him to take off on his bike
 - a young, troubled mom gets a second chance to turn her life around.
 
-## S30E31
+### S30E31
 
 Aired 2018-05-07.
 
@@ -20592,7 +20592,7 @@ Aired 2018-05-07.
 - Even a dead car battery doesn't stop a grieving man from eluding the police.
 - A jumpy driver fails to avoid the cops and gives an awkward apology to his girlfriend.
 
-## S30E32
+### S30E32
 
 Aired 2018-05-14.
 
@@ -20602,7 +20602,7 @@ Aired 2018-05-14.
 - A woman refuses to cover for her son's friend.
 - Security cameras catch a man trying to conceal some items in a not-so-nice hiding place.
 
-## S30E33
+### S30E33
 
 Aired 2018-05-21.
 
@@ -20612,7 +20612,7 @@ Aired 2018-05-21.
 - Multiple units work together to diffuse a dangerous situation.
 - Deputies keep an eye on a custody battle that involves some expensive groceries.
 
-# Season 31
+## Season 31
 
 2018-2019.
 
@@ -20620,7 +20620,7 @@ Network: Paramount.
 
 TODO
 
-# Season 32
+## Season 32
 
 2019-2020.
 
@@ -20628,7 +20628,7 @@ Network: Paramount.
 
 TODO
 
-# Season 33
+## Season 33
 
 2021-2022.
 
@@ -20636,13 +20636,13 @@ Network: Fox Nation.
 
 TODO
 
-# Season 34
+## Season 34
 
 2022-2023.
 
 Network: Fox Nation.
 
-## S34E01
+### S34E01
 
 Aired 2022-09-30.
 
@@ -20652,7 +20652,7 @@ Aired 2022-09-30.
 - (Riverside County, CA -- 8:53 PM Suspicious Vehicle) Riverside County Sheriff's Department Perris Station -- Corporal Frank Rice -- Corporal Rice patrols the parking lot of a shopping center near Case Road and Ethanac Road. The parking lot is mostly empty except for a car parked with its door open at the north end of Just Tires tire shop. The officer approaches the vehicle and engages a man who says he's on probation and has a bag of meth on him. The suspect says that he had just purchased the vehicle. The officer confirms that he is on probation for two earlier car thefts. He informs the suspect that he is going to be arrested for violation of probation for his drug possession. He initially tells the suspect that he's going to tow his car but later changes his mind with the caveat that if he finds out the car is stolen he will tow it.
 - (Las Vegas, NV -- 7:34 PM Burglary Call) Las Vegas Metropolitan Police Department South Central Area Command -- Sergeant Greg Everett -- Owners of a vacant house report that someone has broken in and is inside. Sergeant Everett and two of his fellow officers search the house and find a man inside. Officer B. Samuelson puts the suspect in handcuffs. They discover that he had come in through a window in the kitchen. The suspect says that he's going through hard times and apologizes. A search of his bag reveals a knife and two large screwdrivers. The property owner decides to press charges. Sergeant Everett explains to the suspect that there are many services available to get him help and that he will be arrested for entering an unoccupied dwelling.
 
-## S34E02
+### S34E02
 
 Aired 2022-09-30.
 
@@ -20662,7 +20662,7 @@ Aired 2022-09-30.
 - (Spokane Valley, WA -- 9:50 PM Deputy Assistance Call) Spokane Valley Police Department -- Deputy Stephan Blaakman -- Deputy Blaakman is called to assist Deputy Christina Ennis who is confronting a suspect at the southwest corner of East Upriver Drive and North Locust Road in Spokane. Deputy V. McKenzie also assists in detaining the man. Deputy Ennis reports that she pursued the suspect who was riding a motorcycle for approximately one mile before the chase ended at their current location. The suspect is found to be carrying a chewing tobacco tin whose contents tests positive for meth. The suspect is charged with attempting to elude and possession of a controlled substance.
 - (Fort Myers, FL -- 8:56 PM Disturbance Call) Fort Myers Police Department Patrol Division -- Officer Ryan Amador -- Officer Amador arrives at an apartment building on Maple Avenue between Central Avenue and Royal Palm Avenue. A male resident tells him that a woman has pulled a gun on him and his "baby," a young teenage girl. Officer Amador confronts the woman, quickly putting her in handcuffs. She says that she rents a room in this apartment and reports that, during a confrontation with the man and his daughter, she felt threatened and produced the firearm in self defense. She says that it wasn't loaded and that she showed it to them upside down so that they could see that there was no clip. There is another woman in the apartment who is undergoing oxygen treatment. Officer Ryan Beiner, who is assisting Officer Amador says that the woman who produced the gun was Facebook friends with the woman on oxygen and that she had moved in without their permission two weeks ago. The woman is arrested and charged with aggravated assault with a weapon.
 
-## S34E03
+### S34E03
 
 Aired 2022-09-30.
 
@@ -20672,7 +20672,7 @@ Aired 2022-09-30.
 - (Riverside County, CA -- 9:27 PM Traffic Stop) Riverside County Sheriff's Department Palm Desert Station -- Deputy Nicole Wilhite -- Deputy Wilhite sees a truck run a red light and starts following it on Washington Street just north of Palm Royale Drive along the border of Palm Desert and LaQuinta, CA. She pulls the car over at the corner of Washington Street and Cll Las Brisas South. She suspects the driver has been drinking and gives him a field sobriety test and breathalyzer test. The driver is under the age of 21 which makes his legal limit 0. He blows a .022 and a .024 and is arrested for DUI under 21. Deputy Wilhite admonishes the suspect's girlfriend and allows her to kiss her boyfriend.
 - (Las Vegas, NV -- 8:19 AM Suspicious Vehicle) Las Vegas Metropolitan Police Department Downtown Area Command -- PO II Dustin Osborne -- Officer Osborne finds a vehicle parked in front of a stop sign at the northeast corner of Griffith Avenue and 5th Place in Las Vegas. There is a male in the driver's seat and a female in the passenger's seat who are asleep or passed out with their heads all the way back and their mouths wide open. PO II Ryan Levy arrives to assist along with other officers. The driver tells officer Osborne that he uses heroin and crystal meth. Both suspects say they're in Las Vegas to get married. They search the driver and find drugs. Drugs and paraphernalia are found in the car. The man is arrested and the woman is released.
 
-## S34E04
+### S34E04
 
 Aired 2022-10-07.
 
@@ -20682,7 +20682,7 @@ Aired 2022-10-07.
 - (Spokane Valley, WA -- 10:41 PM Traffic Stop) Spokane Valley Police Department -- Deputy Stephan Blaakman -- While traveling westbound on I-90 in Spokane Valley, Deputy Blaakman pulls over a vehicle which has no visible license plates near the Sprague Avenue exit. Deputy Cat Horton arrives to assist. The driver is detained for driving on a suspended license. The passenger is interviewed and tells the deputies that his driver license is in his pocket. Upon inspecting the license, Deputy Horton says that the photo on the ID is not him. The man continues to assert that he gave truthful information. Using some information about his tattoo, Deputy Blaakman was able to positively ID the passenger who had felony warrants. A search of the passenger yields a needle. They decide to ticket and release the driver. The passenger gets arrested.
 - (Riverside County, CA -- 1:41 PM Brandishing a Weapon Call) Riverside County Sheriff's Department Lake Elsinore Station -- Deputy Eliizabeth Buck -- Deputy Buck stops a car driving southwest on Riverside Drive south of Lincoln Street. Other deputies including Deputy Mark Petersen and Deputy Jason Tilley arrive to assist. The driver, whose leg is in a cast, is ordered out of his vehicle at gunpoint. The driver is aware of why he is being detained and talks about a road rage incident he had with another driver. During the incident, he said that he readied a gun because he feared for his safety. The other driver who reported it to the police said that he was waving the gun outside the car but did not say that he pointed the gun at him and decided not to press charges. Since the stopped driver did not brandish the weapon and it wasn't illegal for it to be in his possession, he is released.
 
-## S34E05
+### S34E05
 
 Aired 2022-10-14
 
@@ -20692,7 +20692,7 @@ Aired 2022-10-14
 - (Colton, CA -- 10:11 PM Traffic Stop) Colton Police Department -- Sergeant Robert Vega -- Sergeant Vega is following a car eastbound on South La Cadena Drive just west of the train tracks. The car is doing 80 mph in a 50 mph zone. He stops the driver and his female passenger at the corner of South La Cadena Drive and South 7th Street. Officer Aaron Nastase arrives to assist. When Sergeant Vega runs his license, he learns that the driver had been arrested the previous day for transportation of drugs. After some pressing the driver admits to having a couple hundred Xanax pills in the car. While searching the car, Sergeant Vega finds 800 Xanax pills, 400 Oxycontin pills along with a half pound of cocaine. The driver is arrested and booked and the passenger is released.
 - (Lee County, FL -- 2:09 AM Suspicious Vehicle) Lee County Sheriff's Office Central District -- Deputy Dylan Weissinger -- 2:09 AM Suspicious Vehicle -- Deputy Weissinger arrives at an apartment complex at 4910 Silver Gate Lane in Fort Myers to assist Deputy Renet Louis, Deputy Christopher Lopez-Burnside, and others. A male suspect flees and is quickly apprehended. While searching his car and retracing his steps from the foot chase, they find marijuana, crystal meth, crack and heroin. While interviewing the suspect, he says that he just got out of prison and denies any involvement with the drugs. He is charged with resisting arrest, possession of cocaine with intent to sell, trafficking in heroin, possession of methamphetamine, and a driving offense due to the lack of a valid driver license.
 
-## S34E06
+### S34E06
 
 Aired 2022-10-21
 
@@ -20702,7 +20702,7 @@ Aired 2022-10-21
 - (Las Vegas, NV -- 4:24 Assault Call) Las Vegas Metropolitan Police Department South Central Area Command -- Sergeant Greg Everett -- Sergeant Everett is heading to a massage parlor at 1030 East Desert Inn road where an alleged assault occurred. They find a man lying in a room with a bloody mouth. His wife is there as well. A search of the massage parlor ensues but no one is found. The man explains that he and the man who assaulted him operate a business together and got into an argument. They find the alleged assailant in an adjacent apartment building where he lives and take him into custody.
 - (Escambia County, FL -- 1:50 PM Traffic Stop) Escambia County Sheriff's Office Precinct 3 -- Deputy Matthew Keebler -- Deputy Keebler pulls over a truck for possible window tint violation. The truck has a female driver and a male passenger. The license plate on the truck belongs to a different vehicle. The passenger is detained because he has a warrant. A search of the truck reveals a stolen gun with a loaded clip that's hidden inside a glove. Deputy Keebler finds fingerprints on the clip. He arrests the passenger (John) for his warrant but doesn't charge him with possession of the gun. He tells John that he will check the fingerprints and if they belong to him he will write another warrant for him. The license plate is confiscated, Deputy Keebler says he'll reach out to the owner of the truck, and the female driver is released.
 
-## S34E07
+### S34E07
 
 Aired 2022-10-28
 
@@ -20712,7 +20712,7 @@ Aired 2022-10-28
 - (Alameda County, CA -- 10:53 AM Traffic Stop) Alameda County Sheriff's Office Eden Township Substation -- Deputy Joshua Saide -- Deputy Saide see a car run a red light Vermont Street and B Street in Hayward and pulls it over at 22766 Vermont Street just north of Hill Ave. There is only one man in the car. He purports to be on probation. Deputy Saide sees what he believes to be meth in the center console. K-9 Deputy M. Tilley arrives to assist. They find a bullet in the suspect's pocket which he is not allowed to have because he is a convicted felon. They also find meth in the vehicle along with many items that indicate that children often ride in the car. The man is arrested and says that he has two young children. Deputy Saide implores him to get help for the sake of his family. His significant other arrives with their children in tow to get the car. Deputy Saide informs her that she has a warrant and urges her to take care of it ASAP.
 - (Charleston, WV -- 11:06 PM Traffic Stop) Charleston Police Department Patrol Division -- Patrolman Zach Cyrus -- Patrolman Cyrus notices a car chasing another car. On 26th Street West, just south of WV-25, he tells the driver who is chasing the other car to stay where they are and they stop. The car being chased turns west at 6th Avenue and pulls over. The female passenger of the car being chased (woman #1) is the sister of the woman (woman #2) in the car pursuing theirs. Woman #2 thought that her sister had gone missing and was concerned when she saw her car and gave chase. Woman #1 was not responding to woman #2 because she had learned that woman #2 had been with her ex-boyfriend.
 
-## S34E08
+### S34E08
 
 Aired 2022-11-04
 
@@ -20722,7 +20722,7 @@ Aired 2022-11-04
 - (Spokane County, WA -- 10:45 PM Traffic Stop) Spokane County Sheriff's Office District 12 -- FTO Garrett Spencer -- Officer Spencer pulls over a vehicle because the registered owner has a suspended driver license. When asked, the male driver admits to having the suspended license. Officer Spencer searches the driver, finds meth in his pocket, and places him under arrest. He interviews the female passenger (Cheryl) and then searches the vehicle where he finds more meth. The driver is taken into custody and Cheryl and a dog are told they're free to leave.
 - (Grand Prairie, TX -- 7:49 PM Traffic Stop) Grand Prairie Police Department South Sector -- Officer William Walden -- Officer Walden pulls a vehicle over in the parking lot of 651 S Great SW Parkway, Grand Prairie for driving on the wrong side of the road. While talking to the male driver, he notices a strong marijuana smell. While waiting for another officer to arrive, the front passenger proclaims his hatred for police. While searching the rear passenger they find a vape pen in his pocket which the passenger says has THC; he's arrested. The front passenger is arrested for warrants and for marijuana that's found in the glove box. The driver is arrested for "P&P" (probation and parole,) driving with no license, but isn't charged with possession.
 
-## S34E09
+### S34E09
 
 Aired 2022-11-11
 
@@ -20732,7 +20732,7 @@ Aired 2022-11-11
 - (Spokane Valley, WA -- 9:30 PM Traffic Stop) Spokane Valley Police Department -- Deputy Stephan Blaakman -- Deputy Blaakman stops a car at the corner of North Willow Road and Sprague Avenue for having no license plate and a nonfunctional third brake light. The female driver says that the car may have belonged to an incarcerated individual but had been abandoned at someone's property and that she traded a couple of boat motors for it. The driver is detained. She reports that her boyfriend uses meth, but that she's been clean for a week. K-9 Deputy Tyler Kullman arrives to assist and detain the passenger. An open can of beer along with meth residue and drug paraphernalia is found in the car. The man is arrested for a warrant. Deputy Blaakman could arrest the woman for driving on a suspended license, but decides to write her a ticket instead.
 - (Escambia County, FL -- 9:24 PM Traffic Stop) Escambia County Sheriff's Office High Intensity Patrol Unit -- Deputy Larry Richardson and Deputy Gabrielle Macool -- While traveling eastbound on Clay Street near North Q Street in Pensacola, Deputies Richardson and Macool spot a yellow mustang and decide to pull it over for a window tint violation. The driver refuses to stop. They turn north on North Pace Avenue, then southwest on Loretta Street. An object is thrown from the car at North P Street where Loretta Street combines with Kelly Avenue. The car stops as Kelly Avenue turns north. The male passenger gets out and runs. The female driver (Nicole) remains in the car saying that she has just met him. Many deputies including Sergeant Jay Frydrychowicz arrive to assist and the passenger (DeAndre) is detained in and around the houses east of Kelly Avenue near Hill Drive. He's arrested for fleeing and warrants. Nicole is arrested for fleeing and marijuana possession.
 
-## S34E10
+### S34E10
 
 Aired 2022-11-18
 
@@ -20742,7 +20742,7 @@ Aired 2022-11-18
 - (Springfield, MO -- 8:11 PM Burglary in Progress) Springfield Police Department South District -- Officer Tyler Couch -- Officer Couch arrives at an apartment on the south side of West Normal Street between South Campbell Avenue and South Market Avenue to assist Officer Rachel Kleemann. While it was reported as a burglary, the suspect (man #1) actually lives at the apartment. Man #1 was in an argument with man #2 and his wife who also live at the apartment. The two men had gotten into an argument over domestic issues man #1 had with the mother of his child. Man #2 and his wife were trying to kick man #1 out of the apartment and were throwing his things outside while man #1 tried kicking in the door. Officer Trevor Merckling arrives to assist. Since man #1 lives there, they can't kick him out. The officers suggest that he take a walk and calm down before returning.
 - (Glendale, AZ -- 2:32 PM Suspicious Vehicle) Glendale Police Department Foothills Station -- Officer Kevin McCort -- Officer McCort turns south off of West Country Gables Drive into an alley that runs between North 54th and 55th Avenues in Glendale. There he finds a truck he suspects may be abandoned and may have someone living in it. He finds a woman (Shay) in the truck who says that she and a man live in the truck and that the man is visiting with a friend nearby. She gives a false name and birth date. Officer Jack Egoian assists. She admits to there being meth, heroin, G, and paraphernalia which belongs to her in the vehicle. When confronted about lying about her name she gives her real name and says she probably has a warrant and that she was on parole for armed robbery.
 
-## S34E11
+### S34E11
 
 Aired 2022-11-25
 
@@ -20752,7 +20752,7 @@ Aired 2022-11-25
 - (Hamilton County, TN -- 11:51 PM Vehicle Pursuit) Hamilton County Sheriff's Office East Sector -- Deputy Jonathan Ray joins Deputy Timothy Simulus chasing a Buick Century for a license plate that doesn't belong to that vehicle. They chase the car over a closed bridge on Standifer Gap Road and turn southeast onto Mahala Lane which dead ends into a cul-de-sac. The suspect drives into the yard between 2500 and 2501 Mahala Lane. The deputies follow him and apprehend him shortly thereafter. They find meth and an open alcohol container in his car. They charge him with felony evading, driving without a license, no registration on the vehicle, open container, and the meth.
 - (Glendale, AZ -- 3:40 PM Assistance Call) Glendale Police Department Gateway Station -- Officer Joel Queenan -- Officer Queenan arrives at Harry Bonsall Sr. Park to investigate a complaint that a person used counterfeit money to purchase products. The store employee is at the park and explains the situation and gives him the counterfeit bill the suspect allegedly used. Sitting at a nearby picnic table is the female suspect (Virginia.) She explained that her friend "Tiger" gave her the money and told her to purchase beer. Officer Queenan pointed out that the bill had Chinese characters on it. Officer Zach Burgett arrives to assist. The store employee points out to the officer that Virginia hid the beer in the nearby trash can, which Virginia admits to. Virginia is arrested and charged with possession of a forged instrument.
 
-## S34E12
+### S34E12
 
 Aired 2022-12-02
 
@@ -20762,7 +20762,7 @@ Aired 2022-12-02
 - (Hazleton, PA -- 12:15 AM Officer Assistance Call) Hazleton Police Department Headquarters -- Patrolman Keith McAlarney -- Patrolman McAlarney is called to assist Chief Jerry Speziale with a traffic stop on a car that tried to avoid a DUI checkpoint. The car is at the southwest corner of North Laurel Street and West 21st Street. The car is occupied by a female driver, a male front passenger who claims to own the car (Craig,) and a male rear passenger (man #2.) Corporal Joseph Babvla arrives to assist. They search Craig and find Xanax which he claims he has a prescription for. When man #2 is searched, pills and syringes are found. The female driver had a flare gun by her feet which Craig says belongs to him. The two men are charged with possession of drug paraphernalia and the female is charged with driving without a license and for the flare gun.
 - (Las Vegas, NV -- 7:53 PM Disturbance Call) Las Vegas Metropolitan Police Department South Central Area Command -- Sergeant Greg Everett -- Sergeant Everett arrives at an apartment complex at the northwest corner of East Flamingo Road and South University Center Drive to assist other officers including Officer Katherine Benzine, PO II B. Samuelson, PO II Michael McCarthy, and Officer Michael Cooper. A man is screaming from his balcony disturbing other residents. He appears to be experiencing a psychotic episode. Because he's combative and uncooperative, they are forced to carry him down stairs. He swings between expressions of panic and calm and says that he's been up for four days. A search of the suspect yields two small baggies with what police presume is meth. After ascertaining that he has a warrant he is arrested.
 
-## S34E13
+### S34E13
 
 Aired 2023-03-03
 
@@ -20772,7 +20772,7 @@ Aired 2023-03-03
 - (Riverside County, CA -- 11:50 PM Traffic Stop) Riverside County Sheriff's Department Moreno Valley Station -- Deputy Joseph Smith -- Deputy Smith arrives to assist Deputy Kevin Mahoney who has stopped a man in a Volkswagen Jetta for a window tint violation on Olive Wood Plaza Drive just north of Sunnymead Blvd in Moreno Valley. The 32 year old male driver has several warrants. They find a bag of meth in the center console. Deputy Smith interviews the suspect about his meth use, explains to him that his mother died from meth, and offers to help get him into a treatment program. The man is ticketed and released.
 - (Riverside County, CA -- 5:34 PM Stolen Vehicle) Riverside County Sheriff's Department Moreno Valley Station -- Deputies Joseph Smith and Jeff Andrews -- Deputies Smith and Andrews stop a man in blue Nissan Sentra who's parked in a stall at a self-service car wash on the corner of Heacock Street and Webster Avenue in Moreno Valley. The driver is on probation for stolen vehicle. A vehicle search yields a meth pipe, a knife, an identification card and credit card that don't belong to him, an Airsoft gun, and a hatchet. These items are a violation of the suspect's probation. Deputy Andrews interviews the suspect about how he came to be in possession of the car. The suspect explained that he had purchased the car five days earlier and used an app on his phone to check the car's VIN and verified that it was not stolen. Deputy Smith checks the VIN and it shows that the car is stolen out of Temecula, CA. The suspect had been arrested for possession of a stolen vehicle only two weeks earlier and had several open cases for stolen vehicles. He is charged with possession of a stolen vehicle.
 
-## S34E14
+### S34E14
 
 Aired 2023-03-10
 
@@ -20782,7 +20782,7 @@ Aired 2023-03-10
 - (Alameda County, CA -- 7:18 PM Carjacking) Alameda County Sheriff's Office Transit Crimes Unit -- Detectives Vince Hall and Aaron Bjork -- Detectives Hall and Bjork investigate a LoJack activation on a reported carjacking. They spot the Honda sedan traveling northeast on 35th Avenue at Davis Street in Oakland. The suspects turn southeast on Allendale Ave and northeast on Octavia Street and begin to flee. They turn southeast on Penniman Avenue and southwest on Abbey Street which they follow to a dead end where they flee on foot. Two passengers are quickly apprehended but the driver and another passenger elude capture. Deputy Dillon Fike and Sergeant Stephen Light arrive to assist. Deputy Bjork swabs the steering wheel in the hopes that later DNA analysis may reveal the identity of the driver. The vehicle owner arrives at the scene and is upset that valuable items are missing from his car.
 - (Las Vegas, NV -- 8:46 PM Shots Fired Call) Las Vegas Metropolitan Police Department South Central Area Command -- Sergeant Greg Everett -- Sergeant Everett arrives at an apartment complex on the north side of East Karen Avenue east of Maryland Parkway to investigate reports of someone firing a gun. They find a man on a balcony. They order him to keep his hands visible and to have his girlfriend (Capricia) open the door for officers. Officer J. Headley, Officer Liovany Garcia, and Sergeant Devin Chard arrive to assist. Officers find a gun and ten spent shotgun shells while searching the apartment. The suspect said he fired the gun in the air because he was upset. He is arrested and charged with unlawful discharge of a firearm.
 
-## S34E15
+### S34E15
 
 Aired 2023-03-17
 
@@ -20792,7 +20792,7 @@ Aired 2023-03-17
 - (Richmond County, GA -- 6:18 PM Traffic Stop) Richmond County Sheriff's Office Crime Suppression Team -- Deputy James McQuaig -- Deputy McQuaig stops the driver of a Hyundai Sonata at the southwest corner of Watkins Street and Tuttle Street in Augusta for failure to maintain lanes. The driver stops momentarily but then flees north on Tuttle Street, weaving his way around the neighborhood, eventually traveling east on Broad Street, and south on Greene Street where Deputy McQuaig performs a successful pit maneuver and stops the car. A swarm of officers extract the male suspect from the car and put him in cuffs. With the help of Deputy Tyler Wilcher, a search of the vehicle yields baggies containing various drugs and a gun.
 - (Riverside County, CA -- 7:54 PM Stolen Vehicle) Riverside County Sheriff's Department Perris Station -- Deputy Nicholas Ramirez -- Using a license plate scanning camera, Deputy Ramirez finds a stolen late 90's Honda Accord in a strip mall parking lot on the north side of West 4th Street just west of Park Avenue in Perris. He detains the driver (Manuel) at gunpoint. Manuel has a shaved head which is covered with tattoos and he is wearing a "Good Vibes Only" t-shirt. Deputy Ramirez finds a shaved key that was used to start the car. He charges Manuel with felony possession of stolen property.
 
-## S34E16
+### S34E16
 
 Aired 2023-03-24
 
@@ -20802,7 +20802,7 @@ Aired 2023-03-24
 - (Riverside County, CA -- 7:16 Traffic Stop) Riverside County Sheriff's Department Moreno Valley Station -- Deputy Joseph Smith -- Deputy Smith stops the driver of a black GMC Sierra pickup at the southwest corner of Indian Street and Dracaea Avenue in Moreno Valley for not wearing a seatbelt. The driver (Jessica) is on probation and admits to using heroin earlier in the day and having heroin residue in the truck. Deputy Smith asks her if she has anything illegal on her person and she denies. He requests a female officer to assist. CSO Samantha Hephner arrives and searches Jessica. Deputy Smith and finds the heroin residue in the truck. He offers to help get her into a recovery program and lets her go because she was cooperative.
 - (Las Vegas, NV -- 7:59 AM Suspicious Vehicle) Las Vegas Metropolitan Police Department Downtown Area Command -- PO II Dustin Osborne -- Officer Osborne arrives to assist PO II E. Espejo, PO II Ryan Levy, and PO II Colton Hafen with a stop of a cold-plated vehicle on West Bob Stupak Avenue between Fairfield Avenue and South Las Vegas Blvd in Las Vegas. As he arrives, the passenger is following Officer Espejo's instructions. The driver starts to run but only makes it a few feet before he is tackled and apprehended. The passenger is arrested for paraphernalia possession. Officer Osborne chides the driver for being 46 years old and trying to run from police. They decide not to charge the driver with fleeing, and arrest him for a warrant.
 
-## S34E17
+### S34E17
 
 Aired 2023-03-31
 
@@ -20812,13 +20812,13 @@ Aired 2023-03-31
 - (Boise, ID -- 7:59 PM Traffic Stop) Boise Police Department City Hall West -- Officer Joe Martinez -- Officer Martinez stops the driver of a black Dodge Durango at the north corner of River Street and North Capitol Blvd in Boise because the license plate is registered to a driver with a revoked license. He confirms that the driver is the man with the revoked license and pats him down for weapons. Corporal Kevin Holtry arrives to assist. The driver refuses to allow his car to be searched. A K-9 unit arrives and finds meth in the vehicle. Neither the driver nor the passenger take responsibility for the meth. They both get charged with possession.
 - (Las Vegas, NV -- 9:08 PM Traffic Stop) Las Vegas Metropolitan Police Department Downtown Area Command -- PO II LaRon Cooke  -- Officer Cooke stops the driver of a Camaro for invalid license plates in front of Gold and Silver Pawn Shop, the pawn shop featured in the reality TV series Pawn Stars. There are three passengers in the car. Officer E. Sanchez arrives to assist. The subjects are uncooperative when asked to show I.D. or give  identifying information. The driver is notified that his car will be towed due to not having a driver license or registration for the car. The front passenger is arrested for obstruction because he gave a false name to the officer.
 
-# Season 35
+## Season 35
 
 2023.
 
 Network: Fox Nation.
 
-## S35E01
+### S35E01
 
 Aired 2023-04-07.
 
@@ -20830,7 +20830,7 @@ Aired 2023-04-07.
   Samuelson, Detective Josh Haynes.
 - (Colton, CA -- 10:05 PM Traffic Stop) Detective Anthony Jaeger.
 
-## S35E02
+### S35E02
 
 Aired 2023-04-14.
 
@@ -20846,7 +20846,7 @@ Aired 2023-04-14.
   using heroin. Eric, the driver, is let go, while the woman is arrested for
   possession of fentanyl.
 
-## S35E03
+### S35E03
 
 Aired 2023-04-21.
 
@@ -20863,19 +20863,19 @@ Aired 2023-04-21.
   homeless and use drugs.  Both end up being arrested for possession of
   methamphetamine. FTO Josh Lynn and Officer Jesus Lule assist.
 
-## S35E04
+### S35E04
 
 TODO
 
-## S35E05
+### S35E05
 
 TODO
 
-## S35E06
+### S35E06
 
 TODO
 
-## S35E07
+### S35E07
 
 - (Las Vegas, NV -- 9:15 PM Man With a Knife Call) Bolden Area Command. PO II
   Garrett Roof and PO II Joseph Bringhurst. A guy threatened an employee with
