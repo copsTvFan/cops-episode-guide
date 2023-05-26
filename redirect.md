@@ -1,5 +1,6 @@
 ---
 permalink: /guide
+title: Redirect
 redirect_to: "/"
 ---
 
