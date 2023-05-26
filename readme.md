@@ -28,7 +28,7 @@ using the GitHub website (not git knowledge is required). Emails are also
 welcome (`copsTvFan` *at* `protonmail.com`), especially if you have VHS tapes
 of the show -- I am missing several episodes.
 
-# External Guides
+## External Guides
 
 - [thrawn's original guide](https://copstvfan.github.io/geocities-copsonfox-archive/) (unmaintained since 2009-08-15)
 - [epguides.com (tvmaze)](https://epguides.com/cops/) (in the [past](https://web.archive.org/web/20151230230345/http://epguides.com:80/Cops/) this guide contained production numbers too)
@@ -49,6 +49,6 @@ of the show -- I am missing several episodes.
 - [TV Tango](http://www.tvtango.com/series/cops/episodes)
 - [zap2it](https://tvschedule.zap2it.com/overview.html?programSeriesId=SH00017070&tmsId=SH000170700000&from=TVGrid&aid=gapzap)
 
-## Guides comparison
+### Guides comparison
 
 See <https://github.com/copsTvFan/cops-episode-guide/blob/master/guides-comparison.csv>.
