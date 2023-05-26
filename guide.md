@@ -9947,14 +9947,18 @@ Aired 1997-11-15.
 
 **Las Vegas, NV 24**
 
-- (12:42 AM Fight Call) Metro Downtown Area Command -- Officer Kirk Hooten says
-  he was born there, moved to Florida when he was five, then California,
-  Colorado and back there three years ago. He was a blue collar worker and
-  heard being a cop was the only really fun job and now he wouldn't trade it
-  for anything. He questions a man who claims to have acted in self-defense
-  when he beat another man during a robbery attempt. Officer Moniot sorts out a
-  dispute between two neighbors that arose after a dog did his business in a
-  yard. Lieutenant Larotonda investigates an apparent suicide in the desert.
+- (12:42 PM Fight Call) (should actually be `12:42 AM Fight Call`) Metro
+  Downtown Area Command -- Officer Kirk Hooten says he was born there, moved to
+  Florida when he was five, then California, Colorado and back there three
+  years ago. He was a blue collar worker and heard being a cop was the only
+  really fun job and now he wouldn't trade it for anything. He questions a man
+  who claims to have acted in self-defense when he beat another man during a
+  robbery attempt.
+- (Las Vegas, NV -- 7:28 PM Neighbors' Dispute) North East Area Command.
+  Officer Tim Moniot sorts out a dispute between two neighbors that arose after
+  a dog did his business in a yard.
+- (North Las Vegas, NV -- 9:03 PM Possible Suicide) Lieutenant Chris Larotonda
+  investigates an apparent suicide in the desert.
 
 ### CP-1010
 
@@ -10331,7 +10335,7 @@ Aired 1998-06-27.
 
 **Nashville, TN 12**
 
-- (7:34 PM Street Patrol) Metro Central Sector -- Officer Eric Maasikas says he
+- (7:34 PM Street Patrol) Metro Central Sector -- Officer Erik Maasikas says he
   enjoys police work because every day is different, beats doing the same thing
   day after day never boring, challenging and you get to make split second
   decisions. He investigates a report of someone breaking into vehicles; and
