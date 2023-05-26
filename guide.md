@@ -10675,7 +10675,7 @@ Aired 1998-10-10.
 
 **Atlanta, GA 7**
 
-- (10:26 AM Vehicle Pursuit) Zone 1 -- Sr. Officer J.C. Clemens wants the
+- (10:26 AM Vehicle Pursuit) Zone 1 -- Sr. Officer J. C. Clements wants the
   cleanest day possible, you give respect to get respect. He spots a car driven
   by Michael, who tossed a gun on him 2 months ago, going east on ML King. The
   car won't stop, does a u-turn, heads to an apartment complex at 3084. He
