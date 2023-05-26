@@ -10662,12 +10662,13 @@ Aired 1998-10-24.
 
 **Atlanta, GA 6**
 
-- (2:03 AM Vehicle Pursuit) Zone 3 -- Officer O'Connor pursues a suspect who
-  attempted to make a getaway during a routine traffic stop.
-- Officer Clements questions a man driving with a broken taillight and a
-  suspended license.
-- Officers Cooper and Blakely arrest three men who had who attempted to elude
-  police in a speeding car.
+- (2:03 AM Vehicle Pursuit) Zone 3 -- Officer Michael O'Connor pursues a
+  suspect who attempted to make a getaway during a routine traffic stop.
+- (Atlanta, GA -- 8:17 AM Traffic Stop) Officer J. C. Clements questions a man
+  driving with a broken taillight and a suspended license.
+- (Atlanta, GA -- 4:32 AM Vehicle Pursuit) Zone 3. Officers Matt Cooper and
+  Craig Blakley arrest three men who had who attempted to elude police in a
+  speeding car.
 
 ### CP-1107
 
