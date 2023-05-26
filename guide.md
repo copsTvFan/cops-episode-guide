@@ -9451,7 +9451,7 @@ Aired 1997-02-01.
 **Pierce County, WA 10**
 
 - (6:16 PM Suicidal Person Call) Sheriff's Dept. South Hill Precinct -- Deputy
-  Bob Nilson says you never know what to expect. One minute it is calm, then
+  Bob Nilsen says you never know what to expect. One minute it is calm, then
   the next it is complete chaos and you can barely keep up. Suicidal woman
   struggles with police
 - robbers flee
@@ -9568,9 +9568,9 @@ Aired 1997-05-17.
 **Pierce County, WA 19**
 
 - (10:59 PM Street Patrol) Sheriff's Dept South Hill Precinct HQ -- Sgt. Terry
-  Ruille talks about a woman with firearm they had to handle since SWAT
+  Rullie talks about a woman with firearm they had to handle since SWAT
   wouldn't take it. Everything has to be handled differently. A woman flags
-  down Deputy Bob Nilson. She says he husband is chasing he 14 year old
+  down Deputy Bob Nilsen. She says he husband is chasing he 14 year old
   daughter down the street who ran away. They find him and he says he wants
   their help. Missing teen; child bites mother; child-abuse complaint.
 
@@ -19404,7 +19404,9 @@ Aired 2010-03-13.
 
 **Coast to Coast #164**
 
-- Fort Myers, FL -- 6:42 PM Pursuit in Progress -- Officer Wolfgang Daniel
+- (Fort Myers, FL -- 6:42 PM Pursuit in Progress) Officer Wolfgang Daniel, ...
+- (Harris County, TX -- 4:00 PM Unknown Trouble Call) Deputy Jason Guillen, ...
+- (Lee County, FL -- 7:33 PM Fight In Progress) Bravo District. Deputy Christopher Tice, ...
 
 ### CP-2219
 ### S22E23
