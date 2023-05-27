@@ -21,10 +21,20 @@ Improvements over Thrawn's guide:
 - can be collaboratively edited (feel free to contribute!)
 - can be cloned using a single command (`git clone`) for easy archival
 
-This is still a work in progress. I would like to add all segments for all
-episodes, as well as all officer names. You can edit this guide via [pull
+## Goals
+
+For every episode:
+
+1. List all call descriptions so that people can easily identify episodes (e.g.
+   by searching for "4:00 PM Property Theft")
+2. List all featured officers so people can easily find all episodes with a
+   certain officer.
+
+## Help improve this guide
+
+This is still a work in progress. You can edit this guide via [pull
 requests](https://github.com/copsTvFan/cops-episode-guide/pulls) or by just
-using the GitHub website (not git knowledge is required). Emails are also
+using the GitHub website (no git knowledge is required). Emails are also
 welcome (`copsTvFan` *at* `protonmail.com`), especially if you have VHS tapes
 of the show -- I am missing several episodes.
 
@@ -37,6 +47,7 @@ of the show -- I am missing several episodes.
 - Wikipedia:
     - [seasons 1–20](<https://en.wikipedia.org/wiki/List_of_Cops_episodes_(seasons_1%E2%80%9320)>)
     - [season 21–present](<https://en.wikipedia.org/wiki/List_of_Cops_episodes_(season_21%E2%80%93present)>)
+- [IMDB](https://www.imdb.com/title/tt0096563/episodes) (outdated/unmaintained)
 - Aaron Greenhouse's guide (seasons 7-13)
     - [season 7](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops07.html)
     - [season 8](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops08.html)
