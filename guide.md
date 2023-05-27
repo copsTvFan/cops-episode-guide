@@ -12149,8 +12149,32 @@ Aired 2001-03-10.
 
 **Pierce County, WA 27**
 
-- (12:56 AM Traffic Stop) South Hill Precinct Sheriff's Dept -- Deputy Robert Fishe got out of the army and worked at the Pierce County jail for 8 years. He's been on the streets for 2 years now and it's exciting ever since. He runs an Oklahoma plate on a blue car that comes back expired and goes to pull the car over with 3 males inside. They drive west on 92nd into the apartments and drive around and around and bail out. They run to the Southhampton Apts and the K-9 is brought in. One gives up to Deputy Dan Wulick, the second one is caught by Deputy Jeff Reigle who says he caught one of these guys last week. Deputy Lincoln Hales turned him over to his mom last week. She was mad, said it was his first time stealing. They caught the driver and the passenger had warrants. Deputy Jason LaLiberte goes to a domestic dispute where the man, Donald, says the woman got mad because she wants a cigarette. He goes upstairs to talk to her and there is a sign that reads 'No visitors -- go away' on the door. She says she gets no respect and hit her with a lampshade. He goes back down and Don took off. Don is later caught and says he didn't do anything, won't talk to nobody, he didn't run, he just walked away and had nothing to do with anything. She bumped the lamp and it shattered. He was asleep and she woke him up, she's on the rag, cheats on him, yells and screams at him. He went to jail in January for DWLS & Malicious mischief.
-- (10:42 PM Traffic Stop) Deputy Eric Carlson says it's a lot of fun to help out the community. He goes to pull over a car that won't stop and rolls along at 10mph, then speeds off, then stops and bails out. The Mexican is caught, resists and is cuffed. He is taken back to the car and Deputy Jerry Tiffany checks him. The guy says he doesn't speak English. They go back to find a bag of coke he tossed.
+- (12:56 AM Traffic Stop) South Hill Precinct Sheriff's Dept -- Deputy Robert
+  Fishe got out of the army and worked at the Pierce County jail for 8 years.
+  He's been on the streets for 2 years now and it's exciting ever since. He
+  runs an Oklahoma plate on a blue car that comes back expired and goes to pull
+  the car over with 3 males inside. They drive west on 92nd into the apartments
+  and drive around and around and bail out. They run to the Southhampton Apts
+  and the K-9 is brought in. One gives up to Deputy Dan Wulick, the second one
+  is caught by Deputy Jeff Reigle who says he caught one of these guys last
+  week. Deputy Lincoln Hales turned him over to his mom last week. She was mad,
+  said it was his first time stealing. They caught the driver and the passenger
+  had warrants.
+- Deputy Jason LaLiberte goes to a domestic dispute where the man, Donald, says
+  the woman got mad because she wants a cigarette. He goes upstairs to talk to
+  her and there is a sign that reads 'No visitors -- go away' on the door. She
+  says she gets no respect and hit her with a lampshade.  He goes back down and
+  Don took off. Don is later caught and says he didn't do anything, won't talk
+  to nobody, he didn't run, he just walked away and had nothing to do with
+  anything. She bumped the lamp and it shattered. He was asleep and she woke
+  him up, she's on the rag, cheats on him, yells and screams at him. He went to
+  jail in January for DWLS & Malicious mischief.
+- (10:42 PM Traffic Stop) Deputy Eric Carlson says it's a lot of fun to help
+  out the community. He goes to pull over a car that won't stop and rolls along
+  at 10mph, then speeds off, then stops and bails out. The Mexican is caught,
+  resists and is cuffed. He is taken back to the car and Deputy Jerry Tiffany
+  checks him. The guy says he doesn't speak English. They go back to find a bag
+  of coke he tossed.
 
 ### CP-1319
 
@@ -12168,10 +12192,39 @@ Aired 2000-11-04.
 
 **Pierce County, WA 29**
 
-- (1:45 AM Vehicle Pursuit) AMW Special with John Walsh. He says there is lots of water, great seafood, but a big meth problem. South Hill Precinct Sheriff's Dept -- Deputy Eric Carlson chases a known meth cooker through a residential area. He has a shaved head and a ponytail, bails out, throws a bag of meth under a car and is caught and cuffed. Deputy Jason LaLiberte and Sgt. James Heishman caught him. Deputy Chad Reinbo explains to Walsh with rolling meth labs like this one. The store it and a toxicologist comes and disposes of it since it's very dangerous and the smell is overwhelming. They strip the suspect naked and hose him down in the street because he is contaminated. He has full containers of meth in the car.
-- (2:45 AM Street Patrol) Sgt. Paul Schnieder rides with Walsh. They go to a property owned by a restaurant owner who is looking for his son Duane who drives a BronCounty They find the Bronco, but it is empty. K-9 Deputy Greg is there and they find Duane who has warrant. Duane says he doesn't have any and went to court with his attorney and he's out on bail. He doesn't know what the foil is in the back of the truck and the girl he's with is a friend. His license is suspended and so is the girl's. He bought it to sell it and the guy in the back was smoking crack. He says it's hard not to be around drug user since they are everywhere. They have to cut him loose and can't believe he's clean, but there is crack in the car.
-- (3:21 AM Pursuit in Progress) South Hill Precinct -- Sgt. Paul Schnieder chases a motorcycle and when K-9 arrives the suspect Robert is caught. Robert is wired, has been arrested several times, the bike has no ignition, it's painted black, but the wheels are still purple. There's no plates, he's wearing sunglasses, his helmet has 100s of little holes in it. Rob says he just did 5 months of probation. Deputy Chad Carr asks him about the bike. Rob says it belongs to a friend who is in jail and doesn't know his name. Walsh used to race motorcross and can't believe this guy.
-- (4:12 AM Assistance Call) He stops a car with a lab. Deputy Les Bunton and Deputy Ryan Larson (TODO: was this originally Chris Larson?) caught him. The guy cooked it in the woods, loaded the car with a mask, tubes, funnel, pitchers and jars. It smells powerful and the guy says he learned how to cook it on the Internet.
+- (1:45 AM Vehicle Pursuit) AMW Special with John Walsh. He says there is lots
+  of water, great seafood, but a big meth problem. South Hill Precinct
+  Sheriff's Dept -- Deputy Eric Carlson chases a known meth cooker through a
+  residential area. He has a shaved head and a ponytail, bails out, throws a
+  bag of meth under a car and is caught and cuffed. Deputy Jason LaLiberte and
+  Sgt. James Heishman caught him. Deputy Chad Reinbo explains to Walsh with
+  rolling meth labs like this one. The store it and a toxicologist comes and
+  disposes of it since it's very dangerous and the smell is overwhelming. They
+  strip the suspect naked and hose him down in the street because he is
+  contaminated. He has full containers of meth in the car.
+- (2:45 AM Street Patrol) Sgt. Paul Schnieder rides with Walsh. They go to a
+  property owned by a restaurant owner who is looking for his son Duane who
+  drives a BronCounty They find the Bronco, but it is empty. K-9 Deputy Greg is
+  there and they find Duane who has warrant. Duane says he doesn't have any and
+  went to court with his attorney and he's out on bail. He doesn't know what
+  the foil is in the back of the truck and the girl he's with is a friend. His
+  license is suspended and so is the girl's. He bought it to sell it and the
+  guy in the back was smoking crack. He says it's hard not to be around drug
+  user since they are everywhere. They have to cut him loose and can't believe
+  he's clean, but there is crack in the car.
+- (3:21 AM Pursuit in Progress) South Hill Precinct -- Sgt. Paul Schnieder
+  chases a motorcycle and when K-9 arrives the suspect Robert is caught. Robert
+  is wired, has been arrested several times, the bike has no ignition, it's
+  painted black, but the wheels are still purple. There's no plates, he's
+  wearing sunglasses, his helmet has 100s of little holes in it. Rob says he
+  just did 5 months of probation. Deputy Chad Carr asks him about the bike. Rob
+  says it belongs to a friend who is in jail and doesn't know his name. Walsh
+  used to race motorcross and can't believe this guy.
+- (4:12 AM Assistance Call) He stops a car with a lab. Deputy Les Bunton and
+  Deputy Ryan Larson (TODO: was this originally Chris Larson?) caught him. The
+  guy cooked it in the woods, loaded the car with a mask, tubes, funnel,
+  pitchers and jars. It smells powerful and the guy says he learned how to cook
+  it on the Internet.
 
 ### CP-1321
 
@@ -20001,15 +20054,30 @@ Network: Spike.
 
 **Bryce Dion Tribute**
 
-- (Stockton, CA -- Stockton Police Department) Officer Jeffrey Pope.  Kansas
-  City, Officer Nick Cardona, Officer Todd Templeton.  Stockton, CA, Sgt.
-  Kathryn Nance.  Springfield, Officer Kevin Holle.
-- Stockton, CA -- Officer Kevin Knall.  Brevard County, FL -- Corporal Jim
-  Hudak, Deputy Brett Moore.
-- Indianapolis, IN -- Patrolman Daniel Brezik. ...
-- Amarillo, TX -- Officer Billy Jensen, Corporal Joe Loftus.
+- Segment 1:
+  - (Stockton, CA -- Stockton Police Department) Community Response Team. Officer
+    Jeffrey Pope.
+  - (Kansas City, MO -- Central Patrol) Officer Nick Cardona, Officer Todd Templeton.
+  - (Stockton, CA, -- Community Response Team) Sgt. Kathryn Nance.
+  - (Springfield, ?? -- North District) Officer Kevin Holle.
+  - (Stockton, CA -- Community Response Team) Officer Kevin Knall.
+  - (Brevard County, FL -- South Precinct) Corporal Jim Hudak, Deputy Brett Moore.
+- Segment 2:
+  - (Indianapolis, IN -- Crime Reduction Team) Patrolman Daniel Brezik.
+  - (Kansas City, MO -- East Patrol) Officer Brandon Bray, Officer Bryan
+    Britten. MAC-11 knockoff.
+  - (Stockton, CA -- Community Response Team) Officer Christopher Martin.
+- Segment 3:
+  - (Amarillo, TX -- Amarillo Police Department) Officer Billy Jensen, Corporal
+    Joe Loftus.
+  - (Amarillo, TX -- Amarillo Police Department) FTO Troy Roberson, Officer
+    Devin Cantwell.
+- Segment 4:
+  - multiple segments without any textual descriptions
 
-TODO: complete this.
+In memory of Bryce Dion (1976 -- 2014). The preceding special represents the
+work of Bryce Dion. Bryce served as a sound man and audio supervisor on the
+COPS program for a period of seven years.
 
 ### S27E09
 
@@ -20026,95 +20094,141 @@ TODO: complete this.
 ### S27E11
 
 - (Springfield, MO -- 10:02 PM Theft Call) Officer Aaron Pearson, ...
+- TODO
+- TODO
 
 ### S27E12
 
 - (Richmond County, GA -- 7:39 PM Suspicious Vehicle) Deputy William Hultman, ...
+- TODO
+- TODO
 
 ### S27E13
 
 - (Prichard, AL -- 3:34 PM Narcotics Sting Briefing) Chief Jerry Speziale, Officer Matt Lunceford, ...
+- TODO
+- TODO
 
 ### S27E14
 
 - (Omaha, NE -- 7:33 PM Suicide Attempt) Officer Jackie Liebe, Officer Anthony Nguyen, ...
+- TODO
+- TODO
 
 ### S27E15
 
 - (Independence, MO -- 6:10 PM Stolen Vehicle) Officer Kyle Parris, ...
+- TODO
+- TODO
 
 ### S27E16
 
 - (Omaha, NE -- 5:44 PM Armed Carjacking Call) Officer Nick Yarpe, Officer Jordan Brandt, ...
+- TODO
+- TODO
 
 ### S27E17
 
 - (Des Moines, IA -- 3:41 PM Possible Drunk Driver) Senior Officer Ryan Mann, ...
+- TODO
+- TODO
 
 ### S27E18
 
 - (Wichita, KS -- 11:45 PM Traffic Stop) Officer Skyler Boatright, ...
+- TODO
+- TODO
 
 ### S27E19
 
 - (Des Moines, IA -- 1:32 PM Disturbance Call) Senior Officer Ryan Mann, ...
+- TODO
+- TODO
 
 ### S27E20
 
 - (Savannah, GA -- 1:56 PM Suspicious Vehicle) Advanced Patrol Officer Nathan Jentzen, ...
+- TODO
+- TODO
 
 ### S27E21
 
 - (Des Moines, IA -- 1:55 PM Motorcycle Pursuit) Senior Officer Tim Nading, ...
+- TODO
+- TODO
 
 ### S27E22
 
 - (Mobile, AL -- 10:05 PM Street Patrol) Officer Jermaine Rogers, ...
+- TODO
+- TODO
 
 ### S27E23
 
 - (Wichita, KS -- 9:06 PM Suspicious Vehicle) Officer Rob Thatcher, Officer Justin Rapp, ...
+- TODO
+- TODO
 
 ### S27E24
 
 - (Wichita, KS -- 7:39 PM Traffic Stop) Officer Jonathan Estrada, ...
+- TODO
+- TODO
 
 ### S27E25
 
 - (Wichita, KS -- 6:36 PM Officer Assistance Call) Officer Justin Rapp, Officer Rob Thatcher, ...
+- TODO
+- TODO
 
 ### S27E26
 
 - (Mobile, AL -- 7:14 PM Suspicious Person) Officer Jermaine Rogers, ...
+- TODO
+- TODO
 
 ### S27E27
 
 - (Wichita, KS -- 2:14 AM Traffic Stop) Officer Rob Thatcher, Officer Justin Rapp, ...
+- TODO
+- TODO
 
 ### S27E28
 
 - (Escambia County, FL -- 7:23 PM Suspicious Person) Deputy Brandt Kessinger, ...
+- TODO
+- TODO
 
 ### S27E29
 
 - (Wichita, KS -- 9:13 PM Burglary Call) Officer Rob Thatcher, Officer Justin Rapp, ...
+- TODO
+- TODO
 
 ### S27E30
 
 - (Springfield, MO -- 7:40 PM Officer Assistance Call) Officer Brandon Keene, ...
+- TODO
+- TODO
 
 ### S27E31
 
 - (Escambia County, FL -- 5:05 PM Bicycle Stop) Deputy Kerem Suhi, ...
+- TODO
+- TODO
 
 ### S27E32
 
 - (Independence, MO -- 9:44 PM Traffic Stop) Officer Chad Stetzler, Officer
   Gabe Coale, ...
+- TODO
+- TODO
 
 ### S27E33
 
 - (Wichita, KS -- 11:11 PM Officer Assistance Call) Officer Kevin McKenna, ...
+- TODO
+- TODO
 
 ## Season 28
 
@@ -20440,6 +20554,136 @@ Network: Spike.
 2016-2017.
 
 Network: Spike.
+
+### S29E01
+
+TODO
+
+### S29E02
+
+TODO
+
+### S29E03
+
+TODO
+
+### S29E04
+
+TODO
+
+### S29E05
+
+TODO
+
+### S29E06
+
+TODO
+
+### S29E07
+
+TODO
+
+### S29E08
+
+TODO
+
+### S29E09
+
+TODO
+
+### S29E10
+
+TODO
+
+### S29E11
+
+TODO
+
+### S29E12
+
+TODO
+
+### S29E13
+
+TODO
+
+### S29E14
+
+TODO
+
+### S29E15
+
+TODO
+
+### S29E16
+
+TODO
+
+### S29E17
+
+TODO
+
+### S29E18
+
+TODO
+
+### S29E19
+
+TODO
+
+### S29E20
+
+TODO
+
+### S29E21
+
+TODO
+
+### S29E22
+
+TODO
+
+### S29E23
+
+TODO
+
+### S29E24
+
+TODO
+
+### S29E25
+
+TODO
+
+### S29E26
+
+TODO
+
+### S29E27
+
+TODO
+
+### S29E28
+
+TODO
+
+### S29E29
+
+TODO
+
+### S29E30
+
+TODO
+
+### S29E31
+
+TODO
+
+### S29E32
+
+TODO
+
+### S29E33
 
 TODO
 
@@ -20779,6 +21023,136 @@ Aired 2018-05-21.
 
 Network: Paramount.
 
+### S31E01
+
+TODO
+
+### S31E02
+
+TODO
+
+### S31E03
+
+TODO
+
+### S31E04
+
+TODO
+
+### S31E05
+
+TODO
+
+### S31E06
+
+TODO
+
+### S31E07
+
+TODO
+
+### S31E08
+
+TODO
+
+### S31E09
+
+TODO
+
+### S31E10
+
+TODO
+
+### S31E11
+
+TODO
+
+### S31E12
+
+TODO
+
+### S31E13
+
+TODO
+
+### S31E14
+
+TODO
+
+### S31E15
+
+TODO
+
+### S31E16
+
+TODO
+
+### S31E17
+
+TODO
+
+### S31E18
+
+TODO
+
+### S31E19
+
+TODO
+
+### S31E20
+
+TODO
+
+### S31E21
+
+TODO
+
+### S31E22
+
+TODO
+
+### S31E23
+
+TODO
+
+### S31E24
+
+TODO
+
+### S31E25
+
+TODO
+
+### S31E26
+
+TODO
+
+### S31E27
+
+TODO
+
+### S31E28
+
+TODO
+
+### S31E29
+
+TODO
+
+### S31E30
+
+TODO
+
+### S31E31
+
+TODO
+
+### S31E32
+
+TODO
+
+### S31E33
+
 TODO
 
 ## Season 32
@@ -20787,6 +21161,136 @@ TODO
 
 Network: Paramount.
 
+### S32E01
+
+TODO
+
+### S32E02
+
+TODO
+
+### S32E03
+
+TODO
+
+### S32E04
+
+TODO
+
+### S32E05
+
+TODO
+
+### S32E06
+
+TODO
+
+### S32E07
+
+TODO
+
+### S32E08
+
+TODO
+
+### S32E09
+
+TODO
+
+### S32E10
+
+TODO
+
+### S32E11
+
+TODO
+
+### S32E12
+
+TODO
+
+### S32E13
+
+TODO
+
+### S32E14
+
+TODO
+
+### S32E15
+
+TODO
+
+### S32E16
+
+TODO
+
+### S32E17
+
+TODO
+
+### S32E18
+
+TODO
+
+### S32E19
+
+TODO
+
+### S32E20
+
+TODO
+
+### S32E21
+
+TODO
+
+### S32E22
+
+TODO
+
+### S32E23
+
+TODO
+
+### S32E24
+
+TODO
+
+### S32E25
+
+TODO
+
+### S32E26
+
+TODO
+
+### S32E27
+
+TODO
+
+### S32E28
+
+TODO
+
+### S32E29
+
+TODO
+
+### S32E30
+
+TODO
+
+### S32E31
+
+TODO
+
+### S32E32
+
+TODO
+
+### S32E33
+
 TODO
 
 ## Season 33
@@ -20794,6 +21298,136 @@ TODO
 2021-2022.
 
 Network: Fox Nation.
+
+### S33E01
+
+TODO
+
+### S33E02
+
+TODO
+
+### S33E03
+
+TODO
+
+### S33E04
+
+TODO
+
+### S33E05
+
+TODO
+
+### S33E06
+
+TODO
+
+### S33E07
+
+TODO
+
+### S33E08
+
+TODO
+
+### S33E09
+
+TODO
+
+### S33E10
+
+TODO
+
+### S33E11
+
+TODO
+
+### S33E12
+
+TODO
+
+### S33E13
+
+TODO
+
+### S33E14
+
+TODO
+
+### S33E15
+
+TODO
+
+### S33E16
+
+TODO
+
+### S33E17
+
+TODO
+
+### S33E18
+
+TODO
+
+### S33E19
+
+TODO
+
+### S33E20
+
+TODO
+
+### S33E21
+
+TODO
+
+### S33E22
+
+TODO
+
+### S33E23
+
+TODO
+
+### S33E24
+
+TODO
+
+### S33E25
+
+TODO
+
+### S33E26
+
+TODO
+
+### S33E27
+
+TODO
+
+### S33E28
+
+TODO
+
+### S33E29
+
+TODO
+
+### S33E30
+
+TODO
+
+### S33E31
+
+TODO
+
+### S33E32
+
+TODO
+
+### S33E33
 
 TODO
 
@@ -20975,7 +21609,7 @@ Aired 2023-03-31
 
 ## Season 35
 
-2023.
+2023-present.
 
 Network: Fox Nation.
 
@@ -20983,7 +21617,7 @@ Network: Fox Nation.
 
 Aired 2023-04-07.
 
-**Gate Crusher Pursuit**
+**"Gate Crusher Pursuit"**
 
 - (NYE County, NV -- 12:53 AM Vehicle Pursuit) Deputy Deon Ford, Captain David
   Boruchowitz, Deputy Sedrick Sweet.
@@ -20995,7 +21629,7 @@ Aired 2023-04-07.
 
 Aired 2023-04-14.
 
-**Stolen Cycle Slingshot**
+**"Stolen Cycle Slingshot"**
 
 - (Las Vegas, NV -- 5:26 PM Robbery Call) PO II Preston Quirt, PO II Nick
   Morelli are en route a robbery. Sgt. Robert Johnson. Edward gets arrested for
@@ -21011,7 +21645,7 @@ Aired 2023-04-14.
 
 Aired 2023-04-21.
 
-**Senior Stroll**
+**"Senior Stroll"**
 
 - (Escambia County, FL -- 4:00 PM Traffic Stop) Deputy Chris Cull pulls over a
   car. The passenger, Larry from Ohio (white male, white t-shirt), isn't
@@ -21026,17 +21660,49 @@ Aired 2023-04-21.
 
 ### S35E04
 
-TODO
+Aired 2023-04-28.
+
+**"Diamond Thief"**
+
+- (Santa Rosa County, FL -- 5:12 PM Traffic Stop) District 2. Deputy Jamison
+  Lynn, K-9 Deputy Brandt Kessinger.
+- (Escambia County, FL -- 5:56 PM Traffic Stop) Gun Crimes Unit. Investigator
+  Jared Girard, K-9 Deputy Ricky Howell.
+- (Las Vegas, NV -- 8:23 PM Burglary Suspect) Homeland Security Saturation
+  Team. PO II Chris Young.
 
 ### S35E05
 
-TODO
+Aired 2023-05-05.
+
+**"License to Chill"**
+
+- (Escambia County, FL -- 7:12 PM Burglary In Progress) Precinct 4. Deputy
+  Stephen Housam, Sgt. Peter Kamau, K-9 Deputy Jose Oliveras.
+- (Nye County, NV -- 12:07 PM Person With A Gun Call) South Area Command.
+  Deputy Aaron Williamson, Deputy John Kakavulias, Deputy David Stone.
+- (Escambia County, FL -- 5:33 PM Traffic Stop) Precinct 4. Deputy Stephen
+  Housam, K-9 Deputy Jose Oliveras.
 
 ### S35E06
 
-TODO
+**"Panic Room"**
+
+Aired 2023-05-12.
+
+- (Escambia County, FL -- 5:14 PM Burglary In Progress) Precinct 4. Deputy
+  Bradley Foster, K-9 Deputy Matthew Housam, Sgt. Chase Horne, Sgt. Grant
+  McMullen.
+- (Riverside, CA -- 5:27 PM Stolen Vehicle) Main Station. Officer C.
+  Clinedinst, FTO S. Cruz, K-9 Officer Joseph Cleary, Officer J. Allison.
+- (Nye County, NV -- 1:10 PM Suspicious Activity) South Area Command. Lt. Eric
+  Murphy, Deputy Elias Armendariz.
 
 ### S35E07
+
+Aired 2023-05-19.
+
+**"Saw 30"**
 
 - (Las Vegas, NV -- 9:15 PM Man With a Knife Call) Bolden Area Command. PO II
   Garrett Roof and PO II Joseph Bringhurst. A guy threatened an employee with
@@ -21050,3 +21716,17 @@ TODO
 - (Colton, CA -- 1:01 AM Traffic Stop) Officer Marisa Martinez stops an SUV.
   The suspect's dog is called Chiquita, while Officer Brian Jipp's dog is
   called Chiquito.
+
+### S35E08
+
+Aired 2023-05-26.
+
+**"Missing Pistol Pursuit"**
+
+- (Riverside County, CA -- 12:09 AM Traffic Stop) San Jacinto Station. Deputy
+  Kevin Farag, Deputy Dennis Postle, Deputy Marcus Murray, Sgt. Tony Pelato.
+- (Las Vegas, NV -- 8:56 PM Suspicious Activity) Bolden Area Command. PO II
+  Blake Pfiffner questions Danessa and her boyfriend, who is a heroin addict.
+  Featuring FTO Josh Lynn.
+- (Riverside County, CA -- 9:03 PM Kidnapping Call) Jurupa Valley Station.
+  Deputy Erika Delgado pulls over Albert, Jasmine, and cousin Brian.
