@@ -20054,6 +20054,10 @@ Network: Spike.
 
 **Bryce Dion Tribute**
 
+On 2014-08-26 COPS crew member and beloved friend, Bryce Dion, lost his life
+during filming. This tribute episode, featuring Bryce's work, is dedicated to
+his memory.
+
 - Segment 1:
   - (Stockton, CA -- Stockton Police Department) Community Response Team. Officer
     Jeffrey Pope.
