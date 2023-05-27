@@ -14,9 +14,11 @@ guide](https://copstvfan.github.io/geocities-copsonfox-archive/). Sadly William
 Improvements over Thrawn's guide:
 
 - contains multiple corrections (especially officer names)
-- contains all new episodes
+- contains almost all new episodes
 - allows text selection and copying
 - has no ads
+- all episodes are on a single page, allowing for easy and fast text search
+  with `Ctrl`+`F`
 - has better design and hosting (free CDN)
 - can be collaboratively edited (feel free to contribute!)
 - can be cloned using a single command (`git clone`) for easy archival
