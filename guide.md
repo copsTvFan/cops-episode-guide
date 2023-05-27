@@ -9381,7 +9381,7 @@ Aired 1996-11-16.
   was sleeping with his wife, Karen. The mother gets arrested. Sgt. Mike
   Correia says Eric has violated a restraining order against his common-law
   wife. Officer Ed Malloy says that it should be interesting in the morning how
-  the judge sees the mother attacks her son because the mother and her wife are
+  the judge sees the mother attacks her son because his mother and his wife are
   lovers.
 
 ### CP-911
