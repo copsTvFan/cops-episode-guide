@@ -11057,11 +11057,12 @@ Aired 1999-05-08.
 
 - (11:21 PM Assistance Call) Sheriff's Office District 1 -- Deputy David Parra
   gets in a stolen sports utility vehicle pursuit -a chase that reaches speeds
-  in excess of 100 mph. Mesa Officer Nesbit questions a husband and wife who
-  were involved in a domestic dispute, and whose injuries include a bloody
-  mouth, a missing tooth and a bitten ear. Sheriff's deputies in Maricopa
-  County become suspicious when a suspect has trouble spelling his own last
-  name.
+  in excess of 100 mph.
+- Mesa Officer Nesbit questions a husband and wife who were involved in a
+  domestic dispute, and whose injuries include a bloody mouth, a missing tooth
+  and a bitten ear.
+- Sheriff's deputies in Maricopa County become suspicious when a suspect has
+  trouble spelling his own last name.
 
 ### CP-1132
 
@@ -11071,10 +11072,11 @@ Aired 1999-07-31.
 
 - (9:29 PM Vehicle Pursuit) Maricopa County, Deputy David Parra chases a car.
   They take a corner too fast and crash. James is the driver, runs on foot and
-  is caught, but says he wasn't driving. Mesa Police Officer Adams responds to
-  a report of two transients walking dangerously in and out of traffic. Mesa
-  Police Officers pursue a stolen vehicle and observe the occupants tossing
-  credit cards out the window.
+  is caught, but says he wasn't driving.
+- Mesa Police Officer Adams responds to a report of two transients walking
+  dangerously in and out of traffic.
+- Mesa Police Officers pursue a stolen vehicle and observe the occupants
+  tossing credit cards out the window.
 
 ### CP-1133
 
@@ -11082,14 +11084,16 @@ Aired 1999-05-01.
 
 **Arizona 3**
 
+400th episode.
+
 - (12:03 AM Vehicle Pursuit) Maricopa County -- District I -- Deputy David
   Parra spots a red car going very fast and tries to stop it, but they take off
   because it is stolen. He chases the driver of the stolen car who runs
-  numerous stop signs and ends up driving down the wrong side of the road. Mesa
-  Police Officers Adams and Sandoval question a man who threw his sister's
-  belongings out onto the street. Mesa Police Department Officers swarm a young
-  woman who attempted to steal a bicycle during a sting operation. 400th
-  episode.
+  numerous stop signs and ends up driving down the wrong side of the road.
+- Mesa Police Officers Adams and Sandoval question a man who threw his sister's
+  belongings out onto the street.
+- Mesa Police Department Officers swarm a young woman who attempted to steal a
+  bicycle during a sting operation.
 
 ### CP-1134
 
@@ -11100,11 +11104,12 @@ Aired 1999-05-15.
 - (11:23 PM Street Patrol) Dobson Division -- F.T.O. Tim Hines says the hardest
   thing about the job is seeing children abused. Officers respond to an officer
   in need of assistance distress call involving a policeman who, while on
-  bicycle patrol, was struck by a car. Mesa Police Officers question a man who
-  claims his wife's two brothers invited him outside to have a beer and then
-  proceeded to attack him with a baseball bat. Maricopa County Sheriff's Deputy
-  Robertson assists a mini-mart clerk who says two suspects stole a case of
-  beer from the store.
+  bicycle patrol, was struck by a car.
+- Mesa Police Officers question a man who claims his wife's two brothers
+  invited him outside to have a beer and then proceeded to attack him with a
+  baseball bat.
+- Maricopa County Sheriff's Deputy Robertson assists a mini-mart clerk who says
+  two suspects stole a case of beer from the store.
 
 ### CP-1135
 
@@ -11120,9 +11125,10 @@ Aired 1999-05-22.
   million to build. Tents hold 1400 inmates and it can get to 120 degrees in
   the summer, but too bad. He goes in one tent to see the mayor of the tent who
   is an old black guy. He says it could be better and is upset they have to pay
-  for their meals. Joe says it's no big deal, only $1 a day. Heated argument
-  ends in a fired weapon; automobile accident; woman is injured during an
-  argument.
+  for their meals. Joe says it's no big deal, only $1 a day.
+- Heated argument ends in a fired weapon
+- automobile accident
+- woman is injured during an argument.
 
 ### CP-1136
 
@@ -11135,10 +11141,11 @@ Aired 1999-09-18.
   college at the University of Arizona and always thought about becoming a cop.
   He applied and luckily he made it He's been there three years and has been an
   F.T.O. for 8 months. It's the best job in the world and he wouldn't trade it
-  for anything. Surveillance footage at a gas station shows a cop firing at a
-  pickup truck. Suspects nearly hit an officer during a getaway; officers
-  arrest a man throwing things off a balcony; a man says his girlfriend ran
-  into a field intending to commit suicide.
+  for anything.
+- Surveillance footage at a gas station shows a cop firing at a pickup truck.
+- Suspects nearly hit an officer during a getaway
+- officers arrest a man throwing things off a balcony
+- a man says his girlfriend ran into a field intending to commit suicide.
 
 ## Season 12
 
@@ -20102,7 +20109,8 @@ TODO: complete this.
 
 ### S27E32
 
-- (Independence, MO -- 9:44 PM Traffic Stop) Officer Chad Stetzler, Officer Gabe Coale, ...
+- (Independence, MO -- 9:44 PM Traffic Stop) Officer Chad Stetzler, Officer
+  Gabe Coale, ...
 
 ### S27E33
 
@@ -20116,171 +20124,316 @@ Network: Spike.
 
 ### S28E01
 
-- (Sacramento, CA -- 8:26 PM Domestic Disturbance Call) Sheriff's Dept -- Deputy Brian Templeton has a call come in that has screaming and yelling on the line where the female can be heard saying don't hit me. Deputies arrive to find the female outside. She mentions that the suspect  has a restraining order against him. Deputies go to the apartment and find the suspect Adam is barricaded in the apartment, and worried about his dog. They argue back and forth while Adam holds the dog. Adam goes to hand over the dog, and gets taken into custody.
-- (Pasco County, FL -- 9:17 PM Fight In Progress) Sheriff's Office -- Corporal Royce Rodgers talks about how he has been with the department for five years, is eligible for the Sargent test, and that he will be taking it. He hopes to be a Sargent before the year is up. A call comes in as a fight with a possible stabbing or shooting. Rodgers arrives on scene to a group of people. One female is on the ground and another is standing with blood running down her leg. The female suspect talks about being under the influence of cocaine and slashed the female victim's leg with a razor blade.
-- (Pasco County, FL -- 7:40 PM Neighbor Dispute Call) Sheriff's Office -- Corporal Royce Rodgers talks about how humid it is on the job because they are so close to the Gulf of Mexico. Between seasons it's really nice out so he likes to take the time to make contacts in the community. A caller is upset about a neighbor's kittens running all around their yard. Rodgers arrives on scene to find to find the kitten's owner. She's be home all day minding her own business while the kittens are playing outside. Then the neighbors come over to tell her what she should and shouldn't do. After watching the kittens for a moment Rogers goes over to talk to the neighbors who called. The neighbors were worried about the kittens getting hit by a car. Rodgers says that the lady isn't breaking  any laws and it's best to just stay away from her.
+- (Sacramento, CA -- 8:26 PM Domestic Disturbance Call) Sheriff's Dept --
+  Deputy Brian Templeton has a call come in that has screaming and yelling on
+  the line where the female can be heard saying don't hit me. Deputies arrive
+  to find the female outside. She mentions that the suspect  has a restraining
+  order against him. Deputies go to the apartment and find the suspect Adam is
+  barricaded in the apartment, and worried about his dog. They argue back and
+  forth while Adam holds the dog. Adam goes to hand over the dog, and gets
+  taken into custody.
+- (Pasco County, FL -- 9:17 PM Fight In Progress) Sheriff's Office -- Corporal
+  Royce Rodgers talks about how he has been with the department for five years,
+  is eligible for the Sargent test, and that he will be taking it. He hopes to
+  be a Sargent before the year is up. A call comes in as a fight with a
+  possible stabbing or shooting. Rodgers arrives on scene to a group of people.
+  One female is on the ground and another is standing with blood running down
+  her leg. The female suspect talks about being under the influence of cocaine
+  and slashed the female victim's leg with a razor blade.
+- (Pasco County, FL -- 7:40 PM Neighbor Dispute Call) Sheriff's Office --
+  Corporal Royce Rodgers talks about how humid it is on the job because they
+  are so close to the Gulf of Mexico. Between seasons it's really nice out so
+  he likes to take the time to make contacts in the community. A caller is
+  upset about a neighbor's kittens running all around their yard. Rodgers
+  arrives on scene to find to find the kitten's owner. She's be home all day
+  minding her own business while the kittens are playing outside. Then the
+  neighbors come over to tell her what she should and shouldn't do. After
+  watching the kittens for a moment Rogers goes over to talk to the neighbors
+  who called. The neighbors were worried about the kittens getting hit by a
+  car. Rodgers says that the lady isn't breaking  any laws and it's best to
+  just stay away from her.
 
 ### S28E02
 
-- (Fort Myers, FL -- 9:35 PM Traffic Stop) Fort Myers Police Department River District -- Officer Cassie McHale
-- (Maricopa County, AZ -- 7:26 PM Shots Fired Call) Maricopa County Sheriff's Office District 3 -- Deputy Charles Gulikers
-- (Pasco County, FL -- 8:14 PM Suspicious Activity) Pasco Sheriff's Office District 1 -- Deputy Nick Carmack
+- (Fort Myers, FL -- 9:35 PM Traffic Stop) Fort Myers Police Department River
+  District -- Officer Cassie McHale
+- (Maricopa County, AZ -- 7:26 PM Shots Fired Call) Maricopa County Sheriff's
+  Office District 3 -- Deputy Charles Gulikers
+- (Pasco County, FL -- 8:14 PM Suspicious Activity) Pasco Sheriff's Office
+  District 1 -- Deputy Nick Carmack
 
 ### S28E03
 
-- (Fort Myers, FL -- 9:58 PM Traffic Stop) Fort Myers Police Department Public Housing Patrol -- Officer Charles Ciulla and Officer Nick Ursitti
-- (Lee County, FL -- 9:32 PM Traffic Stop) Lee County Sheriff's Office North District -- Deputy Katherine McCann
-- (Lee County, FL -- 1:42 AM Traffic Stop) Lee County Sheriff's Office North District -- Deputy Chase Bubley
+- (Fort Myers, FL -- 9:58 PM Traffic Stop) Fort Myers Police Department Public
+  Housing Patrol -- Officer Charles Ciulla and Officer Nick Ursitti
+- (Lee County, FL -- 9:32 PM Traffic Stop) Lee County Sheriff's Office North
+  District -- Deputy Katherine McCann
+- (Lee County, FL -- 1:42 AM Traffic Stop) Lee County Sheriff's Office North
+  District -- Deputy Chase Bubley
 
 ### S28E04
 
-- (Sacramento County, CA -- 10:37 AM Stolen Vehicle) Sacramento Sheriff's Dept Auto Crimes Enforcement Detail -- Detective Thomas Lynn and Detective Marlan Meggers
-- (Lee County, FL -- 8:14 PM Domestic Dispute Call) Lee County Sheriff's Office East District -- Deputy Mickey Rosado
-- (Sacramento County, CA -- 4:28 PM Stolen Vehicle Call) Sacramento Sheriff's Dept North Division -- Deputy Matt Silvey and Deputy Ken Gouveia
+- (Sacramento County, CA -- 10:37 AM Stolen Vehicle) Sacramento Sheriff's Dept
+  Auto Crimes Enforcement Detail -- Detective Thomas Lynn and Detective Marlan
+  Meggers
+- (Lee County, FL -- 8:14 PM Domestic Dispute Call) Lee County Sheriff's Office
+  East District -- Deputy Mickey Rosado
+- (Sacramento County, CA -- 4:28 PM Stolen Vehicle Call) Sacramento Sheriff's
+  Dept North Division -- Deputy Matt Silvey and Deputy Ken Gouveia
 
 ### S28E05
 
-- 10:34 PM Disturbance Call
-- 12:19 AM Traffic  Stop
-- 10:03 PM Domestic Disturbance Call
+- (Lee County, FL -- 10:34 PM Disturbance Call) North District. Deputy Chase
+  Bubley, ...
+- (Lee County, FL -- 12:19 AM Traffic Stop) North District. Deputy Shilo
+  Johnson, ...
+- (Pasco County, FL -- 10:03 PM Domestic Disturbance Call) District 3. Corporal
+  Todd Gasparino, ...
 
 ### S28E06
 
-- 9:45 PM  Stolen Vehicle
-- 11:53 PM Protection Order Violation
-- 10:15 PM Traffic Stop
+- (Sacramento County, CA -- 9:45 PM Stolen Vehicle) Central Division. Deputy
+  Kelly Bunn, Deputy Anthony Archuleta, ...
+- (Maricopa County, AZ -- 11:53 PM Protection Order Violation) District 2.
+  Deputy Kevin Carr, ...
+- (Beaumont, TX -- 10:15 PM Traffic Stop) Officer Joshua Jackson, ...
 
 ### S28E07
 
-- 5:11 PM Stolen Vehicle
-- 10:59 AM  Stolen Vehicle
-- 9:46 PM Traffic Stop
+- (Kansas City, MO -- 5:11 PM Stolen Vehicle) Violent Crimes Enforcement Unit.
+  Officer Jacob Moore, Officer Brandon Bray, ...
+- (Sacramento, CA -- 10:59 AM Stolen Vehicle) Auto Crimes Enforcement Detail.
+  Detective Thomas Lynn, Detective Marlan Meggers, ...
+- (Lee County, FL -- 9:46 PM Traffic Stop) North District. Deputy Katherine
+  McCann, ...
 
 ### S28E08
 
-- 12:13 AM Suspicious Vehicles
-- 12:16 AM Suspicious Person Call
-- 7:02 PM Traffic Stop
+- (Pasco County, FL -- 12:13 AM Suspicious Vehicles) District 1. Captain Brett
+  Landsberg, ...
+- (Lee County, FL -- 12:16 AM Suspicious Person Call) East District. Deputy
+  Jeremy Drake, ...
+- (Richland County, SC -- 7:02 PM Traffic Stop) Drug Suppression Team. Senior
+  Deputy Adrian Thompson, ...
 
 ### S28E09
 
-- 1:27 PM Suspicious Activity
-- 3:42 PM Possible Drug Activity
-- 7:25 PM Disturbance Call
+- (Richland County, SC -- 1:27 PM Suspicious Activity) Drug Suppression Team.
+  Senior Deputy Adrian Thompson, Deputy Aubrey Raymond, ...
+- (Lee County, FL -- 3:42 PM Possible Drug Activity) Field Support Unit.
+  Detective Russell Park, Detective Gabriel Rose, Detective Guillermo Monmany,
+  ...
+- (Lee County, FL -- 7:25 PM Disturbance Call) East District. Deputy Mark
+  Gaither, ...
 
 ### S28E10
 
-- 3:41 PM  Stolen Vehicle
-- 6:25 PM Suspected Drunk Driving
-- 11:22 PM Suspicious Vehicle
+- (Richland County, SC -- 3:41 PM Stolen Vehicle) Drug Suppression Team.
+  Senior Deputy Adrian Thompson, Deputy Aubrey Raymond, ...
+- (Kansas City, MO -- 6:25 PM Suspected Drunk Driver) Central Patrol Division.
+  Officer Kevin Sorrells, Officer Tim Huth, ...
+- (Lee County, FL -- 11:22 PM Suspicious Vehicle) East District. Deputy C.
+  Lopez-Burnside, ...
 
 ### S28E11
 
-- 2:31 AM Suspicious Vehicle
-- 9:32 PM Traffic Stop
-- 5:48 PM Possible Drug Activity
+- (Kansas City, MO -- 2:31 AM Suspicious Vehicle) Traffic Unit. Officer Matt
+  Phelps, ...
+- (Atlanta, GA -- 9:32 PM Traffic Stop) A.P.E.X. Unit. Officer Jonathan
+  Cornelius, Officer Patrick Kane, ...
+- (Richland County, SC -- 5:48 PM Possible Drug Activity) Drug Suppression
+  Team. Senior Deputy Adrian Thompson, ...
 
 ### S28E12
 
-- 8:47 PM Vehicle Pursuit
-- 12:56 AM Traffic Stop
-- 6:49 PM Assault Call
+- (Kansas City, MO -- 8:47 PM Vehicle Pursuit) East Patrol Division. Officer
+  Hal Payne, Officer Chad Elliott, Sgt. Benjamin Caldwell, ...
+- (Atlanta, GA -- 12:56 AM Traffic Stop) Zone 3. Sgt. Andrew Fincher, Officer
+  Larry Sheppard, ...
+- (Greenville County, SC -- 6:49 PM Assault Call) Echo Platoon/Westside. Deputy
+  II Nicole Shoffner, ...
 
 ### S28E13
 
-- 10:53 PM Reckless Driving
-- 11:15 PM Traffic Stop
-- 8:35 PM Traffic Stop
+- (Atlanta, GA -- 10:53 PM Reckless Driving) Zone 3. Officer Mauricio Castro,
+  Sgt. Andrew Fincher, Officer Garrett Rolfe, ...
+- (Sacramento County, CA -- 11:15 PM Traffic Stop) Central Division. Deputy
+  Anthony Archuleta, ...
+- (Pinellas County, FL -- 8:35 PM Traffic Stop) Central District. Deputy Robert
+  Weil, ...
 
 ### S28E14
 
-- 9:41 PM Vehicle Pursuit
-- 11:01 PM Traffic Stop
-- 12:06 AM Suspicious Person
+- (Kansas City, MO -- 9:41 PM Vehicle Pursuit) Violent Crimes Enforcement Unit.
+  Officer Bryan Britten, Officer Jacob Moore, ...
+- (Greenville County, SC -- 11:01 PM Traffic Stop) Directed Patrol Unit. Master
+  Deputy Chad Maltby, ...
+- (Atlanta, GA -- 12:06 AM Suspicious Person) Zone 3. Sgt. Andrew Fincher, ...
 
 ### S28E15
 
-- 2:32 AM Neighborhood Watch
-- 7:39 PM Suspicious Person With A Gun
-- 6:03 PM Disturbance Call
+- (Atlanta, GA -- 2:32 AM Neighborhood Watch) Zone 3. Officer Cesar Fernandez,
+  Officer Oliver Ledesma, FTO Mauricio Castro, ...
+- (Wichita, KS -- 7:39 PM Suspicious Person With A Gun) Patrol South. Officer
+  V. Reel, Officer Kathy Goebel, ...
+- (Lynn, MA -- 6:03 PM Disturbance Call) Patrolman Oren Wright, ...
 
 ### S28E16
 
-- 6:40 PM Vehicle Pursuit
-- 5:36 PM Erratic Driver
-- 8:12 PM Traffic Stop
-
-### S28E16
-
-TODO
+- (Portland, OR -- 6:40 PM Vehicle Pursuit) North Precinct. Officer Jordan
+  Winkel, Officer Kyle Green, ...
+- (Richland County, SC -- 5:36 PM Erratic Driver) Drug Suppression Team. Senior
+  Deputy Adrian Thompson, ...
+- (Boise, ID -- 8:12 PM Traffic Stop) City Hall West. Officer Andrew Linn, ...
 
 ### S28E17
 
-TODO
+- (Lynn, MA -- 4:53 PM Suspicious Person Call) Patrolman Paul Scali, ...
+- (Greenville County, SC -- 9:45 PM Traffic Stop) Directed Patrol Unit. Master
+  Deputy Chad Maltby, ...
+- (Boise, ID -- 1:09 AM Traffic Stop) City Hall West. Officer Wayne Anderson,
+  ...
 
 ### S28E18
 
-TODO
+- (Richland County, SC -- 10:10 PM Traffic Stop) Community Action Team. Deputy
+  Chris Mastrianni, ...
+- (Boise, ID -- 1:02 AM Suspicious Vehicle) City Hall West. Officer Sara Hill,
+  Sgt. Darren Mitchell, K-9 Deputy Zachary Walls, ...
+- (Lee County, FL -- 6:49 PM Domestic Disturbance Call) North District. Deputy
+  Chase Bubley, ...
 
 ### S28E19
 
-TODO
+- (Richland County, SC -- 11:26 PM Vehicle Pursuit) Community Action Team.
+  Deputy Chris Mastrianni, ...
+- (Portland, OR -- 6:56 PM Suspicious Activity) East Precinct. Officer Michael
+  Roberts, Officer Matt Bigoni, ...
+- (Atlanta, GA -- 12:08 AM Traffic Stop) A.P.E.X. Unit. Officer Jonathan
+  Cornelius, Officer Patrick Kane, ...
 
 ### S28E20
 
-TODO
+- (Atlanta, GA -- 8:33 PM Pursuit In Progress) Zone 3. Officer Garrett Rolfe,
+  Officer Charles Sendling, Officer Joshua Luckie, Sgt. Andrew Fincher, Sgt.
+  Josue Astorga, Senior Officer Justin Brodnik, ...
+- (Portland, OR -- 8:36 PM Vehicle Pursuit) North Precinct. Officer Chuck Elam,
+  ...
+- (Boise, ID -- 12:30 AM Officer Assistance Call) City Hall West. Officer Wayne
+  Anderson, Officer Kristyn Neville, K-9 Officer Dave Frederick, ...
 
 ### S28E21
 
-TODO
+- (Pierce County, WA -- 1:58 AM Vehicle Pursuit In Progress) South Hill
+  Precinct. Deputy Jim Maas, ...
+- (Richland County, SC -- 12:31 AM Safety Check Point Assistance) Community
+  Action Team. Lt. Danny Brown, ...
+- (Chelsea, MA -- 1:12 AM Suspicious Activity) Patrolman Paul J. McCarthy, ...
 
 ### S28E22
 
-TODO
+- (Portland, OR -- 2:44 AM Disturbance Call) Central Precinct. Officer Zach
+  Kenney, ...
+- (Lynn, MA -- 11:21 PM Traffic Stop) Patrolman David Spelta, ...
+- (Portland, OR -- 10:44 PM Suspicious Vehicle) East Precinct. Officer Michael
+  Roberts, Officer Kameron Fender, ...
 
 ### S28E23
 
-TODO
+- (Portland, OR -- 4:21 PM Suspicious Person) North Precinct. Officer Chuck
+  Elam, Officer Kyle Green, ...
+- (Boise, ID -- 12:54 AM Domestic Disturbance Call) City Hall West. Officer Joe
+  Martinez, ...
+- (Stockton, CA -- 5:58 PM Reckless Driving) Community Response Team. FTO Ralph
+  Dominguez, ...
 
 ### S28E24
 
-TODO
+- (Stockton, CA -- 4:25 PM Motorcycle Pursuit) Community Response Team. Officer
+  Ricardo Altamirano, FTO Ralph Dominguez, ...
+- (Boise, ID -- 9:37 PM Welfare Check) City Hall West. Officer Wayne Anderson,
+  ...
+- (Las Vegas, NV -- 9:43 PM Robbery Call) Bolden Area Command. FTO Roberto
+  Medina, ...
 
 ### S28E25
 
-TODO
+- (Stockton, CA -- 3:53 PM Traffic Stop) Community Response Team. Officer Louis
+  Porta, ...
+- (Portland, OR -- 2:02 AM Vehicle Pursuit) East Precinct. Officer Matt Nilsen,
+  Officer Zach Zelinka, Officer Garry Britt, ...
+- (Boise, ID -- 8:39 PM Man With A Gun Call) City Hall West. Officer Wayne
+  Anderson, ...
 
 ### S28E26
 
-TODO
+- (Stockton, CA -- 7:33 PM Suspicious Person) Valley Oak District. Officer Marc
+  Parker, Officer Kyle Tacker, ...
+- (Portland, OR -- 6:35 PM Suspicious Activity) East Precinct. Officer Michael
+  Roberts, Officer Matt Bigoni, ...
+- (Las Vegas, NV -- 10:56 PM Domestic Violence Call) Bolden Area Command. FTO
+  Steven Skenandore, Officer Dylan Thomas, ...
 
 ### S28E27
 
-TODO
+- (Salinas, CA -- 12:22 AM Suspicious Vehicle) Northside. Officer Scott Sutton,
+  ...
+- (Portland, OR -- 10:52 PM Fight Call) Central Precinct. Officer Brad
+  Browning, ...
+- (Anne Arundel County, MD -- 4:02 PM Domestic Dispute Call) Northern District.
+  Corporal Thomas Smith, ...
 
 ### S28E28
 
-TODO
+- (Stockton, CA -- 4:01 PM Motorcycle Pursuit) Valley Oak District. Officer
+  Kevin Hachler, Officer Patrick High, ...
+- (Atlanta, GA -- 12:54 AM Suspicious Person) Zone 3. Officer Gary Baker,
+  Officer Joshua Luckie, ...
+- (Revere, MA -- 6:02 PM Possible Theft Call) Patrolman Nicholas Fantasia, ...
 
 ### S28E29
 
-TODO
+- (Las Vegas, NV -- 5:25 PM Jaywalking) Bolden Area Command. Officer Jake
+  Legrow, FTO Ryan Glass, Sgt. Robert Johnson, ...
+- (Portland, OR -- 2:24 AM Suspicious Vehicle) Central Precinct. Officer Zach
+  Kenney, ...
+- (Las Vegas, NV -- 7:06 PM Suspicious Activity) Bolden Area Command. FTO
+  Roberto Medina, ...
 
 ### S28E30
 
-TODO
+- (Las Vegas, NV -- 6:32 PM Man With A Knife Call) Southeast Area Command.
+  Officer Alba Ortiz, Officer Mike Carroll, ...
+- (Stockton, CA -- 8:58 AM Burglary Call) Valley Oak District. Officer Matthew
+  Huff, ...
+- (Pierce County, WA -- 6:09 Person With A Knife Call) South Hill Precinct.
+  Deputy Kevin Pressel, Deputy Kohl Stewart, ...
 
 ### S28E31
 
-TODO
+- (Portland, OR -- 8:37 PM Assault Call) East Precinct. Officer Zach Flippo,
+  Officer Michael Roberts, Sgt. Amanda McMillan, ...
+- (Salinas, CA -- 11:17 PM Possible Stolen Vehicle) Officer Scott Sutton, Sgt.
+  Danny Warner, ...
+- (Atlanta, GA -- 3:13 AM Carjacking) Zone 3. Officer Durante Allen, ...
 
 ### S28E32
 
-TODO
+- (Atlanta, GA -- 12:40 AM Traffic Stop) Zone 3. Officer Carl Harp, Officer
+  Mauricio Castro, Officer Oliver Ledesma, Sgt. Andrew Fincher, ...
+- (Salinas, CA -- 7:10 PM Man With A Gun Call) Northside. Officer Zachary
+  Dunagan, Officer Scott Sutton, Sgt. Chris Lane, ...
+- (Las Vegas, NV -- 3:51 PM Officer Assistance Call) Southeast Area Command.
+  FTO Christopher Garcia, ...
 
 ### S28E33
 
-TODO
+- (Las Vegas, NV -- 11:39 AM Prostitution Sting) Vice Section. Sgt. Douglas
+  Ericsson, Detective Al Beas, ...
+- (Salinas, CA -- 5:12 PM Suspicious Person) Eastside. Officer Michael
+  Batchelor, Officer Ciro Barboza, Sgt. Dana Cornelison, ...
+- (Las Vegas, NV -- 4:24 PM Possible Fight) Southeast Area Command. Officer
+  Kerry Ruesch, ...
 
 ## Season 29
 
