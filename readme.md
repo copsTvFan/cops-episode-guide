@@ -30,7 +30,7 @@ For every episode:
 2. List all featured officers so people can easily find all episodes with a
    certain officer.
 
-## Help improve this guide
+## Help Improve This Guide
 
 This is still a work in progress. You can edit this guide via [pull
 requests](https://github.com/copsTvFan/cops-episode-guide/pulls) or by just
@@ -38,16 +38,17 @@ using the GitHub website (no git knowledge is required). Emails are also
 welcome (`copsTvFan` *at* `protonmail.com`), especially if you have VHS tapes
 of the show -- I am missing several episodes.
 
-## External Guides
+## Other Guides
 
 - [thrawn's original guide](https://copstvfan.github.io/geocities-copsonfox-archive/) (unmaintained since 2009-08-15)
 - [epguides.com (tvmaze)](https://epguides.com/cops/) (in the [past](https://web.archive.org/web/20151230230345/http://epguides.com:80/Cops/) this guide contained production numbers too)
 - [thetvdb.com](https://thetvdb.com/series/cops/allseasons/official)
 - [tvguide.com](https://www.tvguide.com/tvshows/cops/episodes-season-1/1000242631/)
-- Wikipedia:
+- Wikipedia (not perfect):
     - [seasons 1–20](<https://en.wikipedia.org/wiki/List_of_Cops_episodes_(seasons_1%E2%80%9320)>)
     - [season 21–present](<https://en.wikipedia.org/wiki/List_of_Cops_episodes_(season_21%E2%80%93present)>)
 - [IMDB](https://www.imdb.com/title/tt0096563/episodes) (outdated/unmaintained)
+- [TV Calendar (pogdesign.co.uk)](https://www.pogdesign.co.uk/cat/Cops-summary)
 - Aaron Greenhouse's guide (seasons 7-13)
     - [season 7](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops07.html)
     - [season 8](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops08.html)
@@ -60,6 +61,6 @@ of the show -- I am missing several episodes.
 - [TV Tango](http://www.tvtango.com/series/cops/episodes)
 - [zap2it](https://tvschedule.zap2it.com/overview.html?programSeriesId=SH00017070&tmsId=SH000170700000&from=TVGrid&aid=gapzap)
 
-### Guides comparison
+### Guides Comparison
 
 See <https://github.com/copsTvFan/cops-episode-guide/blob/master/guides-comparison.csv>.
