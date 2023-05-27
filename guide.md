@@ -9367,10 +9367,22 @@ Aired 1996-11-16.
 
 **Providence, RI 2**
 
-- (10:32 PM Suspicious Vehicle) Officer Fabio Zuena says when your guard isn't
-  up is when things happen. When you think everything is quiet and nothing else
-  to do is when the next thing pops up right in front of you, react quickly,
-  use common sense and good judgment.
+- (Providence, RI -- 10:32 PM Suspicious Vehicle) Officer Fabio Zuena says when
+  your guard isn't up is when things happen. When you think everything is quiet
+  and nothing else to do is when the next thing pops up right in front of you,
+  react quickly, use common sense and good judgment.
+- (Providence, RI -- 5:42 PM Animal Rescue) Officer Patricia Cornell, Sgt. Paul
+  Campbell. Struck and possibly rabid dog underneath a car. (7:18 PM
+  Disturbance Call) Kids playing in a parking lot.
+- (Providence, RI -- 9:08 PM Roll Call) Officer Fabio Zuena, Sgt. George Ricci.
+  (10:03 PM Domestic Disturbance Call) Officer Gregory Daniels. Eric has been
+  stabbed by his mother, but he doesn't want to press charges. "I said, Mom,
+  why are you doing this to me like this? I'm your son!" Turns out his mother
+  was sleeping with his wife, Karen. The mother gets arrested. Sgt. Mike
+  Correia says Eric has violated a restraining order against his common-law
+  wife. Officer Ed Malloy says that it should be interesting in the morning how
+  the judge sees the mother attacks her son because the mother and her wife are
+  lovers.
 
 ### CP-911
 
