@@ -9234,8 +9234,9 @@ Aired 1996-08-31.
   up in some of the neighborhoods he patrols and it is interesting to see how
   people he knew have grown up. Some are good. He pursues a driver who ignored
   instructions to pull off the road. With some help from an anti-theft tracking
-  device, Miami Police Sergeant Casiano aids in the arrest of a car thief.
-  Miami Police Officer Grant questions a woman whose boyfriend shot himself in
+  device,
+- Miami Police Sergeant Casiano aids in the arrest of a car thief.
+- Miami Police Officer Grant questions a woman whose boyfriend shot himself in
   the head.
 
 ### CP-902
@@ -9249,11 +9250,12 @@ Aired 1996-09-07.
   taught him a lot. Officer Jorge Castello says he learned a lot from Frank and
   from every incident you learn something new. When you think you know it all,
   that's when you get hurt. They arrest several men suspected of stealing
-  cassette tapes from a video store. With the aid of a K-9 unit, Metro-Dade
-  Police Officer Sullivan helps apprehend a suspect who hid in dense foliage in
-  an attempt to avoid capture. Pompano Beach Police Officer India joins the
-  search for a man who assaulted a police officer, then responds to a call
-  involving an alleged automobile break-in.
+  cassette tapes from a video store.
+- With the aid of a K-9 unit, Metro-Dade Police Officer Sullivan helps
+  apprehend a suspect who hid in dense foliage in an attempt to avoid capture.
+- Pompano Beach Police Officer India joins the search for a man who assaulted a
+  police officer, then responds to a call involving an alleged automobile
+  break-in.
 
 ### CP-903
 
@@ -9261,15 +9263,20 @@ Aired 1996-09-21.
 
 **Miami, FL 14**
 
-- (3:35 AM Officer Down Call) Central District -- Officer Frank Alonso talks
-  about how police get together once a year to honor those who have fallen in
-  the line of duty and the ceremony is shown. He knows sometimes you might not
-  come home, but that's the risk you take on the job. His partner is Officer
-  Ken McIllwain and they take the call to aid a fellow policeman who was
-  injured when his patrol vehicle collided with a second squad car. Officer
-  Stanley detains an unidentified burglary suspect who attempt to mislead
-  police by providing several aliases. Metro Dade Police Officer Sullivan
-  investigates a call involving juvenile drug dealers.
+- (Miami, FL -- 3:35 AM Officer Down Call) Central District -- Officer Frank
+  Alonso talks about how police get together once a year to honor those who
+  have fallen in the line of duty and the ceremony is shown. He knows sometimes
+  you might not come home, but that's the risk you take on the job. His partner
+  is Officer Ken McIllwain and they take the call to aid a fellow policeman
+  (Officer Craig Greer) who was injured when his patrol vehicle collided with a
+  second squad car. Featuring Officer Ramon Carr.
+- (Miami, FL -- 6:55 PM Assistance Call) North District. Officer Stan Stanley
+  detains an unidentified burglary suspect who attempt to mislead police by
+  providing several aliases. Featuring Sgt. Aramis Morales, Officer Jose
+  Henares.
+- (Miami, FL -- 7:30 PM Break-in Call) Cutler Ridge District. Metro Dade Police
+  Officer Kelly Sullivan investigates a call involving juvenile drug dealers.
+  Featuring Officer Jeff Schmidinger.
 
 ### CP-904
 
@@ -9282,9 +9289,9 @@ Aired 1996-09-28.
   talks to her husband about her day when she gets home then calls it a night.
   She responds to a call involving an armed suspect who douses himself with
   gasoline and threatens to set himself on fire using a cigarette lighter.
-  Officer Castello question the occupants of a sports utility vehicle and
+- Officer Castello question the occupants of a sports utility vehicle and
   discovers two rocks of cocaine in the possession of a female suspect.
-  Homestead Police Officer Grant questions a group of inebriated residents,
+- Homestead Police Officer Grant questions a group of inebriated residents,
   then shuts down a gambling house.
 
 ### CP-905
@@ -9296,9 +9303,9 @@ Aired 1996-10-05.
 - (9:28 PM Burglary in Progress) Officer Gregory Bavonese waits in the street
   for his partner who is chasing a suspect. He then gets in the car and goes to
   the scene and joins the rooftop hunt for two burglary suspects, then responds
-  to a knife assault. Metro-Dade Police Officer Schmidlinger stops a woman
-  after she ran a stop sign, then arrest a suicidal man who tossed bricks at a
-  fast food restaurant.
+  to a knife assault.
+- Metro-Dade Police Officer Schmidlinger stops a woman after she ran a stop
+  sign, then arrest a suicidal man who tossed bricks at a fast food restaurant.
 
 ### CP-906
 
@@ -9306,19 +9313,25 @@ Aired 1996-10-12.
 
 **Miami, FL 17**
 
-- (6:02 PM Assistance Call) Central District -- Sgt. Juan Casiano says most of
-  his crew has only been there 1-2 years and he gives advice on how to use
-  their heads instead of getting physical. He rushes to a call where Officer
-  Giovani Nunez spotted a store owner struggling with a shoplifter and
+- (Miami, FL -- 6:02 PM Assistance Call) Central District -- Sgt. Juan Casiano
+  says most of his crew has only been there 1-2 years and he gives advice on
+  how to use their heads instead of getting physical. He rushes to a call where
+  Officer Giovani Nunez spotted a store owner struggling with a shoplifter and
   assisted. The woman ran into the bathroom and locked herself in with $60
   worth of pants and socks. He got her out and her husband tried to fight him,
   the woman also fought. They are both arrested, charges with theft,
   obstructing, resisting and more. (10:43 PM Assistance Call) Juan goes to the
   call of a car refusing to stop who was impersonating a police officer driving
-  with a blue light and crashed. Miami Police Officer Bilberry participates in
-  a reverse sting operation targeting suspects attempting to buy sex from
-  prostitutes. Metro-Dade Police Officer Sullivan responds to an automobile
-  accident in which a young woman has been seriously injured.
+  with a blue light and crashed. Featuring Officer Sean MacDonald.
+- (Miami, FL -- 9:05 PM Briefing) South District. Sgt. Jim Billberry
+  participates in a reverse sting operation targeting suspects attempting to
+  buy sex from prostitutes. Featuring Officer Alina Pena and Officer Kelly
+  Macina. (9:47 PM Prostitution Sting) (10:14 PM) (10:37 PM) (11:06 PM)
+  Also featuring Sgt. Joe Siglie.
+- (Miami, FL -- 11:02 PM Car Accident) Cutler Ridge District. Officer Kelly
+  Sullivan responds to an automobile accident in which a young woman has been
+  seriously injured. Featuring Officer Brian Zamorski, Officer Cari Sykes,
+  Officer Carol Blair.
 
 ### CP-907
 
@@ -9327,10 +9340,11 @@ Aired 1996-11-02.
 **Miami, FL 18**
 
 - (10:35 PM Disturbance Call) Homestead -- Police Officer Nehemiah Coward
-  responds to a call involving a man armed with a gun. Homestead Police
-  Sergeant Kennedy executes a narcotics search warrant on a group of drug
-  dealers. Miami Police Officer Ruiz joins other officers chasing a fleeing
-  vehicle, then discovers an automobile engulfed in flames.
+  responds to a call involving a man armed with a gun.
+- Homestead Police Sergeant Kennedy executes a narcotics search warrant on a
+  group of drug dealers.
+- Miami Police Officer Ruiz joins other officers chasing a fleeing vehicle,
+  then discovers an automobile engulfed in flames.
 
 ### CP-908
 
@@ -9407,8 +9421,11 @@ Aired 1996-12-21.
 **Providence, RI/Boston 2**
 
 - (10:47 PM Stabbing Call) Sgt. Walter Chin takes the call of a stabbing at a
-  residence off Elmwood at Lake. stabbing incident; suicidal man; feuding
-  neighbors; disturbance call.
+  residence off Elmwood at Lake.
+- Stabbing incident
+- Suicidal man
+- Feuding neighbors
+- Disturbance call.
 
 ### CP-913
 
@@ -9435,7 +9452,19 @@ Aired 1996-12-07.
   want them on the streets. People always say they hear "You're just busting me
   because I'm black, I'm Latino, I'm Haitian", but they don't get that too much
   since they serves warrants and make sure they are getting the right people.
-  airline crash rescue operation; bicyclist's pipe; auto accident.
+  Featuring Sgt. Curtis Hossier. (6:18 PM Narcotics Sting).
+- (Miami, FL -- 2:31 PM Aircraft Accident) Communications Center. Officer
+  Russell Forte. Airline crash rescue operation -- a DC-9 went down, no
+  survivors. Featuring Detective Ed Munn, Officer Paul Wessel (Pilot), Officer
+  Oscar Roque, Officer Marco Pasqual (Diver), Officer Felix Marrero (Diver).
+  - This was the [1996-05-11 ValuJet Flight 592
+    crash](https://en.wikipedia.org/wiki/ValuJet_Flight_592) with 110
+    fatalities.
+- (Homestead, FL -- 11:03 PM Possible Drug Activity) Homestead Police
+  Department. Officer Von Grant. Female bicyclist has a crack pipe. (11:27 PM
+  Street Patrol) A drunk driver hits the corner of a house. He can't blow into
+  a machine because he is now breathing through a hole on his throat, not his
+  nose/mouth.
 
 ### CP-915
 
@@ -9490,7 +9519,10 @@ Aired 1997-01-11.
 
 - (4:39 PM Assistance Call) Lakewood District Sheriff's Dept -- Deputy Jeff
   Alwine says they can always count on other officers to help even if it isn't
-  their district. Officer chases fugitive; bottle assault; stolen vehicle.
+  their district.
+- Officer chases fugitive
+- bottle assault
+- stolen vehicle.
 
 ### CP-919
 
@@ -9499,8 +9531,10 @@ Aired 1997-02-22.
 **Pierce County, WA 13**
 
 - (1:43 AM Traffic Stop) Roy PD -- Police Camera footage. Driver ignores order
-  to pull over; mother/daughter dispute; restraining order is violated;
-  lottery-ticket theft.
+  to pull over
+- mother/daughter dispute
+- restraining order is violated
+- lottery-ticket theft
 
 ### CP-920
 
@@ -9508,25 +9542,30 @@ Aired 1997-02-15.
 
 **Pierce County, WA 14**
 
-- (10:31 PM Traffic Stop) Deputy Jeff Alwine says family is very important. He
-  has a beautiful wife of 2 years and a 7 month old daughter, just waiting for
-  her to start walking and talking. Stops a car with no taillights that has
-  three passengers, 2 men. He pulls them out and checks the filthy car. A crack
-  pipe is found on the driver and a bag with crack residue on the floor so a
-  K-9 is called in. The dog arrives with K-9 Deputy Gary Wescott and jumps in
-  the car. Then the white man with the yellow bicycle shorts runs away. He goes
-  a couple blocks, through a Texaco and hides in a garbage pile and is caught.
-  He gave a fake name as was OK, but realized they were about to find out who
-  he really was. He had 4 warrants. He is mirandized and asked if he thought
-  about being bitten by a large German Shepherd. He says he didn't, though he
-  has been bit before and it wasn't worth it. He was in jail in 1992 for
-  vehicular homicide. His pants were in the back seat with his real ID and with
-  court papers that he violated. Deputy Win Sargent assisted.
-- (7:03 PM Domestic Disturbance Call) Deputy Mark Eakes says the worst thing is
-  seeing the same people over and over. He tries to do his job right, fill out
-  the paperwork and let the system handle it so he can sleep at night. He goes
-  to a return domestic call at a problem Motel. The woman says she has no
-  peripheral vision and that Timothy assaulted her from behind.
+- (Pierce County, WA -- 10:31 PM Traffic Stop) Lakewood Precinct. Deputy Jeff
+  Alwine says family is very important. He has a beautiful wife of 2 years and
+  a 7 month old daughter, just waiting for her to start walking and talking.
+  Stops a car with no taillights that has three passengers, 2 men. He pulls
+  them out and checks the filthy car. A crack pipe is found on the driver and a
+  bag with crack residue on the floor so a K-9 is called in. The dog arrives
+  with K-9 Deputy Gary Wescott and jumps in the car. Then the white man with
+  the yellow bicycle shorts runs away. He goes a couple blocks, through a
+  Texaco and hides in a garbage pile and is caught.  He gave a fake name as was
+  OK, but realized they were about to find out who he really was. He had 4
+  warrants. He is mirandized and asked if he thought about being bitten by a
+  large German Shepherd. He says he didn't, though he has been bit before and
+  it wasn't worth it. He was in jail in 1992 for vehicular homicide. His pants
+  were in the back seat with his real ID and with court papers that he
+  violated. Deputy Win Sargent assisted.
+- (Pierce County, WA -- 7:03 PM Domestic Disturbance Call) Lakewood Precinct.
+  Deputy Mark Eakes says the worst thing is seeing the same people over and
+  over. He tries to do his job right, fill out the paperwork and let the system
+  handle it so he can sleep at night. He goes to a return domestic call at a
+  problem Motel. The woman says she has no peripheral vision and that Timothy
+  assaulted her from behind. Featuring Deputy Brent Eggleston.
+- (Pierce County, WA -- 6:54 PM Domestic Dispute) South Hill Precinct. Deputy
+  Dennis Robinson. Domestic between a brother and a sister. Featuring Deputy
+  Andrea Patrick. Both are arrested.
 
 ### CP-921
 
@@ -9536,8 +9575,10 @@ Aired 1997-01-25.
 
 - (12:43 AM Assistance Call) Sheriff's Dept Mountain Detachment -- Deputy John
   Heacock says the weather can be really unpredictable, even in one shift. It
-  can start clear, then the next minute be pouring rain. Flares stop a fleeing
-  suspect; neighbors fight over a boat; an ex-wife claims assault.
+  can start clear, then the next minute be pouring rain.
+- Flares stop a fleeing suspect
+- neighbors fight over a boat
+- an ex-wife claims assault.
 
 ### CP-922
 
@@ -9546,10 +9587,17 @@ Aired 1997-03-08.
 **Pierce County, WA 16**
 
 - (5:05 PM Disturbance Call) King County South West Precinct -- Officer Patrick
-  McCury was failing out of high school until a San Diego County cop came to
+  McCurdy was failing out of high school until a San Diego County cop came to
   his school to teach a course on Officer Survival. It turned his life around,
   he knew he wanted to be a cop, got better grades and went to college. He
   could die tomorrow and be happy since he accomplished his goal.
+- (Pierce County, WA -- 6:06 PM Disturbance Call) Mountain Detachment. Deputy
+  John Heacock. A neighbor is shooting an SKS rifle. Featuring Deputy James
+  Heishman.
+- (Pierce County, WA -- 6:55 PM Assistance Call) Lakewood Precinct. Deputy Jeff
+  Alwine, Officer Mike Cummings (Dupont Police Dept.), Sgt. Steve Kemmerer.
+  (7:53 PM Assistance Call) Felony traffic stop, featuring Deputy Micah
+  Lundborg.
 
 ### CP-923
 
@@ -9561,7 +9609,8 @@ Aired 1997-05-03.
   Baird says he grew up around teachers, his parents and grandparents were
   teachers and he saw cops in the same light -- authority. A man off his
   medication started firing shots outside, went in and back out and his wife
-  locked him out so he couldn't get back in. Domestic disputes.
+  locked him out so he couldn't get back in.
+- Domestic disputes.
 
 ### CP-924
 
@@ -9615,9 +9664,9 @@ Aired 1997-03-29.
   Lt. Don Burk says to be proactive and officer safety is most important.
   Sheriff's Dept -- Detective Jay Stuart takes the call of an assault and the
   man fled. A K-9 unit him as they track down a fleeing suspect wanted on an
-  outstanding warrant. While on street patrol, Deputy Hathaway encounters a man
-  who says that a man threatened him with a him with a shotgun after his dog
-  was struck by a car.
+  outstanding warrant.
+- While on street patrol, Deputy Hathaway encounters a man who says that a man
+  threatened him with a him with a shotgun after his dog was struck by a car.
 - Deputy Davis is dispatched to an accident scene where a truck collided with a
   utility pole, and later, Davis removes trespassers from private property.
 
@@ -9835,8 +9884,10 @@ Aired 1997-10-25.
   shots. He then loads and locks his into the car at the start of the shift. He
   says every year they put up a new casino. He doesn't know where, but tons of
   people always show up so he keeps his job. He's been there for five years. He
-  gets a call for backup. Stolen van; methamphetamine bust; suspicious suspects
-  questioned.
+  gets a call for backup.
+- Stolen van
+- methamphetamine bust
+- suspicious suspects questioned.
 
 ### CP-1002
 
@@ -14037,6 +14088,16 @@ Aired 2003-11-03.
   admitting he was looking into windows of a local recovery center.
 - (Spokane, WA -- 9:26 PM Street Patrol) Spokane PD
 - (Harris County, TX -- 8:03 PM Domestic Disturbance) Sheriff's Dept. District 3
+
+Alternative description from [thefutoncritic.com](http://www.thefutoncritic.com/listings/20040906fox17/):
+
+When Corporal Lisa Corton and Officer Darren Zorka of the Indio, CA, Police
+Department, respond to a call about a man looking into the windows of a local
+recovery center, the authorities question the inebriated suspect, who
+eventually owns up to the allegations. A struggle is triggered when officers
+attempt to place the suspect under arrest on COPS: RESISTING ARREST #1 SPECIAL
+EDITION airing Saturday, Sept. 25 2004 (8:30-9:00 PM ET/PT) on FOX. (CP-1609)
+(TV-14 L, V)
 
 ### CP-1610
 
