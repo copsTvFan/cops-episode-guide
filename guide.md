@@ -11083,7 +11083,7 @@ Aired 1999-03-27.
   team heads out it is pouring rain and they grab a sledgehammer as they crowd
   into a white van. The task force uses a stun device to raid a home suspected
   of being a center of drug and weapons trafficking. Palm Beach County
-  Sheriff's Deputies Kula and Lower respond to a burglary in progres progress
+  Sheriff's Deputies Kula and Lower respond to a burglary in progress progress
   at a pawn shop and question a suspect who claims he stumbled upon the scene.
   Palm Beach County Sheriff's Deputies Voiret and Glogowski question a woman
   who claims she threw a knife at her husband in an attempt to kill him.
@@ -11100,10 +11100,19 @@ Aired 1999-04-10.
   takes a report from a convenience store clerk who says that a man in a
   wheelchair punched her in the nose when she attempted to stop him from
   stealing cigarettes.
-- Sheriff's Deputies encounter a trespasser standing atop the roof of a mobile
-  home.
-- Deputy Voiret finds himself the target of a profanity-laced tirade when he
-  attempts to arrest a suspect.
+- (Palm Beach County, FL -- 12:03 AM Trespass Call) District 1. Deputy Donta
+  Manuel and Deputy Sam Auterson encounter a trespasser standing atop the roof
+  of a mobile home. Featuring Sgt. Jeff Swank.
+- Deputy Kenneth Voiret finds himself the target of a profanity-laced tirade
+  when he attempts to arrest a suspect.
+
+Deputy Donta Manuel [died while serving on 2007-11-28](https://www.odmp.org/officer/19071-deputy-sheriff-donta-j-manuel).
+
+On 2007-11-28, Deputy Donta Manuel and Deputy Jonathan Wallace were struck and
+killed by a patrol car while attempting to remove stop sticks from the roadway:
+
+- https://www.odmp.org/officer/19071-deputy-sheriff-donta-j-manuel
+- https://www.odmp.org/officer/19072-deputy-sheriff-jonathan-d-wallace
 
 ### CP-1130
 
@@ -14098,6 +14107,7 @@ Aired 2003-11-03.
   admitting he was looking into windows of a local recovery center.
 - (Spokane, WA -- 9:26 PM Street Patrol) Spokane PD
 - (Harris County, TX -- 8:03 PM Domestic Disturbance) Sheriff's Dept. District 3
+  - From CP-1032?
 
 Alternative description from [thefutoncritic.com](http://www.thefutoncritic.com/listings/20040906fox17/):
 
@@ -14659,7 +14669,7 @@ Aired 2004-03-06.
 - (Cincinnati, OH -- 12:23 AM Accident Call) Cincinnati Police Department 3rd
   district -- Officer Chris Manson, Officer Jeff Wieczorkowski
 - (Spokane, WA -- 9:26 PM Street Patrol) Spokane PD -- Sgt. Jason Hartman
-- (Harris County TX -- 8:03 PM Domestic Disturbance) District 3 -- Deputy C.J.
+- (Harris County, TX -- 8:03 PM Domestic Disturbance) District 3 -- Deputy C.J.
   Meaux is a psychologist and father, sometimes you have to give people a
   spanking and they need it. He heads to a trailer park known for domestics.
   Brandy comes out with a black eye that Timothy gave her while holding her
@@ -14672,7 +14682,7 @@ Aired 2004-03-06.
   police and had to be stopped. They have a new baby inside. They go to put him
   in the car and he flips out again and he has to be forced in. They weren't
   going to arrest him and told him that. She says he didn't know and she'll use
-  the rent money to get him out of jail. from CP-1032.
+  the rent money to get him out of jail. From CP-1032.
 
 ### CP-1638 / CP-1639
 
