@@ -4111,45 +4111,46 @@ Aired 1990-12-15.
   He got it from a guy and got in trouble, so he's holding it for him. He's 19,
   he'll get concealment, and charged with having the serial number filed off.
   They find a bag of bullets, money and drugs. Everything is his, but the drugs
-  are his friends.  (Prostitution Sting) Officer Andrea Burman listens as Lt.
-  Bill Young explains the game plan -- a reverse soliciting targeting the
-  Johns. Big problem lately, lots of them. He has Las Vegas Blvd drawn on the
-  board. She'll take them into room 126 at an apartment complex. They'll have
-  control room next door and two cops in the bathroom in her room. (11:40 PM)
-  She walks on the street and guy pulls up. He says he works for the military
-  and asks what pleases her. She says anything. He asks for a BJ and she says
-  $20 and to meet her at apt 126. She tells him she just got there from
-  California, has been there for two days and is getting all wet. She tells him
-  to make himself comfortable and she'll go in the bathroom. Mike and Leon bust
-  him. The guy says 'oh, no. It's embarrassing." They tell him it's worse to
-  get AIDS. There are now 72 whores that have AIDS on the street. He'll get a
-  citation and they don't want to see him again. (12:20 PM) A guy walks over,
-  he has a half-ounce of crack he wants to exchange for sex and brings a
-  friend. One guy smokes and the other has a bag of beers. He asks her if she
-  goes fast. She doesn't understand and the cops jump out. She says the guy
-  offered $20 for a BJ. She doesn't know what go fast is. The other guy wanted
-  to have fun and has no money. The guy says he didn't have any meth, he was
-  lying to her. The bring the hairy hippy guy with the beers says he was just
-  going to sit there and drink beers and watch, he never made a deal. They let
-  him go, then they find meth and needles on him and bring him back. Bill says
-  he doesn't want those people in Vegas, if she wasn't a cop she would've been
-  in trouble, that's the payoff. (11:00 PM Domestic Disturbance Call) Northeast
-  Area Command gets a call and Randy is right there when it comes in. He pulls
-  the woman out and she says she wants him out, doesn't want to live under the
-  same roof, he's a drunk, it will help him. They've been married 30 years, and
-  it's 30 years too long. He drinks all day, abuses her and tears her nerves to
-  pieces. Randy can't remove him since he lives there. She tries to stay away
-  all day so she doesn't have to be with him and can't even relax in her own
-  damn trailer. Officer Russell Peterson backs him up. He has no relatives and
-  if he did they wouldn't take him. Randy goes in and talks to Jack. He has a
-  wound on his arm and says she bit him and he called the cops on her. She says
-  she's on medication and doesn't need it until she's around him. Randy asks
-  her if she knows about the domestic violence law. She doesn't know. He says
-  if violence happens within four hours of them arriving he has to arrest
-  someone. She is under arrest, but she thinks Jack is having her arrested.
-  Randy says Jack doesn't know and he has to do it. She beat him with a broom
-  and wants her purse. They'll get it. She says it's the most humiliating,
-  disturbing thing.
+  are his friends.
+- (Prostitution Sting) Officer Andrea Berman listens as Lt.  Bill Young
+  explains the game plan -- a reverse soliciting targeting the Johns. Big
+  problem lately, lots of them. He has Las Vegas Blvd drawn on the board.
+  She'll take them into room 126 at an apartment complex. They'll have control
+  room next door and two cops in the bathroom in her room. (11:40 PM) She walks
+  on the street and guy pulls up. He says he works for the military and asks
+  what pleases her. She says anything. He asks for a BJ and she says $20 and to
+  meet her at apt 126. She tells him she just got there from California, has
+  been there for two days and is getting all wet. She tells him to make himself
+  comfortable and she'll go in the bathroom. Mike and Leon bust him. The guy
+  says 'oh, no. It's embarrassing." They tell him it's worse to get AIDS. There
+  are now 72 whores that have AIDS on the street. He'll get a citation and they
+  don't want to see him again. (12:20 PM) A guy walks over, he has a half-ounce
+  of crack he wants to exchange for sex and brings a friend. One guy smokes and
+  the other has a bag of beers. He asks her if she goes fast. She doesn't
+  understand and the cops jump out. She says the guy offered $20 for a BJ. She
+  doesn't know what go fast is. The other guy wanted to have fun and has no
+  money. The guy says he didn't have any meth, he was lying to her. The bring
+  the hairy hippy guy with the beers says he was just going to sit there and
+  drink beers and watch, he never made a deal. They let him go, then they find
+  meth and needles on him and bring him back. Bill says he doesn't want those
+  people in Vegas, if she wasn't a cop she would've been in trouble, that's the
+  payoff.
+- (11:00 PM Domestic Disturbance Call) Northeast Area Command gets a call and
+  Randy is right there when it comes in. He pulls the woman out and she says
+  she wants him out, doesn't want to live under the same roof, he's a drunk, it
+  will help him. They've been married 30 years, and it's 30 years too long. He
+  drinks all day, abuses her and tears her nerves to pieces. Randy can't remove
+  him since he lives there. She tries to stay away all day so she doesn't have
+  to be with him and can't even relax in her own damn trailer.  Officer Russell
+  Peterson backs him up. He has no relatives and if he did they wouldn't take
+  him. Randy goes in and talks to Jack. He has a wound on his arm and says she
+  bit him and he called the cops on her. She says she's on medication and
+  doesn't need it until she's around him. Randy asks her if she knows about the
+  domestic violence law. She doesn't know. He says if violence happens within
+  four hours of them arriving he has to arrest someone. She is under arrest,
+  but she thinks Jack is having her arrested.  Randy says Jack doesn't know and
+  he has to do it. She beat him with a broom and wants her purse. They'll get
+  it. She says it's the most humiliating, disturbing thing.
 
 ### CP-315
 
@@ -4179,28 +4180,29 @@ Aired 1990-12-22.
   keep him in line. She told him Dave would take care of him when he got home,
   that might be why he ran away. Randy sees no signs of abuse and lets him stay
   there. He leaves and thinks there is a grain of truth to the story, so he's
-  filing a report on it.  (10:30 PM Traffic Stop) Southeast Area Command --
-  Officer Dominick Rodriguez says if he can help someone out he'll do it.
-  That's the best thing when you see someone in a tight spot who needs help and
-  you can come through for them it's a good feeling. He spots a small car run
-  through a red light, it's one of his pet peeves because it causes a lot of
-  accidents. Carrie is laughing when he walks up. She says it wasn't red when
-  she went through and doesn't have her license because she left it at home.
-  She doesn't drink, doesn't do nothing. He writes her a ticket. She's never
-  run a red light before. He has her sign the ticket.  She says deep inside she
-  fells like he thinks she's really guilty. He says he's doesn't, don't be too
-  upset about it, just don't do it again. She says she's shy and goes to start
-  the car and it won't start. She says it's a bad alternator. She says it's a 4
-  speed and she's not good at push starting it. He says she has a complex.
-  He'll push her, pop it into second when she gets to the sign and it'll be
-  ready to go. He pushes her with the police car, then pulls up next to her and
-  she says she ran out of gas. He says he'll drive her to the gas station. She
-  says it's really embarrassing. He takes her to a phone and she calls the
-  wrong he number. Then she calls her mom Carol and can't handle it.  Dom talks
-  to her, says he needs to give Carrie a ride home. He explains she has a leak
-  and doesn't want to leave her at the 7-11, but he can't drive her across
-  town, she'll be at Flamingo and Eastern. He feels safe leaving her there.
-  Clark County Detention Center -- Lt. Patricia Kessel says the first time
+  filing a report on it.
+- (10:30 PM Traffic Stop) Southeast Area Command -- Officer Dominick Rodriguez
+  says if he can help someone out he'll do it.  That's the best thing when you
+  see someone in a tight spot who needs help and you can come through for them
+  it's a good feeling. He spots a small car run through a red light, it's one
+  of his pet peeves because it causes a lot of accidents. Carrie is laughing
+  when he walks up. She says it wasn't red when she went through and doesn't
+  have her license because she left it at home.  She doesn't drink, doesn't do
+  nothing. He writes her a ticket. She's never run a red light before. He has
+  her sign the ticket.  She says deep inside she fells like he thinks she's
+  really guilty. He says he's doesn't, don't be too upset about it, just don't
+  do it again. She says she's shy and goes to start the car and it won't start.
+  She says it's a bad alternator. She says it's a 4 speed and she's not good at
+  push starting it. He says she has a complex.  He'll push her, pop it into
+  second when she gets to the sign and it'll be ready to go. He pushes her with
+  the police car, then pulls up next to her and she says she ran out of gas. He
+  says he'll drive her to the gas station. She says it's really embarrassing.
+  He takes her to a phone and she calls the wrong he number. Then she calls her
+  mom Carol and can't handle it.  Dom talks to her, says he needs to give
+  Carrie a ride home. He explains she has a leak and doesn't want to leave her
+  at the 7-11, but he can't drive her across town, she'll be at Flamingo and
+  Eastern. He feels safe leaving her there.
+- Clark County Detention Center -- Lt. Patricia Kessel says the first time
   coming to jail has got to be a horrendous experience, she would be terrified
   and she's been there 12 years now. If you get someone shouting orders here
   and there, telling you do this, do that and you don't know what's happening
@@ -4223,13 +4225,13 @@ Aired 1990-12-22.
   Clark talks to a woman who is belligerent. She curses him out and wants the
   cuffs off, but he won't. She says someone needs to. She was caught giving
   oral sex in the back of a car and her fly is open. The guy from before says
-  Jack hit him, someone hit him. He explains he hit the wall outside.  Then he
+  Jack hit him, someone hit him.  He explains he hit the wall outside.  Then he
   refuses the blood test so they take him off to the drunk tank. They smell
   alcohol on him. They'll let him calm down and sleep it off. They take blood
   from another guy who asks why they are doing it. He says he wants them to
   test it for every kind of disease. The guy from before got all squirrelly in
   isolation. He got the cuffs off and punched a cop right in the face. They'll
-  have to file a report. They've heard, "I know the sheriff, the governor, I
+  have to file a report.  They've heard, "I know the sheriff, the governor, I
   pay your salary." She wants to ask them for a raise then.
 
 ### CP-316
@@ -4337,21 +4339,22 @@ Aired 1991-01-26.
   crazy. They go out on foot and ask the people around if they saw anything,
   but no one says a thing. There are lots of violent crimes and no one wants to
   rat on their friends. It's the code of silence, if they rat on someone,
-  they'll be next. Hoboken -- Sgt. Mike Plunkett asks the officers if they have
-  their helmets and hands out their night sticks.  They are short handed with
-  only four of them until 8 o'clock. Have a good night. His great-great
-  grandfather was a cop there in 1876 and his family has lived there since.
-  There's not as many crimes as there used to be. Lots of the bars now cater to
-  the yuppies, instead of the working class when he was a kid, lots more fights
-  back then. (5:15 PM Disturbance Call) He's going to Redheads bar where the
-  owner has a bat on a customer. The guy says a man threatened him over the
-  phone with a bat. Someone broke into his house in Jersey City and has a bat
-  with his name on it. They talk to the owner who says the guy charged $1300 on
-  his account for City Paint and Johnny is getting billed for it. The guy says
-  he used him as a reference and they sent the bill here by mistake. He says he
-  bought stuff for the lady and they mistakenly assumed it was for Redheads.
-  They said to bill it to Redheads and he said fine. He's paying it right now.
-  He says Johnny told him his house was robbed. The Sgt. says the guy knew they
+  they'll be next.
+- Hoboken -- Sgt. Mike Plunkett asks the officers if they have their helmets
+  and hands out their night sticks.  They are short handed with only four of
+  them until 8 o'clock. Have a good night. His great-great grandfather was a
+  cop there in 1876 and his family has lived there since.  There's not as many
+  crimes as there used to be. Lots of the bars now cater to the yuppies,
+  instead of the working class when he was a kid, lots more fights back then.
+  (5:15 PM Disturbance Call) He's going to Redheads bar where the owner has a
+  bat on a customer. The guy says a man threatened him over the phone with a
+  bat. Someone broke into his house in Jersey City and has a bat with his name
+  on it. They talk to the owner who says the guy charged $1300 on his account
+  for City Paint and Johnny is getting billed for it. The guy says he used him
+  as a reference and they sent the bill here by mistake. He says he bought
+  stuff for the lady and they mistakenly assumed it was for Redheads.  They
+  said to bill it to Redheads and he said fine. He's paying it right now.  He
+  says Johnny told him his house was robbed. The Sgt. says the guy knew they
   were charging him and he gets tired of the guy talking and interrupting him.
   He yells at him to stop and tells Johnny he can file a complaint with the
   detective, it's a lot of money. He can file right now if he's threatened.
@@ -4360,22 +4363,23 @@ Aired 1991-01-26.
   make threats and the account has been settled so he can do what he want.
   It'll be settled in court, not here. After Mike says people come from all
   over the world to see the NYC skyline and they see it every day. The shot
-  includes the WTC. Orange PD -- Officer Dennis Vega says it's good to know the
-  community you are in. He was born and raised there. Lots of the cops there
-  were born and raised in Orange and are trying to give back to the town. He
-  goes to a block party and shakes hands with people as do other cops. (3:15 PM
-  Domestic Call) A man took his child from the mother so they go to her rundown
-  apartment and talk to the mother. The door is bashed and smashed and has
-  'Jones' written on it in marker. He won't open the door so they call him on
-  the phone and tell him to open the door. He puts the mom on the phone and she
-  says she wants her baby, he tells her to screw off. Her friend has a shirt
-  that reads 'If you don't like my attitude dial 1-800-eat-sh!t' right in front
-  of her kids. Dennis gets back on the phone and says he wants to make sure the
-  baby is OK and to clear the hall. He finally opens the door and is still on
-  the phone. He surrenders the kid, shakes the guys hand and tells him he can't
-  use their kid to solve their problems. It'll make him look bad, even if he's
-  right. These kind of situations can be explosive. The job has lots of
-  judgment calls. Over the credits the WTC is seen from a distance.
+  includes the WTC.
+- Orange PD -- Officer Dennis Vega says it's good to know the community you are
+  in. He was born and raised there. Lots of the cops there were born and raised
+  in Orange and are trying to give back to the town. He goes to a block party
+  and shakes hands with people as do other cops. (3:15 PM Domestic Call) A man
+  took his child from the mother so they go to her rundown apartment and talk
+  to the mother. The door is bashed and smashed and has 'Jones' written on it
+  in marker. He won't open the door so they call him on the phone and tell him
+  to open the door. He puts the mom on the phone and she says she wants her
+  baby, he tells her to screw off. Her friend has a shirt that reads 'If you
+  don't like my attitude dial 1-800-eat-sh!t' right in front of her kids.
+  Dennis gets back on the phone and says he wants to make sure the baby is OK
+  and to clear the hall. He finally opens the door and is still on the phone.
+  He surrenders the kid, shakes the guys hand and tells him he can't use their
+  kid to solve their problems. It'll make him look bad, even if he's right.
+  These kind of situations can be explosive. The job has lots of judgment
+  calls. Over the credits the WTC is seen from a distance.
 
 ### CP-318
 
@@ -4487,43 +4491,45 @@ Aired 1991-02-02.
   When they pull him out of the truck a group of women laugh at him. He says
   he's 14. It starts to get dark so they call it off. He says they'll meet up
   and get them out of the back and they are thankful. Tomorrow they'll start
-  earlier. Captain Bobby Martin says they did a good job yesterday and will do
-  it again today. It's a big industry, a billion dollars a year of theft. They
-  are going back to Duncan. We see cops have to enter the crate from a trapdoor
-  in the bottom of the truck. They stop near a park and call the truck. They
-  tell him to turn the nose their way. He pops the hood and fiddles with the
-  engine to make it look good. He goes in and grabs his briefcase and walks
-  away. (3:30 PM) There is a large pack of black men across the street. One of
-  them grabs a screwdriver and heads over as another becomes a lookout. The guy
-  gets the lock off and madly jumps in and is grabbed. The others jump through
-  the door and grab the second guy. It's Christmas in August, they are setting
-  up again. There are only certain streets in the city designated for trucks
-  and people will steer them the wrong way so they can rob them. The move the
-  truck to a new street. (6:15 PM) Four guys appear and one goes in the cab. A
-  Hispanic man in a white hat pops the seal and calls to his buddies "VCRehs!"
-  He grabs one, they jump him and drop out the bottom and grab the others. He
-  says he has no dope on him, his hat comes off on the way out and says he's
-  the only one to blame. He uses a hand pumper as the tool. It took only six
-  minutes for them to park and break in. Captain Bobby Martin says they do a
-  lot of proactive and reactive stuff patrolling hot areas where there are
-  purse snatchings and house entries. Where there is bad crime they will set up
-  and let them do the crime and catch them in the act, they are the witnesses
-  in court. It's not a victim, it's the police as witnesses, so 9 times out of
-  10 they'll cop a deal. (12:10 AM Suspicious Situation) They spot Rob going in
-  and out of a super market with a bag in the pouring rain. The bag was empty
-  at first, now it's full. They watch him for a while to see where he goes. He
-  goes up 5th and they stop him in the street. They ask if he bought the stuff,
-  but he has no receipts. He threw them away and has no money left. He has 20
-  packs of cigarettes. Rob looks familiar to them and they ask him if he got
-  busted for breaking into a car. He says he doesn't do that stuff, but they
-  did bust him 2 1/2 weeks ago. They saw him outside the Pathmark for 20-30
-  minutes and go back to the store to see if he bought them. A manager says he
-  saw Rob there, but he didn't buy anything. Officer Andrew Lancellotti asks if
-  can they ID the stuff.  The cigarettes have a 4004 number on them that is the
-  code for the store. He was running around, that why he didn't have a receipt.
-  He stashed a bag by the diner and came back and grabbed more and went back.
-  He was waiting for the rain to let up. He was there since 11 PM. Special
-  thanks to Chief Richard J.  Harrison.
+  earlier.
+- Captain Bobby Martin says they did a good job yesterday and will do it again
+  today. It's a big industry, a billion dollars a year of theft. They are going
+  back to Duncan. We see cops have to enter the crate from a trapdoor in the
+  bottom of the truck. They stop near a park and call the truck. They tell him
+  to turn the nose their way. He pops the hood and fiddles with the engine to
+  make it look good. He goes in and grabs his briefcase and walks away. (3:30
+  PM) There is a large pack of black men across the street. One of them grabs a
+  screwdriver and heads over as another becomes a lookout. The guy gets the
+  lock off and madly jumps in and is grabbed. The others jump through the door
+  and grab the second guy. It's Christmas in August, they are setting up again.
+  There are only certain streets in the city designated for trucks and people
+  will steer them the wrong way so they can rob them. The move the truck to a
+  new street. (6:15 PM) Four guys appear and one goes in the cab. A Hispanic
+  man in a white hat pops the seal and calls to his buddies "VCRehs!" He grabs
+  one, they jump him and drop out the bottom and grab the others. He says he
+  has no dope on him, his hat comes off on the way out and says he's the only
+  one to blame. He uses a hand pumper as the tool. It took only six minutes for
+  them to park and break in.
+- Captain Bobby Martin says they do a lot of proactive and reactive stuff
+  patrolling hot areas where there are purse snatchings and house entries.
+  Where there is bad crime they will set up and let them do the crime and catch
+  them in the act, they are the witnesses in court. It's not a victim, it's the
+  police as witnesses, so 9 times out of 10 they'll cop a deal. (12:10 AM
+  Suspicious Situation) They spot Rob going in and out of a super market with a
+  bag in the pouring rain. The bag was empty at first, now it's full. They
+  watch him for a while to see where he goes. He goes up 5th and they stop him
+  in the street. They ask if he bought the stuff, but he has no receipts. He
+  threw them away and has no money left. He has 20 packs of cigarettes. Rob
+  looks familiar to them and they ask him if he got busted for breaking into a
+  car. He says he doesn't do that stuff, but they did bust him 2 1/2 weeks ago.
+  They saw him outside the Pathmark for 20-30 minutes and go back to the store
+  to see if he bought them. A manager says he saw Rob there, but he didn't buy
+  anything. Officer Andrew Lancellotti asks if can they ID the stuff. The
+  cigarettes have a 4004 number on them that is the code for the store. He was
+  running around, that why he didn't have a receipt. He stashed a bag by the
+  diner and came back and grabbed more and went back. He was waiting for the
+  rain to let up. He was there since 11 PM. Special thanks to Chief Richard J.
+  Harrison.
 
 ### CP-320
 
@@ -4896,7 +4902,8 @@ Aired 1991-03-16.
   She radios it in, they are caught and they find a pill canister filled with
   $20 pieces. She feels sorry for the girls who are trying to support 4-5 kids,
   but the guys she has no pity for and will bust them all day every day if she
-  can. (4:43 PM Man with Gun Call) Officer Micki Mashburn has a bad died blond
+  can.
+- (4:43 PM Man With Gun Call) Officer Micki Mashburn has a bad died blond
   mullet and short spiky hair.  She has worked this area for over 5 years. You
   get to know the area and the people, they know when you are on or off shift
   and when they can commit crimes.  They sell drugs and quit when she comes on
@@ -4911,25 +4918,26 @@ Aired 1991-03-16.
   Quaaludes. The guys are on another corner and she asks if they want to claim
   it and they say no. The charge is with the guy in the red shirt. Mark arrives
   as back up and she wants him to search the suspect, especially if he shoved
-  something in his crotch area. (Airport Narcotics Unit) Sgt. Danny Long has
-  information from the FBI and a photo of someone who is supposed to be flying
-  out of Tampa and carrying narcotics, unknown what kind. They have their names
-  and they are on the manifest. Detective James Contento asks if it's in the
-  luggage or on them, but they don't know. They walk over to the Delta check in
-  and are in plain clothes. They spot and follow them to the stairs and check
-  the guy at the bottom. They ask if they can talk to him and if they can
-  search his bag. The woman he is with asks if he's in trouble for flying under
-  a different name. Detective James Quinn searches too. They find a joint which
-  she says she forgot was there. They bring in the dog and then search their
-  clothes.  They find a large bag of pot and tell her they'll bring a female
-  officer to search her. She says they just bought the pot to smoke it and are
-  not dealers.  She is under arrest, it's a felony possession. They say they
-  can put her husband on another flight, but she says she is staying with him.
-  They find pills on her and she says they are diet pills, but has no
-  prescription and got them from a friend. She says she's overweight, lost 40
-  pounds and has people ask her if she's pregnant all the time. The husband
-  takes her stuff and leaves.  She says it's a chance for him to be a standup
-  boyfriend to come back and get her out of jail.
+  something in his crotch area.
+- (Airport Narcotics Unit) Sgt. Danny Long has information from the FBI and a
+  photo of someone who is supposed to be flying out of Tampa and carrying
+  narcotics, unknown what kind. They have their names and they are on the
+  manifest. Detective James Contento asks if it's in the luggage or on them,
+  but they don't know. They walk over to the Delta check in and are in plain
+  clothes. They spot and follow them to the stairs and check the guy at the
+  bottom. They ask if they can talk to him and if they can search his bag. The
+  woman he is with asks if he's in trouble for flying under a different name.
+  Detective James Quinn searches too. They find a joint which she says she
+  forgot was there. They bring in the dog and then search their clothes.  They
+  find a large bag of pot and tell her they'll bring a female officer to search
+  her. She says they just bought the pot to smoke it and are not dealers.  She
+  is under arrest, it's a felony possession. They say they can put her husband
+  on another flight, but she says she is staying with him.  They find pills on
+  her and she says they are diet pills, but has no prescription and got them
+  from a friend. She says she's overweight, lost 40 pounds and has people ask
+  her if she's pregnant all the time. The husband takes her stuff and leaves.
+  She says it's a chance for him to be a standup boyfriend to come back and get
+  her out of jail.
 
 ### CP-326
 
@@ -5264,42 +5272,42 @@ Aired 1991-05-18.
   to file charges. There is a gun on the table and Eugene holds it as he
   explains it.  They guy isn't there, so he can't arrest him. They'll have to
   sign a statement saying he did it. Suddenly shots are fired in the yard. He
-  calls for backup 42-40 and then runs out and hunts the guy down. He is in the
-  yard in a red shirt and jeans. He tells him to get down and cuffs him. He
-  says not to move, to shut up and asks him where the gun is. He says he has no
-  gun.  Eugene searches for it and tells him to shut up. He calls in that the
-  guy is in custody. The woman comes down smoking and wanting the two jackets
-  he's wearing saying they are hers. The man says he drank a 12 pack of beer
-  and a pint of whiskey -- that's it. He doesn't care anymore, doesn't smoke
-  crack.  As they are driving back to the station a torrential rains starts. He
-  says he was filing a criminal mischief report, got shot at, it scared him to
-  death and was not a good feeling. He didn't see the guy, made a run for it
-  and caught him. (11:22 PM) They arrive at the station, take the first door on
-  the right and Cpl Jim Haley questions him. The drunk says that his girlfriend
-  got him disappointed and no woman in the world should get you disappointed
-  when you are drinking trying to have a good time. When the car breaks down
-  and they blame you that isn't right. He's not an alcoholic or anything, he
-  doesn't like it, that's the way he is that's the way it's gonna be! That's
-  the way he grew up and that's the way it's gonna be. He gets angry. You don't
-  know where he grew up or where comes from. You don't and nobody else will. It
-  makes him mad. He's worse than Rambo. He doesn't use a gun. He's the only one
-  who can change it. He doesn't smoke crack. He is an alcoholic, he drinks the
-  cheap whiskey. He is dying anyway of cirrhosis of the liver, but no one
-  believes him. He's been through a stomach staple, he's been through hell,
-  more than Rambo. He can't stop, he can't stop today, why should he? He ain't
-  never tried to kill anyone or hurt anyone, he did break some teenie windows.
-  Whenever he gets out he's not going to stop. As long as she treats him wrong
-  he'll treat her like shit. If she treats him right, he'll treat her right.
-  They've been together for 4 years. He has 2 kids -- 2 years and 4 months and
-  8 months. He hopes his kids see this so they'll be worse than him. He knows
-  his one boy will be worse, he hopes he is. A man won't take shit from a
-  woman. He doesn't want people messing with him when he has a good time. He
-  says he doesn't drink that much, when someone gets him pissed off he gets
-  pissed off. Jim asks shim if he wants help for his drinking. He says he
-  doesn't need help, he just pissed off, it would be throwing money out the
-  window. He cries and says he loves his kids, he could've got shot. Then he
-  asks if it will cost anything. He says counseling is free and he admits he
-  needs help.
+  calls for backup 42-40 and then runs out and hunts the guy down.
+- He is in the yard in a red shirt and jeans. He tells him to get down and
+  cuffs him. He says not to move, to shut up and asks him where the gun is. He
+  says he has no gun.  Eugene searches for it and tells him to shut up. He
+  calls in that the guy is in custody. The woman comes down smoking and wanting
+  the two jackets he's wearing saying they are hers. The man says he drank a 12
+  pack of beer and a pint of whiskey -- that's it. He doesn't care anymore,
+  doesn't smoke crack.  As they are driving back to the station a torrential
+  rains starts. He says he was filing a criminal mischief report, got shot at,
+  it scared him to death and was not a good feeling. He didn't see the guy,
+  made a run for it and caught him. (11:22 PM) They arrive at the station, take
+  the first door on the right and Cpl Jim Haley questions him. The drunk says
+  that his girlfriend got him disappointed and no woman in the world should get
+  you disappointed when you are drinking trying to have a good time. When the
+  car breaks down and they blame you that isn't right. He's not an alcoholic or
+  anything, he doesn't like it, that's the way he is that's the way it's gonna
+  be! That's the way he grew up and that's the way it's gonna be. He gets
+  angry. You don't know where he grew up or where comes from. You don't and
+  nobody else will. It makes him mad. He's worse than Rambo. He doesn't use a
+  gun. He's the only one who can change it. He doesn't smoke crack. He is an
+  alcoholic, he drinks the cheap whiskey. He is dying anyway of cirrhosis of
+  the liver, but no one believes him. He's been through a stomach staple, he's
+  been through hell, more than Rambo. He can't stop, he can't stop today, why
+  should he? He ain't never tried to kill anyone or hurt anyone, he did break
+  some teenie windows.  Whenever he gets out he's not going to stop. As long as
+  she treats him wrong he'll treat her like shit. If she treats him right,
+  he'll treat her right.  They've been together for 4 years. He has 2 kids -- 2
+  years and 4 months and 8 months. He hopes his kids see this so they'll be
+  worse than him. He knows his one boy will be worse, he hopes he is. A man
+  won't take shit from a woman. He doesn't want people messing with him when he
+  has a good time. He says he doesn't drink that much, when someone gets him
+  pissed off he gets pissed off. Jim asks shim if he wants help for his
+  drinking. He says he doesn't need help, he just pissed off, it would be
+  throwing money out the window. He cries and says he loves his kids, he
+  could've got shot. Then he asks if it will cost anything. He says counseling
+  is free and he admits he needs help.
 - (2:52 AM Disturbance Call) Harris County Sheriff's Dept -- it's lunchtime.
   They are stuffing hot dogs down. Deputy Michael Sieck says his partner Deputy
   Bubba Hunton wears a hat, but his head is too big to fit in the car. Bubba
@@ -9476,8 +9484,8 @@ Aired 1997-01-04.
   was to be a police officer. At one time he was involved in construction for
   8-10 years with his own company. The opportunity came up so he jumped at the
   chance and took the tests because he'd never get another chance and here he
-  is. Bike found in neighbor's driveway
-- Mexicans crash a van over a fence and flee
+  is. Bike found in neighbor's driveway. (10:27 PM Traffic Accident Call)
+  Mexicans crash a van over a fence and flee. Featuring Officer David Seamans.
 - cops buy food
 - man steals bag full of food
 - missing child found at pool
@@ -9659,7 +9667,7 @@ Aired 1997-03-29.
 **Fresno, CA 1**
 
 - (7:41 PM Assistance Call) Operation Goldstar Briefing -- Sgt. David Huerta
-  explains what Goldstar is and when using K9's not to get bit. K9 Deputy Jim
+  explains what Goldstar is and when using K9's not to get bit. K-9 Deputy Jim
   Bewley says to give him and the dog six feet of room and they should be safe.
   Lt. Don Burk says to be proactive and officer safety is most important.
   Sheriff's Dept -- Detective Jay Stuart takes the call of an assault and the
@@ -9687,10 +9695,12 @@ Aired 1997-04-12.
   - "Powers of observation!"
   - "I didn't even know it was there. When you're wrong, you're wrong though,
     you know?" -- Henry
-- Deputy Kenneth Gray encounters a domestic violence suspect who giggles like a
-  child as he is being frisked for weapons.
-- Deputy Rien stops a driver operating a vehicle at night with its lights
-  turned off, then discovers a syringe near the driver's seat.
+- (Fresno, CA -- 7:32 PM Domestic Disturbance Call) Area 3. Deputy Kenneth Gray
+  encounters a domestic violence suspect who giggles like a child as he is
+  being frisked for weapons. Featuring Deputy Wayne Tucker, Deputy Jeff Dodd.
+- (Fresno, CA -- 7:58 PM Traffic Stop) Deputy Toby Rien stops a driver
+  operating a vehicle at night with its lights turned off, then discovers a
+  syringe near the driver's seat. Featuring Deputy Ken Bowden.
 
 ### CP-929
 
