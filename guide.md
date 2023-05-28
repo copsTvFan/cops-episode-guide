@@ -4665,31 +4665,33 @@ Aired 1991-02-16.
   yelling. They find an Irish good luck ring are any of them Irish? Did you go
   to St. Michael's High School in 1972? It's not the families jewelry it's
   someone else's.
-- Original (uncensored) segment 3: With a taxi cab driver.
-- New (censored segment 3): Jersey City (11:50 PM) Officer Thomas Porter gets
-  out of his car at a park that overlooks the NYC skyline with the World Trade
-  Center.  They park everywhere, but there's a fire pump they block. He has to
-  chase them away to get them to park somewhere else.  (12:21 AM Stolen Car
-  Call) He gets in his car and they give chase on the Pulasky Skyway into
-  Newark.  Officer Robert Falconetti drives. A cop tells them they are 'crazy
-  Marty.' They stop on a bridge, get out and run. Sirens are heard down the
-  road. They are supposed to be around somewhere. They look over the bridge
-  thinking he went over, but he didn't jump, he was hanging over the side. They
-  ask the guy they caught where do your friends live. On High St. in Jersey
-  City. They go down and look up.  They were chased down the ramp and one of
-  the guys is hiding in the weeds somewhere. There was an accident the police
-  were handling and they were trapped with nowhere to go so one guy jumped off
-  the ramp, but who knows.  (Street Patrol) Cops go to a lot where kids robbed
-  a truck full of candy.  Kids are dumping candy in a lot. The people say there
-  wasn't much before, then they saw them come around and dump some more. They
-  ask what kind of truck it was. They are from the factory back there, it's a
-  white truck.  It's a candy caper. Thomas jokes for them to be under arrest
-  and they all do and laugh. They doubt the thief will come back and the kids
-  are having a ball with it, the candy is probably bad, but they'll let them
-  have fun with it.  (1:47 AM) They find a car turned on its side. They parked
-  it in front of a gate that reads, "No No No parking Anytime" in white spray
-  paint. They got mad at them so the cops help out and turn the car back over.
-  Over the credits is the mother daughter drug team at the station.
+- Segment 3:
+    - Original (uncensored) segment 3): Jersey City (11:50 PM) Officer Thomas
+      Porter gets out of his car at a park that overlooks the NYC skyline with
+      the World Trade Center.  They park everywhere, but there's a fire pump
+      they block. He has to chase them away to get them to park somewhere else.
+      (12:21 AM Stolen Car Call) He gets in his car and they give chase on the
+      Pulasky Skyway into Newark.  Officer Robert Falconetti drives. A cop
+      tells them they are 'crazy Marty.' They stop on a bridge, get out and
+      run. Sirens are heard down the road. They are supposed to be around
+      somewhere. They look over the bridge thinking he went over, but he didn't
+      jump, he was hanging over the side. They ask the guy they caught where do
+      your friends live. On High St. in Jersey City. They go down and look up.
+      They were chased down the ramp and one of the guys is hiding in the weeds
+      somewhere. There was an accident the police were handling and they were
+      trapped with nowhere to go so one guy jumped off the ramp, but who knows.
+      (Street Patrol) Cops go to a lot where kids robbed a truck full of candy.
+      Kids are dumping candy in a lot. The people say there wasn't much before,
+      then they saw them come around and dump some more. They ask what kind of
+      truck it was. They are from the factory back there, it's a white truck.
+      It's a candy caper. Thomas jokes for them to be under arrest and they all
+      do and laugh. They doubt the thief will come back and the kids are having
+      a ball with it, the candy is probably bad, but they'll let them have fun
+      with it.  (1:47 AM) They find a car turned on its side. They parked it in
+      front of a gate that reads, "No No No parking Anytime" in white spray
+      paint. They got mad at them so the cops help out and turn the car back
+      over.  Over the credits is the mother daughter drug team at the station.
+    - New (censored) segment 3: "a completely new segment".
 
 ### CP-322
 
@@ -10961,13 +10963,21 @@ Aired 1999-01-30.
 
 **Palm Beach, FL 1**
 
-- (1:14 AM Traffic Stop) District 1 -- Deputy P. Johnson says you run into
-  different types of people all day from homeless to lawyers and he treats them
-  all the same. He pulls over a car for not signaling. He gives chase when a
-  driver suddenly flees the scene of a routine traffic stop. Deputy Howard
-  sneaks up on two suspects as they prepare to light up a crack pipe. Officer
-  Hoffman lectures a married man and a prostitute about the health risks
-  associated with sex-for-hire.
+- (Palm Beach County, FL -- 1:14 AM Traffic Stop) District 1. Deputy P.
+  Johnson says you run into different types of people all day from homeless to
+  lawyers and he treats them all the same. He pulls over a car for not
+  signaling. He gives chase when a driver suddenly flees the scene of a routine
+  traffic stop. Featuring Corporal John Anderson and Deputy Donta Manuel.
+- (Martin County, FL -- 3:26 PM Drug Activity Call) Deputy Dale Howard sneaks
+  up on two suspects as they prepare to light up a crack pipe. Featuring Deputy
+  David Dillon, Deputy Kathy Cummings.
+- (Riviera Beach, FL -- 9:43 PM Street Patrol ) Officer Joseph Hoffman lectures
+  a married man and a prostitute about the health risks associated with
+  sex-for-hire.
+
+Cpl. John Anderson, a veteran of the Palm Beach County Sheriff's Office, [died
+2017-01-19 after a long battle with Lou Gehrig's
+disease](https://www.pbso.org/loving-memory-cpl-john-anderson/).
 
 ### CP-1121
 
