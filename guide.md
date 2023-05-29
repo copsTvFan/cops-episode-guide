@@ -11928,7 +11928,7 @@ Aired 2000-05-06.
 
 **Albuquerque, NM 16**
 
-- (12:13 AM Man with Knife Call) K-9 Unit -- Officer Rick Garcia is heading to
+- (12:13 AM Man With A Knife Call) K-9 Unit -- Officer Rick Garcia is heading to
   a hotel on the 1700 block where a man is chasing a family member with a
   knife. They called the police. Suspects possess a gun and marijuana;
   prostitution sting.
@@ -12675,21 +12675,36 @@ Aired 2001-05-??.
 
 15 segments:
 
-- (Cleveland, OH -- 2:07 AM Stolen Car Call) CP-628
-- (Philadelphia, PA -- 11:04 PM Burglary In Progress)
-- (Pierce County, WA -- 6:16 PM Suicidal Person Call) CP-916
-- (Albuquerque, NM -- 10:47 PM Street Patrol) CP-1225
-- (Fort Worth, TX -- 4:12 PM Pursuit In Progress)
-- (Martin County, FL -- 10:33 PM Street Patrol) CP-1123, segment 1
-- (Fort Worth, TX -- 5:02 PM Traffic Stop) CP-1215
-- (Kansas City, MO -- 1:04 AM Pursuit In Progress) CP-723, segment 1
-- (Lynn, MA -- 11:21 AM Assault With A Knife Call) CP-908, segment 1
-- (Kansas City, KS -- 5:43 PM Suspicious Activity), CP-1017, segment 3
-- (Albuquerque, NM -- 11:56 PM Assistance Call) CP-1230, segment 1
-- (Fort Worth, TX -- 10:44 PM Suspicious Activity)
-- (Los Angeles, CA -- 10:37 PM Assistance Call) CP-702
-- (Fort Worth, TX -- 10:05 PM House Fire Call) CP-816
-- (Pomona, CA -- 12:03 AM Pursuit In Progress)
+1. (Cleveland, OH -- 2:07 AM Stolen Car Call)
+  - This is CP-628.
+2. (Philadelphia, PA -- 11:04 PM Burglary In Progress)
+  - This is segment 1 of CP-521.
+3. (Pierce County, WA -- 6:16 PM Suicidal Person Call)
+  - This is CP-916.
+4. (Albuquerque, NM -- 10:47 PM Street Patrol)
+  - This is CP-1225.
+5. (Fort Worth, TX -- 4:12 PM Pursuit In Progress)
+  - This is CP-521, segment 1.
+6. (Martin County, FL -- 10:33 PM Street Patrol)
+  - This is CP-1123, segment 1.
+7. (Fort Worth, TX -- 5:02 PM Traffic Stop)
+  - This is CP-1215.
+8. (Kansas City, MO -- 1:04 AM Pursuit In Progress)
+  - This is CP-723, segment 1.
+9. (Lynn, MA -- 11:21 AM Assault With A Knife Call)
+  - This is CP-908, segment 1.
+10. (Kansas City, KS -- 5:43 PM Suspicious Activity)
+  - This is CP-1017, segment 3.
+11. (Albuquerque, NM -- 11:56 PM Assistance Call)
+  - This is CP-1230, segment 1.
+12. (Fort Worth, TX -- 10:44 PM Suspicious Activity)
+  - This is segment 1 of CP-1213.
+13. (Los Angeles, CA -- 10:37 PM Assistance Call)
+  - This is CP-702.
+14. (Fort Worth, TX -- 10:05 PM House Fire Call)
+  - This is CP-816
+15. (Pomona, CA -- 12:03 AM Pursuit In Progress)
+  - This is segment 1 of CP-702.
 
 ## Season 14
 
