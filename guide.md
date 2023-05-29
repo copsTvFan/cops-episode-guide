@@ -6967,8 +6967,10 @@ Aired 1993-02-20.
 
 **Fort Worth, TX 3**
 
-- (1:08 AM Assistance Call) Sgt J.D. Farmer talks about Pioneer Day which is
-  tonight.
+- (Fort Worth, TX -- 1:08 AM Assistance Call) Sgt J.D. Farmer talks about
+  Pioneer Day which is tonight. North Sector. Featuring Officer Mike Humphreys,
+  Officer Russell Johnson, Officer D.S. Meza (Bike Patrol), Officer B.K.
+  McHorse (Bike Patrol).
 - Officer Michael Humphreys & Russell Johnson patrol the North Sector. They go
   to the Stock Yards where the festival is and explain it is a big street dance
   where people come from all the neighboring towns to eat BBQ, drink beer and
@@ -8190,7 +8192,7 @@ Aired 1995-07-22.
 
 **Las Vegas, NV 15**
 
-- (10:31 PM Man with a Gun) Shooting incident; marital dispute; alleged
+- (10:31 PM Man with a gun) Shooting incident; marital dispute; alleged
   stalker.
 
 ### CP-723
@@ -13292,18 +13294,27 @@ Aired 2002-09-14.
 **Extreme Cops**
 
 - (Houston, TX -- 12:32 AM Car Pursuit) Sgt. Robert Jackson. Red pickup chase.
+  - This is segment 1 of CP-334.
 - (Fort Worth, TX -- 1:08 AM Officer Assistance Call) Officer Mike Humphreys,
   Officer D. S. Meza.
+  - This is segment 1 of CP-528.
 - (New York, NY -- 9:47 PM Warrant Served) Lt. Bob Sobocienski, Officer Peter
   Conlin, Officer Bill Lutz. Officers shoot and kill a pitbull and detonate flashbangs
   during a raid.
+  - This is segment 1 of CP-734.
 - (Little Rock, AR -- 1:13 AM Stolen Vehicle) Officer Steve Woodall. Car chase.
+  - This is segment 1 of CP-638.
 - (Pittsburgh, PA -- 10:18 PM Disturbance Call) Officer Michelle McCants.
+  - This is segment 1 of CP-410.
 - (Philadelphia, PA -- 12:48 AM Shooting Call) Sgt. James Boone.
+  - This is segment 1 of CP-523.
 - (Fort Worth, TX -- 12:41 AM Stolen Vehicle) Corporal Jim Burnett. Car chase.
+  - This is segment 1 of CP-526.
 - (Fort Worth, TX -- 7:36 PM Traffic Stop) Officer John Ost, Officer Jerry Dalton.
+  - This is segment 1 of CP-1211.
 - (Bernalillo County, NM -- 1:34 AM Car Pursuit) Deputy Leonard Armijo, Deputy
   Casey Ireland. Car chase.
+  - This is segment 1 of CP-1228.
 
 ## Season 15
 
