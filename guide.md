@@ -5400,15 +5400,15 @@ Aired 1991-06-08.
   happy the Gulf War in over. James tells him it's illegal, but just gives him
   a warning.
 - (1:18 AM Theft Call) Deputy Michael Sieck likes the night shift the best.
-  There are too many people out in the day and the night is busier.A guy pumped
-  gas without paying at Wallaceville and Wake Forest. He finally pulls his
-  truck over on the 300 block of Kokomo. They cuff the long haired driver for
-  stealing the $16 worth of gas. The owner followed them and is on the scene.
-  The passenger went in for cigarettes and the driver was supposed to go in and
-  pay, but ran. The driver doesn't know anything about it. They take the driver
-  back to the gas station to get ID'ed by the clerk. Mike says if he tells the
-  truth he'll only get a citation. The driver says he only had $1, so he pumped
-  and ran away. He gets a $200 fine and is let go until the trial.
+  There are too many people out in the day and the night is busier. A guy
+  pumped gas without paying at Wallaceville and Wake Forest. He finally pulls
+  his truck over on the 300 block of Kokomo. They cuff the long haired driver
+  for stealing the $16 worth of gas. The owner followed them and is on the
+  scene. The passenger went in for cigarettes and the driver was supposed to go
+  in and pay, but ran. The driver doesn't know anything about it. They take the
+  driver back to the gas station to get ID'ed by the clerk. Mike says if he
+  tells the truth he'll only get a citation. The driver says he only had $1, so
+  he pumped and ran away. He gets a $200 fine and is let go until the trial.
 
 tvguide [mentions a different
 segment](https://www.tvguide.com/tvshows/cops/episodes-season-3/1000242631/),
@@ -8549,8 +8549,9 @@ Aired 1995-07-01.
   caught with drugs
 - Dallas, TX -- Car chase on the freeway with a drunk in a red pickup who goes
   home
-- Fort Worth, TX -- Assistance call at a Fina gas station with an insane man
-  who thinks he's Elvis' son in law.
+- (Fort Worth, TX -- 10:39 PM Assistance Call) Officer Andy Carter, Officer
+  Rick Benson. Assistance call at a Fina gas station with an insane man who
+  thinks he's Elvis' son in law.
 
 ## Season 8
 
