@@ -12040,7 +12040,12 @@ Aired 2000-09-02.
 
 **Jacksonville, FL 2**
 
-- (10:23 PM Assistance Call) Zone 4 -- Officer Shawn Pringle says when he was a kid he was fascinated by the police. When he heard a cop car coming he'd run out of his house to watch them go by. He gets great enjoyment helping people. He gets a call to back up a fight between a male and a female and the female is the suspect for a change. A man threatens woman a with voodoo curse. House full of snakes.
+- (10:23 PM Assistance Call) Zone 4 -- Officer Shawn Pringle says when he was a
+  kid he was fascinated by the police. When he heard a cop car coming he'd run
+  out of his house to watch them go by. He gets great enjoyment helping people.
+  He gets a call to back up a fight between a male and a female and the female
+  is the suspect for a change. A man threatens woman a with voodoo curse. House
+  full of snakes.
 - marijuana sale leads to foot chase
 - elderly woman falls asleep in bank restroom.
 
@@ -12069,11 +12074,12 @@ Aired 2000-08-19.
 - (11:58 PM Robbery in Progress) Officer Linda Morgan talks about meeting her
   husband who was a bike cop on the force and how great it is to be married to
   another cop. She aids in the arrest of a robber who attacked his intended
-  victim with a pipe and tried to choke him. Officer Dobscha responds to a
-  report of a six-foot alligator discovered on a homeowner's back porch. While
-  participating in an undercover sting operation targeting car thieves, Officer
-  McNeil observes a group of individuals attempting to burglarize a decoy
-  vehicle.
+  victim with a pipe and tried to choke him.
+- Officer Dobscha responds to a report of a six-foot alligator discovered on a
+  homeowner's back porch.
+- While participating in an undercover sting operation targeting car thieves,
+  Officer McNeil observes a group of individuals attempting to burglarize a
+  decoy vehicle.
 
 ### CP-1305
 
@@ -12085,11 +12091,12 @@ Aired 2000-09-09.
   an officer responded to a burglar alarm and found three men on the scene and
   has one at gunpoint. Officer Adams questions a witness whose vehicle was
   rammed by two robbery suspects whom police believe may be responsible for a
-  string of storage unit break-ins. Officer McNeil aids in the pursuit of a
-  suspect linked to a series of armed robberies who is apprehended after a
-  witness says that she saw the man change his clothes in the lobby of her
-  apartment building. Officer McNeil investigates a report of a disabled man
-  selling counterfeit jewelry to unsuspecting customers.
+  string of storage unit break-ins.
+- Officer McNeil aids in the pursuit of a suspect linked to a series of armed
+  robberies who is apprehended after a witness says that she saw the man change
+  his clothes in the lobby of her apartment building.
+- Officer McNeil investigates a report of a disabled man selling counterfeit
+  jewelry to unsuspecting customers.
 
 ### CP-1306
 
@@ -12101,10 +12108,11 @@ Aired 2000-10-14.
   officers will be in which vehicles for the busts. The Vice Unit targets drug
   activity in a problem area of the city, leading to the arrest of several
   suspects, one of whom possesses marked currency given to him by an undercover
-  officer. Officers Mitaly and Cullen assist a homeowner who reported finding
-  hissing raccoons in her chimney and, later, volunteers to help remove a
-  mother raccoon and her three adorable babies from the residence. Officer
-  Johnson investigates after he witnesses a driver pick up a female.
+  officer.
+- Officers Mitaly and Cullen assist a homeowner who reported finding hissing
+  raccoons in her chimney and, later, volunteers to help remove a mother
+  raccoon and her three adorable babies from the residence.
+- Officer Johnson investigates after he witnesses a driver pick up a female.
 
 ### CP-1307
 
@@ -12116,10 +12124,12 @@ Aired 2000-12-02.
   taking over a female drug dealer's trailer and selling out of it on a Friday
   night. The Vice Unit arrests a drug dealer inside her trailer, and later,
   undercover officers posing as dealers use the trailer to attract several
-  unwitting buyers. Sheriff Lederman arrests a driver and his two female
-  passengers after it is determined they are riding in a vehicle that had been
-  reported stolen earlier that day. Sheriff Meyer aids in the arrest of three
-  suspects who burglarized a change machine at a coin-operated car wash.
+  unwitting buyers.
+- Sheriff Lederman arrests a driver and his two female passengers after it is
+  determined they are riding in a vehicle that had been reported stolen earlier
+  that day.
+- Sheriff Meyer aids in the arrest of three suspects who burglarized a change
+  machine at a coin-operated car wash.
 
 ### CP-1308
 
@@ -12129,8 +12139,9 @@ Aired 2000-12-16.
 
 - (3:27 PM John Sting Briefing) Sheriff's Office Vice Unit -- Sgt. John Britt
   discusses with officers about doing a prostitution decoy sting and not
-  jeopardizing the officer's safety. A neighborhood resident complains of male
-  prostitution; officers remove a snake from a woman's home.
+  jeopardizing the officer's safety.
+- A neighborhood resident complains of male prostitution
+- officers remove a snake from a woman's home.
 
 ### CP-1309
 
@@ -12140,8 +12151,9 @@ Aired 2001-01-06.
 
 - (1:45 PM Drug Sting) Organized Crime Unit -- Sgt. Tony R. Davis says
   sometimes by doing this reverse stings they catch people wanted for different
-  crimes. Officers search for missing marijuana; a man says his girlfriend's
-  father damaged his belongings; a man denies assaulting a woman.
+  crimes. Officers search for missing marijuana
+- a man says his girlfriend's father damaged his belongings
+- a man denies assaulting a woman.
 
 ### CP-1310
 
@@ -12154,9 +12166,9 @@ Aired 2001-01-13.
   because she was in trouble with the law before. She thought they wouldn't
   help her because of that and was surprised that they did, not realizing she
   was a victim and they haven't seen her since. They spot a car trying to avoid
-  them and go after it. Police try to link a gun to a suspect; a man says his
-  uncle stabbed him; a man says his daughter skipped school and smoked
-  marijuana.
+  them and go after it. Police try to link a gun to a suspect
+- a man says his uncle stabbed him
+- a man says his daughter skipped school and smoked marijuana.
 
 ### CP-1311
 
@@ -12167,11 +12179,13 @@ Aired 2001-01-20.
 - (10:09 PM Possible Murder Suspect) 911 Communications Center -- A man who
   works at a homeless shelter calls in that he saw one of the guys there on
   America's Most Wanted wanted on attempted murder and armed robbery charges.
-  Zone 1 -- Sgt. Michelle Cook takes the call. Officer Johnson gets some
-  unexpected cooperation from a suspect who admits he has a gun in his car, but
-  when police search the vehicle, they also turn up crack cocaine. As members
-  of the Organized Crime Unit serve a drug warrant inside an apartment, they
-  discover signs of drug manufacturing and the remnants of crack cocaine.
+  Zone 1 -- Sgt. Michelle Cook takes the call.
+- Officer Johnson gets some unexpected cooperation from a suspect who admits he
+  has a gun in his car, but when police search the vehicle, they also turn up
+  crack cocaine.
+- As members of the Organized Crime Unit serve a drug warrant inside an
+  apartment, they discover signs of drug manufacturing and the remnants of
+  crack cocaine.
 
 ### CP-1312
 
@@ -12200,8 +12214,30 @@ Aired 2000-11-04.
   trailers. A K-9 is brought in and goes through the woods. He keeps screaming
   and asked why he tossed the gun. The car was stolen and he's been pulled over
   before.
-- Lakewood PD -- Deputy Dan Wulick likes to stop in a convenience store to see Radar. He asks him if he has any new tricks and he shows him one with 2 clown noses and that there's been no problems lately. (11:21 PM Noise Complaint) He goes to a juvenile's party, but spots a fire on the way. People are trying to put out this huge fire with small fire extinguishers. He tries to get them to stop, then tries to clear out all the apartments, but people keep running back inside to grab stuff. One man thinks his daughter is still inside, but turns out she isn't. A woman runs back inside looking for her cat. She leaves and goes back in. Firefighters arriver and Officer John Giron from Dupont says the woman ran back inside again. Dan goes in the smoke filled apartment, grabs the car and throws him out, but gets a bad scratch in the process and bleeds down his hand.
-- Lakewood PD -- Deputy Joe Kolp likes hockey, plays all the time, works out, goes to movies, anything to get away from work. (2:23 AM Fight in Progress) Someone was hit by a 1989 Dodge Caravan. Deputy Monti Minion asks the victim for a description of the van and the driver. The man came barreling through a yard, the victim came out and told him to stop. The guy says to get his dog away, backed up and hit him, his fence and his furniture which are destroyed. Deputy Karin Lofling finds the van's license plate in the rubble -- 218 -- ? The catch the driver and go to ID him. Deputy Heath Page reads Anthony his rights. Deputy Les Bunton backs them up. Anthony is a loud mouth wise ass who doesn't understand his rights. The victims ID him and he doesn't know why he's being arrested, says to prove it since they are wrong. He admits he was there, but wasn't driving.
+- Lakewood PD -- Deputy Dan Wulick likes to stop in a convenience store to see
+  Radar. He asks him if he has any new tricks and he shows him one with 2 clown
+  noses and that there's been no problems lately. (11:21 PM Noise Complaint) He
+  goes to a juvenile's party, but spots a fire on the way. People are trying to
+  put out this huge fire with small fire extinguishers. He tries to get them to
+  stop, then tries to clear out all the apartments, but people keep running
+  back inside to grab stuff. One man thinks his daughter is still inside, but
+  turns out she isn't. A woman runs back inside looking for her cat. She leaves
+  and goes back in. Firefighters arriver and Officer John Giron from Dupont
+  says the woman ran back inside again. Dan goes in the smoke filled apartment,
+  grabs the car and throws him out, but gets a bad scratch in the process and
+  bleeds down his hand.
+- Lakewood PD -- Deputy Joe Kolp likes hockey, plays all the time, works out,
+  goes to movies, anything to get away from work. (2:23 AM Fight in Progress)
+  Someone was hit by a 1989 Dodge Caravan. Deputy Monti Minion asks the victim
+  for a description of the van and the driver. The man came barreling through a
+  yard, the victim came out and told him to stop. The guy says to get his dog
+  away, backed up and hit him, his fence and his furniture which are destroyed.
+  Deputy Karin Lofling finds the van's license plate in the rubble -- 218 -- ?
+  The catch the driver and go to ID him. Deputy Heath Page reads Anthony his
+  rights. Deputy Les Bunton backs them up. Anthony is a loud mouth wise ass who
+  doesn't understand his rights. The victims ID him and he doesn't know why
+  he's being arrested, says to prove it since they are wrong. He admits he was
+  there, but wasn't driving.
 
 ### CP-1314
 
@@ -12651,7 +12687,7 @@ Aired 2001-02-25.
 
 **Hot Pursuits** AKA Intense Chases/Wildest Chases
 
-- (Indianapolis -- 2:17 AM Vehicle Pursuit) CP-627 (They've changed 'Vehicle'
+- (Indianapolis -- 2:17 AM Car Pursuit) CP-627 (They've changed 'Vehicle'
   to 'Car')
 - (Sacramento, CA -- 6:23 PM Traffic Stop) CP-608
 - (Atlanta, GA -- 3:37 AM Traffic Stop) CP-1101
@@ -12743,7 +12779,13 @@ Aired 2001-12-15.
 
 **Palm Beach County, FL 13**
 
-- (12:23 AM Domestic Disturbance) Deputy Lower responds to a report of a suspect kicking in the front door of a house, and when he arrives at the scene, Lower discovers the suspect holding a knife to another man's throat. Deputy Smith assists other officers pursuing a suspect who fled while being served a warrant. Deputy Lower helps apprehend a suspect who pulled off a robbery and fled with a multitude of construction tools.
+- (12:23 AM Domestic Disturbance) Deputy Lower responds to a report of a
+  suspect kicking in the front door of a house, and when he arrives at the
+  scene, Lower discovers the suspect holding a knife to another man's throat.
+- Deputy Smith assists other officers pursuing a suspect who fled while being
+  served a warrant.
+- Deputy Lower helps apprehend a suspect who pulled off a robbery and fled with
+  a multitude of construction tools.
 
 ### CP-1403
 
@@ -12751,7 +12793,16 @@ Aired 2002-01-05.
 
 **Palm Beach County, FL 14**
 
-- (1:11 PM Briefing) Narcotics Unit -- Sgt. Marios Martinez says they bought from a guy the night before and if he is there tonight they'll bust him. They want to keep the CI out of it while buying 7oz of coke. The verbal sign is "It's party time" the signal is the hat out the window. Sheriff's Office Narcotics Unit uses a vehicle furnished with advanced surveillance equipment to assist with the apprehension of drug dealers. Officer Villiers assists a woman who claims her child's father threatened her with a knife when he discovered that they lost custody of their child. Deputy Villiers assists a victim who claims an estranged friend hit him with a shovel because he owed him twenty dollars.
+- (1:11 PM Briefing) Narcotics Unit -- Sgt. Marios Martinez says they bought
+  from a guy the night before and if he is there tonight they'll bust him. They
+  want to keep the CI out of it while buying 7oz of coke. The verbal sign is
+  "It's party time" the signal is the hat out the window. Sheriff's Office
+  Narcotics Unit uses a vehicle furnished with advanced surveillance equipment
+  to assist with the apprehension of drug dealers.
+- Officer Villiers assists a woman who claims her child's father threatened her
+  with a knife when he discovered that they lost custody of their child.
+- Deputy Villiers assists a victim who claims an estranged friend hit him with
+  a shovel because he owed him twenty dollars.
 
 ### CP-1404
 
@@ -12759,7 +12810,11 @@ Aired 2002-03-06.
 
 **Palm Beach County, FL 15**
 
-- (10:02 PM Street Patrol) Tactical Unit -- Deputy Kevin Marks says he has been on the force seven years and three years with another unit. His partner is Deputy Keith Burns and he says they are both on the same page. Keith wanted to be a cop since he was a kid. The pay is bad, but the satisfaction outweighs that.
+- (10:02 PM Street Patrol) Tactical Unit -- Deputy Kevin Marks says he has been
+  on the force seven years and three years with another unit. His partner is
+  Deputy Keith Burns and he says they are both on the same page. Keith wanted
+  to be a cop since he was a kid. The pay is bad, but the satisfaction
+  outweighs that.
 
 ### CP-1405
 
@@ -12767,7 +12822,11 @@ Aired 2002-03-23.
 
 **Palm Beach County, FL 16**
 
-- (11:27 PM Man with a Knife Call) District 1 -- Deputy David Sims went up to New York expecting to get real NY pizza and his friend went and ordered Dominos so he was disappointed. Police chase a suspicious man who was loitering in a parking lot; domestic dispute at a mobile-home park.
+- (11:27 PM Man with a Knife Call) District 1 -- Deputy David Sims went up to
+  New York expecting to get real NY pizza and his friend went and ordered
+  Dominos so he was disappointed. Police chase a suspicious man who was
+  loitering in a parking lot
+- domestic dispute at a mobile-home park.
 
 ### CP-1406
 
@@ -12775,7 +12834,16 @@ Aired 2002-04-13.
 
 **Palm Beach County, FL 17**
 
-- (9:57 PM Suspicious Vehicle) Tactical Unit -- Deputy Keith Burns and Deputy Kevin Marks drive in an unmarked car and say it is better for catching criminals unaware. The windows are darkened and there is no lightbar. They are like ninjas and samurai in stealth mode. They attempt to stop a suspicious vehicle after determining that the owner has an extensive arrest record which includes assaulting a police officer. Deputy Lower stops a car when it is determined the occupants might be linked to a recent robbery. Deputy Fresneda questions a man who claims to have gotten into a fight with a second man after he threw a brick at his car.
+- (9:57 PM Suspicious Vehicle) Tactical Unit -- Deputy Keith Burns and Deputy
+  Kevin Marks drive in an unmarked car and say it is better for catching
+  criminals unaware. The windows are darkened and there is no lightbar. They
+  are like ninjas and samurai in stealth mode. They attempt to stop a
+  suspicious vehicle after determining that the owner has an extensive arrest
+  record which includes assaulting a police officer.
+- Deputy Lower stops a car when it is determined the occupants might be linked
+  to a recent robbery.
+- Deputy Fresneda questions a man who claims to have gotten into a fight with a
+  second man after he threw a brick at his car.
 
 ### CP-1407
 
@@ -12783,7 +12851,12 @@ Aired 2002-04-20.
 
 **Palm Beach County, FL 18**
 
-- (8:47 PM Man with a Knife) District 1 -- Corporal John Cogburn says with the Marine division they have a wide environment to cover from the city to the cane fields. A disturbance at a traffic stop. A suspect hides in foliage; prostitution sting; stolen vehicle.
+- (8:47 PM Man with a Knife) District 1 -- Corporal John Cogburn says with the
+  Marine division they have a wide environment to cover from the city to the
+  cane fields. A disturbance at a traffic stop.
+- A suspect hides in foliage
+- prostitution sting
+- stolen vehicle.
 
 ### CP-1408
 
@@ -12791,7 +12864,12 @@ Aired 2001-09-01.
 
 **Palm Beach County, FL 19**
 
-- (4:53 AM Burglary in Progress) District 1 -- 911 Communications Center -- A black woman calls saying she is watching two men breaking into cars and stealing the stereos at her apartment complex. Deputy Gerard Morency takes the call. An officer responds to a burglary in progress; a suspect refuses to present identification.
+- (4:53 AM Burglary in Progress) District 1 -- 911 Communications Center -- A
+  black woman calls saying she is watching two men breaking into cars and
+  stealing the stereos at her apartment complex. Deputy Gerard Morency takes
+  the call.
+- An officer responds to a burglary in progress
+- a suspect refuses to present identification.
 
 ### CP-1409
 
@@ -12799,7 +12877,16 @@ Aired 2001-09-01.
 
 **Atlanta, GA 12**
 
-- (7:17 PM Man with a Gun Call) Zone 3 -- Officer Mike Griffin talks about the history of the city through the civil war to Martin Luther King, Jr. He questions a mother who claims she confronted an armed man who attempted to pick up her daughter. While patrolling a restaurant where there have been several complaints of prostitution and drug activity, Officer Stegner spots a man and woman emerging suspiciously from behind a dirt hill. Officers Watson and Cooper pursue an armed and dangerous robbery suspect who collides with another vehicle in the middle of a busy intersection and flees on foot.
+- (7:17 PM Man with a Gun Call) Zone 3 -- Officer Mike Griffin talks about the
+  history of the city through the civil war to Martin Luther King, Jr. He
+  questions a mother who claims she confronted an armed man who attempted to
+  pick up her daughter.
+- While patrolling a restaurant where there have been several complaints of
+  prostitution and drug activity, Officer Stegner spots a man and woman
+  emerging suspiciously from behind a dirt hill.
+- Officers Watson and Cooper pursue an armed and dangerous robbery suspect who
+  collides with another vehicle in the middle of a busy intersection and flees
+  on foot.
 
 ### CP-1410
 
@@ -13130,7 +13217,14 @@ Aired 2002-03-16.
 
 **Coast to Coast 20**
 
-- (Tampa, FL -- 11:14 PM Man with a gun call) 911 Communication Center -- A call comes in to 911 by a black woman screaming that a man is after her with a gun and hangs up. District 2 -- Officer Jason Tkach takes the call to the 1600 block at River Cove. Before she can say where she is the phone goes dead. Tire thieves; a car contains crack cocaine; liquor-store incident.
+- (Tampa, FL -- 11:14 PM Man with a gun call) 911 Communication Center -- A
+  call comes in to 911 by a black woman screaming that a man is after her with
+  a gun and hangs up.
+- District 2 -- Officer Jason Tkach takes the call to the 1600 block at River
+  Cove. Before she can say where she is the phone goes dead.
+- Tire thieves
+- a car contains crack cocaine
+- liquor-store incident.
 - Fort Worth, TX
 - Tampa, FL
 
@@ -14033,8 +14127,8 @@ Aired 2003-05-10.
 
 **Bad Girls! 3 Mardi Gras Special Edition**
 
-- (8:15 PM Briefing) Women misbehave during New Orleans festivities; officers
-  arrest female suspects involved in a physical altercation.
+- (8:15 PM Briefing) Women misbehave during New Orleans festivities
+- officers arrest female suspects involved in a physical altercation.
 
 ### CP-1602
 
