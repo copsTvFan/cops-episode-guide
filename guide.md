@@ -7233,7 +7233,10 @@ Aired 1993-07-10.
 
 **San Bernardino, CA 2**
 
-- (7:47 PM Bomb Threat) / (7:47 PM Terrorist Threats) Victorville Station -- Deputy Rob Wickum works in the high desert and the bad thing is that it's so spread out, a very large area, and sometimes it takes a long time to get to calls. Sheriff's deputies respond to a threat to blow up a house;
+- (7:47 PM Bomb Threat) / (7:47 PM Terrorist Threats) Victorville Station --
+  Deputy Rob Wickum works in the high desert and the bad thing is that it's so
+  spread out, a very large area, and sometimes it takes a long time to get to
+  calls. Sheriff's deputies respond to a threat to blow up a house;
 - Sgt. Sam Pollock briefs a narcotics team;
 - Dep. Hank Valencia assists when an officer is assaulted at a domestic-dispute call.
 
@@ -7244,7 +7247,7 @@ Aired 1993-07-17.
 **San Bernardino, CA 3**
 
 - (Pomona, CA -- 10:02 PM Street Patrol) Corporal Joe Waltman grew up on the
-  East Coast and always dreamed of going to California. I the courts they have
+  East Coast and always dreamed of going to California. In the courts they have
   all the time they need to work things out, but on the streets it's split
   second decisions. (10:16 PM Man With A Gun) Officer pursues armed suspect.
 - (San Bernardino County, CA -- 7:11 PM Search & Rescue Call) Deputy Hank
@@ -8394,7 +8397,12 @@ Aired 1994-10-20.
 
 - (9:01 PM Anti-Crime Unit Briefing) N.Y.P.D. 34th Precinct starts with shot of
   WTC. Some of the undercover guys look like criminals wearing gangster shirts.
-  raid on reported drug house; menacing rodents; overturned vehicle.
+  raid on reported drug house
+- (New York City, NY -- 3:05 PM Public Assistance Call) N.Y.P.D. Emergency
+  Service Unit. Sgt. Pat Murphy. A rat in a bathroom, featuring Officer James
+  Taylor, Officer John Politoski. (8:54 PM Public Assistance Call) A bat in an
+  apartment. Featuring Officer Pete Conlin.
+- overturned vehicle.
 
 ### CP-735
 
@@ -9952,9 +9960,15 @@ Aired 1997-09-20.
 
 **Las Vegas, NV 20**
 
-- (10:26 PM Communications Center) A call comes in from a woman that says a man
-  hit her mom over the head with a bat. (10:29 PM Battery Call) South East Area
-  Command -- Officer Leonard Marshall
+- (Las Vegas, NV -- 10:26 PM Communications Center) A call comes in from a
+  woman that says a man hit her mom over the head with a bat. (10:29 PM Battery
+  Call) South East Area Command -- Officer Leonard Marshall, Officer Tom
+  Jenkins.
+- (Las Vegas, NV -- 4:14 PM Burglary In Progress) North East Area Command.
+  Officer Tim Moniot, Officer Jeff Whipple. A male comes in through a window so
+  he can have a bath with his 16-year-old girlfriend.
+- (Las Vegas, NV -- 11:07 PM S.E.R.T. Briefing) Lt. Pat Kessel, Sgt. Phil
+  Harris, Officer Ray Hickman, Officer Gary Driscoll.
 
 ### CP-1006
 
@@ -12709,38 +12723,80 @@ Aired 2001-05-??.
 
 **Greatest Moments 2 hours**
 
-15 segments:
+Uncensored version:
 
-1. (Cleveland, OH -- 2:07 AM Stolen Car Call)
-  - This is CP-628.
+1. (Cleveland, OH -- 2:07 AM Stolen Vehicle Call)
+  - This is segment 1 of CP-628, but they've changed 'Car' to 'Vehicle'.
 2. (Philadelphia, PA -- 11:04 PM Burglary In Progress)
   - This is segment 1 of CP-521.
 3. (Pierce County, WA -- 6:16 PM Suicidal Person Call)
-  - This is CP-916.
+  - This is segment 1 of CP-916.
 4. (Albuquerque, NM -- 10:47 PM Street Patrol)
-  - This is CP-1225.
+  - This is segment 1 of CP-1225.
 5. (Fort Worth, TX -- 4:12 PM Pursuit In Progress)
-  - This is CP-521, segment 1.
+  - This is segment 1 of CP-816.
 6. (Martin County, FL -- 10:33 PM Street Patrol)
-  - This is CP-1123, segment 1.
-7. (Fort Worth, TX -- 5:02 PM Traffic Stop)
-  - This is CP-1215.
+  - This is segment 1 of CP-1123.
+7. (Las Vegas, NV -- 4:14 PM Burglary In Progress)
+  - This is segment 2 of CP-1005.
 8. (Kansas City, MO -- 1:04 AM Pursuit In Progress)
-  - This is CP-723, segment 1.
+  - This is segment 1 of CP-723, but they've changed 'Car Chase' to 'Pursuit In
+    Progress'.
 9. (Lynn, MA -- 11:21 AM Assault With A Knife Call)
-  - This is CP-908, segment 1.
+  - This is segment 1 of CP-908, but they've changed 'Assault Call' to 'Assault
+    With A Knife Call'.
 10. (Kansas City, KS -- 5:43 PM Suspicious Activity)
-  - This is CP-1017, segment 3.
+  - This is segment 3 of CP-1017.
+11. (Pomona, CA -- 10:16 PM Man With A Gun Call)
+  - This is segment 1 of CP-543, but they've changed 'Man With A Gun' to 'Man
+    With A Gun Call'.
+12. (New York City, NY -- 3:05 PM Public Assistance Call)
+  - This is segment 2 of CP-734.
+13. (Los Angeles, CA -- 10:37 PM Assistance Call)
+  - This is segment 1 of CP-702.
+14. (Fort Worth, TX -- 10:05 PM House Fire Call)
+  - This is segment 3 of CP-816, but they've changed '911 Call' to 'House Fire
+    Call'.
+15. (Pomona, CA -- 12:03 AM Pursuit In Progress)
+  - This is segment 1 of BOC-003, but they've changed 'Car Chase' to 'Pursuit
+    In Progress'.
+
+Censored version:
+
+1. (Cleveland, OH -- 2:07 AM Stolen Vehicle Call)
+  - This is segment 1 of CP-628, but they've changed 'Car' to 'Vehicle'.
+2. (Philadelphia, PA -- 11:04 PM Burglary In Progress)
+  - This is segment 1 of CP-521.
+3. (Pierce County, WA -- 6:16 PM Suicidal Person Call)
+  - This is segment 1 of CP-916.
+4. (Albuquerque, NM -- 10:47 PM Street Patrol)
+  - This is segment 1 of CP-1225.
+5. (Fort Worth, TX -- 4:12 PM Pursuit In Progress)
+  - This is segment 1 of CP-816.
+6. (Martin County, FL -- 10:33 PM Street Patrol)
+  - This is segment 1 of CP-1123.
+7. (Fort Worth, TX -- 5:02 PM Traffic Stop)
+  - This is segment 1 of CP-1215.
+8. (Kansas City, MO -- 1:04 AM Pursuit In Progress)
+  - This is segment 1 of CP-723, but they've changed 'Car Chase' to 'Pursuit In
+    Progress'.
+9. (Lynn, MA -- 11:21 AM Assault With A Knife Call)
+  - This is segment 1 of CP-908, but they've changed 'Assault Call' to 'Assault
+    With A Knife Call'.
+10. (Kansas City, KS -- 5:43 PM Suspicious Activity)
+  - This is segment 3 of CP-1017.
 11. (Albuquerque, NM -- 11:56 PM Assistance Call)
-  - This is CP-1230, segment 1.
+  - This is segment 1 of CP-1230.
 12. (Fort Worth, TX -- 10:44 PM Suspicious Activity)
   - This is segment 1 of CP-1213.
 13. (Los Angeles, CA -- 10:37 PM Assistance Call)
-  - This is CP-702.
-14. (Fort Worth, TX -- 10:05 PM House Fire Call)
-  - This is CP-816
-15. (Pomona, CA -- 12:03 AM Pursuit In Progress)
   - This is segment 1 of CP-702.
+14. (Fort Worth, TX -- 10:05 PM House Fire Call)
+  - This is segment 3 of CP-816, but they've changed '911 Call' to 'House Fire
+    Call'.
+14. (Pomona, CA -- 12:03 AM Pursuit In Progress)
+  - This is segment 1 of BOC-003, but they've changed 'Car Chase' to 'Pursuit
+    In Progress'.
 
 ## Season 14
 
@@ -14047,8 +14103,10 @@ Aired 2003-02-22.
   officer uses a stun gun when a drunken driver picks a fight.
 - (Miami, FL -- 9:03 PM Roll Call) Lt. Chip Landrau, Officer Ruben Lameira.
   (9:34 PM Man With a Knife Call).
+    - Appears to be a new segment.
 - (Pomona, CA -- 10:16 PM Man With a Gun Call) Corporal Joe Waltman, Lt. Larry
   Todd, K-9 Officer Mark Shannon.
+    - This is segment 1 of CP-543.
 
 ### CP-1532
 
