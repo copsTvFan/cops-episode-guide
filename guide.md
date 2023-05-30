@@ -9504,12 +9504,20 @@ Aired 1997-01-04.
   chance and took the tests because he'd never get another chance and here he
   is. Bike found in neighbor's driveway. (10:27 PM Traffic Accident Call)
   Mexicans crash a van over a fence and flee. Featuring Officer David Seamans.
-- cops buy food
-- man steals bag full of food
-- missing child found at pool
-- Asian domestic dispute.
+- (Boston, MA -- 7:45 PM Shoplifting Call) East Boston. Officer Peter Fontanez
+  and Officer Michael Leary buy food. A man steals bag full of food. Featuring
+  Officer Michael Doyle.
+- (Lowell, MA -- 4:32 PM Missing Child Call) Officer Mike Miles. Missing child
+  found at pool. (6:48 PM Domestic Violence Call) Asian domestic dispute,
+  featuring Officer Billy Finn.
 
-He could die tomorrow and be happy since he accomplished his goal.
+Dedicated to the memory of:
+
+- Captain Steven Smith (Lowell Police Department)
+- Sergeant John Sullivan (Lowell Police Department)
+- Officer David Seamans (Lowell Police Department)
+- Officer Donald Brill (Lowell Police Department)
+- Officer Robert Marchionda (North Reading Police Department)
 
 ### CP-916
 
