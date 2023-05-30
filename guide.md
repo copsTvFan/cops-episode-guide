@@ -929,7 +929,7 @@ Aired 1989-06-17.
   force. An international television event, direct from Moscow and Leningrad.
   This is the reality of the men and women who protect and serve in the Soviet
   Union.
-- (Soviet Militia Training Academy 6:30 AM) The commander explains what is
+- (6:30 AM Soviet Militia Training Academy) The commander explains what is
   needed to get in the academy. You have to be highly educated, knowledgeable
   in many areas, strong, physically prepared and often recruits don't realize
   how difficult their course is and can't make it through the rigorous
@@ -2591,7 +2591,7 @@ Aired 1990-03-03.
   to a multiple murder shooting of three people at Direct Liquor. A witness
   says four people got shot. He just waited on the victims, they are dead face
   down in the street. He's been working there since 1965 and this is the worst
-  thing he's ever seen. Sgt. Rey Verdguo arrives and Deputy Dana Vilander
+  thing he's ever seen. Sgt. Rey Verdugo arrives and Deputy Dana Vilander
   explains what happened. Two kids came up, words were exchanged and the
   shooting started. A guy and a girl went down outside and were DOA. All the
   shots were fired outside. Two Mexicans were hit inside, probably dead, now
@@ -2607,30 +2607,30 @@ Aired 1990-03-03.
   that was it, he had blood in his eyes. She is trying to remember how he
   looked, he had a baby face, possibly a thin mustache and thinks she can ID
   him.
-- Lennox Sheriff's Station -- Rey says this is a definite hit from a guy in the
-  South Los Gang.  (3:12 PM Homicide Investigation) Three out of the four have
-  now died. They went to the location looking for a Gardena 13 gang member.
-  It's what the one guy said that caused them to open up. What they do know is
-  to talk to kids congregating and see what they heard. (Field Investigation)
-  Two guys say Little Wolfie died and his brother Wolfie went back for justice.
-  They don't know who this guy is. (4:02 PM Crime Lab) They remove a large slug
-  from the dead black female. They have two bullets they want analyzed from a
-  Rossi Revolver, Astra, Colt, or Dan Wesson. (10:11 Monday) They went to the
-  house and retrieved some guns. (1:25 PM Ballistic Lab) One of the guns is a
-  Wesson. They say the gun has no prints, but ballisticaly it matches up. They
-  went to the G13 gang and they said Osvaldo Renrossos AKA Little Wolfie did it
-  in retaliation for his brother's death. Ignacio Morina was only 13 and was
-  going to join the gang and idolized Little Wolfie. They got photos and took
-  it to their three witnesses.  The woman ID's him right away and so does
-  another witness. A member of B13 said that night he saw the shooter. He
-  wasn't going to help him and off the record he said it was Wolfie. (One Month
-  Later Suspect Arrested) They pulled by his house, saw his car there, went up
-  to his mother and got him with no problems.  In the station there is a
-  Robocop poster on the wall. Rey tells the guy he has rights. He says he
-  didn't do it, but knows about it. Rey said they will verify his story one way
-  of the other and they want to be sure of a murder filing.  It's multiple
-  murders with the death penalty attached. He denies it, but all the witnesses
-  say he did it. It's him beyond a reasonable doubt.
+- Lennox Sheriff's Station -- Rey Verdugo says this is a definite hit from a
+  guy in the South Los Gang.  (3:12 PM Homicide Investigation) Three out of the
+  four have now died. They went to the location looking for a Gardena 13 gang
+  member.  It's what the one guy said that caused them to open up. What they do
+  know is to talk to kids congregating and see what they heard. (Field
+  Investigation) Two guys say Little Wolfie died and his brother Wolfie went
+  back for justice.  They don't know who this guy is. (4:02 PM Crime Lab) They
+  remove a large slug from the dead black female. They have two bullets they
+  want analyzed from a Rossi Revolver, Astra, Colt, or Dan Wesson. (10:11
+  Monday) They went to the house and retrieved some guns. (1:25 PM Ballistic
+  Lab) One of the guns is a Wesson. They say the gun has no prints, but
+  ballisticaly it matches up. They went to the G13 gang and they said Osvaldo
+  Renrossos AKA Little Wolfie did it in retaliation for his brother's death.
+  Ignacio Morina was only 13 and was going to join the gang and idolized Little
+  Wolfie. They got photos and took it to their three witnesses.  The woman ID's
+  him right away and so does another witness. A member of B13 said that night
+  he saw the shooter. He wasn't going to help him and off the record he said it
+  was Wolfie. (One Month Later Suspect Arrested) They pulled by his house, saw
+  his car there, went up to his mother and got him with no problems.  In the
+  station there is a Robocop poster on the wall. Rey tells the guy he has
+  rights. He says he didn't do it, but knows about it. Rey said they will
+  verify his story one way of the other and they want to be sure of a murder
+  filing.  It's multiple murders with the death penalty attached. He denies it,
+  but all the witnesses say he did it. It's him beyond a reasonable doubt.
 - Narcotic Bureau Temple City Station (8:15 AM Warrant Briefing) Deputy David
   Busk says they are looking for the same girl from July, red hair, green eyes
   with 19 & 20 year old sons who are crazy bikers. The drugs and scales should
@@ -3631,15 +3631,15 @@ Aired 1990-10-27.
 
 **Alaska 1**
 
-- (State Troopers) Nome -- Trooper Ike Lorentz & Sgt. Al Schadle check the
-  weather, 1000 foot overcast, visibility 15 miles. They are going 180 miles
-  away, should take an hour. There was an assault and more a couple days ago.
-  They look at the map and go out to top off the gas tank on their small plane.
-  The state is 560,000 square miles, as big as the US. He'll work a 16 hour day
-  and 10 of it is in the air. His beat is 200,000 square miles, if it's not the
-  last frontier nothing is. (Village of Savoonga) There is a bootlegging
-  operation where they make or can buy the alcohol and transport it to a dry
-  village. This causes problems for at least a week until it dries up.
+- (Alaska State Troopers) Nome -- Trooper Ike Lorentz & Sgt. Al Schadle check
+  the weather, 1000 foot overcast, visibility 15 miles. They are going 180
+  miles away, should take an hour. There was an assault and more a couple days
+  ago. They look at the map and go out to top off the gas tank on their small
+  plane. The state is 560,000 square miles, as big as the US. He'll work a 16
+  hour day and 10 of it is in the air. His beat is 200,000 square miles, if
+  it's not the last frontier nothing is. (Village of Savoonga) There is a
+  bootlegging operation where they make or can buy the alcohol and transport it
+  to a dry village. This causes problems for at least a week until it dries up.
   Magistrate Abner Golorgergen meets them at the tiny airport. They ride in a
   truck to the magistrate's office. Once there they talk to an Eskimo who seems
   high and usually isn't like that. There is a makeshift court in the building
@@ -3651,8 +3651,8 @@ Aired 1990-10-27.
   have to take the man's possessions, but he doesn't want them to. He wants to
   take them home. He says they have to do it and he is in their possession
   until they get him back to Nome. He wanted help, turned himself in and wanted
-  to get out of the village.  They take him out to the airport, get on the
-  plane and fly back.
+  to get out of the village. They take him out to the airport, get on the plane
+  and fly back.
 - (Hit & Run Investigation) Anchorage PD -- Officer Mark Hunstiger says people
   joke about the town. The nice thing about it is you can get to Alaska from
   there. There are 250,000 people living there, half the state. An island city
@@ -3864,32 +3864,32 @@ Aired 1990-11-17.
   wrong, then she got up screaming. They take him out and say the problem is
   when they go to the jury it becomes a moral question instead of a legal
   question. Did he force himself on her? The evidence shows him that he did.
-- Laughlin, NV (5:4 PM Child Neglect Complaint) Substation -- Officer John Sias
-  goes out to his truck and says it is a boomtown. When he arrived 6 years ago
-  there were only 92 people living there, now there are 4500. On New Year's Eve
-  they had 70,000 people there. Their problem is having a lot of transients.
-  It's known as a boomtown so it draws a lot of people. He's going to check on
-  kids living in a trailer in unsanitary conditions. He goes into a casino and
-  asks for Jimbo or Jenny. They aren't sure if they are working. The kids are
-  living in a trailer in the parking lot. The manager tried to look inside, but
-  there's a big dog tied to it. He drives them to the lot and there's tons of
-  trailers. He talks to the guy inside about the complaint and asks if there's
-  anyone else there, he's not the father. John looks around, says it's not safe
-  and is unsanitary. He has to take them to Child Haven. He tells the girl he's
-  taking her there, it's a nice place with toys, she'll have to stay two days
-  and be out Monday. Do you have a special toy you want to bring? Yes, what
-  about your brother Cordell? Can you explain it to him? You are being a big
-  girl, I need your help. He thanks the guy and he says to go before he's not
-  so cooperative. John says he better remain that way. The manager says he
-  wants them out of there by tomorrow. They find out Bobbie, the mother, works
-  in the casino as a dealer and they go to talk to her. She says she's fine.
-  John explains what happened and all she says is really, someone complained?
-  He says it's a mess, no fridge, no food, the bathroom stank and didn't work
-  plus the children weren't clean. She says they hadn't had a bath today. He's
-  taking the kids, they'll be in the kids care, not the detention side.
-  Something has to be done. She'll send them to her mom's house in California.
-  She isn't concerned at all. He understands she's working on it, but he can't
-  leave them there.
+- Laughlin, NV (5:40 PM Child Neglect Complaint) Substation -- Officer John
+  Sias goes out to his truck and says it is a boomtown. When he arrived 6 years
+  ago there were only 92 people living there, now there are 4500. On New Year's
+  Eve they had 70,000 people there. Their problem is having a lot of
+  transients.  It's known as a boomtown so it draws a lot of people. He's going
+  to check on kids living in a trailer in unsanitary conditions. He goes into a
+  casino and asks for Jimbo or Jenny. They aren't sure if they are working. The
+  kids are living in a trailer in the parking lot. The manager tried to look
+  inside, but there's a big dog tied to it. He drives them to the lot and
+  there's tons of trailers. He talks to the guy inside about the complaint and
+  asks if there's anyone else there, he's not the father. John looks around,
+  says it's not safe and is unsanitary. He has to take them to Child Haven. He
+  tells the girl he's taking her there, it's a nice place with toys, she'll
+  have to stay two days and be out Monday. Do you have a special toy you want
+  to bring? Yes, what about your brother Cordell? Can you explain it to him?
+  You are being a big girl, I need your help. He thanks the guy and he says to
+  go before he's not so cooperative. John says he better remain that way. The
+  manager says he wants them out of there by tomorrow. They find out Bobbie,
+  the mother, works in the casino as a dealer and they go to talk to her. She
+  says she's fine.  John explains what happened and all she says is really,
+  someone complained?  He says it's a mess, no fridge, no food, the bathroom
+  stank and didn't work plus the children weren't clean. She says they hadn't
+  had a bath today. He's taking the kids, they'll be in the kids care, not the
+  detention side.  Something has to be done. She'll send them to her mom's
+  house in California.  She isn't concerned at all. He understands she's
+  working on it, but he can't leave them there.
 - Las Vegas (6:33 PM Strong Arm Robbery) Northeast Area Command -- Officer
   Joseph Lombardo says downtown has a variety of everything from street
   pushers, whores, transients, homeless and vagrants. You see them on TV and
@@ -3907,7 +3907,7 @@ Aired 1990-11-17.
   worse crime, a larceny if he's in fear. Mike specializes in victims, he
   watches and waits for them, preys on them. They take him to jail, before it
   was just petty and loitering, now it's a felony, he'll spend time in jail.
-- (11:01 PM Communication Center) a woman takes a 911 call about a runaway car
+- (11:01 PM Communication Center) A woman takes a 911 call about a runaway car
   traveling in circles in the Mirage parking lot. They don't know where the
   driver is. They pull up and someone suggests shooting out the tires. Cops say
   no. It's an old blue car with a white hard top. People want to jump in, but
@@ -5706,11 +5706,11 @@ Aired 1991-09-28.
 
 **Pittsburgh, PA 3**
 
-- (11:26 PM Narcotics Task Force One) Eddie Brown talks to the camera in the
-  back seat about a new dealer named Ricky who is taking over territory causing
-  14 shootings in the last 10 days. One guy named Eman is now a cripple. His
-  partner says he doesn't know if they'll get home alive every night, that's
-  how serious it is.
+- (11:26 PM Narcotics Task Force Team One) Detective Eddie Brown talks to the
+  camera in the back seat about a new dealer named Ricky who is taking over
+  territory causing 14 shootings in the last 10 days. One guy named Eman is now
+  a cripple. His partner says he doesn't know if they'll get home alive every
+  night, that's how serious it is. Eddie's partner is Detective Dennis Biggs.
 - Officers injured while pursuing drug dealers.
 - suspected car thief.
 
