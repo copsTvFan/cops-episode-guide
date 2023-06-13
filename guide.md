@@ -11018,9 +11018,16 @@ Aired 1999-02-06.
 - (12:01 AM Street Patrol) Riviera Beach -- Officer H. Elmore lives and works
   in the city and does his best to handle calls. If he can't handle it he calls
   his supervisor. He tackles a suspect who was involved in nearby criminal
-  activity. A SWAT team raids an apartment that is the headquarters for a drug
-  and prostitution ring that uses the Internet to solicit clients. Sgt. Ragali
-  joins other officers in the investigation of an apparent suicide.
+  activity.
+- (Palm Beach Gardens, FL -- Search Warrant Briefing) Detective Mike Sheetz
+  leads a briefing. Featuring Lt. Rick Facchine. (7:03 PM Search Warrant
+  Served) A SWAT team raids a house that is the headquarters for a drug and
+  prostitution ring involving minors that uses the Internet to solicit clients.
+  A fat ginger male is arrested on the floor, while his chihuahua is on his
+  back, barking at officers. Featuring Detective Dominick Barbanera of the
+  Jupiter Police Department and Officer Robert Odell. Drugs are found too.
+- Sgt. Richard Ragali joins other officers in the investigation of an apparent
+  suicide.
 
 ### CP-1122
 
