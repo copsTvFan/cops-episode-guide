@@ -9916,14 +9916,19 @@ Aired 1997-10-25.
 
 **Las Vegas, NV 16**
 
-- (7:36 PM Assistance Call) Officer Al Gibson says a shotgun can hold four
-  shots. He then loads and locks his into the car at the start of the shift. He
-  says every year they put up a new casino. He doesn't know where, but tons of
-  people always show up so he keeps his job. He's been there for five years. He
-  gets a call for backup.
-- Stolen van
-- methamphetamine bust
-- suspicious suspects questioned.
+- (Las Vegas, NV -- 7:36 PM Assistance Call) Officer Al Gibson says a shotgun
+  can hold four shots. He then loads and locks his into the car at the start of
+  the shift. He says every year they put up a new casino. He doesn't know
+  where, but tons of people always show up so he keeps his job. He's been there
+  for five years. He gets a call for backup. Stolen white van with 7 occupants.
+- (Las Vegas, NV -- 3:59 PM Car Stop) -- Sgt. Joe Lombardo, featuring Officer
+  Mike Quick, Sgt. Clint Robison. A guy gets busted for driving a stolen car
+  and his residence turns out to be a drug lab.
+- (Las Vegas, NV -- 11:32 PM Suspicious Activity) Officer Bob Kinch witnesses
+  black male leaning into a red car. The driver is a blonde transgender lady
+  ("Jennifer"). The 16 year old male says that Jennifer asked him whether he
+  wanted to party and that he could hop in the car for $20. Jennifer has prior
+  arrests for prostitution and gets arrested for possession of marijuana.
 
 ### CP-1002
 
@@ -13459,13 +13464,24 @@ Aired 2002-04-27.
 
 **Too Hot for Fox Special Edition**. Reruns as Too Hot for Television on other channels or Outrageous Calls.
 
-- (Atlanta, GA -- 4:07 PM Car Pursuit) Zone 3 -- Officer Michael Centola responds to an unmarked car that needs his marked car in a pursuit and the female suspect almost hit him. This is from CP-1104.
-- (Las Vegas, NV -- 7:46 PM Disturbance Call) Polite vampire lady; (11:32 PM Code 5 Arrival) Sgt. Dick Adams at the Clark County Detention Center. Woman removes her clothing and jumps into a public fountain. This is from CP-340.
-- (Sacramento, CA -- 3:23 PM Suspicious Person) Officer Al Miller questions a transvestite
-- (Las Vegas, NV -- 11:30 PM Suspicious Activity) Officer Bob Kinch stops a transvestite ("Jennifer") buying drugs out of a red car.
-- (Fort Worth, TX -- 9:32 PM Man With a Knife) Officer Joseph Farah, Jr.
-- (Kodiak, AK -- 10:08 PM Disturbance Call) Sgt. John Palmer out of the Kodiak, AK Police Department arrests 2 females. This is segment 2 of CP-309.
-- (San Bernardino, CA -- 8:05 PM Disturbance Call) Deputy Don Lupear
+- (Atlanta, GA -- 4:07 PM Car Pursuit) Zone 3 -- Officer Michael Centola
+  responds to an unmarked car that needs his marked car in a pursuit and the
+  female suspect almost hit him. This is segment 1 of CP-1104.
+- (Las Vegas, NV -- 7:46 PM Disturbance Call) Polite vampire lady; (11:32 PM
+  Code 5 Arrival) Sgt. Dick Adams at the Clark County Detention Center. Woman
+  removes her clothing and jumps into a public fountain. This is segment 3 of
+  CP-340.
+- (Sacramento, CA -- 3:23 PM Suspicious Person) Officer Al Miller questions a
+  transvestite. This appears to be a new segment.
+- (Las Vegas, NV -- 11:30 PM Suspicious Activity) Officer Bob Kinch stops a
+  transgender lady ("Jennifer") who was soliciting sex out of her car. This is
+  segment 3 of CP-1001.
+- (Fort Worth, TX -- 9:32 PM Man With a Knife) Officer Joseph Farah, Jr. This
+  appears to be a new segment.
+- (Kodiak, AK -- 10:08 PM Disturbance Call) Sgt. John Palmer out of the Kodiak,
+  AK Police Department arrests 2 females. This is segment 2 of CP-309.
+- (San Bernardino, CA -- 8:05 PM Disturbance Call) Deputy Don Lupear. This
+  appears to be a new segment.
 
 ### CP-1436
 
