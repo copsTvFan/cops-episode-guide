@@ -14507,10 +14507,10 @@ Aired 2004-03-13.
   the kids. A black guy on a bicycle has drugs and they cut him off and he
   runs. He swallowed some crack and they also caught Denise who he was selling
   the crack to.
-- Spokane WA (7:23 PM Animal Disturbance Call) A man sits on a loose rottweiler
+- Spokane, WA (7:23 PM Animal Disturbance Call) A man sits on a loose rottweiler
   from his neighbors yard who tried to bite him. Animal control is brought in
   and captures it. Then they go confront the dopey owner.
-- Des Moines IA (1:10 AM Street Patrol) Larry is seen in an alley with hands on
+- Des Moines, IA (1:10 AM Street Patrol) Larry is seen in an alley with hands on
   his girlfriend. The find he has meth and a butterfly knife and then dumps
   more meth in the backseat of the police car.
 
@@ -14568,9 +14568,9 @@ Aired 2004-04-10.
   them to block the suspects in and they'll do the rest. A black guy gets
   arrested at a Hess station with cocaine and a stolen car after a K9 is
   brought in. A whit guy gets busted selling crack at a gas station.
-- Spokane WA (1:54 AM Officer Assistance Call) Cops kick in a door to arrest
+- Spokane, WA (1:54 AM Officer Assistance Call) Cops kick in a door to arrest
   Russell for domestic violence for attacking his wife.
-- Des Moines IA (6:33 PM Pursuit in Progress) Cops chase a motorcycle down a
+- Des Moines, IA (6:33 PM Pursuit in Progress) Cops chase a motorcycle down a
   railroad track and the cop blows a tire and gets struck while trains are
   coming from both directions.
 
@@ -19883,6 +19883,8 @@ Aired 2010-06-05 (tvmaze, wiki) or 2010-06-12 (thetvdb).
 **Coast to Coast #168**
 
 - Maricopa County, AZ -- 10:30 PM Vehicle Pursuit in Progress -- Deputy Patrick Arend
+- TODO
+- TODO
 
 ### CP-2229
 ### S22E33
@@ -19892,6 +19894,8 @@ Aired 2010-07-10.
 **Morons On Parade #2**
 
 - Portland, OR -- 7:53 PM Fight Call -- Officer Andy Polas and Officer Ty Garrison
+- TODO
+- TODO
 
 ### CP-2230
 ### S22E30
@@ -19901,6 +19905,8 @@ Aired 2010-06-12.
 **Coast to Coast #169**
 
 - Amarillo, TX -- 8:22 PM Suspicious Activity -- Officer Johnny Bermea
+- TODO
+- TODO
 
 ### CP-2231
 ### S22E31
@@ -19910,6 +19916,8 @@ Aired 2010-06-19.
 **Coast to Coast #170**
 
 - Houston, TX -- 5:44 PM Possible Drug Activity -- Sgt. Larry Mikel
+- TODO
+- TODO
 
 ### CP-2232
 ### S22E32
@@ -19919,6 +19927,8 @@ Aired 2010-07-03.
 **Coast to Coast #171**
 
 - Amarillo, TX -- 9:49 PM Possible Burglary in Progress -- Officer James Blandford
+- TODO
+- TODO
 
 ### CP-2233
 ### S22E34
@@ -19928,6 +19938,8 @@ Aired 2010-07-17.
 **Coast to Coast #172**
 
 - Boynton Beach, FL -- 9:16 PM Pursuit in Progress -- Officer Charles Turco
+- TODO
+- TODO
 
 ### CP-2234
 ### S22E35
@@ -19937,6 +19949,8 @@ Aired 2010-07-24.
 **Coast to Coast #173**
 
 - San Diago County, CA -- Surveillance Camera -- 7:27 AM Possible Immigration Violation -- Officer Edward Chavoya, Officer Alfredo Loperena
+- TODO
+- TODO
 
 ### CP-2235
 ### S22E36
@@ -19946,6 +19960,8 @@ Aired 2010-07-31.
 **Coast to Coast #174**
 
 - Houston, TX -- 11:07 PM Suspicious Vehicle -- Senior Officer Eduardo Medrano, Sgt. Matt Richard, Officer Reece Hardy.
+- TODO
+- TODO
 
 ### CP-2236
 ### S22E13
@@ -19955,6 +19971,8 @@ Aired 2009-12-12.
 **Ho! Ho! Ho! #6**
 
 - Portland, OR -- 8:35 PM Vice Call -- Officer Josh Howery and Officer Erica Hurley
+- TODO
+- TODO
 
 ## Season 23
 
@@ -19963,90 +19981,134 @@ Aired 2009-12-12.
 ### S23E01
 
 - (Boynton Beach, FL -- 10:49 PM Suspicious Vehicle) Officer Michael Arco
+- TODO
+- TODO
 
 ### S23E02
 
 - (Rio Grande City, TX -- 1:40 PM Narcotics Operation) Supervisor Albert Diaz
+- TODO
+- TODO
 
 ### S23E03
 
 - (Las Vegas, NV -- 4:05 PM Fight Call) Officer Blake Goddard
+- TODO
+- TODO
 
 ### S23E04
 
 - (Amarillo, TX -- 3:04 AM Fight Call) Officer Caleb Finsterwald
+- TODO
+- TODO
 
 ### S23E05
 
 - (Amarillo, TX -- 3:28 AM Shots Fired Call) Officer J.T. Hodges.
+- TODO
+- TODO
 
 ### S23E06
 
 - (Atlanta, GA -- 10:57 AM Kidnapping) Inspector Wayne S. Warren II
+- TODO
+- TODO
 
 ### S23E07
 
 - (Las Vegas, NV -- 4:58 PM Disturbance Call) Officer William Watt
+- TODO
+- TODO
 
 ### S23E08
 
 - (Nye County, NV -- 9:44 PM Suspicious Vehicle) Deputy Greg Curtin
+- TODO
+- TODO
 
 ### S23E09
 
 - (Pierce County, WA -- 11:50 PM Suicidal Person) Deputy Robert Carpenter
+- TODO
+- TODO
 
 ### S23E10
 
 - (Amarillo, TX -- 10:17 PM Suspicious Activity) Corporal Craig Putram
+- TODO
+- TODO
 
 ### S23E11
 
 - (Pierce County, WA -- 7:29 PM Disturbance Call) Deputy Tony Messineo
+- TODO
+- TODO
 
 ### S23E12
 
 - (Sacramento County, CA -- 5:36 PM Vehicle Pursuit) Deputy Scott Puffer, Deputy Brant Santin
+- TODO
+- TODO
 
 ### S23E13
 
 - (Sacramento County, CA -- 10:11 PM Suspicious Person) Deputy Corey Newman, Deputy Thomas Lynn
+- TODO
+- TODO
 
 ### S23E14
 
 - (Sacramento County, CA -- 8:37 PM Suspicious Person) Deputy Orrlando Mayes, Deputy Ron Parsons
+- TODO
+- TODO
 
 ### S23E15
 
 - (Pierce County, WA -- 5:16 PM Suicidal Threats) Deputy Tony Messineo
+- TODO
+- TODO
 
 ### S23E16
 
 - (Sacramento County, CA -- 8:03 PM Traffic Stop) K-9 Deputy Shaun Hampton
+- TODO
+- TODO
 
 ### S23E17
 
 - (Sacramento County, CA -- 10:07 PM Traffic Stop) Deputy Mike Robertson, Deputy Orrlando Mayes
+- TODO
+- TODO
 
 ### S23E18
 
 - (Sacramento County, CA -- 9:42 PM Vehicle Pursuit In Progress) Deputy Mike Robertson, Deputy Michael Rogers
+- TODO
+- TODO
 
 ### S23E19
 
 - (Sacramento County, CA -- 5:55 PM Suspicious Activity) Deputy Orrlando Mayes, Deputy Ron Parsons
+- TODO
+- TODO
 
 ### S23E20
 
 - (Amarillo, TX -- 1:46 AM Street Patrol) Officer Wesley Brown
+- TODO
+- TODO
 
 ### S23E21
 
 - (Pierce County, WA -- 3:46 PM Domestic Violence Call) Deputy Tony Messineo
+- TODO
+- TODO
 
 ### S23E22
 
 - (Sacramento County, CA -- 7:36 PM Pursuit In Progress) Deputy Steve Fisher, Deputy John Mercurio
+- TODO
+- TODO
 
 ## Season 24
 
@@ -20055,6 +20117,8 @@ Aired 2009-12-12.
 ### S24E01
 
 - (Las Vegas, NV -- 5:34 PM Narcotics Sting Briefing) Lt. Laz Chavez
+- TODO
+- TODO
 
 ### S24E02
 
@@ -20071,79 +20135,117 @@ Aired 2009-12-12.
 ### S24E04
 
 - (Savannah, GA -- 10:18 AM Suspicious Person) Advance Patrol Officer Harold Moore
+- TODO
+- TODO
 
 ### S24E05
 
 - (Hillsborough County, FL -- 9:36 PM Possible Shooting Suspect) Deputy Mike Roberts
+- TODO
+- TODO
 
 ### S24E06
 
 - (Lafayette, LA -- 10:56 PM Disturbance Call) Corporal Ron Clark
+- TODO
+- TODO
 
 ### S24E07
 
 - (Springfield, MO -- 11:57 PM Disturbance Call) Officer Travis Wilson
+- TODO
+- TODO
 
 ### S24E08
 
 - (Springfield, MO -- 3:25 AM Traffic Stop) Officer Benjamin Lord
+- TODO
+- TODO
 
 ### S24E09
 
 - (Des Moines, IA -- 4:26 PM Traffic Stop) Senior Officer Jon Dallman
+- TODO
+- TODO
 
 ### S24E10
 
 - (Hillsborough County, FL -- 6:50 PM Assistance Call) Corporal Scott Sitton
+- TODO
+- TODO
 
 ### S24E11
 
 - (Las Vegas, NV -- 7:58 PM Prostitution Sting) Lt. Karen Hughes
+- TODO
+- TODO
 
 ### S24E12
 
 - (Spokane County, WA -- 9:21 PM Suspicious Person) Officer Juan Rodriguez, Officer Mark Brownell
+- TODO
+- TODO
 
 ### S24E13
 
 - (Springfield, MO -- 10:41 PM Pursuit In Progress) Officer Benjamin Lord
+- TODO
+- TODO
 
 ### S24E14
 
 - (Spokane County, WA -- 12:54 AM Vehicle Pursuit) Officer Juan Rodriguez
+- TODO
+- TODO
 
 ### S24E15
 
 - (Des Moines, IA -- 11:36 PM Suspicious Persons) Senior Officer Danny White, Officer Benjamin Bonanno
+- TODO
+- TODO
 
 ### S24E16
 
 - (Springfield, MO -- 2:16 AM Traffic Stop) Officer Benjamin Lord
+- TODO
+- TODO
 
 ### S24E17
 
 - (North Las Vegas, NV -- 7:24 PM Traffic Stop) Officer Jason Olson
+- TODO
+- TODO
 
 ### S24E18
 
 - (New Orleans, LA -- 9:25 PM Traffic Stop) Officer Jeffrey Yount, Officer Drew Deacon
+- TODO
+- TODO
 
 ### S24E19
 
 - (Springfield, MO -- 7:56 PM Officer Assistance Call) Officer Eric Morgan
+- TODO
+- TODO
 
 ### S24E20
 
 - (North Las Vegas, NV -- 10:40 PM Burglary In Progress) Officer Dave Brooks
+- TODO
+- TODO
 
 ### S24E21
 
 - (North Las Vegas, NV -- 8:18 PM Domestic Disturbance Call) Officer Dave
   Brooks. Famous segment with failed taser and "I'll get you, bitch!" comment.
+- TODO
+- TODO
 
 ### S24E22
 
 - (New Orleans, LA -- 5:25 PM Shots Fired Call) Officer David Aranda
+- TODO
+- TODO
 
 ## Season 25
 
@@ -20152,66 +20254,98 @@ Aired 2009-12-12.
 ### S25E01
 
 - (Toleo, OH -- 3:39 AM Domestic Disturbance Call) Patrolman Ben Cousino, Patrolman Jason Wallace
+- TODO
+- TODO
 
 ### S25E02
 
 - (Portland, OR -- 1:05 AM Suspicious Vehicle) Officer Scott Konczal, Officer Phil Maynard
+- TODO
+- TODO
 
 ### S25E03
 
 - (Alameda County, CA -- 9:12 PM Suspicious Person) Deputy Chris Mears
+- TODO
+- TODO
 
 ### S25E04
 
 - (Kansas City, MO -- 6:12 PM Possible Stolen Vehicle) Officer Todd Templeton, Officer Nick Cardona
+- TODO
+- TODO
 
 ### S25E05
 
 - (Atlanta, GA -- 1:46 AM Officer Assistance Call) Senior Officer Andrew Fincher
+- TODO
+- TODO
 
 ### S25E06
 
 - (Newport News, VA -- 8:21 PM Suspicious Person) Officer Frank Vito, Officer Clark Carter
+- TODO
+- TODO
 
 ### S25E07
 
 - (Las Vegas, NV -- 10:55 AM Assistance Call) Sgt. Tom Stoll
+- TODO
+- TODO
 
 ### S25E08
 
 - (Kansas City, MO -- 10:42 PM Vehicle Pursuit In Progress) Officer Ian Hobbs, Officer Dave Roberts
+- TODO
+- TODO
 
 ### S25E09
 
 - (Portland, OR -- 12:35 AM Vehicle Pursuit) Officer Mike Strawn, Officer Phil Maynard
+- TODO
+- TODO
 
 ### S25E10
 
 - (Sacramento, CA -- 8:42 PM Suspicious Person) Officer Matt Armstrong, Officer Darryl Bryan
+- TODO
+- TODO
 
 ### S25E11
 
 - (Portland, OR -- 5:01 AM Vehicle Pursuit) Officer Erik Strohmeyer
+- TODO
+- TODO
 
 ### S25E12
 
 - (Sacramento, CA -- 9:18 PM Suspicious Person) Officer Gerald Lanberg, Officer Robbie Young
+- TODO
+- TODO
 
 ### S25E13
 
 - (Las Vegas, NV -- 1:49 AM Suspicious Person) Officer Travis Crumrine, Officer Boe Dennett
+- TODO
+- TODO
 
 ### S25E14
 
 - (Newport News, VA -- 7:21 PM Pursuit In Progress) Officer Frank Vito, Officer Clark Carter
+- TODO
+- TODO
 
 ### S25E15
 
 - (Las Vegas, NV -- 9:32 PM Officer Assistance Call) Officer Joey Smith, Officer Jeff Firestine
+- TODO
+- TODO
 
 ### S25E16
 
 - (Las Vegas, NV -- 2:12 AM Suspicious Activity) Officer Ryan Pillard, Officer Scott Schaier, Officer Mark Belanger
+- TODO
+- TODO
 
 ## Season 26
 
@@ -20241,78 +20375,116 @@ Network: Spike.
 ### S26E04
 
 - (Stockton, CA -- 9:12 PM Traffic Stop) Officer Julio Morales, Officer Kevin Knall, ...
+- TODO
+- TODO
 
 ### S26E05
 
 - (Amarillo, TX -- 5:52 PM Traffic Stop) FTO Jeremiah Hopper, ...
+- TODO
+- TODO
 
 ### S26E06
 
 - (Amarillo, TX -- 12:12 AM Shots Fired Call) Corporal Troy Roberson, FTO Devin Cantwell, ...
+- TODO
+- TODO
 
 ### S26E07
 
 - (Stockton, CA -- 9:12 PM Domestic Disturbance Call) Officer Tom Heslin, ...
+- TODO
+- TODO
 
 ### S26E08
 
 - (Sarasota County, FL -- 10:34 PM Traffic Stop) Deputy James Dilling, ...
+- TODO
+- TODO
 
 ### S26E09
 
 - (Indianapolis, IN -- 11:49 PM Vehicle Pursuit) Patrolman Andrew McKalips, ...
+- TODO
+- TODO
 
 ### S26E10
 
 - (Stockton, CA -- 10:41 PM Man With a Gun Call) Sgt. Kathryn Nance, ...
+- TODO
+- TODO
 
 ### S26E11
 
 - (Spokane County, WA -- 2:02 AM Vehicle Pursuit In Progress) Deputy Tyler Kullman, ...
+- TODO
+- TODO
 
 ### S26E12
 
 - (Indianapolis, IN -- 8:23 PM Suspicious Motorcycle) Patrolman Daniel Brezik, ...
+- TODO
+- TODO
 
 ### S26E13
 
 - (Sacramento, CA -- 8:57 PM Traffic Stop) Officer Nic Fox, Officer Ken Collier, ...
+- TODO
+- TODO
 
 ### S26E14
 
 - (Gwinnett County, GA -- 4:50 PM Suspicious Activity) Senior Officer Kyle McDonald, ...
+- TODO
+- TODO
 
 ### S26E15
 
 - (Indianapolis, IN -- 2:24 AM Vehicle Pursuit In Progress) Patrolman Mike Martin, ...
+- TODO
+- TODO
 
 ### S26E16
 
 - (Indianapolis, IN -- 4:06 PM Officer Assistance Call) Patrolman Molly Mason, ...
+- TODO
+- TODO
 
 ### S26E17
 
 - (Sacramento, CA -- 5:26 PM Domestic Violence Call) Officer Jacob Casella, Officer Traci Trapani, ...
+- TODO
+- TODO
 
 ### S26E18
 
 - (Richmond County, GA -- 4:54 PM Area Check) Deputy Mike Swint, ...
+- TODO
+- TODO
 
 ### S26E19
 
 - (Sacramento, CA -- 4:32 PM Traffic Stop) Officer Dan Wiseman, ...
+- TODO
+- TODO
 
 ### S26E20
 
 - (Richmond County, GA -- 7:52 PM Traffic Stop) Deputy Mike Swint, ...
+- TODO
+- TODO
 
 ### S26E21
 
 - (Richmond County, GA -- 1:43 AM Stolen Vehicle) Deputy Chris Tucker, ...
+- TODO
+- TODO
 
 ### S26E22
 
 - (Richmond County, GA -- 12:10 AM Traffic Stop) Deputy Shea Yates, ...
+- TODO
+- TODO
 
 ## Season 27
 
@@ -20352,7 +20524,7 @@ Network: Spike.
 
 ### S27E06
 
-- (San Jose, CA -- 7:06 PM Neighbourhood Patrol) Officer Aaron Offenberg, Officer Marc Beretta, Officer Rod Smith, Officer Roland Ramirez.
+- (San Jose, CA -- 7:06 PM Neighborhood Patrol) Officer Aaron Offenberg, Officer Marc Beretta, Officer Rod Smith, Officer Roland Ramirez.
 - (Glendale, AZ -- 10:12 AM Street Patrol) Officer Matt Schneider, Officer Jeff Pittman, Officer Kory Rafferty, Officer Rochelle Thomas, Sgt. Brian Shoop.
 - (Nye County, NV -- 2:35 PM Traffic Stop) Deputy Alex Cox, Deputy Cory Fowles.
 
@@ -20879,135 +21051,234 @@ Network: Spike.
 
 ### S29E01
 
-TODO
+- (Austin, TX -- 7:46 PM Motorcycle Pursuit) South Substation. Senior Officer
+  Marcos Johnson, ...
+- TODO
+- TODO
 
 ### S29E02
 
-TODO
+- (Harris County, TX -- 6:35 PM Suspicious Activity) Distract 1. Deputy Luther
+  Eta, ...
+- TODO
+- TODO
 
 ### S29E03
 
-TODO
+- (Harris County, TX -- 11:50 PM Domestic Disturbance Call) District 1. Deputy
+  Martin Park, ...
+- TODO
+- TODO
 
 ### S29E04
 
-TODO
+- (Escambia County, FL -- 12:40 PM Traffic Stop) Precinct 3. Deputy Jonathan
+  Rogers, ...
+- TODO
+- TODO
 
 ### S29E05
 
-TODO
+- (Hillsborough County, FL -- 7:32 PM Domestic Violence Call) District 2. FTO
+  Robbie Gentry, ...
+- TODO
+- TODO
 
 ### S29E06
 
-TODO
+- (Lubbock, TX -- 12:39 PM Suspicious Person) Crime Suppression Unit. Detective
+  Curtis Wadkins, ...
+- TODO
+- TODO
 
 ### S29E07
 
-TODO
+- (Hillsborough County, FL -- 7:59 PM Neighborhood Disturbance) District 2.
+  Deputy Cabot Brown, ...
+- TODO
+- TODO
 
 ### S29E08
 
-TODO
+- (Harris County, TX -- 11:08 PM Suspicious Person Call) District 4. Deputy
+  Dakota Pennick, ...
+- TODO
+- TODO
 
 ### S29E09
 
-TODO
+- (Lubbock, TX -- 11:10 AM Vehicle Pursuit) Crime Suppression Unit. Detective
+  Bryan Dubois, ...
+- TODO
+- TODO
 
 ### S29E10
 
-TODO
+- (Harris County, TX -- 4:30 AM Suspicious Vehicle) District 3. Deputy Scott
+  Villarreal-Dowlearn, ...
+- TODO
+- TODO
 
 ### S29E11
 
-TODO
+- (Pierce County, WA -- 11:27 PM Suspicious Person) South Hill Precinct. Deputy
+  Shane Masko, ...
+- TODO
+- TODO
 
 ### S29E12
 
-TODO
+- (Escambia County, FL -- 11:29 AM Traffic Stop) Precinct 3. Deputy Jonathan
+  Rogers, ...
+- TODO
+- TODO
 
 ### S29E13
 
-TODO
+- (Hazleton, PA -- 8:09 PM Animal Cruelty Call) Patrolman Jessica Hutnik, ...
+- TODO
+- TODO
 
 ### S29E14
 
-TODO
+- (Pierce County, WA -- 12:12 AM Vehicle Pursuit) South Hill Precinct. Deputy
+  Pat Burke, ...
+- TODO
+- TODO
 
 ### S29E15
 
-TODO
+- (Pierce County, WA -- 5:57 PM Domestic Dispute Call) South Hill Precinct.
+  Deputy Derek Nielsen, ...
+- TODO
+- TODO
 
 ### S29E16
 
-TODO
+- (Pierce County, WA -- 10:55 PM Disturbance With A Knife Call) South Hill
+  Precinct. Deputy James Oleole, ...
+- TODO
+- TODO
 
 ### S29E17
 
-TODO
+- (Richland County, SC -- 10:05 PM Deputy Assistance Call) Community Action
+  Team. Deputy Chris Mastrianni, ...
+- TODO
+- TODO
 
 ### S29E18
 
-TODO
+- (Sacramento County, CA -- 8:59 AM Suspicious Vehicle) Auto Crimes
+  Enforcement. Detective Thomas Lynn, ...
+- TODO
+- TODO
 
 ### S29E19
 
-TODO
+- (Sacramento County, CA -- 7:14 PM Vehicle Pursuit In Progress) North
+  Division. Deputy Joseph McMahon, ...
+- TODO
+- TODO
 
 ### S29E20
 
-TODO
+- (Des Moines, IA -- 3:50 PM Officer Assistance Call) Downtown Headquarters.
+  Senior Officer Ryan Mann, ...
+- TODO
+- TODO
 
 ### S29E21
 
-TODO
+- (Sacramento County, CA -- 1:05 PM Vehicle Pursuit In Progress) Auto Crimes
+  Enforcement. Detective Thomas Lynn, Detective Marlan Meggers, Sgt. Jeff
+  Hattersley.
+- TODO
+- TODO
 
 ### S29E22
 
-TODO
+- (Sacramento County, CA -- 10:54 PM Stolen Vehicle) North Division. Deputy
+  Gene Goff, ...
+- TODO
+- TODO
 
 ### S29E23
 
-TODO
+- (Sacramento, CA -- 12:48 PM Possible Stolen Vehicle) Auto Crimes Enforcement.
+  Detective Thomas Lynn, Detective Marlan Meggers, ...
+- TODO
+- TODO
 
 ### S29E24
 
-TODO
+- (Springfield, MO -- 10:07 PM Suspicious Person) South District. Officer Kyle
+  Powers, Officer Todd Mallow, ...
+- TODO
+- TODO
 
 ### S29E25
 
-TODO
+- (Richmond County, GA -- 7:34 PM Motorcycle Pursuit) South Precinct. Corporal
+  Cory Carlyle, ...
+- TODO
+- TODO
 
 ### S29E26
 
-TODO
+- (Las Vegas, NV -- 5:28 PM Jaywalking) Southeast Area Command. Officer Sean
+  Pascoe, ...
+- TODO
+- TODO
 
 ### S29E27
 
-TODO
+- (Paterson, NJ -- 7:05 PM Man With A Gun Call) Headquarters. Patrolman Timothy
+  Tabor, ...
+- TODO
+- TODO
 
 ### S29E28
 
-TODO
+- (Springfield, MO -- 6:51 PM Traffic Stop) South District. Officer Justin
+  Compton, ...
+- TODO
+- TODO
 
 ### S29E29
 
-TODO
+- (Grand Prairie, TX -- 9:34 PM Vehicle Pursuit) North Sector. Officer Eric
+  Burt, ...
+- TODO
+- TODO
 
 ### S29E30
 
-TODO
+- (Las Vegas, NV -- 8:12 PM Neighbor Dispute Call) Spring Valley Area Command.
+  Officer Travis Busby, ...
+- TODO
+- TODO
 
 ### S29E31
 
-TODO
+- (Las Vegas, NV -- 5:47 PM Shots Fired Call) Southeast Area Command. Officer
+  Sean Pascoe, ...
+- TODO
+- TODO
 
 ### S29E32
 
-TODO
+- (Alameda County, CA -- 2:14 PM Stolen Vehicle) Gang Unit. Detective Shaun
+  Corey, Detective Victor Ramirez, ...
+- TODO
+- TODO
 
 ### S29E33
 
-TODO
+- (Las Vegas, NV -- 9:43 PM Robbery Suspects) Bolden Area Command. Officer Jeff
+  Firestine, Officer Ben Macdonell, ...
+- TODO
+- TODO
 
 ## Season 30
 
@@ -22052,3 +22323,15 @@ Aired 2023-05-26.
   Featuring FTO Josh Lynn.
 - (Riverside County, CA -- 9:03 PM Kidnapping Call) Jurupa Valley Station.
   Deputy Erika Delgado pulls over Albert, Jasmine, and cousin Brian.
+
+### S35E09
+
+TODO
+
+### S35E10
+
+TODO
+
+### S35E11
+
+TODO
