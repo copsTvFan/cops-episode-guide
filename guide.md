@@ -9681,10 +9681,15 @@ Aired 1997-03-01.
   there are lots of shootings in the area. You don't want to be downwind of
   that because you never know what you are going to get. He questions two men
   who used a firearm to slaughter a cow, and later, he arrests a woman who
-  vandalized a neighbor's property. Deputy Nilsen attempts to settle a domestic
-  dispute between neighbors, then searches for a woman who was thrown on a
-  floor during a domestic dispute. Officer Masters investigates a robbery, and
-  afterward, Masters is dispatched to investigate a car accident.
+  vandalized a neighbor's property.
+- (Pierce County, WA -- 4:58 PM Neighbor's Dispute Call) (renamed to `4:48 PM
+  Neighbors Dispute Call` in Reelz) South Hill Precinct.  Deputy Bob Nilsen
+  attempts to settle a domestic dispute between neighbors, then (5:28 PM
+  Domestic Violence Call) searches for a woman who was thrown on a floor during
+  a domestic dispute.
+- (King County, WA -- 2:25 PM Robbery Call) South West Precinct. Officer Chris
+  Masters investigates a robbery, and afterward, Masters is dispatched to
+  investigate a car accident (5:39 PM Road Hazard Call).
 
 ### CP-927
 
@@ -10035,6 +10040,8 @@ Aired 1997-10-11.
 
 Aired 1997-11-01.
 
+350th Episode.
+
 **Las Vegas, NV 23**
 
 - (9:27 PM Prostitution Sting) Vice Station -- Officer Christine Payson makes
@@ -10048,8 +10055,6 @@ Aired 1997-11-01.
   vehicle.
 - (8:27 PM Car Stop) Officer Bob Kinch and Sgt. Randy Sutton arrest a suspect
   for driving a car with a stolen license plate.
-
-350th Episode.
 
 ### CP-1009
 
@@ -11216,9 +11221,9 @@ Aired 1999-07-31.
 
 Aired 1999-05-01.
 
-**Arizona 3**
-
 400th episode.
+
+**Arizona 3**
 
 - (12:03 AM Vehicle Pursuit) Maricopa County -- District I -- Deputy David
   Parra spots a red car going very fast and tries to stop it, but they take off
@@ -12109,8 +12114,9 @@ Aired 2000-08-19.
   husband who was a bike cop on the force and how great it is to be married to
   another cop. She aids in the arrest of a robber who attacked his intended
   victim with a pipe and tried to choke him.
-- Officer Dobscha responds to a report of a six-foot alligator discovered on a
-  homeowner's back porch.
+- (5:22 PM Assistance Call) Officer Bill Dobscha and Officer Donald Wooldridge
+  respond to a report of a six-foot alligator discovered on a homeowner's back
+  porch.
 - While participating in an undercover sting operation targeting car thieves,
   Officer McNeil observes a group of individuals attempting to burglarize a
   decoy vehicle.
@@ -12287,11 +12293,13 @@ Aired 2000-11-11.
 
 Aired 2000-11-18.
 
+450th Episode.
+
 **Pierce County, WA 24**
 
 - (3:25 AM Assistance Call) Lakewood -- Deputy Dan Wulick says a man left his motorcycle buddy behind. There's only 2 ways out and he spots him and gives chase. He fled from officer 405 earlier and gets up to 120-30 mph for a few miles down the interstate past exit 114, then suddenly signals and pulls over. Officer Russ Mathison cuffs him and says he was losing it. They take his helmet off and ask him why he ran. He had no reason, no license and did nothing for them to pull him over. He burned his brakes up so he had to stop.
 - South Hill Precinct (5:49 PM Suspicious Person Call) Officer Matt Goulds goes to the 2200 block and stops a man, John, walking down the street. He admits he doesn't live there, is homeless and used to stay with his parents. He lives on 46 near the trees. His DOB is 10/16/66 and he lost his license for not paying his tickets. He is searched for weapons and finds his pockets full of junk. He has needles in a case so Matt stops and put gloves on. He has a warrant for a suspended license and unpaid tickets since 1988. His knapsack is full of rocks because he collects them since he has nothing else to do and some are pretty cool. He's trying to quit meth, but didn't want to toss the needles, he has no dope, he's the only dope here. He's inspiring to be a professional rock collector someday. Matt cuts him loose, but has to leave the area.
-- Lakewood -- Deputy Dan Wulick runs into a lot of people he used to go to school with. (1:51 AM Theft Call) Lakewood -- Deputy Dan Wulick says he grew up in the Tacoma area and runs into a lot of people he grew up with. He rode his bike there and went to the movies, it's good to protect your neighborhood. A gray mini van with thee women in it fled from the scene and he goes to look for them. He spots a van on West Thorn and Union behind the Yellow restaurant. They are parked with the door open. He has the driver who is wearing a long stocking cap get out. She has no weapons, no ID. She asks what she did. He says she's being detained for theft. She says she didn't do anything. They said it was the girl with the green hair, she has green hair and not many people have green hair. She says the truth is she didn't do it; it was Kristen, the girl with the burgundy hair. She told Melissa to wait and she jumped out and grabbed a CD case. Kris gets out and CDs fall on the ground. He tells her not to pick them up. She asks what she's being arrested for. She has a pierced nose and lip and 5 or more in each ear. She says they weren't in his truck, they were next to his truck and she picked them up. He went to use the phone and he left the CDs behind and she grabbed them. The victim arrives and says all the ones in the case are his. Officer Mike Yamada says there is no way they fell out. There is Kiss, Metallica and Kid Rock. He went back to the truck and a woman saw them take them. Kris cries when she's charged with second degree burglary, since the value is over $250, it's a felony. The other girls are let loose for being honest. She wants to go get her cigarettes. 450th Episode.
+- Lakewood -- Deputy Dan Wulick runs into a lot of people he used to go to school with. (1:51 AM Theft Call) Lakewood -- Deputy Dan Wulick says he grew up in the Tacoma area and runs into a lot of people he grew up with. He rode his bike there and went to the movies, it's good to protect your neighborhood. A gray mini van with thee women in it fled from the scene and he goes to look for them. He spots a van on West Thorn and Union behind the Yellow restaurant. They are parked with the door open. He has the driver who is wearing a long stocking cap get out. She has no weapons, no ID. She asks what she did. He says she's being detained for theft. She says she didn't do anything. They said it was the girl with the green hair, she has green hair and not many people have green hair. She says the truth is she didn't do it; it was Kristen, the girl with the burgundy hair. She told Melissa to wait and she jumped out and grabbed a CD case. Kris gets out and CDs fall on the ground. He tells her not to pick them up. She asks what she's being arrested for. She has a pierced nose and lip and 5 or more in each ear. She says they weren't in his truck, they were next to his truck and she picked them up. He went to use the phone and he left the CDs behind and she grabbed them. The victim arrives and says all the ones in the case are his. Officer Mike Yamada says there is no way they fell out. There is Kiss, Metallica and Kid Rock. He went back to the truck and a woman saw them take them. Kris cries when she's charged with second degree burglary, since the value is over $250, it's a felony. The other girls are let loose for being honest. She wants to go get her cigarettes.
 
 ### CP-1316
 
@@ -13359,9 +13367,9 @@ Aired 2002-04-27, after CP-1432.
 
 Aired 2002-04-27, before CP-1431.
 
-**Coast to Coast 23**
-
 500th Episode.
+
+**Coast to Coast 23**
 
 - (San Bernardino, CA -- 8:25 PM Traffic Stop) Victorville Station -- Deputy Osvaldo Pelayes says he gets a lot of hot calls, especially in the summertime. Barbara is a heroin addict.
 - (Hillsborough County, FL -- 12:03 AM Suspicious Vehicle) Deputy Richard Fitzpatrick.
@@ -19980,6 +19988,8 @@ Aired 2009-12-12.
 
 ### S23E01
 
+**800th Episode Milestone Special Edition**
+
 - (Boynton Beach, FL -- 10:49 PM Suspicious Vehicle) Officer Michael Arco
 - TODO
 - TODO
@@ -21395,6 +21405,17 @@ Aired 2017-08-21.
 - A first-time offender immediately regrets his destructive decisions.
 - Nothing adds up when an evasive driver tells police that he's the victim of a crime.
 - A deputy encourages a troubled young woman to turn her life around.
+
+
+### S-3001
+
+Aired 2017-08-21.
+
+**Beyond the Bust (1000th episode)**
+
+With Terry Crews.
+
+TODO.
 
 ### S30E12
 
