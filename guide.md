@@ -4681,7 +4681,7 @@ Aired 1991-02-16.
           are supposed to be around somewhere. They look over the bridge
           thinking he went over, but he didn't jump, he was hanging over the
           side. They ask the guy they caught where do your friends live. On
-          High St. in Jersey City.  They go down and look up.  They were chased
+          High St. in Jersey City. They go down and look up. They were chased
           down the ramp and one of the guys is hiding in the weeds somewhere.
           There was an accident the police were handling and they were trapped
           with nowhere to go so one guy jumped off the ramp, but who knows.
@@ -6280,9 +6280,9 @@ Aired 1992-03-21.
   their cartridges to the floor and present their weapons for inspection.
   Another officer checks them. Officer Federico Chacon says he doesn't take
   sides, make problems personal and just tries to make the best decision. (7:24
-  PM Street Patrol) A car chase
-- man assaults friend
-- drug bust.
+  PM Street Patrol) A car chase.
+- TODO. man assaults friend
+- TODO. drug bust.
 
 ### CP-433
 
@@ -6295,6 +6295,8 @@ Aired 1992-04-11.
   $40,000 and Columbian leg breaker enforcers were hired to get his family.
   They'll wire Moe and if he is threatened they'll bust the Columbians.
   Suspects threaten informant and family; suspected drunken driver.
+- TODO
+- TODO
 
 ### CP-434
 
@@ -6319,6 +6321,8 @@ Aired 1992-05-30.
   65 year old lives in a house so full of junk they can barely walk in it.
   Newspapers are stacked to the ceiling. They also return a stolen camera to a
   lady and a watch at the end of their 12 month sting.
+- TODO
+- TODO
 
 ### CP-435
 
@@ -6326,9 +6330,9 @@ Aired 1992-04-25.
 
 **Miami, FL 6**
 
-- (5:59 PM Narcotics Unit Briefing) drug sting
-- suspect motorist
-- prostitution sweep
+- (5:59 PM Narcotics Unit Briefing) drug sting. TODO
+- TODO. suspect motorist
+- TODO. prostitution sweep
 
 ### CP-436
 
@@ -6350,8 +6354,10 @@ Aired 1992-06-13.
   Guillem and his partner Officer Tony Sammarco says they work residential
   areas, hot spots where burglaries are and try to catch prowlers before they
   strike. They go to a business where the window was broken out and watch the
-  area to make sure no one robs it until the emergency board up team arrives. A
-  looter; car stuck on train tracks; drunken driver arrested.
+  area to make sure no one robs it until the emergency board up team arrives.
+- TODO: A looter.
+- TODO: car stuck on train tracks
+- TODO: drunken driver arrested.
 
 ### CP-438
 
