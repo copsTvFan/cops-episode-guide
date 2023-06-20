@@ -19702,7 +19702,12 @@ Aired 2009-11-28.
 
 **Coast to Coast #158**
 
-- San Bernandino Co., CA -- 9:50 PM Fight in Progress -- Deputy Vanessa Duardo
+- (San Bernandino County, CA -- 9:50 PM Fight in Progress) Victorville Police
+  Department. Deputy Vanessa Duardo, ...
+- (Las Vegas, NV -- 4:27 PM Child Drowning Call) Bolden Area Command. FTO Dave
+  Howard, ...
+- (Martin County, FL -- 10:12 PM Possible Drug Activity) Detective Chris
+  Conrad, Sgt. John Budensiek, ...
 
 ### CP-2209
 ### S22E08
@@ -19711,7 +19716,13 @@ Aired 2009-11-07.
 
 **Dangerous Arrests**
 
-- Las Vegas, NV -- 6:56 PM Pursuit in Progress -- Officer Jason Vallad
+- (Las Vegas, NV -- 6:56 PM Pursuit in Progress) Bolden Area Command. Officer
+  Jason Vallad, ...
+- (San Bernandino County, CA -- 12:32 AM Man With A Gun Call) Victorville
+  Police Department. Deputy Derek Pedersen, ...
+- (Palm Beach County, FL -- 6:37 PM Warrant Call) District 3 -- Northlake.
+  Deputy Sean McMichael. Darren is asleep in his truck in the middle of the
+  road.
 
 ### CP-2210
 ### S22E12
@@ -19721,6 +19732,8 @@ Aired 2009-12-05.
 **Coast to Coast #159**
 
 - Las Vegas, NV -- 4:21 PM Unknown Trouble Call -- FTO Dave Howard
+- TODO
+- TODO
 
 ### CP-2211
 ### S22E14
@@ -19730,6 +19743,8 @@ Aired 2010-01-09.
 **Bad Girls #13**
 
 - San Bernandino Co., CA -- 8:57 PM Domestic Disturbance Call -- Deputy Jason Whitsell
+- TODO
+- TODO
 
 ### CP-2212
 ### S22E09
@@ -19739,6 +19754,8 @@ Aired 2009-11-14.
 **Stupid Behavior #4**
 
 - Kern County, CA -- 4:54 PM Criminal Investigation -- Senior Deputy Robert Stevenson
+- TODO
+- TODO
 
 ### CP-2213
 ### S22E15
@@ -19747,8 +19764,12 @@ Aired 2010-01-16.
 
 **Coast to Coast #160**
 
-- (Tulsa County, OK -- 7:46 PM Suspicious Vehicle) Deputy Ryan Ayers, ...
-- (San Bernandino County, CA -- 9:00 PM Suspicious Person) Deputy Eddie Bachman, ...
+- (Tulsa County, OK -- 7:46 PM Suspicious Vehicle) Deputy Ryan Ayers, Deputy
+  Shawn Arrington.
+- (San Bernandino County, CA -- 9:00 PM Suspicious Person) Apple Valley
+  Station. Deputy Eddie Bachman.
+- (Boynton Beach, FL -- 1:34 AM Traffic Stop) Officer Justin Harris, Officer
+  Michael Arco.
 
 ### CP-2214
 ### S22E10
@@ -19758,6 +19779,7 @@ Aired 2009-11-21.
 **Slacker Crimes Special Edition**
 
 - Tulsa County, OK -- 8:56 PM Carjacking -- Deputy Ryan Ayers
+- TODO
 
 ### CP-2215
 ### S22E16
@@ -19767,6 +19789,7 @@ Aired 2010-01-23.
 **Coast to Coast #161**
 
 - Tulsa County, OK -- 8:59 PM Traffic Stop -- Sgt. Shane Rhames
+- TODO
 
 ### CP-2216
 ### S22E17
@@ -19776,6 +19799,7 @@ Aired 2010-01-30.
 **Coast to Coast #162**
 
 - Tulsa County, OK -- 7:50 PM Pursuit in Progress -- Deputy Scott Dean
+- TODO
 
 ### CP-2217
 ### S22E21
@@ -19807,6 +19831,8 @@ Aired 2010-03-20.
 **Coast to Coast #165**
 
 - Amarillo, TX -- 1:12 AM Fight Call -- Officer Billy Jensen
+- TODO
+- TODO
 
 ### CP-2220
 ### S22E18
@@ -19816,6 +19842,8 @@ Aired 2010-02-13.
 **Chases, Stings and Rescues**
 
 - Houston, TX -- 7:53 PM Traffic Stop -- Sgt. Matt Richard
+- TODO
+- TODO
 
 ### CP-2221
 ### S22E19
@@ -19825,6 +19853,8 @@ Aired 2010-02-20.
 **War on Drugs #4**
 
 - Houston, TX -- 9:00 PM Narcotics Operation -- Officer L.V. Powell
+- TODO
+- TODO
 
 ### CP-2222
 ### S22E20
@@ -19834,6 +19864,8 @@ Aired 2010-02-27.
 **Drugs & Driving**
 
 - Houston, TX -- 2:13 PM Traffic Stop -- Officer Hans Wagner and Sgt. Mark Bailey
+- TODO
+- TODO
 
 ### CP-2223
 ### S22E24
@@ -19843,6 +19875,8 @@ Aired 2010-03-27.
 **Coast to Coast #166**
 
 - Houston, TX -- 5:20 PM Robbery Call --  Senior Officer Karl Pederson
+- TODO
+- TODO
 
 ### CP-2224
 ### S22E27
@@ -19852,6 +19886,8 @@ Aired 2010-05-15.
 **Police Pullovers #6**
 
 - Amarillo, TX -- 8:10 PM Fight Call -- Officer Billy Jensen
+- TODO
+- TODO
 
 ### CP-2225
 ### S22E25
@@ -19861,6 +19897,8 @@ Aired 2010-04-17 (tvmaze, wiki) or 2010-04-03 (thetvdb).
 **Street Patrol #1**
 
 - (Houston, TX -- 9:03 PM Pursuit in Progress) Senior Officer Karl Pederson
+- TODO
+- TODO
 
 ### CP-2226
 ### S22E28
@@ -19882,6 +19920,8 @@ Aired 2010-04-24 (tvmaze, wiki) or 2010-04-17 (thetvdb).
 
 - (Portland, OR -- 11:10 PM Suspicious Activity) Officer Ryan Reagan and
   Officer Tony Hill.
+- TODO
+- TODO
 
 ### CP-2228
 ### S22E29
@@ -19956,9 +19996,14 @@ Aired 2010-07-24.
 
 **Coast to Coast #173**
 
-- San Diago County, CA -- Surveillance Camera -- 7:27 AM Possible Immigration Violation -- Officer Edward Chavoya, Officer Alfredo Loperena
-- TODO
-- TODO
+- (San Diego County, CA -- 7:27 AM Possible Immigration Violation) U.S. Customs
+  And Border Protection, San Ysidro Port of Entry. Officer Edward Chavoya,
+  Officer Alfredo Loperena.  (Surveillance Camera) Officer Dario Flores.
+- (San Diego County, CA -- 6:21 AM Suspicious Vehicle) U.S. Customs And Border
+  Protection. Officer Edward Brown, Officer Jerry Vales, Officer Richard
+  Hernandez.
+- (Miami, FL -- 1:16 PM Customs Check Point) U.S. Customs And Border
+  Protection. Officer Lester Silva, Officer Alex Valladares.
 
 ### CP-2235
 ### S22E36
@@ -19967,7 +20012,8 @@ Aired 2010-07-31.
 
 **Coast to Coast #174**
 
-- Houston, TX -- 11:07 PM Suspicious Vehicle -- Senior Officer Eduardo Medrano, Sgt. Matt Richard, Officer Reece Hardy.
+- Houston, TX -- 11:07 PM Suspicious Vehicle -- Senior Officer Eduardo Medrano,
+  Sgt. Matt Richard, Officer Reece Hardy.
 - TODO
 - TODO
 
@@ -21302,9 +21348,14 @@ Aired 2017-06-17.
 
 "On the Dean's List"
 
-- A wanted man makes a desperate decision after he flees on foot.
-- An overprotective girlfriend questions the cops and finds herself in cuffs.
-- A jealous man loses more than his girlfriend after he picks a fight with her son.
+- (Lee County, FL -- 6:38 PM Wanted Person) East District. Deputy Jon Roedding.
+  A wanted man makes a desperate decision after he flees on foot.
+- (Grand Prairie, TX -- 12:34 AM Traffic Stop) North Sector. Officer Luke Reed,
+  Sgt. Hunter Dell.  An overprotective girlfriend questions the cops and finds
+  herself in cuffs.
+- (Pasco County, FL -- 9:05 PM Domestic Battery Call) District 1. Corporal
+  Kelly Endricks. A jealous man loses more than his girlfriend after he picks a
+  fight with her son, ...
 
 ### S30E02
 
@@ -21312,9 +21363,11 @@ Aired 2017-06-24.
 
 "Dog Treats and Delinquents"
 
-- A repeat offender takes the police on a bumpy ride.
-- A deputy schools a couple of teens after he discovers them in a parked car.
-- A woman is shocked when deputies reveal her brother's secret.
+- (Nye County, NV -- 12:37 AM Vehicle Pursuit) South Area Command. Sgt. David
+  Boruchowitz. A repeat offender takes the police on a bumpy ride. TODO: Add
+  other officers.
+- TODO. A deputy schools a couple of teens after he discovers them in a parked car.
+- TODO. A woman is shocked when deputies reveal her brother's secret.
 
 ### S30E03
 
@@ -21322,9 +21375,11 @@ Aired 2017-06-24.
 
 "Surprise Guest"
 
-- Police organize a search of a neighborhood and find the suspect in a tight spot.
-- A pastor calls the cops when a suspicious car parks behind his church.
-- An officer gives valuable advice to a young mother with a troubled past.
+- (Palm Beach County, FL -- 9:15 PM Burglary Call) District 1. Deputy Tammy
+  Davis. Police organize a search of a neighborhood and find the suspect in a
+  tight spot. TODO: Add other officers.
+- TODO. A pastor calls the cops when a suspicious car parks behind his church.
+- TODO. An officer gives valuable advice to a young mother with a troubled past.
 
 ### S30E04
 
@@ -21332,9 +21387,11 @@ Aired 2017-07-08.
 
 "On the Fence"
 
-- A precarious foot pursuit ends with the suspect in an embarrassing position.
-- A motorist calls the cops when a pedestrian loses his cool.
-- A relationship is jeopardized when a man resorts to old habits.
+- (Glendale, AZ -- 2:48 PM Suspicious Person Call) Foothills Station. Officer
+  Kevin McCort. A precarious foot pursuit ends with the suspect in an
+  embarrassing position. TODO: Add other officers.
+- TODO. A motorist calls the cops when a pedestrian loses his cool.
+- TODO. A relationship is jeopardized when a man resorts to old habits.
 
 ### S30E05
 
@@ -21342,9 +21399,11 @@ Aired 2017-07-15.
 
 "Do Not Pass Go"
 
-- A chatty motorist becomes agitated when officers start asking questions.
-- Police are shocked when a fleeing driver calls his wife in the middle of a pursuit.
-- Deputies catch a man lying and give him a test to prove his innocence.
+- (Glendale, AZ -- 7:31 PM Suspicious Vehicle) Neighborhood Response Squad.
+  Officer Jeff Pittman, Officer Mark Lindsey. A chatty motorist becomes
+  agitated when officers start asking questions. TODO: Add other officers.
+- TODO. Police are shocked when a fleeing driver calls his wife in the middle of a pursuit.
+- TODO. Deputies catch a man lying and give him a test to prove his innocence.
 
 ### S30E06
 
@@ -21352,9 +21411,11 @@ Aired 2017-07-22.
 
 "Pants on Fire"
 
-- With officers hot on his trail, a wanted suspect's world comes crashing down.
-- A tearful woman calls deputies to help apprehend her hostile husband.
-- During a traffic stop, one passenger tries to outrun the police and his past.
+- (Grand Prairie, TX -- 2:56 AM Wanted Person) South Sector. Officer Brad
+  Makovy. With officers hot on his trail, a wanted suspect's world comes
+  crashing down. TODO: Add other officers.
+- TODO. A tearful woman calls deputies to help apprehend her hostile husband.
+- TODO. During a traffic stop, one passenger tries to outrun the police and his past.
 
 ### S30E07
 
@@ -21362,9 +21423,11 @@ Aired 2017-07-29.
 
 "Dirty Laundry"
 
-- A suspect turns a small problem into a huge one when he decides to run.
-- A defiant woman reveals her misdeeds and puts her marriage at risk.
-- Deputies investigate a suspicious female, but it's her friend that ends up in cuffs.
+- (Glendale, AZ -- 9:01 PM Suspicious Activity) Neighborhood Response Squad.
+  Officer Roy Lewis, Officer Lacey Tolbert. Sgt. Don Labrant. A suspect turns a
+  small problem into a huge one when he decides to run.
+- TODO. A defiant woman reveals her misdeeds and puts her marriage at risk.
+- TODO. Deputies investigate a suspicious female, but it's her friend that ends up in cuffs.
 
 ### S30E08
 
@@ -21372,9 +21435,9 @@ Aired 2017-08-05.
 
 "Jumping the Gun"
 
-- Surrounded by officers, a driver's sneaky passenger makes a bold move.
-- Tempers flare between roommates after a woman feeds eggs to her dog.
-- A deputy acts swiftly when he spots a dangerous object in the backseat of a vehicle.
+- Surrounded by officers, a driver's sneaky passenger makes a bold move. TODO: Add other officers.
+- TODO. Tempers flare between roommates after a woman feeds eggs to her dog.
+- TODO. A deputy acts swiftly when he spots a dangerous object in the backseat of a vehicle.
 
 ### S30E09
 
@@ -21382,9 +21445,9 @@ Aired 2017-08-12.
 
 "Wrong Way Home"
 
-- A parolee manages to outrun officers, but his luck quickly runs out.
-- A quarreling couple attracts their neighbors' attention, and police are called to intervene.
-- A disoriented driver blames his freak accident on bad weather.
+- A parolee manages to outrun officers, but his luck quickly runs out. TODO: Add other officers.
+- TODO. A quarreling couple attracts their neighbors' attention, and police are called to intervene.
+- TODO. A disoriented driver blames his freak accident on bad weather.
 
 ### S30E10
 
@@ -21392,9 +21455,9 @@ Aired 2017-08-21.
 
 "Bad Business"
 
-- Tasers are deployed after an erratic suspect attempts to outsmart officers.
-- A lawbreaker tries to convince detectives they didn't just see him commit a crime.
-- An officer is called to supervise a ridiculous business transaction.
+- Tasers are deployed after an erratic suspect attempts to outsmart officers. TODO: Add other officers.
+- TODO. A lawbreaker tries to convince detectives they didn't just see him commit a crime.
+- TODO. An officer is called to supervise a ridiculous business transaction.
 
 ### S30E11
 
@@ -21402,10 +21465,9 @@ Aired 2017-08-21.
 
 "I Used to Use My Brain"
 
-- A first-time offender immediately regrets his destructive decisions.
-- Nothing adds up when an evasive driver tells police that he's the victim of a crime.
-- A deputy encourages a troubled young woman to turn her life around.
-
+- A first-time offender immediately regrets his destructive decisions. TODO: Add other officers.
+- TODO. Nothing adds up when an evasive driver tells police that he's the victim of a crime.
+- TODO. A deputy encourages a troubled young woman to turn her life around.
 
 ### S-3001
 
@@ -21423,9 +21485,9 @@ Aired 2017-08-28.
 
 "Crawl Space Catnap"
 
-- A fleeing suspect tries every lame excuse to get out of going to jail.
-- A sleepy driver asks deputies to hide the truth from his angry wife.
-- Police hear everyone's story when a trespassing call becomes a neighborhood-wide ordeal.
+- A fleeing suspect tries every lame excuse to get out of going to jail. TODO: Add other officers.
+- TODO. A sleepy driver asks deputies to hide the truth from his angry wife.
+- TODO. Police hear everyone's story when a trespassing call becomes a neighborhood-wide ordeal.
 
 ### S30E13
 
@@ -21433,9 +21495,9 @@ Aired 2017-09-11.
 
 "Set in His Ways"
 
-- (3:53 PM Suspicious Person) A repeat offender runs when officers catch him somewhere he's not supposed to be.
-- Two teens are slow to stop a bike thief, so police are called to assist.
-- Tensions rise after a questionable roommate situation takes a dark turn.
+- (3:53 PM Suspicious Person) A repeat offender runs when officers catch him somewhere he's not supposed to be. TODO: Add other officers.
+- TODO. Two teens are slow to stop a bike thief, so police are called to assist.
+- TODO. Tensions rise after a questionable roommate situation takes a dark turn.
 
 ### S30E14
 
@@ -21443,9 +21505,9 @@ Aired 2017-09-18.
 
 "Wedding Car Crasher"
 
-- An unruly man tries to give officers the slip.
-- Witnesses call the cops when a well-dressed driver plows through multiple barricades.
-- Even deputies are surprised when a domestic call takes an unexpected turn.
+- An unruly man tries to give officers the slip. TODO: Add other officers.
+- TODO. Witnesses call the cops when a well-dressed driver plows through multiple barricades.
+- TODO. Even deputies are surprised when a domestic call takes an unexpected turn.
 
 ### S30E15
 
@@ -21453,9 +21515,9 @@ Aired 2017-09-23.
 
 "Fake Friends"
 
-- It's off to the races when an injured suspect spots his window of opportunity.
-- A man bosses officers around after he's caught with some unsavory items.
-- Detectives catch a man in a sting, but he still won't admit to his crime.
+- It's off to the races when an injured suspect spots his window of opportunity. TODO: Add other officers.
+- TODO. A man bosses officers around after he's caught with some unsavory items.
+- TODO. Detectives catch a man in a sting, but he still won't admit to his crime.
 
 ### S30E16
 
@@ -21463,17 +21525,17 @@ Aired 2017-10-02.
 
 "Nowhere to Hide"
 
-- Time is of the essence when officers attempt to track down an armed carjacking suspect.
-- Police arrive at a hectic scene and a witness sets the record straight.
-- A confrontational cyclist blames his bad behavior on anime.
+- Time is of the essence when officers attempt to track down an armed carjacking suspect. TODO: Add other officers.
+- TODO. Police arrive at a hectic scene and a witness sets the record straight.
+- TODO. A confrontational cyclist blames his bad behavior on anime.
 
 ### S30E17
 
 "Loaded Up and Trucking"
 
-- A reckless driver tries to escape both the officers and the pain of a broken heart.
-- Officers catch a PTA dad setting a bad example.
-- A woman with a checkered past has a hard time turning over a new leaf.
+- A reckless driver tries to escape both the officers and the pain of a broken heart. TODO: Add other officers.
+- TODO. Officers catch a PTA dad setting a bad example.
+- TODO. A woman with a checkered past has a hard time turning over a new leaf.
 
 ### S30E18
 
@@ -21481,9 +21543,9 @@ Aired 2017-10-16.
 
 "It's Nothing Personal"
 
-- It's a reunion of sorts when the police catch up to a familiar face.
-- Emotions run high after a man's mistress starts problems with his wife.
-- Officers have trouble getting a straight answer from a suspicious duo.
+- It's a reunion of sorts when the police catch up to a familiar face. TODO: Add other officers.
+- TODO. Emotions run high after a man's mistress starts problems with his wife.
+- TODO. Officers have trouble getting a straight answer from a suspicious duo.
 
 ### S30E19
 
@@ -21491,9 +21553,9 @@ Aired 2017-10-23.
 
 "Run and Gun"
 
-- A wanted man makes a break for it with deputies hot on his trail.
-- Police find themselves in a vehicle pursuit when a driver's fears get the better of him.
-- A traffic stop exposes a car full of people who have a lot to hide.
+- A wanted man makes a break for it with deputies hot on his trail. TODO: Add other officers.
+- TODO. Police find themselves in a vehicle pursuit when a driver's fears get the better of him.
+- TODO. A traffic stop exposes a car full of people who have a lot to hide.
 
 ### S30E20
 
@@ -21501,9 +21563,9 @@ Aired 2017-10-30.
 
 "Face the Music"
 
-- Officers glove up when they apprehend a skittish suspect with a serious skin condition.
-- A father-to-be quickly learns that running only makes things worse.
-- An aspiring rapper treats officers to a song after he ends up in cuffs.
+- Officers glove up when they apprehend a skittish suspect with a serious skin condition. TODO: Add other officers.
+- TODO. A father-to-be quickly learns that running only makes things worse.
+- TODO. An aspiring rapper treats officers to a song after he ends up in cuffs.
 
 ### S30E21
 
@@ -21511,9 +21573,9 @@ Aired 2017-11-06.
 
 "Scaredy Cat"
 
-- Officers subdue an erratic man who's convinced that a wild animal is following him.
-- A birthday celebration quickly goes south when guns get involved.
-- Deputies help break up a volatile domestic situation.
+- Officers subdue an erratic man who's convinced that a wild animal is following him. TODO: Add other officers.
+- TODO. A birthday celebration quickly goes south when guns get involved.
+- TODO. Deputies help break up a volatile domestic situation.
 
 ### S30E22
 
@@ -21521,9 +21583,9 @@ Aired 2017-11-13.
 
 "Fake Cash and Whiplash"
 
-- (5:56 PM Stolen Vehicle) A quiet neighborhood turns into the scene of a dangerous multi-vehicle pursuit.
-- A man down on his luck tries to hide his guilt by ditching some clothes.
-- Fists go flying when a shopkeeper confronts a man who ripped him off.
+- (5:56 PM Stolen Vehicle) A quiet neighborhood turns into the scene of a dangerous multi-vehicle pursuit. TODO: Add other officers.
+- TODO. A man down on his luck tries to hide his guilt by ditching some clothes.
+- TODO. Fists go flying when a shopkeeper confronts a man who ripped him off.
 
 ### S30E23
 
@@ -21531,9 +21593,9 @@ Aired 2018-01-22.
 
 "Just Desserts"
 
-- A suspect leaves his uneaten parfait behind after police find more than treats in his pocket.
-- An armed driver tells officers a far-fetched story to justify his weapon.
-- A heated back and forth ends with a call to animal control.
+- A suspect leaves his uneaten parfait behind after police find more than treats in his pocket. TODO: Add other officers.
+- TODO. An armed driver tells officers a far-fetched story to justify his weapon.
+- TODO. A heated back and forth ends with a call to animal control.
 
 ### S30E24
 
@@ -21541,9 +21603,9 @@ Aired 2018-01-29.
 
 "Late Night Shopper"
 
-- A vigilant neighbor calls the cops when he sees the downstairs liquor store being robbed.
-- A driver burns bridges with a new friend after he steals her truck.
-- Deputies urge a young man to be a better role model for his brother.
+- A vigilant neighbor calls the cops when he sees the downstairs liquor store being robbed. TODO: Add other officers.
+- TODO. A driver burns bridges with a new friend after he steals her truck.
+- TODO. Deputies urge a young man to be a better role model for his brother.
 
 ### S30E25
 
@@ -21551,9 +21613,9 @@ Aired 2018-02-05.
 
 "Hug It Out"
 
-- Officers pursue a wanted man and prevent a potentially deadly home invasion.
-- A tense passenger starts mouthing off before deputies can get a word in.
-- Police search for a teen's stolen bike and find a man at the end of his rope.
+- Officers pursue a wanted man and prevent a potentially deadly home invasion. TODO: Add other officers.
+- TODO. A tense passenger starts mouthing off before deputies can get a word in.
+- TODO. Police search for a teen's stolen bike and find a man at the end of his rope.
 
 ### S30E26
 
@@ -21561,17 +21623,17 @@ Aired 2018-02-12.
 
 "The Running Man"
 
-- A half-naked cyclist takes officers on a frantic run through the neighborhood.
-- A suspicious man makes a series of wrong moves in front of his girlfriend.
-- Things get weird when police find a woman hiding in a cupboard.
+- A half-naked cyclist takes officers on a frantic run through the neighborhood. TODO: Add other officers.
+- TODO. A suspicious man makes a series of wrong moves in front of his girlfriend.
+- TODO. Things get weird when police find a woman hiding in a cupboard.
 
 ### S30E27
 
 "Whose Gun Is It Anyways?"
 
-- An out-of-control driver wants to get back home for a birthday party
-- a man with big dreams has a hard time telling officers why his fingerprints appear on a gun
-- a trip to buy dog food turns into a run-in with the police.
+- An out-of-control driver wants to get back home for a birthday party TODO: Add other officers.
+- TODO. A man with big dreams has a hard time telling officers why his fingerprints appear on a gun
+- TODO. A trip to buy dog food turns into a run-in with the police.
 
 ### S30E28
 
@@ -21579,9 +21641,9 @@ Aired 2018-04-16.
 
 "Bad Eggs"
 
-- Officers wear down their brakes when a daring driver takes them on a wild ride.
-- A chicken breeder has a shady explanation for the items discovered in his car.
-- A trigger-happy man has trouble owning up to his mistakes.
+- Officers wear down their brakes when a daring driver takes them on a wild ride. TODO: Add other officers.
+- TODO. A chicken breeder has a shady explanation for the items discovered in his car.
+- TODO. A trigger-happy man has trouble owning up to his mistakes.
 
 ### S30E29
 
@@ -21589,17 +21651,17 @@ Aired 2018-04-23.
 
 "Sleight of Hand"
 
-- A DUI suspect makes some bad choices when he ventures out for a late-night snack.
-- A squabbling couple brings each other down once police start asking questions.
-- Cops pull over a man who's convinced his passenger set him up.
+- A DUI suspect makes some bad choices when he ventures out for a late-night snack. TODO: Add other officers.
+- TODO. A squabbling couple brings each other down once police start asking questions.
+- TODO. Cops pull over a man who's convinced his passenger set him up.
 
 ### S30E30
 
 "Change of Heart"
 
-- Officers step in when a man tries to start a fight with everyone in his neighborhood
-- a wanted suspect is convinced police told him to take off on his bike
-- a young, troubled mom gets a second chance to turn her life around.
+- Officers step in when a man tries to start a fight with everyone in his neighborhood TODO: Add other officers.
+- TODO. A wanted suspect is convinced police told him to take off on his bike
+- TODO. A young, troubled mom gets a second chance to turn her life around.
 
 ### S30E31
 
@@ -21607,9 +21669,9 @@ Aired 2018-05-07.
 
 "Kiss and Make Up"
 
-- A motorcyclist leads officers on a chase down city streets.
-- Even a dead car battery doesn't stop a grieving man from eluding the police.
-- A jumpy driver fails to avoid the cops and gives an awkward apology to his girlfriend.
+- A motorcyclist leads officers on a chase down city streets. TODO: Add other officers.
+- TODO. Even a dead car battery doesn't stop a grieving man from eluding the police.
+- TODO. A jumpy driver fails to avoid the cops and gives an awkward apology to his girlfriend.
 
 ### S30E32
 
@@ -21617,9 +21679,9 @@ Aired 2018-05-14.
 
 "Cheek to Cheek"
 
-- A traffic stop takes an unexpected turn when the suspect decides to go off-roading.
-- A woman refuses to cover for her son's friend.
-- Security cameras catch a man trying to conceal some items in a not-so-nice hiding place.
+- A traffic stop takes an unexpected turn when the suspect decides to go off-roading. TODO: Add other officers.
+- TODO. A woman refuses to cover for her son's friend.
+- TODO. Security cameras catch a man trying to conceal some items in a not-so-nice hiding place.
 
 ### S30E33
 
@@ -21627,9 +21689,9 @@ Aired 2018-05-21.
 
 "Up in Smoke"
 
-- A desperate man's last-ditch effort to flee from officers goes down in flames.
-- Multiple units work together to diffuse a dangerous situation.
-- Deputies keep an eye on a custody battle that involves some expensive groceries.
+- A desperate man's last-ditch effort to flee from officers goes down in flames. TODO: Add other officers.
+- TODO. Multiple units work together to diffuse a dangerous situation.
+- TODO. Deputies keep an eye on a custody battle that involves some expensive groceries.
 
 ## Season 31
 
