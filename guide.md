@@ -5421,10 +5421,16 @@ Aired 1991-06-15.
 
 **Houston, TX 6**
 
-- (Vehicle Fire Call) Cpl James Bilinovich is called to help with the search
-  for a fleeing vehicle.
-
-A body was found in the burned car in a foggy area and a tow truck is en route.
+- (Houston, TX -- Vehicle Fire Call) Harris County Sheriff's Department.
+  Corporal James Bilinovich, Deputy Monty Herron, Investigator James F. Ebdon.
+  A body is found in a burnt-out car. "An autopsy revealed that the victim had
+  been shot prior to the fire. The case remains open".
+- (Houston, TX -- 6:32 PM Family Disturbance Call) Houston Police Department.
+  Officer Leslie Henderson is exercising in a gym.
+- (Houston, TX -- 3:01 PM Assistance Call) Harris County Sheriff's Department.
+  Corporal Larry Blacksmith. A black male was fleeing in a car, but crashed and
+  fled on foot. Featuring Deputy Perry Lenn Wilson, Deputy Robert Merchant, and
+  Deputy Ken Melancon.
 
 ### CP-337
 
@@ -5432,12 +5438,14 @@ Aired 1991-08-31.
 
 **Houston, TX 7**
 
-- (9:24 PM Disturbance Call) Harris County Sheriff's Dept. -- Deputy Ron
-  Leonard says he's in the city police who cover from county line to county
-  line. Sometimes it takes a while for back up to get there so he talks and
-  deals with people differently. Arrest for an elderly guard's beating.
-- (12:03 AM Attempted Suicide Call) Deputy Bubba Hunton.
-- (1:23 AM Stolen Vehicle Call) Deputy Richard King.
+- (Houston, TX -- 9:24 PM Disturbance Call) Harris County Sheriff's Dept. --
+  Deputy Ron Leonard says he's in the city police who cover from county line to
+  county line. Sometimes it takes a while for back up to get there so he talks
+  and deals with people differently. Arrest for an elderly guard's beating.
+- (Houston, TX -- 12:03 AM Attempted Suicide Call) Harris County Sheriff's
+  Department. Deputy Bubba Hunton.
+- (Houston, TX -- 1:23 AM Stolen Vehicle Call) Harris County Sheriff's
+  Department. Deputy Richard King, Corporal James Bilinovich.
 
 ### CP-338
 
@@ -5474,21 +5482,21 @@ Aired 1991-08-09.
   arrested. He wants to know how much it will cost. They are both arrested and
   are crying. He kisses her in the back in the cop of the car. Mike didn't
   expect her to have the gun and she could've shot him.
-- (12:21 AM Assistance Call) Deputy Bubba Hinton says his mother and father
+- (12:21 AM Assistance Call) Deputy Bubba Hunton says his mother and father
   gave him the nickname Bubba, a real Texas name, no one knows his real name
-  and they all call him Bubba. Deputy Victor Zigmont caught some black males
-  trying to break into cars and apartments. He goes to help out and there are a
-  bunch of officers on the scene, including Deputy Michael Sieck. They find a
-  pistol, a shotgun and a rifle in the thieves car. They saw one guy by an
-  apartment with a screwdriver and caught the other one in a car. One guy says
-  he was hitchhiking, they gave him the car and he's never been to jail. Deputy
-  Ziggy chased the car doing 85mph, but the guy says they didn't run. He says
-  there are others in his crew by the Stop N Go, so they go over there and
-  look. A black guy in a trench coat is walking and runs off when he sees them.
-  He runs into the woods and ditches his coat. They catch him a couple blocks
-  later, he asks what he's being arrested for and what did he do? They put him
-  in the car and find there was a path he ran down while they floundered
-  through the deep sticks in the back.
+  and they all call him Bubba. Deputy Victor Zigmont ("Zig"/"Ziggy") caught
+  some black males trying to break into cars and apartments. He goes to help
+  out and there are a bunch of officers on the scene, including Deputy Michael
+  Sieck. They find a pistol, a shotgun and a rifle in the thieves car. They saw
+  one guy by an apartment with a screwdriver and caught the other one in a car.
+  One guy says he was hitchhiking, they gave him the car and he's never been to
+  jail. Deputy Ziggy chased the car doing 85mph, but the guy says they didn't
+  run. He says there are others in his crew by the Stop N Go, so they go over
+  there and look. A black guy in a trench coat is walking and runs off when he
+  sees them. He runs into the woods and ditches his coat. They catch him a
+  couple blocks later, he asks what he's being arrested for and what did he do?
+  They put him in the car and find there was a path he ran down while they
+  floundered through the deep sticks in the back.
 
 ### CP-339
 
@@ -8415,7 +8423,13 @@ Aired 1994-11-05.
 
 **New York City 3**
 
-- (9:11 AM Officer Down) pursuit of drug suspect; attempted suicide.
+- (New York City, NY -- 9:11 AM Officer Down) N.Y.P.D. Emergency Service Unit.
+  Lt. Bob Sobocienski, ... . (8:29 PM Shots Fired).
+- (New York City, NY -- 8:20 PM Suicide Attempt) N.Y.P.D. Emergency Service
+  Unit. Lt. Mario de la Vega, Sgt. James Poolt, Sgt. Larry Collora, ...
+- (New York City, NY -- 10:05 PM Briefing) N.Y.P.D. Street Crimes Unit. Sgt.
+  Dan Nicholson. (Street Patrol) (11:18 PM Car Stop) Officer Tom Fitzgerald,
+  ...
 
 ### CP-736
 
