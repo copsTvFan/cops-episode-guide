@@ -21371,11 +21371,11 @@ Aired 2017-06-17.
 - (Lee County, FL -- 6:38 PM Wanted Person) East District. Deputy Jon Roedding.
   A wanted man makes a desperate decision after he flees on foot.
 - (Grand Prairie, TX -- 12:34 AM Traffic Stop) North Sector. Officer Luke Reed,
-  Sgt. Hunter Dell.  An overprotective girlfriend questions the cops and finds
+  Sgt. Hunter Dell. An overprotective girlfriend questions the cops and finds
   herself in cuffs.
 - (Pasco County, FL -- 9:05 PM Domestic Battery Call) District 1. Corporal
   Kelly Endricks. A jealous man loses more than his girlfriend after he picks a
-  fight with her son, ...
+  fight with her son.
 
 ### S30E02
 
@@ -21384,10 +21384,14 @@ Aired 2017-06-24.
 "Dog Treats and Delinquents"
 
 - (Nye County, NV -- 12:37 AM Vehicle Pursuit) South Area Command. Sgt. David
-  Boruchowitz. A repeat offender takes the police on a bumpy ride. TODO: Add
-  other officers.
-- TODO. A deputy schools a couple of teens after he discovers them in a parked car.
-- TODO. A woman is shocked when deputies reveal her brother's secret.
+  Boruchowitz, Deputy Nicholas Augustine. A repeat offender takes the police on
+  a bumpy ride.
+- (Lee County, FL -- 9:59 PM Suspicious Vehicle) East District. Deputy Jon
+  Roedding. A deputy schools a couple of teens (Sophia and Ishmael) after he
+  discovers them in a parked car.
+- (Nye County, NV -- 8:15 PM Traffic Stop) South Area Command. Deputy Eric
+  Anderson, Detective Alex Cox. A woman is shocked when deputies reveal her
+  brother's secret (meth).
 
 ### S30E03
 
@@ -21396,10 +21400,13 @@ Aired 2017-06-24.
 "Surprise Guest"
 
 - (Palm Beach County, FL -- 9:15 PM Burglary Call) District 1. Deputy Tammy
-  Davis. Police organize a search of a neighborhood and find the suspect in a
-  tight spot. TODO: Add other officers.
-- TODO. A pastor calls the cops when a suspicious car parks behind his church.
-- TODO. An officer gives valuable advice to a young mother with a troubled past.
+  Davis, K-9 Deputy James Barca. Police organize a search of a neighborhood and
+  find the suspect in a tight spot.
+- (Amarillo, TX -- 9:38 PM Suspicious Vehicle) FTO Logan Landrum. A pastor
+  calls the cops when a suspicious car parks behind his church.
+- (Springfield, MO -- 11:07 PM Traffic Stop) South District. Officer Todd
+  Mallow, Officer Kyle Powers. An officer gives valuable advice to a young
+  mother with a troubled past.
 
 ### S30E04
 
@@ -21408,10 +21415,14 @@ Aired 2017-07-08.
 "On the Fence"
 
 - (Glendale, AZ -- 2:48 PM Suspicious Person Call) Foothills Station. Officer
-  Kevin McCort. A precarious foot pursuit ends with the suspect in an
-  embarrassing position. TODO: Add other officers.
-- TODO. A motorist calls the cops when a pedestrian loses his cool.
-- TODO. A relationship is jeopardized when a man resorts to old habits.
+  Kevin McCort, Officer Cody Nicholas. A precarious foot pursuit ends with the
+  suspect in an embarrassing position.
+- (Glendale, AZ -- 1:33 PM Man With A Knife Call) Foothills Station. Officer
+  Brian Osborne, Officer John Davidge. A motorist calls the cops when a
+  pedestrian loses his cool.
+- (Las Vegas, NV -- 4:03 PM Suspicious Activity) Spring Valley Area Command.
+  Officer Ryan Pedroso, Officer Brian Smith. A relationship is jeopardized when
+  a man resorts to old habits.
 
 ### S30E05
 
@@ -21421,9 +21432,13 @@ Aired 2017-07-15.
 
 - (Glendale, AZ -- 7:31 PM Suspicious Vehicle) Neighborhood Response Squad.
   Officer Jeff Pittman, Officer Mark Lindsey. A chatty motorist becomes
-  agitated when officers start asking questions. TODO: Add other officers.
-- TODO. Police are shocked when a fleeing driver calls his wife in the middle of a pursuit.
-- TODO. Deputies catch a man lying and give him a test to prove his innocence.
+  agitated when officers start asking questions.
+- (Pinellas County, FL -- 8:16 PM Vehicle Pursuit) North District. Deputy Mike
+  Krlin, Lt. Michael Paniagua. Police are shocked when a fleeing driver calls
+  his wife in the middle of a pursuit.
+- (Nye County, NV -- 7:27 PM Suspicious Vehicle) South Area Command. Deputy
+  Jason Yelle, Sgt. Alan Schrimpf. Deputies catch a man lying and give him a
+  test to prove his innocence.
 
 ### S30E06
 
@@ -21433,9 +21448,13 @@ Aired 2017-07-22.
 
 - (Grand Prairie, TX -- 2:56 AM Wanted Person) South Sector. Officer Brad
   Makovy. With officers hot on his trail, a wanted suspect's world comes
-  crashing down. TODO: Add other officers.
-- TODO. A tearful woman calls deputies to help apprehend her hostile husband.
-- TODO. During a traffic stop, one passenger tries to outrun the police and his past.
+  crashing down 
+- (Pinellas County, FL -- 9:28 PM 911 Hang-up) Central District. Deputy Tiffany
+  Ashcom, Corporal Ben Chieco, Sgt. Howard Skaggs. A tearful woman calls
+  deputies to help apprehend her hostile husband.
+- (Nye County, NV -- 11:56 PM Traffic Stop) South Area Command. Deputy Jason
+  Yelle, Detective Alex Cox. During a traffic stop, one passenger tries to
+  outrun the police and his past.
 
 ### S30E07
 
@@ -21446,8 +21465,12 @@ Aired 2017-07-29.
 - (Glendale, AZ -- 9:01 PM Suspicious Activity) Neighborhood Response Squad.
   Officer Roy Lewis, Officer Lacey Tolbert. Sgt. Don Labrant. A suspect turns a
   small problem into a huge one when he decides to run.
-- TODO. A defiant woman reveals her misdeeds and puts her marriage at risk.
-- TODO. Deputies investigate a suspicious female, but it's her friend that ends up in cuffs.
+- (Pasco County, FL -- 11:10 PM Traffic Stop) District 1 STAR. Corporal Brett
+  Morris, Lt. Jay Galassi. A defiant woman reveals her misdeeds and puts her
+  marriage at risk.
+- (Martin County, FL -- 11:39 PM Traffic Stop) East County Operations. Sgt. Tim
+  Baltes, K-9 Deputy Justin Albauer. Deputies investigate a suspicious female,
+  but it's her friend that ends up in cuffs.
 
 ### S30E08
 
@@ -21455,9 +21478,15 @@ Aired 2017-08-05.
 
 "Jumping the Gun"
 
-- Surrounded by officers, a driver's sneaky passenger makes a bold move. TODO: Add other officers.
-- TODO. Tempers flare between roommates after a woman feeds eggs to her dog.
-- TODO. A deputy acts swiftly when he spots a dangerous object in the backseat of a vehicle.
+- (Fort Myers, FL -- 9:21 PM Traffic Stop) Officer Emelia Santos, Officer Adam
+  Miller, Officer Matt Zarillo. Surrounded by officers, a driver's sneaky
+  passenger makes a bold move.
+- (Pinellas County, FL -- 9:28 PM Battery In Progress) North District. Deputy
+  Chase Berger. Tempers flare between roommates after a woman feeds eggs to her
+  dog.
+- (Pinellas County, FL -- 2:11 AM Traffic Stop) Central District. Deputy
+  Richard Curry. A deputy acts swiftly when he spots a dangerous object in the
+  backseat of a vehicle.
 
 ### S30E09
 
@@ -21465,9 +21494,16 @@ Aired 2017-08-12.
 
 "Wrong Way Home"
 
-- A parolee manages to outrun officers, but his luck quickly runs out. TODO: Add other officers.
-- TODO. A quarreling couple attracts their neighbors' attention, and police are called to intervene.
-- TODO. A disoriented driver blames his freak accident on bad weather.
+- (Glendale, AZ -- 9:04 AM Suspicious Person) Neighborhood Response Squad.
+  Officer Matt Schneider, Officer Jeff Pittman. K-9 Officer Mike Griffith. A
+  parolee manages to outrun officers, but his luck quickly runs out.
+- (Des Moines, IA -- 2:39 PM Fight In Progress) Downtown Headquarters. Senior
+  Officer Ryan Mann. A quarreling couple attracts their neighbors' attention,
+  and police are called to intervene.
+- (Harris County, TX -- 1:29 PM Vehicle In Waterway) District 3 Joint Task
+  Force. Deputy Victor Vagliente, Sgt. Eduardo Rivera, Deputy Joe Garza, Deputy
+  Kenny Gates (Homeland Security Marine Unit). A disoriented driver blames his
+  freak accident on bad weather.
 
 ### S30E10
 
@@ -21475,9 +21511,14 @@ Aired 2017-08-21.
 
 "Bad Business"
 
-- Tasers are deployed after an erratic suspect attempts to outsmart officers. TODO: Add other officers.
-- TODO. A lawbreaker tries to convince detectives they didn't just see him commit a crime.
-- TODO. An officer is called to supervise a ridiculous business transaction.
+- (Glendale, AZ -- 11:44 AM Suspicious Persons) Neighborhood Response Squad.
+  Officer Brian Osborne, Officer John Davidge. Tasers are deployed after an
+  erratic suspect attempts to outsmart officers.
+- (Paterson, NJ -- 12:57 PM Possible Drug Activity) Narcotics Division. Captain
+  George Vazquez, Detective Kevin Kunzig, Detective Eric Montoya. A lawbreaker
+  tries to convince detectives they didn't just see him commit a crime.
+- (Des Moines, IA -- 3:06 PM Assistance Call) Downtown Headquarters. Senior
+  Officer Ryan Mann is called to supervise a ridiculous business transaction.
 
 ### S30E11
 
@@ -21485,9 +21526,14 @@ Aired 2017-08-21.
 
 "I Used to Use My Brain"
 
-- A first-time offender immediately regrets his destructive decisions. TODO: Add other officers.
-- TODO. Nothing adds up when an evasive driver tells police that he's the victim of a crime.
-- TODO. A deputy encourages a troubled young woman to turn her life around.
+- (Lafayette, LA -- 6:56 PM Stolen Vehicle) Precinct 1. Corporal Michael
+  Milazzo, Sgt. Shawn Arwood. A first-time offender immediately regrets his
+  destructive decisions.
+- (Lafayette, LA -- 1:05 AM Armed Robbery Call) Precinct 4. Officer John
+  Domingue, Lt. Royce Starring, Sgt. Aaron Thibodeaux. Nothing adds up when an
+  evasive driver tells police that he's the victim of a crime.
+- (Pasco County, FL -- 11:19 PM Traffic Stop) District 1. Deputy Brian Polson
+  encourages a troubled young woman to turn her life around.
 
 ### S-3001
 
@@ -21505,9 +21551,14 @@ Aired 2017-08-28.
 
 "Crawl Space Catnap"
 
-- A fleeing suspect tries every lame excuse to get out of going to jail. TODO: Add other officers.
-- TODO. A sleepy driver asks deputies to hide the truth from his angry wife.
-- TODO. Police hear everyone's story when a trespassing call becomes a neighborhood-wide ordeal.
+- (Lafayette, LA -- 9:38 PM Stolen Vehicle Pursuit) Precinct 4. Corporal Asher
+  Reaux, Corporal Michael Milazzo. A fleeing suspect tries every lame excuse to
+  get out of going to jail.
+- (Pinellas County, FL -- 2:17 AM Suspicious Vehicle) Central District. Deputy
+  Jake Gauthier. A sleepy driver asks deputies to hide the truth from his angry
+  wife.
+- (Pasco County, FL -- 5:39 PM Trespassing) District 1. FTO Chris Weaver hears
+  everyone's story when a trespassing call becomes a neighborhood-wide ordeal.
 
 ### S30E13
 
@@ -21515,9 +21566,15 @@ Aired 2017-09-11.
 
 "Set in His Ways"
 
-- (3:53 PM Suspicious Person) A repeat offender runs when officers catch him somewhere he's not supposed to be. TODO: Add other officers.
-- TODO. Two teens are slow to stop a bike thief, so police are called to assist.
-- TODO. Tensions rise after a questionable roommate situation takes a dark turn.
+- (Glendale, AZ -- 3:53 PM Suspicious Person) Neighborhood Response Squad.
+  Officer Mark Lindsey, Officer Jeff Pittman, Sgt. Rachael Bousman. A repeat
+  offender runs when officers catch him somewhere he's not supposed to be.
+- (Glendale, AZ -- 2:30 PM Robbery Call) Gateway Station. Officer Mitch Mabry,
+  Officer Cody Henderson, Officer Marcel Dulaney. Two teens are slow to stop a
+  bike thief, so police are called to assist.
+- (Las Vegas, NV -- 5:59 PM Domestic Violence Call) Bolden Area Command.
+  Officer Cory Church, Officer I. Simmons. Tensions rise after a questionable
+  roommate situation takes a dark turn.
 
 ### S30E14
 
@@ -21525,9 +21582,14 @@ Aired 2017-09-18.
 
 "Wedding Car Crasher"
 
-- An unruly man tries to give officers the slip. TODO: Add other officers.
-- TODO. Witnesses call the cops when a well-dressed driver plows through multiple barricades.
-- TODO. Even deputies are surprised when a domestic call takes an unexpected turn.
+- (Fontana, CA -- 10:11 PM Area Check) Officer Andrew Hackett, Officer Matt
+  Sherwood. An unruly man tries to give officers the slip.
+- (Lafayette, LA -- 10:02 PM Hit And Run) Precinct 4. Officer Brock Miller,
+  Corporal Matt Benoit. Witnesses call the cops when a well-dressed driver
+  plows through multiple barricades.
+- (Nye County, NV -- 7:12 PM Domestic Violence Call) South Area Command. Deputy
+  Eric Anderson. Even deputies are surprised when a domestic call takes an
+  unexpected turn.
 
 ### S30E15
 
@@ -21535,9 +21597,16 @@ Aired 2017-09-23.
 
 "Fake Friends"
 
-- It's off to the races when an injured suspect spots his window of opportunity. TODO: Add other officers.
-- TODO. A man bosses officers around after he's caught with some unsavory items.
-- TODO. Detectives catch a man in a sting, but he still won't admit to his crime.
+- (Glendale, AZ -- 10:14 AM Traffic Stop) Neighborhood Response Squad. Officer
+  Matt Schneider, Officer Roy Lewis. It's off to the races when an injured
+  suspect spots his window of opportunity.
+- (Wichita, KS -- 8:16 PM Traffic Stop) Patrol East. Officer Atlee Vogt,
+  Officer Rebekah Jabara. A man bosses officers around after he's caught with
+  some unsavory items.
+- (Nye County, NV -- 8:16 PM Sexual Predator Sting) South Area Command. Sgt.
+  Michael Eisenloffel, Sgt. David Boruchowitz, Deputy Chris Hopson, Detective
+  Alex Cox. Detectives catch a man in a sting, but he still won't admit to his
+  crime.
 
 ### S30E16
 
@@ -21545,17 +21614,28 @@ Aired 2017-10-02.
 
 "Nowhere to Hide"
 
-- Time is of the essence when officers attempt to track down an armed carjacking suspect. TODO: Add other officers.
-- TODO. Police arrive at a hectic scene and a witness sets the record straight.
-- TODO. A confrontational cyclist blames his bad behavior on anime.
+- (Glendale, AZ -- 3:35 PM Carjacking) Foothills Station. Officer James Stahl,
+  Sgt. Aaron Aldridge. Time is of the essence when officers attempt to track
+  down an armed carjacking suspect.
+- (Fort Myers, FL -- 1:18 AM Breach Of Peace) Headquarters. Officer Harrison
+  Williams, Officer Domonic Zammit, Sgt. Nichole Greene. Police arrive at a
+  hectic scene and a witness sets the record straight.
+- (Nye County, NV -- 7:53 PM Deputy Assistance Call) South Area Command.
+  Detective Alex Cox, Deputy Jason Yelle, Deputy Aaron Williamson. A
+  confrontational cyclist blames his bad behavior on anime.
 
 ### S30E17
 
 "Loaded Up and Trucking"
 
-- A reckless driver tries to escape both the officers and the pain of a broken heart. TODO: Add other officers.
-- TODO. Officers catch a PTA dad setting a bad example.
-- TODO. A woman with a checkered past has a hard time turning over a new leaf.
+- (Nye County, NV -- 1:45 PM Vehicle Pursuit In Progress) South Area Command.
+  Detective Alex Cox, Deputy James Ramos, Sgt. Eric Murphy. A reckless driver
+  tries to escape both the officers and the pain of a broken heart.
+- (Stockton, CA -- 2:57 PM Traffic Stop) Officer Johnathan Wright, Officer Greg
+  McClain. Officers catch a PTA dad setting a bad example.
+- (Stockton, CA -- 12:21 PM Stolen Vehicle) Strategic Community Officers.
+  Officer Ralph Dominguez, Officer Doug Sheldon, A woman with a checkered past
+  has a hard time turning over a new leaf.
 
 ### S30E18
 
@@ -21563,9 +21643,15 @@ Aired 2017-10-16.
 
 "It's Nothing Personal"
 
-- It's a reunion of sorts when the police catch up to a familiar face. TODO: Add other officers.
-- TODO. Emotions run high after a man's mistress starts problems with his wife.
-- TODO. Officers have trouble getting a straight answer from a suspicious duo.
+- (Fontana, CA -- 11:07 PM Suspicious Person) Officer Willie Bermudez, Officer
+  Kevin Anderson.  It's a reunion of sorts when the police catch up to a
+  familiar face.
+- (Lee County, FL -- 8:19 PM Domestic Disturbance Call) North District. Deputy
+  Tyler Gregory. Emotions run high after a man's mistress starts problems with
+  his wife.
+- (Fort Myers, FL -- 1:36 AM Suspicious Vehicle) Headquarters. Officer Cierra
+  Carter. Officers have trouble getting a straight answer from a suspicious
+  duo.
 
 ### S30E19
 
@@ -21573,9 +21659,14 @@ Aired 2017-10-23.
 
 "Run and Gun"
 
-- A wanted man makes a break for it with deputies hot on his trail. TODO: Add other officers.
-- TODO. Police find themselves in a vehicle pursuit when a driver's fears get the better of him.
-- TODO. A traffic stop exposes a car full of people who have a lot to hide.
+- (Pasco County, FL -- 6:43 PM Wanted Person) District 3. Deputy Tiffany
+  Bronson, Deputy David Schaub, Corporal Paul Reagan. A wanted man makes a
+  break for it with deputies hot on his trail.
+- (Martin County, FL -- 1:27 AM Vehicle Pursuit) East County Operations. Deputy
+  Jacob Blaszyk. Police find themselves in a vehicle pursuit when a driver's
+  fears get the better of him.
+- (Lafayette, LA -- 11:37 PM Traffic Stop) Precinct 1. Corporal Michael
+  Milazzo. A traffic stop exposes a car full of people who have a lot to hide.
 
 ### S30E20
 
@@ -21583,9 +21674,15 @@ Aired 2017-10-30.
 
 "Face the Music"
 
-- Officers glove up when they apprehend a skittish suspect with a serious skin condition. TODO: Add other officers.
-- TODO. A father-to-be quickly learns that running only makes things worse.
-- TODO. An aspiring rapper treats officers to a song after he ends up in cuffs.
+- (Glendale, AZ -- 3:53 PM Suspicious Person) Neighborhood Response Squad.
+  Officer Mark Lindsey, Officer Jeff Pittman. Officers glove up when they
+  apprehend a skittish suspect with a serious skin condition.
+- (Wichita, KS -- 6:31 PM Fleeing and Eluding) Patrol North. Officer Trevor
+  Sanders, Officer Julian Galan, Sgt. Jason Cooley. A father-to-be quickly
+  learns that running only makes things worse.
+- (Glendale, AZ -- 5:25 PM Suspicious Person) Neighborhood Response Squad.
+  Officer Mark Lindsey, Officer Roy Lewis, Detective Dave Goitia. An aspiring
+  rapper treats officers to a song after he ends up in cuffs.
 
 ### S30E21
 
@@ -21593,9 +21690,15 @@ Aired 2017-11-06.
 
 "Scaredy Cat"
 
-- Officers subdue an erratic man who's convinced that a wild animal is following him. TODO: Add other officers.
-- TODO. A birthday celebration quickly goes south when guns get involved.
-- TODO. Deputies help break up a volatile domestic situation.
+- (Colton, CA -- 8:02 PM Man With A Knife) Officer Adam Koahou, Corporal Greg
+  Castillo, Officer Jeremiah Hotchner, Officer Daniel Indries. Officers subdue
+  an erratic man who's convinced that a wild animal is following him.
+- (Fontana, CA -- 7:21 PM Possible Suicide Attempt) Officer Louis Ortiz, Sgt.
+  Tracy Dills, Officer Martin Diaz. A birthday celebration quickly goes south
+  when guns get involved.
+- (Pasco County, FL -- 6:51 PM Domestic Disturbance Call) District 1. FTO
+  William Duncan, Deputy Lincoln Lewis. Deputies help break up a volatile
+  domestic situation.
 
 ### S30E22
 
@@ -21603,9 +21706,15 @@ Aired 2017-11-13.
 
 "Fake Cash and Whiplash"
 
-- (5:56 PM Stolen Vehicle) A quiet neighborhood turns into the scene of a dangerous multi-vehicle pursuit. TODO: Add other officers.
-- TODO. A man down on his luck tries to hide his guilt by ditching some clothes.
-- TODO. Fists go flying when a shopkeeper confronts a man who ripped him off.
+- (Fontana, CA -- 5:56 PM Stolen Vehicle) Corporal Justin Laing, Officer Willie
+  Bermudez, Officer Chris Gonzales. A quiet neighborhood turns into the scene
+  of a dangerous multi-vehicle pursuit.
+- (Glendale, AZ -- 3:56 PM Shoplifting Call) Foothills Station. Officer
+  Mitchell Jones, Officer Darrin Atkins. A man down on his luck tries to hide
+  his guilt by ditching some clothes.
+- (Wichita, KS -- 7:13 PM Fight In Progress) Patrol South. Officer Jamie
+  Schepis, Deputy Jacki Cinotto (Sedgwick County Sheriff's Office). Fists go
+  flying when a shopkeeper confronts a man who ripped him off.
 
 ### S30E23
 
@@ -21613,9 +21722,15 @@ Aired 2018-01-22.
 
 "Just Desserts"
 
-- A suspect leaves his uneaten parfait behind after police find more than treats in his pocket. TODO: Add other officers.
-- TODO. An armed driver tells officers a far-fetched story to justify his weapon.
-- TODO. A heated back and forth ends with a call to animal control.
+- (Glendale, AZ -- 7:52 PM Pedestrian Check) Foothills Station. Officer Donald
+  Vos, Sgt. Nedd Wilkens. A suspect leaves his uneaten parfait behind after
+  police find more than treats in his pocket.
+- (Fontana, CA -- 10:57 PM Suspicious Person With A Gun) Officer Travis
+  Burnside, K-9 Officer Casey Mutter, FTO Nelson Romero. An armed driver tells
+  officers a far-fetched story to justify his weapon.
+- (Nye County, NV -- 6:16 PM Traffic Stop) South Area Command. Sgt. David
+  Boruchowitz, Deputy Monique Mendoza. A heated back and forth ends with a call
+  to animal control.
 
 ### S30E24
 
@@ -21623,9 +21738,14 @@ Aired 2018-01-29.
 
 "Late Night Shopper"
 
-- A vigilant neighbor calls the cops when he sees the downstairs liquor store being robbed. TODO: Add other officers.
-- TODO. A driver burns bridges with a new friend after he steals her truck.
-- TODO. Deputies urge a young man to be a better role model for his brother.
+- (Lawrence, KS -- 10:58 PM Burglary In Progress) Headquarters. Officer Tracy
+  Russell. A vigilant neighbor calls the cops when he sees the downstairs
+  liquor store being robbed.
+- (Lawrence, KS -- 12:04 AM Vehicle Pursuit) Headquarters. Officer John Pien,
+  Officer Brandon Sharp (Eudora Police Department). A driver burns bridges
+  with a new friend after he steals her truck.
+- (Adams County, CO -- 11:49 PM Traffic Stop) West District. FTO Travis Wilson.
+  Deputies urge a young man to be a better role model for his brother.
 
 ### S30E25
 
@@ -21633,9 +21753,15 @@ Aired 2018-02-05.
 
 "Hug It Out"
 
-- Officers pursue a wanted man and prevent a potentially deadly home invasion. TODO: Add other officers.
-- TODO. A tense passenger starts mouthing off before deputies can get a word in.
-- TODO. Police search for a teen's stolen bike and find a man at the end of his rope.
+- (Glendale, AZ -- 9:01 AM Suspected Felon) Neighborhood Response Squad.
+  Officer Matt Schneider, Officer Mark Lindsey. Officers pursue a wanted man
+  and prevent a potentially deadly home invasion.
+- (Sedgwick County, KS -- 7:29 AM Traffic Stop) Deputy Jacki Cinotto, Officer
+  Chris Shields (Park City Police Department). A tense passenger starts
+  mouthing off before deputies can get a word in.
+- (Stockton, CA -- 3:31 PM Robbery Call) Strategic Community Officers. Officer
+  Ralph Dominguez, Officer Doug Sheldon. Police search for a teen's stolen bike
+  and find a man at the end of his rope.
 
 ### S30E26
 
@@ -21643,17 +21769,29 @@ Aired 2018-02-12.
 
 "The Running Man"
 
-- A half-naked cyclist takes officers on a frantic run through the neighborhood. TODO: Add other officers.
-- TODO. A suspicious man makes a series of wrong moves in front of his girlfriend.
-- TODO. Things get weird when police find a woman hiding in a cupboard.
+- (Lawrence, KS -- 11:13 PM Suspicious Person) Headquarters. Officer Tracy
+  Russell. A half-naked cyclist takes officers on a frantic run through the
+  neighborhood.
+- (Adams County, CO -- 8:58 PM Suspicious Vehicle) West District. FTO Travis
+  Wilson. A suspicious man makes a series of wrong moves in front of his
+  girlfriend.
+- (Wichita, KS -- 2:24 AM Suspicious Person) Patrol West. Officer Josh Price,
+  Officer Nick Halls. Things get weird when police find a woman hiding in a
+  cupboard.
 
 ### S30E27
 
 "Whose Gun Is It Anyways?"
 
-- An out-of-control driver wants to get back home for a birthday party TODO: Add other officers.
-- TODO. A man with big dreams has a hard time telling officers why his fingerprints appear on a gun
-- TODO. A trip to buy dog food turns into a run-in with the police.
+- (Adams County, CO -- 1:26 AM Vehicle Pursuit) West District. Deputy Randy
+  Rael, Senior Deputy Nathan Miller. An out-of-control driver wants to get back
+  home for a birthday party.
+- (Wichita, KS -- 11:10 PM Suspicious Vehicle) Patrol South. Officer Katherine
+  Goebel, Officer Aaron Moses, Officer Robert Wise, Officer Cory Masterson,
+  Sgt. Kevin Kochenderfer. A man with big dreams has a hard time telling
+  officers why his fingerprints appear on a gun
+- (Wichita, KS -- 3:23 AM Stolen Vehicle) Patrol South. Officer Kyle Miller,
+  Sgt. Matt Lang. A trip to buy dog food turns into a run-in with the police.
 
 ### S30E28
 
@@ -21661,9 +21799,14 @@ Aired 2018-04-16.
 
 "Bad Eggs"
 
-- Officers wear down their brakes when a daring driver takes them on a wild ride. TODO: Add other officers.
-- TODO. A chicken breeder has a shady explanation for the items discovered in his car.
-- TODO. A trigger-happy man has trouble owning up to his mistakes.
+- (Stockton, CA -- 3:16 PM Vehicle Pursuit) Community Response Team. Officer
+  Cooper Mauldin, Officer Miguel Morales, Officer Kyle Ribera. Officers wear
+  down their brakes when a daring driver takes them on a wild ride.
+- (Lafayette, LA -- 4:51 PM Traffic Stop) Crime Suppression Unit. Corporal Bart
+  Ryder, Corporal Dustin Lavergne, Corporal Beau Guidry. A chicken breeder has
+  a shady explanation for the items discovered in his car.
+- (Las Vegas, NV -- 4:44 PM Man With A Gun) Southeast Area Command. Officer
+  Sean Pascoe. A trigger-happy man has trouble owning up to his mistakes.
 
 ### S30E29
 
@@ -21671,17 +21814,28 @@ Aired 2018-04-23.
 
 "Sleight of Hand"
 
-- A DUI suspect makes some bad choices when he ventures out for a late-night snack. TODO: Add other officers.
-- TODO. A squabbling couple brings each other down once police start asking questions.
-- TODO. Cops pull over a man who's convinced his passenger set him up.
+- (Spokane County, WA -- 1:48 AM Vehicle Pursuit) District 13. Deputy Andrew
+  Hairson, Sgt. Jeff Shover. A DUI suspect makes some bad choices when he
+  ventures out for a late-night snack.
+- (Sedgwick County, KS -- 9:41 PM Suspicious Vehicle) Deputy Jarred Bliss,
+  Officer Katherine Goebel (Wichita Police Department). A squabbling couple
+  brings each other down once police start asking questions.
+- (Wichita, KS -- 1:30 AM Stolen Moped) Patrol South. Officer Kyle Miller,
+  Officer Cory Masterson. Cops pull over a man who's convinced his passenger
+  set him up.
 
 ### S30E30
 
 "Change of Heart"
 
-- Officers step in when a man tries to start a fight with everyone in his neighborhood TODO: Add other officers.
-- TODO. A wanted suspect is convinced police told him to take off on his bike
-- TODO. A young, troubled mom gets a second chance to turn her life around.
+- (Fontana, CA -- 11:07 PM Fight Call) Officer Louis Ortiz, Officer Katie
+  Beebe. Officers step in when a man tries to start a fight with everyone in
+  his neighborhood.
+- (Portland, OR -- 4:01 AM Suspect With Warrant) Central Precinct. Officer
+  William Green, Officer Robert Bender. A wanted suspect is convinced police
+  told him to take off on his bike
+- (Colton, CA -- 12:18 AM Traffic Stop) Officer Joshua Hixson, Officer Eric
+  Wickman. A young, troubled mom gets a second chance to turn her life around.
 
 ### S30E31
 
@@ -21689,9 +21843,15 @@ Aired 2018-05-07.
 
 "Kiss and Make Up"
 
-- A motorcyclist leads officers on a chase down city streets. TODO: Add other officers.
-- TODO. Even a dead car battery doesn't stop a grieving man from eluding the police.
-- TODO. A jumpy driver fails to avoid the cops and gives an awkward apology to his girlfriend.
+- (Fontana, CA -- 9:13 PM Traffic Stop) Officer Joshua MacMillan, Officer
+  Shannon Vanderkallen, Corporal Kyle Guthrie. A motorcyclist leads officers on
+  a chase down city streets.
+- (Lafayette, LA -- 11:25 PM Vehicle Pursuit) Precinct 1. Corporal Michael
+  Milazzo, Corporal Asher Reaux. Even a dead car battery doesn't stop a
+  grieving man from eluding the police.
+- (Spokane County, WA -- 10:44 PM Suspicious Vehicle) District 13. Deputy
+  Andrew Hairson, Deputy Stanislav Kravtsov. A jumpy driver fails to avoid the
+  cops and gives an awkward apology to his girlfriend.
 
 ### S30E32
 
@@ -21699,9 +21859,15 @@ Aired 2018-05-14.
 
 "Cheek to Cheek"
 
-- A traffic stop takes an unexpected turn when the suspect decides to go off-roading. TODO: Add other officers.
-- TODO. A woman refuses to cover for her son's friend.
-- TODO. Security cameras catch a man trying to conceal some items in a not-so-nice hiding place.
+- (Adams County, CO -- 6:44 PM Vehicle Pursuit) West District. FTO Travis
+  Wilson. A traffic stop takes an unexpected turn when the suspect decides to
+  go off-roading.
+- (Wichita, KS -- 5:08 PM Wanted Person) Patrol West. Officer Benjamin
+  Vantleven, Officer Thomas Wallace. A woman refuses to cover for her son's
+  friend.
+- (Stockton, CA -- 3:52 PM Suspicious Activity) Strategic Community Officers.
+  Officer Kevin Hachler, Officer Conner Nelson. Security cameras catch a man
+  trying to conceal some items in a not-so-nice hiding place.
 
 ### S30E33
 
@@ -21709,9 +21875,16 @@ Aired 2018-05-21.
 
 "Up in Smoke"
 
-- A desperate man's last-ditch effort to flee from officers goes down in flames. TODO: Add other officers.
-- TODO. Multiple units work together to diffuse a dangerous situation.
-- TODO. Deputies keep an eye on a custody battle that involves some expensive groceries.
+- (Muskogee, OK -- 11:34 PM Vehicle Pursuit) Officer James Hamlin, Officer
+  Bryan Wilkins, Officer Brandon Bycroft. A desperate man's last-ditch effort
+  to flee from officers goes down in flames.
+- (Sedgwick County, KS -- 2:18 AM Vehicle Pursuit) Deputy Jarred Bliss, Officer
+  Jamie Schepis (Wichita Police Department), Trooper Jeffrey Lockhart (Kansas
+  Highway Patrol). Multiple units work together to diffuse a dangerous
+  situation.
+- (Pierce County, WA -- 9:15 PM Disturbance Call) South Hill Precinct. Deputy
+  Brent Johnson, Deputy Wes Jarvis. Deputies keep an eye on a custody battle
+  that involves some expensive groceries.
 
 ## Season 31
 
@@ -21721,7 +21894,12 @@ Network: Paramount.
 
 ### S31E01
 
-TODO
+- (Wichita, KS -- 1:13 AM Traffic Stop) Patrol South. Officer Kyle Miller,
+  Officer Cory Masterson.
+- (Muskogee, OK -- 9:46 PM 911 Hang-up) Sgt. Jarad Forbes, Officer Bryan
+  Wilkins.
+- (Spokane County, WA -- 10:33 PM Arson Call) Spokane Valley City. Deputy Chad
+  Eaton, Deputy Samuel Turner.
 
 ### S31E02
 
