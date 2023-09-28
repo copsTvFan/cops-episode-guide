@@ -10342,7 +10342,7 @@ Aired 1998-02-28.
   water right back to the spot in the building he took it from.
 - (Kansas City, KS -- 9:11 PM Domestic Disturbance Call) Central Patrol
   Division. Officer Darren Koberlein arrests a Spanish man who was locked in
-  the attic after beating a woman. Featuring Officer Kinard Hylton
+  the attic after beating a woman (Lorena). Featuring Officer Kinard Hylton
   (uncredited).
 
 ### CP-1021
