@@ -12968,10 +12968,10 @@ Aired 2001-09-01.
 
 **Palm Beach County, FL 19**
 
-- (4:53 AM Burglary in Progress) District 1 -- 911 Communications Center -- A
-  black woman calls saying she is watching two men breaking into cars and
-  stealing the stereos at her apartment complex. Deputy Gerard Morency takes
-  the call.
+- (4:53 AM Burglary in Progress) (changed to "4:53 PM Burglary in Progress" on
+  Pluto) District 1 -- 911 Communications Center -- A black woman calls saying
+  she is watching two men breaking into cars and stealing the stereos at her
+  apartment complex. Deputy Gerard Morency takes the call.
 - An officer responds to a burglary in progress
 - a suspect refuses to present identification.
 
