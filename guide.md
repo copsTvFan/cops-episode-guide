@@ -22575,9 +22575,9 @@ Aired 2023-05-05.
 
 ### S35E06
 
-**"Panic Room"**
-
 Aired 2023-05-12.
+
+**"Panic Room"**
 
 - (Escambia County, FL -- 5:14 PM Burglary In Progress) Precinct 4. Deputy
   Bradley Foster, K-9 Deputy Matthew Housam, Sgt. Chase Horne, Sgt. Grant
@@ -22622,24 +22622,227 @@ Aired 2023-05-26.
 
 ### S35E09
 
+Aired 2023-06-02.
+
+**Puppy Luck**
+
 TODO
+
+- Mistrust proves toxic after a dispute over slot machines ends in
+  recriminations and threats.
+- A puppy is the magic charm after officers have a heart to heart with
+  individuals who've hit a rough patch.
 
 ### S35E10
 
+Aired 2023-06-09.
+
+**Hauling a Heater**
+
 TODO
 
+- Lies can't hide the truth when a stolen U-Haul is seized during a felony traffic stop.
+- A suspect with his pants down has no hiding places for his alleged meth pipe.
+
 ### S35E11
+
+Aired 2023-06-16.
+
+**2 Flats Don't Make A Right**
+
+- A suspect forgets to drive away after breaking into a used car lot.
+- A dispute over money ends in felony vandalism.
+- The truth can be fleeting when suspects are found with narcotics and tall
+  tales.
 
 TODO
 
 ### S35E12
 
+Aired 2023-06-23.
+
+**Lost Love Machine**
+
 TODO
+
+- A man blocking a motel parking lot with his truck decides to run from
+  Escambia County Deputies on foot, leaving behind meth in his vehicle.
+- Riverside, CA Police patrol an area behind a business to deter criminal
+  activity and locate a man waiting for a friend beside a stolen motorcycle.
+- When a car hits a curb and pops a tire during a traffic stop in Las Vegas,
+  the Officer helps the food delivery driver change the tire and return to
+  work.
 
 ### S35E13
 
+Aired 2023-06-30.
+
+**Red Flag**
+
 TODO
+
+- Deputies in Escambia County chase a would-be car thief who jumped into a
+  pregnant woman's car and asked her for a cigarette.
+- Riverside, CA Police detain a man who claims he bought a truck with a punched
+  ignition for cash and gave it a rattle can paint job but didn't know it was
+  stolen.
+- A Lieutenant in Nye County, NV makes contact with three people who are living
+  in a broken-down RV on a vacant desert lot despite being previously
+  trespassed.
 
 ### S35E14
 
+Aired 2023-07-07.
+
+**Burner Boy**
+
 TODO
+
+- Deputies in Riverside County, CA are dispatched when a suspicious man
+  threatens security guards with a "burner" gun and refuses to leave an empty parking
+  lot.
+- Las Vegas Police investigate when a man reports his girlfriend for biting his
+  head during an argument, causing him to pass out.
+- When a baggie of meth is tossed from a truck, a Santa Rosa County Deputy must
+  determine which of the three occupants threw the narcotics, or all of them
+  will be charged with possession.
+
+### S35E15
+
+Aired 2023-10-06.
+
+**No Luck Nephew**
+
+TODO
+
+- An unsuspecting Uncle finds his nephew has been hiding all kinds of secrets during a traffic stop.
+- Police respond to a domestic dispute as past lovers find their old wounds have yet to heal.
+
+### S35E16
+
+Aired 2023-10-06.
+
+**She Methed Up**
+
+TODO
+
+- Meth and alcohol cloud accusations between husband and wife while officers determine who's telling the truth.
+- A woman accused of drug possession states heroin is the only thing that can heal her pain.
+
+### S35E17
+
+Aired 2023-10-06.
+
+**Fire Hot Deputy**
+
+TODO
+
+- Deputies race against time to save a young boy who is trapped inside a house fire.
+- An intoxicated patron demands a beer on credit and argues with a store clerk.
+- An older woman struggles with heroin.
+
+### S35E18
+
+Aired 2023-10-06.
+
+**Hide and Cry**
+
+TODO
+
+- A motorcycle with no license plate crashes while fleeing from Deputies.
+- A woman driving a car with no windshield blames her ex-boyfriend.
+- A gun is found hidden in a seat during a traffic stop.
+
+### S35E19
+
+Aired 2023-10-13.
+
+**Cut Throat**
+
+- (Lee County, FL -- 11:40 PM Stabbing Call) North District. Deputy Phillip
+  Sin, Deputy First Class Jacob McConnell, Deputy Sean Stahl. A stabbing victim
+  has his throat slashed while waiting for his wife.
+- (Las Vegas, NV -- 9:52 PM Stolen Vehicle) Downtown Area Command. PO II LaRon
+  Cooke, Sgt. Zack Hammond, PO II Robert Winberg. A man is shocked to learn
+  that his rental box truck was reported stolen.
+- (Hillsborough County, FL -- 11:30 PM Traffic Stop) District 2. Deputy Jessica
+  Pinto, Deputy Brianna Little, Deputy Suraj Montoute. Spice is found in a
+  nervous passenger's (Amber's) purse.
+
+### S35E20
+
+**Bus Stop Bandits**
+
+Aired 2023-10-20.
+
+- (Las Vegas, NV -- 7:56 PM Person With A Gun Call) Northeast Area Command. PO
+  II Ashley Fesler, Officer Korden Johnson, PO II Mark Sayas, Sgt. Brian Rich,
+  K-9 Officer Joseph Sarpong, PO II Rafael Camacho. Officers spot two suspects
+  on a city bus and a prolonged standoff occurs.
+- (Lee County, FL -- 11:23 AM Wanted Person) North District. Deputy First Class
+  Alexandria Davis, Lt. John Greene, Deputy First Class Tiffany Dorsey. A
+  wanted man's friends lie to Deputies about his whereabouts.
+- (Hillsborough County, FL -- 8:49 PM Area Check) District 5 Street Crimes.
+  Deputy Cory Claridy and Deputy William Barnes find meth in a one-armed man's
+  truck.
+
+### S35E21
+
+Aired 2023-10-27.
+
+**Traveling Taker**
+
+- (Lee County, FL -- 8:17 PM Stolen Vehicle) East District. Deputy Gabe Hollow,
+  K-9 Deputy Mike Hollow. A stolen car and its occupants roll into a canal and
+  are fished out by Deputies.
+- (Kern County, CA -- 11:30 AM Stolen Vehicle Call) Metro Patrol. Deputy Jose
+  Gamboa, Deputy Hector Garcia. A shoplifting trio is caught with stolen goods.
+- (Hillsborough County, FL -- 10:11 PM Traffic Stop) District 2. Deputy Suraj
+  Montoute, Deputy Jessica Pinto. A trip to the mechanic ends in the arrest of
+  Amy from Alabama.
+
+### S35E22
+
+Aired 2023-11-03.
+
+**Papa Don't Stop**
+
+- (Adams County, CO -- 9:23 PM Vehicle Pursuit) District 1. Deputy John
+  Ninneman. A car chase ends when a driver foot bails at a restaurant.
+- (Hillsborough County, FL -- 10:13 PM Traffic Stop) District 5 Street Crimes.
+  Deputy Cory Claridy, K-9 Deputy Sarah Ernstes, Deputy William Barnes. A
+  nervous female driver blows smoke at Deputies and refuses to exit her truck.
+- (Las Vegas, NV -- 8:09 PM Domestic Battery Call) Northeast Area Command. PO
+  II Rashaud Taylor. A domestic violence suspect talks in circles when
+  questioned.
+
+### S35E23
+
+Aired 2023-11-10.
+
+**Not Meant For the Streets**
+
+- (Las Vegas, NV -- 10:32 PM Suspicious Vehicle) Bolden Power Squad. PO II
+  Blake Pfiffner, FTO Justin Johnson, PO II TJ  Hickman. A disgruntled man is
+  tased, leaving his unhoused wife to fend for herself.
+- (Anderson County, SC -- 10:26 PM Traffic Stop) Main Station. Master Deputy
+  Chris Sellars, Master Deputy Cory Barnes. A sovereign citizen is arrested for
+  a stolen firearm.
+- (Riverside County, CA -- 3:07 PM Traffic Stop) Perris Station. Deputy Dorien
+  Hardie. A man in possession of meth claims a bag belongs to his girlfriend.
+
+### S35E24
+
+Aired 2023-11-17.
+
+**5 Finger Discount Moped**
+
+- (Anderson County, SC -- 7:25 PM Traffic Stop) Master Deputy Mike Thompson,
+  Deputy J. Newton. A man caught with a stolen moped attempts to run while
+  handcuffed.
+- (Kansas City, KS -- 6:40 PM Suspicious Person) South Patrol Division.
+  Patrolman Thomas Leerar, Patrolman Landon Cross, FTO Collin Ward. Police find
+  a man with his pants down behind a business.
+- (Mohave County, AZ -- 11:08 AM Suspicious Vehicle) District 1. Deputy Robert
+  Tapia, Deputy Jean Guindon. A suspect (Howard) found asleep in his poorly
+  parked car complains of sciatic pain.
