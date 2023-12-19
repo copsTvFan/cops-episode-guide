@@ -7942,7 +7942,7 @@ Aired 1994-08-06.
 
 **Los Angeles, CA 18**
 
-- (8:17 PM Drive By Shooting) Officer Tammy Waters calls the pursuit going
+- (8:17 PM Drive-by Shooting) Officer Tammy Waters calls the pursuit going
   southbound on Lincoln after a white van. Pacific Area -- The van rounds a
   corner and the suspects run off on Glen Cove. Officer Jeffrey Ennis chases
   the Mexican driver through and apartment complex. Air support is called in
@@ -12580,7 +12580,7 @@ Aired 2001-02-10.
 
 ### CP-1329
 
-Aired 2001-02-17.
+Aired 2001-02-10 or 2001-02-17.
 
 **New Jersey 8**
 
@@ -12590,11 +12590,14 @@ Aired 2001-02-17.
   entire night. His partner Officer Rich Romanski enjoys making peoples lives a
   little bit better, getting bad people off the street, even though they don't
   stay off long. He enjoys the people he works with. They arrest a young
-  suspect who attempted to dispose of some drugs during a foot chase. Then they
-  question a suspect whom the officers believe was using drugs inside her
-  vehicle.
-- Officers Mike and Ron Babiak help rescue a woman being held at knifepoint
-  inside a suspect's apartment.
+  suspect who attempted to dispose of some drugs during a foot chase. Then
+- (Jersey City, NJ -- 8:55 PM Traffic Stop) Officer Kevin Kot, Officer Rich
+  Romanski.They question a suspect whom the officers believe was using drugs
+  inside her vehicle.
+- (Jersey City, NJ -- 8:43 PM Hostage Call) Emergency Service Unit. Officers
+  Mike Babiak and Ron Babiak help rescue a woman being held at knifepoint
+  inside a suspect's apartment. Featuring Sgt. Richard Musso and Sgt. Thomas
+  Walker.
 
 ### CP-1330
 
