@@ -21466,7 +21466,7 @@ Aired 2017-07-22.
 
 - (Grand Prairie, TX -- 2:56 AM Wanted Person) South Sector. Officer Brad
   Makovy. With officers hot on his trail, a wanted suspect's world comes
-  crashing down 
+  crashing down
 - (Pinellas County, FL -- 9:28 PM 911 Hang-up) Central District. Deputy Tiffany
   Ashcom, Corporal Ben Chieco, Sgt. Howard Skaggs. A tearful woman calls
   deputies to help apprehend her hostile husband.
@@ -21652,7 +21652,7 @@ Aired 2017-10-02.
 - (Stockton, CA -- 2:57 PM Traffic Stop) Officer Johnathan Wright, Officer Greg
   McClain. Officers catch a PTA dad setting a bad example.
 - (Stockton, CA -- 12:21 PM Stolen Vehicle) Strategic Community Officers.
-  Officer Ralph Dominguez, Officer Doug Sheldon, A woman with a checkered past
+  Officer Ralph Dominguez, Officer Doug Sheldon. A woman with a checkered past
   has a hard time turning over a new leaf.
 
 ### S30E18
@@ -21912,138 +21912,416 @@ Network: Paramount.
 
 ### S31E01
 
+Aired 2018-06-05.
+
+**Feel The Heat**
+
 - (Wichita, KS -- 1:13 AM Traffic Stop) Patrol South. Officer Kyle Miller,
-  Officer Cory Masterson.
+  Officer Cory Masterson. A fishy license plate helps officers prevent a possible
+  burglary.
 - (Muskogee, OK -- 9:46 PM 911 Hang-up) Sgt. Jarad Forbes, Officer Bryan
-  Wilkins.
+  Wilkins. Police arrive just in time when a case of unrequited love turns
+  unhappy.
 - (Spokane County, WA -- 10:33 PM Arson Call) Spokane Valley City. Deputy Chad
-  Eaton, Deputy Samuel Turner.
+  Eaton, Deputy Samuel Turner. Deputies are surprised by a suspected arsonist's
+  choice of attire, or lack thereof.
 
 ### S31E02
+
+Aired 2018-06-12.
+
+**Going Nowhere Fast**
+
+- A clueless suspect's lies fall apart when his victim comes forward with
+  security footage.
+- Fear gets the best of a driver when he tries to make a not-so-clean getaway.
+- A late-night trip to the convenience store ends in tears.
 
 TODO
 
 ### S31E03
 
+Aired 2018-06-19.
+
+**Keys to Success**
+
+- A feud between brothers escalates when someone pulls out a gun.
+- A man won't stay away from his ex-girlfriend despite being under a court
+  order.
+- Officers have a heart-to-heart with a woman who wants to take control of her
+  life.
+
 TODO
 
 ### S31E04
+
+Aired 2018-06-19.
+
+**In Denial**
+
+- In a matter of seconds, officers go from arresting a suspect to saving his life.
+- An unhappy husband reacts badly when his wife uncovers his internet history.
+- A man's hostile behavior alienates and hurts everyone around him.
 
 TODO
 
 ### S31E05
 
+Aired 2018-06-19.
+
+**Bathroom Blitz**
+
+- A stubborn suspect prolongs the inevitable when he bargains from a rooftop.
+- Chaos ensues when a nightclub manager confronts the employee who stole his cash.
+- A talkative man insists he meant to get arrested.
+
 TODO
 
 ### S31E06
+
+Aired 2018-06-19.
+
+**The Facts of Life**
+
+- A night of watching football with the family descends into a full-blown fight.
+- A notorious shoplifter wears out officers' goodwill when he's found with some stolen goods.
+- A middle-aged suspect admits he can't escape the streets.
 
 TODO
 
 ### S31E07
 
+Aired 2018-06-26.
+
+**Three's Company**
+
+- A regular suspect can't convince deputies that he had a good reason to run.
+- A married couple's nosy roommate holds them back from kicking their bad habits.
+- Neighbors witness a husband and wife fight over their infant son.
+
 TODO
 
 ### S31E08
+
+Aired 2018-07-03.
+
+**Out The Window**
+
+- A kitchen fire rapidly engulfs a house and traps one man on the top floor.
+- A surprisingly calm runaway driver confuses officers when he blames his actions on nerves.
+- A quiet suspect asks police to go easy on him.
 
 TODO
 
 ### S31E09
 
+Aired 2018-07-10.
+
+**Burning Rubber**
+
+- A fleeing vehicle leads an officer on a hot pursuit.
+- A deputy encounters a nervous driver with a big secret.
+- A young cyclist tries to make a quick getaway.
+
 TODO
 
 ### S31E10
+
+Aired 2018-07-17.
+
+**Breaking the Cycle**
+
+- An innocent man is startled when a runaway motorcyclist crashes into his trailer.
+- A stubborn suspect plays dumb when deputies confront him with the truth.
+- Officers are disappointed when they run into a repeat lawbreaker.
 
 TODO
 
 ### S31E11
 
+Aired 2018-07-24.
+
+**Get A Bus Pass**
+
+- An impulsive teenager can't stomach the magnitude of his mistake.
+- One woman learns a lesson in not accepting rides from strangers.
+- Marital issues spiral out of control when a husband picks his wife up from jail.
+
 TODO
 
 ### S31E12
+
+Aired 2019-01-08.
+
+**Slow and Low**
+
+- A sluggish suspect gives up when he realizes he can't outrun the law.
+- Officers try to piece together the events of a wild fight between neighbors.
+- A vengeful man's plan to extort money from his ex-girlfriend goes awry.
 
 TODO
 
 ### S31E13
 
+Aired 2019-01-08.
+
+**Wheeling and Stealing**
+
+- Police pursue a driver and his wife in a high-speed chase.
+- A paranoid man vandalizes his roommate's car.
+- A shoplifter can't keep her story straight.
+
 TODO
 
 ### S31E14
+
+Aired 2019-01-15.
+
+**Perfect Strangers**
+
+- A man apologizes profusely after leading an officer on a foot chase.
+- A passenger in a car chase tells conflicting tales.
+- Police find a wanted man on a roof.
 
 TODO
 
 ### S31E15
 
+Aired 2019-01-15.
+
+**In Plain Sight**
+
+- A cyclist leads officers on a low-speed chase.
+- A motorist who led police on a dangerous chase feigns ignorance.
+- A couple's date ends with a totaled car.
+
 TODO
 
 ### S31E16
+
+Aired 2019-01-29.
+
+**Cooking Up Trouble**
+
+- Police turn to forensic analysis when two suspects won't take ownership of a sketchy pack of smokes.
+- Dinner is ruined after one roommate lets his fists fly.
+- A recent divorcee stands his ground when he thinks he's being set up.
 
 TODO
 
 ### S31E17
 
+Aired 2019-01-29.
+
+**Coming Clean**
+
+- A distraught man wants to confront his wife over her bold accusations.
+- Officers are baffled when a suspect has an elaborate explanation for his belongings.
+- A dishonest driver gets caught in multiple lies.
+
 TODO
 
 ### S31E18
+
+Aired 2019-02-05.
+
+**Manicure for a Broken Heart**
+
+- A masked suspect lashes out in fear when deputies discover his outstanding warrant.
+- An eccentric woman commits a traffic violation on her way to the nail salon.
+- A physical altercation marks the end of a strained relationship.
 
 TODO
 
 ### S31E19
 
+Aired 2019-02-12.
+
+**What's My Age Again?**
+
+- Police work through a high-risk situation and turn it into a valuable teaching moment.
+- An oblivious suspect tries to make some money by ripping off two detectives.
+- A driver's inability to do simple math lands her in hot water.
+
 TODO
 
 ### S31E20
+
+Aired 2019-02-26.
+
+**Not in My Back Yard**
+
+- Police arrest an uncooperative man with an outstanding warrant.
+- Police discover marijuana paraphernalia during a traffic stop.
+- Police investigate a dispute involving a pellet gun.
 
 TODO
 
 ### S31E21
 
+Aired 2019-03-05.
+
+**Formula for Disaster**
+
+- A mouthy passenger keeps everyone on their toes during a routine traffic stop.
+- Deputies track down a shoplifter that deals exclusively in baby products.
+- A distressed boyfriend can't take any more of his volatile relationship.
+
 TODO
 
 ### S31E22
+
+Aired 2019-03-12.
+
+**Baby Driver**
+
+- Deputies are shocked when they find a hit-and-run driver's kid in the backseat.
+- A shoplifting call leads officers to one mad woman and some unsavory items.
+- A fed-up man calls the cops when his stepson starts acting erratically.
 
 TODO
 
 ### S31E23
 
+Aired 2019-03-19.
+
+**Little White Lies**
+
+- A man tries to jump out of a car when his friend takes him on a high-speed chase.
+- A naive man puts himself in danger when he tries to make a quick buck.
+- A deputy investigates a familiar man he finds walking down a dark road.
+
 TODO
 
 ### S31E24
+
+Aired 2019-03-19.
+
+**Under My Thumb**
+
+- A wanted felon makes a brazen attempt to outsmart and outrun deputies.
+- Undercover officers conduct a sting in an area known for prostitution.
+- A domestic dispute between cousins goes too far when someone pulls out a knife.
 
 TODO
 
 ### S31E25
 
+Aired 2019-03-26.
+
+**Carry a Big Stick**
+
+- A unhappy man who threatened his neighbors redirects his anger toward deputies.
+- One suspect vehemently blames his friend for the items found in his pants.
+- A driver in crisis gambles with everyone's lives, including his own.
+
 TODO
 
 ### S31E26
+
+Aired 2019-04-02.
+
+**Sugar and Spice**
+
+- A traffic stop takes a surprising turn when a suspect creates a spur-of-the-moment diversion.
+- A man refuses to give his real name, but officers find a hint in plain sight.
+- A soft-spoken driver has difficulty being upfront.
 
 TODO
 
 ### S31E27
 
+Aired 2019-04-09.
+
+**A Woman Corned**
+
+- A wanted female gives deputies a fake name, but her brother accidentally reveals the truth.
+- Canned vegetables go flying during a fight between roommates.
+- Two officers help a couple understand that honesty is the best policy.
+
 TODO
 
 ### S31E28
 
-TODO
+Aired 2019-04-16.
+
+**Glazed and Confused**
+
+- (Santa Rosa, CA -- 11:46 PM Bicycle Stop) Field Services Division. Detective
+  Jason Jucutan, Detective Matthew White, Sgt. Steve Pehlke. A defiant cyclist
+  recalls a different version of the events leading up to his arrest.
+- (Montgomery County, TX -- 2:33 AM Domestic Violence Call) District 4. Deputy
+  Tony Madison, Sgt. Rudy Almendarez, Deputy Savannah Wroski. Deputies respond
+  to a disturbance involving a belligerent man and barbecue sauce
+- (Wichita, KS -- 8:26 PM Vehicle Pursuit) Patrol North. Officer Jordan Edison.
+  A slow-speed chase ends at the driver's girlfriend's house.
 
 ### S31E29
 
-TODO
+Aired 2019-04-23.
+
+**The Telltale Voicemail**
+
+- (Alameda County, CA -- 7:33 PM Vehicle Pursuit In Progress) Special Duty
+  Unit. Deputy Moises Gomez, Deputy Alberto Holmes, Lt. Michael Gallardo. A
+  runaway ATV driver surprises deputies when he charges straight at them.
+- (Santa Rosa County, FL -- 4:49 PM Traffic Stop) District 4. Deputy Chad
+  Floyd. The tears start flowing when a jumpy woman is caught ditching
+  evidence.
+- (Santa Rosa County, FL -- 6:12 PM Disturbance Call) District 4. Lt. Nathan D.
+  Hall, Deputy Joshua Carlson. An assault suspect gets a rude awakening when a
+  voicemail proves him guilty.
 
 ### S31E30
 
-TODO
+Aired 2019-04-30.
+
+**Triple Threat**
+
+- (Alameda County, CA -- 1:59 PM Suspicious Vehicle) Transit Crimes Unit.
+  Detective Mathew Neill, Sgt. Robert Evans, Deputy Leendert Verburg. In a
+  desperate bid to avoid jail, a wanted man sprints across multiple lanes of
+  traffic.
+- (Escambia County, FL -- 4:36 PM Disturbance Call) Precinct 4. Deputy Emilee
+  Bright. A heated argument is taken to the next level when a woman starts
+  smashing windows.
+- (Boise, ID -- 5:43 PM Aggravated Assault Call) City Hall West. Officer
+  Clifton Snodderly, Corporal Tim Beaudoin, Detective Joe Kane. A
+  short-tempered driver takes his road rage way too far.
 
 ### S31E31
+
+Aired 2019-05-07.
+
+**Lost and Found**
+
+- Officers react quickly when a quiet passenger causes trouble during a traffic stop.
+- One family gets a happy ending when a deputy safely recovers their stolen puppy.
+- A struggling woman hits a speed bump on the road to recovery.
 
 TODO
 
 ### S31E32
 
+Aired 2019-05-14.
+
+**All in the Family**
+
+- A frantic fight between siblings ends with a stabbing.
+- Officers arrest a delirious man after he attacks his brother and neighbor.
+- Despite their no-contact order, police find a married couple hanging out in someone else's house.
+
 TODO
 
 ### S31E33
+
+Aired 2019-05-21.
+
+**Spinning Out**
+
+- The passenger of a fleeing vehicle manages to get away, but the driver isn't so lucky.
+- A runaway motorcyclist narrowly misses another car before wrecking out.
+- An eccentric woman accuses a man of trying to steal her hair.
 
 TODO
 
@@ -22055,133 +22333,397 @@ Network: Paramount.
 
 ### S32E01
 
+Aired 2019-06-04.
+
+**Tracks of My Tears**
+
+- Officers keep the lid on a traffic stop that takes a turn for the worse.
+- A paranoid uncle assaults his teenage nephew while searching for some lost items.
+- A woman on probation freaks out when she finds out what's in her car.
+
 TODO
 
 ### S32E02
+
+Aired 2019-06-11.
+
+**Ounce of Confidence**
+
+- A shop owner gets a big surprise when a runaway offender hides in her store.
+- Deputies pull over a moving van and find more than furniture in the back.
+- Police confront a woman about trespassing for the third time in a week.
 
 TODO
 
 ### S32E03
 
+Aired 2019-06-18.
+
+**Father Figure**
+
+- Everyone is on edge after a deranged man harasses his sister and her coworkers.
+- A driver plays innocent during a traffic stop, but his passengers call his bluff.
+- A man with a checkered past vows to do better by his young son.
+
 TODO
 
 ### S32E04
+
+Aired 2019-06-25.
+
+**Any Way You Slice It**
+
+- A young man turns on his crew after their night of joyriding gets cut short.
+- An unlucky pizza delivery driver flags down police after getting robbed.
+- Deputies identify a distinctive scent when they pull over a suspicious car.
 
 TODO
 
 ### S32E05
 
+Aired 2019-07-02.
+
+**Don't Fence Me In**
+
+- Deputies react quickly and nab a suspect with a penchant for identity theft.
+- Two women learn the value of keeping track of what's in their bags.
+- police help a high school student understand that his parents just want the best for him.
+
 TODO
 
 ### S32E06
+
+Aired 2019-07-09.
+
+**Truck Amok**
+
+- A man in cuffs tries to bet deputies that he can outrun them next time.
+- A teenager can't deny the evidence that places him at the scene of a robbery.
+- Sparks go flying when a trucker takes his whole family on a high-speed chase.
 
 TODO
 
 ### S32E07
 
+Aired 2019-07-16.
+
+**Mommy Loves You**
+
+- A protective mother tries to hide her daughter deputies... and consequences.
+- Police search for the key to a mysterious glove compartment.
+- A rideshare driver gets pulled over when her passenger raises deputies' suspicions.
+
 TODO
 
 ### S32E08
+
+Aired 2019-07-23.
+
+**Red in the Face**
+
+- Emotions run high after a mom with a warrant fails to elude deputies.
+- Police pull over a habitual traffic offender after they spot him behind the wheel.
+- Cops roll up to a reported fight and find evidence of a bloody argument.
 
 TODO
 
 ### S32E09
 
+Aired 2019-07-30.
+
+**Out of Breath**
+
+- A wanted burglary suspect exhausts himself after jumping too many fences.
+- Officers engage in a tense standoff with a felon who won't come out of his grandma's house.
+- Things go south for a man with a questionable-looking moped.
+
 TODO
 
 ### S32E10
+
+Aired 2019-08-06.
+
+**Front Seat Fumble**
+
+- A convenience store confrontation turns into a parking lot skirmish.
+- An uncoordinated car passenger attracts deputies' attention.
+- A suspicious man swears he peeked into a closed store because he wanted to read their menu.
 
 TODO
 
 ### S32E11
 
+Aired 2019-08-13.
+
+**Dash and Salt**
+
+- Nerves get the better of one woman when she tries to elude a deputy on a bike.
+- Deputies come to a decision after two animated exes tell their sides of the story.
+- A man's choice in seasonings raises a red flag for police.
+
 TODO
 
 ### S32E12
+
+Aired 2019-08-20.
+
+**Parental Guidance**
+
+- An unlucky family gets a rude awakening when a drunk driver crashes out in their driveway.
+- A suspended license doesn't stop a man from driving his dad home.
+- A car full of teens gets pulled over on their way to a movie.
 
 TODO
 
 ### S32E13
 
+Aired 2019-09-10.
+
+**Brush With Trouble**
+
+- Vehicles peel out of a parking lot when officers arrive to break up a street race.
+- A goofy driver tries to crack jokes to lessen the seriousness of his mistake.
+- A wanted woman cares more about her oral hygiene than her warrant.
+
 TODO
 
 ### S32E14
+
+Aired 2019-09-17.
+
+**Instant Regret**
+
+- An apologetic motorcyclist is lucky to be alive after crashing out on a dark road.
+- Deputies question two passengers during a traffic stop.
+- A young driver admits his situation doesn't look good when police pull him over.
 
 TODO
 
 ### S32E15
 
+Aired 2019-09-24.
+
+**I Told You So**
+
+- A woman's birthday ends with a foot pursuit.
+- Deputies are skeptical when a suspect claims he was given a freebie.
+- Grandma comes to the rescue when a scared teen gets pulled over without a license.
+
 TODO
 
 ### S32E16
+
+Aired 2019-10-01.
+
+**Welcome Home**
+
+- A driver escapes a traffic stop and pretends to be a laundromat customer.
+- A young man gets pulled over on his way to a party.
+- Deputies respond to a distressed woman whose ex-boyfriend locked her out of the house.
 
 TODO
 
 ### S32E17
 
+Aired 2019-10-08.
+
+**Cracking the Code**
+
+- A trespassing suspect asks a lot of questions instead of answering them.
+- Deputies uncover a heap of contraband during a traffic stop.
+- Exes do their best to tolerate each other for a few more hours until one leaves for rehab.
+
 TODO
 
 ### S32E18
+
+Aired 2020-01-07.
+
+**Barely There**
+
+- Officers deal with a delirious man who was found naked on his neighbor's porch.
+- A driver tries to ditch cops on foot but mistakenly leaves his shoes behind.
+- An argumentative couple has trouble moving on from a tragic event.
 
 TODO
 
 ### S32E19
 
+Aired 2020-01-14.
+
+**Thicker Than Water**
+
+- A family calls the police when they realize an intruder is in their house.
+- A mother asks her son to seek help after deputies find some unsavory items in his car.
+- Tensions reach a breaking point for a young man and his stepdad.
+
 TODO
 
 ### S32E20
+
+Aired 2020-01-28.
+
+**Hammer to Fall**
+
+- Police chase a man running away from his car and a warrant.
+- A driver is just as unlicensed as his vehicle.
+- A domestic violence call involves two lovers and a hammer.
 
 TODO
 
 ### S32E21
 
+Aired 2020-02-04.
+
+**If the Shoe Fits**
+
+- A shoplifter flees on foot after stealing kids' shoes
+- An erratic driver has a concealed firearm (and something less concealed).
+- A man on probation gets his car searched.
+
 TODO
 
 ### S32E22
+
+Aired 2020-02-11.
+
+**Too Little Too Late**
+
+- A driver theorizes about America after fleeing a traffic stop.
+- Charges keep adding up for an unlicensed driver.
+- A woman stops at nothing to get to her trailer.
 
 TODO
 
 ### S32E23
 
+Aired 2020-02-25.
+
+**Not Up For Debate**
+
+- A driver leaves her car during a routine traffic stop.
+- Officers stop a car that appears to have fake tags.
+- Police respond to an altercation between a father and son.
+
 TODO
 
 ### S32E24
+
+Aired 2020-03-03.
+
+**Breathing Fire**
+
+- Officers suspect meth use by a man sleeping in a bus station.
+- A pedestrian's multiple bags of drugs suggest trafficking.
+- A drunk driver claims she was set up.
 
 TODO
 
 ### S32E25
 
+Aired 2020-03-10.
+
+**Points for Neatness**
+
+- A burglary results in an act of solidarity.
+- A foot pursuit ends when the K-9 unit shows up.
+- A person with a substance user disorder leaves a strong impression on an officer.
+
 TODO
 
 ### S32E26
+
+Aired 2020-03-17.
+
+**Slow and Unsteady**
+
+- A man on a motorcycle evades an officer.
+- A woman in a suspicious vehicle accrues multiple charges.
+- A traffic stop reveals two men under the influence.
 
 TODO
 
 ### S32E27
 
+Aired 2020-03-24.
+
+**You Got It Twisted**
+
+- After an evening car chase ends in a front lawn, police hunt for clues to find the truth.
+- A frustrated woman attempts to talk sense into a guy who won't face reality.
+- A cop has a heart-to-heart with a veteran who is down on his luck.
+
 TODO
 
 ### S32E28
+
+Aired 2020-03-31.
+
+**Gun in The Gutter**
+
+- A suspect bails out of his friend's car when deputies catch him making a shady move.
+- A nervous driver preemptively denies ownership of all his clothes.
+- A man's decision to fire off some rounds puts his neighborhood on edge.
 
 TODO
 
 ### S32E29
 
+Aired 2020-04-07.
+
+**New Car Smell**
+
+- A fleeing driver forges his own path in order to get away from police.
+- Officers tell the employee of a car dealership to invest in more security cameras.
+- Emotions run high as a deputy breaks up an explosive domestic situation.
+
 TODO
 
 ### S32E30
+
+Aired 2020-04-14.
+
+**Counterfeit Cruising**
+
+- A young woman claims not to know her passengers.
+- The search of a man's car leads to more charges.
+- A woman learns not to start vehicles with a screwdriver.
 
 TODO
 
 ### S32E31
 
+Aired 2020-04-28.
+
+**Taking The Low Road**
+
+- Police go off-roading to follow a stolen car.
+- A man has odd excuses for having suspicious items.
+- An officer settles a dispute between a wife and her jealous husband.
+
 TODO
 
 ### S32E32
 
+Aired 2020-05-05.
+
+**Dog Days Are Over**
+
+- The late-night search for a wanted man turns up some unexpected results.
+- Two suspects watch their lies fall apart when an officer recognizes them.
+- Officers urge a woman to turn her life around so she can protect her dogs.
+
 TODO
 
 ### S32E33
+
+Aired 2020-05-12.
+
+**Love and Marriage**
+
+- A motorcyclist tries to escape on foot.
+- A couple's synthetic marijuana use catches up with them.
+- An officer tries to get the real story behind a domestic disturbance.
 
 TODO
 
@@ -22193,133 +22735,407 @@ Network: Fox Nation.
 
 ### S33E01
 
+Aired 2021-10-02.
+
+**Stolen Cars and Firearms**
+
+- A skittish driver's decision results in a trip to the hospital.
+- A car full of young men swear they were trying to escape an imminent threat.
+- An innocent woman struggles with the decision to press charges on her friend.
+
 TODO
 
 ### S33E02
+
+Aired 2021-10-02.
+
+**Take it to the Bank**
+
+- A little rain doesn't stop a determined quad driver from trying to outrun the police.
+- A deputy has doubts about a man's professed distrust of banks.
+- A man ignores obvious red flags when buying a moped and ends up paying the price.
 
 TODO
 
 ### S33E03
 
+Aired 2021-10-02.
+
+**Tears and Fears**
+
+- A soft-spoken cyclist finds a way to shock deputies.
+- A family man remorsefully agrees with the police that his COVID-19 fears led him to make a mistake.
+- Officers investigate a car they spot swerving on the road.
+
 TODO
 
 ### S33E04
+
+Aired 2021-10-02.
+
+**Third Wheeling**
+
+- The owner of a truck discovers what happens when you don't lock your door.
+- Police level with a troubled man and implore him to make better choices.
+- An officer acts as a therapist for multiple people and their relationships.
 
 TODO
 
 ### S33E05
 
+Aired 2021-10-02.
+
+**We'll Do It Live**
+
+- Deputies work together to stay on the tail of a fleeing vehicle.
+- An argumentative driver keeps his friends tuned in as he livestreams his own arrest.
+- A mother's desire to scare her daughter into behaving takes a serious turn
+
 TODO
 
 ### S33E06
+
+Aired 2021-10-09.
+
+**Bike in the Bushes**
+
+- Deputies are concerned when a fleeing man leaves a trail of illicit items.
+- A young woman unwisely decides to hang out with a man she nicknamed 'Sketchy'.
+- Some well-placed security cameras help reunite a man with his stolen bike.
 
 TODO
 
 ### S33E07
 
+Aired 2021-10-16.
+
+**Heart of Glass**
+
+- A man weaves a stolen motorbike through traffic at high speeds as he tries to evade police.
+- Deputies examine the aftermath of a unhappy domestic argument.
+- A mom and dad deny that their habits could affect their child.
+
 TODO
 
 ### S33E08
 
-TODO
+Aired 2021-10-23.
+
+**Avoiding the Truth**
+
+- (Gulfport, MS -- 11:39 PM Traffic Stop) Headquarters. Patrolman Steven Fore,
+  Patrolman McKinely West, Sgt. Bryan Watson. A car without headlights is
+  stopped and police question the legitimacy of the name a driver gives them.
+- (Mohave County, AZ -- 4:41 PM Domestic Violence Call) Headquarters. Deputy
+  Dustin Dobbyn, Deputy Devin Godgrey. Both husband and wife protect each other
+  in a case of domestic violence.
+- (Pinellas County, FL -- 9:44 PM Domestic Dispute Call) Central District.
+  Deputy Ryan Skalko, Deputy Anthony Casteleiro. A 12-year friendship is
+  jeopardized when a woman (Laura) suspects her roommate (Michael) of stealing
+  pills.
 
 ### S33E09
 
-TODO
+Aired 2021-10-30.
+
+**Can't Tell You How to Live**
+
+- (Colton, CA -- 9:52 PM Officer Assistance Call) Gang Officer Ruben Muro,
+  Corporal Roberta Valencia. A woman calls the police after hey baby daddy
+  Daniel threatens to destroy the whole house.
+- (North Las Vegas, NV -- 11:59 PM Traffic Stop) South Area Command. Officer
+  Christian Carrillo, Officer Anthony Baca, A female driver, Amanda, has a
+  suspended license and gets busted for possession of drugs.
+- (Hillsborough County, FL -- 9:20 PM Traffic Accident) District 3. Deputy
+  James Schneider, Corporal C. Ulmer, Deputy Katelyn Kotfila. A driver, Peter,
+  flees after a car crash because he has four warrants for driving without a
+  license.
 
 ### S33E10
+
+Aired 2021-11-06.
+
+**Act Your Age**
+
+- A seasoned corporal gives some advice to a young man with a new motorcycle.
+- A woman's impatience lands her in hot water when she's pulled over for tailgating.
+- Officers give a driver multiple chances to come clean to no avail.
 
 TODO
 
 ### S33E11
 
+Aired 2021-11-13.
+
+**Betrayal and Baby Formula**
+
+- A woman makes a desperate attempt to frame her friend right in front of deputies.
+- A driver's assortment of containers raises some questions.
+- A man in possession of a stolen truck insists that his friend is the one at fault.
+
 TODO
 
 ### S33E12
+
+Aired 2021-11-20.
+
+**Running on Empty**
+
+- Fleeing suspects risk their safety by hiding in a dangerous swamp.
+- For one driver, a broken truck turns out to be the start of a very long list of problems.
+- Deputies sympathize with a woman who's been put through the wringer.
 
 TODO
 
 ### S33E13
 
+Aired 2021-11-27.
+
+**See You Later Alligator**
+
+- A man has a hard time making his case when a bag of illicit items has his name on it.
+- A talkative driver tells officers a long story with conflicting details.
+- A couple calls for help when they find an alligator in their yard.
+
 TODO
 
 ### S33E14
+
+Aired 2021-12-04.
+
+**Pedal to the Metal**
+
+- Officers are dumbfounded when a man tries to talk them into taking him to jail.
+- Sparks fly when a driver tries to take his truck on the freeway with only two wheels.
+- Deputies are on guard when they approach a belligerent man.
 
 TODO
 
 ### S33E15
 
+Aired 2022-03-05.
+
+**Nine Lives**
+
+- A generous boyfriend steps in to prevent his girlfriend from going to jail.
+- Officers save a kitten who wants to hide in a dangerous place.
+- A man says he's been driving a stolen truck for one day, but he's off by a few months.
+
 TODO
 
 ### S33E16
+
+Aired 2022-03-12.
+
+**What's Your Sign?**
+
+- A young couple allegedly spend too much time arguing instead of paying attention to the road.
+- An officer uses a trick to catch someone in a lie.
+- A chatty driver racks up a slew of charges in front of his own house.
 
 TODO
 
 ### S33E17
 
+Aired 2022-03-19.
+
+**Over the Hill**
+
+- A suspect in possession of a stolen truck leads everyone on a chase through some bumpy terrain.
+- Gas station employees call police when they spot a couple asleep at the pump.
+- A man familiar to deputies shows them he can change.
+
 TODO
 
 ### S33E18
+
+Aired 2022-03-26.
+
+**Hefty Amounts**
+
+- A personalized keychain casts doubt on a man's flimsy story.
+- A cyclist throws something behind his back as soon as deputies roll up.
+- A laid-back driver's estimation of what's in his car is off by a couple trash bags.
 
 TODO
 
 ### S33E19
 
+Aired 2022-04-02.
+
+**Anger Management**
+
+- An alleged burglar claims his sack full of money is a gift from his grandma.
+- The discovery of a pink bandana leads deputies to question a suspect's story.
+- A deputy attempts to get a man to cool off after a fight with his wife.
+
 TODO
 
 ### S33E20
+
+Aired 2022-04-09.
+
+**Totaled Car Karma**
+
+- A deputy questions a driver about why his broken-down car looks like it's been in an accident.
+- Obstacle after obstacle prevents a woman from fixing her janky vehicle.
+- A young man looking for a fresh start falls on hard times.
 
 TODO
 
 ### S33E21
 
+Aired 2022-04-16.
+
+**Say It, Don't Spray It**
+
+- Two men acting strangely in a gas station draw the suspicion of an employee.
+- Deputies arrest a man for creating an unsafe environment for his younger brother.
+- Mom calls the cops when her daughter throws water on her.
+
 TODO
 
 ### S33E22
+
+Aired 2022-04-23.
+
+**Eat My Dust**
+
+- The rough terrain of a high-speed pursuit proves both dangerous and useful for deputies.
+- Police find more than a stolen air conditioner in the trunk of a messy van.
+- A confused man loses track of what's in his pockets.
 
 TODO
 
 ### S33E23
 
+Aired 2022-04-30.
+
+**In Hot Water**
+
+- A runaway biker makes multiple clumsy attempts to slip away from deputies.
+- A shady figure has a curious method of trying to get a drink of water.
+- A young woman starts making unwise choices when her family leaves town.
+
 TODO
 
 ### S33E24
+
+Aired 2022-05-07.
+
+**Mr. Clean Getaway**
+
+- A man in possession of a stolen car explains his unique nickname to deputies.
+- Police go to the same house twice in under 30 minutes to sort out a messy marital spat.
+- A mom with multiple priors is caught in a bind.
 
 TODO
 
 ### S33E25
 
+Aired 2022-05-14.
+
+**Get to the Point**
+
+- A deputy tries to level with a man who's struggled with addiction for a decade.
+- Security guards at an aquarium warn officers about a man with a gun.
+- A masked-up cyclist has no luck out-pedaling the officer on his tail.
+
 TODO
 
 ### S33E26
+
+Aired 2022-05-21.
+
+**Very Superstitious**
+
+- After leading police on a slow pursuit, a sharply-dressed driver has a heated talk with another deputy.
+- In spite of her tears, police unravel a woman's lies one by one.
+- A traditionally bad omen turns into good luck for a couple.
 
 TODO
 
 ### S33E27
 
+Aired 2022-05-28.
+
+**Take a Ride With Me**
+
+- A traffic stop turns dangerous when a driver takes off with a deputy halfway inside the vehicle.
+- Recent changes in the law and a forthright attitude help a man avoid jail time.
+- A neighborhood man gives motorists a scare.
+
 TODO
 
 ### S33E28
+
+Aired 2022-06-04.
+
+**Funny Way of Learning**
+
+- A biker with a history of stealing vehicles doesn't know how to drive his motorcycle.
+- A man in-between jobs takes up a sketchy method of earning money.
+- Deputies strongly question the legitimacy of a man's work van.
 
 TODO
 
 ### S33E29
 
+Aired 2022-06-11.
+
+**Scared Shirtless**
+
+- When an erratic man starts climbing on his car, a business owner flags down officers.
+- Unusual circumstances allow officers to cut a driver some slack for being honest.
+- A man forgets to return a car after running errands.
+
 TODO
 
 ### S33E30
+
+Aired 2022-06-18.
+
+**Cowboy Take Me Away**
+
+- A suspect on the run makes a dangerous decision when he finds himself cornered.
+- An unsuspecting driver gets more than she bargained for when she gives an old friend a lift.
+- A friendly woman has a thing for cowboys.
 
 TODO
 
 ### S33E31
 
+Aired 2022-06-25.
+
+**Acting Kinda Shady**
+
+- A teenager who ran away from home tries running from the cops too.
+- A man set a date to turn his life around, but deputies ask him to start earlier.
+- A man found with hundreds of sunglasses claims he was going to give them away.
+
 TODO
 
 ### S33E32
 
+Aired 2022-07-02.
+
+**Start Your Engines**
+
+- Police deploy spike strips to put an end to a dangerous stolen vehicle pursuit.
+- An alleged mechanic swears he had permission to drive a semi-truck, the owner says otherwise.
+- A couple stops a woman from driving away in their car.
+
 TODO
 
 ### S33E33
+
+Aired 2022-07-09.
+
+**Fight or Flight**
+
+- When the cuffs come out, an emotional cyclist gives deputies the runaround.
+- A boyfriend's honesty saves his girlfriend from going to jail on her birthday.
+- Police investigate a case of road rage involving a possible gun.
 
 TODO
 
@@ -22750,11 +23566,15 @@ Aired 2023-10-06.
 
 **Hide and Cry**
 
-TODO
-
-- A motorcycle with no license plate crashes while fleeing from Deputies.
-- A woman driving a car with no windshield blames her ex-boyfriend.
-- A gun is found hidden in a seat during a traffic stop.
+- (Mohave County, AZ -- 2:01 PM Traffic Stop) District 1. Deputy Jose Cardenas,
+  Sgt. Michael Ramirez. A motorcycle with no license plate crashes while
+  fleeing from Deputies.
+- (Las Vegas, NV -- 3:35 PM Traffic Stop) Bolden Area Command. PO II Matthew
+  Glover, PO II Kenshin Rose, FTO Justin Jonsson. A woman driving a car with no
+  windshield blames her ex-boyfriend.
+- (Riverside County, CA -- 10:22 PM Traffic Stop) San Jacinto Station. Deputy
+  Steven Post, Deputy Alfredo Amezola. A gun is found hidden in a seat during a
+  traffic stop.
 
 ### S35E19
 
@@ -22849,3 +23669,18 @@ Aired 2023-11-17.
 - (Mohave County, AZ -- 11:08 AM Suspicious Vehicle) District 1. Deputy Robert
   Tapia, Deputy Jean Guindon. A suspect (Howard) found asleep in his poorly
   parked car complains of sciatic pain.
+
+### S35E25
+
+Aired 2023-11-24.
+
+**Dangerously in Love**
+
+- (Kansas City, KS -- 5:42 PM Vehicle Pursuit) South Patrol Division. Patrolman
+  Jared Paulakovich, Patrolman Reed Murkin. Stolen red truck.
+- (Richland County, SC -- 8:19 PM Domestic Dispute Call) Region 4. Master
+  Deputy Rebekah Smith, Corporal Chris Gainous. A DV suspect overdoses after
+  fighting Deputies.
+- (Anderson County, SC -- 9:01 PM Person With A Gun Call) Main Station. Deputy
+  Tim Wright, Staff Sergeant Josh S. Black. An intoxicated father assaults his
+  openly gay son and hides behind a tree.
