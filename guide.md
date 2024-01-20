@@ -14353,27 +14353,22 @@ Censored segment?
 
 ### CP-1609
 
-Aired 2003-11-03.
+Aired 2003-11-03 or 2003-11-08. Re-aired on Saturday, 2004-09-25 (8:30-9:00 PM
+ET/PT) on FOX.
 
 **Resisting Arrest Special Edition**
 
-- (Indio, CA -- 12:08 AM Suspicious Person Call) Corporal Lisa Corton takes the
-  call of a man refuses to leave a recovery center and tries to get into the
-  woman's side. Also a drunk Mexican man who prompts an intense struggle after
-  admitting he was looking into windows of a local recovery center.
+- (Indio, CA -- 12:08 AM Suspicious Person Call) Corporal Lisa Corton assists
+  Officer Darren Zroka on a call from a resident who reported seeing a man
+  looking into the windows of a local recovery center. At the scene, the
+  officers locate and question an inebriated suspect who eventually confirms
+  the allegation. When the officers attempt to place the suspect under arrest,
+  he becomes hostile and resists arrest. A brief struggle takes place and the
+  suspect is subsequently taken into custody.
 - (Spokane, WA -- 9:26 PM Street Patrol) Spokane PD
+  - Re-airs in CP-1637?
 - (Harris County, TX -- 8:03 PM Domestic Disturbance) Sheriff's Dept. District 3
   - From CP-1032?
-
-Alternative description from [thefutoncritic.com](http://www.thefutoncritic.com/listings/20040906fox17/):
-
-When Corporal Lisa Corton and Officer Darren Zorka of the Indio, CA, Police
-Department, respond to a call about a man looking into the windows of a local
-recovery center, the authorities question the inebriated suspect, who
-eventually owns up to the allegations. A struggle is triggered when officers
-attempt to place the suspect under arrest on COPS: RESISTING ARREST #1 SPECIAL
-EDITION airing Saturday, Sept. 25 2004 (8:30-9:00 PM ET/PT) on FOX. (CP-1609)
-(TV-14 L, V)
 
 ### CP-1610
 
