@@ -14365,10 +14365,14 @@ ET/PT) on FOX.
   the allegation. When the officers attempt to place the suspect under arrest,
   he becomes hostile and resists arrest. A brief struggle takes place and the
   suspect is subsequently taken into custody.
-- (Spokane, WA -- 9:26 PM Street Patrol) Spokane PD
-  - Re-airs in CP-1637?
-- (Harris County, TX -- 8:03 PM Domestic Disturbance) Sheriff's Dept. District 3
-  - From CP-1032, re-airs in CP-1637?
+- (Spokane, WA -- 9:26 PM Street Patrol) While on routine patrol in downtown
+  Spokane, Sgt. Jason Hartman lends assistance to a male motorist who appears
+  to have a stalled vehicle. However, the man immediately flees on foot and a
+  chase ensues. As Sgt. Hartman closes in on the suspect, he spots him reaching
+  for something in his pocket. Officer Hartman uses his baton on the suspect
+  and ultimately subdues him.
+- (Harris County, TX -- 8:03 PM Domestic Disturbance) Segment 1 of CP-1032.
+  Re-airs as segment 3 of CP-1637.
 
 ### CP-1610
 
@@ -14918,22 +14922,10 @@ Aired 2004-03-06.
 **Resisting Arrest 2 Special Edition**
 
 - (Cincinnati, OH -- 12:23 AM Accident Call) Cincinnati Police Department 3rd
-  district -- Officer Chris Manson, Officer Jeff Wieczorkowski
+  district -- Officer Chris Manson, Officer Jeff Wieczorkowski. Girlfriend
+  Amanda has punched and bitten her boyfriend and gets arrested.
 - (Spokane, WA -- 9:26 PM Street Patrol) Spokane PD -- Sgt. Jason Hartman
-- (Harris County, TX -- 8:03 PM Domestic Disturbance) District 3 -- Deputy C.J.
-  Meaux is a psychologist and father, sometimes you have to give people a
-  spanking and they need it. He heads to a trailer park known for domestics.
-  Brandy comes out with a black eye that Timothy gave her while holding her
-  kid. They've been together a year. Deputy Jim Malinowski backs him up. Three
-  cops go in the trailer to get Tim out and he fights like a demon and flies
-  through the air in a rage. She keeps calling him baby and says for cops not
-  to hurt him. Tim screams at her and a fourth man jumps on him. She wants him
-  to talk and says he fought because he's scared, they shouldn't have gotten so
-  rough with him and shouldn't arrest him. C.J. says he hit her, then the
-  police and had to be stopped. They have a new baby inside. They go to put him
-  in the car and he flips out again and he has to be forced in. They weren't
-  going to arrest him and told him that. She says he didn't know and she'll use
-  the rent money to get him out of jail. From CP-1032.
+- (Harris County, TX -- 8:03 PM Domestic Disturbance) segment 1 of CP-1032.
 
 ### CP-1638 / CP-1639
 
