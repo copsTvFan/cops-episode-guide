@@ -14368,7 +14368,7 @@ ET/PT) on FOX.
 - (Spokane, WA -- 9:26 PM Street Patrol) Spokane PD
   - Re-airs in CP-1637?
 - (Harris County, TX -- 8:03 PM Domestic Disturbance) Sheriff's Dept. District 3
-  - From CP-1032?
+  - From CP-1032, re-airs in CP-1637?
 
 ### CP-1610
 
