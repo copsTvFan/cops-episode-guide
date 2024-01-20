@@ -7264,7 +7264,11 @@ Aired 1993-07-17.
   all the time they need to work things out, but on the streets it's split
   second decisions. (10:16 PM Man With A Gun) Officer pursues armed suspect.
 - (San Bernardino County, CA -- 7:11 PM Search & Rescue Call) Deputy Hank
-  Valencia. Flood traps man.
+  Valencia. A stranded motorist has been caught up in a deadly flash flood and
+  has climbed onto the hood of his damaged truck. Sheriff's deputies enlist the
+  aid of a tow truck driver in an attempt to toss a rope to the marooned man.
+  The current is slowly washing the truck away and deputies must act quickly to
+  save a life.
 - (San Bernardino County, CA -- 1:17 AM Street Patrol) Deputy Rick Roelle. Man
   on a sidewalk is armed.
 
@@ -14343,7 +14347,7 @@ Aired 2004-01-17.
 - Indio CA -- 11:56 PM Officer Assistance Call -- ugly ex-con lesbian fighting
   with her ex-lover at a liquor store. Sgt. Jeff Hicks.
 
-Some versions has this as segment 2:
+Some guides have this as segment 2:
 
 - Albuquerque NM (1:26 PM Trespassing Call) Kevin hides under a mattress after
   getting caught stealing tries and returning to trespass. Officer John
@@ -14381,16 +14385,21 @@ Aired 2004-01-24.
 **Foolish Criminals Special Edition**
 
 - (Palm Beach County, FL -- 8:42 PM Burglary in Progress) District 3 Sheriff's
-  Dept. -- Deputy Nick Camene takes the call of a man seen jumping a fence into
-  a problem area where many thefts occur. A black guy is caught stealing copper
-  wire from a business
-- (Cathedral City, CA -- 8:51 PM Public Disturbance Call) PD -- Public
-  disturbance call to a drunk/high teen at a Blockbuster Video who knocked over
-  a display looking for a job
-- (Indio, CA -- 9:08 PM Suspicious Activity Call) Indio PD -- Suspicious activity
-  call to a man driving with expired tags trying to sell stolen lawn equipment.
-  A witness helps apprehend a burglar; at a traffic stop, a man says his ailing
-  wife put illegal tags on his car.
+  Dept. Deputy Nick Camene responds to a burglary in progress and catches a
+  black suspect attempting to steal copper wire. The suspected thief has a pair
+  of wire cutters on his person and makes little attempt to deny what he was
+  doing. The owner explains that copper is often stolen and sold for a tidy
+  sum. A witness helps apprehend a burglar.
+- (Cathedral City, CA -- 8:51 PM Public Disturbance Call) Investigating a
+  public intoxication call, Officer Jeremy Herrick detains a drunk/high teen in
+  the parking lot of Blockbuster Video who knocked over a display. The
+  officers learn from the suspect that he was merely trying to fill out a job
+  application on his way home -- with a case of beer in tow.
+- (Indio, CA -- 9:08 PM Suspicious Activity Call) Indio PD. Officer Sergio
+  Carrillo pulls over a man driving with expired tags who is suspected of
+  trying to sell stolen garden equipment. The tags expired in 2000 and the man
+  claims his dying wife, who is currently in a coma, attached the fake stickers
+  to the plates because money was tight.
 
 ### CP-1611
 
@@ -14433,10 +14442,20 @@ Aired 2003-09-13.
 
 **Rescues 2 Special Edition**
 
-- (Portland, OR -- 7:06 PM Assistance Call) Police Bureau Central Precinct --
-  Officer Matt Stimmel and partner Officer Cathy Kent
-- (Maricopa County, AZ -- 2:18 AM Flagged Down) Sheriff's Office District 1
-- (San Bernardino County, CA -- 7:11 PM Search & Rescue Call) from CP-543
+- (Portland, OR -- 7:06 PM Assistance Call) Police Bureau Central Precinct. The
+  Portland Police Bureau race to the scene of a man that has climbed a crane
+  assembly in Central Precinct. Officer Cathy Kent and Officer Matt Stimmel
+  arrive at the scene first and learn that the man has been distraught over the
+  death of his young daughter. To compound the situation, his girlfriend is
+  facing jail time because of the death of their child. Officer Stimmel begins
+  the climb up to the 16th floor to try to talk the man down...
+- (Maricopa County, AZ -- 2:18 AM Flagged Down) Sheriff's Office District 1.
+  Maricopa deputies are flagged down by a female on a dark road. The female has
+  visibly injuries and explains that her boyfriend has just assaulted her. The
+  irate boyfriend becomes uncooperative with deputies while being taken into a
+  custody.
+- (San Bernardino County, CA -- 7:11 PM Search & Rescue Call) Segment 3 of
+  CP-543.
 
 ### CP-1614
 
