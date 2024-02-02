@@ -8412,14 +8412,18 @@ Aired 1994-10-20.
 
 **New York City 2**
 
-- (9:01 PM Anti-Crime Unit Briefing) N.Y.P.D. 34th Precinct starts with shot of
-  WTC. Some of the undercover guys look like criminals wearing gangster shirts.
-  raid on reported drug house
+- (New York City, NY -- 9:01 PM Anti-Crime Unit Briefing) N.Y.P.D. 34th
+  Precinct starts with shot of WTC. Some of the undercover guys look like
+  criminals wearing gangster shirts. Raid on reported drug house. Captain
+  Terrence Monahan, Lt. Bob Sobocienski. (9:47 PM Warrant Serviced) A dog is
+  shot. Officer Kevin Spellman, Officer Bill Lutz, Officer Dennis Rodriguez,
+  Sgt. Robert Yackel.
 - (New York City, NY -- 3:05 PM Public Assistance Call) N.Y.P.D. Emergency
   Service Unit. Sgt. Pat Murphy. A rat in a bathroom, featuring Officer James
   Taylor, Officer John Politoski. (8:54 PM Public Assistance Call) A bat in an
   apartment. Featuring Officer Pete Conlin.
-- overturned vehicle.
+- (New York City, NY -- 6:15 PM Car Accident) N.Y.P.D. Emergency Service Unit.
+  Officer Tom Rowe. Overturned vehicle. Officer Glen Klein.
 
 ### CP-735
 
@@ -10733,11 +10737,10 @@ Aired 1998-10-03.
   They supply a lot kids in the area because it is near a high school and a
   university. Community complaints lead them to stake it out and learn if it
   was true. She assists in the arrest of a man who claims the marijuana found
-  in his possession is actually an herb used for healing the soul. Officers
-  Woody and Thomas arrest a suspect who pointed a gun at passersby. Officers
-  Woody and Thomas arrest a suspect who pointed a gun at passersby. Officer
-  Carstaffin, Jr. apprehends a suspect who was badly injured after he leapt
-  over the side of a bridge.
+  in his possession is actually an herb used for healing the soul.
+- Officers Woody and Thomas arrest a suspect who pointed a gun at passersby.
+- Officer Carstaffin, Jr. apprehends a suspect who was badly injured after he
+  leapt over the side of a bridge.
 
 ### CP-1104
 
