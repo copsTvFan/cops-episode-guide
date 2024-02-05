@@ -9284,14 +9284,20 @@ Aired 1996-08-31.
 
 **Miami, FL 12**
 
-- (11:10 PM Suspicious Vehicle) Central District -- Officer Jorge Castello grew
-  up in some of the neighborhoods he patrols and it is interesting to see how
-  people he knew have grown up. Some are good. He pursues a driver who ignored
-  instructions to pull off the road. With some help from an anti-theft tracking
-  device,
-- Miami Police Sergeant Casiano aids in the arrest of a car thief.
-- Miami Police Officer Grant questions a woman whose boyfriend shot himself in
-  the head.
+- (Miami, FL -- 11:10 PM Suspicious Vehicle) Central District. Officer Jorge
+  Castello grew up in some of the neighborhoods he patrols and it is
+  interesting to see how people he knew have grown up. Some are good. He
+  pursues a driver who ignored instructions to pull off the road. With some
+  help from an anti-theft tracking device,
+- (Miami, FL -- 9:20 PM Stolen Vehicle) Central District. Sgt. Juan Casiano
+  aids in the arrest of a car thief. Featuring Officer Joseph Guell and Sgt.
+  Ariel Rojas.
+- Two versions:
+  - Original, uncensored segment: (Homestead, FL -- 10:37 PM Attempted Suicide)
+    Officer Von Grant questions a woman whose boyfriend shot himself in the
+    head. Featuring Detective Tom Mead, Detective Manny Ferrer, Sgt. Bobby Rea.
+  - Replacement segment: (Fort Worth, TX -- 3:30 PM Street Patrol) Officer Rick
+    Kino.
 
 ### CP-902
 
