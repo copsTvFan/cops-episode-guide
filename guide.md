@@ -6694,7 +6694,13 @@ Aired 1992-11-21.
 
 **Denver, CO 3**
 
-- (11:12 PM Shooting Call)
+- (Denver, CO -- 11:12 PM Shooting Call) Technician Reuben Gomez, Technician
+  Ken Padgett. Metro SWAT unit. Detective Ron Blair.
+- (Denver, CO -- 1:15 AM Disturbance Call) District 4. Officer Manny Mauri,
+  Officer Mike Pettinger. Famous clip of a guy banging his head against the
+  trunk of a police car, saying "kill me!".
+- Traffic accident. Unknown officers, Officer Dan Alverson, Officer Mary Lou
+  Kochaniec, Officer Dan McNulty.
 
 ### CP-511
 
