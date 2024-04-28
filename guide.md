@@ -8218,8 +8218,15 @@ Aired 1995-07-22.
 
 **Las Vegas, NV 15**
 
-- (10:31 PM Man with a gun) Shooting incident; marital dispute; alleged
-  stalker.
+- (Las Vegas, NV -- 10:31 PM Man with a gun) North West Area Command. Sgt.
+  Randy Sutton. Communications Center.
+- (Las Vegas, NV -- 5:42 PM Street Patrol) North East Area Command. Officer
+  Russell Lee. Pickup truck with a male and a crying female. Marital dispute.
+  Featuring Officer Stewart Emry.
+- (Las Vegas, NV -- 6:12 PM Stalker Call) North Las Vegas Police Dept. Officer
+  Sue Schaaf, Officer Dave Acosta. A black guy (Donald) with crutches is trying
+  to run away by jumping on one foot. Apparently he was trying to contact his
+  ex-girlfriend.
 
 ### CP-723
 
