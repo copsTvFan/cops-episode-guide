@@ -23345,7 +23345,7 @@ Aired 2023-03-31
 
 ## Season 35
 
-2023-present.
+2023-2024.
 
 Network: Fox Nation.
 
@@ -23473,12 +23473,15 @@ Aired 2023-06-02.
 
 **Puppy Luck**
 
-TODO
-
-- Mistrust proves toxic after a dispute over slot machines ends in
-  recriminations and threats.
-- A puppy is the magic charm after officers have a heart to heart with
-  individuals who've hit a rough patch.
+- (Riverside County, CA -- 7:37 PM Suspicious Person) San Jacinto Station.
+  Deputy Joshua Calvillo, Sgt. Ian Baily (Hemet Police Department), Sgt. Radek
+  Horkel.
+- (Las Vegas, NV -- 7:57 PM Burglary Call) South Central Area Command. PO II
+  Richard Vala. Mistrust proves toxic after a dispute over slot machines ends
+  in recriminations and threats.
+- (Colton, CA -- 7:41 PM Suspicious Activity) Officer Miguel Gonzalez, Officer
+  Brian Jipp. A puppy is the magic charm after officers have a heart to heart
+  with individuals who've hit a rough patch.
 
 ### S35E10
 
@@ -23712,3 +23715,486 @@ Aired 2023-11-24.
 - (Anderson County, SC -- 9:01 PM Person With A Gun Call) Main Station. Deputy
   Tim Wright, Staff Sergeant Josh S. Black. An intoxicated father assaults his
   openly gay son and hides behind a tree.
+
+### S35E26
+
+Aired 2024-02-16.
+
+**Worst Car Ever**
+
+Spike strips are used to end a pursuit, but not before a woman falls out. A
+passenger flees from a stop and changes clothes. A woman from Oklahoma driving
+a windowless car admits to using meth.
+
+- (Adams County, CO -- 7:07 PM Stolen Vehicle) District 2. FTO John Ninneman.
+- (Hillsborough County, FL -- 8:59 PM Officer Assistance) District 2. Deputy
+  Taylor Zackman, Deputy Alexander Maldonado, K-9 Deputy Sarah Ernstes, Deputy
+  Michael Tedford.
+- (Las Vegas, NV -- 9:14 PM Suspicious Vehicle) Bolden Area Command. FTO Isaac
+  Quintero, PO II TJ Hickman.
+
+### S35E27
+
+Aired 2024-02-16.
+
+**Love Extinguished**
+
+51 kilos of cocaine are found on a semi-truck during a traffic stop. A man on a
+bike tosses meth and weed as he flees into the woods. A woman uses a fire
+extinguisher to damage her girlfriend's door.
+
+- (Fontana, CA -- 9:37 PM Traffic Stop) Main Station. FTO Chris Drayer, Officer
+  Jose Morales.
+- (Anderson County, SC -- 11:10 AM Bicycle Stop) Directed Patrol Unit. Staff
+  Sgt. Alan Hendrix, Master Deputy Josh Black, Master Deputy Jaden Morgan.
+- (Richland County, SC -- 6:35 PM Home Invasion In Progress) Region 1. Master
+  Deputy Colin Davis.
+
+### S35E28
+
+Aired 2024-02-23?
+
+**Bad News Barricade**
+
+A dispensary security guard is shot by an angry client who dropped his ID. A
+woman is injured when she crashes a stolen car into a tree. A man barricades
+himself inside an apartment with his mother.
+
+- (Riverside County, CA -- 7:40 PM Shots Fired Call) Jurupa Valley Station.
+  Deputy Erika Delgado, Sgt. Tyson Voss, Deputy David Lenahan.
+- (Richland County, SC -- 10:07 AM Vehicle Pursuit) Region 1. Master Deputy
+  Colin Davis, Investigator D. Mulcahy.
+- (Kern County, CA -- 11:31 AM Deputy Assistance) Main Station. Deputy Jonathan
+  Nunez, Sgt. Jason Nelson, Deputy Jose Chavez, Deputy Nathan Pucilowski,
+  Deputy Julia Castareda.
+
+### S35E29
+
+Aired 2024-03-01.
+
+**Challenge Accepted**
+
+A man flees from cops and reaches a dead end. A 40mm impact round is used to
+gain compliance when he reaches for his pockets. A man claims his anger got the
+best of him during an armed robbery.
+
+- TODO
+- TODO
+- TODO
+
+### S35E30
+
+Aired 2024-03-08.
+
+**Hung Up**
+
+A driver foot bails from a still-rolling van and hides nearby. A teen on a dirt
+bike refuses to stop for deputies. A man attempts to run from a traffic stop
+but gets hung up on a fence.
+
+- TODO
+- TODO
+- TODO
+
+### S35E31
+
+Aired 2024-03-15.
+
+**Fast & Pho-Urious**
+
+After crashing a car during a pursuit, the driver runs into a pho restaurant
+and is captured. A loitering suspect is spotted smoking a meth pipe. A drunk
+driver is pulled from a smoking wreck.
+
+- TODO
+- TODO
+- TODO
+
+### S35E32
+
+Aired 2024-03-22.
+
+**I'm a Mermaid**
+
+Suspects in a white van throw a bike at police during a wild pursuit; a man
+runs from deputies on a mini-bike.
+
+- TODO
+- TODO
+- TODO
+
+### S35E33
+
+Aired 2024-03-29.
+
+**Flip Flopped**
+
+A man arguing with his father over money fights with three deputies after an
+unsuccessful Taser deployment; a motorcycle runs from cops in Fontana.
+
+- TODO
+- TODO
+- TODO
+
+## Season 36
+
+2024-present.
+
+Network: Fox Nation.
+
+### S36E01
+### CP-3601
+
+Aired 2024-04-05.
+
+**Spring Break Mistakes**
+
+- (Pinellas County, FL -- 12:27 PM) Central District. Deputy Kathleen McKee
+  learns to play a new game from a group of sunkissed coeds.
+  - (2:41 PM Suspicious Activity) Deputy Dakota Dellechiaie. A teenager is
+    caught with alcohol.
+- (Escambia County, FL -- 7:48 PM Shooting Call) Precinct 1. Deputy Adam Norre,
+  Deputy Luke McCracken, Deputy Anh Thach, Lt. S. Schaff. Deputies respond to a
+  shooting victim in the parking lot at the beach.
+- (Okaloosa County, FL -- 4:27 PM Minor In Possession) Beach Patrol. Deputy
+  Matthew Armitage, Sgt. Robert Robinson. Okaloosa County Deputies patrolling
+  the waterfront write a ticket when they discover a minor in possession of
+  alcohol and confiscate marijuana.
+  - (Escambia County, FL -- 7:37 PM Suspicious Person) Precinct 1. Deputy Adam
+    Norre, Investigator Eric Alvarez, Deputy 1st Class H. McGuire. Deputies in
+    Escambia County are flagged down by a nervous female tourist who noticed a
+    strange male following her along the boardwalk.
+
+### S36E02
+### CP-3602
+
+Aired 2024-04-05.
+
+**Spring Break In**
+
+- (Escambia County, FL -- 6:37 PM Unconscious Person) Precinct 1. Deputy 1st
+  Class H. McGuire, Deputy Adam Norre, Deputy Bobby Purvis. Deputies respond to
+  an intoxicated teen found passed out next to the shoreline late at night.
+  - (Pinellas County, FL -- 8:24 PM Trespassing Call) Central District.
+    Corporal Nazir Amin, Deputy Timothy Coyle. Deputies respond to a call of
+    trespassers at a hot tub.
+- (Pinellas County, FL -- 2:28 PM Flagged Down) Central District. Corporal
+  Travis Sibley. A wallet is found floating in the ocean and returned to the
+  owner.
+  - (Escambia County, FL -- 3:02 PM Beach Patrol) Precinct 1. Deputy Bobby
+    Purvis, Sgt. Scott Rivkin, Deputy 1st Class Ken Holyfield. A teenage girl
+    is caught taking a sip from an open container of alcohol near a popular
+    pier in Escambia County.
+- (Okaloosa County, FL -- 3:10 PM Jet Ski Accident) Marine Unit. Deputy Eric
+  Stinson, Deputy Josh "Ax" Axsom. The Marine Unit in Okaloosa County rescues a
+  family of four after a jet ski flips over.
+
+### S36E03
+### CP-3603
+
+Aired 2024-04-12.
+
+**Spring Break Heartache**
+
+An underage spring breaker is caught with a 'blackout rage gallon' and issued a
+ticket. A zero-tolerance policy of no alcohol or glass containers on the beach
+is enforced in Pinellas County.
+
+In this Spring Break Special Edition, Okaloosa County Deputies patrol the beach
+and locate an underaged male in possession of a 'blackout rage gallon' or
+'borg', a popular mixture of alcohol, electrolyte powder, and caffeine
+additive. Pinellas County Deputies enforce a zero-tolerance policy against
+glass containers and alcohol during Spring Break. An Okaloosa County Deputy
+encounters a group of college kids with coolers full of beer and writes notices
+to appear for the cooperative group.
+
+- TODO
+- TODO
+- TODO
+
+### S36E04
+### CP-3604
+
+Aired 2024-04-12.
+
+**Spring Break Dance Party**
+
+Officers encounter dancing tourists on the Vegas Strip. An uncooperative spring
+breaker finds herself in cuffs. Surfers and lifeguards rescue swimmers from a
+riptide. A beachgoer lies about his age
+
+In this Spring Break Special Edition, Officers patrolling the Las Vegas Strip
+encounter a group of break dancers. A young lady in possession of an open
+container of alcohol refuses to cooperate with Okaloosa County Deputies and
+finds herself in handcuffs. Deputies warn a beachgoer of the dangers of mixing
+caffeine and alcohol. A group of out-of-state swimmers are rescued from a
+riptide by lifeguards and local surfers. A man lies about his age when he is
+caught carrying a cooler full of alcohol.
+
+- TODO
+- TODO
+- TODO
+
+### S36E05
+### CP-3605
+
+Aired 2024-04-19.
+
+**Spring Break Wipeout**
+
+A teen holding a beer walks up to a deputy. A jet skier violates a no wake
+zone. Deputies cut a tangled bird free. A minor discards his can of alcohol and
+tells deputies his mom will pay his citation.
+
+In this Spring Break Special Edition, an Okaloosa County Deputy is amazed when
+a teen walks up with a beer. A jet skiing woman is stopped for violating a
+no-wake zone in Pinellas County. Tourists discover a loon wrapped in a fishing
+line, and Okaloosa County Deputies work to cut the trapped bird free. A
+beachgoer is given a ticket for an open container and tells Deputies his mom
+will take care of it for him. Teenage girls are required to dump out a cooler
+full of beer on a non-alcoholic beach.
+
+- TODO
+- TODO
+- TODO
+
+### S36E06
+### CP-3634
+
+Aired 2024-06-21.
+
+**Tased and Confused**
+
+A man waves a knife in a coffee shop and is tased. Officers tase a suspect with
+ATF warrants. A fleeing driver fights officers while being tased. A suspect
+claims officers are 'hackers' and resists.
+
+- TODO
+- TODO
+- TODO
+
+### S36E07
+### CP-3635
+
+Aired 2024-06-21.
+
+**Hot Pursuit**
+
+A suspect drives through a fence during a high-speed pursuit. The hood flies up
+on a truck during a chase. A box truck crashes into a ditch. Shoplifters hang
+onto their big screen TV while fleeing.
+
+- TODO
+- TODO
+- TODO
+
+### S36E08
+### CP-3636
+
+**Hot Pursuit 2**
+
+A woman rams a police car. A suspect makes a video call to his family during a
+high-speed pursuit. A vehicle used in a recent shooting flees. Spike strips are
+used to disable a stolen box truck.
+
+Aired 2024-06-21.
+
+- TODO
+- TODO
+- TODO
+
+### S36E09
+### CP-3606
+
+Aired 2024-09-27.
+
+**Anger Unmanaged**
+
+A man with a knife resists as a hotel clerk cheers on officers; a man protests
+the legality of a stop but finally admits why he argued with officers; a
+passenger becomes emotional when meth is found.
+
+Springfield, Missouri Officers respond to a man with a knife refusing to leave
+a hotel. The uncooperative suspect begins to resist while the hotel clerk
+cheers on the Officers. A traffic stop in Lafayette, Louisiana is complicated
+when the driver argues the legality of the stop. When a Sergeant arrives, he
+comes clean with the real reason for his behavior. Fontana, California Police
+stop a truck and find meth. A passenger becomes emotional when he realizes he's
+going to jail for the first time.
+
+- TODO
+- TODO
+- TODO
+
+### S36E10
+### CP-3607
+
+Aired 2024-09-27.
+
+**Reckless Intentions**
+
+A domestic call turns chaotic when a male suspect resists and his girlfriend
+interferes with his arrest; a truck with detachable red and blue lights is
+located during a call of a police impersonator.
+
+A domestic violence call in Lafayette, Louisiana, turns into a melee when a
+male suspect resists while his girlfriend interferes with his arrest and
+attacks an Officer. Greene County, Missouri, Deputies conduct a traffic stop on
+a reckless driver who attempts to flee but crashes into a telephone pole and
+another motorist. Fontana, California Officers respond to a call of someone
+impersonating the police and locate a Chevy Silverado with detachable blue and
+red flashing lights.
+
+- TODO
+- TODO
+- TODO
+
+### S36E11
+### CP-3608
+
+Airs 2024-10-04.
+
+**Walk It Off**
+
+Officers use a police SUV and a taser to stop a fleeing man with a knife; a
+hit-and-run suspect crashes into a gas station; an unlicensed driver has
+warrants in Greene County, Missouri.
+
+- TODO
+- TODO
+- TODO
+
+### S36E12
+### CP-3609
+
+Airs 2024-10-11.
+
+**Fight, Flight, or Chill**
+
+A suspect leads officers on a car chase before running from a K9; a PIT
+maneuver is used to end a stolen vehicle pursuit; a man claims he has crazy
+eyes when a deputy suspects him of driving high.
+
+- TODO
+- TODO
+- TODO
+
+### S36E13
+### CP-3610
+
+Airs 2024-10-18.
+
+**Flying Blind**
+
+A wanted man flees from deputies with the hood up on a pickup truck; a suspect
+bails from a stolen truck and pretends he wasn't driving; a drunk driver is
+caught after a hit-and-run at a dance hall.
+
+- TODO
+- TODO
+- TODO
+
+### S36E14
+### CP-3611
+
+Airs 2024-10-25.
+
+**Impulsive Decisions**
+
+A motorcyclist gives up after leading Fontana Officers on a wild pursuit; a K9
+is used to track a felony shoplifting suspect who fled a traffic stop; a stop
+stick is used to end a chase in Missouri.
+
+- TODO
+- TODO
+- TODO
+
+### S36E15
+### CP-3612
+
+Airs 2024-11-01.
+
+**Identity Crisis**
+
+A stolen TV hangs out of a van during a slow-speed pursuit; a woman bites her
+boyfriend during an argument in Florida; a man claims he received a stolen car
+from a relative.
+
+- TODO
+- TODO
+- TODO
+
+### S36E16
+### CP-3613
+
+Airs 2024-11-08.
+
+**Stolen Cars and Movie Stars**
+
+A female driving a stolen car spins out and runs from officers in Missouri; a
+burglary in progress leads officers to a suspect breaking windows at a church;
+an altered tag is discovered to be stolen.
+
+- TODO
+- TODO
+- TODO
+
+### S36E17
+### CP-3614
+
+Airs 2024-11-15.
+
+**Light Confusion**
+
+A man gives officers a fake name when he's stopped on a bike with no lights;
+officers initiate a high-risk traffic stop on a reckless driver; a man is
+caught walking in traffic on the Vegas Strip.
+
+- TODO
+- TODO
+- TODO
+
+### S36E18
+### CP-3615
+
+Airs 2024-11-22.
+
+**Catch Me If You Can**
+
+A lengthy pursuit in Independence, MO goes off-road; deputies chase a
+motorcyclist who claims he ran because he doesn't have a motorcycle
+endorsement; a man ingests fentanyl during a traffic stop.
+
+- TODO
+- TODO
+- TODO
+
+### S36E19
+### CP-3616
+
+Airs 2024-11-29.
+
+**Wild Ride**
+
+A woman rams a police car and begs officers to take care of her dog; a man
+tells officers he was just a passenger in a stolen Honda; a woman crashes her
+bicycle while trying to elude officers.
+
+- TODO
+- TODO
+- TODO
+
+### S36E20
+### CP-3617
+
+Airs 2024-12-06.
+
+**Familiar Faces**
+
+A suspect is tased twice after a car chase; his passenger resists and is also
+tased; a driver refuses to exit his truck in Florida; a woman claims the pills
+in her purse belong to her sister.
+
+- TODO
+- TODO
+- TODO

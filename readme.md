@@ -44,13 +44,16 @@ of the show -- I am missing several episodes.
 
 - [thrawn's original guide](https://copstvfan.github.io/geocities-copsonfox-archive/) (unmaintained since 2009-08-15)
 - [epguides.com (tvmaze)](https://epguides.com/cops/) (in the [past](https://web.archive.org/web/20151230230345/http://epguides.com:80/Cops/) this guide contained production numbers too)
+- [Rotten Tomatoes](https://www.rottentomatoes.com/tv/cops_1989) (first to contain information about upcoming episodes)
 - [thetvdb.com](https://thetvdb.com/series/cops/allseasons/official)
-- [tvguide.com](https://www.tvguide.com/tvshows/cops/episodes-season-1/1000242631/)
-- Wikipedia (not perfect):
+- [tvguide.com](https://www.tvguide.com/tvshows/cops/episodes-season-1/1000242631/) (lacks S34E02+ as of 2024-09-30)
+- [The Futon Critic](http://www.thefutoncritic.com/showatch/cops/listings/) (S16E35+)
+- [zap2it](https://tvschedule.zap2it.com/overview.html?programSeriesId=SH00017070&tmsId=SH000170700000&from=TVGrid&aid=gapzap) (S36 contains just a single episode as of 2024-09-30).
+- Wikipedia (missing S32E28, therefore containing incorrect `No. overall` numbers):
     - [seasons 1–20](<https://en.wikipedia.org/wiki/List_of_Cops_episodes_(seasons_1%E2%80%9320)>)
     - [season 21–present](<https://en.wikipedia.org/wiki/List_of_Cops_episodes_(season_21%E2%80%93present)>)
 - [IMDB](https://www.imdb.com/title/tt0096563/episodes) (outdated/unmaintained)
-- [TV Calendar (pogdesign.co.uk)](https://www.pogdesign.co.uk/cat/Cops-summary)
+- [TV Calendar (pogdesign.co.uk)](https://www.pogdesign.co.uk/cat/Cops-summary) (missing S36+ as of 2024-09-30)
 - Aaron Greenhouse's guide (seasons 7-13)
     - [season 7](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops07.html)
     - [season 8](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops08.html)
@@ -59,9 +62,7 @@ of the show -- I am missing several episodes.
     - [season 11](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops11.html)
     - [season 12](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops12.html)
     - [season 13](https://www.cs.cmu.edu/~aarong/from-andrew/fox/titles/cops13.html)
-- [The Futon Critic](http://www.thefutoncritic.com/showatch/cops/listings/) (S16E35+)
-- [TV Tango](http://www.tvtango.com/series/cops/episodes)
-- [zap2it](https://tvschedule.zap2it.com/overview.html?programSeriesId=SH00017070&tmsId=SH000170700000&from=TVGrid&aid=gapzap)
+- [TV Tango](http://www.tvtango.com/series/cops/episodes) (missing episodes past 2020-05-11)
 
 ### Guides Comparison
 
