@@ -7680,7 +7680,15 @@ Aired 1993-12-25.
 
 **Cleveland, OH 7**
 
-- (1:41 AM Sexual Assault)
+- (Cleveland, OH -- 1:41 AM Sexual Assault) Fourth District Police
+  Headquarters. Officer Tim Brown and Officer Jim Luby. A 29 year old woman was
+  hit with a hammer and sexually assaulted. Featuring Lt. Edward Teske.
+- (Cleveland, OH -- 5:51 PM Man with a Gun) Second District. Officer Mark
+  Tescar and Officer George Seroka. A man was carrying a rifle/shotgun, which
+  ended up being stolen.
+  - (6:21 PM Officer Assistance) Two police men are fighting and need
+    assistance. Featuring Officer Dale Mullins. A female stabbed a male.
+- TODO
 
 ### CP-636
 
