@@ -14333,8 +14333,8 @@ Aired 2004-01-03.
 
 **Coast to Coast 51**
 
-- (Indio, CA -- 10:24 PM Suspicious Activity Call) Mexican prowler looking in
-  windows is caught and beat up after returning
+- (Indio, CA -- 10:24 PM Suspicious Activity Call) Corporal Lisa Corton.
+  Mexican prowler looking in windows is caught and beat up after returning.
 - Palm Beach County, FL -- Suspicious vehicle with 2 black guys in a Lincoln Town
   Car that have thousands of dollars and drugs
 - Palm Springs, CA -- Traffic stop -- bicycle rider who came from a burglary has
