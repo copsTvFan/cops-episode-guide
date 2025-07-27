@@ -19056,7 +19056,7 @@ Aired 2008-09-20.
   chase by using his taser but misses the suspect. The man gives up on the
   other side of the roadway. Another officer also captures a fleeing suspect
   and both men are charged with obstructing.
-- (San Bernardino County, CA -- 7:44 AM Traffic Stop) Rancho Cucamonga Police
+- (San Bernardino County, CA -- 7:44 PM Traffic Stop) Rancho Cucamonga Police
   Department -- Deputy Mike Mason attempts to catch up to a vehicle that ran a
   stop sign. The vehicle stops after the driver loses control. The deputies
   initiate a felony traffic stop and take the driver and passenger into
