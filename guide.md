@@ -23508,12 +23508,9 @@ Aired 2023-06-16.
 
 **2 Flats Don't Make A Right**
 
-- A suspect forgets to drive away after breaking into a used car lot.
-- A dispute over money ends in felony vandalism.
-- The truth can be fleeting when suspects are found with narcotics and tall
-  tales.
-
-TODO
+- (Colton, CA -- 12:27 AM Burglary In Progress) Colton Police Department Officer Daniel Muro. A suspect forgets to drive away after breaking into a used car lot.
+- (Riverside, CA -- 8:53 PM Man With A Knife Call) Riverside Police Department, Main Station, FTO Steven Espinosa and Officer Humberto Montero. A dispute over money ends in felony vandalism.
+- (Santa Rosa County, FL -- 10:11 AM Traffic Stop) Santa Rosa Co. Sheriff’s Office Crime Interdiction Unit Deputy 1st Class Phillip Smith. The truth can be fleeting when suspects are found with narcotics and tall tales.
 
 ### S35E12
 
