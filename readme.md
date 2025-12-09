@@ -23,6 +23,10 @@ Improvements over Thrawn's guide:
 - can be collaboratively edited (feel free to contribute!)
 - can be cloned using a single command (`git clone https://github.com/copsTvFan/cops-episode-guide`) for easy archival
 
+## Episode numbering: airing vs. production numbers
+
+See [/episode-numbering](episode-numbering).
+
 ## Goals
 
 For every episode:

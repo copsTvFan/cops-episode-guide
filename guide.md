@@ -6,7 +6,7 @@ permalink: /
 
 # Cops Episode Guide by Thrawn and copsTvFan
 
-For context, see [/context](context).
+For context, see [/context](context), especially [/episode-numbering](episode-numbering).
 
 The `CP-***` episode numbers (e.g. `CP-524`) are production numbers, while the
 `S**E**` numbers (e.g. `S05E24`) are airing numbers. Production numbers are
