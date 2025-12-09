@@ -90,7 +90,7 @@ Aired 1989-03-11.
 - (8:45 AM Canada Home) Jerry makes breakfast for her two kids including a
   two year old and he explains how he is planning on moving in with her. They
   eat breakfast and read about an officer who just died.
-- (Officer in Court) Airport Interdiction Officer -- Vickie goes to the
+- (Officer in Court) Airport Interdiction Officer -- Deputy Vicki Cutcliffe goes to the
   airport and randomly searches people for drugs and most give her a hard
   time. Then she is at home with her two kids playing in the yard. The next
   day she and her partner are at the airport searching people again. The
@@ -99,7 +99,7 @@ Aired 1989-03-11.
   and he goes nuts and starts fighting everyone and she goes down. They take
   him away and find he had a stolen gun and six ounces of coke.  He then
   calls his girlfriend and mom to tell them he's going away for a while.
-  Vickie has been doing the same job for ten years. (Crackdown Briefing) On
+  Vicki has been doing the same job for ten years. (Crackdown Briefing) On
   July 8th they are going to arrest 150 people, tow 200 cars and bulldoze
   houses.  Sheriff Nick then goes up in a helicopter and the rest of the team
   gears up.
