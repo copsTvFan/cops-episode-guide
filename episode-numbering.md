@@ -30,9 +30,9 @@ Episode and production numbers for season 2 are identical.
 Many files online have objectively incorrect episode numbers. People make
 mistakes. Examples:
 
-- CP-1923 aired at 8PM on 2007-12-15 and CP-2022 aired at 8:30PM. `2HD`
-  released CP-1923 as "S20E14" instead of CP-2022. As a result there's no scene
-  release of CP-2022.
+- CP-1923 aired at 8PM on 2007-12-15 and CP-2022 aired at 8:30PM. Scene group
+  `2HD` released CP-1923 as "S20E14" and completely ignored CP-2022. As a
+  result there's no scene release of CP-2022.
 - S19E14 was similarly missed by the scene.
 
 When episodes are banned, platforms like Reelz don't keep the original episode
