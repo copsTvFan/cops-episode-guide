@@ -51,6 +51,11 @@ seen cases where the episode titles (like "Dog Eat Dog", "Not Your Papi") did
 not match the actual content because they were intended to be used with airing
 numbers, not production numbers.
 
+Another issue: should long episodes like "20 Years Caught on Tape" could as one
+episode (S20E05/CP-2037) or two separate episodes (S20E05/CP-2037 and
+S20E06/CP-2038)? They have two intros and two outros and look like standard
+episodes.
+
 All of this could have been avoided had `cops.com` maintained an episode guide.
 
 # Objectively numbering episodes from the first 20 seasons
