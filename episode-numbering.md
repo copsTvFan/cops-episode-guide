@@ -33,6 +33,12 @@ mistakes. Examples:
 - CP-1923 aired at 8PM on 2007-12-15 and CP-2022 aired at 8:30PM. `2HD`
   released CP-1923 as "S20E14" instead of CP-2022. As a result there's no scene
   release of CP-2022.
+- S19E14 was similarly missed by the scene.
+
+When episodes are banned, platforms like Reelz don't keep the original episode
+numbering because they don't want gaps in their offerings. For example, they
+shortened season 13 from 40 to only 36 episodes and shortened season 16 from 41
+to only 36 episodes.
 
 The situation with many other files is more complicated. For example, episodes
 can air out of sequence:
