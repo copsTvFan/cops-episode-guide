@@ -25,7 +25,7 @@ Improvements over Thrawn's guide:
 
 ## Episode numbering: airing vs. production numbers
 
-See [/episode-numbering](episode-numbering).
+See [episode-numbering](episode-numbering).
 
 ## Goals
 

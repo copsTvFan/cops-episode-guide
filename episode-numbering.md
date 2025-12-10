@@ -73,7 +73,7 @@ All of this could have been avoided had `cops.com` maintained an episode guide.
 1. Play the file
 2. Find the textual description for the first call. Example: `7:25 PM Hit and
    Run Accident`
-3. Search for that exact string in the guide here
+3. Search for that exact string in [the guide here](readme).
 4. If there's exactly one match, you have found the episode. If there are
    multiple matches, compare the city and officer name(s) to find the correct
    one
