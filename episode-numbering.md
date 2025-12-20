@@ -11,7 +11,7 @@ misnumbered. **Just because a file/video is titled e.g. "S01E01" doesn't mean
 it's actually S01E01!**
 
 This episode guide is the most complete and accurate one on the Internet, at
-least for seasons 1 through 34 (see [this
+least for seasons 1 through 37 (see [this
 comparison](https://github.com/copsTvFan/cops-episode-guide/blob/master/guides-comparison.csv)).
 
 # Episode vs. production numbers
@@ -68,7 +68,7 @@ S20E06/CP-2038)? They have two intros and two outros and look like standard
 episodes.
 
 What about the "Bryce Dion Tribute" episode which aired after S27E08? Should
-it count as S27E09, or S27E00, or something else?
+it count as S27E09, or S27E00, or something else (`S00E__`)?
 
 After S36E05 you'd expect to see S36E06, but actually the next episodes (at
 least "officially") are S36E34, S36E35, and S36E36, after which you return to
