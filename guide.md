@@ -6695,7 +6695,8 @@ Aired 1992-11-21.
 **Denver, CO 3**
 
 - (Denver, CO -- 11:12 PM Shooting Call) Technician Reuben Gomez, Technician
-  Ken Padgett. Metro SWAT unit. Detective Ron Blair.
+  Ken Padgett. Metro SWAT unit. Detective Ron Blair. A father stabs and murders
+  his own son after the son hit him.
 - (Denver, CO -- 1:15 AM Disturbance Call) District 4. Officer Manny Mauri,
   Officer Mike Pettinger. Famous clip of a guy banging his head against the
   trunk of a police car, saying "kill me!".
@@ -18048,15 +18049,17 @@ Aired 2008-02-23.
 
 - (Kansas City, MO -- 3:05 PM Pursuit in Progress) Police Department East
   Precinct -- Officers Michael Sartain and Pete Cutcliff assist another
-  department that is chasing a homicide suspect in a neighboring city. The
-  officers join the pursuit and watch as the suspect drives his vehicle through
-  traffic and up into the parking lot of a gas station. The driver collides
-  with a car at the pumps, knocking down a female and wrecking two other
-  vehicles. Officer Sartain explains that the man has a warrant for his arrest
-  for a homicide committed in another area. The man is taken to the hospital
-  where several officers will wait for him to wake up and take him into
-  custody. The officers explain that there are no major injuries despite the
-  severe impact.
+  department that is chasing a homicide suspect (34-year-old Kenneth Smith) in
+  a neighboring city. The officers join the pursuit and watch as the suspect
+  drives his vehicle through traffic and up into the parking lot of a gas
+  station. The driver collides with a car at the pumps, knocking down a female
+  and wrecking two other vehicles. Officer Sartain explains that the man has a
+  warrant for his arrest for a homicide committed in Randolph. The man is taken
+  to the hospital where several officers will wait for him to wake up and take
+  him into custody. The officers explain that there are no major injuries
+  despite the severe impact.
+  Kenneth Smith was charged with first-degree murder in the Wednesday shooting
+  of store clerk Tony Barnett Junior in Randolph, Missouri.
 - Detective Aaron Vigil of the Rialto, CA Police Department rolls to back up
   patrol officers on a domestic violence call. The police have already visited
   the home once today. When they arrive, they are flagged down and told the

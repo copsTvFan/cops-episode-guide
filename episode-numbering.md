@@ -54,17 +54,25 @@ can air out of sequence:
 Scene groups will number episodes as they air. But TVDB, Wikipedia and others
 will respect the intended numbering from Cops.
 
-Platforms like Reelz and Pluto usually order episodes by their production
-numbers, but they still use the `S__E__` (like `S20E01`) notation instead of
-`CP-____` (like `CP-2001`), which sometimes confuses even themselves -- I have
-seen cases where the episode titles (like "Dog Eat Dog", "Not Your Papi") did
-not match the actual content because they were intended to be used with airing
-numbers, not production numbers.
+The official Cops YouTube channel, as well as platforms like Reelz and Pluto
+usually order episodes by their production numbers, but they still use the
+`S__E__` (like `S20E01`) notation instead of `CP-____` (like `CP-2001`), which
+sometimes confuses even themselves -- I have seen cases where the episode
+titles (like "Dog Eat Dog", "Not Your Papi") did not match the actual content
+because they were intended to be used with airing numbers, not production
+numbers.
 
 Another issue: should long episodes like "20 Years Caught on Tape" could as one
 episode (S20E05/CP-2037) or two separate episodes (S20E05/CP-2037 and
 S20E06/CP-2038)? They have two intros and two outros and look like standard
 episodes.
+
+What about the "Bryce Dion Tribute" episode which aired after S27E08? Should
+it count as S27E09, or S27E00, or something else?
+
+After S36E05 you'd expect to see S36E06, but actually the next episodes (at
+least "officially") are S36E34, S36E35, and S36E36, after which you return to
+S36E06.
 
 All of this could have been avoided had `cops.com` maintained an episode guide.
 
