@@ -74,9 +74,9 @@ After S36E05 you'd expect to see S36E06, but actually the next episodes (at
 least "officially") are S36E34, S36E35, and S36E36, after which you return to
 S36E06.
 
-But wait, it gets worse: guess which episode follows S36E21? Season 37 (S37E01,
-S37E02, S37E03, S37E04, S37E05), after which you return to season 36 with
-S36E22!
+But wait, it gets worse: guess which episode was released following S36E21?
+It's actually S37E01 (new season), followed by S37E02, S37E03, S37E04, and
+S37E05, after which you return to season 36 with S36E22!
 
 All of this could have been avoided had `cops.com` maintained an episode guide.
 
