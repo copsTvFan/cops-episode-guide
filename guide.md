@@ -24025,12 +24025,11 @@ Aired 2024-06-21.
 
 **Tased and Confused**
 
-A man waves a knife in a coffee shop and is tased. Officers tase a suspect with
-ATF warrants. A fleeing driver fights officers while being tased. A suspect
-claims officers are 'hackers' and resists.
-
-- (Springfield, MO -- 4:01 PM Man With a Knife Call) Officer Hailey Seaton
-- TODO
+- (Springfield, MO -- 4:01 PM Man With a Knife Call) Officer Hailey Seaton.
+  A man waves a knife in a coffee shop and is tased.
+- officers tase a suspect with ATF warrants
+- a fleeing driver fights officers while being tased
+- a suspect claims officers are 'hackers' and resists.
 - TODO
 
 ### S36E07
@@ -24040,12 +24039,11 @@ Aired 2024-06-21.
 
 **Hot Pursuit**
 
-A suspect drives through a fence during a high-speed pursuit. The hood flies up
-on a truck during a chase. A box truck crashes into a ditch. Shoplifters hang
-onto their big screen TV while fleeing.
-
 - (Independence, MO -- 10:01 AM Vehicle Pursuit) Officer Dustin Stewart
-- TODO
+- A suspect drives through a fence during a high-speed pursuit.
+- The hood flies up on a truck during a chase.
+- A box truck crashes into a ditch.
+- Shoplifters hang onto their big screen TV while fleeing.
 - TODO
 
 ### S36E08
@@ -24055,12 +24053,11 @@ Aired 2024-06-21.
 
 **Hot Pursuit 2**
 
-A woman rams a police car. A suspect makes a video call to his family during a
-high-speed pursuit. A vehicle used in a recent shooting flees. Spike strips are
-used to disable a stolen box truck.
-
 - (Independence, MO -- 11:36 PM Stolen Vehicle) Officer Brendan Buchanan, Officer Allyx McCoy, Sgt. Rob Romey.
-- TODO
+- A woman rams a police car.
+- A suspect makes a video call to his family during a high-speed pursuit.
+- A vehicle used in a recent shooting flees.
+- Spike strips are used to disable a stolen box truck.
 - TODO
 
 ### S36E09
@@ -24262,9 +24259,9 @@ Aired 2025-02-28.
 
 **Slim Not So Fast**
 
-- A man on a bike refuses to stop and tries to hide a drug-filled backpack.
-- A motorcyclist's attempt to flee is foiled by a big r…
-- ...
+- A man on a bike refuses to stop and tries to hide a drug-filled backpack
+- a motorcyclist's attempt to flee is foiled by a big rig blocking the road
+- meth is found in a center console during a stop.
 
 ### S36E22
 ### CP-3619
@@ -24274,10 +24271,9 @@ Aired 2025-03-28. The scene considers this S37E06.
 **One For The Road**
 
 - (Independence, MO -- 11:47 PM Pursuit In Progress) Officer Brendan Buchanan.
-  A female shoplifter flees in a stolen box truck and crashes into a retaining
-  wall.
-- A green Honda runs in Wichita. A femal…
-- ...
+  A female shoplifter flees in a stolen box truck and crashes into a retaining wall
+- a green Honda runs in Wichita, Kan.
+- a female passenger in Florida admits to hiding drugs and a pipe in her intimate area.
 
 ### S36E23
 ### CP-3620
@@ -24286,10 +24282,10 @@ Aired 2025-04-04. The scene considers this S37E07.
 
 **Running Out of Steam**
 
-- (West Covina, CA -- 8:35 PM Vehicle Pursuit) Officer Ian Paparro
-- A suspect makes a video call during a pursuit to apologize for relapsing.
-- A burglar runs in circles in a vain attempt to elude…
-- ...
+- (West Covina, CA -- 8:35 PM Vehicle Pursuit) Officer Ian Paparro.
+  A suspect makes a video call during a pursuit to apologize for relapsing
+- a burglar runs in circles in a vain attempt to elude officers
+- a sergeant finds a magnetic box full of meth and a hidden gun.
 
 ### S36E24
 ### CP-3621
@@ -24298,10 +24294,10 @@ Aired 2025-04-11. The scene considers this S37E08.
 
 **Bagged Lady**
 
-- (West Covina, CA -- 9:07 PM Vehicle Pursuit) Sgt. Chris Palaganas
-- The driver of a car with a loud exhaust admits he panicked and ran.
-- A woman caught riding a stolen moped claims she …
-- ...
+- (West Covina, CA -- 9:07 PM Vehicle Pursuit) Sgt. Chris Palaganas.
+  The driver of a car with a loud exhaust admits he panicked and ran
+- a woman caught riding a stolen moped claims she borrowed it
+- a man is caught with a tool for deactivating security tags.
 
 ### S36E25
 ### CP-3622
@@ -24311,9 +24307,10 @@ Aired 2025-04-18. The scene considers this S37E09.
 **Playtime is Over**
 
 - (Wichita, KS -- 9:15 PM Traffic Stop) Officer Codie Trobaugh, Officer Nick
-  Jones. A driver speeds off when asked to step out of his truck.
-- Deputies learn a man with a warrant for fentanyl is hiding in …
-- ...
+  Jones. A driver speeds off when asked to step out of his truck during a traffic stop
+- deputies in Florida learn a man with a warrant for a fentanyl charge is
+  hiding in the backyard of a nearby house.
+- TODO
 
 ### S36E26
 ### CP-3623
@@ -24323,9 +24320,9 @@ Aired 2025-04-25. The scene considers this S37E10.
 **Trippin' Taser**
 
 - (Wichita, KS -- 8:05 PM Traffic Stop) Officer Nicholas Barnes, Officer James
-  Hale. A suspect with an ATF warrant runs from a traffic stop and gets tased.
-- Drones help locate stolen motorcycles in Fort W…
-- ...
+  Hale. A suspect with an ATF warrant runs from a traffic stop and gets tased
+- drones help locate stolen motorcycles in Fort Wayne, Ind.
+- a suspect leaves behind soggy footprints when he bails from a stolen car.
 
 ### S36E27
 ### CP-3624
@@ -24335,9 +24332,9 @@ Aired 2025-05-02. The scene considers this S37E11.
 **Missed Connections**
 
 - (Wichita, KS -- 3:02 AM Suspicious Vehicle) Officer Brett Pearce.
-- A fleeing driver claims he was looking for companionship.
-- A man admits to picking up a scantily clad lady and offering h…
-- ...
+  A fleeing driver claims he was looking for companionship
+- a man admits to picking up a scantily clad lady and offering her $100 for her services
+- a man caught with meth claims he was set up by a girl.
 
 ### S36E28
 ### CP-3625
@@ -24347,9 +24344,9 @@ Aired 2025-05-09. The scene considers this S37E12.
 **Final Answer**
 
 - (West Covina, CA -- 1:28 AM Suspicious Person) Officer Christian Hernandez, Officer Ian Paparro.
-- A suspect questions whether Officers are 'the real police'.
-- A fleeing suspect parks at an elementary school and makes e…
-- ...
+  A suspect questions whether Officers are "the real police"
+- a fleeing suspect parks at an elementary school and makes excuses
+- a husband's "final answer" sends his wife to jail for meth.
 
 ### S36E29
 ### CP-3626
@@ -24358,10 +24355,10 @@ Aired 2025-05-16. The scene considers this S37E13.
 
 **Out of Air**
 
-- (Riverside County, CA -- 4:14 PM Stolen Vehicle) Deputy Angel Gonzalez
-- Spike strips are used to deflate the tires of a stolen box truck.
-- Pounds of meth and a tossed gun are recovered after a purs…
-- ...
+- (Riverside County, CA -- 4:14 PM Stolen Vehicle) Deputy Angel Gonzalez.
+  Spike strips are used to deflate the tires of a stolen box truck
+- pounds of meth and a tossed gun are recovered after a pursuit
+- a prior felon caught with a gun and cocaine claims he was being chased.
 
 ### S36E30
 ### CP-3627
@@ -24372,9 +24369,9 @@ Aired 2025-05-23. The scene considers this S37E14.
 
 - (Independence, MO -- 10:56 PM Vehicle Pursuit) Officer Brendan Buchanan,
   Officer Josh Davison. A stolen Dodge Ram 1500 crashes and knocks the power
-  out.
-- A woman caught huffing canned air in a stolen car keeps ch…
-- ...
+  out
+- a woman caught huffing canned air in a stolen car keeps changing her story
+- a FLIR-equipped helicopter is used to catch fleeing juveniles.
 
 ### S36E31
 ### CP-3628
@@ -24385,9 +24382,9 @@ Aired 2025-05-30. The scene considers this S37E15.
 
 - (Wichita, KS -- 10:14 PM Traffic Stop) Officer Nick Jones, Officer Emily
   Hoover. A handcuffed passenger surprises officers by running from a traffic
-  stop.
-- A fleeing SUV runs out of gas shortly after a purs…
-- ...
+  stop
+- a fleeing SUV runs out of gas shortly after a pursuit is terminated
+- a man claims guns were planted in his car.
 
 ### S36E32
 ### CP-3629
@@ -24397,10 +24394,9 @@ Aired 2025-06-06. The scene considers this S37E16.
 **Clothes Call**
 
 - (San Bernardino, CA -- 10:51 PM Vehicle Pursuit In Progress) Corporal Andrew
-  Saibene, Sgt. Imran Ahmed. Police pursue a car wanted in connection to a
-  shooting
-- Stop Sticks end a chase involving a dually truck.
-- Deputies help a …
+  Saibene and Sgt. Imran Ahmed pursue a car wanted in connection to a shooting;
+- Independence, Missouri Police deploy Stop Sticks to end a chase with a dually truck
+- Anderson County, S.C. Deputies grab laundry for a man arrested on a probation warrant.
 
 ### S36E33
 ### CP-3630
@@ -24409,10 +24405,10 @@ Aired 2025-06-13. The scene considers this S37E17.
 
 **Desert Dustup**
 
-- (Riverside County, CA -- 11:51 PM Bicycle Stop) Deputy Zachary Miller. A
-  bicyclist with a warrant pedals into the desert to avoid deputies.
-- Surveillance cameras identify suspects in a beer r…
-- ...
+- (Riverside County, CA -- 11:51 PM Bicycle Stop) Deputy Zachary Miller.
+  A bicyclist with a warrant pedals into the desert to avoid deputies;
+- surveillance cameras identify suspects in a beer run;
+- a man in love struggles with his girlfriend's addictive behavior.
 
 ### S36E34
 ### CP-3631
@@ -24422,9 +24418,9 @@ Aired 2025-06-20. The scene considers this S37E18.
 **Packin' Heat**
 
 - (San Bernardino, CA -- 9:33 PM Officer Assistance Call) Officer Jacob Rosales.
-- A suspect resisting arrest tells officers he has a gun in his waist pack.
-- Deputies chase a man on a bike into a backyard.…
-- ...
+  A suspect resisting arrest tells officers he has a gun in his waist pack.
+- a man with warrants pretends not to notice a Riverside County Deputy attempting to stop him;
+- a passerby calls Stockton Police when he sees a man push his girlfriend during a domestic dispute.
 
 ### S36E35
 ### CP-3632
@@ -24433,10 +24429,12 @@ Aired 2025-06-27. The scene considers this S37E19.
 
 **Zoomin' & Schroomin'**
 
-- (San Bernardino, CA -- 7:30 PM Man With A Knife Call) Officer Diego Diaz. A
-  suspect wanted for brandishing a knife squares up with officers.
-- A passenger learns the hard way that a friend offer…
-- ...
+- (San Bernardino, CA -- 7:30 PM Man With A Knife Call) Officer Diego Diaz.
+  A suspect wanted for brandishing a knife attempts to flee on foot in San
+  Bernardino, California, and is taken to the ground when he turns and squares
+  up with officers;
+- Wichita Police chase a stolen white Jeep.
+- TODO
 
 ### S36E36
 ### CP-3633
@@ -24446,10 +24444,10 @@ Aired 2025-08-01. The scene considers this S37E23.
 **Stick and Move**
 
 - (Independence, MO -- 11:59 PM Vehicle Pursuit In Progress) Officer Leland
-  La'ulu, Officer Dylan Scheirich. A female driver believes officers 'cheated'
-  by using Stop Sticks to end a pursuit.
-- A man making threats at a gas station is caug…
-- ...
+  La'ulu, Officer Dylan Scheirich. A female driver believes officers "cheated"
+  by using Stop Sticks to end a pursuit
+- a man making threats at a gas station is caught with his pants down
+- a suspect caught with meth claims he is a video judge.
 
 ## Season 37
 
@@ -24608,7 +24606,7 @@ Aired 2025-10-24. The scene considers this to be S37E29.
 
 **Mount Up, Takedown**
 
-- A stolen motorcycle leads Deputies up a mountain after failing to lose them in town. …
+- A stolen motorcycle leads Deputies up a mountain after failing to lose them in town.
 - ...
 - ...
 
