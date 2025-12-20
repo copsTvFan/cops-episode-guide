@@ -23846,9 +23846,74 @@ unsuccessful Taser deployment; a motorcycle runs from cops in Fontana.
 
 ## Season 36
 
-2024-present.
+2024-2025.
 
 Network: Fox Nation.
+
+Scene numbering is wrong for season 36/37 because the seasons were airing at the same time:
+
+| Date       | Airing number | Scene number | Official S36 number  | Official S37 number | Title                               |
+| -          | -             | -            | -                    | -                   | -                                   |
+| 2024-04-05 | S36E01        | S36E01       | S36E01 (CP-3601)     |                     | Spring Break Mistakes               |
+| 2024-04-05 | S36E02        | S36E02       | S36E02 (CP-3602)     |                     | Spring Break In                     |
+| 2024-04-12 | S36E03        | S36E03       | S36E03 (CP-3603)     |                     | Spring Break Heartache              |
+| 2024-04-12 | S36E04        | S36E04       | S36E04 (CP-3604)     |                     | Spring Break Dance Party            |
+| 2024-04-19 | S36E05        | S36E05       | S36E05 (CP-3605)     |                     | Spring Break Wipeout                |
+| 2024-06-21 | S36E06        | S36E06       | S36E34 (CP-3634)     |                     | Tased and Confused                  |
+| 2024-06-21 | S36E07        | S36E07       | S36E35 (CP-3635)     |                     | Hot Pursuit                         |
+| 2024-06-21 | S36E08        | S36E08       | S36E36 (CP-3636)     |                     | Hot Pursuit 2                       |
+| 2024-09-27 | S36E09        | S36E09       | S36E06 (CP-3606)     |                     | Anger Unmanaged                     |
+| 2024-09-27 | S36E10        | S36E10       | S36E07 (CP-3607)     |                     | Reckless Intentions                 |
+| 2024-10-04 | S36E11        | S36E11       | S36E08 (CP-3608)     |                     | Walk it Off                         |
+| 2024-10-11 | S36E12        | S36E12       | S36E09 (CP-3609)     |                     | Fight, Flight, or Chill             |
+| 2024-10-18 | S36E13        | S36E13       | S36E10 (CP-3610)     |                     | Flying Blind                        |
+| 2024-10-25 | S36E14        | S36E14       | S36E11 (CP-3611)     |                     | Impulsive Decisions                 |
+| 2024-11-01 | S36E15        | S36E15       | S36E12 (CP-3612)     |                     | Identity Crisis                     |
+| 2024-11-08 | S36E16        | S36E16       | S36E13 (CP-3613)     |                     | Stolen Cars and Movie Stars         |
+| 2024-11-15 | S36E17        | S36E17       | S36E14 (CP-3614)     |                     | Light Confusion                     |
+| 2024-11-22 | S36E18        | S36E18       | S36E15 (CP-3615)     |                     | Catch Me If You Can                 |
+| 2024-11-29 | S36E19        | S36E19       | S36E16 (CP-3616)     |                     | Wild Ride                           |
+| 2024-12-06 | S36E20        | S36E20       | S36E17 (CP-3617)     |                     | Familiar Faces                      |
+| 2025-02-28 | S36E21        | S36E21       | S36E18 (CP-3618)     |                     | Slim Not So Fast                    |
+| 2025-03-07 | S37E01        | S37E01       |                      | S37E01 (CP-3701)    | Spring Break: Bridal Party Bailout  |
+| 2025-03-07 | S37E02        | S37E02       |                      | S37E02 (CP-3702)    | Spring Break: Hole Lotta Problems   |
+| 2025-03-14 | S37E03        | S37E03       |                      | S37E03 (CP-3703)    | Spring Break: Bombed at the Beach   |
+| 2025-03-14 | S37E04        | S37E04       |                      | S37E04 (CP-3704)    | Spring Break: Mixed Emotions        |
+| 2025-03-21 | S37E05        | S37E05       |                      | S37E05 (CP-3705)    | Spring Break: Evicted From Paradise |
+| 2025-03-28 | S36E22        | S37E06       | S36E19 (CP-3619)     |                     | One For The Road                    |
+| 2025-04-04 | S36E23        | S37E07       | S36E20 (CP-3620)     |                     | Running Out of Steam                |
+| 2025-04-11 | S36E24        | S37E08       | S36E21 (CP-3621)     |                     | Bagged Lady                         |
+| 2025-04-18 | S36E25        | S37E09       | S36E22 (CP-3622)     |                     | Playtime is Over                    |
+| 2025-04-25 | S36E26        | S37E10       | S36E23 (CP-3623)     |                     | Trippin' Taser                      |
+| 2025-05-02 | S36E27        | S37E11       | S36E24 (CP-3624)     |                     | Missed Connections                  |
+| 2025-05-09 | S36E28        | S37E12       | S36E25 (CP-3625)     |                     | Final Answer                        |
+| 2025-05-16 | S36E29        | S37E13       | S36E26 (CP-3626)     |                     | Out of Air                          |
+| 2025-05-23 | S36E30        | S37E14       | S36E27 (CP-3627)     |                     | Live Wire                           |
+| 2025-05-30 | S36E31        | S37E15       | S36E28 (CP-3628)     |                     | Cuff Enough to Run                  |
+| 2025-06-06 | S36E32        | S37E16       | S36E29 (CP-3629)     |                     | Clothes Call                        |
+| 2025-06-13 | S36E33        | S37E17       | S36E30 (CP-3630)     |                     | Desert Dustup                       |
+| 2025-06-20 | S36E34        | S37E18       | S36E31 (CP-3631)     |                     | Packin' Heat                        |
+| 2025-06-27 | S36E35        | S37E19       | S36E32 (CP-3632)     |                     | Zoomin' & Schroomin'                |
+| 2025-07-11 | S37E06        | S37E20       |                      |                     | Stuck On You                        |
+| 2025-07-18 | S37E07        |              |                      |                     | Photo Finish                        |
+| 2025-07-25 | S37E08        |              |                      |                     | Up, Up and Away                     |
+| 2025-08-01 | S36E36        |              | S36E33 (CP-3633)     |                     | Stick and Move                      |
+| 2025-09-26 | S37E09        |              |                      | S37E06 (CP-3706)    | Las Vegas: Over the Limit           |
+| 2025-09-26 | S37E10        |              |                      | S37E07 (CP-3707)    | Las Vegas: Dipped & Flipped         |
+| 2025-10-03 | S37E11        |              |                      | S37E08 (CP-3708)    | Las Vegas: Fake it til you make it  |
+| 2025-10-10 | S37E12        |              |                      | S37E09 (CP-3709)    | Las Vegas: Bus-Ted!                 |
+| 2025-10-17 | S37E13        |              |                      | S37E10 (CP-3710)    | Las Vegas: Bossy & Glossy           |
+| 2025-10-24 | S37E14        |              |                      | S37E11 (CP-3711)    | Mount Up, Takedown                  |
+| 2025-10-31 | S37E15        |              |                      | S37E12 (CP-3712)    | Hit the Gas                         |
+| 2025-11-07 | S37E16        |              |                      | S37E13 (CP-3713)    | Key Takeaways                       |
+| 2025-11-14 | S37E17        |              |                      | S37E14 (CP-3714)    | Misspent Youth                      |
+| 2025-11-21 | S37E18        |              |                      | S37E15 (CP-3715)    | No Bull Profession                  |
+| 2025-11-28 | S37E19        |              |                      | S37E16 (CP-3716)    | Fueling Around                      |
+| 2025-12-05 | S37E20        |              |                      | S37E17 (CP-3717)    | Flee Finder                         |
+
+The production numbers (`CP-xxxx`) in this guide are the official (from Fox Nation) episode numbers.
+
+The standard episode numbers (`S..E..`) follow episode airing order.
 
 ### S36E01
 ### CP-3601
@@ -23904,21 +23969,14 @@ Aired 2024-04-12.
 
 **Spring Break Heartache**
 
-An underage spring breaker is caught with a 'blackout rage gallon' and issued a
-ticket. A zero-tolerance policy of no alcohol or glass containers on the beach
-is enforced in Pinellas County.
-
-In this Spring Break Special Edition, Okaloosa County Deputies patrol the beach
-and locate an underaged male in possession of a 'blackout rage gallon' or
-'borg', a popular mixture of alcohol, electrolyte powder, and caffeine
-additive. Pinellas County Deputies enforce a zero-tolerance policy against
-glass containers and alcohol during Spring Break. An Okaloosa County Deputy
-encounters a group of college kids with coolers full of beer and writes notices
-to appear for the cooperative group.
-
-- TODO
-- TODO
-- TODO
+- In this Spring Break Special Edition, Okaloosa County Deputies patrol the
+  beach and locate an underaged male in possession of a 'blackout rage gallon'
+  or 'borg', a popular mixture of alcohol, electrolyte powder, and caffeine
+  additive.
+- Pinellas County Deputies enforce a zero-tolerance policy against glass
+  containers and alcohol during Spring Break.
+- An Okaloosa County Deputy encounters a group of college kids with coolers
+  full of beer and writes notices to appear for the cooperative group.
 
 ### S36E04
 ### CP-3604
@@ -23939,10 +23997,6 @@ caffeine and alcohol. A group of out-of-state swimmers are rescued from a
 riptide by lifeguards and local surfers. A man lies about his age when he is
 caught carrying a cooler full of alcohol.
 
-- TODO
-- TODO
-- TODO
-
 ### S36E05
 ### CP-3605
 
@@ -23962,10 +24016,6 @@ beachgoer is given a ticket for an open container and tells Deputies his mom
 will take care of it for him. Teenage girls are required to dump out a cooler
 full of beer on a non-alcoholic beach.
 
-- TODO
-- TODO
-- TODO
-
 ### S36E06
 ### CP-3634
 
@@ -23977,7 +24027,7 @@ A man waves a knife in a coffee shop and is tased. Officers tase a suspect with
 ATF warrants. A fleeing driver fights officers while being tased. A suspect
 claims officers are 'hackers' and resists.
 
-- TODO
+- (Springfield, MO -- 4:01 PM Man With a Knife Call) Officer Hailey Seaton
 - TODO
 - TODO
 
@@ -23992,12 +24042,14 @@ A suspect drives through a fence during a high-speed pursuit. The hood flies up
 on a truck during a chase. A box truck crashes into a ditch. Shoplifters hang
 onto their big screen TV while fleeing.
 
-- TODO
+- (Independence, MO -- 10:01 AM Vehicle Pursuit) Officer Dustin Stewart
 - TODO
 - TODO
 
 ### S36E08
 ### CP-3636
+
+Aired 2024-06-21.
 
 **Hot Pursuit 2**
 
@@ -24005,9 +24057,7 @@ A woman rams a police car. A suspect makes a video call to his family during a
 high-speed pursuit. A vehicle used in a recent shooting flees. Spike strips are
 used to disable a stolen box truck.
 
-Aired 2024-06-21.
-
-- TODO
+- (Independence, MO -- 11:36 PM Stolen Vehicle) Officer Brendan Buchanan, Officer Allyx McCoy, Sgt. Rob Romey.
 - TODO
 - TODO
 
@@ -24060,7 +24110,7 @@ red flashing lights.
 ### S36E11
 ### CP-3608
 
-Airs 2024-10-04.
+Aired 2024-10-04.
 
 **Walk It Off**
 
@@ -24075,7 +24125,7 @@ warrants in Greene County, Missouri.
 ### S36E12
 ### CP-3609
 
-Airs 2024-10-11.
+Aired 2024-10-11.
 
 **Fight, Flight, or Chill**
 
@@ -24090,7 +24140,7 @@ eyes when a deputy suspects him of driving high.
 ### S36E13
 ### CP-3610
 
-Airs 2024-10-18.
+Aired 2024-10-18.
 
 **Flying Blind**
 
@@ -24105,7 +24155,7 @@ caught after a hit-and-run at a dance hall.
 ### S36E14
 ### CP-3611
 
-Airs 2024-10-25.
+Aired 2024-10-25.
 
 **Impulsive Decisions**
 
@@ -24120,7 +24170,7 @@ stick is used to end a chase in Missouri.
 ### S36E15
 ### CP-3612
 
-Airs 2024-11-01.
+Aired 2024-11-01.
 
 **Identity Crisis**
 
@@ -24135,7 +24185,7 @@ from a relative.
 ### S36E16
 ### CP-3613
 
-Airs 2024-11-08.
+Aired 2024-11-08.
 
 **Stolen Cars and Movie Stars**
 
@@ -24150,7 +24200,7 @@ an altered tag is discovered to be stolen.
 ### S36E17
 ### CP-3614
 
-Airs 2024-11-15.
+Aired 2024-11-15.
 
 **Light Confusion**
 
@@ -24165,7 +24215,7 @@ caught walking in traffic on the Vegas Strip.
 ### S36E18
 ### CP-3615
 
-Airs 2024-11-22.
+Aired 2024-11-22.
 
 **Catch Me If You Can**
 
@@ -24180,7 +24230,7 @@ endorsement; a man ingests fentanyl during a traffic stop.
 ### S36E19
 ### CP-3616
 
-Airs 2024-11-29.
+Aired 2024-11-29.
 
 **Wild Ride**
 
@@ -24195,14 +24245,439 @@ bicycle while trying to elude officers.
 ### S36E20
 ### CP-3617
 
-Airs 2024-12-06.
+Aired 2024-12-06.
 
 **Familiar Faces**
 
-A suspect is tased twice after a car chase; his passenger resists and is also
-tased; a driver refuses to exit his truck in Florida; a woman claims the pills
-in her purse belong to her sister.
+- A suspect is tased twice after a car chase. His passenger resists and is also tased.
+- A driver refuses to exit his truck in Florida
+- A woman claims the pills in her purse belong to her sister
 
-- TODO
-- TODO
-- TODO
+### S36E21
+### CP-3618
+
+Aired 2025-02-28.
+
+**Slim Not So Fast**
+
+- A man on a bike refuses to stop and tries to hide a drug-filled backpack.
+- A motorcyclist's attempt to flee is foiled by a big r…
+- ...
+
+### S36E22
+### CP-3619
+
+Aired 2025-03-28. The scene considers this S37E06.
+
+**One For The Road**
+
+- (Independence, MO -- 11:47 PM Pursuit In Progress) Officer Brendan Buchanan.
+  A female shoplifter flees in a stolen box truck and crashes into a retaining
+  wall.
+- A green Honda runs in Wichita. A femal…
+- ...
+
+### S36E23
+### CP-3620
+
+Aired 2025-04-04. The scene considers this S37E07.
+
+**Running Out of Steam**
+
+- (West Covina, CA -- 8:35 PM Vehicle Pursuit) Officer Ian Paparro
+- A suspect makes a video call during a pursuit to apologize for relapsing.
+- A burglar runs in circles in a vain attempt to elude…
+- ...
+
+### S36E24
+### CP-3621
+
+Aired 2025-04-11. The scene considers this S37E08.
+
+**Bagged Lady**
+
+- (West Covina, CA -- 9:07 PM Vehicle Pursuit) Sgt. Chris Palaganas
+- The driver of a car with a loud exhaust admits he panicked and ran.
+- A woman caught riding a stolen moped claims she …
+- ...
+
+### S36E25
+### CP-3622
+
+Aired 2025-04-18. The scene considers this S37E09.
+
+**Playtime is Over**
+
+- (Wichita, KS -- 9:15 PM Traffic Stop) Officer Codie Trobaugh, Officer Nick
+  Jones. A driver speeds off when asked to step out of his truck.
+- Deputies learn a man with a warrant for fentanyl is hiding in …
+- ...
+
+### S36E26
+### CP-3623
+
+Aired 2025-04-25. The scene considers this S37E10.
+
+**Trippin' Taser**
+
+- (Wichita, KS -- 8:05 PM Traffic Stop) Officer Nicholas Barnes, Officer James
+  Hale. A suspect with an ATF warrant runs from a traffic stop and gets tased.
+- Drones help locate stolen motorcycles in Fort W…
+- ...
+
+### S36E27
+### CP-3624
+
+Aired 2025-05-02. The scene considers this S37E11.
+
+**Missed Connections**
+
+- (Wichita, KS -- 3:02 AM Suspicious Vehicle) Officer Brett Pearce.
+- A fleeing driver claims he was looking for companionship.
+- A man admits to picking up a scantily clad lady and offering h…
+- ...
+
+### S36E28
+### CP-3625
+
+Aired 2025-05-09. The scene considers this S37E12.
+
+**Final Answer**
+
+- (West Covina, CA -- 1:28 AM Suspicious Person) Officer Christian Hernandez, Officer Ian Paparro.
+- A suspect questions whether Officers are 'the real police'.
+- A fleeing suspect parks at an elementary school and makes e…
+- ...
+
+### S36E29
+### CP-3626
+
+Aired 2025-05-16. The scene considers this S37E13.
+
+**Out of Air**
+
+- (Riverside County, CA -- 4:14 PM Stolen Vehicle) Deputy Angel Gonzalez
+- Spike strips are used to deflate the tires of a stolen box truck.
+- Pounds of meth and a tossed gun are recovered after a purs…
+- ...
+
+### S36E30
+### CP-3627
+
+Aired 2025-05-23. The scene considers this S37E14.
+
+**Live Wire**
+
+- (Independence, MO -- 10:56 PM Vehicle Pursuit) Officer Brendan Buchanan,
+  Officer Josh Davison. A stolen Dodge Ram 1500 crashes and knocks the power
+  out.
+- A woman caught huffing canned air in a stolen car keeps ch…
+- ...
+
+### S36E31
+### CP-3628
+
+Aired 2025-05-30. The scene considers this S37E15.
+
+**Cuff Enough to Run**
+
+- (Wichita, KS -- 10:14 PM Traffic Stop) Officer Nick Jones, Officer Emily
+  Hoover. A handcuffed passenger surprises officers by running from a traffic
+  stop.
+- A fleeing SUV runs out of gas shortly after a purs…
+- ...
+
+### S36E32
+### CP-3629
+
+Aired 2025-06-06. The scene considers this S37E16.
+
+**Clothes Call**
+
+- (San Bernardino, CA -- 10:51 PM Vehicle Pursuit In Progress) Corporal Andrew
+  Saibene, Sgt. Imran Ahmed. Police pursue a car wanted in connection to a
+  shooting
+- Stop Sticks end a chase involving a dually truck.
+- Deputies help a …
+
+### S36E33
+### CP-3630
+
+Aired 2025-06-13. The scene considers this S37E17.
+
+**Desert Dustup**
+
+- (Riverside County, CA -- 11:51 PM Bicycle Stop) Deputy Zachary Miller. A
+  bicyclist with a warrant pedals into the desert to avoid deputies.
+- Surveillance cameras identify suspects in a beer r…
+- ...
+
+### S36E34
+### CP-3631
+
+Aired 2025-06-20. The scene considers this S37E18.
+
+**Packin' Heat**
+
+- (San Bernardino, CA -- 9:33 PM Officer Assistance Call) Officer Jacob Rosales.
+- A suspect resisting arrest tells officers he has a gun in his waist pack.
+- Deputies chase a man on a bike into a backyard.…
+- ...
+
+### S36E35
+### CP-3632
+
+Aired 2025-06-27. The scene considers this S37E19.
+
+**Zoomin' & Schroomin'**
+
+- (San Bernardino, CA -- 7:30 PM Man With A Knife Call) Officer Diego Diaz. A
+  suspect wanted for brandishing a knife squares up with officers.
+- A passenger learns the hard way that a friend offer…
+- ...
+
+### S36E36
+### CP-3633
+
+Aired 2025-08-01. The scene considers this S37E23.
+
+**Stick and Move**
+
+- (Independence, MO -- 11:59 PM Vehicle Pursuit In Progress) Officer Leland
+  La'ulu, Officer Dylan Scheirich. A female driver believes officers 'cheated'
+  by using Stop Sticks to end a pursuit.
+- A man making threats at a gas station is caug…
+- ...
+
+## Season 37
+
+2025-present.
+
+Network: Fox Nation.
+
+### S37E01
+
+Aired 2025-03-07.
+
+**Spring Break: Bridal Party Bailout**
+
+- (Fort Lauderdale, FL -- 12:10 PM Beach Detail) Officer Brayn Bedoya, Officer Juan Correa.
+- A bachelorette party is rescued from a sinking boat.
+- A group of spring breakers is forced to…
+- ...
+
+### S37E02
+
+Aired 2025-03-07.
+
+**Spring Break: Hole Lotta Problems**
+
+- When caught with an open container in Florida, a woman lies about her age.
+- Officer…
+- ...
+
+### S37E03
+
+Aired 2025-03-14.
+
+**Spring Break: Bombed at the Beach**
+
+- Test kits for illicit substances are handed out to beachgoers.
+- K-9 'Delta' conducts bomb d…
+- ...
+
+### S37E04
+
+Aired 2025-03-14.
+
+**Spring Break: Mixed Emotions**
+
+- A man is caught illegally selling mixed drinks to spring breakers.
+- A woman caught two day…
+- ...
+
+### S37E05
+
+Aired 2025-03-21.
+
+**Spring Break: Evicted From Paradise**
+
+- A swimmer in distress is rescued during spring break.
+- Airbnb guests are evicted in K…
+- ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### S37E06
+
+Aired 2025-07-11.
+
+**Stuck On You**
+
+- Stop Sticks are used to end the pursuit of a known criminal.
+- A stuck throttle is blamed fo…
+- ...
+
+### S37E07
+
+Aired 2025-07-18.
+
+**Photo Finish**
+
+- A man steals his girlfriend's truck when she refuses to take him to get methadone.
+- A nerv…
+- ...
+
+### S37E08
+
+Aired 2025-07-25.
+
+**Up, Up and Away**
+
+- A stolen motorcycle leads Deputies up a mountain.
+- Deputies chase a stolen car drive…
+- ...
+
+### S37E09
+
+Aired 2025-09-26.
+
+**Las Vegas: Over the Limit**
+
+- In this Las Vegas Special, Officers pursue an armed suspect in a stolen car.
+- A hit-and-run …
+- ...
+
+### S37E10
+
+Aired 2025-09-26.
+
+**Las Vegas: Dipped & Flipped**
+
+- In this Las Vegas Special, the Air Unit and K-9 'Buddy' help capture a burglary suspect.
+- Bys…
+- ...
+
+### S37E11
+
+Aired 2025-10-03.
+
+**Las Vegas: Fake it til you make it**
+
+- In this Las Vegas Special, A woman claims she was driving a stolen car to get to a birth…
+- ...
+- ...
+
+### S37E12
+
+Aired 2025-10-10.
+
+**Las Vegas: Bus-Ted!**
+
+- A suspect accused of discharging a firearm is caught on a bus.
+- A man caught with a stolen…
+- ...
+
+### S37E13
+
+Aired 2025-10-17.
+
+**Las Vegas: Bossy & Glossy**
+
+- A suspect driving a stolen car is caught with a fake U.S. Marshals vest and a toy gun.
+- A sco…
+- ...
+
+### S37E14
+
+Aired 2025-10-24.
+
+**Mount Up, Takedown**
+
+- A stolen motorcycle leads Deputies up a mountain after failing to lose them in town. …
+- ...
+- ...
+
+### S37E15
+
+Aired 2025-10-31.
+
+**Hit the Gas**
+
+- Deputies PIT a freshly stolen Dodge Magnum.
+- A man observed selling drugs hides a stolen…
+- ...
+
+### S37E16
+
+Aired 2025-11-07.
+
+**Key Takeaways**
+
+- A man steals his girlfriend's truck when she refuses to take him to get methadone.
+- A cus…
+- ...
+
+### S37E17
+
+Aired 2025-11-14.
+
+**Misspent Youth**
+
+- Deputies chase a stolen car driven by a thirteen year old.
+- A suspect complains when…
+- ...
+
+### S37E18
+
+Aired 2025-11-21.
+
+**No Bull Profession**
+
+- Two scantily clad women fight in an area known for prostitution.
+- A traffic stop in Florid…
+- ...
+
+### S37E19
+
+Aired 2025-11-28.
+
+**Fueling Around**
+
+- Suspects wanted for diesel fuel thefts are caught at the pumps.
+- A suspect known for c…
+- ...
+
+### S37E20
+
+Aired 2025-12-05.
+
+**Flee Finder**
+
+- StarChase is used to track a fleeing Mercedes-Benz in Alameda County.
+- Open co…
+- ...
