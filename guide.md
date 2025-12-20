@@ -23894,24 +23894,26 @@ Scene numbering is wrong for season 36/37 because the seasons were airing at the
 | 2025-06-13 | S36E33        | S37E17       | S36E30 (CP-3630)     |                     | Desert Dustup                       |
 | 2025-06-20 | S36E34        | S37E18       | S36E31 (CP-3631)     |                     | Packin' Heat                        |
 | 2025-06-27 | S36E35        | S37E19       | S36E32 (CP-3632)     |                     | Zoomin' & Schroomin'                |
-| 2025-07-11 | S37E06        | S37E20       |                      |                     | Stuck On You                        |
-| 2025-07-18 | S37E07        |              |                      |                     | Photo Finish                        |
-| 2025-07-25 | S37E08        |              |                      |                     | Up, Up and Away                     |
-| 2025-08-01 | S36E36        |              | S36E33 (CP-3633)     |                     | Stick and Move                      |
-| 2025-09-26 | S37E09        |              |                      | S37E06 (CP-3706)    | Las Vegas: Over the Limit           |
-| 2025-09-26 | S37E10        |              |                      | S37E07 (CP-3707)    | Las Vegas: Dipped & Flipped         |
-| 2025-10-03 | S37E11        |              |                      | S37E08 (CP-3708)    | Las Vegas: Fake it til you make it  |
-| 2025-10-10 | S37E12        |              |                      | S37E09 (CP-3709)    | Las Vegas: Bus-Ted!                 |
-| 2025-10-17 | S37E13        |              |                      | S37E10 (CP-3710)    | Las Vegas: Bossy & Glossy           |
-| 2025-10-24 | S37E14        |              |                      | S37E11 (CP-3711)    | Mount Up, Takedown                  |
-| 2025-10-31 | S37E15        |              |                      | S37E12 (CP-3712)    | Hit the Gas                         |
-| 2025-11-07 | S37E16        |              |                      | S37E13 (CP-3713)    | Key Takeaways                       |
-| 2025-11-14 | S37E17        |              |                      | S37E14 (CP-3714)    | Misspent Youth                      |
-| 2025-11-21 | S37E18        |              |                      | S37E15 (CP-3715)    | No Bull Profession                  |
-| 2025-11-28 | S37E19        |              |                      | S37E16 (CP-3716)    | Fueling Around                      |
-| 2025-12-05 | S37E20        |              |                      | S37E17 (CP-3717)    | Flee Finder                         |
+| 2025-07-11 | S37E06        | S37E20       |                      | S37E34 (CP-3734)    | Stuck On You                        |
+| 2025-07-18 | S37E07        | S37E21       |                      | S37E35 (CP-3735)    | Photo Finish                        |
+| 2025-07-25 | S37E08        | S37E22       |                      | S37E36 (CP-3736)    | Up, Up and Away                     |
+| 2025-08-01 | S36E36        | S37E23       | S36E33 (CP-3633)     |                     | Stick and Move                      |
+| 2025-09-26 | S37E09        | S37E24       |                      | S37E06 (CP-3706)    | Las Vegas: Over the Limit           |
+| 2025-09-26 | S37E10        | S37E25       |                      | S37E07 (CP-3707)    | Las Vegas: Dipped & Flipped         |
+| 2025-10-03 | S37E11        | S37E26       |                      | S37E08 (CP-3708)    | Las Vegas: Fake it til you make it  |
+| 2025-10-10 | S37E12        | S37E27       |                      | S37E09 (CP-3709)    | Las Vegas: Bus-Ted!                 |
+| 2025-10-17 | S37E13        | S37E28       |                      | S37E10 (CP-3710)    | Las Vegas: Bossy & Glossy           |
+| 2025-10-24 | S37E14        | S37E29       |                      | S37E11 (CP-3711)    | Mount Up, Takedown                  |
+| 2025-10-31 | S37E15        | S37E30       |                      | S37E12 (CP-3712)    | Hit the Gas                         |
+| 2025-11-07 | S37E16        | S37E31       |                      | S37E13 (CP-3713)    | Key Takeaways                       |
+| 2025-11-14 | S37E17        | S37E32       |                      | S37E14 (CP-3714)    | Misspent Youth                      |
+| 2025-11-21 | S37E18        | S37E33       |                      | S37E15 (CP-3715)    | No Bull Profession                  |
+| 2025-11-28 | S37E19        | S37E34       |                      | S37E16 (CP-3716)    | Fueling Around                      |
+| 2025-12-05 | S37E20        | S37E35       |                      | S37E17 (CP-3717)    | Flee Finder                         |
 
-The production numbers (`CP-xxxx`) in this guide are the official (from Fox Nation) episode numbers.
+The production numbers (`CP-xxxx`) in this guide are the official (from Fox
+Nation) episode numbers. They also match the numbering in the official Cops
+YouTube channel.
 
 The standard episode numbers (`S..E..`) follow episode airing order.
 
@@ -24456,6 +24458,7 @@ Aired 2025-08-01. The scene considers this S37E23.
 Network: Fox Nation.
 
 ### S37E01
+### CP-3701
 
 Aired 2025-03-07.
 
@@ -24467,6 +24470,7 @@ Aired 2025-03-07.
 - ...
 
 ### S37E02
+### CP-3702
 
 Aired 2025-03-07.
 
@@ -24477,6 +24481,7 @@ Aired 2025-03-07.
 - ...
 
 ### S37E03
+### CP-3703
 
 Aired 2025-03-14.
 
@@ -24487,6 +24492,7 @@ Aired 2025-03-14.
 - ...
 
 ### S37E04
+### CP-3704
 
 Aired 2025-03-14.
 
@@ -24497,6 +24503,7 @@ Aired 2025-03-14.
 - ...
 
 ### S37E05
+### CP-3705
 
 Aired 2025-03-21.
 
@@ -24506,35 +24513,10 @@ Aired 2025-03-21.
 - Airbnb guests are evicted in K…
 - ...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### S37E06
+### CP-3734
 
-Aired 2025-07-11.
+Aired 2025-07-11. The scene considers this S37E20.
 
 **Stuck On You**
 
@@ -24543,8 +24525,9 @@ Aired 2025-07-11.
 - ...
 
 ### S37E07
+### CP-3735
 
-Aired 2025-07-18.
+Aired 2025-07-18. The scene considers this S37E21.
 
 **Photo Finish**
 
@@ -24553,8 +24536,9 @@ Aired 2025-07-18.
 - ...
 
 ### S37E08
+### CP-3736
 
-Aired 2025-07-25.
+Aired 2025-07-25. The scene considers this S37E22.
 
 **Up, Up and Away**
 
@@ -24563,8 +24547,9 @@ Aired 2025-07-25.
 - ...
 
 ### S37E09
+### CP-3706
 
-Aired 2025-09-26.
+Aired 2025-09-26. The scene considers this to be S37E24.
 
 **Las Vegas: Over the Limit**
 
@@ -24573,8 +24558,9 @@ Aired 2025-09-26.
 - ...
 
 ### S37E10
+### CP-3707
 
-Aired 2025-09-26.
+Aired 2025-09-26. The scene considers this S37E25.
 
 **Las Vegas: Dipped & Flipped**
 
@@ -24583,8 +24569,9 @@ Aired 2025-09-26.
 - ...
 
 ### S37E11
+### CP-3708
 
-Aired 2025-10-03.
+Aired 2025-10-03. The scene considers this to be S37E26.
 
 **Las Vegas: Fake it til you make it**
 
@@ -24593,8 +24580,9 @@ Aired 2025-10-03.
 - ...
 
 ### S37E12
+### CP-3709
 
-Aired 2025-10-10.
+Aired 2025-10-10. The scene considers this to be S37E27.
 
 **Las Vegas: Bus-Ted!**
 
@@ -24603,8 +24591,9 @@ Aired 2025-10-10.
 - ...
 
 ### S37E13
+### CP-3710
 
-Aired 2025-10-17.
+Aired 2025-10-17. The scene considers this to be S37E28.
 
 **Las Vegas: Bossy & Glossy**
 
@@ -24613,8 +24602,9 @@ Aired 2025-10-17.
 - ...
 
 ### S37E14
+### CP-3711
 
-Aired 2025-10-24.
+Aired 2025-10-24. The scene considers this to be S37E29.
 
 **Mount Up, Takedown**
 
@@ -24623,8 +24613,9 @@ Aired 2025-10-24.
 - ...
 
 ### S37E15
+### CP-3712
 
-Aired 2025-10-31.
+Aired 2025-10-31. The scene considers this to be S37E30.
 
 **Hit the Gas**
 
@@ -24633,8 +24624,9 @@ Aired 2025-10-31.
 - ...
 
 ### S37E16
+### CP-3713
 
-Aired 2025-11-07.
+Aired 2025-11-07. The scene considers this to be S37E31.
 
 **Key Takeaways**
 
@@ -24643,8 +24635,9 @@ Aired 2025-11-07.
 - ...
 
 ### S37E17
+### CP-3714
 
-Aired 2025-11-14.
+Aired 2025-11-14. The scene considers this to be S37E32.
 
 **Misspent Youth**
 
@@ -24653,8 +24646,9 @@ Aired 2025-11-14.
 - ...
 
 ### S37E18
+### CP-3715
 
-Aired 2025-11-21.
+Aired 2025-11-21. The scene considers this to be S37E33.
 
 **No Bull Profession**
 
@@ -24663,8 +24657,9 @@ Aired 2025-11-21.
 - ...
 
 ### S37E19
+### CP-3716
 
-Aired 2025-11-28.
+Aired 2025-11-28. The scene considers this to be S37E34.
 
 **Fueling Around**
 
@@ -24673,8 +24668,9 @@ Aired 2025-11-28.
 - ...
 
 ### S37E20
+### CP-3717
 
-Aired 2025-12-05.
+Aired 2025-12-05. The scene considers this to be S37E35.
 
 **Flee Finder**
 
