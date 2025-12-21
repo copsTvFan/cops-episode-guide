@@ -14399,13 +14399,14 @@ ET/PT) on FOX.
   officers locate and question an inebriated suspect who eventually confirms
   the allegation. When the officers attempt to place the suspect under arrest,
   he becomes hostile and resists arrest. A brief struggle takes place and the
-  suspect is subsequently taken into custody.
+  suspect is subsequently taken into custody. This is a banned segment -- if
+  you have it, please let me know!
 - (Spokane, WA -- 9:26 PM Street Patrol) While on routine patrol in downtown
   Spokane, Sgt. Jason Hartman lends assistance to a male motorist who appears
   to have a stalled vehicle. However, the man immediately flees on foot and a
   chase ensues. As Sgt. Hartman closes in on the suspect, he spots him reaching
   for something in his pocket. Officer Hartman uses his baton on the suspect
-  and ultimately subdues him.
+  and ultimately subdues him. Re-airs as segment 2 of CP-1637.
 - (Harris County, TX -- 8:03 PM Domestic Disturbance) Segment 1 of CP-1032.
   Re-airs as segment 3 of CP-1637.
 
