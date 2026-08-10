@@ -23911,6 +23911,22 @@ Scene numbering is wrong for season 36/37 because the seasons were airing at the
 | 2025-11-21 | S37E18        | S37E33       |                      | S37E15 (CP-3715)    | No Bull Profession                  |
 | 2025-11-28 | S37E19        | S37E34       |                      | S37E16 (CP-3716)    | Fueling Around                      |
 | 2025-12-05 | S37E20        | S37E35       |                      | S37E17 (CP-3717)    | Flee Finder                         |
+| 2026-02-27 | S37E21        | S37E36       |                      | S37E18 (CP-3718)    | Bawl Out                            |
+| 2026-03-06 | S37E22        | S37E37       |                      | S37E19 (CP-3719)    | Up Sticks Creek                     |
+| 2026-03-13 | S37E23        | S37E38       |                      | S37E20 (CP-3720)    | Picture Perfect                     |
+| 2026-03-20 | S37E24        | S37E39       |                      | S37E21 (CP-3721)    | Puppy Protectors                    |
+| 2026-03-27 | S37E25        | S37E40       |                      | S37E22 (CP-3722)    | Double Tapped                       |
+| 2026-04-03 | S37E26        | S37E41       |                      | S37E23 (CP-3723)    | Air 1                               |
+| 2026-04-10 | S37E27        | S37E42       |                      | S37E24 (CP-3724)    | Hide Attack                         |
+| 2026-04-17 | S37E28        | S37E43       |                      | S37E25 (CP-3725)    | Kicks & Quibbles                    |
+| 2026-04-24 | S37E29        | S37E44       |                      | S37E26 (CP-3726)    | Ram-Ble On                          |
+| 2026-05-01 | S37E30        | S37E45       |                      | S37E27 (CP-3727)    | Mace to the Face                    |
+| 2026-05-08 | S37E31        | S37E46       |                      | S37E28 (CP-3728)    | USB Honest                          |
+| 2026-05-15 | S37E32        | S37E47       |                      | S37E29 (CP-3729)    | Chilly With a Chance of Handcuffs   |
+| 2026-05-22 | S37E33        | S37E48       |                      | S37E30 (CP-3730)    | Shoulda Been Delivery               |
+| 2026-05-29 | S37E34        | S37E49       |                      | S37E31 (CP-3731)    | Flingin' Heaters                    |
+| 2026-06-05 | S37E35        | S37E50       |                      | S37E32 (CP-3732)    | Taru Above, 75 Below                |
+| 2026-06-12 | S37E36        | S37E51       |                      | S37E33 (CP-3733)    | Seven Lives Saved                   |
 
 The production numbers (`CP-xxxx`) in this guide are the official (from Fox
 Nation) episode numbers. They also match the numbering in the official Cops
@@ -24452,7 +24468,7 @@ Aired 2025-08-01. The scene considers this S37E23.
 
 ## Season 37
 
-2025-present.
+2025-2026.
 
 Network: Fox Nation.
 
@@ -24464,9 +24480,10 @@ Aired 2025-03-07.
 **Spring Break: Bridal Party Bailout**
 
 - (Fort Lauderdale, FL -- 12:10 PM Beach Detail) Officer Brayn Bedoya, Officer Juan Correa.
-- A bachelorette party is rescued from a sinking boat.
-- A group of spring breakers is forced to…
-- ...
+- A bachelorette party is rescued from a sinking boat
+- A group of spring breakers is forced to pour out liquor
+- A man is caught selling beer from a backpack
+- A boiled peanut vendor drifts toward danger
 
 ### S37E02
 ### CP-3702
@@ -24475,9 +24492,9 @@ Aired 2025-03-07.
 
 **Spring Break: Hole Lotta Problems**
 
-- When caught with an open container in Florida, a woman lies about her age.
-- Officer…
-- ...
+- When caught with an open container in Florida, a woman lies about her age
+- officers ask a group of spring breakers to fill in a huge hole they dug on the beach
+- A man dressed like Rocky is stopped.
 
 ### S37E03
 ### CP-3703
@@ -24486,9 +24503,9 @@ Aired 2025-03-14.
 
 **Spring Break: Bombed at the Beach**
 
-- Test kits for illicit substances are handed out to beachgoers.
-- K-9 'Delta' conducts bomb d…
-- ...
+- Test kits for illicit substances are handed out to beach goers
+- K-9 'Delta' conducts bomb detection drills on the sand
+- A man asks deputies to pose for a picture with his summons for underage drinking.
 
 ### S37E04
 ### CP-3704
@@ -24497,9 +24514,8 @@ Aired 2025-03-14.
 
 **Spring Break: Mixed Emotions**
 
-- A man is caught illegally selling mixed drinks to spring breakers.
-- A woman caught two day…
-- ...
+- A man is caught illegally selling mixed drinks to spring breakers
+- a woman caught two days in a row drinking underage, claims she forgot to wash out her cup.
 
 ### S37E05
 ### CP-3705
@@ -24508,9 +24524,10 @@ Aired 2025-03-21.
 
 **Spring Break: Evicted From Paradise**
 
-- A swimmer in distress is rescued during spring break.
-- Airbnb guests are evicted in K…
-- ...
+- A swimmer in distress is rescued during spring break
+- Airbnb guests are evicted in Key West
+- a street performer tickles the ivories and blocks pedestrians
+- bikini-clad nurses are caught with booze.
 
 ### S37E06
 ### CP-3734
@@ -24520,8 +24537,9 @@ Aired 2025-07-11. The scene considers this S37E20.
 **Stuck On You**
 
 - Stop Sticks are used to end the pursuit of a known criminal.
-- A stuck throttle is blamed fo…
-- ...
+- A stuck throttle is blamed for a motorcycle chase.
+- A suspect with a screwdriver bolts.
+- StarChase is used to track a fleeing Mercedes-Benz.
 
 ### S37E07
 ### CP-3735
@@ -24530,9 +24548,9 @@ Aired 2025-07-18. The scene considers this S37E21.
 
 **Photo Finish**
 
-- A man steals his girlfriend's truck when she refuses to take him to get methadone.
-- A nerv…
-- ...
+- A man steals his girlfriend's truck when she refuses to take him to get methadone
+- a nervous driver flees when he shows a cop a picture of a gun
+- a Jeep gets spiked; deputies PIT a freshly stolen car.
 
 ### S37E08
 ### CP-3736
@@ -24541,9 +24559,9 @@ Aired 2025-07-25. The scene considers this S37E22.
 
 **Up, Up and Away**
 
-- A stolen motorcycle leads Deputies up a mountain.
-- Deputies chase a stolen car drive…
-- ...
+- A stolen motorcycle leads deputies up a mountain
+- deputies chase a stolen car driven by a 13-year-old
+- Kern County's Air Support Unit observes a fleeing suspect ditch his minibike.
 
 ### S37E09
 ### CP-3706
@@ -24552,9 +24570,9 @@ Aired 2025-09-26. The scene considers this to be S37E24.
 
 **Las Vegas: Over the Limit**
 
-- In this Las Vegas Special, Officers pursue an armed suspect in a stolen car.
-- A hit-and-run …
-- ...
+- Officers pursue an armed suspect in a stolen car
+- a hit-and-run driver runs from his truck when it catches fire
+- an uncooperative driver hurls insults at Officers.
 
 ### S37E10
 ### CP-3707
@@ -24563,20 +24581,20 @@ Aired 2025-09-26. The scene considers this S37E25.
 
 **Las Vegas: Dipped & Flipped**
 
-- In this Las Vegas Special, the Air Unit and K-9 'Buddy' help capture a burglary suspect.
-- Bys…
-- ...
+- The Air Unit and K-9 'Buddy' help capture a burglary suspect
+- bystanders help German tourists out of a flipped car
+- a disgruntled woman shatters a patrol vehicle's window.
 
 ### S37E11
 ### CP-3708
 
 Aired 2025-10-03. The scene considers this to be S37E26.
 
-**Las Vegas: Fake it til you make it**
+**Las Vegas: Fake It Till You Make It**
 
-- In this Las Vegas Special, A woman claims she was driving a stolen car to get to a birth…
-- ...
-- ...
+- A woman claims she was driving a stolen car to get to a birthday party
+- a sovereign citizen is caught with a fake plate
+- tourists believe someone is hiding in their Airbnb.
 
 ### S37E12
 ### CP-3709
@@ -24585,9 +24603,9 @@ Aired 2025-10-10. The scene considers this to be S37E27.
 
 **Las Vegas: Bus-Ted!**
 
-- A suspect accused of discharging a firearm is caught on a bus.
-- A man caught with a stolen…
-- ...
+- A suspect accused of discharging a firearm is caught on a bus
+- a man caught with a stolen Kia claims the 'real driver' fled the scene
+- a man claims he punched a wall instead of his girlfriend.
 
 ### S37E13
 ### CP-3710
@@ -24596,9 +24614,9 @@ Aired 2025-10-17. The scene considers this to be S37E28.
 
 **Las Vegas: Bossy & Glossy**
 
-- A suspect driving a stolen car is caught with a fake U.S. Marshals vest and a toy gun.
-- A sco…
-- ...
+- A suspect driving a stolen car is caught with a fake U.S. Marshals vest and a toy gun
+- a scooter operator argues with officers
+- a wheelchair-bound suspect offers donuts during an investigation.
 
 ### S37E14
 ### CP-3711
@@ -24607,9 +24625,9 @@ Aired 2025-10-24. The scene considers this to be S37E29.
 
 **Mount Up, Takedown**
 
-- A stolen motorcycle leads Deputies up a mountain after failing to lose them in town.
-- ...
-- ...
+- A stolen motorcycle leads Deputies up a mountain after failing to lose them in town
+- a man argues with Officers that he made it home and can't be detained
+- a suspect is packing more than just meth.
 
 ### S37E15
 ### CP-3712
@@ -24618,9 +24636,9 @@ Aired 2025-10-31. The scene considers this to be S37E30.
 
 **Hit the Gas**
 
-- Deputies PIT a freshly stolen Dodge Magnum.
-- A man observed selling drugs hides a stolen…
-- ...
+- A man observed selling drugs hides a stolen gun in a wheel well
+- a man admits to having a problem when used balloons
+- a frozen NOS tank is recovered.
 
 ### S37E16
 ### CP-3713
@@ -24629,9 +24647,9 @@ Aired 2025-11-07. The scene considers this to be S37E31.
 
 **Key Takeaways**
 
-- A man steals his girlfriend's truck when she refuses to take him to get methadone.
-- A cus…
-- ...
+- A man steals his girlfriend's truck when she refuses to take him to get methadone
+- a customer in Key West argues with his Russian girlfriend
+- a woman addicted to fentanyl steals her parent's truck.
 
 ### S37E17
 ### CP-3714
@@ -24640,9 +24658,9 @@ Aired 2025-11-14. The scene considers this to be S37E32.
 
 **Misspent Youth**
 
-- Deputies chase a stolen car driven by a thirteen year old.
-- A suspect complains when…
-- ...
+- Deputies chase a stolen car driven by a thirteen-year-old
+- a suspect complains when a security guard pepper-sprays him during a shoplifting attempt
+- a young woman admits to smoking crack cocaine.
 
 ### S37E18
 ### CP-3715
@@ -24651,9 +24669,9 @@ Aired 2025-11-21. The scene considers this to be S37E33.
 
 **No Bull Profession**
 
-- Two scantily clad women fight in an area known for prostitution.
-- A traffic stop in Florid…
-- ...
+- Two scantily clad women fight in an area known for prostitution
+- a traffic stop in Florida turns into a drug investigation when meth is found in a purse
+- Deputies help capture an escaped Brahman bull.
 
 ### S37E19
 ### CP-3716
@@ -24662,9 +24680,9 @@ Aired 2025-11-28. The scene considers this to be S37E34.
 
 **Fueling Around**
 
-- Suspects wanted for diesel fuel thefts are caught at the pumps.
-- A suspect known for c…
-- ...
+- Suspects wanted for diesel fuel thefts are caught at the pumps
+- a suspect known for concealing drugs under his belly and crotch is arrested
+- a man is surprised to learn he's been smoking fentanyl.
 
 ### S37E20
 ### CP-3717
@@ -24673,6 +24691,419 @@ Aired 2025-12-05. The scene considers this to be S37E35.
 
 **Flee Finder**
 
-- StarChase is used to track a fleeing Mercedes-Benz in Alameda County.
-- Open co…
-- ...
+- Tracking a fleeing Mercedes-Benz in Alameda County, CA
+- open containers are found in a car during Spring Break
+- a driver takes his spray-painted jalopy to a car meet.
+
+### CP-3718
+
+Aired 2026-02-27. The scene considers this S37E36.
+
+**Bawl Out**
+
+- A suspect who fled on an unlicensed dirt bike begs to go home
+- a man with a warrant for domestic battery is caught with fentanyl
+- a concerned citizen calls 911 when she observes a rolling domestic.
+
+### CP-3719
+
+Aired 2026-03-06. The scene considers this S37E37.
+
+**Up Sticks Creek**
+
+- Stop Sticks are used to end the pursuit of a man that Deputies have previously arrested
+- two ghost guns are recovered during a traffic stop
+- sisters argue over access to their elderly mother.
+
+### CP-3720
+
+Aired 2026-03-13. The scene considers this S37E38.
+
+**Picture Perfect**
+
+- A driver who scrolled past a picture of a gun flees a traffic stop
+- a female burglary suspect crawls out of the basement on all fours
+- Deputies de-escalate a domestic disturbance in Pierce County.
+
+### CP-3721
+
+Aired 2026-03-20. The scene considers this S37E39.
+
+**Puppy Protectors**
+
+- When a blue Dodge Charger flees, the Air Support Unit takes over the pursuit
+- a man with a felony warrant ditches a crack pipe during his arrest
+- Deputies feed a suspect's puppy during an arrest.
+
+### CP-3722
+
+Aired 2026-03-27. The scene considers this S37E40.
+
+**Double Tapped**
+
+- A less lethal shotgun is used to gain compliance during a call for a man with a gun
+- a driver hides meth and fentanyl in a chocolate milk bottle
+- officers in Peoria, AZ. respond to a house fire.
+
+### CP-3723
+
+Aired 2026-04-03. The scene considers this S37E41.
+
+**Air 1**
+
+- Kern County's Air Support Unit observes a fleeing suspect ditching his minibike
+- an online sex worker claims a client assaulted her
+- cocaine is found on a man causing a disturbance at a family party.
+
+### CP-3724
+
+Aired 2026-04-10. The scene considers this S37E42.
+
+**Hide Attack**
+
+- Stop sticks are used to end a pursuit of a Jeep in South Carolina
+- a suspect hides in a closet and fights with officers
+- a woman caught driving a stolen truck claims she has permission from the owner.
+
+### CP-3725
+
+Aired 2026-04-17. The scene considers this S37E43.
+
+**Kicks & Quibbles**
+
+- A suspect caught assaulting his girlfriend kicks in the witness's door
+- a man is stabbed in the head during an argument with neighbors
+- a female driver refuses to identify herself to avoid jail time.
+
+### CP-3726
+
+Aired 2026-04-24. The scene considers this S37E44.
+
+**Ram-Ble On**
+
+- A man fleeing from an illegal sideshow rams a patrol car
+- a fidgety driver with a meth pipe can't keep his hands out of his pockets
+- two women lie to deputies until a shard of meth reveals the truth.
+
+### CP-3727
+
+Aired 2026-05-01. The scene considers this S37E45.
+
+**Mace to the Face**
+
+- A suspect hides in a crawl space
+- a father is maced when he confronts a man he catches peeping on his daughter
+- an argument over a broken television escalates.
+
+### CP-3728
+
+Aired 2026-05-08. The scene considers this S37E46.
+
+**USB Honest**
+
+- Occupants of a car involved in a pursuit give conflicting stories
+- a woman claims she crashed a Tesla, but a USB drive reveals the truth
+- a woman argues the validity of a restraining order.
+
+### CP-3729
+
+Aired 2026-05-15. The scene considers this S37E47.
+
+**Chilly With a Chance of Handcuffs**
+
+- A suspect claims to have broken into a truck to escape the cold
+- squatters in California provide a fake lease agreement
+- an outreach team connects unhoused individuals with housing and drug treatment.
+
+### CP-3730
+
+Aired 2026-05-22. The scene considers this S37E48.
+
+**Shoulda Been Delivery**
+
+- A man fleeing from a stolen Honda has his hiding spot revealed by his loyal pet
+- a Veteran injured overseas struggles with addiction
+- a driver tells Deputies he started using meth during COVID.
+
+### CP-3731
+
+Aired 2026-05-29. The scene considers this S37E49.
+
+**Flingin' Heaters**
+
+- A drug dealer discards a gun and is caught with a half pound of meth
+- a man refuses to identify himself and becomes combative when detained
+- a female passenger tosses a purse with a gun inside.
+
+### CP-3732
+
+Aired 2026-06-05. The scene considers this S37E50.
+
+**Taru Above, 75 Below**
+
+- Officers with NYPD's 75th Precinct and drone operators with the Technical Assistance Response Unit (TARU) conduct a narcotics sting in Brooklyn.
+
+### CP-3733
+
+Aired 2026-06-12. The scene considers this S37E51.
+
+**Seven Lives Saved**
+
+- NYPD Officers stop a teenager with a concealed gun
+- an angry mob in Brooklyn hogties a man caught breaking into a van.
+
+## Season 38
+
+2026-present.
+
+Network: Fox Nation.
+
+### S38E01
+### CP-3834
+
+Aired 2026-06-19. The scene considers this S37E52.
+
+**End of the Road: Car Chases Special Edition**
+
+- The Air Unit tracks a speeding car.
+- A fleeing SUV hits a dead end and slides down a hill.
+- A suspect crashes and cries.
+- A Grappler stops a chase.
+- TVIs send cars spinning.
+
+### S38E02
+### CP-3835
+
+Aired 2026-06-26. The scene considers this S37E53.
+
+**Tough to Cuff: Resisting Arrest Special Edition**
+
+- A teen ditches a gun.
+- A tense takedown in a park.
+- A suspect is tackled mid-sprint.
+- A brawl over an unflushed toilet.
+- A swampy manhunt.
+- A fence-hopping foot pursuit.
+
+### S38E03
+### CP-3836
+
+Aired 2026-07-03. The scene considers this S37E54.
+
+**Shocking Behavior: Tased and Confused Special Edition**
+
+- A front-yard fight.
+- An armed felon flees.
+- A balcony brawl.
+- A DV suspect hides.
+- A nervous driver is tased.
+- A bicyclist ignores commands.
+- A cuffed suspect runs.
+
+### S38E04
+### CP-3801
+
+Aired 2026-08-07. The scene considers this S38E01.
+
+**Florida Man Strikes Again**
+
+- Bank robbers are caught after a PIT stops a chase.
+- A man claims he bought a stolen bike for $800.
+- Air Unit tracks a stolen car; FHP sets up a TVI.
+
+### S38E05
+### CP-3802
+
+Aired 2026-08-07. The scene considers this S38E02.
+
+**Will Florida Man Ever Learn?**
+
+- A suspect uses antlers as a weapon
+- another in a stolen car claims it was bought
+- A burglar is caught on video confronted by screams and a shotgun.
+
+### S38E06
+### CP-3803
+
+Aired 2026-08-07. The scene considers this S38E03.
+
+**Florida Man Is On The Run**
+
+- A foot chase of a teen leads to recovery of a BB gun and tools.
+- A gun is found in a car
+- a machine gun is recovered from a backpack.
+
+### CP-3804
+
+?
+
+### CP-3805
+
+**Florida Man Can't Win**
+
+- A drug offender flees but is tackled.
+- A father-to-be on probation is caught with a gun.
+- A moving woman is caught with crack cocaine.
+
+### CP-3806
+
+**Lethal Inentions**
+
+- A doorbell video points to a shooter.
+- A teen's drive-by shooting claim doesn't add up.
+- A woman's story and injuries clash.
+
+### CP-3807
+
+**Smash and Go**
+
+- A repeat hit-and-run offender is suspected again.
+- A man hits his friend with a truck.
+- A hit-and-run driver escapes on foot in Peoria, Arizona.
+
+### CP-3808
+
+**S-Lied Into Jail**
+
+- A suspect flees, taking a wrong turn.
+- A man caught with meth blames an unlocked car door.
+- Meth and a creative meth kit are found.
+
+### CP-3809
+
+**The Truth Escapes Me**
+
+- A former football star flees but is tased.
+- Sons defend their mom, then learn she lied.
+- A passenger can't spell her first name.
+
+### CP-3810
+
+**Boosted & Busted**
+
+- A woman caught in a stolen car claims the owner permitted it.
+- Another car from a salvage yard is reported stolen.
+- A man says he bought a stolen car.
+
+### CP-3811
+
+**Kansas Pit-Y**
+
+- In Kansas, a taillight stop leads to a chase and TVI.
+- A cuffed suspect runs but gets tased.
+- A spray-painted car's wild ride ends with spike strips.
+
+### CP-3812
+
+**Wheat Spins**
+
+- Troopers' tinted tag stop ends in a clean TVI.
+- A felon's traffic stop turns into a front-yard wrestling match.
+- A fleeing driver gets teary-eyed.
+
+### CP-3813
+
+**Breakfast Gram**
+
+- Pierce County Deputies chase a dope-sick SUV thief.
+- A stolen mini bike is uncovered at an uncle's house in Kern County.
+- A cyclist admits his breakfast of choice is a gram of heroin in Hayward, CA.
+
+### CP-3814
+
+**Housemating Season**
+
+- Green Bay handles feuding roommates.
+- Manatee County deals with noisy, naked housemates.
+- Lafayette responds to fears of a sibling's relapse.
+
+### CP-3815
+
+**One Fell Swoop**
+
+- Flint Police raid a drug dealer.
+- Hayward Officers discover meth during a traffic stop.
+- An Escambia man says his new truck came with a meth pipe.
+
+### CP-3816
+
+**Meth for the Memories**
+
+- A meth buyer is caught red-handed and refuses to step out of his truck.
+- Deputies find a trove of knives during a stop.
+- A hot-dog-munching suspect is caught with keepsakes from her drug-using days.
+
+### CP-3817
+
+**Crumbs & Punishment**
+
+- Chaos ensues when a driver hits a Sheriff's car.
+- Deputies find meth hidden in a woman's cleavage.
+
+### CP-3818
+
+**Captain of the Ship**
+
+### CP-3819
+
+?
+
+### CP-3820
+
+**Fishy Story**
+
+### CP-3821
+
+**Attic Antics**
+
+### CP-3822
+
+**Barely Making It**
+
+### CP-3823
+
+**Family Batters**
+
+### CP-3824
+
+**Family Holler**
+
+### CP-3825
+
+**Family Friction**
+
+### CP-3826
+
+**Pigsty Meltdown**
+
+### CP-3827
+
+**Chemical Misunderstanding**
+
+### CP-3828
+
+**Shady Roundabout**
+
+### CP-3829
+
+**Flush with Anger**
+
+### CP-3830
+
+**Grappling with Crime**
+
+### CP-3831
+
+**Peppered with Guilt**
+
+### CP-3832
+
+**Sweaty Confessions**
+
+- Lafayette cops box in a wanted driver.
+- Anderson County Deputies bust a sweaty meth-toter fresh from jail.
+- Hillsborough County Deputies face a stonewalling woman with drugs hidden in her makeup case.
+
+### CP-3833
+
+?

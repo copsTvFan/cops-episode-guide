@@ -14,7 +14,7 @@ guide](https://copstvfan.github.io/geocities-copsonfox-archive/). Sadly William
 Improvements over Thrawn's guide:
 
 - contains multiple corrections (especially officer names)
-- contains all new episodes
+- contains all new episodes, up to season 38
 - allows text selection and copying
 - has no ads
 - all episodes are on a single page, allowing for easy and fast text search
